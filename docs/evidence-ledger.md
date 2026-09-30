@@ -11,7 +11,7 @@ Current knowledge boundary: **S01E01**
 | E005 | Allison physically removes an implant she says should already have been removed. | Direct observation + testimony | H | Strong evidence of at least one covert reproductive intervention. |
 | E006 | Relics / old-world objects and historical inquiry are restricted. | Direct observation / institutional rule | H | Strong information-control indicator. |
 | E007 | Saying explicitly that one wants to go outside triggers the cleaning process / enforced exit. | Direct observation | VH | Allison and later Holston treat the wording as legally consequential. |
-| E008 | People inside see a gray, barren exterior on the public display. | Direct observation | VH | Does not authenticate the feed. |
+| E008 | People inside see a gray, barren exterior on the public display. | Direct observation + screenshot evidence | VH | Stored visual evidence now directly documents the barren representation; it still does not authenticate the feed. |
 | E009 | Allison's helmet presents green grass, blue sky, and flying life outside. | Direct observation | VH | Does not authenticate the feed. |
 | E010 | Allison cleans after seeing the lush scene, matching her prearranged signal to Holston that the inside display is false. | Direct observation | H | Strong behavioral link between cleaner perception and cleaning. |
 | E011 | Allison collapses near the tree after exiting. | Direct observation | VH | Cause of collapse remains unknown. |
@@ -26,6 +26,7 @@ Current knowledge boundary: **S01E01**
 
 ## Visual sources
 
+- [Public barren exterior display](../assets/S01E01/screenshots/exterior-barren-display.webp)
 - [HDD year 96](../assets/S01E01/screenshots/hdd-files-year96-overview.png)
 - [HDD year 97](../assets/S01E01/screenshots/hdd-files-year97-overview.png)
 - [Jane Carmody file highlighted](../assets/S01E01/screenshots/hdd-files-year97-jane-carmody-highlight.png)
@@ -37,3 +38,7 @@ Current knowledge boundary: **S01E01**
 - [Tunnel detail](../assets/S01E01/screenshots/silo-tunnel-detail.webp)
 - [Stairs](../assets/S01E01/screenshots/silo-stairs-cross-section.webp)
 - [Upper levels 1–20](../assets/S01E01/screenshots/upper-levels-1-20.jpeg)
+
+## Focused evidence notes
+
+- [S01E01 — Exterior Visual Contradiction](evidence/S01E01-exterior-visual-contradiction.md)
