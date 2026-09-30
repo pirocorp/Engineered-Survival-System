@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **Името `Engineered-Survival-System` започна като работна hypothesis. След S01E02 вече е ясно, че Силозът е силно engineered habitation/control system, изградена върху по-стар construction layer. Survival purpose-ът, exterior reality и истинската история на системата остават отворени.**
+> **Името `Engineered-Survival-System` започна като работна hypothesis. След S01E03 Силозът изглежда като layered habitation/control system, в която current residents поддържат operational layers, без да разбират непременно original/deeper source layers — както при history, така и при energy infrastructure.**
 
 ## Език на проекта
 
@@ -16,36 +16,36 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S01E02**
+**Текуща граница на знанието:** **S01E03**
 
-**Статус на гледане:** **Сезон 1, епизод 2**
+**Статус на гледане:** **Сезон 1, епизод 3**
 
-Не се използва никаква информация от S01E03+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация от S01E04+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S01E02 най-силният работен модел е:
+След S01E03 най-силният работен модел е:
 
-> **Силозът е 144-level engineered habitation system, в която exterior information се подава през несъвместими visual channels, а под официалното Down-deep има скрит Pact-restricted pre-Rebellion construction layer с excavation machine, flooded lower zone и вероятен lower tunnel/door endpoint.**
+> **Силозът е 144-level engineered habitation system с приблизително 10 000 жители, силно vertical social structure, контролирани information/communication channels, hidden sub-Silo construction layer и exterior visual pipeline, който доказано може да показва radically different visual states.**
 
 Ключови установени линии:
 
-- cleaner lush view вече е repeatable при Allison, Jane Carmody и Holston;
-- по време на Holston cleaning public feed-ът едновременно показва barren exterior;
-- public feed-ът има поне partial physical corroboration — Holston достига Allison на мястото, където feed-ът я показва;
-- Holston изпитва distress, сваля helmet-а и умира до Allison;
-- exterior displays са част от broad public information infrastructure;
-- Silo има **144 levels** и regional structure `Up-top / Mids / Down-deep`;
-- Judicial/Sims има видима coercive тежест;
-- post-Rebellion order е приблизително **140 години** стар;
-- mayor journals стигат поне до `Year 97`, което силно свързва institutional chronology с `SILO YEAR 96/97` от HDD 18;
-- Pact изрично забранява достъпа до част от lower infrastructure;
-- зад restriction-а има pre-Rebellion tunnel system и скрит достъп под inhabited Silo;
-- под Down-deep има sealed construction cavity с огромна excavation machine и flooded bottom;
-- George е поддържал hidden workspace/cache там;
-- cache-ът съдържа HDD 18, deleted-file recovery material, relic video camera и документ с handwriting на Allison;
-- George е търсил lower door и оставя message, че е намерил това, което търси;
-- Holston номинира Juliette за successor като Sheriff и оставя badge-а си за нея.
+- cleaner lush view остава repeatable при Allison, Jane Carmody и Holston;
+- public feed normally показва barren exterior;
+- при S01E03 power-down **public display за момент показва lush exterior imagery**;
+- това доказва multiple visual states в public-display pipeline-а, но не доказва кой state е real;
+- Silo има **144 levels**, приблизително **10 000 residents** и regional structure `Up-top / Mids / Down-deep`;
+- Level 50 е Mids и включва significant medical/neonatal infrastructure;
+- Judicial е strongly localized на/около Level 14 чрез adjacent-shot evidence;
+- Juliette family history показва, че vertical travel time създава de facto social separation;
+- suicide се третира като serious crime against Silo;
+- unauthorized/homemade radio е строго забранено от Pact;
+- IT/Bernard се противопоставя на Juliette като Sheriff;
+- Mayor подкрепя/утвърждава Juliette след Holston nomination-а;
+- `SILOMAIL` е centralized digital messaging system;
+- energy chain-ът е `steam from below → turbine → generator → Silo electricity`;
+- current Mechanical personnel не знаят origin-а на primary steam source-а;
+- Mayor умира след apparent deliberate attack/poisoning; motive и perpetrator остават неизвестни.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
@@ -54,13 +54,16 @@
 - [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък текущ модел след последния изгледан епизод.
 - [`docs/episodes/S01E01.md`](docs/episodes/S01E01.md) — episode record за S01E01.
 - [`docs/episodes/S01E02.md`](docs/episodes/S01E02.md) — episode record за S01E02.
+- [`docs/episodes/S01E03.md`](docs/episodes/S01E03.md) — episode record за S01E03.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
 - [`docs/evidence/S01E02-sub-silo-construction-layer.md`](docs/evidence/S01E02-sub-silo-construction-layer.md) — hidden construction layer под Силоза.
+- [`docs/evidence/S01E03-public-display-powerdown-flash.md`](docs/evidence/S01E03-public-display-powerdown-flash.md) — lush visual state на public display при power-down.
 - [`docs/open-questions.md`](docs/open-questions.md) — активните въпроси за falsification / future testing.
 - [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — visual evidence от S01E01.
 - [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — selected visual evidence от S01E02.
+- [`assets/S01E03/screenshots/`](assets/S01E03/screenshots/) — selected visual evidence от S01E03.
 
 ## Основна директива
 
@@ -127,7 +130,7 @@ Population, reproduction, profession, level structure, social mobility, trust, f
 
 **това, в което героите вярват ≠ това, което властите твърдят ≠ това, което показва екранът ≠ това, което е обективно установено**
 
-S01E02 прави това разграничение още по-важно, защото Holston cleaning показва simultaneous incompatible visual channels.
+S01E03 прави това разграничение още по-важно: един и същ public display може да покаже barren state и lush state при различни system conditions.
 
 ## Evidence класове
 
@@ -161,13 +164,13 @@ Confidence не е математическа вероятност и не за�
 
 ## Текущи competing models за външния свят
 
-След S01E02 не избираме окончателно една версия:
+След S01E03 все още не избираме окончателно една версия:
 
 1. **Lush exterior is real** — public display-ът е false/manipulated.
 2. **Barren exterior is substantially real** — cleaner helmet view е overlay/simulation.
 3. **Neither is fully authentic** — и двата visual channels са processed representations.
 
-Model 2 е strengthened след Holston cleaning, защото public feed-ът правилно локализира Allison като physical object. Но липсва direct POV след helmet removal, затова model-ът още не е `Confirmed`.
+S01E03 добавя critical constraint: lush imagery може да се появи и на **public display** при power-down. Това strengthens manipulation/state-switch model-а, но не authenticates нито едната exterior reality.
 
 ## Текущ architectural model
 
@@ -189,6 +192,21 @@ SUB-SILO CONSTRUCTION CAVITY
         └─ flooded bottom
                │
                └─ reported short tunnel + door ?
+```
+
+## Energy model
+
+```text
+UNKNOWN STEAM SOURCE BELOW
+          │
+          ▼
+       TURBINE
+          │
+          ▼
+      GENERATOR
+          │
+          ▼
+   SILO ELECTRICITY
 ```
 
 ## Workflow след всеки епизод
@@ -213,6 +231,7 @@ SUB-SILO CONSTRUCTION CAVITY
 ```text
 episode/S01E01
 episode/S01E02
+episode/S01E03
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -222,4 +241,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S01E03`
+**Следваща knowledge boundary:** `S01E04`
