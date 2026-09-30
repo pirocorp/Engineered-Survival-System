@@ -1,89 +1,89 @@
-# Open Questions
+# Отворени въпроси
 
-Knowledge boundary: **S01E01**
+**Knowledge boundary:** **S01E01**
 
-Questions are grouped by system. No later-episode information is used.
+Въпросите са групирани по системи. Не се използва информация от по-късни епизоди.
 
-## Exterior / cleaning
+## Външен свят / cleaning
 
-1. What is objectively outside the Silo?
-2. Which exterior representation is closer to reality: the barren public display, the lush cleaner view, or neither?
-3. Is the cleaner helmet image live, prerecorded, generated, augmented, or otherwise substituted?
-4. Is the public wall display live, prerecorded, generated, augmented, or otherwise substituted?
-5. Do both visual systems receive the same physical camera feed?
-6. Why do cleaners clean even when they say beforehand that they will not?
-7. Is cleaning behavior deliberately induced by what the cleaner sees?
-8. What actually kills / incapacitates cleaners: atmosphere, radiation, toxin, suit failure, deliberate poisoning, something in the cleaning process, or another cause?
-9. Why does Allison collapse near the tree?
-10. Why does the Jane Carmody recording show the same class of lush scene as Allison sees?
-11. Are visual details in different cleaning recordings identical enough to indicate a reusable overlay?
+1. Какво обективно има извън Силоза?
+2. Кое визуално представяне е по-близо до реалността: мъртвият публичен екран, зелената гледка за cleaner-а или нито едно от двете?
+3. Изображението в шлема на cleaner-а live ли е, prerecorded, generated, augmented или е заменено по друг начин?
+4. Публичният стенен екран live ли е, prerecorded, generated, augmented или е заменен по друг начин?
+5. Получават ли и двете визуални системи feed от една и съща физическа камера?
+6. Защо cleaners чистят дори когато предварително казват, че няма да го направят?
+7. Дали cleaning поведението се предизвиква умишлено чрез това, което cleaner-ът вижда?
+8. Какво всъщност убива / обездвижва cleaners: атмосферата, радиация, токсин, повреда на костюма, умишлено отравяне, нещо в cleaning процеса или друга причина?
+9. Защо Allison пада близо до дървото?
+10. Защо записът на Jane Carmody показва същия тип зелена сцена, която вижда Allison?
+11. Достатъчно идентични ли са визуалните детайли в различните cleaning записи, за да подсказват reusable overlay?
 
-## History / rebellion
+## История / бунт
 
-12. What actually happened during the rebellion approximately 140 years ago?
-13. Did the rebels really destroy the archives, books, and hard drives?
-14. If yes, why were they destroying historical information?
-15. If no, who destroyed or suppressed it and why blame the rebels?
-16. What does the Silo celebrate as the restoration of "freedom"?
-17. Is the visible `06:06:06` timing meaningful or merely visual symbolism?
-18. How old is the Silo itself?
-19. What calendar does `SILO YEAR 96` / `SILO YEAR 97` use, and how does it relate to the current story date?
+12. Какво всъщност се е случило по време на бунта отпреди приблизително 140 години?
+13. Наистина ли бунтовниците са унищожили архивите, книгите и hard drives?
+14. Ако да — защо са унищожавали историческа информация?
+15. Ако не — кой я е унищожил или потиснал и защо вината е прехвърлена върху бунтовниците?
+16. Какво точно празнува Силозът като възстановяване на „свободата“?
+17. Има ли значение видимото `06:06:06`, или е само визуална символика?
+18. На колко години е самият Силоз?
+19. Какъв календар използват `SILO YEAR 96` / `SILO YEAR 97` и как се отнася той към текущото време в историята?
 
-## HDD 18 / technical knowledge
+## HDD 18 / техническо знание
 
-20. Why is hard drive **18** outside normal inventory/accountability?
-21. Who originally owned / created it?
-22. Why does it contain Silo planning and blueprint material?
-23. Why was deleted-file recovery knowledge suppressed by IT?
-24. What other recoverable deleted files remain on the drive?
-25. What exactly does the `SILO_COUNT`-type filename refer to?
-26. Does `SILO_COUNT` indicate multiple Silos, a planning metric, a component count, or something else?
+20. Защо hard drive **18** е извън нормалния inventory/accountability процес?
+21. Кой първоначално го е притежавал / създал?
+22. Защо съдържа материали за планирането и blueprint-и на Силоза?
+23. Защо IT е ограничил knowledge за възстановяване на изтрити файлове?
+24. Какви други възстановими изтрити файлове остават на диска?
+25. Какво точно означава filename от типа `SILO_COUNT`?
+26. `SILO_COUNT` означава ли множество силози, planning metric, component count или нещо друго?
 
-## Hidden architecture
+## Скрита архитектура
 
-27. What is the tunnel shown near/below the bottom of the Silo?
-28. Where does it lead?
-29. Is it physically accessible from Mechanical or another level?
-30. Why is the relevant drawing marked `CLASSIFIED`?
-31. Who is authorized to know about it?
-32. Does the public Silo map deliberately omit important infrastructure?
+27. Какво представлява тунелът, показан близо до / под дъното на Силоза?
+28. Къде води?
+29. Физически достъпен ли е от Mechanical или от друго ниво?
+30. Защо съответният чертеж е маркиран `CLASSIFIED`?
+31. Кой има право да знае за него?
+32. Умишлено ли публичната карта на Силоза пропуска важна инфраструктура?
 
-## Population / reproduction
+## Популация / репродукция
 
-33. How are reproductive permits awarded?
-34. Why does the wider community appear to know who has permission to try for a child?
-35. Why was Allison's contraceptive implant apparently left in place after approval?
-36. Who can order a covert denial of reproduction?
-37. Was Allison specifically selected not to reproduce, or is the permit process partly theatrical?
-38. Are there population-control mechanisms beyond the implant system?
-39. Is reproduction based only on resource limits, or also on genetics, profession, social status, behavior, or another criterion?
+33. Как се раздават разрешенията за репродукция?
+34. Защо по-широката общност изглежда знае кой има разрешение да опита за дете?
+35. Защо контрацептивният имплант на Allison очевидно е останал на място след одобрението?
+36. Кой може да нареди скрит отказ на репродуктивната възможност?
+37. Allison конкретно ли е била избрана да не се размножава, или permit process-ът е частично театрален?
+38. Има ли други механизми за population control освен имплантите?
+39. Репродукцията определя ли се само от ограниченията на ресурсите, или също от genetics, професия, social status, поведение или друг критерий?
 
-## Governance / surveillance
+## Управление / surveillance
 
-40. What is the exact division of power between the Sheriff, Judicial, IT, and Mechanical?
-41. Who has ultimate authority over the Pact?
-42. Who interprets or changes the Pact?
-43. How extensive is Judicial surveillance?
-44. Are private conversations / homes monitored?
-45. Does IT merely administer technology, or does it exercise hidden political authority through information access?
-46. Why are relics prohibited so strongly?
-47. Why is historical inquiry treated as dangerous?
+40. Какво е точното разпределение на властта между Sheriff's Department, Judicial, IT и Mechanical?
+41. Кой има върховна власт над Пакта?
+42. Кой тълкува или променя Пакта?
+43. Колко широко е surveillance-ът на Judicial?
+44. Наблюдават ли се частни разговори / домове?
+45. IT само администрира ли технологията, или упражнява скрита политическа власт чрез достъпа до информация?
+46. Защо relics са толкова строго забранени?
+47. Защо историческото проучване се третира като опасно?
 
 ## George Wilkins
 
-48. Did George die by suicide as officially reported?
-49. Why was he transferred to Mechanical?
-50. What did he know from HDD 18 that may have made him dangerous?
-51. What evidence causes Juliette Nichols to dispute the official account?
-52. Was George's death connected to the hard drive investigation?
+48. Наистина ли George е починал чрез самоубийство, както твърди официалната версия?
+49. Защо е бил прехвърлен в Mechanical?
+50. Какво е научил от HDD 18, което може да го е направило опасен?
+51. Какъв evidence кара Juliette Nichols да оспорва официалния разказ?
+52. Свързана ли е смъртта на George с разследването на hard drive-а?
 
-## Physical / social design
+## Физически / социален дизайн
 
-53. Why is vertical movement dependent on stairs rather than elevators?
-54. Is this purely engineering/resource design, or does slow movement between levels also serve social-control functions?
-55. How socially isolated are the upper, middle, and lower levels from each other?
-56. How much does profession determine where a person lives and whom they interact with?
+53. Защо вертикалното придвижване зависи от стълби вместо от асансьори?
+54. Това чисто инженерно / ресурсно решение ли е, или бавното придвижване между нивата има и функция за social control?
+55. Колко социално изолирани са горните, средните и долните нива едни от други?
+56. До каква степен професията определя къде живее човек и с кого взаимодейства?
 
-## Core project question
+## Основен въпрос на проекта
 
-57. Is the Silo's authoritarian control primarily a genuine survival necessity, an institutional system that has outlived its original purpose, a deliberate deception, or some combination of all three?
+57. Авторитарният контрол в Силоза основно реална необходимост за оцеляване ли е, институционална система, надживяла първоначалната си цел, умишлена измама, или комбинация от трите?

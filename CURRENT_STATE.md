@@ -1,79 +1,79 @@
-# Current State — after S01E01
+# Текущо състояние — след S01E01
 
 **Knowledge boundary:** `S01E01`
 
-## Working model
+## Работен модел
 
-The Silo is demonstrably an **engineered survival environment** with centralized control over population, information, law, critical infrastructure, and access to the exterior.
+Силозът е очевидно **проектирана среда за оцеляване** с централизиран контрол върху популацията, информацията, правото, критичната инфраструктура и достъпа до външния свят.
 
-That does **not** yet tell us whether the current governing system is honest about the danger outside or whether its controls remain necessary.
+Това **все още не ни казва** дали настоящата управляваща система е честна относно опасността навън или дали всички нейни механизми за контрол продължават да са необходими.
 
-The strongest new model after S01E01 is:
+Най-силният работен модел след S01E01 е:
 
-> **The Silo's inhabitants are embedded in a controlled information system in which the exterior cannot yet be independently observed. At least one visual representation of the outside is manipulated or substituted.**
+> **Обитателите на Силоза живеят в контролирана информационна система, в която външният свят засега не може да бъде независимо наблюдаван. Поне едно от визуалните представяния на външния свят е манипулирано или заменено.**
 
-## High-confidence observations
+## Наблюдения с висок confidence
 
-- Historical knowledge is severely incomplete.
-- The official explanation blames the rebellion for destroying historical records.
-- The Pact is a foundational rule/law system.
-- Reproduction is administratively authorized and technically enforced through contraceptive implants.
-- Allison's retained implant demonstrates at least one covert discrepancy between public authorization and biological reality.
-- Relics and historical knowledge are restricted.
-- Explicitly asking to go outside has binding legal consequences.
-- The public display shows a barren exterior.
-- Allison's helmet shows a lush exterior.
-- Jane Carmody's older cleaning file also shows lush exterior imagery.
-- Allison cleans after seeing the lush scene, then collapses near the tree.
-- HDD 18 contains deleted historical/technical material, including Silo blueprints.
-- The blueprint material contains a classified lower tunnel.
+- Историческото знание е силно непълно.
+- Официалното обяснение обвинява бунта за унищожаването на историческите архиви.
+- Пактът е основополагаща система от правила/закони.
+- Репродукцията се разрешава административно и се налага технически чрез контрацептивни импланти.
+- Останалият в Allison имплант доказва поне едно скрито несъответствие между публично дадено разрешение и биологическата реалност.
+- Relics и историческото знание са ограничени.
+- Изричното заявяване на желание за излизане навън има обвързващи правни последици.
+- Публичният екран показва мъртъв/безжизнен външен свят.
+- Шлемът на Allison показва зелен и жив външен свят.
+- По-старият cleaning файл на Jane Carmody също показва зелена външна среда.
+- Allison чисти, след като вижда зелената сцена, а след това пада близо до дървото.
+- HDD 18 съдържа изтрити исторически/технически материали, включително чертежи на Силоза.
+- Чертежите съдържат classified тунел в долната част на структурата.
 
-## Active hypotheses
+## Активни hypotheses
 
 | ID | Hypothesis | Confidence |
 |---|---|---:|
-| H0 | Silo is an engineered survival system. | H |
-| H1 | The exterior visual-information pipeline is deliberately manipulated. | H |
-| H2 | The lush cleaner view is objectively real. | L |
-| H3 | The barren public view is substantially real and the lush cleaner view is an overlay. | M |
-| H4 | Cleaning is behaviorally engineered by what cleaners are shown. | M |
-| H5 | Reproductive selection is covertly manipulated beyond the stated permit process. | H |
-| H6 | The post-rebellion order intentionally suppresses historical / technical knowledge. | H |
-| H7 | The official rebellion account is incomplete or misleading. | M |
-| H8 | Judicial conducts hidden surveillance beyond ordinary enforcement. | L |
-| H9 | George Wilkins may have been murdered. | L |
-| H10 | `SILO_COUNT` may imply multiple Silos. | VL |
-| H11 | The classified tunnel connects to an undisclosed external/internal system. | L |
+| H0 | Силозът е проектирана система за оцеляване. | H |
+| H1 | Exterior visual-information pipeline-ът се манипулира умишлено. | H |
+| H2 | Зелената гледка, показвана на cleaners, е обективно реална. | L |
+| H3 | Мъртвата гледка на публичния екран е до голяма степен реална, а зелената гледка за cleaners е overlay. | M |
+| H4 | Cleaning поведението е умишлено engineered чрез това, което се показва на cleaners. | M |
+| H5 | Репродуктивният подбор се манипулира скрито отвъд официалния permit process. | H |
+| H6 | Следбунтовият ред умишлено потиска историческо и техническо знание. | H |
+| H7 | Официалният разказ за бунта е непълен или подвеждащ. | M |
+| H8 | Judicial извършва скрито наблюдение отвъд обичайното правоприлагане. | L |
+| H9 | George Wilkins може да е бил убит. | L |
+| H10 | `SILO_COUNT` може да подсказва съществуването на повече от един Силоз. | VL |
+| H11 | Classified тунелът води към неразкрита външна или вътрешна система. | L |
 
-## Exterior model — do not collapse prematurely
+## Модел за външния свят — без преждевременно заключение
 
-Three models remain open:
+Три competing models остават отворени:
 
-1. **Lush is real** — the inside display is false.
-2. **Barren is real** — the cleaner helmet is showing a synthetic / altered scene.
-3. **Neither feed is fully authentic** — both are processed representations.
+1. **Зелената гледка е реална** — публичният екран е фалшив.
+2. **Мъртвата гледка е реална** — шлемът на cleaner-а показва синтетична/променена сцена.
+3. **Нито един feed не е напълно автентичен** — и двете са обработени представяния.
 
-The current evidence is insufficient to choose conclusively among them.
+Наличният evidence все още не е достатъчен, за да изберем убедително между тях.
 
 ![Jane Carmody cleaning](assets/S01E01/screenshots/jane-carmody-cleaning.png)
 
-## Key architectural clue
+## Ключова архитектурна улика
 
-The Silo blueprint includes a lower tunnel associated with classified material. Its destination and function are unknown.
+Чертежът на Силоза включва долен тунел, свързан с classified материал. Неговата посока и функция са неизвестни.
 
 ![Classified tunnel](assets/S01E01/screenshots/silo-tunnel-classified.webp)
 
-## Immediate watch targets for S01E02
+## Непосредствени watch targets за S01E02
 
-- independent evidence about the exterior;
-- technical details of suits, helmets, cameras, air, or cleaning;
-- evidence about the lower tunnel;
-- details of George Wilkins' death;
-- actual powers of Judicial and IT;
-- criteria behind reproductive authorization;
-- additional historical records that can test the official rebellion narrative.
+- независимо evidence за външния свят;
+- технически подробности за костюмите, шлемовете, камерите, въздуха или cleaning процеса;
+- evidence за долния тунел;
+- подробности за смъртта на George Wilkins;
+- реалните правомощия на Judicial и IT;
+- критериите за разрешаване на репродукция;
+- допълнителни исторически записи, с които може да се тества официалният разказ за бунта.
 
-See:
+Виж също:
 
 - [`docs/episodes/S01E01.md`](docs/episodes/S01E01.md)
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md)
