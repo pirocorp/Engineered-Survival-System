@@ -24,3 +24,7 @@
 | `power-outage-dark-silo.jpeg` | Worldbuilding / outage state | Silo при основно изключено осветление; хората използват локални/portable светлини. | `IMG_AD0DB767-4EB6-4B0B-8364-F45D801D6B44.jpeg` |
 | `silo-generator-scale-and-steam.jpeg` | Infrastructure / scale | Мащабът на turbine-generator assembly; хората отпред дават scale. | `IMG_7E5B48F0-06DF-4118-BD6A-6753B2CA7778.jpeg` |
 | `generator-open-internal-assembly.jpeg` | Infrastructure / technical structure | Отворен turbine/generator assembly с видими вътрешни секции и servicing structure. | `IMG_0ED3204E-F832-405D-8F9F-EC650709CE2C.jpeg` |
+
+## Cleanup v2
+
+Conservative recrop from the original user-provided photos to reduce room/bezel and keep evidence details intact. No generative fill, object removal, AI reconstruction, or content editing.

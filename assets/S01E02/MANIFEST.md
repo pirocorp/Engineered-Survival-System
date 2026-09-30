@@ -25,3 +25,7 @@
 | `allison-handwriting-on-recovery-document.jpg` | Document bearing handwriting identified by Holston as Allison's. | `IMG_E420050B-74AC-4300-86EF-1017CF55B79A.jpeg` |
 | `mayor-140-years-post-rebellion-peace.jpg` | Dialogue: the post-rebellion peace has lasted 140 years. | `IMG_B380491B-0032-4761-A985-B3963A327446.jpeg` |
 | `silo-144-levels.jpg` | Dialogue explicitly references descending 144 levels. | `IMG_DD6DDDFD-54B1-4E4D-A68F-9E43F9E5778D.jpeg` |
+
+## Cleanup v2
+
+Conservative recrop from the original user-provided photos to reduce room/bezel and keep evidence details intact. No generative fill, object removal, AI reconstruction, or content editing.
