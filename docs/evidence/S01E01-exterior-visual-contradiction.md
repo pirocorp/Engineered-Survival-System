@@ -1,69 +1,69 @@
-# S01E01 — Exterior Visual Contradiction
+# S01E01 — Противоречие във визуалните представяния на външния свят
 
-**Knowledge boundary:** `S01E01 only`
+**Knowledge boundary:** `само S01E01`
 
-This note records the direct visual pair that defines the main exterior mystery after S01E01.
+Тази бележка записва директната визуална двойка, която определя основната загадка за външния свят след S01E01.
 
-## A. Public display inside the Silo
+## A. Публичният екран вътре в Силоза
 
-The public display presents the exterior as gray, barren, and apparently lifeless.
+Публичният екран представя външния свят като сив, мъртъв и очевидно безжизнен.
 
-![Public barren exterior display](../../assets/S01E01/screenshots/exterior-barren-display.webp)
+![Публичен екран с мъртвия външен свят](../../assets/S01E01/screenshots/exterior-barren-display.webp)
 
-### What this proves
+### Какво доказва това
 
-- people inside are shown a barren exterior representation;
-- the image includes the familiar tree / exterior landmark area;
-- the public display is a concrete visual source, not merely a character description.
+- хората вътре виждат мъртво/безжизнено визуално представяне на външния свят;
+- изображението включва познатото дърво / зоната на външния landmark;
+- публичният екран е конкретен visual source, а не просто описание от герой.
 
-### What this does not prove
+### Какво това не доказва
 
-- that the public display is live;
-- that the image is unprocessed;
-- that the barren representation is the objectively real exterior;
-- that the visible body / figure and landscape are being shown without manipulation.
+- че публичният екран е live;
+- че изображението е необработено;
+- че мъртвото представяне е обективно реалният външен свят;
+- че видимото тяло / фигура и пейзажът се показват без манипулация.
 
 ---
 
-## B. Jane Carmody cleaning recording
+## B. Cleaning записът на Jane Carmody
 
-HDD #18 contains an older file labeled `JANE CARMODY CLEANING`. Its exterior representation is lush: green ground, blue sky, and a healthy-looking tree.
+HDD #18 съдържа по-стар файл с име `JANE CARMODY CLEANING`. Неговото представяне на външния свят е зелено: зелена земя, синьо небе и здраво изглеждащо дърво.
 
 ![Jane Carmody cleaning](../../assets/S01E01/screenshots/jane-carmody-cleaning.png)
 
-### What this proves
+### Какво доказва това
 
-- lush exterior imagery existed in the cleaning system before Allison's cleaning;
-- the lush representation is not unique to Allison's subjective experience;
-- two incompatible visual representations of the same general exterior environment exist within Silo-controlled information systems.
+- зелено изображение на външния свят е съществувало в cleaning системата още преди излизането на Allison;
+- зеленото представяне не е уникално за субективното преживяване на Allison;
+- две несъвместими визуални представяния на една и съща обща външна среда съществуват в информационни системи, контролирани от Силоза.
 
-### What this does not prove
+### Какво това не доказва
 
-- that Jane Carmody's image is live;
-- that the lush representation is objectively real;
-- that the recording is an unmodified camera feed rather than an overlay, simulation, or processed image.
+- че изображението на Jane Carmody е live;
+- че зеленото представяне е обективно реално;
+- че записът е непроменен camera feed, а не overlay, simulation или processed image.
 
 ---
 
-## Comparison
+## Сравнение
 
-| Source | Representation | Authentication status |
+| Източник | Представяне | Authentication status |
 |---|---|---|
-| Public Silo display | Gray / barren / dead-looking | Unauthenticated |
-| Jane Carmody cleaning file | Green / blue / living-looking | Unauthenticated |
-| Allison's cleaner helmet | Green / blue / living-looking | Unauthenticated |
+| Публичен екран на Силоза | Сиво / мъртво / безжизнено | Unauthenticated |
+| Cleaning файл на Jane Carmody | Зелено / синьо / изглеждащо живо | Unauthenticated |
+| Шлемът на Allison като cleaner | Зелено / синьо / изглеждащо живо | Unauthenticated |
 
-The visual pair strengthens the episode-level conclusion:
+Тази визуална двойка засилва episode-level заключението:
 
-> **The exterior visual-information pipeline cannot yet be trusted as a transparent representation of reality.**
+> **Exterior visual-information pipeline-ът все още не може да се приема като прозрачно представяне на реалността.**
 
-It does **not** resolve which competing exterior model is correct.
+Тя **не** решава кой competing model за външния свят е правилен.
 
-## Effect on active hypotheses
+## Ефект върху активните hypotheses
 
-- **H1 — exterior visual-information pipeline is deliberately manipulated:** remains `H`; now has direct archived visual evidence for both incompatible representations.
-- **H2 — lush exterior is real:** no confidence change.
-- **H3 — barren exterior is real / lush cleaner view is an overlay:** no confidence change.
-- **Model C — neither feed is fully trustworthy:** remains a strong competing explanation.
+- **H1 — exterior visual-information pipeline-ът се манипулира умишлено:** остава `H`; вече има директен архивиран visual evidence за двете несъвместими представяния.
+- **H2 — зеленият външен свят е реален:** без промяна на confidence.
+- **H3 — мъртвият външен свят е реален / зелената гледка на cleaner-а е overlay:** без промяна на confidence.
+- **Model C — нито един feed не е напълно надежден:** остава силно competing explanation.
 
-The new screenshot strengthens the **evidence quality**, not one side of the exterior-truth dispute.
+Новият screenshot повишава **качеството на evidence-а**, а не силата на едната страна в спора коя версия на външния свят е истинска.
