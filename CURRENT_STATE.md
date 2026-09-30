@@ -1,39 +1,77 @@
-# Текущо състояние — след S01E03
+# Текущо състояние — след S01E04
 
-**Knowledge boundary:** `S01E03`
+**Knowledge boundary:** `S01E04`
 
 ## Работен модел
 
-След S01E03 Силозът изглежда още по-силно като **layered engineered system**, в която physical infrastructure, information control и social geography са тясно свързани.
+След S01E04 Силозът изглежда още по-силно като **layered engineered habitation/control system**, в която physical architecture, resource scarcity, information restrictions и institutional competition се подсилват взаимно.
 
-Най-силният нов datapoint е power-down flash-ът: public display, който нормално показва barren exterior, за момент показва lush exterior imagery. Това доказва, че lush representation съществува и в public-display visual pipeline-а.
+S01E03 показа, че residents поддържат critical systems, без непременно да разбират deeper/original source layers. S01E04 добавя друга страна на същия модел: **formal offices и succession positions имат реална power value**, а материалните ресурси се връщат към centralized recycling/redistribution loop.
 
-Паралелно S01E03 показва, че current Mechanical operators не знаят откъде идва primary steam source-ът, който задвижва turbine/generator system-а.
-
-> **Силозът се поддържа от хора, които разбират operational layers, но не непременно original/deeper source layers — както при history, така и при energy infrastructure.**
+> **Silo не е само затворена физическа среда; това е затворена operational, informational, social и material ecosystem, в която достъпът до position, information, movement и durable goods е структуриран и контролиран.**
 
 ---
 
 ## Наблюдения с висок confidence
+
+### Population / geography
 
 - Silo има приблизително **10 000 жители**.
 - Silo има **144 levels**.
 - `Up-top / Mids / Down-deep` са реални regional/social labels.
 - Level 50 е в Mids и включва medical/neonatal infrastructure.
 - Judicial се намира на/около Level 14 според adjacent-shot sequence.
-- Juliette идва от семейство в Mids; баща ѝ е лекар на Level 50.
-- Почти 100 levels разлика до Mechanical правят family contact практически труден в рамките на един почивен ден.
-- В Silo има large indoor green/communal spaces с restaurant/seating.
-- Suicide се третира като serious crime against the Silo.
-- Unauthorized/homemade radio е строго забранено от Pact.
-- Bernard/IT се противопоставя Juliette да стане Sheriff и използва old insulation-tape theft срещу нея.
-- Mayor подкрепя/утвърждава Juliette като Sheriff след Holston nomination-а.
-- `SILOMAIL` е централизирана digital messaging system.
+- Най-добрият current spatial model поставя Sheriff’s Department и cleaning/airlock access в най-горния Up-top / Level 1 security-administrative complex.
+- Нямаме evidence за `Level 0`.
+
+### Juliette / family
+
+- Бащата на Juliette е лекар в Mids / Level 50.
+- Майката на Juliette също е била medical professional / medical worker.
+- Juliette е имала брат.
+- Juliette обвинява баща си за загубата на майка си и брат си.
+- Този family rupture мотивира Juliette да напусне Mids/family environment и да отиде в Mechanical.
+- Почти 100 levels разлика между баща ѝ и Mechanical правят contact practically difficult в рамките на един day off.
+
+### Governance / succession
+
+- Bernard/IT се противопоставя Juliette да стане Sheriff.
+- Mayor подкрепя/утвърждава Juliette след Holston nomination-а.
+- Judicial също се противопоставя на Juliette и предпочита друг/preferred candidate.
+- Sheriff succession е direct institutional power contest.
+- Mayor умира след apparent deliberate attack/poisoning.
+- Deputy Sheriff умира при apparent suspicious circumstances в S01E04.
+- Perpetrator(s), mechanism и motive(s) не са установени.
+
+### George investigation
+
+- Juliette вече има достъп до official institutional file/dossier за George.
+- Това позволява бъдещо сравнение между official record и George cache/messages/HDD context.
+- Самото наличие на file не доказва murder и H9 остава low confidence.
+
+### Exterior visual pipeline
+
+- Cleaner lush view остава repeatable при Allison, Jane Carmody и Holston.
+- Public display normally показва barren exterior.
+- S01E03 power-down доказа, че същият public display може за момент да покаже lush exterior imagery.
+- S01E04 показва normal **night state** на public barren representation.
+- Следователно public visual pipeline е dynamic и има multiple presentation states.
+- Нито lush, нито barren representation е independently authenticated като objective reality.
+
+### Resources / economy
+
+- Бележка към new occupant инструктира unwanted belongings на previous tenant да бъдат изпратени в recycling за **proper redistribution**.
+- Това подкрепя centralized closed-loop model за durable material use: return/recycling → redistribution → reuse.
+- Не е ясно дали residents имат strong private ownership върху durable goods или по-скоро assigned/use rights.
+
+### Energy / communication / control
+
+- `SILOMAIL` е centralized digital messaging system.
 - Mayor може да нареди planned **8-hour power outage**.
 - Primary steam идва отдолу и задвижва turbine → generator → Silo electricity.
 - Mechanical personnel не знаят точния origin на steam source-а.
-- При power-down public display за момент показва **lush exterior imagery**.
-- Mayor умира след apparent deliberate attack/poisoning; извършител и motive не са установени.
+- Unauthorized/homemade radio е строго забранено от Pact.
+- Suicide се третира като serious crime against the Silo.
 
 ---
 
@@ -59,11 +97,13 @@
 | H15 | `SILO YEAR 96/97` и mayor journals използват един и същ post-Rebellion calendar. | H | Active |
 | H16 | Current order съзнателно държи original construction layer извън normal access. | H | Active |
 | H17 | Judicial/Sims има coercive enforcement функция отвъд pure adjudication. | M | Active |
-| H18 | Липсата на бърз vertical transport създава de facto social segregation. | H | Active |
+| H18 | Липсата на бърз vertical transport създава de facto social segregation. | H | Strengthened |
 | H19 | Suicide law отразява collective claim върху individual life/resource. | M | Active |
 | H20 | Unauthorized communication се ограничава, за да остане inter-level communication в controlled channels. | M | Active |
-| H21 | Убийството на Mayor е свързано с appointment-а на Juliette. | M | Candidate / Active |
+| H21 | Violence around Mayor/Sheriff leadership може да е свързано с appointment/control conflict около Juliette. | M | Strengthened |
 | H22 | Silo зависи от deeper legacy energy infrastructure, която current operators не разбират напълно. | H | Active |
+| H23 | Sheriff succession е institutional power contest; Judicial се опитва да наложи preferred/aligned кандидат вместо Juliette. | H | Active |
+| H24 | Silo поддържа centralized circular resource economy с recycling/redistribution на durable goods. | H | Active |
 
 ---
 
@@ -79,70 +119,106 @@ Public display-ът е false/manipulated, cleaner view е real.
 
 Public feed е по-близо до physical reality; lush imagery е overlay/simulation.
 
-**Status:** остава strong, но S01E03 не го доказва.
+**Status:** остава strong, но не е confirmed.
 
 ### Model C — neither feed is fully authentic
 
-И двата channels са processed.
+И двата channels са processed representations.
 
-**Status:** остава fully viable.
+**Status:** fully viable.
 
-### S01E03 correction
+### S01E04 update
 
-Power-down flash-ът доказва, че **public display itself може да покаже lush state**.
+Night-state public display показва, че barren representation е **dynamic**, не static image.
 
-![Lush flash](assets/S01E03/screenshots/public-display-lush-flash-during-powerdown.jpeg)
-
-Това strengthens H1, но не authenticates нито lush, нито barren world.
+Това не променя основния epistemic problem: dynamic feed може да бъде live, processed live, prerecorded или synthesized.
 
 ---
 
-## Energy model
+## Governance model
+
+Най-силният current governance model е:
 
 ```text
-UNKNOWN STEAM SOURCE BELOW
-          │
-          ▼
-       TURBINE
-          │
-          ▼
-      GENERATOR
-          │
-          ▼
-   SILO ELECTRICITY
+Mayor / civic executive
+        │
+        ├─ Sheriff succession / law-enforcement autonomy ?
+        │       ▲
+        │       │ contested
+        │       ▼
+        ├─ Judicial / Sims
+        │
+        └─ IT / Bernard
 ```
 
-![Steam source](assets/S01E03/screenshots/generator-steam-source-unknown-from-below.jpeg)
+S01E04 показва, че поне IT и Judicial имат direct interest в Sheriff appointment-а.
 
-Ключова epistemic граница: знаем operational chain-а, но **не знаем primary source-а на steam**.
+Не знаем дали conflict-ът е:
 
----
-
-## Social geography update
-
-S01E03 дава първия direct human example за vertical segregation:
-
-`Level 50 doctor father → nearly 100 levels → Juliette in Mechanical`
-
-Един почивен ден не стига за round-trip visit. Това превръща architecture в social constraint.
+- formal constitutional division;
+- informal political competition;
+- covert control struggle;
+- комбинация.
 
 ---
 
-## Immediate watch targets за S01E04
+## Resource model
 
-- кой е убил Mayor и какъв е motive-ът;
-- дали Juliette appointment-ът остава валиден;
-- Bernard/IT и Judicial reaction към новия Sheriff;
-- дали някой е забелязал lush flash-а на public display;
-- technical explanation за multiple exterior visual states;
-- origin на steam source-а;
-- George death / lower-door investigation;
-- scope и enforcement на radio prohibition;
-- consequences от suicide-as-crime rule.
+```text
+assigned / used durable item
+          │
+          ▼
+    return / recycling
+          │
+          ▼
+ sorting / redistribution
+          │
+          ▼
+       reuse
+```
+
+Това е logical adaptation за closed environment, но extent-ът на centralized ownership/control остава open.
+
+---
+
+## Juliette trajectory
+
+S01E04 затваря един стар open question:
+
+`Mids medical family → family loss/conflict → deliberate move down → Mechanical`
+
+Това прави Juliette movement-а social/emotional rupture, не просто profession transfer.
+
+Сега investigation trajectory е:
+
+`George personal history/cache`
+
+→ `Juliette becomes Sheriff`
+
+→ `access to official George file`
+
+→ `possible comparison of official vs independent evidence`
+
+---
+
+## Immediate watch targets за S01E05
+
+- exact cause/mechanism на Deputy Sheriff death;
+- common link между Mayor и Deputy deaths;
+- дали succession conflict е motive;
+- Judicial preferred Sheriff candidate и formal authority;
+- какво пише в George official file;
+- first concrete inconsistency между George file и physical evidence;
+- exact cause of death / history на Juliette mother and brother;
+- role/responsibility на Juliette father;
+- дали public night exterior representation има live-camera properties;
+- exact spatial relation Level 1 / Sheriff / airlock;
+- governance на recycling/redistribution system-а;
+- ownership rights върху housing/items.
 
 Виж също:
 
-- [`docs/episodes/S01E03.md`](docs/episodes/S01E03.md)
-- [`docs/evidence/S01E03-public-display-powerdown-flash.md`](docs/evidence/S01E03-public-display-powerdown-flash.md)
+- [`docs/episodes/S01E04.md`](docs/episodes/S01E04.md)
+- [`docs/evidence/S01E04-sheriff-succession-and-control.md`](docs/evidence/S01E04-sheriff-succession-and-control.md)
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md)
 - [`docs/open-questions.md`](docs/open-questions.md)
