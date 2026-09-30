@@ -1,44 +1,44 @@
-# Evidence Ledger
+# Evidence регистър
 
-Current knowledge boundary: **S01E01**
+Текуща **knowledge boundary:** **S01E01**
 
-| ID | Evidence | Class | Confidence | Notes |
+| ID | Evidence | Клас | Confidence | Бележки |
 |---|---|---|---:|---|
-| E001 | Population openly lacks knowledge of why the Silo exists, why humanity is underground, and what happened outside. | Character / institutional context | H | Establishes a severe historical-information gap, not its cause. |
-| E002 | The official account attributes destruction of archives, books, and hard drives to the rebellion roughly 140 years earlier. | Institutional claim | H | The claim exists; its truth is unverified. |
-| E003 | The Pact functions as foundational law/rule system. | Direct observation | H | Also fills part of the cultural role otherwise occupied by historical knowledge. |
-| E004 | Reproduction requires authorization and contraceptive implants are used. | Direct observation | H | Confirms engineered population management. |
-| E005 | Allison physically removes an implant she says should already have been removed. | Direct observation + testimony | H | Strong evidence of at least one covert reproductive intervention. |
-| E006 | Relics / old-world objects and historical inquiry are restricted. | Direct observation / institutional rule | H | Strong information-control indicator. |
-| E007 | Saying explicitly that one wants to go outside triggers the cleaning process / enforced exit. | Direct observation | VH | Allison and later Holston treat the wording as legally consequential. |
-| E008 | People inside see a gray, barren exterior on the public display. | Direct observation + screenshot evidence | VH | Stored visual evidence now directly documents the barren representation; it still does not authenticate the feed. |
-| E009 | Allison's helmet presents green grass, blue sky, and flying life outside. | Direct observation | VH | Does not authenticate the feed. |
-| E010 | Allison cleans after seeing the lush scene, matching her prearranged signal to Holston that the inside display is false. | Direct observation | H | Strong behavioral link between cleaner perception and cleaning. |
-| E011 | Allison collapses near the tree after exiting. | Direct observation | VH | Cause of collapse remains unknown. |
-| E012 | HDD #18 is outside normal inventory/accountability and contains recoverable deleted material. | Direct observation | H | Its provenance remains unknown. |
-| E013 | Archive/file views show `SILO YEAR 96` and `SILO YEAR 97`. | Screenshot evidence | VH | These are archival labels/timestamps, not proof of the present story year. |
-| E014 | `JANE CARMODY CLEANING` contains the same class of lush exterior imagery. | Screenshot evidence | VH | Makes the lush view a repeatable system clue, not an Allison-only claim. |
-| E015 | Blueprint material shows a lower tunnel and a `CLASSIFIED` section. | Screenshot evidence | VH | Destination and operational status unknown. |
-| E016 | File listings include Silo planning/development/implementation-style names and a `SILO_COUNT`-type label. | Screenshot evidence | H | `SILO_COUNT` is not enough to infer multiple Silos. |
-| E017 | Upper-level / stair / bottom diagrams support a very deep, vertically organized structure with Mechanical near the bottom. | Screenshot evidence | H | Consistent with long travel times between levels. |
-| E018 | Information on recovering deleted files has been removed / restricted under IT control. | Direct observation | H | Supports intentional technical-information control. |
-| E019 | Two years after Allison's death, Juliette Nichols challenges the official account of George Wilkins' death. | Character testimony | H | Raises but does not prove a murder hypothesis. |
+| E001 | Населението открито не знае защо Силозът съществува, защо човечеството живее под земята и какво се е случило навън. | Character / institutional context | H | Установява сериозна празнина в историческото знание, но не и причината за нея. |
+| E002 | Официалният разказ приписва унищожаването на архиви, книги и hard drives на бунта отпреди приблизително 140 години. | Institutional claim | H | Твърдението съществува; истинността му не е независимо потвърдена. |
+| E003 | Пактът функционира като основополагаща система от закони/правила. | Direct observation | H | Изпълнява и част от културната роля, която иначе би имало историческото знание. |
+| E004 | Репродукцията изисква разрешение и се използват контрацептивни импланти. | Direct observation | H | Потвърждава engineered управление на популацията. |
+| E005 | Allison физически премахва имплант, който според нея вече е трябвало да бъде отстранен. | Direct observation + testimony | H | Силен evidence за поне една скрита репродуктивна намеса. |
+| E006 | Relics / предмети от стария свят и историческото проучване са ограничени. | Direct observation / institutional rule | H | Силен индикатор за информационен контрол. |
+| E007 | Изричното заявяване, че човек иска да излезе навън, задейства cleaning процеса / принудителното извеждане. | Direct observation | VH | Allison и по-късно Holston третират формулировката като имаща правно действие. |
+| E008 | Хората вътре виждат сив, мъртъв и безжизнен външен свят на публичния екран. | Direct observation + screenshot evidence | VH | Запазеният screenshot вече документира директно това представяне; той все още не удостоверява автентичността на feed-а. |
+| E009 | Шлемът на Allison показва зелена трева, синьо небе и летящ живот навън. | Direct observation | VH | Не удостоверява автентичността на feed-а. |
+| E010 | Allison чисти, след като вижда зелената сцена, в съответствие с предварителния ѝ сигнал към Holston, че вътрешният екран е фалшив. | Direct observation | H | Силна поведенческа връзка между възприятието на cleaner-а и cleaning действието. |
+| E011 | Allison пада близо до дървото, след като излиза навън. | Direct observation | VH | Причината за падането остава неизвестна. |
+| E012 | HDD #18 е извън нормалния inventory/accountability процес и съдържа възстановими изтрити материали. | Direct observation | H | Произходът му остава неизвестен. |
+| E013 | Archive/file екраните показват `SILO YEAR 96` и `SILO YEAR 97`. | Screenshot evidence | VH | Това са архивни labels/timestamps, а не доказателство, че текущото действие се развива в Year 97. |
+| E014 | `JANE CARMODY CLEANING` съдържа същия тип зелено изображение на външния свят. | Screenshot evidence | VH | Прави зелената гледка повтаряща се system clue, а не твърдение, уникално за Allison. |
+| E015 | Blueprint материалът показва долен тунел и секция, маркирана `CLASSIFIED`. | Screenshot evidence | VH | Посоката и operational status-ът са неизвестни. |
+| E016 | File listing-ите съдържат имена, свързани с планиране/development/implementation на Силоза, както и label от типа `SILO_COUNT`. | Screenshot evidence | H | `SILO_COUNT` не е достатъчно, за да заключим, че съществуват множество силози. |
+| E017 | Диаграмите на горните нива, стълбите и дъното подкрепят модел на много дълбока, вертикално организирана структура с Mechanical близо до дъното. | Screenshot evidence | H | Съвместимо е с дългото време за придвижване между нивата. |
+| E018 | Информацията за възстановяване на изтрити файлове е премахната / ограничена под контрола на IT. | Direct observation | H | Подкрепя модел на умишлен технически информационен контрол. |
+| E019 | Две години след смъртта на Allison, Juliette Nichols оспорва официалния разказ за смъртта на George Wilkins. | Character testimony | H | Повдига, но не доказва, hypothesis за убийство. |
 
-## Visual sources
+## Визуални източници
 
-- [Public barren exterior display](../assets/S01E01/screenshots/exterior-barren-display.webp)
-- [HDD year 96](../assets/S01E01/screenshots/hdd-files-year96-overview.png)
-- [HDD year 97](../assets/S01E01/screenshots/hdd-files-year97-overview.png)
-- [Jane Carmody file highlighted](../assets/S01E01/screenshots/hdd-files-year97-jane-carmody-highlight.png)
+- [Публичният екран с мъртвия външен свят](../assets/S01E01/screenshots/exterior-barren-display.webp)
+- [HDD — Year 96](../assets/S01E01/screenshots/hdd-files-year96-overview.png)
+- [HDD — Year 97](../assets/S01E01/screenshots/hdd-files-year97-overview.png)
+- [Маркираният файл на Jane Carmody](../assets/S01E01/screenshots/hdd-files-year97-jane-carmody-highlight.png)
 - [Jane Carmody cleaning](../assets/S01E01/screenshots/jane-carmody-cleaning.png)
-- [Silo blueprint](../assets/S01E01/screenshots/silo-blueprint-cross-section.jpeg)
+- [Blueprint на Силоза](../assets/S01E01/screenshots/silo-blueprint-cross-section.jpeg)
 - [Blueprint reconstruction](../assets/S01E01/screenshots/silo-blueprint-reconstruction-collage.png)
-- [Bottom cross-section](../assets/S01E01/screenshots/silo-bottom-cross-section.webp)
-- [Classified tunnel](../assets/S01E01/screenshots/silo-tunnel-classified.webp)
-- [Tunnel detail](../assets/S01E01/screenshots/silo-tunnel-detail.webp)
-- [Stairs](../assets/S01E01/screenshots/silo-stairs-cross-section.webp)
-- [Upper levels 1–20](../assets/S01E01/screenshots/upper-levels-1-20.jpeg)
+- [Напречен разрез на дъното](../assets/S01E01/screenshots/silo-bottom-cross-section.webp)
+- [Classified тунел](../assets/S01E01/screenshots/silo-tunnel-classified.webp)
+- [Детайл на тунела](../assets/S01E01/screenshots/silo-tunnel-detail.webp)
+- [Стълби](../assets/S01E01/screenshots/silo-stairs-cross-section.webp)
+- [Горни нива 1–20](../assets/S01E01/screenshots/upper-levels-1-20.jpeg)
 
-## Focused evidence notes
+## Фокусирани evidence бележки
 
-- [S01E01 — Exterior Visual Contradiction](evidence/S01E01-exterior-visual-contradiction.md)
+- [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
