@@ -1,0 +1,1 @@
+Ignore this temporary file. The branch is about to be force-reset to a clean commit with complete WebP images.
