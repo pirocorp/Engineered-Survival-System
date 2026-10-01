@@ -1,0 +1,1 @@
+Repair workflow uses full-frame WebP because large JPEG blobs were truncated by the connector. This temporary file will be removed before merge.
