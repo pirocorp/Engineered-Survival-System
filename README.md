@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **Името `Engineered-Survival-System` започна като работна hypothesis. След S01E04 моделът вече включва не само engineered physical/information layers, а и institutional succession conflict, deliberate social separation чрез vertical geography и centralized recycling/redistribution на material resources.**
+> **След S01E05 моделът включва engineered physical/information layers, institutional succession conflict, confirmed evidence manipulation/official cover-up, deliberate restrictions върху movement/observation capabilities и deep scientific-knowledge discontinuity.**
 
 ## Език на проекта
 
@@ -16,57 +16,64 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S01E04**
+**Текуща граница на знанието:** **S01E05**
 
-**Статус на гледане:** **Сезон 1, епизод 4**
+**Статус на гледане:** **Сезон 1, епизод 5**
 
-Не се използва никаква информация от S01E05+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация от S01E06+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S01E04 най-силният работен модел е:
+След S01E05 най-силният работен модел е:
 
-> **Силозът е 144-level engineered habitation system с приблизително 10 000 жители, dynamic exterior visual pipeline, hidden lower construction/energy layers, strong vertical social separation, institutional competition за Sheriff’s Department и closed-loop material redistribution.**
+> **Силозът е 144-level engineered habitation/control system с official population 10 112, dynamic exterior visual pipeline, hidden lower construction/energy layers, deliberately constrained vertical mobility, restricted observation technologies и institutions, които могат да manipulate evidence и official narratives.**
 
 Ключови установени линии:
 
 - cleaner lush view остава repeatable при Allison, Jane Carmody и Holston;
-- public feed normally показва barren exterior;
+- public display normally показва barren exterior;
 - S01E03 power-down показва lush state на самия public display;
-- S01E04 показва normal night state, което потвърждава dynamic public visual pipeline;
-- Silo има **144 levels**, приблизително **10 000 residents** и regional structure `Up-top / Mids / Down-deep`;
-- Level 50 е Mids и включва significant medical/neonatal infrastructure;
-- Judicial е strongly localized на/около Level 14;
-- Juliette идва от medical family в Mids; family loss/conflict обяснява deliberate move-а ѝ към Mechanical;
-- Bernard/IT и Judicial се противопоставят на Juliette като Sheriff;
-- Judicial предпочита друг/preferred candidate, което превръща Sheriff succession-а в direct institutional power contest;
-- Mayor и Deputy Sheriff умират в consecutive leadership-security events; common motive/perpetrator не е установен;
-- Juliette намира official file/dossier за George;
-- `SILOMAIL` е centralized digital messaging system;
-- energy chain-ът е `steam from below → turbine → generator → Silo electricity`;
-- current Mechanical personnel не знаят origin-а на primary steam source-а;
-- unwanted durable items се връщат в recycling за redistribution, което подкрепя circular resource economy.
+- S01E04 показва normal night state;
+- S01E05 показва systematic/time-dependent star-like movement на night display-а;
+- observer в cafeteria не знае concept-а „stars“ и сам reconstruct-ва movement patterns;
+- Silo има **144 levels** и Bernard заявява **10 112 current residents**;
+- observed level anchors вече включват `8, 9, 12, ~14, 27, 29, 50`;
+- Pact deliberately забранява mechanized transport през Silo;
+- Pact забранява magnifying devices над определен threshold;
+- Juliette dossier съдържа content от разговора ѝ с Holston → strong hidden-surveillance/reporting evidence;
+- Douglas Trumbull е хванат да manipulate/plant evidence и се опитва да убие Juliette;
+- Sims лично убива Trumbull, после представя смъртта му като suicide;
+- Judge formal closure-ва case-а след този false narrative;
+- следователно official institutional record не може автоматично да се третира като independently established truth;
+- Juliette търси formal hook за reopening на George case-а и взема PEZ relic-а от sub-Silo area;
+- `The Syndrome` е explicit in-world term, но nature/cause остават unknown;
+- **няма established Syndrome ↔ magnification link** — това остава VL speculation/open question only.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
 ## Карта на repo-то
 
-- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък текущ модел след последния изгледан епизод.
+- [`CURRENT_STATE.md`](CURRENT_STATE.md) — текущ модел след последния изгледан епизод.
 - [`docs/episodes/S01E01.md`](docs/episodes/S01E01.md) — episode record за S01E01.
 - [`docs/episodes/S01E02.md`](docs/episodes/S01E02.md) — episode record за S01E02.
 - [`docs/episodes/S01E03.md`](docs/episodes/S01E03.md) — episode record за S01E03.
 - [`docs/episodes/S01E04.md`](docs/episodes/S01E04.md) — episode record за S01E04.
+- [`docs/episodes/S01E05.md`](docs/episodes/S01E05.md) — episode record за S01E05.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
-- [`docs/evidence/S01E02-sub-silo-construction-layer.md`](docs/evidence/S01E02-sub-silo-construction-layer.md) — hidden construction layer под Силоза.
-- [`docs/evidence/S01E03-public-display-powerdown-flash.md`](docs/evidence/S01E03-public-display-powerdown-flash.md) — lush visual state на public display при power-down.
+- [`docs/evidence/S01E02-sub-silo-construction-layer.md`](docs/evidence/S01E02-sub-silo-construction-layer.md) — hidden construction layer под Silo.
+- [`docs/evidence/S01E03-public-display-powerdown-flash.md`](docs/evidence/S01E03-public-display-powerdown-flash.md) — lush state на public display при power-down.
 - [`docs/evidence/S01E04-sheriff-succession-and-control.md`](docs/evidence/S01E04-sheriff-succession-and-control.md) — Judicial/IT opposition и Sheriff succession conflict.
+- [`docs/evidence/S01E05-surveillance-trumbull-coverup.md`](docs/evidence/S01E05-surveillance-trumbull-coverup.md) — surveillance, framing, Trumbull и false suicide narrative.
+- [`docs/evidence/S01E05-celestial-observation.md`](docs/evidence/S01E05-celestial-observation.md) — star-like temporal behavior и lost astronomical knowledge.
+- [`docs/evidence/S01E05-pact-capability-restrictions.md`](docs/evidence/S01E05-pact-capability-restrictions.md) — mechanized-transport и magnification restrictions.
 - [`docs/open-questions.md`](docs/open-questions.md) — активните въпроси за falsification / future testing.
 - [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — visual evidence от S01E01.
 - [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — selected visual evidence от S01E02.
 - [`assets/S01E03/screenshots/`](assets/S01E03/screenshots/) — selected visual evidence от S01E03.
-- `assets/S01E04/screenshots/` — reserved path за selected visual evidence от S01E04 след upload.
+- [`assets/S01E04/screenshots/`](assets/S01E04/screenshots/) — selected visual evidence от S01E04 (follow-up visual PR).
+- [`assets/S01E05/screenshots/`](assets/S01E05/screenshots/) — selected visual evidence от S01E05.
 
 ## Основна директива
 
@@ -82,6 +89,14 @@
 - какво системата изглежда предполага;
 - какво ние извеждаме като правило;
 - какво остава само hypothesis.
+
+### Допълнително правило след S01E05
+
+**Official record ≠ independently verified truth.**
+
+S01E05 дава direct-confirmed example: Sims kills Trumbull → official narrative says suicide → Judge closes case.
+
+Това не означава, че всички official records са false. Означава, че official records се класифицират като institutional claims, когато няма independent corroboration.
 
 ## Spoiler discipline
 
@@ -105,6 +120,8 @@
 - fan theories, които използват future knowledge;
 - retrospective knowledge, което прави стара theory да изглежда по-силна, отколкото е била при формулирането ѝ.
 
+Спекулативни cross-links се маркират изрично. Например `The Syndrome ↔ magnification ban` към S01E05 е **VL speculation only**, не accepted theory.
+
 ## Слоеве на анализа
 
 ### Физическа система
@@ -113,11 +130,15 @@
 
 ### Система на управление
 
-Institutions, laws, prohibitions, hierarchy, enforcement, punishment и реално срещу формално разпределение на властта.
+Institutions, laws, prohibitions, hierarchy, enforcement, punishment, investigation и реално срещу формално разпределение на властта.
 
 ### Информационна система
 
-Access, forbidden knowledge, archives, historical memory, communications, education и possible information manipulation.
+Access, surveillance, dossiers, forbidden knowledge, archives, historical memory, communications, education и possible information manipulation.
+
+### Capability-control system
+
+Какво residents физически могат да правят/наблюдават: vertical movement, radios, magnification, access to restricted spaces и tools за independent discovery.
 
 ### Социална система
 
@@ -133,18 +154,16 @@ Ownership, assignment, recycling, redistribution, scarcity и closed-loop use н
 
 ### Модел на външния свят
 
-За външния свят важи особено строг принцип:
-
 **това, в което героите вярват ≠ това, което властите твърдят ≠ това, което показва екранът ≠ това, което е обективно установено**
 
-След S01E04 public display има поне normal day/night states плюс abnormal lush power-down state.
+След S01E05 public display има normal day/night states, systematic celestial temporal behavior и abnormal lush power-down state.
 
 ## Evidence класове
 
 - **Direct observation** — сериалът директно показва събитието/обекта.
 - **Repeated observation** — поведението/моделът се появява независимо повече от веднъж.
 - **Character testimony** — доказва какво твърди/вярва герой, не непременно че твърдението е вярно.
-- **Institutional claim** — официално правило или historical account; третира се като claim до независимо потвърждение.
+- **Institutional claim** — официално правило, historical account или case conclusion; третира се като claim до независимо потвърждение.
 - **Visual/screenshot evidence** — детайл в кадър, файл, blueprint, UI или archive listing.
 - **Inference** — логически извод от evidence.
 - **Speculation** — възможно обяснение без достатъчна evidence support.
@@ -171,24 +190,27 @@ Confidence не е математическа вероятност и не за�
 
 ## Текущи competing models за външния свят
 
-След S01E04 все още не избираме окончателно една версия:
+След S01E05 все още не избираме окончателно една версия:
 
 1. **Lush exterior is real** — public display-ът е false/manipulated.
 2. **Barren exterior is substantially real** — cleaner helmet view е overlay/simulation.
 3. **Neither is fully authentic** — и двата visual channels са processed representations.
 
-S01E03 добави lush power-down state на public display. S01E04 добавя normal night state. Това доказва dynamic visual pipeline, но не authenticates physical reality.
+Systematic star-like movement прави public night state по-сложен/dynamic, но не го authenticates като live physical sky.
 
 ## Текущ architectural model
 
 ```text
-LEVEL 1 / UP-TOP
+LEVEL 1 / UP-TOP ?
         │
         ├─ Sheriff's Department ?
         └─ secure airlock / cleaning access ?
         │
         ▼
-MIDS
+LEVEL 8 → 9 → 12 → ~14 JUDICIAL → 27 → 29
+        │
+        ▼
+LEVEL 50 / MIDS
         │
         ▼
 DOWN-DEEP
@@ -204,43 +226,13 @@ PACT-FORBIDDEN PRE-REBELLION TUNNEL
 SUB-SILO CONSTRUCTION CAVITY
         │
         ├─ excavation machine
-        ├─ lower machine/service levels
+        ├─ George cache / PEZ trail
         └─ flooded bottom
                │
                └─ reported short tunnel + door ?
 ```
 
 Question marks означават strong spatial inference, не single-frame direct confirmation.
-
-## Energy model
-
-```text
-UNKNOWN STEAM SOURCE BELOW
-          │
-          ▼
-       TURBINE
-          │
-          ▼
-      GENERATOR
-          │
-          ▼
-   SILO ELECTRICITY
-```
-
-## Resource model
-
-```text
-use / assignment
-      │
-      ▼
-return / recycling
-      │
-      ▼
-redistribution
-      │
-      ▼
-     reuse
-```
 
 ## Workflow след всеки епизод
 
@@ -266,6 +258,7 @@ episode/S01E01
 episode/S01E02
 episode/S01E03
 episode/S01E04
+episode/S01E05-analysis
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -275,4 +268,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S01E05`
+**Следваща knowledge boundary:** `S01E06`
