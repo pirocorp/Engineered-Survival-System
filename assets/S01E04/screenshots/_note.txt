@@ -1,0 +1,1 @@
+Binary upload repair in progress; full-frame WebP files will replace truncated JPEGs.
