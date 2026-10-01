@@ -1,0 +1,1 @@
+Temporary repair note: GitHub connector truncates large binary base64 payloads. Final evidence will use complete full-resolution WebP embedded in SVG, then temporary repair files will be removed.
