@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S01E07 моделът включва centralized covert surveillance under Sims operational command, concealed mirror cameras, privileged preservation на selected pre-Silo knowledge, Flamekeeper historical-preservation networks и confirmed covert reproductive-control deception.**
+> **След S01E08 моделът включва centralized covert surveillance, illicit scientific observation under Pact restriction, mirror-surveillance as an enforcement/discovery mechanism, confirmed reproductive-control deception и demonstrated ability to weaponize institutional procedure through disputed/false testimony.**
 
 ## Език на проекта
 
@@ -16,17 +16,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S01E07**
+**Текуща граница на знанието:** **S01E08**
 
-**Статус на гледане:** **Сезон 1, епизод 7**
+**Статус на гледане:** **Сезон 1, епизод 8**
 
-Не се използва никаква информация от S01E08+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация от S01E09+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S01E07 най-силният работен модел е:
+След S01E08 най-силният работен модел е:
 
-> **Силозът е 144-level engineered habitation/control system с dynamic exterior visual pipeline, hidden lower infrastructure, centralized covert surveillance under Sims operational command, restricted historical knowledge, Flamekeeper preservation networks и confirmed covert reproductive-control deception.**
+> **Силозът е 144-level engineered habitation/control system с dynamic exterior visual pipeline, hidden lower infrastructure, centralized covert surveillance, restricted historical/scientific capability, Flamekeeper preservation networks, covert reproductive control и institutional mechanisms, които могат да бъдат използвани coercively чрез controlled testimony.**
 
 Ключови установени линии:
 
@@ -37,7 +37,7 @@
 - S01E05 показва systematic/time-dependent star-like movement на night display-а;
 - observer в cafeteria не знае concept-а „stars“ и сам reconstruct-ва movement patterns;
 - Silo има **144 levels** и Bernard заявява **10 112 current residents**;
-- observed level anchors вече включват `8, 9, 12, ~14, 27, 29, 50`;
+- observed direct level anchors вече включват `8, 9, 12, 14, 17, 26, 27, 29, 30, 50`;
 - Pact deliberately забранява mechanized transport през Silo;
 - Pact забранява magnifying devices над определен threshold;
 - Juliette dossier съдържа content от разговора ѝ с Holston → strong hidden-surveillance/reporting evidence;
@@ -57,7 +57,13 @@
 - historical testimony introduces pre-Rebellion memory suppression through water;
 - Juliette’s father personally admits implant-removal deception, confirming the covert reproductive-control mechanism;
 - Juliette and George are linked through their Flamekeeper mothers and an intergenerational preservation network;
-- observed level anchors now also include Level 26.
+- observed level anchors now also include Level 26 and **Level 30**;
+- Juliette’s mother used a homemade microscope/magnification device for independent medical investigation; restricted records show institutional attention to the activity;
+- Juliette realizes mirror surveillance can explain discovery of her mother’s microscope without requiring father-as-informant;
+- a priority Medical → Martha Walker message direct-confirms structured interdepartmental digital messaging;
+- Mayor + Sims coordinate a trap and claim Juliette said she wanted to go out; she is arrested on that basis;
+- Bernard/IT claims Judge Meadows is afraid of him; objective hierarchy remains unresolved;
+- S01E08 ends with Juliette going over the railing during escape/evasion context; outcome remains unknown at the episode boundary.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
@@ -71,6 +77,7 @@
 - [`docs/episodes/S01E05.md`](docs/episodes/S01E05.md) — episode record за S01E05.
 - [`docs/episodes/S01E06.md`](docs/episodes/S01E06.md) — episode record за S01E06.
 - [`docs/episodes/S01E07.md`](docs/episodes/S01E07.md) — episode record за S01E07.
+- [`docs/episodes/S01E08.md`](docs/episodes/S01E08.md) — episode record за S01E08.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
@@ -87,6 +94,9 @@
 - [`docs/evidence/S01E07-flamekeepers-memory-erasure.md`](docs/evidence/S01E07-flamekeepers-memory-erasure.md) — Flamekeepers, relic preservation и water-memory claim.
 - [`docs/evidence/S01E07-reproductive-control.md`](docs/evidence/S01E07-reproductive-control.md) — doctor confession и reproductive-control mechanism.
 - [`docs/evidence/S01E07-flamekeeper-family-network.md`](docs/evidence/S01E07-flamekeeper-family-network.md) — Juliette/George intergenerational Flamekeeper connection.
+- [`docs/evidence/S01E08-illicit-microscopy-and-mirror-surveillance.md`](docs/evidence/S01E08-illicit-microscopy-and-mirror-surveillance.md) — microscope, restricted record и revision на father-as-informant model.
+- [`docs/evidence/S01E08-fabricated-cleaning-trigger.md`](docs/evidence/S01E08-fabricated-cleaning-trigger.md) — Mayor/Sims trap, disputed exit claim и arrest.
+- [`docs/evidence/S01E08-bernard-judge-power.md`](docs/evidence/S01E08-bernard-judge-power.md) — Bernard’s claim за Judge Meadows и hidden hierarchy candidate.
 - [`docs/open-questions.md`](docs/open-questions.md) — активните въпроси за falsification / future testing.
 - [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — visual evidence от S01E01.
 - [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — selected visual evidence от S01E02.
@@ -96,6 +106,8 @@
 - [`assets/S01E06/screenshots/`](assets/S01E06/screenshots/) — selected visual evidence от S01E06.
 - [`assets/S01E07/screenshots/`](assets/S01E07/screenshots/) — validated selected visual evidence от S01E07.
 - [`assets/S01E07/MANIFEST.md`](assets/S01E07/MANIFEST.md) — S01E07 visual processing/selection manifest.
+- [`assets/S01E08/screenshots/`](assets/S01E08/screenshots/) — validated selected visual evidence от S01E08.
+- [`assets/S01E08/MANIFEST.md`](assets/S01E08/MANIFEST.md) — S01E08 visual processing/selection manifest.
 
 ## Основна директива
 
@@ -132,6 +144,13 @@ S01E07 съдържа както direct-confirmed механизми, така �
 - retained-implant deception е independently corroborated чрез Allison physical evidence + Juliette’s father confession;
 - water-based memory suppression и anti-Flamekeeper lineage targeting остават historical claims до independent corroboration;
 - Flamekeepers не се приравняват автоматично с Rebels, докато episode evidence не establish-не връзката.
+
+### Допълнително правило след S01E08
+
+**Character belief can be superseded by a newly observed mechanism; institutional testimony can itself be the coercive mechanism.**
+
+- Juliette’s earlier belief that her father exposed the microscope is no longer required once mirror surveillance is known and she herself connects the two.
+- The Mayor/Sims “she wants to go out” claim is tracked separately from what Juliette actually said; downstream arrest does not retroactively make the claim true.
 
 ## Spoiler discipline
 

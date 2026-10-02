@@ -1,29 +1,58 @@
-# Текущо състояние — след S01E07
+# Текущо състояние — след S01E08
 
-**Knowledge boundary:** `S01E07`
+**Knowledge boundary:** `S01E08`
 
 ## Работен модел
 
-След S01E07 Силозът вече изглежда като **layered engineered habitation/control system**, в която information control не се ограничава до archives и rules. Наблюдаваме свързани механизми за surveillance, concealment, historical-memory suppression, relic control и covert reproductive selection.
+S01E08 strengthens the model from simple information control toward **capability control + covert observation + institutional coercion**. Забраната на magnification вече има concrete biomedical consequence, mirror surveillance обяснява как authorities са могли да открият illicit research, а Mayor/Sims показват, че institutional process може да бъде weaponized чрез false testimony за фразата „искам да изляза“.
 
-Най-големите промени спрямо S01E06 са:
+Най-големите промени спрямо S01E07 са:
 
-1. **Sims е direct operational commander на surveillance network-а.**
-2. **Capture mechanism-ът е установен:** concealed cameras зад/в огледалата.
-3. **Coverage-ът е broader:** residence, Judge Meadows, medical center и други internal locations.
-4. **Surveillance center-ът има concealed physical access** през/зад janitorial closet.
-5. **Flamekeepers** са introduced чрез historical testimony като group за preservation на history/relics.
-6. Historical testimony твърди **pre-Rebellion memory suppression through water**.
-7. Reproductive control е описан като използван срещу **Flamekeeper family lines**.
-8. Juliette’s father personally admits **implant-removal deception**, independently corroborating Allison’s S01E01 retained implant.
-9. George и Juliette вече имат **intergenerational Flamekeeper family connection** чрез майките си.
-10. Juliette намира/retrieves hard drive-а от George investigation line.
+1. Juliette’s mother е shown with a **homemade microscope/magnification device**, използван за independent medical investigation.
+2. Rabbit case-ът е presented като analogous на heart problem-а на Juliette’s brother Jacob.
+3. Restricted institutional record independently corroborates authority attention към magnification-device activity.
+4. Juliette осъзнава, че **mirror surveillance**, а не necessarily father-as-informant, може да обясни как authorities са научили за microscope-а.
+5. Internal digital messaging между departments е direct-visible чрез priority message Medical → Martha Walker.
+6. **Level 30** е нов direct spatial anchor.
+7. Mayor и Sims координират trap срещу Juliette.
+8. Те твърдят, че Juliette е казала, че иска да излезе; тя е arrested на тази basis.
+9. Bernard/IT заявява, че Judge Meadows се страхува от него — important testimony за hidden power relation, но не independent proof.
+10. Епизодът завършва с Juliette, която прескача railing-а при escape/evasion context; outcome-ът остава unknown на boundary S01E08.
 
-> **След S01E07 най-силният control-system model е multi-layered historical-erasure architecture: public knowledge is restricted, relics are suppressed, selected institutional archives are preserved, surveillance is covert and centralized, and reproductive control can be applied selectively. Active memory suppression through water is now a serious testimony-backed hypothesis, not yet independently verified.**
+> **След S01E08 control model-ът вече включва не само suppression на old knowledge, а и restriction върху generation of new knowledge; не само surveillance, а surveillance като discovery/enforcement mechanism; и не само false official narrative, а possible fabrication of a legal predicate, който директно произвежда arrest/coercive action.**
 
 ---
 
 ## Наблюдения с висок confidence
+
+### S01E08 — illicit microscopy / independent scientific observation
+
+- Juliette’s mother built/possessed a homemade microscope-like magnification apparatus.
+- Context presents the device as tool за medical investigation, включително rabbit с heart problem analogous на Jacob’s.
+- Restricted institutional record corroborates authority attention към magnification-device activity.
+- Exact optical power/threshold crossing is not measured from the image itself.
+- This strongly strengthens the interpretation that Pact magnification restrictions limit residents’ capacity for independent scientific/medical discovery.
+
+### S01E08 — Juliette revises the father-betrayal model
+
+- Juliette had previously believed her father betrayed her mother.
+- After the mirror-camera discovery, Juliette realizes her mother could have been observed directly through covert surveillance.
+- Therefore father-as-informant is no longer required to explain discovery of the microscope.
+- This does **not** prove he never shared any other information.
+
+### S01E08 — coercive institutional chain
+
+- Mayor and Sims coordinate a trap for Juliette.
+- They claim Juliette said she wanted to go outside.
+- In the scene context, only Juliette, Mayor and Sims are present; no independent witness is established.
+- Juliette is arrested on the basis of that claim.
+- This demonstrates that the “want to go out” rule can be weaponized if officials control the testimony about whether the phrase was spoken.
+
+### S01E08 — Bernard / Judge power claim
+
+- Bernard/IT states that Judge Meadows is afraid of him.
+- This is direct evidence of **Bernard’s claim**, not yet independent proof of hierarchy.
+- Combined with Judge surveillance, it supports a new candidate model that IT/Bernard may hold hidden leverage outside simple formal Judicial hierarchy.
 
 ### Surveillance / hidden control layer
 
@@ -73,7 +102,7 @@
 - Therefore covert implant-removal deception mechanism is independently corroborated and confirmed.
 - Historical testimony says this system was used to suppress Flamekeeper/descendant family lines.
 - Juliette’s father says he “had no choice”; this is his self-justification, not independent proof of coercion.
-- Juliette believes he betrayed her mother; objective betrayal is unresolved.
+- Juliette previously believed he betrayed her mother; S01E08 mirror-surveillance realization supersedes father-as-informant as a necessary explanation for discovery of the microscope.
 
 ### Juliette / George / Flamekeeper family network
 
@@ -90,11 +119,12 @@
 
 Observed direct anchors include:
 
-`8 → 9 → 12 → 14 → 17 → 26 → 27 → 29 → 50`
+`8 → 9 → 12 → 14 → 17 → 26 → 27 → 29 → 30 → 50`
 
 - Level 14 is repeated again in S01E07.
 - Level 26 is new in S01E07.
-- No special function is inferred from Level 26 marker alone.
+- Level 30 is newly direct-confirmed in S01E08.
+- No special function is inferred from Level 26 or Level 30 marker alone.
 
 ### Exterior / architecture / energy — unchanged core state
 
@@ -122,7 +152,7 @@ Observed direct anchors include:
 | H3 | Barren public view е до голяма степен реален, а lush cleaner view е overlay/simulation. | H | Active |
 | H4 | Cleaning поведението е engineered чрез това, което cleaner-ът вижда. | H | Strengthened |
 | H5 | Silo използва covert reproductive control чрез medical deception: selected women receive false implant-removal confirmation while contraception remains active. | VH | Confirmed |
-| H6 | Silo control architecture deliberately restricts historical/scientific memory through restricted access, relic suppression and asymmetric institutional preservation; active memory suppression may also be part of the system. | VH | Strongly Strengthened / Refactored |
+| H6 | Silo control architecture deliberately restricts historical/scientific knowledge through restricted access, relic suppression, asymmetric institutional preservation and constraints on residents’ ability to generate new knowledge independently; active memory suppression may also be part of the system. | VH | Strongly Strengthened / Refactored |
 | H7 | Official Rebellion-centered account е incomplete or misleading about origin/mechanism of historical knowledge loss. | H | Strengthened |
 | H8 | Sims directly commands/uses a covert centralized internal surveillance network using concealed mirror cameras and covering residential, medical, institutional and high-level official spaces. | VH | Confirmed / Refactored |
 | H9 | George Wilkins може да е бил убит. | L | Active |
@@ -139,20 +169,21 @@ Observed direct anchors include:
 | H20 | Unauthorized communication се ограничава, за да остане inter-level communication в controlled channels. | M | Active |
 | H21 | Violence around Mayor/Sheriff leadership може да е свързано с appointment/control conflict около Juliette. | M | Strengthened |
 | H22 | Silo зависи от deeper legacy energy infrastructure, която current operators не разбират напълно. | H | Active |
-| H23 | Sheriff succession/staffing е institutional power contest; Judicial търси aligned presence в Sheriff’s Department. | H | Strengthened |
+| H23 | Sheriff succession/staffing е institutional power contest; S01E08 shows Mayor/Sims coordinated coercive action directly against Sheriff Juliette. | H | Strongly Strengthened |
 | H24 | Silo поддържа centralized circular resource economy с recycling/redistribution на durable goods. | H | Active |
-| H25 | Judicial-associated operational network може да manipulate evidence/investigations и да използва lethal violence за desired case outcome. | VH | Active / Strengthened |
-| H26 | Sims has substantial autonomous operational authority in the hidden control layer, but may still answer to a higher authority. | VH | Strengthened / Refactored |
-| H27 | Pact ограничава physical capabilities за independent movement и observation/discovery, не само content. | M | Active |
+| H25 | Control/Judicial-associated operational network може да manipulate evidence/investigations, fabricate testimony or legal predicates, and use institutional coercion or lethal violence for a desired outcome. | VH | Strongly Strengthened / Refactored |
+| H26 | Sims has substantial operational authority in the hidden control layer and can coordinate directly with the Mayor; exact hierarchy and any authority above them remain unresolved. | VH | Strengthened / Refactored |
+| H27 | Pact ограничава physical capabilities за independent movement и observation/discovery, including scientific/biomedical microscopy, не само content. | H | Strongly Strengthened |
 | H28 | George’s investigation and Juliette’s path into hidden history are connected to an intergenerational Flamekeeper network. | H | Strongly Strengthened / Refactored |
 | H29 | Silo има pre-Silo geographic connection с U.S. state of Georgia. | L | Candidate |
 | H30 | Intentional population memory suppression through the water system was a pre-Rebellion control mechanism. | M | Active |
 | H31 | Reproductive selection was used for selective lineage suppression against Flamekeeper / knowledge-preserving family lines. | H | Active |
 | H32 | Flamekeeper knowledge/history survived through family/social networks and intergenerational transfer of relics. | H | Active |
+| H33 | Bernard/IT may hold hidden leverage over Judge Meadows and may sit above or outside the simple formal Judicial hierarchy. | M | Candidate |
 
 ---
 
-## Surveillance model after S01E07
+## Surveillance model after S01E08
 
 ```text
 private / institutional / medical / high-level spaces
@@ -176,7 +207,26 @@ Physical access to the control center is itself concealed through a janitorial-c
 
 ---
 
-## Historical-erasure model after S01E07
+## Institutional coercion chain after S01E08
+
+```text
+Mayor + Sims coordinated trap
+          │
+          ▼
+claim: Juliette said she wants to go out
+          │
+          ▼
+no independent witness established
+          │
+          ▼
+institutional arrest / cleaning-path trigger
+```
+
+This is stronger than a false narrative after the fact: the disputed/false claim itself is used as the predicate for immediate coercive action.
+
+---
+
+## Historical-erasure model after S01E08
 
 ```text
 PRE-SILO HISTORY
@@ -234,8 +284,19 @@ Historical targeting purpose against Flamekeeper family lines remains testimony-
 
 ---
 
-## Immediate watch targets за S01E08
+## Immediate watch targets за S01E09
 
+- immediate outcome of Juliette’s railing jump;
+- whether the fabricated/disputed “want to go out” claim formally proceeds to cleaning;
+- whether any recording exists that can contradict Mayor/Sims testimony;
+- exact Mayor ↔ Sims ↔ Bernard/IT ↔ Judge Meadows command relationship;
+- independent evidence for Bernard’s claim that Judge Meadows fears him;
+- what authorities actually recorded about Juliette’s mother and the microscope;
+- whether microscope discovery can be tied directly to a mirror-camera recording;
+- permitted magnification threshold and whether the mother’s device is explicitly classified as violating it;
+- exact medical findings from the rabbit/Jacob investigation;
+- internal-message routing, access and monitoring;
+- Level 30 function;
 - who is above Sims, if anyone;
 - Judge Meadows awareness of surveillance;
 - why Judge is monitored;
@@ -259,7 +320,11 @@ Historical targeting purpose against Flamekeeper family lines remains testimony-
 
 Виж също:
 
+- `docs/episodes/S01E08.md`
 - `docs/episodes/S01E07.md`
+- `docs/evidence/S01E08-illicit-microscopy-and-mirror-surveillance.md`
+- `docs/evidence/S01E08-fabricated-cleaning-trigger.md`
+- `docs/evidence/S01E08-bernard-judge-power.md`
 - `docs/evidence/S01E07-surveillance-command-and-mirrors.md`
 - `docs/evidence/S01E07-flamekeepers-memory-erasure.md`
 - `docs/evidence/S01E07-reproductive-control.md`
