@@ -1,29 +1,47 @@
-# Текущо състояние — след S01E08
+# Текущо състояние — след S01E09
 
-**Knowledge boundary:** `S01E08`
+**Knowledge boundary:** `S01E09`
 
 ## Работен модел
 
-S01E08 strengthens the model from simple information control toward **capability control + covert observation + institutional coercion**. Забраната на magnification вече има concrete biomedical consequence, mirror surveillance обяснява как authorities са могли да открият illicit research, а Mayor/Sims показват, че institutional process може да бъде weaponized чрез false testimony за фразата „искам да изляза“.
+S01E09 resolves the immediate outcome of Juliette’s S01E08 railing jump and reconnects the hard-drive line directly to one of the project’s earliest visual contradictions.
 
-Най-големите промени спрямо S01E07 са:
+Най-големите промени спрямо S01E08 са:
 
-1. Juliette’s mother е shown with a **homemade microscope/magnification device**, използван за independent medical investigation.
-2. Rabbit case-ът е presented като analogous на heart problem-а на Juliette’s brother Jacob.
-3. Restricted institutional record independently corroborates authority attention към magnification-device activity.
-4. Juliette осъзнава, че **mirror surveillance**, а не necessarily father-as-informant, може да обясни как authorities са научили за microscope-а.
-5. Internal digital messaging между departments е direct-visible чрез priority message Medical → Martha Walker.
-6. **Level 30** е нов direct spatial anchor.
-7. Mayor и Sims координират trap срещу Juliette.
-8. Те твърдят, че Juliette е казала, че иска да излезе; тя е arrested на тази basis.
-9. Bernard/IT заявява, че Judge Meadows се страхува от него — important testimony за hidden power relation, но не independent proof.
-10. Епизодът завършва с Juliette, която прескача railing-а при escape/evasion context; outcome-ът остава unknown на boundary S01E08.
+1. Juliette **survives the initial fall** by landing on / being caught by an intermediate bridge structure.
+2. **Level 23** е нов direct spatial anchor.
+3. A small illuminated object/device marked **`18`** is shown and is associated by scene context with Bernard / the acting mayor; its function remains unknown.
+4. Juliette reaches the hard-drive content and opens the known **`JANE CARMODY CLEANING`** footage previously established in the S01E01 evidence chain.
+5. This moves the lush-cleaning evidence from something known to the viewer/project into **Juliette’s own direct knowledge**.
+6. The cleaning file still does **not** resolve whether the lush exterior is objectively real or a manipulated/overlay representation.
 
-> **След S01E08 control model-ът вече включва не само suppression на old knowledge, а и restriction върху generation of new knowledge; не само surveillance, а surveillance като discovery/enforcement mechanism; и не само false official narrative, а possible fabrication of a legal predicate, който директно произвежда arrest/coercive action.**
+> **След S01E09 Juliette herself has direct access to the same alternate cleaning-view evidence that anchored the project from S01E01. The strongest new change is epistemic: the protagonist’s knowledge now catches up with a major piece of the viewer-side evidence model.**
 
 ---
 
 ## Наблюдения с висок confidence
+
+### S01E09 — Level 23 escape outcome
+
+- Juliette survives the initial railing jump.
+- She lands on / is caught by an intermediate bridge structure rather than falling uninterrupted to the bottom.
+- Level 23 is directly shown during the sequence.
+- The event is therefore classified as escape/evasion, not a suicide attempt.
+- Exact drop distance and whether the landing point was pre-planned remain unresolved.
+
+### S01E09 — numbered object/device `18`
+
+- A small illuminated object/device marked `18` is directly shown.
+- Scene context associates it with Bernard / the acting mayor.
+- Its function is unknown.
+- No accepted link is made to HDD 18, access control, tracking, identity, level numbering or any other system without further evidence.
+
+### S01E09 — Jane Carmody cleaning file
+
+- Juliette opens the known `JANE CARMODY CLEANING` video/file from the hard-drive evidence chain.
+- S01E01 already established that this file contains the lush exterior imagery.
+- Juliette therefore now directly sees/accesses evidence of the alternate cleaner visual state.
+- This strengthens the importance of the HDD evidence line but does not by itself establish whether the lush view is real or synthetic.
 
 ### S01E08 — illicit microscopy / independent scientific observation
 
@@ -119,12 +137,13 @@ S01E08 strengthens the model from simple information control toward **capability
 
 Observed direct anchors include:
 
-`8 → 9 → 12 → 14 → 17 → 26 → 27 → 29 → 30 → 50`
+`8 → 9 → 12 → 14 → 17 → 23 → 26 → 27 → 29 → 30 → 50`
 
 - Level 14 is repeated again in S01E07.
 - Level 26 is new in S01E07.
-- Level 30 is newly direct-confirmed in S01E08.
-- No special function is inferred from Level 26 or Level 30 marker alone.
+- Level 23 is newly direct-confirmed in S01E09.
+- Level 30 is direct-confirmed in S01E08.
+- No special function is inferred from Level 23, Level 26 or Level 30 markers alone.
 
 ### Exterior / architecture / energy — unchanged core state
 
@@ -147,7 +166,7 @@ Observed direct anchors include:
 | ID | Hypothesis | Confidence | Status |
 |---|---|---:|---|
 | H0 | Силозът е проектирана survival/habitation система. | H | Active |
-| H1 | Exterior visual-information pipeline-ът се манипулира умишлено. | VH | Strengthened |
+| H1 | Exterior visual-information pipeline-ът се манипулира умишлено. | VH | Strengthened; S01E09 puts the known alternate cleaning footage directly in Juliette’s hands. |
 | H2 | Зелената гледка за cleaners е обективно реална. | L | Active |
 | H3 | Barren public view е до голяма степен реален, а lush cleaner view е overlay/simulation. | H | Active |
 | H4 | Cleaning поведението е engineered чрез това, което cleaner-ът вижда. | H | Strengthened |
@@ -183,7 +202,7 @@ Observed direct anchors include:
 
 ---
 
-## Surveillance model after S01E08
+## Surveillance model after S01E09
 
 ```text
 private / institutional / medical / high-level spaces
@@ -207,7 +226,7 @@ Physical access to the control center is itself concealed through a janitorial-c
 
 ---
 
-## Institutional coercion chain after S01E08
+## Institutional coercion chain after S01E09
 
 ```text
 Mayor + Sims coordinated trap
@@ -226,7 +245,7 @@ This is stronger than a false narrative after the fact: the disputed/false claim
 
 ---
 
-## Historical-erasure model after S01E08
+## Historical-erasure model after S01E09
 
 ```text
 PRE-SILO HISTORY
@@ -284,9 +303,14 @@ Historical targeting purpose against Flamekeeper family lines remains testimony-
 
 ---
 
-## Immediate watch targets за S01E09
+## Immediate watch targets за S01E10
 
-- immediate outcome of Juliette’s railing jump;
+- what Juliette concludes after viewing `JANE CARMODY CLEANING`;
+- whether she can compare the file against the public barren feed or other cleaning records;
+- exact identity/function of the illuminated `18` object/device;
+- whether `18` has any relation to HDD 18, or whether the numbering is unrelated;
+- how Bernard / the acting mayor uses or obtains the `18` device;
+- what route Juliette takes after the Level 23 landing;
 - whether the fabricated/disputed “want to go out” claim formally proceeds to cleaning;
 - whether any recording exists that can contradict Mayor/Sims testimony;
 - exact Mayor ↔ Sims ↔ Bernard/IT ↔ Judge Meadows command relationship;
@@ -320,8 +344,12 @@ Historical targeting purpose against Flamekeeper family lines remains testimony-
 
 Виж също:
 
+- `docs/episodes/S01E09.md`
 - `docs/episodes/S01E08.md`
 - `docs/episodes/S01E07.md`
+- `docs/evidence/S01E09-level23-escape.md`
+- `docs/evidence/S01E09-number18-device.md`
+- `docs/evidence/S01E09-jane-carmody-cleaning.md`
 - `docs/evidence/S01E08-illicit-microscopy-and-mirror-surveillance.md`
 - `docs/evidence/S01E08-fabricated-cleaning-trigger.md`
 - `docs/evidence/S01E08-bernard-judge-power.md`
