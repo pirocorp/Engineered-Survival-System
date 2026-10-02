@@ -1,107 +1,85 @@
-# Текущо състояние — след S01E05
+# Текущо състояние — след S01E06
 
-**Knowledge boundary:** `S01E05`
+**Knowledge boundary:** S01E06
 
 ## Работен модел
 
-След S01E05 Силозът изглежда още по-силно като **layered engineered habitation/control system**, в която architecture, information access, observation capability, institutional power и official narratives могат да бъдат actively managed.
+След S01E06 Силозът изглежда още по-силно като layered engineered habitation/control system, в която physical architecture, information access, historical memory, surveillance, institutional power и individual capabilities са centrally constrained.
 
-Най-голямата промяна е epistemic: вече имаме direct-confirmed пример, при който **наблюдаваният physical event и official institutional account се разминават**. Sims лично убива Douglas Trumbull, а след това представя смъртта му като suicide; Judge приключва случая.
+Двете най-големи промени са:
 
-> **След S01E05 official record в Silo вече не може да се приема като equivalent на independently established truth.**
+1. **Hidden surveillance вече е direct-confirmed infrastructure.** Финалът показва centralized multi-feed control center, който наблюдава множество Silo locations, включително Juliette в дома ѝ.
+2. **Historical knowledge не е просто lost.** Restricted Judicial relic database пази archival records, explicit PRE-SILO classifications, images и ledger references, докато ordinary residents/law-enforcement не разпознават дори common pre-Silo objects по име.
 
-Паралелно Pact ограниченията показват, че control layer-ът регулира не само information, а и **capabilities**: mechanized vertical movement и high-magnification observation.
-
----
+> **След S01E06 най-силният information-control model е asymmetric knowledge architecture: public historical knowledge е силно restricted/degraded, докато privileged institutional layers запазват selected pre-Silo records и surveillance capability.**
 
 ## Наблюдения с висок confidence
 
-### Population / geography
+### Surveillance
 
-- Silo има **144 levels**.
-- Bernard заявява current official population: **10 112 residents**.
-- `Up-top / Mids / Down-deep` са real regional/social labels.
-- Direct visual anchors включват **Level 8, 9, 12, ~14 Judicial, 27, 29 и 50**.
-- Level 50 е Mids и включва medical/neonatal infrastructure.
-- Judicial е strongly localized на/около Level 14 чрез adjacent-shot evidence.
-- Level 27 е само spatial anchor; не се свързва с new Deputy.
-- New Deputy живее няколко levels под 29, но exact home level не е established.
-- Най-добрият current spatial model поставя Sheriff’s Department и cleaning/airlock access в най-горния Up-top / Level 1 security-administrative complex; това остава strong inference.
-- Нямаме evidence за `Level 0`.
+- Juliette е наблюдавана чрез remote video feed в личното си жилище.
+- Съществува dedicated centralized surveillance control center.
+- Control center-ът има множество simultaneous feeds от различни locations и operator consoles.
+- Juliette’s home feed е част от broader multi-feed wall.
+- Следователно covert internal video-surveillance network е established.
+- Formal owner/operator остава unknown: Judicial, IT или друг hidden authority layer не е direct-confirmed.
 
-### Vertical movement
+### Relic / historical-information system
 
-- Pact deliberately забранява mechanized movement/transport through the Silo.
-- Следователно липсата на elevators не е просто accidental technical absence.
-- Slow human-powered vertical movement е intentionally preserved system property.
-- Social consequence-ът е direct: distant levels могат да бъдат practically separated by travel time.
-- Exact rationale за забраната — safety, security, social control или combination — остава unknown.
+- PEZ-like relic влиза в official Sheriff law-enforcement object lookup.
+- Ordinary lookup не разпознава object name и използва physical description.
+- Judicial има restricted RELIC DATABASE / RELIC-SEIZED OBJECTS INVENTORY.
+- Interface показва JUDICIARY PERSONNEL ONLY.
+- Sims/Judicial authorization context показва access to all records/object logs.
+- Database съдържа archival OBJECT 1175 с ORIGIN: PRE-SILO, ledger reference, description и image.
+- Това establishes, че selected pre-Silo knowledge е preserved в privileged institutional systems.
+- Public knowledge loss следователно не може да се моделира само като total archival destruction.
 
-### Governance / surveillance / cover-up
+### George / PEZ
 
-- Juliette dossier съдържа content от разговора ѝ с Holston за часовника.
-- Това е strong evidence за hidden content-level surveillance/reporting.
-- Exact mechanism и data owner остават unknown.
-- Marnes death се разследва като murder.
-- След Marnes е поставен Deputy, preferred/aligned с opposing institutional line.
-- Sims директно обвинява Juliette за Marnes; това е character accusation, не факт.
-- Juliette хваща Judicial-associated operative Douglas Trumbull да manipulate/plant evidence.
-- Trumbull се опитва да убие Juliette чрез стълбите.
-- Sims лично убива Trumbull.
-- Sims след това представя Trumbull death като **suicide**.
-- Judge formal closure-ва case-а след този narrative.
-- Следователно `case closed` и `officially suicide` не могат автоматично да се третират като independently verified truth.
+- Juliette’s S01E05 PEZ bait produces an official lookup path in S01E06.
+- George’s former partner разпознава часовника му върху Juliette.
+- Тя описва George като човек, който използва хората, за да търси отговори на „големите въпроси“.
+- Това supports instrumental-investigator model, но не доказва, че отношенията му с Juliette са били purely manipulative.
+- H9 George may have been murdered остава low confidence; S01E06 не дава direct murder evidence.
 
-### Mayor / Marnes / Trumbull
+### Georgia / pre-Silo geography
 
-- Episode resolution представя Trumbull като отговорен за Mayor и Marnes deaths и за framing на Patrick Kennedy.
-- Това остава **character/institutional investigative conclusion**, защото command chain, motive и independent forensic proof не са установени.
-- Patrick evidence (rat poison + missing Mayor sketch) е epistemically compromised след direct evidence за Trumbull evidence manipulation.
-- Sims участва direct в elimination и cover-up на Trumbull.
-- Не знаем дали Sims е ultimate order source или има authority above him.
-
-### Exterior visual pipeline / astronomy
-
-- Cleaner lush view остава repeatable при Allison, Jane Carmody и Holston.
-- Public display normally показва barren exterior.
-- S01E03 power-down показва lush state на самия public display.
-- S01E04 показва normal night state.
-- S01E05 показва, че star-like night field има systematic/time-dependent behavior, достатъчно consistent за наблюдение през ~30-day intervals.
-- Cafeteria observer не знае concept-а „stars“ и ги описва като lights.
-- Това strengthens lost scientific-knowledge model-а.
-- Dynamic astronomical behavior **не authenticates** display-а като live physical sky; synthetic/time-indexed model остава possible.
-
-### Pact / knowledge / capability control
-
-- Unauthorized/homemade radio е strictly forbidden.
-- Relics/historical inquiry са restricted.
-- Access до lower construction layer е Pact-forbidden.
-- S01E05 добавя deliberate ban върху mechanized transport.
-- S01E05 добавя ban върху magnifying devices над определен threshold.
-- Това suggests control върху tools/capabilities for independent movement and observation, не само върху stored information.
+- Juliette получава pre-Silo travel guide: **Amazing Adventures in Georgia — a travel guide for kids**.
+- Pages показват Chattahoochee, Tybee Island / Georgia coast, North-American wildlife и U.S. flag imagery.
+- Georgia е reliably identified като **U.S. state Georgia**.
+- Това не доказва, че Silo physically се намира там.
+- Geographic connection hypothesis е допустима; location claim остава weak.
 
 ### The Syndrome
 
-- `The Syndrome` е explicit in-world term.
-- Exact condition, symptoms, cause, prevalence и treatment са unknown.
-- По-ранен blurred Mechanical/generator notice може да е related visual hint, но text не е reliably readable.
-- **Няма established link между The Syndrome и magnification ban.** Такава връзка е само VL speculation/open question.
+- New Deputy има The Syndrome.
+- Това е first concrete known character with the condition.
+- Cause, symptoms, prevalence, treatment и institutional consequences остават unknown.
+- Няма established link между Syndrome и magnification ban.
 
-### George investigation
+### Social / spatial anchors
 
-- Juliette има access до official George file.
-- Тя търси legal/investigative pretext за reopening на George case.
-- Това мотивира return-а ѝ в hidden sub-Silo construction layer.
-- В края на S01E05 тя взема George-associated **PEZ dispenser relic** като potential evidence hook/bait.
-- H9 остава low confidence: това не е direct George murder proof.
+- Level 14 е показано отново.
+- Forgiveness Holiday е established social/cultural observance, described as day for close ones/family/friends.
+- Level 17 е new direct spatial anchor.
+- Origin/function на Forgiveness Holiday остава unknown.
 
-### Resources / funerary space
+### Governance / Judicial
 
-- New-occupant notice показва return/recycling → redistribution на durable goods.
-- Indoor garden/green communal area има и funerary/memorial function.
-- Не е established дали burial process е част от biological resource cycle.
+- S01E05 остава direct baseline: Trumbull manipulates evidence, attacks Juliette; Sims kills Trumbull and falsifies suicide narrative; Judge closes case.
+- S01E06 добавя privileged Sims/Judicial relic-information access.
+- Това expands demonstrated Judicial/Sims capabilities from coercive/investigative action към restricted information access.
+- Не е доказано, че Judicial owns the surveillance control center.
+- Не е доказано, че Sims is top authority.
 
----
+### Exterior / celestial pipeline
+
+- Cleaner lush view remains repeatable.
+- Public display normally shows barren exterior.
+- Public display has normal night state and systematic star-like temporal movement.
+- Power-down briefly exposes lush imagery on public display.
+- S01E06 не разрешава competing exterior models.
 
 ## Активни hypotheses
 
@@ -113,18 +91,18 @@
 | H3 | Barren public view е до голяма степен реален, а lush cleaner view е overlay/simulation. | H | Active |
 | H4 | Cleaning поведението е engineered чрез това, което cleaner-ът вижда. | H | Strengthened |
 | H5 | Репродуктивният подбор се манипулира скрито отвъд permit process-а. | H | Active |
-| H6 | Post-Rebellion order умишлено потиска / е загубил substantial historical, technical и scientific knowledge. | H | Strengthened |
+| H6 | Post-Rebellion order deliberately restricts broad historical/scientific knowledge, while selected pre-Silo knowledge is preserved in privileged institutional systems. | VH | Strengthened / Refactored |
 | H7 | Official Rebellion account е непълен или подвеждащ. | M | Active |
-| H8 | В Silo има hidden content-level surveillance/reporting отвъд ordinary visible enforcement. | H | Strengthened / Refactored |
+| H8 | Silo authorities operate a covert centralized internal video-surveillance network covering multiple locations and capable of residential surveillance. | VH | Confirmed |
 | H9 | George Wilkins може да е бил убит. | L | Active |
-| H10 | `SILO_COUNT` може да подсказва повече от един Silo. | VL | Active |
+| H10 | SILO_COUNT може да подсказва повече от един Silo. | VL | Active |
 | H11 | Classified lower tunnel води към undisclosed lower/internal system. | M | Strengthened |
-| H12 | Pact-forbidden tunnel system е същата или пряко свързана структура с `CLASSIFIED` tunnel-а от HDD 18. | H | Active |
+| H12 | Pact-forbidden tunnel system е същата или пряко свързана структура с CLASSIFIED tunnel-а от HDD 18. | H | Active |
 | H13 | George е намерил door-а / входа към нея при flooded bottom. | H | Active |
 | H14 | Cleaner mortality включва suit/helmet/life-support factor. | M | Active |
-| H15 | `SILO YEAR 96/97` и mayor journals използват един и същ post-Rebellion calendar. | H | Active |
+| H15 | SILO YEAR 96/97 и mayor journals използват един и същ post-Rebellion calendar. | H | Active |
 | H16 | Current order съзнателно държи original construction layer извън normal access. | H | Active |
-| H17 | Judicial/Sims network има coercive/investigative capability отвъд ordinary adjudication, включително lethal enforcement и narrative control. | VH | Strengthened |
+| H17 | Judicial/Sims network има coercive/investigative capability отвъд ordinary adjudication, включително lethal enforcement, narrative control и privileged relic-information access. | VH | Strengthened |
 | H18 | Silo deliberately запазва slow human-powered vertical movement; това поддържа de facto social separation. | VH | Strengthened |
 | H19 | Suicide law отразява collective claim върху individual life/resource. | M | Active |
 | H20 | Unauthorized communication се ограничава, за да остане inter-level communication в controlled channels. | M | Active |
@@ -135,134 +113,56 @@
 | H25 | Judicial-associated operational network може да manipulate evidence/investigations и да използва lethal violence за desired case outcome. | VH | Active / Strengthened |
 | H26 | Sims участва директно в operational cleanup/cover-up, но може да не е highest command authority. | H | Active |
 | H27 | Pact ограничава physical capabilities за independent movement и observation/discovery, не само content. | M | Active |
+| H28 | George систематично е използвал personal relationships и чужди capabilities като част от investigation-а си на fundamental Silo mysteries. | M | Active |
+| H29 | Silo има pre-Silo geographic connection с U.S. state of Georgia. | L | Candidate |
 
----
+## Asymmetric knowledge model
 
-## Official-record trust model
+Ordinary resident / ordinary lookup → historical vocabulary degraded, object identity often unknown.
 
-S01E05 добавя critical rule:
+Restricted institutional layer → relic database, PRE-SILO classification, archival images, ledger references, privileged access.
 
-```text
-physical event observed by viewer
-        │
-        ├─ Sims kills Trumbull
-        │
-        ▼
-official account
-        │
-        └─ "suicide"
-        │
-        ▼
-formal case closure
-```
+Това е current best model за historical-information control след S01E06.
 
-Следователно official records трябва да се третират като **institutional claims**, когато няма independent corroboration.
+## Surveillance model
 
-Това е особено важно за George и други reported suicides, но не ги превръща автоматично в murders.
+Private/public internal spaces → covert video feeds → centralized multi-feed control center → multiple locations, active operators, Juliette home feed.
 
----
-
-## Governance model
-
-```text
-Mayor / civic executive
-        │
-        ├─ Sheriff's Department
-        │       ├─ Juliette — Sheriff
-        │       └─ aligned/preferred Deputy inserted after Marnes
-        │
-        ├─ Judicial / Judge
-        │       └─ Sims / operational network
-        │               └─ Trumbull (compromised operative)
-        │
-        └─ IT / Bernard
-```
-
-Critical unknown:
-
-`Does Sims terminate the command chain — or report upward?`
-
----
-
-## Movement / information capability model
-
-```text
-CONTENT CONTROL
-relics / archives / radio / lower-space knowledge
-
-CAPABILITY CONTROL
-mechanized transport banned
-high magnification restricted
-
-PHYSICAL CONSEQUENCE
-slow vertical movement + limited independent observation
-```
-
-H27 treats this only as a broad capability-control pattern; exact purpose remains unknown.
-
----
-
-## Exterior / celestial model
-
-Public visual pipeline now has at least:
-
-- normal barren daytime state;
-- normal barren night state;
-- systematic star-like temporal behavior;
-- abnormal lush power-down state.
-
-Competing models remain:
-
-1. lush real / barren manipulated;
-2. barren substantially real / lush overlay;
-3. both processed.
-
-S01E05 does not resolve which is true.
-
----
+Established: network existence/capability. Unknown: ownership, coverage, selection rules, retention/logging.
 
 ## George investigation trajectory
 
-```text
-George cache / HDD / lower-door clues
-        │
-        ▼
-Juliette becomes Sheriff
-        │
-        ▼
-reads official George file
-        │
-        ▼
-seeks pretext to reopen case
-        │
-        ▼
-returns to sub-Silo area
-        │
-        ▼
-takes PEZ relic as evidence hook
-```
+George cache/HDD/lower-door clues → Juliette becomes Sheriff → takes PEZ as evidence hook → PEZ is found → law-enforcement object lookup → Judicial relic database → PRE-SILO archival match.
 
----
+Това validates the bait mechanism more strongly, but still does not establish George murder.
 
-## Immediate watch targets за S01E06
+## Geography model
 
-- exact surveillance mechanism и who controls dossiers;
-- Sims command chain / possible authority above him;
-- independent proof за Trumbull = Mayor/Marnes killer narrative;
-- new Deputy loyalty, authority и exact role;
-- exact rationale за mechanized-transport ban;
-- exact scope/threshold на magnification ban;
-- The Syndrome — symptoms/cause/institutional treatment;
-- repeatability на celestial movement и authenticity на night display;
-- дали PEZ relic-ът позволява formal reopening на George case;
-- George official file vs independent evidence;
-- whether official suicide classifications elsewhere can be independently tested.
+Georgia travel guide → Chattahoochee + Tybee Island + U.S. flag + regional wildlife → Georgia = U.S. state confirmed.
+
+Silo located in Georgia remains weak speculation.
+
+## Immediate watch targets за S01E07
+
+- кой owns/controls surveillance center-а;
+- Judicial/Sims direct access до surveillance network-а има ли;
+- targeted vs broad monitoring;
+- residential camera placement/mechanism;
+- recording/log retention;
+- exact institutional role и scope на relic database;
+- кои departments имат access до pre-Silo records;
+- защо selected pre-Silo knowledge се пази, но public knowledge е restricted;
+- дали PEZ lookup formally reopen-ва George case-а;
+- George relationships като access/investigation network;
+- exact nature и institutional consequences на The Syndrome;
+- independent geographic corroboration за Georgia clue;
+- Sims command chain / possible authority above him.
 
 Виж също:
 
-- [`docs/episodes/S01E05.md`](docs/episodes/S01E05.md)
-- [`docs/evidence/S01E05-surveillance-trumbull-coverup.md`](docs/evidence/S01E05-surveillance-trumbull-coverup.md)
-- [`docs/evidence/S01E05-celestial-observation.md`](docs/evidence/S01E05-celestial-observation.md)
-- [`docs/evidence/S01E05-pact-capability-restrictions.md`](docs/evidence/S01E05-pact-capability-restrictions.md)
-- [`docs/evidence-ledger.md`](docs/evidence-ledger.md)
-- [`docs/open-questions.md`](docs/open-questions.md)
+- docs/episodes/S01E06.md
+- docs/evidence/S01E06-centralized-surveillance.md
+- docs/evidence/S01E06-relic-database-pre-silo.md
+- docs/evidence/S01E06-georgia-relic.md
+- docs/evidence-ledger.md
+- docs/open-questions.md
