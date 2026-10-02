@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S01E05 моделът включва engineered physical/information layers, institutional succession conflict, confirmed evidence manipulation/official cover-up, deliberate restrictions върху movement/observation capabilities и deep scientific-knowledge discontinuity.**
+> **След S01E06 моделът включва engineered physical/information layers, confirmed centralized covert surveillance, privileged institutional preservation на selected pre-Silo knowledge, institutional cover-up capability и deliberate restrictions върху movement/observation capabilities.**
 
 ## Език на проекта
 
