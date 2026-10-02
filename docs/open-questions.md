@@ -348,9 +348,36 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S01E08 — episode-end escape
 
-249. Какъв е immediate outcome от Juliette’s railing jump?
-250. Escape/evasion plan ли е, импровизация ли е, или има known route/landing structure?
+249. **RESOLVED in S01E09:** Juliette survives the initial drop by landing on / being caught by an intermediate bridge at Level 23.
+250. Escape/evasion context е established; било ли е Level-23 landing point-а pre-planned или improvised остава unresolved.
 251. Как authorities classify event-а, ако Juliette избяга от custody?
+
+
+## S01E09 — Level 23 / escape route
+
+252. Level 23 bridge-ът част от common circulation ли е, maintenance route ли е или special cross-connection?
+253. Juliette целенасочено ли избира Level 23 като landing/escape point?
+254. Какъв exact route използва след landing-а?
+255. Има ли surveillance coverage на Level 23 bridge-а?
+
+## S01E09 — numbered object/device `18`
+
+256. Какво е exact function на illuminated object/device marked `18`?
+257. Номерът `18` unique device ID ли е, role/position ID ли е, access identifier ли е или нещо друго?
+258. Има ли реална връзка между object `18` и HDD 18, или numerical overlap е coincidence?
+259. Кой има право да носи/използва такива devices?
+260. Device-ът communications, tracking, authentication, access-control или alert function ли има?
+261. Bernard/acting mayor как и защо го използва?
+
+## S01E09 — Jane Carmody cleaning file
+
+262. Какво точно Juliette вижда/заключава от `JANE CARMODY CLEANING`?
+263. Разпознава ли тя footage-а като contradiction спрямо barren public display?
+264. Може ли да compare-не Jane Carmody footage с Allison/Holston cleaning records?
+265. Има ли metadata във файла, което може да establish date/source/rendering pipeline?
+266. File-ът live capture ли е, recorded feed ли е, rendered output ли е или composite?
+267. Има ли други cleaning files със същата lush imagery?
+268. Това помага ли да identify-нем дали cleaner view е overlay, prerecorded layer или real external scene?
 
 ## Основен въпрос на проекта
 
