@@ -149,12 +149,25 @@
 | E141 | Juliette’s mother and George’s mother knew each other and had a common business/work relationship. | Character testimony / historical claim | H | Creates intergenerational bridge between Juliette and George families. |
 | E142 | Juliette’s mother is identified through testimony as a Flamekeeper. | Character testimony / historical claim | H | Makes Juliette descendant of a knowledge-preserving family line. |
 | E143 | Juliette’s father justifies his participation in implant deception by saying he had no choice. | Character testimony / self-justification | VH | Establishes his stated justification; objective coercion remains unresolved. |
-| E144 | Juliette believes/accuses her father of having betrayed her mother. | Character belief / accusation | VH | Objective betrayal act and motive remain unresolved. |
+| E144 | Juliette believes/accuses her father of having betrayed her mother. | Character belief / accusation | VH | Historical character belief at S01E07 boundary; S01E08 E153 materially revises this explanation. |
 | E145 | Juliette suspects residents are watched through mirrors. | Character hypothesis | H | Initially a character inference; E146 independently corroborates mechanism. |
 | E146 | Sims/context and surveillance feed corroborate concealed cameras behind/in mirror structures. | Direct observation + dialogue/context corroboration | VH | Confirms physical capture mechanism; does not prove every mirror is instrumented. |
 | E147 | Juliette finds/retrieves the hard drive connected to the George investigation. | Direct observation | VH | Reactivates HDD evidence line; exact `HDD 18` identifier is not reasserted unless shown/spoken in-scene. |
 | E148 | Level 26 is directly shown via level marker. | Direct visual evidence | VH | New spatial/worldbuilding anchor; screenshot validated. |
 | E149 | Confirmed surveillance coverage now spans residence, high-level official, medical/institutional space and multiple internal locations. | Cross-evidence inference | VH | Makes systemic rather than ad-hoc monitoring increasingly plausible; total coverage still unproven. |
+
+
+| E150 | Juliette’s mother built/possessed a homemade microscope-like magnification apparatus. | Direct visual + dialogue/context evidence | VH | Concrete independent-observation capability under the Pact magnification restriction; exact optical power unknown. |
+| E151 | The apparatus is used in a medical/scientific investigation involving a rabbit with a heart problem presented as analogous to Jacob’s condition. | Direct observation + dialogue/context | H | Shows biomedical discovery motive; does not establish genetic cause or exact diagnosis. |
+| E152 | A restricted-access institutional record documents authority attention to Juliette’s mother in connection with relic/magnification-device activity. | Direct visual/documentary evidence | H | Record existence/category is clear; small blurred text is not over-transcribed. |
+| E153 | Juliette realizes that mirror-camera surveillance provides a direct mechanism by which authorities could have learned about her mother’s microscope, revising her earlier father-as-informant belief. | Character realization + cross-evidence corroboration | VH | Father-as-informant is no longer necessary for this event; does not prove he never shared other information. |
+| E154 | A priority internal message addressed to Martha Walker from Medical / Dr Pete Nichols states: `RUNAWAY HEADING TO YOU, URGENT. ETA 6PM.` | Direct visual/documentary evidence | VH | Confirms structured interdepartmental digital messaging; screenshot text itself says only `RUNAWAY`, identity comes from scene context. |
+| E155 | Level 30 is directly shown via level marker. | Direct visual evidence | VH | New spatial/worldbuilding anchor; no special function established. |
+| E156 | Mayor and Sims coordinate a trap against Juliette. | Direct observation | VH | Demonstrates direct operational coordination; does not by itself establish hierarchy. |
+| E157 | Mayor and Sims claim Juliette said she wanted to go outside; no independent witness is established in the scene and the claim conflicts with the observed interaction. | Direct observation + false/disputed institutional claim | VH | Shows the cleaning-rule predicate can be fabricated/weaponized when officials control testimony. |
+| E158 | Bernard/IT states that Judge Meadows is afraid of him. | Character testimony / self-described power relation | VH | Establishes Bernard’s claim; objective hierarchy/leverage remains unresolved. |
+| E159 | Juliette is arrested on the basis of the claim that she said she wanted to go outside. | Direct observation + institutional action | VH | False/disputed testimony produces immediate coercive legal consequence. |
+| E160 | At episode end Juliette goes over the central-stair railing during escape/evasion context; outcome is not shown before cut. | Direct observation | VH | Do not classify as suicide attempt; outcome remains unknown at S01E08 boundary. |
 
 ## Визуални източници — S01E01
 
@@ -253,6 +266,20 @@ Validated manual-upload assets:
 
 `contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
 
+## Визуални източници — S01E08
+
+Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+
+- [Rabbit / heart-research context](../assets/S01E08/screenshots/juliette-mother-rabbit-heart-research.jpeg)
+- [Homemade microscope / magnification device](../assets/S01E08/screenshots/juliette-mother-illicit-microscope-device.jpeg)
+- [Restricted-access magnification record](../assets/S01E08/screenshots/juliette-mother-restricted-access-magnification-record.jpeg)
+- [Juliette mirror-surveillance realization](../assets/S01E08/screenshots/juliette-mirror-surveillance-realization.jpeg)
+- [Pete Nichols priority message to Martha Walker](../assets/S01E08/screenshots/pete-nichols-priority-message-to-martha-walker.jpeg)
+- [Level 30 marker](../assets/S01E08/screenshots/level-30-marker.jpeg)
+- [S01E08 visual evidence manifest](../assets/S01E08/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+
 ## Фокусирани evidence бележки
 
 - [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
@@ -270,3 +297,6 @@ Validated manual-upload assets:
 - [S01E07 — Flamekeepers, memory suppression и relic preservation](evidence/S01E07-flamekeepers-memory-erasure.md)
 - [S01E07 — Reproductive control, doctor confession и lineage suppression](evidence/S01E07-reproductive-control.md)
 - [S01E07 — Juliette, George и intergenerational Flamekeeper network](evidence/S01E07-flamekeeper-family-network.md)
+- [S01E08 — Illicit microscopy, restricted record и mirror-surveillance realization](evidence/S01E08-illicit-microscopy-and-mirror-surveillance.md)
+- [S01E08 — Fabricated/disputed cleaning trigger и arrest](evidence/S01E08-fabricated-cleaning-trigger.md)
+- [S01E08 — Bernard/IT claim за Judge Meadows](evidence/S01E08-bernard-judge-power.md)
