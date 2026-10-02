@@ -309,6 +309,49 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 223. Има ли modifications/deletions спрямо предишното known content?
 224. Level 26 има ли special institutional/social function или е само spatial anchor?
 
+
+## S01E08 — illicit microscopy / Juliette’s mother
+
+225. Какъв точно е optical magnification на homemade microscope-а?
+226. Explicitly classified ли е device-ът като Pact violation и кой threshold е приложен?
+227. Какво точно наблюдава/открива mother при rabbit investigation-а?
+228. Rabbit и Jacob имат ли established same diagnosis или само analogous heart problem?
+229. Защо magnification capability е restricted — biomedical discovery ли е target, или това е only one consequence of broader capability control?
+230. Кой е открил microscope-а и има ли surviving surveillance recording?
+231. Restricted record-ът каква exact процедура/санкция документира?
+232. Father предоставял ли е информация за mother по други линии, дори ако microscope discovery може да се обясни чрез surveillance?
+
+## S01E08 — internal communication / Level 30
+
+233. Кой има access до interdepartmental digital messaging system-а?
+234. Messages archive/search/monitor-ват ли се от surveillance/control layer?
+235. `PRIVATE` service/channel какво означава practically?
+236. Level 30 има ли special institutional/social function или е само spatial anchor?
+
+## S01E08 — Mayor / Sims / fabricated exit claim
+
+237. Каква exact legal/procedural consequence следва от claim-а, че Sheriff е казала “искам да изляза”?
+238. Изисква ли rule-ът independent witness, recording или written confirmation?
+239. Има ли camera/audio record на room-а, който може да falsify Mayor/Sims testimony?
+240. Кой formalizes claim-а в official record?
+241. Juliette има ли право да contest-не claim-а преди cleaning procedure?
+242. Mayor и Sims действат ли по предварително общ plan или one of them initiates the fabrication?
+243. Това isolated abuse ли е или known institutional technique?
+
+## S01E08 — Bernard / Judge Meadows hierarchy
+
+244. Bernard’s claim, че Judge Meadows се страхува от него, independent corroboration получава ли?
+245. Какъв concrete leverage може да има IT/Bernard над Judge?
+246. Judge surveillance свързана ли е с Bernard/IT, Sims, или друга authority?
+247. Bernard above Judge ли е operationally, или просто claims personal leverage?
+248. Как се разпределя реалната власт между Mayor, IT, Judicial, Sims и Sheriff office?
+
+## S01E08 — episode-end escape
+
+249. Какъв е immediate outcome от Juliette’s railing jump?
+250. Escape/evasion plan ли е, импровизация ли е, или има known route/landing structure?
+251. Как authorities classify event-а, ако Juliette избяга от custody?
+
 ## Основен въпрос на проекта
 
 163. Авторитарният control в Silo основно real survival necessity ли е, institutional system надживяла original purpose, deliberate deception, или combination от трите?
