@@ -169,6 +169,13 @@
 | E159 | Juliette is arrested on the basis of the claim that she said she wanted to go outside. | Direct observation + institutional action | VH | False/disputed testimony produces immediate coercive legal consequence. |
 | E160 | At episode end Juliette goes over the central-stair railing during escape/evasion context; outcome is not shown before cut. | Direct observation | VH | Do not classify as suicide attempt; outcome remains unknown at S01E08 boundary. |
 
+
+| E161 | Juliette survives the initial railing jump by landing on / being caught by an intermediate bridge structure. | Direct observation | VH | Resolves S01E08 immediate-outcome uncertainty; event remains escape/evasion rather than suicide attempt. |
+| E162 | Level 23 is directly shown during Juliette’s post-jump escape sequence. | Direct visual evidence | VH | New spatial/worldbuilding anchor; no special function established. |
+| E163 | A small illuminated object/device marked `18` is directly shown. | Direct visual evidence | VH | Number is clear; function unknown. |
+| E164 | Scene context associates the illuminated `18` object/device with Bernard / the acting mayor. | Direct observation / context-linked visual evidence | H | Does not establish what the device does or any relation to HDD 18. |
+| E165 | At the end of S01E09 Juliette opens the known `JANE CARMODY CLEANING` file from the hard-drive evidence chain. | Direct observation + cross-episode file match | VH | Connects Juliette directly to E014 lush-cleaning footage; does not resolve whether lush exterior is real or synthetic. |
+
 ## Визуални източници — S01E01
 
 - [Публичният екран с barren exterior](../assets/S01E01/screenshots/exterior-barren-display.webp)
@@ -280,6 +287,19 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 
 `contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
 
+## Визуални източници — S01E09
+
+Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+
+- [Juliette fall / Level 23 bridge](../assets/S01E09/screenshots/juliette-fall-level-23-bridge.jpeg)
+- [Level 23 marker](../assets/S01E09/screenshots/level-23-marker.jpeg)
+- [Bernard / numbered device 18](../assets/S01E09/screenshots/bernard-number-18-device.jpeg)
+- [S01E09 visual evidence manifest](../assets/S01E09/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+
+The episode-ending Jane Carmody cleaning-file frame is recorded as direct episode observation (E165) but is not part of the current screenshot batch.
+
 ## Фокусирани evidence бележки
 
 - [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
@@ -300,3 +320,6 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [S01E08 — Illicit microscopy, restricted record и mirror-surveillance realization](evidence/S01E08-illicit-microscopy-and-mirror-surveillance.md)
 - [S01E08 — Fabricated/disputed cleaning trigger и arrest](evidence/S01E08-fabricated-cleaning-trigger.md)
 - [S01E08 — Bernard/IT claim за Judge Meadows](evidence/S01E08-bernard-judge-power.md)
+- [S01E09 — Level 23 bridge landing / escape outcome](evidence/S01E09-level23-escape.md)
+- [S01E09 — Numbered object/device `18`](evidence/S01E09-number18-device.md)
+- [S01E09 — Juliette opens `JANE CARMODY CLEANING`](evidence/S01E09-jane-carmody-cleaning.md)
