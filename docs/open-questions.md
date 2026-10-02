@@ -1,8 +1,8 @@
 # Отворени въпроси
 
-**Knowledge boundary:** **S01E06**
+**Knowledge boundary:** **S01E07**
 
-Въпросите са само за knowledge state-а до S01E06. Не се използва информация от S01E07+, книги, wiki, interviews, leaks или retrospective explanations.
+Въпросите са само за knowledge state-а до S01E07. Не се използва информация от S01E08+, книги, wiki, interviews, leaks или retrospective explanations.
 
 Resolved/partially resolved questions от по-ранни епизоди са премахнати или refactor-нати вместо да се пазят като вече неверни watch targets.
 
@@ -121,7 +121,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ### Explicit discipline
 
-90. **The Syndrome ↔ magnification ban има ли връзка?** Към S01E05: `VL speculation only`; няма evidence за accepted link.
+90. **The Syndrome ↔ magnification ban има ли връзка?** Към S01E07: `VL speculation only`; няма evidence за accepted link.
 
 ## The Syndrome
 
@@ -136,10 +136,10 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## Surveillance / dossiers
 
-99. Как content-ът от Juliette–Holston conversation попада в dossier-а?
-100. Какъв е exact capture mechanism на residential video feeds и къде са камерите/sensors?
+99. Как content-ът от Juliette–Holston conversation попада в dossier-а — mirror-camera system записва ли и audio, или има separate reporting channel?
+100. Всички mirrors ли са instrumented, или само selected locations?
 101. Кой събира, indexes и stores dossiers и video-surveillance logs?
-102. Кой formally owns/controls centralized surveillance center-а: Judicial, IT или separate hidden authority?
+102. Кой formally owns centralized surveillance infrastructure beyond Sims's confirmed operational command: Judicial, IT или separate hidden authority?
 103. Колко widespread е network coverage — targeted residents, broad residential coverage или near-total internal monitoring?
 104. Как се избират targets и кой authorizes monitoring?
 105. Sheriff има ли access до surveillance data, или Juliette вижда само selected institutional material?
@@ -150,7 +150,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 107. Какво е exact division of power между Mayor, Sheriff, Judicial и IT?
 108. Judicial formal investigative authority ли има, или observed parallel investigation е exceptional?
 109. Каква е exact authority на Judge да close cases?
-110. Каква е exact role/authority на Sims?
+110. Каква е formal authority на Sims спрямо confirmed operational command над surveillance и covert enforcement?
 111. На кого report-ва Sims?
 112. Има ли authority above Sims, която orders covert operations?
 113. Sims ли е поръчал Trumbull actions, или управлява cleanup след orders от друг layer?
@@ -253,6 +253,61 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 182. Pact/state holiday ли е, religious/civic tradition ли е или post-Rebellion custom?
 183. Каква social-control, reconciliation или memorial function има, ако изобщо има?
 184. Level 17 има ли special institutional/social function или е само spatial anchor?
+
+## S01E07 — Flamekeepers / historical erasure
+
+185. Каква е exact origin/history на Flamekeepers?
+186. Flamekeepers част от Rebellion ли са, предшественици ли са, allies ли са или отделна group?
+187. Кой historical source потвърждава independently, че Flamekeepers са пазели history/relics?
+188. Кой е въвел relic prohibition и кога спрямо Rebellion?
+189. Relic ban explicit historical-erasure policy ли е в institutional records, или това остава testimony-based purpose?
+190. Какво точно е било добавяно във water supply според memory-suppression account-а?
+191. Има ли medical/chemical/engineering evidence за такъв agent?
+192. Какъв е mechanism-ът: memory formation, recall, cognition или друго?
+193. Practice-ът действително ли predates Rebellion и колко дълго е продължил?
+194. Кой authority е управлявал pre-Rebellion memory-control program-а?
+
+## S01E07 — reproductive control / medical chain
+
+195. Кой е определял кои patients да получат false implant-removal procedure?
+196. Има ли formal/secret list на targeted family lines?
+197. Flamekeeper descendants ли са били единствената target group?
+198. Кой е давал instructions на doctors?
+199. Какво е знаел Juliette’s father за ultimate purpose-а на procedure?
+200. Какви са били consequences при refusal от doctor?
+201. Може ли claim-ът “нямах избор” да бъде independently corroborated?
+202. Колко doctors са участвали в program-а?
+203. Как е прикриван фактът, че implants остават in place?
+204. Allison specifically targeted ли е по lineage/history reason, или по друг criterion?
+
+## S01E07 — Juliette / George family network
+
+205. Какъв точно е бил common business/work relation-ът между майката на Juliette и майката на George?
+206. Бил ли е този business част от Flamekeeper preservation activity?
+207. Каква е exact role на Gloria в Flamekeepers?
+208. Защо Gloria предава Georgia book-а на George’s mother?
+209. Какво още е било предадено по тази family/relic chain?
+210. George знаел ли е отначало, че mother му е Flamekeeper?
+211. Juliette знаела ли е нещо за mother’s Flamekeeper role преди S01E07 reveal-а?
+212. Juliette family specifically targeted ли е заради Flamekeeper lineage?
+
+## S01E07 — Sims / Judge / surveillance architecture
+
+213. Judge Meadows знае ли, че е monitored?
+214. Защо Judge е surveillance target?
+215. Sims може ли да observe Judge without approval from higher authority?
+216. Има ли authority над Sims, която controls both Judge and surveillance system?
+217. Mirror units capture-ват ли audio в допълнение към video?
+218. Janitorial closet route единственият entrance ли е към control center-а?
+219. Къде physically се намира surveillance center-ът спрямо visible Silo levels?
+220. Medical-center surveillance включва ли patient/private clinical rooms или само common areas?
+
+## S01E07 — hard drive / spatial anchors
+
+221. Намереният hard drive explicitly re-established ли е като `HDD 18`?
+222. Какво съдържа drive-ът при новия access и какво Juliette успява да прочете?
+223. Има ли modifications/deletions спрямо предишното known content?
+224. Level 26 има ли special institutional/social function или е само spatial anchor?
 
 ## Основен въпрос на проекта
 
