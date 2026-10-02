@@ -186,9 +186,10 @@
 
 ## Визуални източници — S01E04
 
-- [Public display — night exterior state](../assets/S01E04/screenshots/public-display-night-exterior-state.jpeg)
-- [Up-top Sheriff / airlock corridor context](../assets/S01E04/screenshots/up-top-sheriff-airlock-corridor.jpeg)
-- [New occupant recycling / redistribution notice](../assets/S01E04/screenshots/new-occupant-recycling-redistribution-notice.jpeg)
+- [Public display night exterior state](../assets/S01E04/screenshots/public-display-night-exterior-state.jpeg)
+- [Up-top Sheriff / airlock corridor](../assets/S01E04/screenshots/up-top-sheriff-airlock-corridor.jpeg)
+- [Recycling / redistribution notice](../assets/S01E04/screenshots/new-occupant-recycling-redistribution-notice.jpeg)
+- [S01E04 visual evidence manifest](../assets/S01E04/MANIFEST.md)
 
 ## Визуални източници — S01E05
 
