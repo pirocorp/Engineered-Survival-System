@@ -1,8 +1,8 @@
 # Отворени въпроси
 
-**Knowledge boundary:** **S01E05**
+**Knowledge boundary:** **S01E06**
 
-Въпросите са само за knowledge state-а до S01E05. Не се използва информация от S01E06+, книги, wiki, interviews, leaks или retrospective explanations.
+Въпросите са само за knowledge state-а до S01E06. Не се използва информация от S01E07+, книги, wiki, interviews, leaks или retrospective explanations.
 
 Resolved/partially resolved questions от по-ранни епизоди са премахнати или refactor-нати вместо да се пазят като вече неверни watch targets.
 
@@ -132,18 +132,18 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 95. Как се diagnoses/treats?
 96. Има ли occupational/geographic clustering?
 97. Какво пише на по-ранния blurred Mechanical/generator notice за Syndrome?
-98. Има ли institutional restrictions/rights consequences за affected residents?
+98. Има ли institutional restrictions/rights consequences за affected residents, включително office eligibility, след като new Deputy е concrete affected character?
 
 ## Surveillance / dossiers
 
 99. Как content-ът от Juliette–Holston conversation попада в dossier-а?
-100. Hidden microphones/technical recording ли има, или human informants/reporting chain?
-101. Кой събира, indexes и stores dossiers?
-102. Judicial ли контролира records, IT ли, или друга hidden authority?
-103. Колко widespread е content-level surveillance?
-104. Наблюдават ли се homes/private rooms?
-105. Sheriff има ли access до surveillance data, или Juliette вижда само selected file material?
-106. Residents знаят ли scope-а на surveillance?
+100. Какъв е exact capture mechanism на residential video feeds и къде са камерите/sensors?
+101. Кой събира, indexes и stores dossiers и video-surveillance logs?
+102. Кой formally owns/controls centralized surveillance center-а: Judicial, IT или separate hidden authority?
+103. Колко widespread е network coverage — targeted residents, broad residential coverage или near-total internal monitoring?
+104. Как се избират targets и кой authorizes monitoring?
+105. Sheriff има ли access до surveillance data, или Juliette вижда само selected institutional material?
+106. Residents знаят ли scope-а на surveillance и има ли official/legal cover за него?
 
 ## Judicial / Sims / command chain
 
@@ -221,6 +221,38 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 160. Как ще използва PEZ relic-а като reopening hook?
 161. Ще expose-не ли hidden construction layer, ако case изисква provenance?
 162. Ще се върне ли към flooded bottom / lower door като part of official investigation?
+
+## S01E06 relic database / pre-Silo knowledge
+
+165. Кой е owner/operator на `RELIC DATABASE`?
+166. Кои departments освен Judicial имат access до relic/seized-object records?
+167. Какво означава `ACCESS PERMISSIONS: ALL` practically — all relic records, all object logs или broader system access?
+168. Колко comprehensive е pre-Silo archive-ът и кой го е създал/поддържа?
+169. Защо selected pre-Silo knowledge е preserved institutionally, докато public historical knowledge е suppressed/degraded?
+170. PEZ-like Object 1175 същият physical item ли е или само archival match към similar object?
+171. Какво може да reveal-не ledger ref `D55-M`?
+172. Formal lookup-ът достатъчен ли е да reopen-не George case-а?
+
+## George relationships / investigation network
+
+173. Колко от George’s personal relationships са били свързани с access, relics, technical skills или information?
+174. Former partner testimony за „използва хората“ corroborated ли е от independent behavior/evidence?
+175. Juliette била ли е chosen partly заради Mechanical access/capabilities, без това да imply absence of genuine feelings?
+176. Кои други people може да са били част от George’s informal investigation network?
+
+## Georgia / geography
+
+177. Travel guide-ът local relic ли е или може да е imported/collected object?
+178. Има ли second independent clue, който свързва Silo с Georgia, USA?
+179. Ако бъде намерен second clue, constrains ли той state-level location или само broader pre-Silo provenance?
+180. Tybee Island / Chattahoochee references имат ли direct relevance към Silo location или са merely guide content?
+
+## Social / cultural system
+
+181. Какъв е origin-ът на Forgiveness Holiday?
+182. Pact/state holiday ли е, religious/civic tradition ли е или post-Rebellion custom?
+183. Каква social-control, reconciliation или memorial function има, ако изобщо има?
+184. Level 17 има ли special institutional/social function или е само spatial anchor?
 
 ## Основен въпрос на проекта
 

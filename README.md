@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S01E05 моделът включва engineered physical/information layers, institutional succession conflict, confirmed evidence manipulation/official cover-up, deliberate restrictions върху movement/observation capabilities и deep scientific-knowledge discontinuity.**
+> **След S01E06 моделът включва engineered physical/information layers, confirmed centralized covert surveillance, privileged institutional preservation на selected pre-Silo knowledge, institutional cover-up capability и deliberate restrictions върху movement/observation capabilities.**
 
 ## Език на проекта
 
@@ -16,17 +16,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S01E05**
+**Текуща граница на знанието:** **S01E06**
 
-**Статус на гледане:** **Сезон 1, епизод 5**
+**Статус на гледане:** **Сезон 1, епизод 6**
 
-Не се използва никаква информация от S01E06+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация от S01E07+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S01E05 най-силният работен модел е:
+След S01E06 най-силният работен модел е:
 
-> **Силозът е 144-level engineered habitation/control system с official population 10 112, dynamic exterior visual pipeline, hidden lower construction/energy layers, deliberately constrained vertical mobility, restricted observation technologies и institutions, които могат да manipulate evidence и official narratives.**
+> **Силозът е 144-level engineered habitation/control system с official population 10 112, dynamic exterior visual pipeline, hidden lower construction/energy layers, deliberately constrained capabilities, centralized covert internal surveillance и privileged institutional archives за selected pre-Silo knowledge.**
 
 Ключови установени линии:
 
@@ -46,8 +46,11 @@
 - Judge formal closure-ва case-а след този false narrative;
 - следователно official institutional record не може автоматично да се третира като independently established truth;
 - Juliette търси formal hook за reopening на George case-а и взема PEZ relic-а от sub-Silo area;
-- `The Syndrome` е explicit in-world term, но nature/cause остават unknown;
-- **няма established Syndrome ↔ magnification link** — това остава VL speculation/open question only.
+- `The Syndrome` е explicit in-world term; S01E06 establishes new Deputy като concrete affected character, но nature/cause остават unknown;
+- **няма established Syndrome ↔ magnification link** — това остава VL speculation/open question only;
+- centralized multi-feed surveillance control center наблюдава множество internal locations, включително Juliette в дома ѝ;
+- restricted Judicial relic database пази archival `PRE-SILO` records и Sims/Judicial има privileged access;
+- pre-Silo Georgia travel guide establishes concrete U.S.-Georgia geography, но не locates the Silo.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
@@ -59,6 +62,7 @@
 - [`docs/episodes/S01E03.md`](docs/episodes/S01E03.md) — episode record за S01E03.
 - [`docs/episodes/S01E04.md`](docs/episodes/S01E04.md) — episode record за S01E04.
 - [`docs/episodes/S01E05.md`](docs/episodes/S01E05.md) — episode record за S01E05.
+- [`docs/episodes/S01E06.md`](docs/episodes/S01E06.md) — episode record за S01E06.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
@@ -68,12 +72,15 @@
 - [`docs/evidence/S01E05-surveillance-trumbull-coverup.md`](docs/evidence/S01E05-surveillance-trumbull-coverup.md) — surveillance, framing, Trumbull и false suicide narrative.
 - [`docs/evidence/S01E05-celestial-observation.md`](docs/evidence/S01E05-celestial-observation.md) — star-like temporal behavior и lost astronomical knowledge.
 - [`docs/evidence/S01E05-pact-capability-restrictions.md`](docs/evidence/S01E05-pact-capability-restrictions.md) — mechanized-transport и magnification restrictions.
+- [`docs/evidence/S01E06-centralized-surveillance.md`](docs/evidence/S01E06-centralized-surveillance.md) — direct-confirmed centralized internal surveillance.
+- [`docs/evidence/S01E06-relic-database-pre-silo.md`](docs/evidence/S01E06-relic-database-pre-silo.md) — PEZ lookup, Judicial relic DB и preserved pre-Silo knowledge.
+- [`docs/evidence/S01E06-georgia-relic.md`](docs/evidence/S01E06-georgia-relic.md) — Georgia, USA pre-Silo geography clue.
 - [`docs/open-questions.md`](docs/open-questions.md) — активните въпроси за falsification / future testing.
 - [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — visual evidence от S01E01.
 - [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — selected visual evidence от S01E02.
 - [`assets/S01E03/screenshots/`](assets/S01E03/screenshots/) — selected visual evidence от S01E03.
 - [`assets/S01E04/screenshots/`](assets/S01E04/screenshots/) — selected visual evidence от S01E04.
-
+- [`assets/S01E05/screenshots/`](assets/S01E05/screenshots/) — selected visual evidence от S01E05.
 
 ## Основна директива
 
@@ -97,6 +104,10 @@
 S01E05 дава direct-confirmed example: Sims kills Trumbull → official narrative says suicide → Judge closes case.
 
 Това не означава, че всички official records са false. Означава, че official records се класифицират като institutional claims, когато няма independent corroboration.
+
+### Допълнително правило след S01E06
+
+**Public knowledge loss ≠ total institutional knowledge loss.** Restricted relic DB показва, че selected pre-Silo records са preserved в privileged systems. Hidden surveillance също вече е direct-confirmed infrastructure, а не само dossier inference.
 
 ## Spoiler discipline
 
@@ -190,7 +201,7 @@ Confidence не е математическа вероятност и не за�
 
 ## Текущи competing models за външния свят
 
-След S01E05 все още не избираме окончателно една версия:
+След S01E06 все още не избираме окончателно една версия:
 
 1. **Lush exterior is real** — public display-ът е false/manipulated.
 2. **Barren exterior is substantially real** — cleaner helmet view е overlay/simulation.
@@ -207,7 +218,7 @@ LEVEL 1 / UP-TOP ?
         └─ secure airlock / cleaning access ?
         │
         ▼
-LEVEL 8 → 9 → 12 → ~14 JUDICIAL → 27 → 29
+LEVEL 8 → 9 → 12 → ~14 JUDICIAL → 17 → 27 → 29
         │
         ▼
 LEVEL 50 / MIDS
@@ -259,6 +270,7 @@ episode/S01E02
 episode/S01E03
 episode/S01E04
 episode/S01E05-analysis
+episode/S01E06-analysis
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -268,4 +280,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S01E06`
+**Следваща knowledge boundary:** `S01E07`
