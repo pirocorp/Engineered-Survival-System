@@ -37,7 +37,7 @@
 - S01E05 показва systematic/time-dependent star-like movement на night display-а;
 - observer в cafeteria не знае concept-а „stars“ и сам reconstruct-ва movement patterns;
 - Silo има **144 levels** и Bernard заявява **10 112 current residents**;
-- observed level anchors вече включват `8, 9, 12, ~14, 27, 29, 50`;
+- observed direct level anchors вече включват `8, 9, 12, 14, 17, 26, 27, 29, 30, 50`;
 - Pact deliberately забранява mechanized transport през Silo;
 - Pact забранява magnifying devices над определен threshold;
 - Juliette dossier съдържа content от разговора ѝ с Holston → strong hidden-surveillance/reporting evidence;
