@@ -1,6 +1,6 @@
 # Evidence регистър
 
-Текуща **knowledge boundary:** **S01E05**
+Текуща **knowledge boundary:** **S01E06**
 
 | ID | Evidence | Клас | Confidence | Бележки |
 |---|---|---|---:|---|
@@ -112,6 +112,23 @@
 | E106 | This search for a reopening hook motivates Juliette to return to the hidden sub-Silo construction/excavation area. | Direct action + motive context | H | Connects official investigation to hidden layer. |
 | E107 | At episode end Juliette takes the George-associated PEZ dispenser relic as an evidence hook/bait. | Direct observation | VH | Does not itself prove George murder. |
 
+| E108 | Намереният PEZ-like relic влиза в official Sheriff/law-enforcement handling flow след като е намерен от new Deputy. | Direct observation / investigation event | H | Strongly supports intended bait effect; exact placement action остава inference. |
+| E109 | Sheriff object-search interface няма known object name и описва relic-а физически като `YELLOW, PLASTIC, BLUE HANDLE`. | Direct visual evidence | VH | Показва липса на normal object identity/name в ordinary law-enforcement lookup context. |
+| E110 | Съществува restricted `RELIC DATABASE` / `RELIC/SEIZED OBJECTS INVENTORY` с label `JUDICIARY PERSONNEL ONLY`. | Direct visual evidence | VH | Direct evidence за privileged institutional relic records. |
+| E111 | Relic DB screen показва `ACCESS PERMISSIONS: ALL` и `SEARCH AUTHORIZATION: ACCESS ALL RECORDS/OBJECT LOGS` в context `JUDICIAL: SIMS`. | Direct visual evidence | VH | Establishes privileged Sims/Judicial authorization; не доказва кой physically executes всяко search действие. |
+| E112 | Relic DB връща `OBJECT 1175`, `ORIGIN: PRE-SILO`, `LEDGER REF D55-M`, `LOCATION FOUND: UNKNOWN` и description `SMALL PLASTIC CONTAINER`, плюс archival image. | Direct visual evidence | VH | Direct evidence за preserved pre-Silo object classification/records. |
+| E113 | Level 14 е показано отново; dialogue маркира `Forgiveness Holiday` като ден за близки, семейство и приятели. | Direct visual + dialogue evidence | H | Repeated spatial anchor + new social/cultural datapoint; origin/function на holiday unknown. |
+| E114 | George’s former partner разпознава часовника, носен от Juliette, като свързан с George. | Character identification / physical provenance | H | Създава George → watch → Juliette provenance chain. |
+| E115 | George’s former partner го описва като човек, който използва хората за целите си и търси отговори на „големите въпроси“. | Character testimony | M | Supports instrumental-investigator model; не доказва, че всяка relationship е била purely instrumental. |
+| E116 | New Deputy има `The Syndrome`. | Character/medical fact | H | First concrete known character with the condition; cause/symptoms/institutional consequences still unknown. |
+| E117 | Level 17 е директно показано чрез level marker. | Direct visual evidence | VH | New spatial/worldbuilding anchor; no special function established. |
+| E118 | Juliette получава pre-Silo relic `Amazing Adventures in Georgia — a travel guide for kids`. | Direct visual/context evidence | VH | Concrete pre-Silo geographic material. |
+| E119 | Travel guide pages съдържат Chattahoochee, Tybee Island/Georgia coast, North-American wildlife и U.S. flag imagery. | Direct visual evidence | VH | Reliably identifies `Georgia` as the U.S. state; does not locate the Silo by itself. |
+| E120 | Remote video feed показва Juliette вътре в личното ѝ жилище. | Direct visual evidence | VH | Directly establishes residential-surveillance capability. |
+| E121 | Wide shot показва dedicated centralized surveillance control center с множество monitoring stations и operator consoles. | Direct visual evidence | VH | Surveillance infrastructure is organized and persistent, not a single ad-hoc feed. |
+| E122 | Control center показва множество simultaneous feeds от различни Silo locations и active operators; Juliette’s home feed е част от тази wall. | Direct visual evidence | VH | Establishes multi-location centralized monitoring. |
+| E123 | Selected pre-Silo knowledge е preserved в privileged institutional records, докато residents demonstrably lack basic historical/object knowledge. | Cross-evidence inference | VH | Refactors H6 from simple knowledge loss toward asymmetric preservation + restricted access. |
+
 ## Визуални източници — S01E01
 
 - [Публичният екран с barren exterior](../assets/S01E01/screenshots/exterior-barren-display.webp)
@@ -183,6 +200,22 @@
 - [Public display — star-like night sky](../assets/S01E05/screenshots/public-display-star-like-night-sky.jpeg)
 - [Monthly celestial movement record](../assets/S01E05/screenshots/monthly-celestial-movement-record.jpeg)
 
+## Визуални източници — S01E06
+
+Full-quality screenshots са подготвени за manual upload в `assets/S01E06/screenshots/`:
+
+- [PEZ relic — law-enforcement object search](../assets/S01E06/screenshots/pez-relic-law-enforcement-object-search.jpeg)
+- [Forgiveness Holiday / level marker](../assets/S01E06/screenshots/forgiveness-holiday-level-marker.jpeg)
+- [Judicial relic database — Sims access](../assets/S01E06/screenshots/judicial-relic-database-sims-access.jpeg)
+- [Relic database — PRE-SILO Object 1175](../assets/S01E06/screenshots/judicial-relic-database-pre-silo-object-1175.jpeg)
+- [Level 17 marker](../assets/S01E06/screenshots/level-17-marker.jpeg)
+- [Georgia travel guide relic](../assets/S01E06/screenshots/pre-silo-georgia-travel-guide-relic.jpeg)
+- [Georgia / Chattahoochee forest](../assets/S01E06/screenshots/pre-silo-georgia-chattahoochee-forest.jpeg)
+- [Georgia wildlife guide](../assets/S01E06/screenshots/pre-silo-georgia-wildlife-guide.jpeg)
+- [Georgia coast / Tybee Island](../assets/S01E06/screenshots/pre-silo-georgia-coast-tybee-island.jpeg)
+- [Juliette home surveillance feed](../assets/S01E06/screenshots/juliette-home-surveillance-feed.jpeg)
+- [Centralized surveillance control center — wide](../assets/S01E06/screenshots/centralized-surveillance-control-center-wide.jpeg)
+
 ## Фокусирани evidence бележки
 
 - [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
@@ -193,3 +226,6 @@
 - [S01E05 — Surveillance, Trumbull и official cover-up](evidence/S01E05-surveillance-trumbull-coverup.md)
 - [S01E05 — Celestial observation](evidence/S01E05-celestial-observation.md)
 - [S01E05 — Pact capability restrictions](evidence/S01E05-pact-capability-restrictions.md)
+- [S01E06 — Centralized internal surveillance](evidence/S01E06-centralized-surveillance.md)
+- [S01E06 — PEZ, relic database и preserved pre-Silo knowledge](evidence/S01E06-relic-database-pre-silo.md)
+- [S01E06 — Georgia pre-Silo geography relic](evidence/S01E06-georgia-relic.md)
