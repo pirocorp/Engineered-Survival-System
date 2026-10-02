@@ -1,6 +1,6 @@
 # Evidence регистър
 
-Текуща **knowledge boundary:** **S01E06**
+Текуща **knowledge boundary:** **S01E07**
 
 | ID | Evidence | Клас | Confidence | Бележки |
 |---|---|---|---:|---|
@@ -129,6 +129,33 @@
 | E122 | Control center показва множество simultaneous feeds от различни Silo locations и active operators; Juliette’s home feed е част от тази wall. | Direct visual evidence | VH | Establishes multi-location centralized monitoring. |
 | E123 | Selected pre-Silo knowledge е preserved в privileged institutional records, докато residents demonstrably lack basic historical/object knowledge. | Cross-evidence inference | VH | Refactors H6 from simple knowledge loss toward asymmetric preservation + restricted access. |
 
+| E124 | Sims знае за centralized surveillance system и operationally ръководи/дава указания на surveillance personnel. | Direct observation / dialogue | VH | Resolves E06 uncertainty at operational-command level; does not prove Sims is highest authority. |
+| E125 | Level 14 е показано отново в S01E07. | Direct visual evidence | VH | Repeated spatial anchor; screenshot validated. |
+| E126 | Sims има access до surveillance feed, който включва Judge Meadows. | Direct visual evidence | VH | Judge is a surveillance subject; hierarchy Judge ↔ Sims remains unresolved. |
+| E127 | Centralized surveillance network наблюдава и medical center / clinical space. | Direct visual evidence | VH | Expands confirmed coverage beyond residence/public spaces. |
+| E128 | Входът към surveillance control center е concealed през/зад janitorial closet. | Direct observation | VH | Demonstrates physically hidden institutional infrastructure inside inhabited Silo. |
+| E129 | Flamekeepers са named historical group, описана като опитваща се да запази history/knowledge срещу заличаването му. | Character testimony / historical claim | H | Objective historical account still needs independent corroboration. |
+| E130 | Според historical testimony нещо е добавяно във водата с цел suppression/erasure на memories. | Character testimony / historical claim | M | First concrete proposed active-memory-control mechanism. |
+| E131 | Същият account поставя memory-suppression practice преди Rebellion. | Character testimony / historical claim | M | If accurate, Rebellion is not origin point of historical amnesia. |
+| E132 | Flamekeepers са отделно named в testimony; exact relation Flamekeepers ↔ Rebels/Rebellion не е direct-established. | Epistemic constraint / character-history context | H | Prevents premature equation of Flamekeepers with rebels. |
+| E133 | Flamekeepers са пазели old objects/relics именно като начин да съхранят historical memory. | Character testimony / historical claim | H | Relics become explicit physical memory carriers. |
+| E134 | Според testimony relic restrictions служат на deliberate historical erasure. | Character testimony about institutional purpose | H | Strongly supports H6; motive remains testimony-based rather than institutional documentation. |
+| E135 | Historical testimony твърди, че reproductive control е използван срещу Flamekeepers/descendants, за да не продължат family lines и постепенно да изчезнат. | Character testimony / historical claim | H | Supports selective lineage-suppression model. |
+| E136 | Medical system е описан като използващ false implant-removal assurances при selected women. | Character testimony / historical mechanism | H | Mechanism receives direct independent corroboration in E137. |
+| E137 | Juliette’s father personally admits that he lied to female patients that contraceptive implants had been removed while actually leaving them in place. | Direct dialogue / admission | VH | Independently corroborates Allison’s S01E01 retained-implant evidence; confirms covert medical-deception mechanism. |
+| E138 | George’s mother е identified through testimony as a Flamekeeper. | Character testimony / historical claim | H | Gives George direct family link to knowledge-preservation network. |
+| E139 | Georgia travel guide provenance is described as Gloria → George’s mother when Gloria withdrew/gave up that path. | Character testimony / object provenance | H | Makes the book part of a Flamekeeper relic-preservation chain; does not locate the Silo in Georgia. |
+| E140 | Georgia book therefore has a concrete Flamekeeper-preservation provenance rather than being a random isolated relic. | Cross-evidence inference | H | Strengthens historical significance, not geographic-location confidence. |
+| E141 | Juliette’s mother and George’s mother knew each other and had a common business/work relationship. | Character testimony / historical claim | H | Creates intergenerational bridge between Juliette and George families. |
+| E142 | Juliette’s mother is identified through testimony as a Flamekeeper. | Character testimony / historical claim | H | Makes Juliette descendant of a knowledge-preserving family line. |
+| E143 | Juliette’s father justifies his participation in implant deception by saying he had no choice. | Character testimony / self-justification | VH | Establishes his stated justification; objective coercion remains unresolved. |
+| E144 | Juliette believes/accuses her father of having betrayed her mother. | Character belief / accusation | VH | Objective betrayal act and motive remain unresolved. |
+| E145 | Juliette suspects residents are watched through mirrors. | Character hypothesis | H | Initially a character inference; E146 independently corroborates mechanism. |
+| E146 | Sims/context and surveillance feed corroborate concealed cameras behind/in mirror structures. | Direct observation + dialogue/context corroboration | VH | Confirms physical capture mechanism; does not prove every mirror is instrumented. |
+| E147 | Juliette finds/retrieves the hard drive connected to the George investigation. | Direct observation | VH | Reactivates HDD evidence line; exact `HDD 18` identifier is not reasserted unless shown/spoken in-scene. |
+| E148 | Level 26 is directly shown via level marker. | Direct visual evidence | VH | New spatial/worldbuilding anchor; screenshot validated. |
+| E149 | Confirmed surveillance coverage now spans residence, high-level official, medical/institutional space and multiple internal locations. | Cross-evidence inference | VH | Makes systemic rather than ad-hoc monitoring increasingly plausible; total coverage still unproven. |
+
 ## Визуални източници — S01E01
 
 - [Публичният екран с barren exterior](../assets/S01E01/screenshots/exterior-barren-display.webp)
@@ -216,6 +243,16 @@ Full-quality screenshots са подготвени за manual upload в `assets
 - [Juliette home surveillance feed](../assets/S01E06/screenshots/juliette-home-surveillance-feed.jpeg)
 - [Centralized surveillance control center — wide](../assets/S01E06/screenshots/centralized-surveillance-control-center-wide.jpeg)
 
+## Визуални източници — S01E07
+
+Validated manual-upload assets:
+
+- [Level 14 marker](../assets/S01E07/screenshots/level-14-marker.jpeg)
+- [Level 26 marker](../assets/S01E07/screenshots/level-26-marker.jpeg)
+- [S01E07 visual evidence manifest](../assets/S01E07/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+
 ## Фокусирани evidence бележки
 
 - [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
@@ -229,3 +266,7 @@ Full-quality screenshots са подготвени за manual upload в `assets
 - [S01E06 — Centralized internal surveillance](evidence/S01E06-centralized-surveillance.md)
 - [S01E06 — PEZ, relic database и preserved pre-Silo knowledge](evidence/S01E06-relic-database-pre-silo.md)
 - [S01E06 — Georgia pre-Silo geography relic](evidence/S01E06-georgia-relic.md)
+- [S01E07 — Sims command, mirror cameras и concealed surveillance architecture](evidence/S01E07-surveillance-command-and-mirrors.md)
+- [S01E07 — Flamekeepers, memory suppression и relic preservation](evidence/S01E07-flamekeepers-memory-erasure.md)
+- [S01E07 — Reproductive control, doctor confession и lineage suppression](evidence/S01E07-reproductive-control.md)
+- [S01E07 — Juliette, George и intergenerational Flamekeeper network](evidence/S01E07-flamekeeper-family-network.md)
