@@ -141,11 +141,12 @@
 
 ## Визуални източници — S01E04
 
-Selected S01E04 visuals са подготвени, но към създаването на този PR още не са качени в repo-то. Planned paths:
+Selected S01E04 visuals са качени в repo-то:
 
-- `assets/S01E04/screenshots/public-display-night-exterior-state.jpeg`
-- `assets/S01E04/screenshots/up-top-sheriff-airlock-corridor.jpeg`
-- `assets/S01E04/screenshots/new-occupant-recycling-redistribution-notice.jpeg`
+- [Public display night exterior state](../assets/S01E04/screenshots/public-display-night-exterior-state.jpeg)
+- [Up-top Sheriff / airlock corridor](../assets/S01E04/screenshots/up-top-sheriff-airlock-corridor.jpeg)
+- [Recycling / redistribution notice](../assets/S01E04/screenshots/new-occupant-recycling-redistribution-notice.jpeg)
+- [S01E04 visual evidence manifest](../assets/S01E04/MANIFEST.md)
 
 ## Фокусирани evidence бележки
 
