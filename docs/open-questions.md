@@ -1,212 +1,228 @@
 # Отворени въпроси
 
-**Knowledge boundary:** **S01E04**
+**Knowledge boundary:** **S01E05**
 
-Въпросите са само за knowledge state-а до S01E04. Не се използва информация от по-късни епизоди.
+Въпросите са само за knowledge state-а до S01E05. Не се използва информация от S01E06+, книги, wiki, interviews, leaks или retrospective explanations.
+
+Resolved/partially resolved questions от по-ранни епизоди са премахнати или refactor-нати вместо да се пазят като вече неверни watch targets.
 
 ## Външен свят / cleaning / visual pipeline
 
-1. Какво обективно има извън Силоза?
-2. Кое visual representation е по-близо до reality: barren public feed, lush cleaner view или нито едно?
+1. Какво обективно има извън Silo?
+2. Кое representation е по-близо до physical reality: barren public feed, lush cleaner view или нито едно?
 3. Cleaner helmet image live ли е, prerecorded, generated, augmented или substituted?
 4. Public wall display live ли е, prerecorded, generated, augmented или otherwise processed?
 5. Получават ли public display и cleaner helmet един и същ physical camera source?
-6. Защо lush view системно е последван от cleaning behavior?
-7. Това behavioral conditioning ли е, deliberate deception, survival protocol или комбинация?
-8. Какво точно убива / обездвижва cleaners?
-9. Има ли токсин/agent в suit-а, helmet-а или life-support system-а?
-10. Външната атмосфера сама по себе си lethal ли е?
-11. Какво вижда cleaner непосредствено след сваляне на helmet-а?
-12. Скрива ли lush cleaner view bodies/objects?
-13. Идентични ли са lush visual details при Jane Carmody, Allison, Holston и S01E03 public-display flash?
-14. Какво е предназначението на exterior sensor/camera конструкцията?
-15. Защо при power-down public display за момент показва lush exterior imagery?
-16. Lush flash-ът overlay ли е, cached frame, fallback image, test state, framebuffer artifact или друг feed?
-17. Забелязал ли е някой resident/authority lush flash-а?
-18. Има ли log/diagnostic evidence за switching между visual states?
-19. S01E04 night-state live camera response ли е или synthetic/time-synchronized state?
-20. Сменят ли се звезди/облаци/осветление по начин, който може да authenticate live feed?
+6. Защо lush view системно е followed by cleaning behavior?
+7. Какво точно убива/обездвижва cleaners?
+8. Има ли lethal factor в suit/helmet/life-support system?
+9. Външната atmosphere сама по себе си lethal ли е?
+10. Какво вижда cleaner след сваляне на helmet?
+11. Скрива ли lush view bodies/objects?
+12. Защо public display показва lush imagery при S01E03 power-down?
+13. Lush flash overlay/cached frame/fallback/test state/alternate feed ли е?
+14. Забелязал ли е някой authority/resident lush flash-а?
+15. Има ли diagnostic/log evidence за visual-state switching?
 
-## История / Rebellion / calendar
+## Night sky / celestial behavior
 
-21. Какво реално се е случило по време на Rebellion?
-22. Наистина ли rebels са унищожили archives, books и hard drives?
-23. Ако да — защо?
-24. Ако не — кой е унищожил/скрил historical information и защо вината е приписана на rebels?
-25. Какво точно означават приблизително 140 години „peace“ след Rebellion?
-26. Коя е current Silo year?
-27. `SILO YEAR 96/97` и mayor journals използват ли един и същ post-Rebellion calendar?
-28. Ако да, започва ли Year 1 точно при Rebellion или при друго founding/reset event?
-29. Колко дълъг е неизвестният pre-Rebellion период?
-30. Защо institutional memory почти не достига отвъд Rebellion boundary?
-31. Какво празнува Силозът като възстановяване на „freedom“?
-32. Има ли significance `06:06:06`, или е само visual symbolism?
-33. На колко години е самият physical Silo?
+16. Star-like night field live physical sky ли е или time-synchronized synthetic/processed representation?
+17. W/zig-zag pattern-ът остава ли geometrically stable при future observations?
+18. Exact 30-day movement record какво измерва — whole pattern, one bright object или relative position?
+19. Има ли repeatable daily/seasonal/monthly celestial motion?
+20. Можем ли да establish display orientation without external/future knowledge?
+21. Ако source authenticity се establish-не, може ли celestial motion да constrain latitude/location?
+22. Защо basic concept/vocabulary за stars е изгубен?
+23. Astronomy умишлено ли е excluded от education, или knowledge loss е broader unintended consequence?
 
-## HDD 18 / George / Allison
+## История / Rebellion / scientific knowledge
+
+24. Какво реално се е случило при Rebellion?
+25. Rebels ли са унищожили archives/books/drives, както твърди official narrative?
+26. Ако не — кой е премахнал historical knowledge и защо?
+27. Какво означават ~140 години „peace“?
+28. Коя е current Silo year?
+29. `SILO YEAR 96/97` и mayor journals един post-Rebellion calendar ли използват?
+30. Кога започва Year 1?
+31. Колко стар е physical Silo?
+32. Колко broad е scientific knowledge discontinuity отвъд astronomy?
+33. Има ли institutional curriculum, който deliberate limits pre-Rebellion science?
+
+## HDD 18 / George / PEZ
 
 34. Кой първоначално е създал/притежавал HDD 18?
-35. Защо HDD 18 съдържа Silo design / blueprint / implementation material?
+35. Защо съдържа Silo design/implementation material?
 36. Какво още има сред recoverable deleted files?
-37. Какво точно означава `SILO_COUNT`?
+37. Какво означава `SILO_COUNT`?
 38. Защо IT е ограничил deleted-file recovery knowledge?
-39. Кой е отпечатал recovery instructions, намерени в George cache-а?
-40. Какви точно бележки е оставила Allison върху recovery document-а?
-41. Какво съдържа relic video camera-та?
-42. Работи ли камерата и има ли recoverable recording?
-43. George съзнателно ли е подготвил cache-а като evidence package за Juliette?
-44. Какво точно означава message-ът му „намерих това, което търсех“?
-45. George само е локализирал door-а или е успял да я отвори/премине?
-46. Какво е научил George непосредствено преди смъртта си?
-47. Свързана ли е тази информация със смъртта му?
-48. George наистина ли е починал чрез suicide, както твърди official account?
-49. Ако е убит — кой е имал motive/access/opportunity?
-50. Какво точно съдържа official George file, намерен от Juliette в S01E04?
-51. Съвпада ли official timeline с George messages/cache и known physical evidence?
-52. Има ли missing pages, edited records, unexplained injuries или procedural anomalies?
+39. Какво съдържа relic video camera-та?
+40. George intentionally evidence package ли е подготвил за Juliette?
+41. Какво точно е намерил George, когато казва „намерих това, което търсех“?
+42. Локализирал ли е door-а, отворил ли го е или е преминал?
+43. Какво е научил непосредствено преди смъртта си?
+44. George official suicide account false ли е?
+45. Ако George е murdered — кой има motive/access/opportunity?
+46. Какво точно съдържа official George dossier?
+47. Съвпада ли official timeline с messages/cache/physical evidence?
+48. Има ли edited/missing records или procedural anomalies?
+49. PEZ relic-ът достатъчен ли е като formal evidence hook за reopening?
+50. Как Juliette ще justify-не provenance на PEZ без да expose-не forbidden sub-Silo access?
 
-## Hidden architecture / construction layer
+## Hidden architecture / lower door
 
-53. Physical tunnel system от S01E02 същият ли е `CLASSIFIED` lower tunnel от HDD 18 blueprint-а?
-54. Ако не е същият — как са свързани?
-55. Кой е построил/проектирал pre-Rebellion tunnel system-а?
-56. Защо Pact криминализира достъпа до него?
-57. Защо входовете са hidden/nonstandard вместо normal service access?
-58. Excavation machine действително ли е машината, изкопала Silo?
-59. Защо е оставена под Силоза?
-60. Structural cap-ът действително ли е приблизително 9 m concrete barrier?
-61. Кога и защо construction cavity е sealed off?
-62. Кой има official knowledge за sub-Silo layer-а?
-63. Flooded bottom естествено наводняване ли е, construction consequence или deliberate barrier?
-64. Колко е дълбока водата?
-65. Има ли short tunnel под/край flooded area?
-66. Къде точно е reported door?
-67. Вратата под водата ли е, над waterline или зад отделен submerged access?
-68. Какво има зад нея?
-69. Води ли към друга част на complex, exterior route, utility system или нещо друго?
+51. Physical S01E02 tunnel system същият ли е `CLASSIFIED` tunnel от HDD 18?
+52. Кой е построил/проектирал pre-Rebellion tunnel system-а?
+53. Защо Pact criminalizes access?
+54. Кой current authority знае за sub-Silo layer-а?
+55. Excavation machine действително ли е machine-ът, изкопал Silo?
+56. Защо е оставена/locked below Silo?
+57. Flooded bottom natural, accidental или deliberate barrier ли е?
+58. Колко е дълбока water zone?
+59. Къде точно е reported short tunnel + door?
+60. Какво има зад door-а?
+61. Защо George exploration и death са temporally related, ако изобщо са?
 
 ## Energy / critical infrastructure
 
-70. Какъв е primary source-ът на steam, който идва отдолу?
-71. Steam source-ът част ли е от original/legacy construction layer?
-72. Някой department или authority знае ли origin-а, въпреки че Mechanical не знае?
-73. Кой контролира upstream steam source-а?
-74. Какво става, ако steam source-ът спре?
-75. Има ли backup power generation?
-76. Generator/turbine system-ът single point of failure ли е за целия Silo?
-77. Какво друго critical infrastructure current operators използват без да разбират original source layer-а?
+62. Какъв е primary source-ът на steam?
+63. Legacy/original construction layer ли го произвежда?
+64. Някой authority знае ли source-а, въпреки че Mechanical не знае?
+65. Кой контролира upstream steam?
+66. Има ли backup power generation?
+67. Generator/turbine single point of failure ли е?
+68. Какво друго critical infrastructure residents operate без source-level understanding?
 
-## Internal geography / logistics / social mobility
+## Geography / vertical movement
 
-78. Точните level ranges на Up-top, Mids и Down-deep какви са?
-79. Това formal administrative divisions ли са или informal cultural regions?
-80. Level 14 действително ли е official Judicial level?
-81. На кое level са indoor gardens / restaurant zone?
-82. Level 1 ли е най-горното numbered level?
-83. Има ли изобщо Level 0?
-84. Sheriff’s Department и secure airlock/cleaning access на един и същ Level 1 complex ли са?
-85. Как изглежда exact route `Sheriff → holding/airlock → exterior`?
-86. Колко socially isolated са трите региона?
-87. До каква степен profession определя residence, status и mobility?
-88. Juliette move `Mids → Mechanical` колко exceptional е като downward social move?
-89. Porters имат ли по-широк cross-level access от normal residents?
-90. Как се организира supply chain при 144 levels и липса на elevators?
-91. Липсата на elevators чисто engineering decision ли е или има и social-control function?
-92. До каква степен physical travel time разрушава family/social ties между distant levels?
-93. Колко често residents умишлено използват vertical distance, за да прекъснат social/family ties?
+69. Exact level ranges на Up-top, Mids и Down-deep какви са?
+70. Formal administrative divisions ли са или cultural regions?
+71. Level 14 official Judicial level ли е?
+72. На кое level е indoor garden / funeral space?
+73. Level 1 ли е top numbered level?
+74. Има ли Level 0?
+75. Sheriff’s Department и airlock/cleaning access един Level-1 complex ли са?
+76. Какъв е exact route Sheriff/holding → airlock → exterior?
+77. New Deputy на кой exact level живее под Level 29?
+78. Как се организира supply chain при 144 levels и deliberate ban на mechanized transport?
+79. Porters имат ли special access/rules?
+80. Каква е **причината** Pact да забранява mechanized transport?
+81. Safety/security rationale ли е, social-control rationale ли е, или combination?
+82. Original Silo design имал ли е capacity за elevators/mechanical transport, която е deliberately suppressed?
 
-## Juliette family
+## Magnification / observation capability
 
-94. Какво точно се е случило с майката на Juliette?
-95. Какво точно се е случило с брат ѝ?
-96. Майката на Juliette лекар ли е била, nurse/medical technician или друга medical role?
-97. Защо Juliette държи баща си causally responsible за двете загуби?
-98. Отговорността му medical decision ли е, family decision ли е или нещо друго?
-99. Juliette interpretation обективно подкрепена ли е от други evidence sources?
-100. Как тези загуби са повлияли на отношението ѝ към medicine, institutions и authority?
+83. Какъв точно е permitted magnification threshold?
+84. Кои devices попадат под ban-а?
+85. Ban-ът обхваща ли microscopy, telescopes, precision optical tools или други instruments?
+86. Какъв discovery/observation capability се опитва Pact да constrain?
+87. Кой enforcement-ва magnification rule-а?
+88. Има ли authorized institutional exceptions?
+89. Rule-ът pre-Rebellion design requirement ли е или post-Rebellion policy?
 
-## Governance / Judicial / IT / Sheriff succession
+### Explicit discipline
 
-101. Какво е точното разделение на властта между Mayor, Sheriff's Department, Judicial, IT и Mechanical?
-102. Кой има ultimate authority над Pact?
-103. Кой може да променя или interpret-ва Pact?
-104. Каква точно е позицията и authority на Sims?
-105. Judicial има ли formal policing/enforcement powers или работи чрез други departments?
-106. Колко широко е Judicial surveillance?
-107. Наблюдават ли се private conversations / homes?
-108. IT упражнява ли hidden political authority чрез information access?
-109. Защо Bernard/IT има толкова силно мнение и влияние върху Sheriff appointment?
-110. Има ли Bernard formal veto или само political influence?
-111. Защо Judicial има direct interest в Sheriff appointment?
-112. Кой е preferred Judicial Sheriff candidate?
-113. Този candidate formal Judicial subordinate/aligned figure ли е или просто preferred choice?
-114. Judicial има ли formal veto/nomination power върху Sheriff succession?
-115. Sheriff’s Department intended independent counterweight ли е спрямо Judicial?
-116. Има ли institutional reason Sheriff да не бъде под Judicial control?
-117. Защо relic possession и historical inquiry са толкова силно ограничени?
-118. Кой решава кое pre-Rebellion knowledge е допустимо?
-119. Appointment-ът на Juliette юридически напълно валиден ли е след смъртта на Mayor?
-120. Кой наследява mayoral authority?
-121. IT и Judicial координират ли opposition-а си срещу Juliette или действат независимо?
+90. **The Syndrome ↔ magnification ban има ли връзка?** Към S01E05: `VL speculation only`; няма evidence за accepted link.
 
-## Mayor / Deputy deaths
+## The Syndrome
 
-122. Кой е убил Mayor?
-123. Как точно е извършено убийството?
-124. Mayor ли е била intended target?
-125. Deputy Sheriff действително ли е murdered?
-126. Какъв е exact mechanism на Deputy death?
-127. Имат ли Mayor и Deputy deaths общ perpetrator?
-128. Имат ли common motive?
-129. Свързани ли са със Sheriff succession / Juliette appointment?
-130. Свързани ли са с Holston nomination-а?
-131. Има ли връзка с Bernard/IT opposition?
-132. Има ли връзка с Judicial/Sims?
-133. Целта да се промени/контролира Sheriff succession ли е, или motive-ът е друг?
-134. Кой practically печели institutional power от двете deaths?
+91. Какво представлява `The Syndrome`?
+92. Какви са symptoms?
+93. Каква е cause?
+94. Колко е prevalent?
+95. Как се diagnoses/treats?
+96. Има ли occupational/geographic clustering?
+97. Какво пише на по-ранния blurred Mechanical/generator notice за Syndrome?
+98. Има ли institutional restrictions/rights consequences за affected residents?
+
+## Surveillance / dossiers
+
+99. Как content-ът от Juliette–Holston conversation попада в dossier-а?
+100. Hidden microphones/technical recording ли има, или human informants/reporting chain?
+101. Кой събира, indexes и stores dossiers?
+102. Judicial ли контролира records, IT ли, или друга hidden authority?
+103. Колко widespread е content-level surveillance?
+104. Наблюдават ли се homes/private rooms?
+105. Sheriff има ли access до surveillance data, или Juliette вижда само selected file material?
+106. Residents знаят ли scope-а на surveillance?
+
+## Judicial / Sims / command chain
+
+107. Какво е exact division of power между Mayor, Sheriff, Judicial и IT?
+108. Judicial formal investigative authority ли има, или observed parallel investigation е exceptional?
+109. Каква е exact authority на Judge да close cases?
+110. Каква е exact role/authority на Sims?
+111. На кого report-ва Sims?
+112. Има ли authority above Sims, която orders covert operations?
+113. Sims ли е поръчал Trumbull actions, или управлява cleanup след orders от друг layer?
+114. Възможно ли е Trumbull да е действал частично independently?
+115. Защо Sims personally kills Trumbull вместо да го arrest/interrogate?
+116. Primary purpose elimination of witness ли е, punishment ли е, damage control ли е или друго?
+117. Judge знае ли, че Trumbull suicide narrative е false?
+118. Judge и Sims coordinated ли са или Judge приема supplied evidence in good faith?
+119. Bernard/IT има ли relation към this command chain?
+
+## Mayor / Marnes / Patrick / Trumbull
+
+120. Какъв independent evidence има, че Trumbull е убил Mayor?
+121. Какъв independent evidence има, че Trumbull е убил Marnes?
+122. Какъв е exact murder mechanism и при двамата?
+123. Patrick Kennedy entirely framed ли е?
+124. Rat poison/sketch кога и как са placed at Patrick location?
+125. Защо missing Mayor sketch е important enough to be used/removed as evidence?
+126. Кой е original intended target на each attack?
+127. Какъв е motive-ът за Mayor/Marnes killings?
+128. Свързан ли е motive-ът с Juliette appointment / Sheriff control?
+129. Ако Trumbull е direct killer, кой му е дал orders?
+130. Какво щеше да reveal-не Trumbull при interrogation?
+
+## Official narrative / suicide classification
+
+131. Колко други official `suicide` cases са reliable?
+132. George suicide classification може ли да бъде independently retested?
+133. Има ли procedural markers, които distinguish real suicide from fabricated narrative?
+134. Кой има authority да determine official cause/manner of death?
+135. Може ли Sheriff да challenge Judge/Judicial case closure?
+
+## New Deputy / Sheriff control
+
+136. Кой точно е new Deputy institutionally aligned with?
+137. Judicial ли го избира formally или само political influence упражнява?
+138. Лоялен ли е към Sims/Judicial, към Pact, към Sheriff office или към own judgment?
+139. Какъв access/reporting role има вътре в Juliette’s department?
+140. Поставен ли е partly като internal monitor/counterweight на Juliette?
+141. Sheriff’s Department intended independent counterweight ли е спрямо Judicial?
+
+## Population / registry / funerals
+
+142. Как Bernard разполага с exact current count **10,112**?
+143. Има ли centralized real-time resident registry?
+144. Как births/deaths/moves се update-ват в registry?
+145. Какво metadata се поддържа за всеки resident?
+146. Кой има access до population database?
+147. Каква е exact role на indoor garden в funeral/burial process?
+148. Къде physically отиват bodies след funeral ritual?
+149. Има ли resource/ecological cycle relation или това е unsupported?
 
 ## Material economy / housing / recycling
 
-135. Кой управлява recycling/redistribution system-а?
-136. `Recycling` означава ли material reprocessing, direct reuse/redistribution или и двете?
-137. Residents притежават ли durable household goods като private property?
-138. Или durable items са fundamentally assigned resources, които след occupancy се връщат към system pool?
-139. Как се allocation-ват жилища?
-140. При смяна на occupant personal belongings автоматично ли се връщат към redistribution system?
-141. Има ли markets/trade за durable goods извън official redistribution?
-142. Scarcity ли е основната причина за system-а или и social control?
-
-## Social control / punishment / reproduction
-
-143. Как се раздават reproductive permits?
-144. Защо community знае кой има permission за child attempt?
-145. Кой е наредил Allison implant-ът да остане?
-146. Permit process-ът частично theatrical ли е?
-147. Има ли други covert population-control mechanisms?
-148. Какви критерии се използват — resources, genetics, profession, social status, behavior или друго?
-149. Какво точно означава relationship approval?
-150. Кои relationships трябва да бъдат formally approved?
-151. Кой дава това approval и по какви критерии?
-152. Какво представляват mines като punishment?
-153. Forced labor ли са, penal colony ли са или друга disciplinary institution?
-154. Какви нарушения водят до mines и какви до cleaning?
-155. Какви са practical/legal consequences от suicide being a crime, когато извършителят е мъртъв?
-156. Има ли последствия за family, inheritance, burial, reputation или official record?
-157. Защо homemade radio е толкова строго забранено?
-158. Забраната за radio е за information control, interference/safety или комбинация?
-159. Кои authorities имат legal access до radio communication?
+150. Кой управлява recycling/redistribution system-а?
+151. `Recycling` material processing ли е, direct reuse ли е или и двете?
+152. Durable items private property ли са или assigned system resources?
+153. Как се allocate-ват homes?
+154. Има ли legal private trade/markets извън official redistribution?
+155. Scarcity ли е основната причина или system control също има role?
 
 ## Juliette
 
-160. Защо Holston избира точно Juliette за successor?
-161. Badge-ът има ли formal legal weight отвъд symbolic gesture?
-162. Защо Juliette скрива частта „намерих това, което търсех“ от law-enforcement companion-а?
-163. На кого всъщност има доверие Juliette?
-164. Ще се върне ли при flooded bottom, за да търси lower door?
-165. Ще може ли страхът ѝ от вода да бъде преодолян, ако investigation-ът го изисква?
-166. Как Sheriff role-ът ще промени access-а ѝ до George records, Judicial и IT?
-167. Ще използва ли official authority за investigation на George, въпреки institutional opposition?
+156. На кого има доверие Juliette след Trumbull/Sims events?
+157. Как ще работи с imposed/preferred Deputy?
+158. Може ли Juliette да investigate Judicial actors без case да бъде taken over/closed?
+159. Как Sheriff role ще промени George investigation access?
+160. Как ще използва PEZ relic-а като reopening hook?
+161. Ще expose-не ли hidden construction layer, ако case изисква provenance?
+162. Ще се върне ли към flooded bottom / lower door като part of official investigation?
 
 ## Основен въпрос на проекта
 
-168. Авторитарният контрол в Силоза основно real survival necessity ли е, institutional system, надживяла original purpose, deliberate deception, или комбинация от трите?
+163. Авторитарният control в Silo основно real survival necessity ли е, institutional system надживяла original purpose, deliberate deception, или combination от трите?
+164. След direct proof за fabricated official narrative, **кой layer може да authenticate truth вътре в system, ако Judicial/records themselves can be manipulated?**
