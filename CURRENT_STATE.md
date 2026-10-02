@@ -166,7 +166,7 @@ Observed direct anchors include:
 | ID | Hypothesis | Confidence | Status |
 |---|---|---:|---|
 | H0 | Силозът е проектирана survival/habitation система. | H | Active |
-| H1 | Exterior visual-information pipeline-ът се манипулира умишлено. | VH | Strengthened; S01E09 puts the known alternate cleaning footage directly in Juliette’s hands. |
+| H1 | Exterior visual-information pipeline-ът се манипулира умишлено. | VH | Strengthened |
 | H2 | Зелената гледка за cleaners е обективно реална. | L | Active |
 | H3 | Barren public view е до голяма степен реален, а lush cleaner view е overlay/simulation. | H | Active |
 | H4 | Cleaning поведението е engineered чрез това, което cleaner-ът вижда. | H | Strengthened |
