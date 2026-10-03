@@ -463,7 +463,7 @@ Observed direct anchors include:
 `8 → 9 → 12 → 14 → 17 → 23 → 26 → 27 → 29 → 30 → 50 → 119 → 144`
 
 - Level 14 is repeated again in S01E07.
-- Level 26 is new in S01E07.
+- Level 26 is direct-confirmed in S01E07 and independently repeated in S02E05.
 - Level 23 is newly direct-confirmed in S01E09.
 - Level 30 is direct-confirmed in S01E08.
 - Level 119 is direct-confirmed in S02E04.
@@ -519,23 +519,23 @@ Observed direct anchors include:
 | H23 | Sheriff succession/staffing е institutional power contest; S01E08 shows Mayor/Sims coordinated coercive action directly against Sheriff Juliette. | H | Strongly Strengthened |
 | H24 | Silo поддържа centralized circular resource economy с recycling/redistribution на durable goods. | H | Active |
 | H25 | Control/Judicial-associated actors can manipulate evidence/events, fabricate culpability narratives or legal predicates, and use institutional coercion or lethal violence for a desired outcome; S02E04 adds Bernard's staged Meadows framing operation. | VH | Strongly Strengthened / Refactored |
-| H26 | Bernard has higher classified IT access, but Sims has substantial independent operational/political leverage and can create pressure against senior leadership; the real hierarchy is overlapping rather than a simple command chain. | VH | Strongly Strengthened / Refactored |
+| H26 | Bernard has higher classified IT access and can remove/reassign Sims across formal roles; Sims still has substantial independent political/operational leverage. The hierarchy is overlapping but Bernard demonstrably controls access to the shadow succession path. | VH | Strongly Strengthened / Refactored |
 | H27 | Pact ограничава physical capabilities за independent movement и observation/discovery, including scientific/biomedical microscopy, не само content. | H | Strongly Strengthened |
 | H28 | George’s investigation and Juliette’s path into hidden history are connected to an intergenerational Flamekeeper network. | H | Strongly Strengthened / Refactored |
 | H29 | Silo има pre-Silo geographic connection с U.S. state of Georgia. | L | Candidate |
 | H30 | Silo authorities possess/use pharmacological memory suppression as an information-control capability; historical water-delivery testimony may represent an earlier/broader form of the same control family. | VH | Strongly Strengthened / Refactored |
 | H31 | Reproductive selection was used for selective lineage suppression against Flamekeeper / knowledge-preserving family lines. | H | Active |
 | H32 | Flamekeeper knowledge/history survived through family/social networks and intergenerational transfer of relics. | H | Active |
-| H33 | A privileged hidden-control/read-in layer centered on Bernard/IT controls classified cleaning/surveillance knowledge; Judge Meadows is also read into at least `THE ORDER` and the tape secret. | VH | Strongly Strengthened / Refactored |
+| H33 | A privileged hidden-control/read-in layer centered on Bernard/IT controls classified cleaning/surveillance knowledge; the `shadow` role is a distinct succession/read-in path separate from the public Judge office. | VH | Strongly Strengthened / Refactored |
 | H34 | Standard cleaning-suit tape is intentionally or systematically inferior, while the alternative "good" tape materially improves seal integrity/survival; possible failure pathways remain contaminant ingress, breathing-gas loss, or both. | VH | Strongly Strengthened / Refactored |
 | H35 | S02E01 historical rebellion sequence depicts the second Silo later entered by Juliette. | VH | Confirmed / Refactored |
 | H36 | Outside lethality is driven by a mobile airborne/dust-borne environmental hazard whose local concentration can temporarily fall/disperse and later return. | H | Strongly Strengthened / Refactored |
 | H37 | Concealed mirror-camera surveillance is part of a standardized multi-Silo control architecture across at least two Silos. | H | Strongly Strengthened |
-| H38 | IT is a standardized strategic/secured institutional layer across at least Silos 17 and 18, including explicitly identified protected vault compartments. | H | Strongly Strengthened / Refactored |
+| H38 | IT is a standardized strategic/secured institutional layer across at least Silos 17 and 18, including protected vault compartments and, in Silo 17, an independent continuity-power path. | H | Strongly Strengthened / Refactored |
 | H39 | `THE ORDER` is a privileged operational/governance doctrine distinct from the public Pact and includes active crisis-narrative management such as directing blame toward Mechanical. | VH | Strongly Strengthened / Refactored |
 | H40 | Cleaning is an engineered public legitimacy/deterrence ritual: manipulated lush perception drives cleaning, while expected visible cleaner death reinforces outside danger; Silo 17 shows the destabilization cascade when that visible outcome fails. | VH | Strongly Strengthened / Refactored |
 | H41 | `THE ORDER` encodes known Silo governance failure modes, including failed cleaning → war risk; Silo 17 provides concrete historical corroboration of that pattern. | VH | Strongly Strengthened |
-| H42 | The IT vault is a protected continuity/survival compartment capable of preserving people as well as privileged systems/knowledge through Silo-wide unrest or collapse. | H | Strongly Strengthened / Refactored |
+| H42 | The IT vault/secured IT layer is a protected continuity/survival compartment capable of preserving people, privileged systems/knowledge and resilient power through Silo-wide unrest or collapse. | H | Strongly Strengthened / Refactored |
 | H43 | Standard cleaning protection may be deliberately calibrated to fail within a short publicly observable window after enough time for the cleaner to clean. | H | Active |
 | H44 | Bernard inherits limited but significant cross-Silo historical/status knowledge; he knows about Silo 17's long-term failed/dead status without evidence that he understands the whole system. | H | Active / Strengthened |
 | H45 | The Syndrome may be a systemic human reaction to long-term Silo life rather than a primary physiological disease. | M | Active |
@@ -543,13 +543,16 @@ Observed direct anchors include:
 | H47 | Historical/cultural knowledge suppression has removed ordinary pre-Silo natural-world vocabulary from at least some residents. | H | Active / Strengthened |
 | H48 | `A.R.` is a distinct institutional era notation; S02E04's ~140-year Rebellion/Salvador Quinn anchor strengthens the separate-calendar model, while exact expansion/mapping to `SILO YEAR` remains unresolved. | H | Strengthened |
 | H49 | Mechanical is a predefined institutional scapegoat during rebellion/crisis; blame is prescribed independently of where unrest actually begins. | VH | Strongly Strengthened |
-| H50 | Salvador Quinn is a key Rebellion-era privileged-IT figure whose partly encoded letter may contain sensitive historical information. | H | Active |
-| H51 | Hidden-control leadership is non-monolithic: Bernard and Sims have partially independent interests and political/operational power bases. | H | Active / Strengthened |
+| H50 | Salvador Quinn is a key Rebellion-era privileged-IT figure whose archived handwritten letter contains a deliberately encoded final payload likely protecting sensitive historical information. | VH | Strongly Strengthened / Refactored |
+| H51 | Hidden-control leadership is non-monolithic: Bernard and Sims have partially independent interests/power bases, while Bernard demonstrably retains authority over Sims' formal posting and shadow eligibility. | H | Strongly Strengthened / Refactored |
 | H52 | Bernard uses the Mechanical-scapegoating doctrine to convert a leadership crisis into controlled conflict by framing Mechanical for Meadows' death. | H | Strongly Strengthened |
+| H53 | Judge is a high public/formal office that Bernard can fill/reassign, while the `shadow` role is a separate privileged IT succession/read-in path. | H | Strongly Strengthened |
+| H54 | IT/vault infrastructure has an independent external power path robust enough to survive normal-generator failure and potentially energize selected critical recovery systems. | H | Strongly Strengthened |
+| H55 | IT and Judicial may connect to a hidden privileged infrastructure backbone distinct from ordinary Silo distribution; exact service type remains unresolved. | M-H | Active |
 
 ---
 
-## Surveillance / privileged-control model after S02E04
+## Surveillance / privileged-control model after S02E05
 
 S02E02 expands the hidden-control model beyond ordinary internal surveillance.
 
@@ -582,12 +585,51 @@ S02E03 adds that Bernard's privileged layer also includes long-standing knowledg
 
 S02E04 further shows that this layer is **not politically monolithic**: Bernard attributes impeachment pressure against Meadows to Sims, while Sims actively mobilizes sentiment against Mechanical. Bernard simultaneously uses `THE ORDER` to shape a separate scapegoating operation.
 
+S02E05 makes the hierarchy more concrete: Bernard removes Sims from Security, denies him the `shadow` succession path, and appoints him Judge. Public Judicial authority and privileged IT succession are therefore distinct layers, while Sims' independent political leverage still prevents a simple "Bernard controls everything" model.
+
 It still does **not** establish:
 - the full membership of that layer;
 - whether Sims knows parts of `THE ORDER`;
 - who authored `THE ORDER`;
 - whether a current authority above Bernard/Meadows exists;
 - whether this layer is centrally coordinated across all Silos.
+
+---
+
+## Silo 17 continuity-power / flooding model after S02E05
+
+```text
+normal Silo power
+steam / turbine / generator
+          │
+          └─ fails after generator flooding
+                     ▲
+                     │
+Level 144 pump destroyed during rebellion
+          │
+          ▼
+water rises through Mechanical
+          │
+          ▼
+generator floods
+          
+SEPARATE CONTINUITY PATH
+
+external/outside source (character description)
+          │
+          ▼
+       IT / vault
+          │
+          ├─ remains powered after collapse
+          └─ can potentially power recovery pump
+                     │
+                     ▼
+             stop / slow flooding
+```
+
+This strongly upgrades IT from a privileged information compartment to a hardened **continuity infrastructure layer**.
+
+The exact external source, generation technology, capacity and routing remain unresolved.
 
 ---
 
@@ -700,37 +742,35 @@ Historical targeting purpose against Flamekeeper family lines remains testimony-
 
 ---
 
-## Immediate watch targets за S02E05
+## Immediate watch targets за S02E06
 
-- exact wording/scope of the `THE ORDER` instruction to blame Mechanical;
-- why Mechanical is the designated scapegoat;
-- whether generator/critical-infrastructure control is the principal reason;
-- how many prior rebellions show the same Mechanical-blame pattern;
-- exact mine location, ore/metal types, refining chain and penal-labor rules;
-- exact age/background of the Silo 17 survivor when Russell placed him in the vault;
-- why Russell selected that child and whether the vault is intended as a standard human-survival refuge;
-- identity of the hard drive Meadows asks about and whether it has any relation to HDD 18;
-- contents and cipher of Salvador Quinn's encoded letter;
-- what Meadows did during her four-day disappearance ~25 years ago;
-- whether those four days connect to Quinn or forbidden historical knowledge;
-- exact technical relationship between Bernard's immersive headset and cleaner helmets;
-- source/archive of the Monteverde 2018 environment;
-- whether the cleaner lush scene is literally prerecorded, procedurally rendered, or composited from stored assets;
-- whether Bernard's Meadows-framing operation succeeds publicly;
-- whether Sims knows Bernard killed Meadows;
-- whether Sims' anti-Mechanical agitation is coordinated with Bernard or independently opportunistic;
-- how the Bernard/Sims power conflict develops;
-- whether `A.R.` is explicitly expanded and how Salvador Quinn's ~140-year anchor maps to it.
+- how Sims exercises the Judge role after losing Security command;
+- who becomes Head of Security;
+- who Bernard chooses, if anyone, as shadow;
+- whether Judge appointment formally depends on Bernard or reflects emergency authority;
+- exact source/location of Silo 17 IT's independent external power;
+- whether the same independent power architecture exists in Silo 18;
+- exact Level 144 pump function and why destroying it floods Mechanical;
+- exact hydraulic path by which the water reaches the generator;
+- whether Juliette can actually power the recovery pump from IT;
+- whether IT power can be routed broadly or only through predefined emergency circuits;
+- exact meaning/type of the schematic lines associated with IT and Judicial;
+- whether those lines correspond to power, data, communications, control or utility infrastructure;
+- whether the schematic independently corroborates an external privileged backbone;
+- full transcription of Salvador Quinn's handwritten letter;
+- cipher/encoding of the final section;
+- intended recipient and purpose of Quinn's encoded payload;
+- whether Meadows decoded the ending;
+- whether the Quinn letter is directly tied to the hard drive Meadows asked about;
+- what historical fact Quinn was trying to preserve.
 
 Виж също:
 
+- `docs/episodes/S02E05.md`
+- `docs/evidence/S02E05-sims-judge-shadow.md`
+- `docs/evidence/S02E05-silo17-power-flooding-recovery.md`
+- `docs/evidence/S02E05-it-judicial-infrastructure-map.md`
+- `docs/evidence/S02E05-salvador-quinn-letter.md`
 - `docs/episodes/S02E04.md`
-- `docs/evidence/S02E04-mechanical-scapegoating.md`
-- `docs/evidence/S02E04-mines-penal-labor.md`
-- `docs/evidence/S02E04-salvador-quinn-meadows.md`
-- `docs/evidence/S02E04-vr-cleaner-technology.md`
-- `docs/evidence/S02E04-meadows-framing-sims.md`
-- `docs/evidence/S02E04-silo17-child-vault.md`
-- `docs/episodes/S02E03.md`
 - `docs/evidence-ledger.md`
 - `docs/open-questions.md`
