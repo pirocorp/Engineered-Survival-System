@@ -408,15 +408,12 @@ S02E05 clarifies two deep structural layers at once: Bernard separates Sims' pub
 
 ### Governance / Sims / Judge
 
-- Sims има demonstrated capability за:
-  - operational surveillance command;
-  - covert enforcement;
-  - evidence manipulation/cleanup context;
-  - lethal action;
-  - false official narrative;
-  - privileged relic-information access.
-- Judge Meadows being monitored means simple `Judge > Sims` hierarchy is not established.
-- Sims still may report to an authority above him.
+- Sims has demonstrated operational surveillance command, covert enforcement, lethal action, narrative control and privileged relic-information access.
+- S02E04 shows Sims can also create/shape public political pressure.
+- S02E05 shows Bernard can remove Sims from Head of Security, explicitly deny him the `shadow` succession path and appoint him Judge.
+- Therefore `Judge` and `shadow` are not equivalent roles: Judge is a formal/public office, while shadow is a privileged IT succession/read-in track.
+- This does not establish that every Judge is a passive puppet; Meadows demonstrated independent knowledge and choices.
+- Current best-fit hierarchy is domain-specific and overlapping, with Bernard holding decisive leverage over classified IT succession and Sims retaining independent political/operational capacity.
 
 ### Historical knowledge / Flamekeepers
 
@@ -485,6 +482,8 @@ Observed direct anchors include:
 - Energy chain remains `steam from below → turbine → generator → Silo electricity`.
 - Mechanical does not know exact primary steam origin.
 - Level 144/bottom contains large ventilation / air-handling machinery.
+- S02E05 survivor testimony also places a critical pump on Level 144 in Silo 17; its destruction during rebellion caused the flooding cascade that eventually disabled the main generator.
+- Silo 17 IT retains an independent power path after normal generator failure and may be able to energize a recovery pump.
 - Pact bans mechanized vertical transport and high-magnification devices above a threshold.
 
 ---
