@@ -49,12 +49,3 @@ This makes the failed-cleaning warning operationally relevant to the current cri
 
 - [THE ORDER cover](../../assets/S02E02/screenshots/the-order-cover.jpeg)
 - [Failed cleaning → prepare for war](../../assets/S02E02/screenshots/the-order-failed-cleaning-prepare-for-war.jpeg)
-
-
----
-
-## S02E03 update — historical corroboration in Silo 17
-
-S02E03 supplies the first concrete historical case closely matching the doctrine. The Silo 17 survivor describes Ron refusing to clean, marking `LIES`, disappearing from view, a later internal `LIES` message, and rebellion. He further says residents eventually exited because they did not see Ron die and concluded the outside was safe.
-
-This moves H41 to **VH / Strongly Strengthened**: `THE ORDER`'s failed-cleaning → war contingency is historically corroborated as a repeatable Silo failure pattern. It still does not prove that Silo 17 was the case from which `THE ORDER` was originally authored.
