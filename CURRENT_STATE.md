@@ -1,32 +1,92 @@
-# Текущо състояние — след S02E03
+# Текущо състояние — след S02E04
 
-**Knowledge boundary:** `S02E03`
+**Knowledge boundary:** `S02E04`
 
 ## Работен модел
 
-S02E03 provides the first concrete historical failure case that closely matches `THE ORDER` and materially clarifies the relationship between cleaning, public deterrence, real outside hazard and Silo-wide rebellion.
+S02E04 expands `THE ORDER` from a contingency handbook into an observed crisis-management playbook: Mechanical is a predefined blame target, Bernard stages Meadows' death to fit that narrative, and Sims actively drives anti-Mechanical sentiment.
 
-Най-големите промени спрямо S02E02 са:
+Най-големите промени спрямо S02E03 са:
 
-1. The other Silo is identified by its survivor as **Silo 17**, and he states that the system contains **50 Silos** in total.
-2. Juliette's original Silo is strongly identified/inferred as **Silo 18**.
-3. Silo 17's collapse begins after Ron goes out for cleaning, refuses to clean, writes `LIES`, disappears from view, and the population later concludes that the outside is safe because they never saw him die.
-4. Three days later `LIES` appears on the internal cafeteria display; rebellion follows.
-5. This is the first concrete historical corroboration of `THE ORDER`: **failed cleaning → prepare for war**.
-6. Silo 17's mass-exit deaths are described as caused by a returning dust/poison hazard after the outside hazard temporarily dispersed, separating real exterior lethality from the ordinary short cleaner-death window.
-7. The secured IT compartment is explicitly called a **vault**; Russell placed the survivor inside and ordered him not to let anyone enter.
-8. Bernard's physical key `18` accesses the **SERVER ROOM**, and the vault is inside that restricted layer.
-9. Bernard says the Jane Carmody cleaning recording is about **200 years old** and already knew Silo 17 was "dead" long before the current crisis.
-10. Sims explicitly offers medication so a person can **forget**, strongly corroborating deliberate pharmacological memory suppression.
-11. `CODE SILO ORANGE` directly formalizes covert birth-control deception as institutional medical protocol.
-12. A medical record uses `116 A.R.`, forcing a chronology correction: `SILO YEAR 96/97`, `A.R.`, the Rebellion and Bernard's "~200 years" statement cannot yet be mapped onto one simple calendar.
-13. Juliette explicitly identifies the lush cleaner view as the behavioral trigger for cleaning and recognizes it as false from the repeated Jane Carmody visual pattern, including the same flying-creature movement.
-14. Judge Meadows introduces a theory that The Syndrome may be a reaction to Silo life rather than a primary physiological disease.
+1. `THE ORDER` instructs leadership to blame Mechanical in rebellion/crisis.
+2. Historical markings in Mechanical are interpreted as showing that Mechanical has repeatedly been blamed regardless of where unrest began.
+3. Mining supplies metal to the Silo and dangerous/undesirable mining work is partly staffed through a **penal labor system**.
+4. The Silo 17 survivor was a child when the rebellion occurred and had been placed/locked in the IT vault from childhood, refactoring the vault toward continuity/survival refuge.
+5. Level **119** becomes a new direct spatial anchor.
+6. Bernard poisons Judge Meadows.
+7. Meadows asks about a hard drive connected to **Salvador Quinn**, Head of IT during the Rebellion roughly 140 years ago; Quinn left a partly encoded letter.
+8. Meadows had abandoned Bernard's shadow path about 25 years ago after a four-day disappearance.
+9. Bernard possesses an immersive headset showing Monteverde cloud forest, 2018, and explains that it works similarly to cleaner-helmet imagery.
+10. Bernard gives the headset to Meadows before she dies.
+11. Bernard stages Mechanical representatives at the death scene so Mechanical can be blamed and public anger redirected toward them.
+12. Bernard claims impeachment protests forced his hand and says Sims was behind them.
+13. Sims independently/actively agitates the Silo against Mechanical.
+14. The hidden-control structure therefore looks less like a monolithic chain and more like overlapping actors with different leverage and agendas.
 
-> **След S02E03 cleaning is best modeled as a public deterrence/legitimacy ritual operating inside a genuinely dangerous exterior environment: manipulated lush imagery induces cleaning, standard protection is intentionally/systematically inferior, expected visible cleaner death deters mass exit, and Silo 17 shows how failure of that visible outcome can cascade into rebellion and catastrophic exterior exposure.**
+> **След S02E04 the strongest governance model is a deliberate crisis-shaping system: `THE ORDER` anticipates instability, Mechanical is a predefined scapegoat, Bernard is willing to manufacture evidence/events to fit that narrative, and Sims has enough independent political-operational leverage to shape public pressure rather than functioning as a simple subordinate.**
 ---
 
 ## Наблюдения с висок confidence
+
+### S02E04 — Mechanical scapegoating doctrine
+
+- `THE ORDER` instructs that Mechanical should be blamed during rebellion/crisis.
+- Historical wall markings in Mechanical are interpreted as showing repeated blame against Mechanical regardless of where unrest actually began.
+- This makes Mechanical a predefined crisis narrative target rather than an evidence-driven suspect.
+- The strongest current explanation for *why Mechanical* is its control of generator/critical infrastructure, but this remains a hypothesis rather than established fact.
+
+### S02E04 — mines / penal labor
+
+- The mines extract metal used within the Silo.
+- Mining is dangerous, unpleasant and undesirable work.
+- Penal assignment supplies at least part of the mining workforce.
+- Best-fit term: **penal labor system**, not penal colony.
+
+### S02E04 — Silo 17 survivor / vault continuity
+
+- The Silo 17 survivor was a child when the rebellion occurred.
+- He had been placed/locked in the IT vault from childhood during that crisis period.
+- The vault therefore cannot be modeled only as a guard post; it is capable of serving as a protected continuity/survival refuge.
+- Why Russell selected this child remains unresolved.
+
+### S02E04 — Level 119
+
+- Level marker **119** is directly shown.
+- It is added only as a spatial anchor; no special function is inferred from the number alone.
+
+### S02E04 — Meadows / Salvador Quinn / Rebellion-era IT history
+
+- Bernard poisons Judge Meadows.
+- Before dying, Meadows asks whether Bernard destroyed a hard drive because it contained material connected to Salvador Quinn.
+- The drive is not automatically equated with HDD 18.
+- Salvador Quinn is described as Head of IT roughly 140 years ago, during the Rebellion.
+- Quinn left a letter that is at least partly encoded.
+- Meadows stopped being Bernard's shadow about 25 years ago.
+- Around that transition, she disappeared for four days before abandoning the shadow path.
+- The relation between the four-day disappearance, Quinn and forbidden historical knowledge remains unresolved.
+
+### S02E04 — immersive headset / cleaner technology
+
+- Bernard possesses an immersive headset showing a pre-Silo natural environment identified in-scene as Monteverde cloud forest, 2018.
+- Bernard explains that it works similarly to the visual system in cleaner helmets.
+- He gives the headset to Meadows before she dies.
+- This strongly strengthens a broader immersive stored/rendered visual technology family behind the cleaner lush-view system.
+
+### S02E04 — Meadows framing / Sims pressure
+
+- Bernard prepares a trap around Mechanical representatives coming to meet Meadows.
+- He intends Mechanical to be blamed for Meadows' death.
+- The framing is designed to redirect public anger toward Mechanical.
+- Mechanical representatives are directly shown arriving at the staged scene.
+- Bernard claims impeachment protests against Meadows forced him to act.
+- Bernard says he knows Sims was behind that impeachment pressure.
+- Separately, Sims actively agitates public sentiment against Mechanical.
+- Bernard and Sims therefore have partially independent political/operational leverage rather than a simple one-directional hierarchy.
+
+### S02E04 — unrest movement
+
+- Large-scale population movement through the Silo's vertical circulation system is shown during escalating unrest.
+- The frame establishes movement/scale; exact cause and destination come from scene context.
 
 ### S02E03 — Silo count / numbering / Silo 17 collapse
 
