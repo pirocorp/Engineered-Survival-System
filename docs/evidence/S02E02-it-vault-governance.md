@@ -48,14 +48,3 @@ This does not prove:
 ## Visual evidence
 
 - [Bernard at secured IT vault door](../../assets/S02E02/screenshots/bernard-it-vault-door.jpeg)
-
-
----
-
-## S02E03 update — explicit vault terminology and Server Room nesting
-
-The Silo 17 survivor explicitly calls the secured IT compartment a **vault** and says Russell placed him inside it with an absolute no-entry order.
-
-In Silo 18, Bernard's physical key `18` accesses the **SERVER ROOM**, and the heavy vault is located inside that restricted layer.
-
-This strengthens H38 and supports new H42: the IT vault is a protected continuity/control compartment intended to remain inaccessible during severe unrest/collapse. Identical contents/functions across Silos remain unconfirmed.
