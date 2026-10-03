@@ -584,9 +584,9 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S02E03 — Russell / vault / Server Room
 
-414. Russell Bernard-equivalent Head of IT ли е, another privileged role ли е, or something else?
-415. Защо Russell избира точно survivor-а да остане във vault-а?
-416. Какво точно трябва да бъде защитено във Silo 17 vault-а?
+414. Russell Bernard-equivalent Head of IT ли е, another privileged role ли е, or something else? S02E04 confirms only that the survivor was a child during the rebellion and Russell had authority/access to place him in the vault.
+415. **REFRAMED in S02E04:** survivor-ът е бил дете, когато Russell го е поставил/затворил във vault-а. Защо е избрано точно това дете?
+416. **PARTIALLY REFRAMED in S02E04:** vault-ът очевидно може да shelter-ва човек/дете през collapse; какви systems/knowledge/people е предназначен стандартно да защитава?
 417. Vault-ът съдържа ли `THE ORDER`, cross-Silo status information, communications or control systems?
 418. Key `18` unlock-ва само Server Room ли, или и inner vault access chain?
 419. Всеки Silo има ли physical key numbered by its Silo designation?
@@ -617,7 +617,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 ## S02E03 — cleaner visual asset / lost vocabulary
 
 434. Flying-creature movement literal exact replay/loop ли е across cleanings?
-435. Cleaner helmet използва един prerecorded scene asset ли, procedural rendering ли, or composited template?
+435. **PARTIALLY NARROWED in S02E04:** Bernard demonstrates a standalone immersive headset and says it works similarly to cleaner helmets; prerecorded scene asset, procedural rendering или composited template ли използва cleaner system?
 436. Ако Jane Carmody recording е ~200 years old, същият exact visual asset използван ли е през целия период?
 437. Колко broad е natural-world vocabulary loss beyond `birds` and earlier `stars` evidence?
 
@@ -633,9 +633,91 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 442. Какво точно означава abbreviation `A.R.` в institutional records?
 443. Кога започва `1 A.R.` спрямо Rebellion?
 444. Как `SILO YEAR 96/97` се mapping-ва към `A.R.`, ако изобщо се mapping-ва?
-445. Bernard's "~200 years" за Jane Carmody recording approximate ли е, or points to a different dating system?
+445. Bernard's "~200 years" за Jane Carmody recording approximate ли е, or points to a different dating system? S02E04 adds Salvador Quinn as a ~140-years-ago Rebellion-era anchor but does not yet reconcile the calendars.
 446. Jane Carmody file metadata actual recording date ли е, archive/import date ли е, or another label?
 447. Physical age на Silo може ли да се establish-не independently from these calendar systems?
+
+## S02E04 — Mechanical scapegoating / THE ORDER
+
+448. Какво е exact wording и scope на `THE ORDER` instruction-а да се обвинява Mechanical?
+449. Защо точно Mechanical е избран като predefined scapegoat?
+450. Generator/critical-infrastructure control ли е основната причина?
+451. Down Deep social/geographic separation също design factor ли е?
+452. Колко historical rebellions са оставили evidence за същия Mechanical-blame pattern?
+453. Wall markings в Mechanical от distinct rebellion cycles ли са, or one prolonged conflict?
+454. Scapegoating Mechanical цели ли да isolate-не хората, които контролират generator-а, преди те да се присъединят към unrest?
+455. Sims знае ли explicit `THE ORDER` Mechanical-blame doctrine-а, или неговата agitation е independent/convergent behavior?
+
+## S02E04 — mines / penal labor
+
+456. Къде physical се намират мините спрямо Level 144, excavation cavity и known lower structures?
+457. Какъв ore/metal се добива?
+458. Как metal extraction се връзва с refining, fabrication и Silo manufacturing chain?
+459. Какви offenses могат да доведат до penal mining assignment?
+460. Каква е typical sentence duration и има ли реален release/return mechanism?
+461. Има ли voluntary miners, или workforce-ът е predominantly penal?
+462. Mining casualties/health effects как се управляват институционално?
+
+## S02E04 — Silo 17 survivor / childhood vault timeline
+
+463. На колко години е бил survivor-ът, когато rebellion-ът започва?
+464. Каква е exact relation Russell ↔ child survivor?
+465. Emergency personal decision ли е било поставянето му във vault-а, или standardized continuity protocol?
+466. Как child survivor-ът е получавал food/water/air и е оцелял до adulthood?
+467. Имало ли е други хора първоначално във vault-а?
+468. Какво е знаел/научил survivor-ът за vault systems през годините?
+
+## S02E04 — Salvador Quinn / hard drive / Meadows
+
+469. Кой точно hard drive има предвид Meadows — HDD 18 ли е или друг drive?
+470. Какво конкретно е съдържал drive-ът за Salvador Quinn?
+471. Какво пише в Quinn's partly encoded letter?
+472. Какъв cipher/encoding използва Quinn и защо?
+473. Quinn е кодирал писмото, за да го скрие от current authority ли, от future IT leadership ли, or for another reason?
+474. Meadows успяла ли е да decode-не letter-а?
+475. Какво е правила Meadows през четирите дни, когато е изчезнала преди ~25 години?
+476. Четиридневното изчезване свързано ли е с Quinn, encoded letter, hard drive or another forbidden archive?
+477. Какво е научила Meadows, което я кара да abandon-не Bernard's shadow path?
+478. Bernard знае ли пълното съдържание на Quinn material-а?
+479. Защо Bernard би унищожил drive-а, ако Meadows' suspicion е вярно?
+
+## S02E04 — immersive headset / cleaner visual technology
+
+480. Какъв е source/archive-ът на Monteverde 2018 environment?
+481. Recorded 360/VR environment ли е, reconstructed simulation ли е, or another stored visual format?
+482. Cleaner helmets и standalone headset използват ли same rendering engine/software pipeline?
+483. Cleaner lush environment literal stored pre-Silo recording ли е?
+484. Защо privileged IT запазва immersive pre-Silo natural-world environments?
+485. Кой освен Bernard има access до този headset/archive?
+486. Jane Carmody cleaner imagery и Monteverde headset content част от един и същ archive/catalog ли са?
+487. Immersive system има ли audio/other sensory channels, or only visual presentation?
+
+## S02E04 — Meadows murder / Mechanical framing
+
+488. Как Bernard technically отравя Meadows и как death cause ще бъде представена официално?
+489. Какви fabricated/real evidence elements Bernard оставя, за да frame-не Mechanical?
+490. Mechanical representatives ще бъдат arrest-нати ли като suspects?
+491. Каква official narrative ще бъде публикувана за Meadows' death?
+492. Успява ли Bernard да convince-не population-а, че Mechanical я е убил?
+493. Как frame-up-ът operationally следва exact `THE ORDER` crisis procedure?
+
+## S02E04 — Sims / Bernard power conflict
+
+494. Bernard's claim, че Sims стои зад impeachment protests, ще получи ли independent corroboration?
+495. Защо Sims иска pressure/impeachment срещу Meadows?
+496. Sims знае ли, че Bernard е отровил Meadows?
+497. Sims' anti-Mechanical agitation coordinated ли е с Bernard, or is he exploiting the same crisis independently?
+498. Sims цели ли собствено advancement/power shift, or different institutional objective?
+499. В кои domains Bernard може да command-ва Sims и в кои Sims действа независимо?
+500. След Meadows' death как се променя formal и hidden power balance?
+
+## S02E04 — chronology
+
+501. Salvador Quinn's ~140-years-ago Rebellion anchor mapping-ва ли директно към current `A.R.` era?
+502. Ако `A.R.` наистина е post-Rebellion calendar, какъв е current A.R. year?
+503. Quinn's tenure може ли да anchor-не `SILO YEAR 96/97` спрямо Rebellion?
+504. Jane Carmody's ~200-year recording age и Quinn's ~140-year Rebellion date могат ли да establish-нат pre-Rebellion duration of the Silo?
+
 ## Основен въпрос на проекта
 
 163. Авторитарният control в Silo основно real survival necessity ли е, institutional system надживяла original purpose, deliberate deception, или combination от трите?
