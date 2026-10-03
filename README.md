@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S02E03 Silo 17 provides a concrete failed-cleaning → rebellion case that closely matches `THE ORDER`; the episode also exposes a 50-Silo claim, Silo 17/18 numbering, a real mobile outside dust/poison hazard, the `key 18 → SERVER ROOM → vault` access path, explicit pharmacological forgetting, formal `CODE SILO ORANGE` reproductive-control instructions and a new `116 A.R.` chronology anchor.**
+> **След S02E04 `THE ORDER` is revealed as an active crisis-management playbook: Mechanical is a predefined blame target, Bernard poisons Meadows and stages Mechanical at the scene, Sims actively drives anti-Mechanical sentiment, Salvador Quinn emerges as a Rebellion-era Head of IT with a partly encoded letter, and Bernard demonstrates an immersive headset related to cleaner-helmet visual technology.**
 
 ## Език на проекта
 
@@ -16,17 +16,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S02E03**
+**Текуща граница на знанието:** **S02E04**
 
-**Статус на гледане:** **Сезон 2, епизод 3**
+**Статус на гледане:** **Сезон 2, епизод 4**
 
-Не се използва никаква информация от S02E04+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация от S02E05+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S02E03 най-силният работен модел е:
+След S02E04 най-силният работен модел е:
 
-> **Juliette’s Silo е Silo 18 within a larger standardized multi-Silo survival/control architecture; a Silo 17 survivor states there are 50 Silos. Cleaning now has a historically corroborated deterrence function: manipulated lush imagery induces cleaning, expected visible death reinforces the outside-danger narrative, and Silo 17 shows how a failed visible cleaning/death sequence can trigger rebellion and mass exit into a genuinely dangerous mobile airborne/dust-borne hazard.**
+> **The Silo governance system does not merely react to unrest; it actively shapes crisis narratives. `THE ORDER` designates Mechanical as a scapegoat, Bernard manufactures a Meadows murder/framing scenario consistent with that doctrine, Sims independently mobilizes anti-Mechanical sentiment, and the hidden-control structure now appears internally competitive rather than monolithic.**
 
 Ключови установени линии:
 
@@ -37,7 +37,7 @@
 - S01E05 показва systematic/time-dependent star-like movement на night display-а;
 - observer в cafeteria не знае concept-а „stars“ и сам reconstruct-ва movement patterns;
 - Silo има **144 levels** и Bernard заявява **10 112 current residents**;
-- observed direct level anchors вече включват `8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 144`;
+- observed direct level anchors вече включват `8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 119, 144`;
 - Pact deliberately забранява mechanized transport през Silo;
 - Pact забранява magnifying devices над определен threshold;
 - Juliette dossier съдържа content от разговора ѝ с Holston → strong hidden-surveillance/reporting evidence;
@@ -110,6 +110,22 @@
 - the same medical record uses `DOB 09/13/116 A.R.`, forcing H15 chronology to be weakened/refactored rather than silently preserved;
 - Juliette explicitly identifies the lush cleaning view as the behavioral trigger to clean and recognizes the deception from the repeated Jane Carmody visual pattern, including the same flying-creature motion;
 - Judge Meadows states a theory that The Syndrome may be a reaction to Silo life rather than a primary physiological disease.
+- S02E04 reveals that `THE ORDER` instructs leadership to blame **Mechanical** during rebellion/crisis;
+- historical markings in Mechanical are interpreted as showing that Mechanical has repeatedly been blamed regardless of where unrest actually began;
+- current best explanation for selecting Mechanical is its generator/critical-infrastructure leverage, but this remains a hypothesis;
+- the mines provide metal used by the Silo and dangerous/undesirable mining work is partly staffed through a **penal labor system**;
+- the Silo 17 survivor was a child during the rebellion and had been placed/locked in the IT vault from childhood, strengthening a continuity/survival-refuge interpretation;
+- Level **119** is directly observed as a new spatial anchor;
+- Bernard poisons Judge Meadows;
+- Meadows asks about a hard drive connected to **Salvador Quinn**, described as Head of IT during the Rebellion roughly 140 years ago;
+- Quinn left a letter that is at least partly encoded;
+- Meadows abandoned Bernard's shadow path about 25 years ago after a four-day disappearance;
+- Bernard demonstrates an immersive headset showing Monteverde cloud forest, 2018, and explains that it works similarly to cleaner-helmet visual technology;
+- Bernard gives that headset to Meadows before she dies;
+- Bernard stages Mechanical representatives at Meadows' death scene so Mechanical can be blamed and public anger redirected toward them;
+- Bernard claims impeachment protests forced him to act and says Sims was behind the pressure;
+- Sims actively agitates public sentiment against Mechanical, demonstrating meaningful independent political/operational leverage;
+- S02E04 ends amid large-scale population movement during escalating unrest.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
@@ -129,6 +145,7 @@
 - [`docs/episodes/S02E01.md`](docs/episodes/S02E01.md) — episode record за S02E01.
 - [`docs/episodes/S02E02.md`](docs/episodes/S02E02.md) — episode record за S02E02.
 - [`docs/episodes/S02E03.md`](docs/episodes/S02E03.md) — episode record за S02E03.
+- [`docs/episodes/S02E04.md`](docs/episodes/S02E04.md) — episode record за S02E04.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
@@ -170,6 +187,12 @@
 - [`docs/evidence/S02E03-key18-server-room-vault.md`](docs/evidence/S02E03-key18-server-room-vault.md) — `key 18 → SERVER ROOM → vault` and Silo 17 protected-vault evidence.
 - [`docs/evidence/S02E03-silo-orange-chronology.md`](docs/evidence/S02E03-silo-orange-chronology.md) — formal reproductive-control protocol, `116 A.R.` and chronology correction.
 - [`docs/evidence/S02E03-cleaner-perception-pattern.md`](docs/evidence/S02E03-cleaner-perception-pattern.md) — repeated Jane visual pattern, cleaning trigger and lost natural-world vocabulary.
+- [`docs/evidence/S02E04-mechanical-scapegoating.md`](docs/evidence/S02E04-mechanical-scapegoating.md) — `THE ORDER`, repeated Mechanical blame and crisis scapegoating.
+- [`docs/evidence/S02E04-mines-penal-labor.md`](docs/evidence/S02E04-mines-penal-labor.md) — metal extraction and penal labor system.
+- [`docs/evidence/S02E04-salvador-quinn-meadows.md`](docs/evidence/S02E04-salvador-quinn-meadows.md) — Salvador Quinn, encoded letter and Meadows' four-day disappearance.
+- [`docs/evidence/S02E04-vr-cleaner-technology.md`](docs/evidence/S02E04-vr-cleaner-technology.md) — immersive Monteverde headset and cleaner-helmet technology relation.
+- [`docs/evidence/S02E04-meadows-framing-sims.md`](docs/evidence/S02E04-meadows-framing-sims.md) — Meadows murder, Mechanical framing and Sims pressure.
+- [`docs/evidence/S02E04-silo17-child-vault.md`](docs/evidence/S02E04-silo17-child-vault.md) — Silo 17 survivor as child and vault continuity-refuge model.
 - [`docs/open-questions.md`](docs/open-questions.md) — активните въпроси за falsification / future testing.
 - [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — visual evidence от S01E01.
 - [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — selected visual evidence от S01E02.
@@ -191,6 +214,8 @@
 - [`assets/S02E02/MANIFEST.md`](assets/S02E02/MANIFEST.md) — S02E02 visual processing/selection manifest.
 - [`assets/S02E03/screenshots/`](assets/S02E03/screenshots/) — validated selected visual evidence от S02E03.
 - [`assets/S02E03/MANIFEST.md`](assets/S02E03/MANIFEST.md) — S02E03 visual processing/selection manifest.
+- [`assets/S02E04/screenshots/`](assets/S02E04/screenshots/) — validated selected visual evidence от S02E04.
+- [`assets/S02E04/MANIFEST.md`](assets/S02E04/MANIFEST.md) — S02E04 visual processing/selection manifest.
 
 ## Основна директива
 
@@ -262,6 +287,12 @@ The Jane Carmody cleaning footage was already direct visual evidence in S01E01. 
 **Historical corroboration strengthens a mechanism without making testimony objective telemetry.** Silo 17 closely matches `THE ORDER`, but Ron's actions, dust/poison timing and Russell's commands remain survivor testimony unless independently observed.
 
 **Chronology contradictions are preserved, not normalized away.** `SILO YEAR 96/97`, `116 A.R.` and Bernard's approximate "~200 years" Jane Carmody statement are kept as separate anchors until a consistent mapping is directly supported.
+
+### Допълнително правило след S02E04
+
+**Crisis narrative can itself be an engineered mechanism.** When doctrine prescribes a culprit and leadership stages events to support that culprit narrative, the public attribution is evidence about governance behavior, not evidence that the accused group caused the crisis.
+
+**Internal elite conflict is tracked separately from formal hierarchy.** Bernard's classified access and Sims' political/operational leverage can coexist; neither is treated as total control over the other without domain-specific evidence.
 
 ## Spoiler discipline
 
@@ -355,7 +386,7 @@ Confidence не е математическа вероятност и не за�
 
 ## Текущ модел за външния свят
 
-След S02E03 основната visual ambiguity остава разрешена, а cleaner survival/control model-ът вече има historical failure-case corroboration:
+След S02E04 основната visual ambiguity остава разрешена, а cleaner visual-technology model-ът е допълнително strengthened by a standalone immersive system explicitly compared to cleaner helmets:
 
 1. **Lush cleaner view is false** — helmet-ът показва manipulated / overlay-like visual layer.
 2. **Barren exterior is substantially real** — след отпадането на false layer Juliette вижда devastated terrain.
@@ -369,6 +400,7 @@ Confidence не е математическа вероятност и не за�
 10. Bernard/IT receives live exterior video associated with Juliette while she is outside.
 11. Silo 17 demonstrates that failure to observe the cleaner's expected death can produce an "outside is safe" belief and mass-exit cascade.
 12. Juliette explicitly identifies the repeated lush visual sequence as the cleaning-behavior trigger.
+13. Bernard demonstrates a standalone immersive headset with a preserved pre-Silo natural environment and explains that it works similarly to cleaner-helmet imagery.
 
 Все още са unresolved exact helmet-rendering technology, exact outside lethal agent, exact suit leak pathway, exact source/format of the live cleaner feed, independent confirmation of the 50-Silo count, full Silo-numbering scheme, any current central authority and identity-то на distant skyline.
 
@@ -450,6 +482,7 @@ episode/S01E10-analysis
 episode/S02E01-analysis
 episode/S02E02-analysis
 episode/S02E03-analysis
+episode/S02E04-analysis
 hypothesis/<name>
 model/<name>
 methodology/<change>
