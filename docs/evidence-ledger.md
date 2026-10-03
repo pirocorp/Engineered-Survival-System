@@ -454,6 +454,16 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 
 `contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
 
+## Визуални източници — S02E03
+
+Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+
+- [Bernard key 18 / Server Room access](../assets/S02E03/screenshots/bernard-key18-server-room-access.jpeg)
+- [Server Room / IT vault](../assets/S02E03/screenshots/server-room-it-vault.jpeg)
+- [CODE SILO ORANGE / A.R. medical record](../assets/S02E03/screenshots/silo-orange-birth-control-protocol.jpeg)
+- [S02E03 visual evidence manifest](../assets/S02E03/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
 ## Фокусирани evidence бележки
 
 - [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
@@ -490,3 +500,9 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [S02E02 — Live cleaner exterior feed](evidence/S02E02-live-cleaner-feed.md)
 - [S02E02 — Cleaning tape, seal and finite protection](evidence/S02E02-cleaning-tape-mechanism.md)
 - [S02E02 — IT vault architecture and privileged governance layer](evidence/S02E02-it-vault-governance.md)
+- [S02E03 — Silo 17 failed cleaning and rebellion cascade](evidence/S02E03-silo17-failed-cleaning-rebellion.md)
+- [S02E03 — Outside hazard vs cleaner death timing](evidence/S02E03-outside-hazard-cleaner-death.md)
+- [S02E03 — Targeted pharmacological memory suppression](evidence/S02E03-memory-suppression.md)
+- [S02E03 — Key 18, Server Room and IT vault](evidence/S02E03-key18-server-room-vault.md)
+- [S02E03 — CODE SILO ORANGE and chronology correction](evidence/S02E03-silo-orange-chronology.md)
+- [S02E03 — Cleaner perception, Jane pattern and lost vocabulary](evidence/S02E03-cleaner-perception-pattern.md)
