@@ -260,7 +260,7 @@ Observed direct anchors include:
 | H31 | Reproductive selection was used for selective lineage suppression against Flamekeeper / knowledge-preserving family lines. | H | Active |
 | H32 | Flamekeeper knowledge/history survived through family/social networks and intergenerational transfer of relics. | H | Active |
 | H33 | Bernard/IT occupies a privileged hidden-control layer with classified knowledge/access and demonstrated command authority over surveillance personnel and Sims in at least some matters. | H | Strongly Strengthened / Refactored |
-| H34 | Standard cleaning-suit tape is intentionally or systematically inferior, while Juliette’s alternate tape materially improves seal integrity and survival. | H | Active / Strongly Supported |
+| H34 | Standard cleaning-suit tape is intentionally or systematically inferior, while Juliette’s alternate tape materially improves seal integrity and survival. | H | Active |
 
 ---
 
