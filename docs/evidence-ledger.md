@@ -210,7 +210,7 @@
 | E196 | Juliette reaches the exterior hatch/approach area of a Silo separate from her original Silo. | Direct observation + spatial continuity | VH | Direct exploration of a second Silo site. |
 | E197 | A large field of human remains surrounds the second Silo's exterior hatch/approach area. | Direct visual evidence | VH | Mass fatality field; does not prove every resident exited or died. |
 | E198 | Juliette enters the second Silo through its airlock and closes it behind her. | Direct observation | VH | Confirms physical interior access to another Silo. |
-| E199 | Inside the second Silo, large `LIES` graffiti is visible. | Direct visual evidence | VH | Supports anti-deception sentiment; author/date remain unknown. |
+| E199 | Inside Silo 17, a large `LIES` message is visible on the internal cafeteria/display surface. | Direct visual evidence, **REFINED in S02E03** | VH | Originally logged generically as graffiti; S02E03 survivor testimony identifies the internal `LIES` message as appearing three days after Ron's failed cleaning. Author remains unknown. |
 | E200 | Inside the second Silo, Juliette develops acute breathing distress while remaining sealed in her suit/helmet environment. | Direct observation | VH | Shows failure/depletion of the suit breathing environment; exact technology/cause unknown. |
 | E201 | After breaking/opening the helmet, Juliette can breathe the second Silo interior atmosphere again. | Direct observation | VH | Establishes immediately breathable interior air and strongly refines suit breathing/seal model. |
 | E202 | The second Silo contains a concealed camera behind/in a mirror structure matching the surveillance concept in Juliette's Silo. | Direct visual evidence + repeated cross-Silo observation | VH | Demonstrates mirror-camera surveillance is not unique to one Silo. |
@@ -236,6 +236,47 @@
 | E222 | A distinct circled painted symbol/emblem appears in rebellion-context imagery. | Direct visual evidence | VH | Exact meaning, name and faction identity remain unresolved. |
 | E223 | Judge Meadows offers to help Bernard through the crisis on the condition that afterward he allows her to go outside and provides the "good" tape. | Direct dialogue / negotiated condition | VH | Directly establishes that Meadows distinguishes and requests a better tape configuration for her own exterior exit. |
 | E224 | Judge Meadows treats the "good" tape as materially capable of improving exterior survival compared with the standard cleaning tape. | Character inference / insider knowledge | H | Strongly supports material survival relevance; exact leak pathway remains unresolved. |
+
+| E225 | The Silo 17 survivor states that there are 50 Silos in total. | Character testimony | H | VH that the statement is made; exact system count awaits independent corroboration. |
+| E226 | The survivor identifies his location as Silo 17. | Character testimony | VH | Establishes the other Silo's stated designation. |
+| E227 | Juliette's original Silo is strongly identified/inferred as Silo 18 from the Silo 17 context plus existing `18` evidence. | Strong contextual inference | H | Does not by itself prove key 18 or HDD 18 are numbered by Silo. |
+| E228 | The survivor says unprotected people from Silo 17 remained alive outside longer than the short expected cleaner-death window. | Character testimony | H | Weakens a constant immediate outside-death timer model. |
+| E229 | The survivor describes the exterior dust/poison as temporarily dispersing or lifting. | Character testimony | H | Exact agent and physical process remain unknown. |
+| E230 | He says the hazardous material later returned and killed the exposed population. | Character testimony / historical causal account | H | Supports a mobile/time-varying airborne or dust-borne hazard. |
+| E231 | Ron went outside for a cleaning and refused to clean. | Character testimony | H | First concrete failed-cleaning case in Silo 17 history. |
+| E232 | Ron wrote/marked `LIES` on the exterior sensor using outside dust. | Character testimony | H | Exact physical method and surviving visual record remain unresolved. |
+| E233 | The survivor identifies Ron's failed cleaning as the event after which the Silo 17 crisis began. | Historical causal testimony | H | Strong match to `THE ORDER` failed-cleaning contingency. |
+| E234 | Ron moved away from the sensor area and was not seen again. | Character testimony | H | Does not prove he survived. |
+| E235 | Three days later, `LIES` appeared on the internal cafeteria display. | Character testimony | H | Author and technical mechanism remain unknown. |
+| E236 | S02E03 testimony identifies the previously observed internal `LIES` message in Silo 17 as part of the post-Ron escalation sequence. | Cross-episode contextual refinement | H | Refines E199 rather than creating a new visual claim. |
+| E237 | The survivor states that rebellion began after this sequence. | Historical causal testimony | H | Establishes his causal reconstruction; not independent historical documentation. |
+| E238 | The Silo 17 survivor explicitly calls the secured IT compartment a vault. | Character terminology + prior visual evidence | VH | Upgrades earlier "vault-like" descriptive language to in-world terminology. |
+| E239 | The survivor says Russell put him inside the vault. | Character testimony | H | Establishes claimed Russell access/authority. |
+| E240 | Russell ordered him never to let anyone enter the vault. | Reported command | H | Strongly supports the vault as a protected objective during unrest. |
+| E241 | The survivor says people went outside because they did not see Ron die and concluded the exterior was safe. | Character testimony / historical causal account | H | Directly links missing visible cleaner death to mass-exit belief. |
+| E242 | Failure to observe the cleaner's expected death materially contributed to the Silo 17 mass-exit decision. | Causal inference grounded in testimony | H | Strengthens visible-death deterrence model. |
+| E243 | Bernard's physical key marked `18` is used for/accesses the `SERVER ROOM`. | Direct observation + cross-episode object match | VH | Resolves the previously unknown access target of the key at this layer. |
+| E244 | The heavy secured vault is located inside the Server Room. | Direct visual/spatial observation | VH | Establishes nested restricted architecture. |
+| E245 | Bernard's restricted-access path is `key 18 → SERVER ROOM → vault`. | Spatial/system inference from direct sequence | VH | Exact inner-vault unlocking mechanism remains separate. |
+| E246 | Bernard says the Jane Carmody cleaning recording is about 200 years old. | Character testimony / privileged institutional knowledge | H | VH that he says it; age may be rounded. |
+| E247 | The cleaner visual/recording system represented by Jane Carmody existed long before the present crisis and plausibly predates the known post-Rebellion order. | Cross-episode inference | H | Exact chronology is now explicitly contested by E263–E264. |
+| E248 | Bernard knows Juliette reached Silo 17. | Character statement / privileged knowledge | VH | Demonstrates cross-Silo situational knowledge. |
+| E249 | Bernard states that Silo 17 has been "dead" for a long time. | Character testimony | H | Exact meaning of "dead" remains unresolved. |
+| E250 | Bernard says he knew Silo 17 was dead before Judge Meadows became his shadow. | Character testimony / temporal anchor | VH | Shows this knowledge predates the current crisis. |
+| E251 | Silo 17 develops graffiti/messages asserting that the cleaner who refused to clean is alive. | Public-belief expression / testimony-context evidence | H | Does not prove Ron survived. |
+| E252 | An analogous "cleaner survived" social narrative appears in Silo 18 after Juliette's cleaning. | Repeated cross-Silo social pattern | H | Strengthens repeatable legitimacy-failure cascade. |
+| E253 | Bernard asks Sims what happened to personnel who saw Juliette's classified broadcast. | Direct dialogue | VH | Shows active post-exposure containment concern. |
+| E254 | Sims says those witnesses were given medication presented as sedatives. | Character testimony / institutional action | VH | Exact drug and effect remain unresolved at this point. |
+| E255 | Medication is selectively used on witnesses exposed to forbidden visual information. | Scene-context inference | H | Supports targeted information-containment use. |
+| E256 | Sims explicitly offers another person medication so that the person can forget. | Direct dialogue / institutional capability | VH | Direct evidence of intended pharmacological forgetting. |
+| E257 | Current authorities possess or claim to possess pharmacological means for deliberate memory suppression. | Institutional capability inference | H | Strongly corroborates earlier historical memory-suppression testimony. |
+| E258 | Judge Meadows presents a theory that The Syndrome is a reaction to Silo life rather than a primary physiological disease. | Character theory/testimony | M | VH that the theory is stated; truth remains unconfirmed. |
+| E259 | Juliette believes the manipulated lush exterior image is what causes cleaners to clean. | Character inference / direct dialogue | H | Strongly corroborates H4. |
+| E260 | Juliette realizes the lush helmet view is false because it matches the old Jane Carmody cleaning recording. | Character inference grounded in repeated visual pattern | VH | Her recognition is based on exact/repeated scene features. |
+| E261 | Juliette does not know the ordinary word/concept "birds" but recognizes that the flying creatures move in the same pattern as in the Jane Carmody recording. | Direct dialogue + cross-scene comparison | VH | Supports both reused visual-template and cultural-knowledge-loss hypotheses. |
+| E262 | `CODE SILO ORANGE` explicitly instructs medical staff not to remove birth control while ensuring the patient believes it was removed. | Direct visual / institutional instruction | VH | Formalizes the already confirmed reproductive-control deception mechanism. |
+| E263 | The same medical record uses the date notation `DOB 09/13/116 A.R.`. | Direct visual evidence | VH | Establishes institutional `A.R.` dating; screenshot does not expand the abbreviation. |
+| E264 | S02E03 evidence makes the prior simple single-calendar mapping for `SILO YEAR 96/97`, Rebellion-era dating, `A.R.`, and Jane Carmody's stated age insufficient. | Analytical correction / model-history preservation | VH | H15 must be weakened/refactored rather than silently overwritten. |
 
 ## Визуални източници — S01E01
 
