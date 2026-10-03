@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S01E10 lush cleaner view е direct-confirmed deception layer, barren exterior е substantially real, Juliette’s alternate suit tape strongly implicates sealing in cleaner mortality, Bernard demonstrates privileged control above ordinary surveillance access, and the exterior wide reveal confirms a larger multi-Silo landscape.**
+> **След S02E01 Juliette has directly entered a second Silo. The episode confirms a catastrophic mass exit there, a real lethal exterior hazard, standardized mirror-camera/IT architecture across Silos, residual power/flooding, and at least one living survivor inside secured IT.**
 
 ## Език на проекта
 
@@ -16,17 +16,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S01E10**
+**Текуща граница на знанието:** **S02E01**
 
-**Статус на гледане:** **Сезон 1, епизод 10**
+**Статус на гледане:** **Сезон 2, епизод 1**
 
-Не се използва никаква информация от S02E01+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация от S02E02+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S01E10 най-силният работен модел е:
+След S02E01 най-силният работен модел е:
 
-> **Juliette’s Silo е една unit в по-голяма multi-Silo survival/control architecture. Cleaner helmet-ът intentionally presents false lush imagery, barren exterior is substantially real, and internal authority is compartmentalized, with Bernard holding privileged access to cleaning/surveillance secrets.**
+> **Juliette’s Silo е една unit в стандартизирана multi-Silo survival/control architecture. Barren exterior is substantially real and genuinely lethal under observed conditions; suit sealing/breathing integrity materially affects survival. A second Silo independently shows mirror-camera surveillance, IT as a secured strategic layer, agricultural infrastructure, airlock architecture, residual power and a surviving occupant.**
 
 Ключови установени линии:
 
@@ -77,6 +77,17 @@
 - Level 144/bottom contains large ventilation / air-handling machinery;
 - official `THE SYNDROME` signage gives a partially legible symptom progression;
 - Janitorial contains a structured day/level/time `ROTA` board.
+- S02E01 directly places Juliette at and inside a **second Silo**, converting the multi-Silo model from exterior observation into direct exploration;
+- opening historical sequence in that second Silo shows anti-Founder / anti-deception graffiti, a Sheriff-led assault/advance against IT, an airlock breach and a mass exit outside;
+- present-day Juliette finds a large field of human remains around the second Silo hatch, strongly confirming a real lethal exterior hazard;
+- Juliette experiences acute breathing distress while sealed in her suit inside the second Silo, then can breathe after opening/breaking the helmet; exact breathing technology remains unknown;
+- current best-fit outside-hazard class is **airborne / atmosphere-borne exposure**; toxin/chemical/aerosol and pathogen remain competing possibilities;
+- the second Silo contains the same concealed mirror-camera concept, strongly supporting standardized cross-Silo surveillance/control design;
+- IT in the second Silo is a defended/secured strategic area with severed access, local lighting and a vault-like compartment;
+- the second Silo is massively flooded to within a few levels below IT but is not completely electrically dead;
+- at least one living person remains inside the secured IT compartment;
+- young Juliette is shown visiting the excavation machine in her own Silo as a child;
+- exact total Silo count and any relation `key 18 ↔ HDD 18 ↔ Silo 18` remain unresolved.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
@@ -93,6 +104,7 @@
 - [`docs/episodes/S01E08.md`](docs/episodes/S01E08.md) — episode record за S01E08.
 - [`docs/episodes/S01E09.md`](docs/episodes/S01E09.md) — episode record за S01E09.
 - [`docs/episodes/S01E10.md`](docs/episodes/S01E10.md) — episode record за S01E10.
+- [`docs/episodes/S02E01.md`](docs/episodes/S02E01.md) — episode record за S02E01.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
@@ -120,6 +132,10 @@
 - [`docs/evidence/S01E10-multiple-silos-exterior.md`](docs/evidence/S01E10-multiple-silos-exterior.md) — barren reality, multi-Silo field and distant skyline.
 - [`docs/evidence/S01E10-key18.md`](docs/evidence/S01E10-key18.md) — physical key marked `18`.
 - [`docs/evidence/S01E10-syndrome-level144-rota.md`](docs/evidence/S01E10-syndrome-level144-rota.md) — Syndrome sign, Level 144 infrastructure and Janitorial ROTA.
+- [`docs/evidence/S02E01-other-silo-rebellion.md`](docs/evidence/S02E01-other-silo-rebellion.md) — second-Silo rebellion, IT assault and mass exit.
+- [`docs/evidence/S02E01-outside-hazard-suit-breathing.md`](docs/evidence/S02E01-outside-hazard-suit-breathing.md) — outside hazard, suit seal and breathing-support model.
+- [`docs/evidence/S02E01-cross-silo-surveillance-it.md`](docs/evidence/S02E01-cross-silo-surveillance-it.md) — repeated mirror-camera surveillance and IT standardization.
+- [`docs/evidence/S02E01-power-flooding-survivor.md`](docs/evidence/S02E01-power-flooding-survivor.md) — residual power, flooding and surviving occupant.
 - [`docs/open-questions.md`](docs/open-questions.md) — активните въпроси за falsification / future testing.
 - [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — visual evidence от S01E01.
 - [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — selected visual evidence от S01E02.
@@ -135,6 +151,8 @@
 - [`assets/S01E09/MANIFEST.md`](assets/S01E09/MANIFEST.md) — S01E09 visual processing/selection manifest.
 - [`assets/S01E10/screenshots/`](assets/S01E10/screenshots/) — validated selected visual evidence от S01E10.
 - [`assets/S01E10/MANIFEST.md`](assets/S01E10/MANIFEST.md) — S01E10 visual processing/selection manifest.
+- [`assets/S02E01/screenshots/`](assets/S02E01/screenshots/) — validated selected visual evidence от S02E01.
+- [`assets/S02E01/MANIFEST.md`](assets/S02E01/MANIFEST.md) — S02E01 visual processing/selection manifest.
 
 ## Основна директива
 
@@ -188,6 +206,12 @@ The Jane Carmody cleaning footage was already direct visual evidence in S01E01. 
 ### Допълнително правило след S01E10
 
 **Character conclusions remain separate from direct system reveals.** Juliette initially concludes that the public display is the lie because her helmet shows lush imagery; S01E10 then directly reveals the helmet imagery itself as false. The ledger therefore preserves her statement as a character inference and the later reveal as higher-grade evidence.
+
+### Допълнително правило след S02E01
+
+**Cross-Silo repetition strengthens standardization hypotheses, not automatic central-control conclusions.** When the same architecture appears in a second Silo — mirror cameras, IT, airlock, agriculture — we may infer common design/doctrine more strongly, but we do not automatically conclude one live central authority controls every Silo.
+
+**Superseded inferences remain in history.** E188 preserves the initial mistaken Engineering/generator-target interpretation and marks it superseded after later scene evidence identifies IT as the actual attacked/defended location.
 
 ## Spoiler discipline
 
@@ -281,14 +305,18 @@ Confidence не е математическа вероятност и не за�
 
 ## Текущ модел за външния свят
 
-След S01E10 основната visual ambiguity е разрешена:
+След S02E01 основната visual ambiguity остава разрешена и exterior hazard model-ът е substantially stronger:
 
 1. **Lush cleaner view is false** — helmet-ът показва manipulated / overlay-like visual layer.
 2. **Barren exterior is substantially real** — след отпадането на false layer Juliette вижда devastated terrain.
 3. **Multiple Silo installations exist** в surrounding landscape.
 4. В далечината се вижда **ruined / city-like skyline**, но identity/location не са установени.
+5. Juliette directly reaches and enters a **second Silo**.
+6. A large mass-remains field around that Silo confirms a real lethal exterior hazard under observed conditions.
+7. Current best-fit hazard class is airborne / atmosphere-borne; exact toxin/pathogen/particulate mechanism remains unresolved.
+8. Suit sealing and breathing-support integrity materially affect survival.
 
-Все още са unresolved exact helmet-rendering technology, atmospheric hazard, exact relation между public display и raw exterior feed, броят/статусът на останалите Silos и identity-то на distant skyline.
+Все още са unresolved exact helmet-rendering technology, exact outside lethal agent, exact relation между public display и raw exterior feed, total Silo count/status, any current central authority, Silo numbering and identity-то на distant skyline.
 
 ## Текущ architectural model
 
@@ -365,6 +393,7 @@ episode/S01E06-analysis
 episode/S01E07
 episode/S01E09-analysis
 episode/S01E10-analysis
+episode/S02E01-analysis
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -374,4 +403,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S02E01`
+**Следваща knowledge boundary:** `S02E02`
