@@ -304,6 +304,26 @@
 | E288 | Sims actively agitates public sentiment against Mechanical. | Direct political/operational action | VH | Demonstrates independent narrative-shaping power and directly advances the Mechanical blame campaign. |
 | E289 | Large-scale population movement through the Silo's vertical circulation system is shown during escalating unrest. | Direct visual / contextual evidence | H | Movement/scale are directly visible; exact cause, destination and organizer are contextual. |
 
+| E290 | Level marker `26` is directly visible again. | Direct visual evidence | VH | Repeated corroboration of an already known spatial anchor; no new function inferred. |
+| E291 | Bernard removes Sims from his position as Head of Security. | Direct dialogue / institutional action | VH | Demonstrates Bernard's authority to reshape Sims' formal role. |
+| E292 | Bernard explicitly tells Sims that Sims will not become Bernard's shadow. | Direct dialogue / succession decision | VH | Separates Sims from the privileged IT succession/read-in path. |
+| E293 | Bernard appoints Sims as the new Judge. | Direct institutional action | VH | Shows Judge office and shadow succession are distinct tracks; does not prove every Judge is a puppet. |
+| E294 | The Silo 17 survivor says IT has its own independent power supply. | Character testimony / infrastructure claim | H | Strongly explains residual IT power after main-generator failure. |
+| E295 | The survivor says IT power comes from an external/outside source rather than the normal Silo generator/distribution path. | Character testimony | H | Exact physical source/location remains unresolved. |
+| E296 | During the Silo 17 rebellion, a pump on Level 144 was blown/destroyed in an attempt to flood Mechanical. | Character testimony / historical infrastructure account | H | Adds a deliberate sabotage origin for the flooding. |
+| E297 | The destroyed Level 144 pump led to continuing water rise in the lower Silo. | Character testimony + present-state corroboration | H | Strongly consistent with the directly observed flooding in S02E01. |
+| E298 | Mechanical did not restore the generator before rising water reached it. | Historical testimony | H | Establishes the failed repair window preceding generator loss. |
+| E299 | Silo 17's normal generator subsequently failed because of the flooding. | Historical causal testimony | H | Explains loss of normal Silo power. |
+| E300 | Water in Silo 17 continues to rise gradually in the present. | Character testimony + environmental corroboration | H | Makes flooding an ongoing active failure process, not a static post-collapse condition. |
+| E301 | The Silo 17 survivor wants Juliette to repair/restore a pump capable of stopping or slowing the rising water. | Character request / infrastructure claim | H | VH for the requested objective; exact hydraulic architecture remains unresolved. |
+| E302 | The plan is to power that pump from IT's independent power supply. | Character technical plan | H | Directly links continuity power to attempted infrastructure recovery. |
+| E303 | IT power can therefore potentially be routed to non-IT critical recovery infrastructure. | Technical inference from stated plan | H | Capacity/routing limits remain unknown. |
+| E304 | A large multilevel internal common/circulation area with landscaped green space is directly shown. | Direct visual evidence | VH | Architectural/contextual observation only; no level or special function inferred. |
+| E305 | A newly found Silo schematic/map shows marked/visible infrastructure lines associated in scene context with IT. | Direct visual + dialogue-supported evidence | H | Line type, direction and source remain unresolved. |
+| E306 | A similar line/connection on the schematic is associated with Judicial. | Direct visual + dialogue-supported evidence | H | Supports a possible shared privileged infrastructure backbone; does not prove power routing. |
+| E307 | A scanned handwritten letter attributed to Salvador Quinn is found in the archive. | Direct archived-document evidence | VH | Independently corroborates the S02E04 testimony that Quinn left a letter. |
+| E308 | Salvador Quinn's handwritten letter ends with an encoded/ciphered passage. | Direct visual / archived-document evidence | VH | Refines the earlier "partly encoded" description: the protected payload is at the end. |
+
 ## Визуални източници — S01E01
 
 - [Публичният екран с barren exterior](../assets/S01E01/screenshots/exterior-barren-display.webp)
@@ -502,6 +522,17 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 
 `contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
 
+## Визуални източници — S02E05
+
+Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+
+- [Level 26 marker — repeated](../assets/S02E05/screenshots/level-26-marker-repeat.jpeg)
+- [Multilevel green/common area](../assets/S02E05/screenshots/multilevel-green-common-area.jpeg)
+- [Silo schematic with IT/Judicial lines](../assets/S02E05/screenshots/monitor-silo-map-it-judicial-lines.jpeg)
+- [S02E05 visual evidence manifest](../assets/S02E05/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+
 ## Фокусирани evidence бележки
 
 - [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
@@ -550,3 +581,7 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [S02E04 — Immersive headset and cleaner-helmet technology](evidence/S02E04-vr-cleaner-technology.md)
 - [S02E04 — Meadows murder, Mechanical framing and Sims pressure](evidence/S02E04-meadows-framing-sims.md)
 - [S02E04 — Silo 17 survivor as child in protected vault](evidence/S02E04-silo17-child-vault.md)
+- [S02E05 — Sims, Judge office and Bernard's shadow succession](evidence/S02E05-sims-judge-shadow.md)
+- [S02E05 — Silo 17 independent IT power, flooding and pump recovery](evidence/S02E05-silo17-power-flooding-recovery.md)
+- [S02E05 — Silo schematic and hidden IT/Judicial infrastructure](evidence/S02E05-it-judicial-infrastructure-map.md)
+- [S02E05 — Salvador Quinn scanned handwritten letter](evidence/S02E05-salvador-quinn-letter.md)

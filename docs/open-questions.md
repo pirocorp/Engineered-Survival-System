@@ -473,10 +473,10 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 333. От колко време е там и как е осигурявал food/water/air?
 334. Има ли други survivors в Silo-а?
 335. **STRONGLY SUPPORTED in S02E03:** analogous secured IT vaults exist in Silos 17 and 18; is this universal across all Silos?
-336. Какъв е source-ът на residual electrical power след collapse-а?
+336. **PARTIALLY RESOLVED in S02E05:** Silo 17 survivor says IT has its own independent power from an external/outside source; exact source technology/location remains open.
 337. Кои systems продължават автоматично да работят без normal population/operations?
-338. Каква е причината и timeline-ът на massive flooding до IT?
-339. Flooding-ът common failure mode ли е across Silos или independent event?
+338. **SUBSTANTIALLY RESOLVED in S02E05:** a Level 144 pump was destroyed during rebellion to flood Mechanical; water kept rising, reached the generator before repair and continues rising in the present. Exact hydraulic path/timing remains open.
+339. S02E05 establishes Silo 17 flooding as a deliberate rebellion sabotage cascade. Common failure mode ли е elsewhere, or Silo-17-specific event?
 340. Има ли structural connection между second-Silo flooding и known flooded-bottom/lower-tunnel evidence in Juliette's Silo?
 
 ## S02E01 — cross-Silo governance / surveillance
@@ -586,7 +586,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 414. Russell Bernard-equivalent Head of IT ли е, another privileged role ли е, or something else? S02E04 confirms only that the survivor was a child during the rebellion and Russell had authority/access to place him in the vault.
 415. **REFRAMED in S02E04:** survivor-ът е бил дете, когато Russell го е поставил/затворил във vault-а. Защо е избрано точно това дете?
-416. **PARTIALLY REFRAMED in S02E04:** vault-ът очевидно може да shelter-ва човек/дете през collapse; какви systems/knowledge/people е предназначен стандартно да защитава?
+416. **FURTHER NARROWED in S02E05:** Silo 17 secured IT layer also retains independent power after generator loss; какви people/systems/knowledge/power functions е intended да preserve-ва стандартно?
 417. Vault-ът съдържа ли `THE ORDER`, cross-Silo status information, communications or control systems?
 418. Key `18` unlock-ва само Server Room ли, или и inner vault access chain?
 419. Всеки Silo има ли physical key numbered by its Silo designation?
@@ -671,8 +671,8 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 469. Кой точно hard drive има предвид Meadows — HDD 18 ли е или друг drive?
 470. Какво конкретно е съдържал drive-ът за Salvador Quinn?
-471. Какво пише в Quinn's partly encoded letter?
-472. Какъв cipher/encoding използва Quinn и защо?
+471. **PARTIALLY NARROWED in S02E05:** scanned handwritten Quinn letter is found and only its ending is encoded; какво гласи full readable body + final protected payload?
+472. Какъв exact cipher/encoding използва final section на Quinn letter и защо?
 473. Quinn е кодирал писмото, за да го скрие от current authority ли, от future IT leadership ли, or for another reason?
 474. Meadows успяла ли е да decode-не letter-а?
 475. Какво е правила Meadows през четирите дни, когато е изчезнала преди ~25 години?
@@ -709,7 +709,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 497. Sims' anti-Mechanical agitation coordinated ли е с Bernard, or is he exploiting the same crisis independently?
 498. Sims цели ли собствено advancement/power shift, or different institutional objective?
 499. В кои domains Bernard може да command-ва Sims и в кои Sims действа независимо?
-500. След Meadows' death как се променя formal и hidden power balance?
+500. **PARTIALLY RESOLVED in S02E05:** Bernard removes Sims as Head of Security, denies him shadow succession and appoints him Judge. Как това променя real formal/hidden power balance in practice?
 
 ## S02E04 — chronology
 
@@ -717,6 +717,66 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 502. Ако `A.R.` наистина е post-Rebellion calendar, какъв е current A.R. year?
 503. Quinn's tenure може ли да anchor-не `SILO YEAR 96/97` спрямо Rebellion?
 504. Jane Carmody's ~200-year recording age и Quinn's ~140-year Rebellion date могат ли да establish-нат pre-Rebellion duration of the Silo?
+
+## S02E05 — Sims / Judge / shadow succession
+
+505. Кой става нов Head of Security след Sims?
+506. Bernard по formal rule ли appoint-ва Judge, или използва emergency/extraordinary authority?
+507. Какви exact powers има Sims като Judge спрямо предишната му Security позиция?
+508. Sims приема ли Judge role-а като promotion, containment, sidelining or opportunity?
+509. Кой ще бъде Bernard's next `shadow`, ако изобщо избере такъв?
+510. Какви knowledge/access privileges получава shadow, които Judge няма?
+511. Meadows като former shadow запазила ли е privileged access след отказването си?
+512. Bernard може ли едностранно да remove/replace Judge и други senior offices?
+
+## S02E05 — Silo 17 independent IT power
+
+513. Какъв точно е external/outside source-ът на IT power в Silo 17?
+514. Physical outside the Silo ли е source-ът, or merely external to the normal internal grid?
+515. Как energy се доставя до IT — cable, buried feed, separate generator, battery/storage, or another system?
+516. IT independent power standard feature ли е за всички 50 Silos?
+517. Silo 18 IT има ли същия independent feed?
+518. Каква capacity има IT continuity power и колко дълго може да работи след normal-grid collapse?
+519. Може ли IT power да захранва arbitrary loads, or only predefined emergency circuits?
+520. Judicial също има ли independent continuity power?
+
+## S02E05 — Level 144 pump / flooding / recovery
+
+521. Каква normal function има destroyed Level 144 pump — drainage, groundwater control, sump, circulation, or another hydraulic role?
+522. Кой взривява pump-а и по чия заповед?
+523. Как точно destruction-ът flood-ва Mechanical?
+524. Колко време е имало Mechanical да repair-не generator-а преди water arrival?
+525. Generator-ът physically на кое level/elevation е в Silo 17?
+526. Защо generator repair е бил необходим след pump sabotage — independent damage ли е имал?
+527. Коя pump иска survivor-ът Juliette да repair-не — същата Level 144 pump ли е или друга?
+528. Как ще се route-не IT power към recovery pump?
+529. Repair-ът може ли да lower-не already accumulated water или само да stop-не further rise?
+530. Какво ще стане с Silo 17 ако water достигне IT/vault level?
+
+## S02E05 — IT / Judicial schematic lines
+
+531. Какъв service представляват lines, които достигат до IT и Judicial?
+532. Electrical power ли са, data/communications ли са, control network ли са, utility conduits ли са, or multi-service backbone?
+533. Къде започват тези lines според full schematic-а?
+534. Излизат ли физически извън Silo structure?
+535. Има ли analogous lines към други privileged departments?
+536. Съвпада ли IT line с independent external power feed-а, описан от Silo 17 survivor?
+537. Judicial line означава ли, че Judicial има own protected connection independent from public infrastructure?
+538. Schematic-ът original construction plan ли е, later modification ли е, or operational overlay?
+
+## S02E05 — Salvador Quinn letter
+
+539. Какво е exact transcription на readable handwritten body of Quinn letter?
+540. Какво е exact encoded final string/block?
+541. Какъв cipher/key/method е използван?
+542. Има ли clue в readable body за decoding key?
+543. Защо само final payload е protected, а основният текст е readable?
+544. Кой е intended recipient на letter-а?
+545. Кога е сканиран letter-ът и кой го е archived?
+546. Bernard виждал/чел ли е този exact archived scan?
+547. Meadows decoded ли е final section по време на four-day disappearance?
+548. Quinn letter директно ли е материалът, който Meadows свързва с questioned hard drive?
+549. Encoded ending съдържа ли информация за Rebellion, Silo origin, external infrastructure or another hidden system?
 
 ## Основен въпрос на проекта
 
