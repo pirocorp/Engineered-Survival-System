@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S02E04 `THE ORDER` is revealed as an active crisis-management playbook: Mechanical is a predefined blame target, Bernard poisons Meadows and stages Mechanical at the scene, Sims actively drives anti-Mechanical sentiment, Salvador Quinn emerges as a Rebellion-era Head of IT with a partly encoded letter, and Bernard demonstrates an immersive headset related to cleaner-helmet visual technology.**
+> **След S02E05 Bernard separates Sims' public Judicial role from the privileged shadow succession path, while Silo 17 reveals a hardened IT continuity-power architecture that survives main-generator failure and may power recovery systems. A scanned Salvador Quinn letter is also found, with its encoded payload specifically at the end.**
 
 ## Език на проекта
 
@@ -16,17 +16,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S02E04**
+**Текуща граница на знанието:** **S02E05**
 
-**Статус на гледане:** **Сезон 2, епизод 4**
+**Статус на гледане:** **Сезон 2, епизод 5**
 
-Не се използва никаква информация от S02E05+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация от S02E06+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S02E04 най-силният работен модел е:
+След S02E05 най-силният работен модел е:
 
-> **The Silo governance system does not merely react to unrest; it actively shapes crisis narratives. `THE ORDER` designates Mechanical as a scapegoat, Bernard manufactures a Meadows murder/framing scenario consistent with that doctrine, Sims independently mobilizes anti-Mechanical sentiment, and the hidden-control structure now appears internally competitive rather than monolithic.**
+> **The hidden architecture has two distinct continuity dimensions: governance succession and infrastructure survival. Bernard controls the privileged `shadow` path separately from the public Judge office, while Silo 17 IT retains independent power after generator collapse and may redirect it to critical recovery systems.**
 
 Ключови установени линии:
 
@@ -126,6 +126,16 @@
 - Bernard claims impeachment protests forced him to act and says Sims was behind the pressure;
 - Sims actively agitates public sentiment against Mechanical, demonstrating meaningful independent political/operational leverage;
 - S02E04 ends amid large-scale population movement during escalating unrest.
+- S02E05 shows Bernard removing Sims as Head of Security, explicitly denying him the `shadow` role and appointing him Judge;
+- this separates the public Judicial office from Bernard's privileged IT succession/read-in path without proving that every Judge is merely a puppet;
+- the Silo 17 survivor says IT has its own independent power supply from an external/outside source relative to the normal generator path;
+- a Level 144 pump was destroyed during the Silo 17 rebellion to flood Mechanical; the resulting rising water eventually disabled the main generator and continues to rise;
+- the survivor wants Juliette to repair a pump and power it from IT, implying continuity power can potentially support selected non-IT recovery loads;
+- Level 26 is directly shown again as a repeated spatial anchor;
+- a large multilevel landscaped common/circulation area is directly shown;
+- a newly found Silo schematic shows marked lines associated in scene context with both IT and Judicial; line type/source remain unresolved;
+- a scanned handwritten Salvador Quinn letter is found in the archive;
+- the encoded/ciphered material is specifically at the end of Quinn's letter, refining the earlier 'partly encoded' description.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
@@ -146,6 +156,7 @@
 - [`docs/episodes/S02E02.md`](docs/episodes/S02E02.md) — episode record за S02E02.
 - [`docs/episodes/S02E03.md`](docs/episodes/S02E03.md) — episode record за S02E03.
 - [`docs/episodes/S02E04.md`](docs/episodes/S02E04.md) — episode record за S02E04.
+- [`docs/episodes/S02E05.md`](docs/episodes/S02E05.md) — episode record за S02E05.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
@@ -193,6 +204,10 @@
 - [`docs/evidence/S02E04-vr-cleaner-technology.md`](docs/evidence/S02E04-vr-cleaner-technology.md) — immersive Monteverde headset and cleaner-helmet technology relation.
 - [`docs/evidence/S02E04-meadows-framing-sims.md`](docs/evidence/S02E04-meadows-framing-sims.md) — Meadows murder, Mechanical framing and Sims pressure.
 - [`docs/evidence/S02E04-silo17-child-vault.md`](docs/evidence/S02E04-silo17-child-vault.md) — Silo 17 survivor as child and vault continuity-refuge model.
+- [`docs/evidence/S02E05-sims-judge-shadow.md`](docs/evidence/S02E05-sims-judge-shadow.md) — Sims reassignment, Judge office and separate shadow succession path.
+- [`docs/evidence/S02E05-silo17-power-flooding-recovery.md`](docs/evidence/S02E05-silo17-power-flooding-recovery.md) — independent IT power, Level 144 pump sabotage, flooding and recovery plan.
+- [`docs/evidence/S02E05-it-judicial-infrastructure-map.md`](docs/evidence/S02E05-it-judicial-infrastructure-map.md) — schematic lines associated with IT/Judicial and hidden-backbone hypothesis.
+- [`docs/evidence/S02E05-salvador-quinn-letter.md`](docs/evidence/S02E05-salvador-quinn-letter.md) — scanned Quinn letter and encoded final payload.
 - [`docs/open-questions.md`](docs/open-questions.md) — активните въпроси за falsification / future testing.
 - [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — visual evidence от S01E01.
 - [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — selected visual evidence от S01E02.
@@ -216,6 +231,8 @@
 - [`assets/S02E03/MANIFEST.md`](assets/S02E03/MANIFEST.md) — S02E03 visual processing/selection manifest.
 - [`assets/S02E04/screenshots/`](assets/S02E04/screenshots/) — validated selected visual evidence от S02E04.
 - [`assets/S02E04/MANIFEST.md`](assets/S02E04/MANIFEST.md) — S02E04 visual processing/selection manifest.
+- [`assets/S02E05/screenshots/`](assets/S02E05/screenshots/) — validated selected visual evidence от S02E05.
+- [`assets/S02E05/MANIFEST.md`](assets/S02E05/MANIFEST.md) — S02E05 visual processing/selection manifest.
 
 ## Основна директива
 
@@ -384,9 +401,17 @@ Confidence не е математическа вероятност и не за�
 
 Ако нова информация опровергава само част от theory, предпочитаме **refactor**, вместо да я защитаваме на всяка цена.
 
+
+### Допълнително правило след S02E05
+
+**Formal office and hidden succession are separate evidence layers.** Bernard appointing Sims as Judge while denying him the `shadow` role shows that public institutional rank does not automatically imply access to the deepest IT succession/read-in path.
+
+**Infrastructure-line drawings are not self-interpreting.** A line reaching IT or Judicial is recorded as a connection/path on the schematic; power, data, communications, control and utility interpretations remain competing until the diagram or dialogue identifies the service.
+
+
 ## Текущ модел за външния свят
 
-След S02E04 основната visual ambiguity остава разрешена, а cleaner visual-technology model-ът е допълнително strengthened by a standalone immersive system explicitly compared to cleaner helmets:
+След S02E05 основната exterior visual ambiguity остава разрешена; S02E05 does not overturn the cleaner visual model and instead adds continuity-power and hidden-infrastructure evidence:
 
 1. **Lush cleaner view is false** — helmet-ът показва manipulated / overlay-like visual layer.
 2. **Barren exterior is substantially real** — след отпадането на false layer Juliette вижда devastated terrain.
@@ -483,6 +508,7 @@ episode/S02E01-analysis
 episode/S02E02-analysis
 episode/S02E03-analysis
 episode/S02E04-analysis
+episode/S02E05-analysis
 hypothesis/<name>
 model/<name>
 methodology/<change>
