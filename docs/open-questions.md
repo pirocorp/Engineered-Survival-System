@@ -1,8 +1,8 @@
 # Отворени въпроси
 
-**Knowledge boundary:** **S02E01**
+**Knowledge boundary:** **S02E02**
 
-Въпросите са само за knowledge state-а до S02E01. Не се използва информация от S02E02+, книги, wiki, interviews, leaks или retrospective explanations.
+Въпросите са само за knowledge state-а до S02E02. Не се използва информация от S02E03+, книги, wiki, interviews, leaks или retrospective explanations.
 
 Resolved/partially resolved questions от по-ранни епизоди са премахнати или refactor-нати вместо да се пазят като вече неверни watch targets.
 
@@ -395,13 +395,13 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 277. Какъв material/specification е standard cleaning tape?
 278. Какъв material/specification е alternate tape used for Juliette?
-279. Deliberately inferior ли е standard tape или просто operationally inadequate?
+279. **STRONGLY NARROWED in S02E02:** insider statements strongly support intentionally/systematically inferior standard tape; exact design intent/calibration still remains to be established technically.
 280. Кой normally supplies/selects standard tape?
 281. Кой arranged the alternate tape for Juliette and with what intent?
-282. Seal failure позволява ли external contaminant да проникне, или има друг suit-mediated lethal mechanism?
+282. Seal failure позволява ли external contaminant да проникне, breathing gas да изтича, или и двете?
 283. Колко дълго standard cleaner може да survive при intact vs failed seal?
 284. Bernard/Sims откъде знаят expected death point near the tree?
-285. Има ли telemetry/biometrics from cleaning suits?
+285. **PARTIALLY RESOLVED in S02E02:** Bernard/IT receives a live Juliette-associated exterior video feed; separate telemetry/biometrics remain unknown.
 286. Външната atmosphere сама по себе си lethal ли е при fully sealed suit?
 
 ## S01E10 — multiple Silos / exterior geography
@@ -463,7 +463,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 326. Chemical toxin, gas, aerosol/particulate, pathogen/bioaerosol или друг mechanism ли е?
 327. Колко бързо настъпват symptoms/death при unprotected exposure?
 328. Каква е exact suit breathing architecture — stored gas, rebreather, filtered supply или друго?
-329. Standard tape позволява ли contaminant ingress, breathing-gas loss, или и двете?
+329. Standard tape позволява ли contaminant ingress, breathing-gas loss, или и двете? S02E02 strengthens both seal-failure pathways but does not technically distinguish them.
 330. Juliette's alternate tape колко materially удължава sealed survival?
 331. Pure radiation има ли secondary role, включително airborne radioactive particulate, или може practically да се отхвърли?
 
@@ -495,6 +495,67 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 349. Как се осигуряват water, nutrients и artificial light за crop production?
 350. Young Juliette как е получила access до excavation machine?
 351. Excavation machine има ли relation към classified lower tunnel/door или към possible inter-Silo construction/connectivity?
+
+## S02E02 — live cleaner feed / archive pipeline
+
+352. Къде точно е camera source-ът за live exterior feed-а — helmet, suit или separate device?
+353. Как Juliette-associated feed-ът се предава извън Silo — radio, relay, cable-linked system или друг mechanism?
+354. Защо signal-ът се губи при влизането във втория Silo — shielding, range, architecture, deliberate blocking или друго?
+355. `JANE CARMODY CLEANING` и другите cleaning files записи от същата live pipeline ли са?
+356. Archive-ът пази raw camera input, wearer-visible lush-rendered output, processed composite или parallel streams?
+357. Може ли Bernard/IT да записва всеки cleaner live и за колко време се пазят записите?
+358. Има ли live telemetry/biometrics отделно от video feed-а?
+
+## S02E02 — THE ORDER
+
+359. Кой е авторът/авторите на `THE ORDER`?
+360. Кога е написан `THE ORDER` и променян ли е след създаването си?
+361. Какви са access rules за `THE ORDER`?
+362. Judge Meadows знае ли целия документ или само части от doctrine-а?
+363. Sims знае ли за `THE ORDER`?
+364. Каква е formal relation `THE ORDER` ↔ Pact?
+365. `THE ORDER` legally supersede-ва ли Pact-а при crisis, или е covert operational guidance?
+366. Всеки Silo има ли собствено копие на `THE ORDER`?
+367. `FAILED CLEANING → PREPARE FOR WAR` derived от historical empirical failures ли е?
+368. Ако да, колко previous failed-cleaning / rebellion cases са known to authors?
+369. Second-Silo collapse един от cases, върху които doctrine-ът е based, ли е?
+370. Има ли други trigger conditions в `THE ORDER`, които activate crisis protocols?
+
+## S02E02 — tape mechanism / cleaning ritual
+
+371. Каква е exact material/spec difference между standard cleaning tape и "good" tape?
+372. Кой deliberately selects/supplies standard tape for cleanings?
+373. Standard tape проектирана ли е да fail-не след приблизително predictable exposure window?
+374. Ако има predictable window, calibrate-ната ли е така, че cleaner-ът обикновено да има време да почисти преди protection failure?
+375. Основният failure mode contaminant ingress ли е?
+376. Основният failure mode breathing-gas loss ли е?
+377. Двата mechanisms едновременно ли действат?
+378. Има ли separate suit air supply и какъв е exact capacity/mechanism?
+379. Какво точно е знаела жената, която сменя tape-а, за suit breathing system-а?
+380. Meadows откъде знае, че "good tape" materially improves exterior survival?
+381. Bernard откъде знае expected standard-cleaner death timing?
+382. Cleaning protocol historically designed ли е като public legitimacy ritual, или този effect е emergent/institutionally exploited?
+383. Ако cleaner откаже да clean-не, как `THE ORDER` classify-ва това спрямо failed cleaning?
+384. Ако cleaner clean-не, но не умре, това ли е exact failed-cleaning condition?
+
+## S02E02 — secured IT / privileged read-in layer
+
+385. Какво точно има зад secured IT vault door в Juliette's Silo?
+386. Всички privileged systems — `THE ORDER`, live exterior feed, archives — физически ли са зад този secured layer?
+387. Вторият Silo има ли homologous `THE ORDER` / live-feed infrastructure зад своя secured IT door?
+388. Кой има physical access до Juliette-Silo secured IT compartment?
+389. Judge Meadows има ли direct access или само shared knowledge?
+390. Кой друг senior actor е read-in за tape secret-а?
+391. Privileged read-in layer formal institution ли е или overlapping access между IT/Judicial leadership?
+392. Има ли current authority above Bernard/Meadows, която controls `THE ORDER` doctrine?
+393. Secured IT compartments между Silos direct communication/control nodes ли са?
+
+## S02E02 — rebellion symbol
+
+394. Какво означава circled graffiti symbol/emblem?
+395. Official rebel/faction insignia ли е?
+396. Появява ли се в други historical/current locations?
+397. Символът свързан ли е със specific movement, person, slogan или organizational identity?
 
 ## Основен въпрос на проекта
 
