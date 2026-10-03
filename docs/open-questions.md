@@ -1,8 +1,8 @@
 # Отворени въпроси
 
-**Knowledge boundary:** **S01E10**
+**Knowledge boundary:** **S02E01**
 
-Въпросите са само за knowledge state-а до S01E10. Не се използва информация от S02E01+, книги, wiki, interviews, leaks или retrospective explanations.
+Въпросите са само за knowledge state-а до S02E01. Не се използва информация от S02E02+, книги, wiki, interviews, leaks или retrospective explanations.
 
 Resolved/partially resolved questions от по-ранни епизоди са премахнати или refactor-нати вместо да се пазят като вече неверни watch targets.
 
@@ -14,9 +14,9 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 4. Public wall display direct live camera feed ли е или все още processed representation на substantially real barren exterior?
 5. Public display и cleaner helmet споделят ли един physical camera source или separate pipelines?
 6. Какъв е exact intended behavioral purpose на lush deception и защо исторически cleaners clean-ват?
-7. Какво точно убива/обездвижва standard cleaners?
-8. Как точно standard tape/seal contributes към mortality и deliberately inferior ли е?
-9. Външната atmosphere сама по себе си lethal ли е, или mortality requires suit failure / another factor?
+7. **PARTIALLY RESOLVED in S02E01:** outside hazard е реален; exact agent/mechanism, който убива standard cleaners, остава unknown.
+8. Как точно standard tape/seal contributes към mortality — external contaminant ingress, breathing-gas loss, both — и deliberately inferior ли е?
+9. **PARTIALLY RESOLVED in S02E01:** mass unprotected exterior deaths strongly establish a real exterior hazard; exact airborne/atmosphere-borne agent and role of suit failure remain unresolved.
 10. Какво вижда cleaner при helmet-layer failure/removal и има ли automatic fallback?
 11. Скрива ли lush layer bodies, neighboring Silos, terrain features или други objects deliberately?
 12. Защо public display показва lush imagery при S01E03 power-down?
@@ -406,9 +406,9 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S01E10 — multiple Silos / exterior geography
 
-287. Колко Silo installations има в visible field?
-288. Всички visible circular sites inhabited/active Silos ли са?
-289. Имат ли identical architecture and cleaning systems?
+287. Колко Silo installations има общо? S02E01 confirms direct access to a second Silo, but exact count remains unknown.
+288. Всички visible circular sites inhabited/active Silos ли са? S02E01 shows at least one other Silo can be collapsed/largely depopulated yet still contain a survivor and residual power.
+289. **PARTIALLY RESOLVED in S02E01:** at least two Silos share homologous airlock, IT, agriculture and concealed mirror-camera concepts; exact identity of all architecture/cleaning systems remains open.
 290. Има ли communication/coordination between Silos?
 291. Кой управлява multi-Silo system-а, ако има common authority?
 292. `SILO_COUNT` field от HDD към exact number ли сочи?
@@ -444,6 +444,57 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 313. Има ли clustering by level/occupation?
 314. Какви legal/occupational restrictions следват от diagnosis?
 315. Control authorities знаят ли повече за cause-а от public medical messaging?
+
+## S02E01 — second Silo / rebellion / Russell
+
+316. Какъв е exact номер/designation на втория Silo?
+317. Juliette's original Silo действително ли е Silo `18`?
+318. Key `18`, HDD 18 и Silo numbering имат ли real common identifier, или numerical overlap е coincidence?
+319. Кой е Russell и каква institutional role има?
+320. За какво точно Sheriff-ът твърди, че Russell е излъгал?
+321. Sheriff-led group officially rebels ли са, или faction identity остава по-сложна?
+322. Кой защитава IT — IT staff, security, loyalists или mixed force?
+323. Кой/как е прекъснал IT bridge-а и кога?
+324. Generator 15-minute message какво точно означава и свързан ли е с IT conflict-а?
+
+## S02E01 — outside hazard / suit breathing
+
+325. Какъв exact airborne/atmosphere-borne agent причинява exterior deaths?
+326. Chemical toxin, gas, aerosol/particulate, pathogen/bioaerosol или друг mechanism ли е?
+327. Колко бързо настъпват symptoms/death при unprotected exposure?
+328. Каква е exact suit breathing architecture — stored gas, rebreather, filtered supply или друго?
+329. Standard tape позволява ли contaminant ingress, breathing-gas loss, или и двете?
+330. Juliette's alternate tape колко materially удължава sealed survival?
+331. Pure radiation има ли secondary role, включително airborne radioactive particulate, или може practically да се отхвърли?
+
+## S02E01 — second-Silo infrastructure / survivor
+
+332. Кой е living survivor-ът в secured IT compartment и каква е ролята му?
+333. От колко време е там и как е осигурявал food/water/air?
+334. Има ли други survivors в Silo-а?
+335. Secured IT vault-like compartment standard feature ли е и в други Silos?
+336. Какъв е source-ът на residual electrical power след collapse-а?
+337. Кои systems продължават автоматично да работят без normal population/operations?
+338. Каква е причината и timeline-ът на massive flooding до IT?
+339. Flooding-ът common failure mode ли е across Silos или independent event?
+340. Има ли structural connection между second-Silo flooding и known flooded-bottom/lower-tunnel evidence in Juliette's Silo?
+
+## S02E01 — cross-Silo governance / surveillance
+
+341. Mirror-camera surveillance common original design ли е за всички Silos?
+342. Surveillance feeds могат ли да се observe-ват извън individual Silo?
+343. Има ли one current central authority над Silos или only common inherited governance template?
+344. Всеки Silo има ли Bernard-equivalent privileged IT/control role?
+345. IT bridge/secure-compartment architecture standardized ли е между Silos?
+346. Могат ли Silos да communicate директно помежду си?
+347. Historical conflict във втория Silo същият тип/period `Rebellion` ли е като official historical narrative в Juliette's Silo?
+
+## S02E01 — agriculture / excavation
+
+348. Колко agricultural levels/zones има и sufficient ли са за long-term food self-sufficiency?
+349. Как се осигуряват water, nutrients и artificial light за crop production?
+350. Young Juliette как е получила access до excavation machine?
+351. Excavation machine има ли relation към classified lower tunnel/door или към possible inter-Silo construction/connectivity?
 
 ## Основен въпрос на проекта
 

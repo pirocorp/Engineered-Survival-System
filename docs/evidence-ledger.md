@@ -1,6 +1,6 @@
 # Evidence регистър
 
-Текуща **knowledge boundary:** **S01E10**
+Текуща **knowledge boundary:** **S02E01**
 
 | ID | Evidence | Клас | Confidence | Бележки |
 |---|---|---|---:|---|
@@ -196,6 +196,31 @@
 | E182 | An official `THE SYNDROME` notice contains a progressive symptom list, including partially legible twitching/shaking and later motor/cognitive/nervous-system impairment. | Direct visual / institutional medical information | H | Small text is blurred; exact wording is not over-transcribed. |
 | E183 | Scene context identifies the bottom as Level 144; the area contains large axial fans and ventilation / air-handling infrastructure. | Direct observation + scene-context spatial identification | H | `144` is not visibly printed in the selected frame itself. |
 | E184 | A `ROTA` board in the Janitorial closet is organized by day, `LEVEL NO.`, time slots and assigned names/initials. | Direct visual evidence | VH | Proves structured level-by-level scheduling; purpose beyond scheduling remains unresolved. |
+| E185 | S02E01 shows a large internal agricultural/growing zone integrated between Silo levels, with dense crop rows and irrigation/misting infrastructure. | Direct visual evidence | VH | Establishes agriculture as a major habitation subsystem; crop species and self-sufficiency remain unknown. |
+| E186 | Rebellion-era walls in the second Silo carry explicit anti-Founder / anti-deception graffiti including `LIARS`. | Direct visual evidence + scene-context temporal identification | VH | Establishes historical hostility toward Founders; exact grievance and truth of accusations remain unresolved. |
+| E187 | A handwritten message gives a generator-related 15-minute warning during the historical second-Silo conflict. | Direct written evidence + scene context | H | Exact author/addressee and relation to the IT assault are unresolved. |
+| E188 | Early in the sequence, the attack was provisionally interpreted as targeting Engineering to seize generator control. | Inference — **SUPERSEDED** | VL | Later scene evidence identifies IT as the attacked/defended location. Preserved as correction history; generator note remains a separate clue. |
+| E189 | During the historical sequence, a Sheriff-led group attacks/advances toward IT while another group defends IT. | Direct observation + scene-context institutional identification | VH | Exact formal faction labels remain unresolved. |
+| E190 | The Sheriff states that Russell lied to them. | Character testimony | VH | VH that the claim is made; truth, Russell's role and exact lie remain unknown. |
+| E191 | The Sheriff leads the group toward the airlock with the intent to go outside. | Direct observation + character-stated intent | VH | Establishes organized exterior-exit objective. |
+| E192 | The Sheriff successfully opens the airlock for the group. | Direct observation | VH | Operational access is achieved; access mechanism/authority remains unknown. |
+| E193 | The Sheriff-led group exits the Silo to the outside. | Direct observation + scene continuity | VH | Confirms actual exit, not merely intent. |
+| E194 | Present-day remains/flag evidence around the second Silo visually links the historical exit sequence to the Silo later reached by Juliette. | Cross-scene visual continuity | H | Strong continuity evidence; exact identity of every body is not established individually. |
+| E195 | The historical exterior exit ended in fatal outcome for at least a large number of participants. | Inference from cross-scene continuity + physical remains | H | Supports real lethal exterior hazard; exact cause remains unresolved. |
+| E196 | Juliette reaches the exterior hatch/approach area of a Silo separate from her original Silo. | Direct observation + spatial continuity | VH | Direct exploration of a second Silo site. |
+| E197 | A large field of human remains surrounds the second Silo's exterior hatch/approach area. | Direct visual evidence | VH | Mass fatality field; does not prove every resident exited or died. |
+| E198 | Juliette enters the second Silo through its airlock and closes it behind her. | Direct observation | VH | Confirms physical interior access to another Silo. |
+| E199 | Inside the second Silo, large `LIES` graffiti is visible. | Direct visual evidence | VH | Supports anti-deception sentiment; author/date remain unknown. |
+| E200 | Inside the second Silo, Juliette develops acute breathing distress while remaining sealed in her suit/helmet environment. | Direct observation | VH | Shows failure/depletion of the suit breathing environment; exact technology/cause unknown. |
+| E201 | After breaking/opening the helmet, Juliette can breathe the second Silo interior atmosphere again. | Direct observation | VH | Establishes immediately breathable interior air and strongly refines suit breathing/seal model. |
+| E202 | The second Silo contains a concealed camera behind/in a mirror structure matching the surveillance concept in Juliette's Silo. | Direct visual evidence + repeated cross-Silo observation | VH | Demonstrates mirror-camera surveillance is not unique to one Silo. |
+| E203 | Fixed overhead lights remain operational in an agricultural area of the abandoned/collapsed second Silo. | Direct visual evidence | VH | Confirms residual electrical power; source/scope unknown. |
+| E204 | The present-day second-Silo IT bridge/chokepoint remains locally illuminated. | Direct observation + cross-scene spatial continuity | H | Supports residual power in IT; exact circuit/source unknown. |
+| E205 | The second-Silo IT access bridge is physically severed, creating defensive/isolation geometry around IT. | Direct visual evidence + cross-scene spatial continuity | VH | Does not by itself prove which faction destroyed the bridge. |
+| E206 | The second Silo is massively flooded, with water reaching to within a few levels below IT. | Direct observation + scene-context spatial identification | VH | Cause/timeline of flooding unknown; no automatic equivalence with Juliette's Silo flooded bottom. |
+| E207 | A childhood flashback shows young Juliette visiting the excavation machine in her own Silo with a friend. | Direct observation / character-history scene | VH | Establishes early personal familiarity with deep legacy infrastructure; no lower-tunnel connection proven. |
+| E208 | A living person is present behind a heavy secured/vault-like door in the second Silo's IT area. | Direct observation | VH | Falsifies any model that the second Silo is completely uninhabited. |
+| E209 | The second-Silo IT survivor threatens Juliette with lethal force if she attempts to open the secured door. | Character statement / threat | VH | Establishes threat; willingness/ability to carry it out remains separate. |
 
 ## Визуални източници — S01E01
 
@@ -338,6 +363,27 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 
 `contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
 
+## Визуални източници — S02E01
+
+Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+
+- [Agricultural levels — wide](../assets/S02E01/screenshots/silo-agricultural-levels-wide.jpeg)
+- [Anti-Founder graffiti](../assets/S02E01/screenshots/rebellion-anti-founders-graffiti.jpeg)
+- [Generator 15-minute note](../assets/S02E01/screenshots/rebellion-generator-15min-note.jpeg)
+- [Second-Silo IT battle bridge](../assets/S02E01/screenshots/other-silo-it-battle-bridge.jpeg)
+- [Sheriff-led group exits outside](../assets/S02E01/screenshots/sheriff-group-exits-outside.jpeg)
+- [Historical exit / present-day remains continuity](../assets/S02E01/screenshots/other-silo-rebellion-remains-flag.jpeg)
+- [Second-Silo hatch / mass remains field](../assets/S02E01/screenshots/other-silo-hatch-mass-remains-wide.jpeg)
+- [Juliette inside second Silo / LIES](../assets/S02E01/screenshots/juliette-inside-other-silo-lies-graffiti.jpeg)
+- [Juliette suit breathing failure](../assets/S02E01/screenshots/juliette-suit-air-failure.jpeg)
+- [Second-Silo concealed mirror camera](../assets/S02E01/screenshots/other-silo-concealed-mirror-camera.jpeg)
+- [Second-Silo agricultural lights still powered](../assets/S02E01/screenshots/other-silo-agricultural-lights-still-powered.jpeg)
+- [Second-Silo IT severed bridge](../assets/S02E01/screenshots/other-silo-it-severed-bridge.jpeg)
+- [Second-Silo IT vault survivor](../assets/S02E01/screenshots/other-silo-it-vault-survivor.jpeg)
+- [S02E01 visual evidence manifest](../assets/S02E01/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+
 ## Фокусирани evidence бележки
 
 - [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
@@ -366,3 +412,7 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [S01E10 — Barren reality, multi-Silo landscape и distant skyline](evidence/S01E10-multiple-silos-exterior.md)
 - [S01E10 — Physical key `18`](evidence/S01E10-key18.md)
 - [S01E10 — Syndrome sign, Level 144 и Janitorial ROTA](evidence/S01E10-syndrome-level144-rota.md)
+- [S02E01 — Second-Silo rebellion, IT assault and mass exit](evidence/S02E01-other-silo-rebellion.md)
+- [S02E01 — Outside hazard, suit seal and breathing support](evidence/S02E01-outside-hazard-suit-breathing.md)
+- [S02E01 — Cross-Silo surveillance and IT standardization](evidence/S02E01-cross-silo-surveillance-it.md)
+- [S02E01 — Second-Silo collapse state: power, flooding and survivor](evidence/S02E01-power-flooding-survivor.md)
