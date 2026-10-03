@@ -1,29 +1,139 @@
-# Текущо състояние — след S02E01
+# Текущо състояние — след S02E03
 
-**Knowledge boundary:** `S02E01`
+**Knowledge boundary:** `S02E03`
 
 ## Работен модел
 
-S02E01 converts the multi-Silo reveal from a distant exterior observation into direct exploration of a second Silo and exposes a historical failure mode of another Silo community.
+S02E03 provides the first concrete historical failure case that closely matches `THE ORDER` and materially clarifies the relationship between cleaning, public deterrence, real outside hazard and Silo-wide rebellion.
 
-Най-големите промени спрямо S01E10 са:
+Най-големите промени спрямо S02E02 са:
 
-1. Juliette reaches and enters a **second Silo** whose historical rebellion-era sequence is shown at the start of the episode.
-2. A Sheriff-led group in that Silo attacks/advances against **IT**, reaches the airlock and exits outside.
-3. Present-day mass human remains around the second Silo hatch show that a large exterior exit ended catastrophically.
-4. Outside lethality is therefore real; exact agent remains unknown, with an **airborne / atmosphere-borne hazard** currently the best-fit class.
-5. Juliette experiences acute breathing distress while sealed in her suit inside the second Silo, then can breathe after opening/breaking the helmet, strongly implicating suit breathing/seal integrity.
-6. The second Silo contains the same concealed **mirror-camera** concept, supporting standardized cross-Silo surveillance/control design.
-7. IT in the second Silo is a defended/secured strategic area with a severed bridge, local power and a hardened compartment.
-8. At least one **living survivor** remains inside that secured IT compartment.
-9. The second Silo is massively flooded to within a few levels below IT, yet multiple local lighting circuits still operate.
-10. Young Juliette is shown visiting the excavation machine in her own Silo as a child.
+1. The other Silo is identified by its survivor as **Silo 17**, and he states that the system contains **50 Silos** in total.
+2. Juliette's original Silo is strongly identified/inferred as **Silo 18**.
+3. Silo 17's collapse begins after Ron goes out for cleaning, refuses to clean, writes `LIES`, disappears from view, and the population later concludes that the outside is safe because they never saw him die.
+4. Three days later `LIES` appears on the internal cafeteria display; rebellion follows.
+5. This is the first concrete historical corroboration of `THE ORDER`: **failed cleaning → prepare for war**.
+6. Silo 17's mass-exit deaths are described as caused by a returning dust/poison hazard after the outside hazard temporarily dispersed, separating real exterior lethality from the ordinary short cleaner-death window.
+7. The secured IT compartment is explicitly called a **vault**; Russell placed the survivor inside and ordered him not to let anyone enter.
+8. Bernard's physical key `18` accesses the **SERVER ROOM**, and the vault is inside that restricted layer.
+9. Bernard says the Jane Carmody cleaning recording is about **200 years old** and already knew Silo 17 was "dead" long before the current crisis.
+10. Sims explicitly offers medication so a person can **forget**, strongly corroborating deliberate pharmacological memory suppression.
+11. `CODE SILO ORANGE` directly formalizes covert birth-control deception as institutional medical protocol.
+12. A medical record uses `116 A.R.`, forcing a chronology correction: `SILO YEAR 96/97`, `A.R.`, the Rebellion and Bernard's "~200 years" statement cannot yet be mapped onto one simple calendar.
+13. Juliette explicitly identifies the lush cleaner view as the behavioral trigger for cleaning and recognizes it as false from the repeated Jane Carmody visual pattern, including the same flying-creature movement.
+14. Judge Meadows introduces a theory that The Syndrome may be a reaction to Silo life rather than a primary physiological disease.
 
-> **След S02E01 multi-Silo architecture is no longer only visible from outside: Juliette directly enters a second Silo with homologous surveillance/IT/agricultural infrastructure. A real lethal exterior hazard is strongly established, while the exact airborne/atmospheric agent and the exact suit/tape failure pathway remain unresolved.**
-
+> **След S02E03 cleaning is best modeled as a public deterrence/legitimacy ritual operating inside a genuinely dangerous exterior environment: manipulated lush imagery induces cleaning, standard protection is intentionally/systematically inferior, expected visible cleaner death deters mass exit, and Silo 17 shows how failure of that visible outcome can cascade into rebellion and catastrophic exterior exposure.**
 ---
 
 ## Наблюдения с висок confidence
+
+### S02E03 — Silo count / numbering / Silo 17 collapse
+
+- The Silo 17 survivor states that there are **50 Silos** in total.
+- He identifies the collapsed Silo Juliette entered as **Silo 17**.
+- Juliette's original Silo is now strongly identified/inferred as **Silo 18**, although the exact numbering relation to key `18` and HDD 18 remains only partially resolved.
+- Ron went outside for a cleaning, refused to clean, wrote/marked `LIES` on the exterior sensor and then moved out of view.
+- Three days later `LIES` appeared on the internal cafeteria display.
+- The survivor says rebellion followed this sequence.
+- He further says the population eventually went outside because they had not seen Ron die and concluded the exterior was safe.
+- Silo 17 therefore provides concrete historical corroboration of `THE ORDER` failed-cleaning → war contingency.
+
+### S02E03 — exterior hazard vs cleaner timing
+
+- The survivor says the exterior dust/poison temporarily dispersed.
+- Unprotected residents remained alive outside beyond the ordinary short cleaner-death window.
+- The hazard later returned and killed them.
+- This separates the **real mobile/time-varying outside hazard** from the short predictable mortality pattern of standard cleaning suits.
+- Exact hazard chemistry remains unresolved.
+- Exact tape pathway also remains unresolved: breathing-gas loss, contaminant ingress, or both.
+
+### S02E03 — Server Room / vault / Russell
+
+- The Silo 17 survivor explicitly calls the secured IT compartment a **vault**.
+- He says Russell put him inside it and ordered him never to let anyone enter.
+- Bernard's physical key `18` is used for/accesses the **SERVER ROOM** in Silo 18.
+- The heavy secured vault is located inside that Server Room.
+- Current restricted path: `key 18 → Server Room → vault`.
+- This strongly strengthens standardized protected IT-vault architecture across Silos 17 and 18.
+- Exact vault contents and whether key numbering corresponds to Silo numbering remain unresolved.
+
+### S02E03 — Bernard cross-Silo knowledge / Jane Carmody age
+
+- Bernard knows Juliette reached Silo 17.
+- He states Silo 17 has been "dead" for a long time.
+- He says he knew this before Judge Meadows became his shadow.
+- Bernard therefore has inherited/long-standing **partial cross-Silo knowledge**, but there is no evidence that he knows the whole system.
+- Bernard says the Jane Carmody cleaning recording is about **200 years old**; the number may be approximate.
+
+### S02E03 — pharmacological memory suppression
+
+- Bernard asks Sims what happened to personnel exposed to Juliette's classified broadcast.
+- Sims says medication was administered, presented as sedatives.
+- Sims later explicitly offers medication so another person can **forget**.
+- Current authorities therefore possess or claim a deliberate pharmacological memory-suppression capability.
+- This strongly corroborates the older historical memory-suppression testimony, while exact drug identity and relation to the water-based claim remain unresolved.
+
+### S02E03 — The Syndrome theory
+
+- Judge Meadows presents a theory that The Syndrome is not primarily a physiological disease but a reaction to the conditions/way of life inside the Silo.
+- This is a character theory, not an established medical explanation.
+- It should not be overtranslated as "psychosomatic" without stronger dialogue.
+
+### S02E03 — cleaner visual trigger / repeated Jane pattern
+
+- Juliette explicitly believes the manipulated lush view is what makes cleaners clean.
+- She recognizes the lush image as false because it matches the old Jane Carmody recording.
+- She does not know the ordinary word/concept "birds", but recognizes the same movement pattern of the flying creatures.
+- This strengthens a reused/highly standardized visual-sequence model and independently demonstrates deep loss of ordinary natural-world vocabulary.
+
+### S02E03 — CODE SILO ORANGE / chronology
+
+- A medical screen explicitly states `CODE SILO ORANGE`.
+- It instructs staff **not to remove birth control** and to ensure the patient **believes it was removed**.
+- Covert reproductive deception is therefore a formally encoded institutional medical protocol.
+- The same record shows `DOB 09/13/116 A.R.`.
+- `A.R.` is directly established as an institutional era notation, but the screenshot does not spell out the abbreviation.
+- The previous simple H15 calendar model is no longer safe; chronology conflict is preserved explicitly rather than silently remapped.
+
+### S02E02 — live exterior cleaner feed
+
+- Bernard/IT receives a live video feed associated with Juliette while she is outside.
+- The feed persists beyond the immediate surface of her own Silo.
+- The signal is lost when Juliette enters the second Silo.
+- Exact camera/transmitter/network architecture remains unknown.
+- Earlier `... CLEANING` archive files may belong to the same broader pipeline, but raw feed vs wearer-visible rendered output remains unresolved.
+
+### S02E02 — THE ORDER / failed-cleaning contingency
+
+- Bernard consults a distinct physical document titled `THE ORDER`.
+- A clearly legible heading states: `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`.
+- Judge Meadows knows about `THE ORDER`.
+- Bernard fears that the catastrophic outcome observed around the second Silo could happen to his own Silo.
+- This establishes failed cleaning as a recognized Silo-stability crisis condition.
+- Authorship, historical basis, legal relation to the Pact and cross-Silo distribution of `THE ORDER` remain unknown.
+
+### S02E02 — cleaning tape / seal mechanism
+
+- The woman involved in replacing Juliette's tape believes Juliette eventually died because the suit ran out of breathable air.
+- Bernard and Judge Meadows attribute Juliette's unexpected survival to replacement of the normal cleaning tape.
+- Meadows says somebody would eventually figure the tape mechanism out.
+- Meadows later conditions her help on being allowed outside after the crisis with the **good tape**.
+- These insider statements strongly support a known material distinction between normal cleaning tape and a better sealing configuration.
+- Exact physical failure pathway remains unresolved: external contaminant ingress, breathing-gas loss, or both.
+
+### S02E02 — secured IT / privileged governance layer
+
+- Bernard accesses a heavy secured/vault-like IT door in Juliette's Silo.
+- S02E01 already established an analogous secured IT compartment in the second Silo.
+- At least two Silos therefore share a repeated secured-IT architectural pattern.
+- Scene context associates Juliette's Silo secured IT layer with `THE ORDER`, classified cleaning knowledge and privileged live monitoring.
+- Judge Meadows' knowledge shows this secret layer is not exclusive to Bernard.
+
+### S02E02 — rebellion-context symbol
+
+- A distinct circled painted symbol/emblem appears in rebellion-context imagery.
+- Its exact meaning, name and faction identity remain unresolved.
 
 ### S02E01 — second Silo / rebellion / mass exit
 
@@ -105,8 +215,8 @@ S02E01 converts the multi-Silo reveal from a distant exterior observation into d
 
 - Close visual evidence establishes that the illuminated object marked `18` is a **physical key**.
 - Bernard possesses/uses it.
-- What it unlocks is unknown.
-- Numerical overlap with `HDD 18` remains an open question, not an accepted connection.
+- S02E03 resolves its observed access target as the **SERVER ROOM**; the vault is located inside that restricted layer.
+- Numerical overlap with `Silo 18` is now a strong clue, while relation to `HDD 18` remains unresolved.
 
 ### S01E10 — multiple silos / ruined skyline
 
@@ -211,7 +321,7 @@ S02E01 converts the multi-Silo reveal from a distant exterior observation into d
 - Exact relationship Flamekeepers ↔ Rebels/Rebellion is not established.
 - Historical testimony states something was added to water to suppress/erase memories.
 - Same account places this before Rebellion.
-- Objective chemical/medical proof for memory agent is not yet available.
+- S02E03 independently establishes a current institutional drug offered explicitly **to make a person forget**; whether this is the same agent/family as the historical water-based claim remains unresolved.
 
 ### Relics / archives
 
@@ -225,6 +335,7 @@ S02E01 converts the multi-Silo reveal from a distant exterior observation into d
 - Allison physically found a retained contraceptive implant in S01E01.
 - Juliette’s father now personally admits he lied to patients that implants were removed while leaving them in place.
 - Therefore covert implant-removal deception mechanism is independently corroborated and confirmed.
+- S02E03 additionally reveals formal `CODE SILO ORANGE` instructions: birth control must remain in place while the patient must believe it was removed.
 - Historical testimony says this system was used to suppress Flamekeeper/descendant family lines.
 - Juliette’s father says he “had no choice”; this is his self-justification, not independent proof of coercion.
 - Juliette previously believed he betrayed her mother; S01E08 mirror-surveillance realization supersedes father-as-informant as a necessary explanation for discovery of the microscope.
@@ -281,17 +392,17 @@ Observed direct anchors include:
 | H2 | Зелената гледка за cleaners е обективно реална. | VL | Rejected |
 | H3 | Barren exterior е substantially real, а lush cleaner view е false overlay/simulation-like layer. | VH | Confirmed |
 | H4 | Cleaning поведението е engineered поне частично чрез false lush perception shown to cleaners. | VH | Strongly Strengthened |
-| H5 | Silo използва covert reproductive control чрез medical deception: selected women receive false implant-removal confirmation while contraception remains active. | VH | Confirmed |
+| H5 | Silo използва formally encoded covert reproductive control: `CODE SILO ORANGE` instructs staff to retain birth control while ensuring the patient believes it was removed. | VH | Confirmed / Refactored |
 | H6 | Silo control architecture deliberately restricts knowledge through public suppression, capability limits and **intra-authority compartmentalization**; Bernard can withhold classified cleaning truth even from Sims/control-room personnel. | VH | Strongly Strengthened / Refactored |
 | H7 | Official Rebellion-centered account е incomplete or misleading about origin/mechanism of historical knowledge loss. | H | Strengthened |
-| H8 | A covert centralized surveillance network uses concealed mirror cameras and archived feeds; Sims has operational command, while Bernard has privileged access/control over classified surveillance/cleaning information. | VH | Confirmed / Refactored |
+| H8 | A covert surveillance architecture uses concealed mirror cameras, archived feeds and a privileged live Juliette-associated exterior video channel; Sims has operational command over ordinary surveillance while Bernard/IT has higher classified access. | VH | Confirmed / Refactored |
 | H9 | George Wilkins може да е бил убит. | L | Active |
-| H10 | Multiple Silo installations exist in the surrounding landscape; `SILO_COUNT` is consistent with a larger multi-Silo system. | VH | Confirmed / Refactored |
+| H10 | Multiple Silo installations form a larger system; Silo 17 survivor testimony states an exact total of **50 Silos**. | VH | Confirmed / Refactored; exact count testimony-backed |
 | H11 | Classified lower tunnel води към undisclosed lower/internal system. | M | Strengthened |
 | H12 | Pact-forbidden tunnel system е същата или пряко свързана структура с `CLASSIFIED` tunnel-а от HDD 18. | H | Active |
 | H13 | George е намерил door-а / входа към нея при flooded bottom. | H | Active |
-| H14 | Cleaner mortality materially depends on suit sealing and breathing-support integrity; Juliette’s alternate tape, survival and S02E01 breathing failure strongly implicate this combined pathway. | VH | Strongly Strengthened / Refactored |
-| H15 | `SILO YEAR 96/97` и mayor journals използват един и същ post-Rebellion calendar. | H | Active |
+| H14 | Cleaner mortality materially depends on suit sealing/breathing-support integrity and is separable from the independently real outside hazard; Silo 17 residents can survive beyond the normal cleaner window when the hazard temporarily disperses. | VH | Strongly Strengthened / Refactored |
+| H15 | Prior model: `SILO YEAR 96/97` and mayor journals use one simple post-Rebellion calendar. S02E03 `116 A.R.` + Bernard's ~200-year Jane statement make that mapping unsafe. | L | Weakened / Requires Refactor |
 | H16 | Current order uses concealed/hidden infrastructure and deliberately keeps selected spaces/layers outside normal access. | H | Strengthened |
 | H17 | Sims/Judicial-associated network има coercive/investigative capability, lethal enforcement, narrative control, privileged relic access and direct surveillance command. | VH | Strengthened |
 | H18 | Silo deliberately запазва slow human-powered vertical movement; това поддържа de facto social separation. | VH | Strengthened |
@@ -306,43 +417,65 @@ Observed direct anchors include:
 | H27 | Pact ограничава physical capabilities за independent movement и observation/discovery, including scientific/biomedical microscopy, не само content. | H | Strongly Strengthened |
 | H28 | George’s investigation and Juliette’s path into hidden history are connected to an intergenerational Flamekeeper network. | H | Strongly Strengthened / Refactored |
 | H29 | Silo има pre-Silo geographic connection с U.S. state of Georgia. | L | Candidate |
-| H30 | Intentional population memory suppression through the water system was a pre-Rebellion control mechanism. | M | Active |
+| H30 | Silo authorities possess/use pharmacological memory suppression as an information-control capability; historical water-delivery testimony may represent an earlier/broader form of the same control family. | VH | Strongly Strengthened / Refactored |
 | H31 | Reproductive selection was used for selective lineage suppression against Flamekeeper / knowledge-preserving family lines. | H | Active |
 | H32 | Flamekeeper knowledge/history survived through family/social networks and intergenerational transfer of relics. | H | Active |
-| H33 | Bernard/IT occupies a privileged hidden-control layer with classified knowledge/access and demonstrated command authority over surveillance personnel and Sims in at least some matters. | H | Strongly Strengthened / Refactored |
-| H34 | Standard cleaning-suit tape is intentionally or systematically inferior; possible effects include external contaminant ingress, faster breathing-gas loss, or both. | H | Active / Refactored |
+| H33 | A privileged hidden-control/read-in layer centered on Bernard/IT controls classified cleaning/surveillance knowledge; Judge Meadows is also read into at least `THE ORDER` and the tape secret. | VH | Strongly Strengthened / Refactored |
+| H34 | Standard cleaning-suit tape is intentionally or systematically inferior, while the alternative "good" tape materially improves seal integrity/survival; possible failure pathways remain contaminant ingress, breathing-gas loss, or both. | VH | Strongly Strengthened / Refactored |
 | H35 | S02E01 historical rebellion sequence depicts the second Silo later entered by Juliette. | VH | Confirmed / Refactored |
-| H36 | Outside lethality is primarily caused by an airborne / atmosphere-borne environmental hazard. | H | Active / Strengthened |
+| H36 | Outside lethality is driven by a mobile airborne/dust-borne environmental hazard whose local concentration can temporarily fall/disperse and later return. | H | Strongly Strengthened / Refactored |
 | H37 | Concealed mirror-camera surveillance is part of a standardized multi-Silo control architecture across at least two Silos. | H | Strongly Strengthened |
-| H38 | IT is a standardized strategic/secured institutional layer across at least some Silos. | H | Active |
+| H38 | IT is a standardized strategic/secured institutional layer across at least Silos 17 and 18, including explicitly identified protected vault compartments. | H | Strongly Strengthened / Refactored |
+| H39 | `THE ORDER` is a privileged operational/governance doctrine distinct from the public Pact. | H | Strongly Strengthened |
+| H40 | Cleaning is an engineered public legitimacy/deterrence ritual: manipulated lush perception drives cleaning, while expected visible cleaner death reinforces outside danger; Silo 17 shows the destabilization cascade when that visible outcome fails. | VH | Strongly Strengthened / Refactored |
+| H41 | `THE ORDER` encodes known Silo governance failure modes, including failed cleaning → war risk; Silo 17 provides concrete historical corroboration of that pattern. | VH | Strongly Strengthened |
+| H42 | The IT vault is a protected continuity/control compartment intended to remain inaccessible during Silo-wide unrest or collapse. | H | Active / Strengthened |
+| H43 | Standard cleaning protection may be deliberately calibrated to fail within a short publicly observable window after enough time for the cleaner to clean. | H | Active |
+| H44 | Bernard inherits limited but significant cross-Silo historical/status knowledge; he knows about Silo 17's long-term failed/dead status without evidence that he understands the whole system. | H | Active / Strengthened |
+| H45 | The Syndrome may be a systemic human reaction to long-term Silo life rather than a primary physiological disease. | M | Active |
+| H46 | Cleaner lush imagery uses a reused or highly standardized visual sequence rather than a genuinely live natural exterior view. | H | Active / Strengthened |
+| H47 | Historical/cultural knowledge suppression has removed ordinary pre-Silo natural-world vocabulary from at least some residents. | H | Active / Strengthened |
+| H48 | `A.R.` is a distinct institutional era notation; its exact mapping to `SILO YEAR`, the Rebellion and Jane Carmody chronology remains unresolved. | H | Active |
 
 ---
 
-## Surveillance / privileged-control model after S02E01
+## Surveillance / privileged-control model after S02E03
 
-S02E01 adds a second-Silo mirror camera and strategic IT strongpoint. This supports standardized design across Silos, while the Bernard/Sims hierarchy below remains specific to Juliette's original Silo.
+S02E02 expands the hidden-control model beyond ordinary internal surveillance.
 
 ```text
-mirror cameras / archived feeds / control-room infrastructure
-                         │
-                         ▼
-               Sims operational command
-                         │
-                         ▼
-             day-to-day surveillance work
-                         │
-                         └──────────────┐
-                                        │
-                         Bernard / IT privileged layer
-                         │              │
-                         ├─ classified cleaning truth
-                         ├─ selective archive access
-                         ├─ can stop sensitive broadcast
-                         └─ can order personnel + Sims
-                            not to view/retain information
+internal mirror cameras / archived feeds
+                 │
+                 ▼
+       Sims operational command
+                 │
+                 ▼
+      day-to-day surveillance
+                 │
+                 └──────────────┐
+                                │
+                 Bernard / secured IT layer
+                 │              │
+                 ├─ classified cleaning truth
+                 ├─ live Juliette-associated exterior feed
+                 ├─ THE ORDER
+                 ├─ privileged archive/display control
+                 └─ can compartmentalize Sims/personnel
+                                │
+                                └─ Judge Meadows is read into
+                                   at least THE ORDER + tape secret
 ```
 
-This establishes asymmetric access inside the control apparatus itself. It does **not** yet prove Bernard is the highest authority in the entire system.
+This supports a **restricted read-in governance layer**, not merely one individual's private knowledge.
+
+S02E03 adds that Bernard's privileged layer also includes long-standing knowledge of Silo 17's failed/dead status, while Sims demonstrates targeted pharmacological information-containment capability. Bernard's knowledge remains partial rather than assumed omniscient.
+
+It still does **not** establish:
+- the full membership of that layer;
+- whether Sims knows parts of `THE ORDER`;
+- who authored `THE ORDER`;
+- whether a current authority above Bernard/Meadows exists;
+- whether this layer is centrally coordinated across all Silos.
 
 ---
 
@@ -365,7 +498,7 @@ This is stronger than a false narrative after the fact: the disputed/false claim
 
 ---
 
-## Historical-erasure model after S02E01
+## Historical-erasure model after S02E03
 
 ```text
 PRE-SILO HISTORY
@@ -385,7 +518,7 @@ CONTROL PRESSURES
 PUBLIC HISTORICAL DISCONTINUITY
 ```
 
-Important: water-memory mechanism and exact anti-Flamekeeper historical program remain testimony-backed until independently corroborated.
+Important: the **historical water-delivery mechanism** and exact anti-Flamekeeper program remain testimony-backed, but S02E03 independently corroborates the broader capability class by showing current medication explicitly offered to make a person forget.
 
 ---
 
@@ -416,6 +549,10 @@ S01E07
 Juliette's father admits implant-removal deception
         │
         ▼
+S02E03
+CODE SILO ORANGE explicitly formalizes the deception
+        │
+        ▼
 covert medical reproductive-control mechanism CONFIRMED
 ```
 
@@ -423,54 +560,37 @@ Historical targeting purpose against Flamekeeper family lines remains testimony-
 
 ---
 
-## Immediate watch targets за S02E02
+## Immediate watch targets за S02E04
 
-- identity and institutional role of the second-Silo IT survivor;
-- how the survivor remained alive and supplied;
-- exact number/designation of the second Silo;
-- whether Juliette's original Silo is actually `18`;
-- whether key `18`, HDD 18 and Silo numbering have any real common identifier;
-- who Russell is and what he allegedly lied about;
-- exact environmental lethal agent outside;
-- toxin/chemical vs aerosol/particulate vs pathogen or another airborne mechanism;
-- exact suit breathing-support architecture;
-- whether standard tape causes contaminant ingress, breathing-gas loss, or both;
-- source and scope of residual electrical power in the second Silo;
-- cause and timeline of the second Silo flooding;
-- whether the second Silo has a Bernard-equivalent privileged IT/control role;
-- whether Silos communicate with one another;
-- whether a current central authority exists above individual Silos;
-- exact total Silo count and operational status of neighboring installations;
-- relation of lower tunnel/door architecture to the multi-Silo system;
-- whether physical inter-Silo connections exist;
-- what the second-Silo rebellion reveals about the official Rebellion narrative in Juliette's Silo;
-- exact purpose and history of the excavation machine.
+- independent corroboration of the **50-Silo** count;
+- explicit formal confirmation that Juliette's original Silo is designated **18**;
+- whether key `18` numbering is tied to Silo designation;
+- whether HDD 18 belongs to that same numbering scheme;
+- exact source/camera/transmitter and archive format of cleaning feeds;
+- exact nature, mobility and delivery of the outside dust/poison hazard;
+- exact suit breathing architecture and standard-tape failure pathway;
+- whether standard tape is deliberately calibrated to a short public death window;
+- whether Ron actually survived after leaving sensor view;
+- who placed `LIES` on the internal Silo 17 cafeteria display;
+- Russell's exact institutional role and the contents/function of the Silo 17 vault;
+- whether all Silos have homologous Server Room/vault architecture;
+- who besides Bernard has cross-Silo status/history knowledge;
+- exact effect, duration and reversibility of the memory-suppression medication;
+- whether the historical water-based memory agent is chemically/operationally related;
+- whether The Syndrome reaction-to-Silo-life theory receives objective support;
+- whether lush cleaner imagery is a literal replay/loop or a rendered standardized template;
+- exact meaning of `A.R.`;
+- exact chronology relation among `SILO YEAR`, `A.R.`, the Rebellion and Jane Carmody recording age.
 
 Виж също:
 
-- `docs/episodes/S02E01.md`
-- `docs/evidence/S02E01-other-silo-rebellion.md`
-- `docs/evidence/S02E01-outside-hazard-suit-breathing.md`
-- `docs/evidence/S02E01-cross-silo-surveillance-it.md`
-- `docs/evidence/S02E01-power-flooding-survivor.md`
-- `docs/episodes/S01E10.md`
-- `docs/episodes/S01E09.md`
-- `docs/episodes/S01E08.md`
-- `docs/episodes/S01E07.md`
-- `docs/evidence/S01E10-cleaning-helmet-tape.md`
-- `docs/evidence/S01E10-bernard-compartmentalization.md`
-- `docs/evidence/S01E10-multiple-silos-exterior.md`
-- `docs/evidence/S01E10-key18.md`
-- `docs/evidence/S01E10-syndrome-level144-rota.md`
-- `docs/evidence/S01E09-level23-escape.md`
-- `docs/evidence/S01E09-number18-device.md`
-- `docs/evidence/S01E09-jane-carmody-cleaning.md`
-- `docs/evidence/S01E08-illicit-microscopy-and-mirror-surveillance.md`
-- `docs/evidence/S01E08-fabricated-cleaning-trigger.md`
-- `docs/evidence/S01E08-bernard-judge-power.md`
-- `docs/evidence/S01E07-surveillance-command-and-mirrors.md`
-- `docs/evidence/S01E07-flamekeepers-memory-erasure.md`
-- `docs/evidence/S01E07-reproductive-control.md`
-- `docs/evidence/S01E07-flamekeeper-family-network.md`
+- `docs/episodes/S02E03.md`
+- `docs/evidence/S02E03-silo17-failed-cleaning-rebellion.md`
+- `docs/evidence/S02E03-outside-hazard-cleaner-death.md`
+- `docs/evidence/S02E03-memory-suppression.md`
+- `docs/evidence/S02E03-key18-server-room-vault.md`
+- `docs/evidence/S02E03-silo-orange-chronology.md`
+- `docs/evidence/S02E03-cleaner-perception-pattern.md`
+- `docs/episodes/S02E02.md`
 - `docs/evidence-ledger.md`
 - `docs/open-questions.md`
