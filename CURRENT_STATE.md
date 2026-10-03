@@ -415,14 +415,15 @@ S02E04 expands `THE ORDER` from a contingency handbook into an observed crisis-m
 
 Observed direct anchors include:
 
-`8 → 9 → 12 → 14 → 17 → 23 → 26 → 27 → 29 → 30 → 50 → 144`
+`8 → 9 → 12 → 14 → 17 → 23 → 26 → 27 → 29 → 30 → 50 → 119 → 144`
 
 - Level 14 is repeated again in S01E07.
 - Level 26 is new in S01E07.
 - Level 23 is newly direct-confirmed in S01E09.
 - Level 30 is direct-confirmed in S01E08.
+- Level 119 is direct-confirmed in S02E04.
 - Level 144 / bottom is established by S01E10 scene context and contains major ventilation / air-handling infrastructure.
-- No special function is inferred from Level 23, Level 26 or Level 30 markers alone.
+- No special function is inferred from Level 23, Level 26, Level 30 or Level 119 markers alone.
 
 ### Exterior / architecture / energy — S01E10 resolved core
 
@@ -472,8 +473,8 @@ Observed direct anchors include:
 | H22 | Silo зависи от deeper legacy energy infrastructure, която current operators не разбират напълно. | H | Active |
 | H23 | Sheriff succession/staffing е institutional power contest; S01E08 shows Mayor/Sims coordinated coercive action directly against Sheriff Juliette. | H | Strongly Strengthened |
 | H24 | Silo поддържа centralized circular resource economy с recycling/redistribution на durable goods. | H | Active |
-| H25 | Control/Judicial-associated operational network може да manipulate evidence/investigations, fabricate testimony or legal predicates, and use institutional coercion or lethal violence for a desired outcome. | VH | Strongly Strengthened / Refactored |
-| H26 | Sims has substantial operational authority, but Bernard can directly command/compartmentalize Sims in classified cleaning/surveillance matters; broader hierarchy remains unresolved. | VH | Strongly Strengthened / Refactored |
+| H25 | Control/Judicial-associated actors can manipulate evidence/events, fabricate culpability narratives or legal predicates, and use institutional coercion or lethal violence for a desired outcome; S02E04 adds Bernard's staged Meadows framing operation. | VH | Strongly Strengthened / Refactored |
+| H26 | Bernard has higher classified IT access, but Sims has substantial independent operational/political leverage and can create pressure against senior leadership; the real hierarchy is overlapping rather than a simple command chain. | VH | Strongly Strengthened / Refactored |
 | H27 | Pact ограничава physical capabilities за independent movement и observation/discovery, including scientific/biomedical microscopy, не само content. | H | Strongly Strengthened |
 | H28 | George’s investigation and Juliette’s path into hidden history are connected to an intergenerational Flamekeeper network. | H | Strongly Strengthened / Refactored |
 | H29 | Silo има pre-Silo geographic connection с U.S. state of Georgia. | L | Candidate |
@@ -486,20 +487,24 @@ Observed direct anchors include:
 | H36 | Outside lethality is driven by a mobile airborne/dust-borne environmental hazard whose local concentration can temporarily fall/disperse and later return. | H | Strongly Strengthened / Refactored |
 | H37 | Concealed mirror-camera surveillance is part of a standardized multi-Silo control architecture across at least two Silos. | H | Strongly Strengthened |
 | H38 | IT is a standardized strategic/secured institutional layer across at least Silos 17 and 18, including explicitly identified protected vault compartments. | H | Strongly Strengthened / Refactored |
-| H39 | `THE ORDER` is a privileged operational/governance doctrine distinct from the public Pact. | H | Strongly Strengthened |
+| H39 | `THE ORDER` is a privileged operational/governance doctrine distinct from the public Pact and includes active crisis-narrative management such as directing blame toward Mechanical. | VH | Strongly Strengthened / Refactored |
 | H40 | Cleaning is an engineered public legitimacy/deterrence ritual: manipulated lush perception drives cleaning, while expected visible cleaner death reinforces outside danger; Silo 17 shows the destabilization cascade when that visible outcome fails. | VH | Strongly Strengthened / Refactored |
 | H41 | `THE ORDER` encodes known Silo governance failure modes, including failed cleaning → war risk; Silo 17 provides concrete historical corroboration of that pattern. | VH | Strongly Strengthened |
-| H42 | The IT vault is a protected continuity/control compartment intended to remain inaccessible during Silo-wide unrest or collapse. | H | Active / Strengthened |
+| H42 | The IT vault is a protected continuity/survival compartment capable of preserving people as well as privileged systems/knowledge through Silo-wide unrest or collapse. | H | Strongly Strengthened / Refactored |
 | H43 | Standard cleaning protection may be deliberately calibrated to fail within a short publicly observable window after enough time for the cleaner to clean. | H | Active |
 | H44 | Bernard inherits limited but significant cross-Silo historical/status knowledge; he knows about Silo 17's long-term failed/dead status without evidence that he understands the whole system. | H | Active / Strengthened |
 | H45 | The Syndrome may be a systemic human reaction to long-term Silo life rather than a primary physiological disease. | M | Active |
-| H46 | Cleaner lush imagery uses a reused or highly standardized visual sequence rather than a genuinely live natural exterior view. | H | Active / Strengthened |
+| H46 | Cleaner lush imagery belongs to a broader immersive stored/rendered visual technology family also demonstrated by Bernard's standalone pre-Silo environment headset. | VH | Strongly Strengthened / Refactored |
 | H47 | Historical/cultural knowledge suppression has removed ordinary pre-Silo natural-world vocabulary from at least some residents. | H | Active / Strengthened |
-| H48 | `A.R.` is a distinct institutional era notation; its exact mapping to `SILO YEAR`, the Rebellion and Jane Carmody chronology remains unresolved. | H | Active |
+| H48 | `A.R.` is a distinct institutional era notation; S02E04's ~140-year Rebellion/Salvador Quinn anchor strengthens the separate-calendar model, while exact expansion/mapping to `SILO YEAR` remains unresolved. | H | Strengthened |
+| H49 | Mechanical is a predefined institutional scapegoat during rebellion/crisis; blame is prescribed independently of where unrest actually begins. | VH | Strongly Strengthened |
+| H50 | Salvador Quinn is a key Rebellion-era privileged-IT figure whose partly encoded letter may contain sensitive historical information. | H | Active |
+| H51 | Hidden-control leadership is non-monolithic: Bernard and Sims have partially independent interests and political/operational power bases. | H | Active / Strengthened |
+| H52 | Bernard uses the Mechanical-scapegoating doctrine to convert a leadership crisis into controlled conflict by framing Mechanical for Meadows' death. | H | Strongly Strengthened |
 
 ---
 
-## Surveillance / privileged-control model after S02E03
+## Surveillance / privileged-control model after S02E04
 
 S02E02 expands the hidden-control model beyond ordinary internal surveillance.
 
@@ -530,12 +535,42 @@ This supports a **restricted read-in governance layer**, not merely one individu
 
 S02E03 adds that Bernard's privileged layer also includes long-standing knowledge of Silo 17's failed/dead status, while Sims demonstrates targeted pharmacological information-containment capability. Bernard's knowledge remains partial rather than assumed omniscient.
 
+S02E04 further shows that this layer is **not politically monolithic**: Bernard attributes impeachment pressure against Meadows to Sims, while Sims actively mobilizes sentiment against Mechanical. Bernard simultaneously uses `THE ORDER` to shape a separate scapegoating operation.
+
 It still does **not** establish:
 - the full membership of that layer;
 - whether Sims knows parts of `THE ORDER`;
 - who authored `THE ORDER`;
 - whether a current authority above Bernard/Meadows exists;
 - whether this layer is centrally coordinated across all Silos.
+
+---
+
+## Crisis-shaping chain after S02E04
+
+```text
+leadership / rebellion risk
+          │
+          ▼
+THE ORDER designates Mechanical as blame target
+          │
+          ▼
+Bernard kills Meadows
+          │
+          ▼
+Mechanical representatives arrive at staged scene
+          │
+          ▼
+false culpability narrative becomes available
+          │
+          ▼
+Sims agitates public sentiment against Mechanical
+          │
+          ▼
+population polarization / unrest
+```
+
+This is stronger than post-hoc propaganda: S02E04 shows **event construction + blame assignment + public mobilization** operating as linked crisis-management mechanisms.
 
 ---
 
@@ -620,37 +655,37 @@ Historical targeting purpose against Flamekeeper family lines remains testimony-
 
 ---
 
-## Immediate watch targets за S02E04
+## Immediate watch targets за S02E05
 
-- independent corroboration of the **50-Silo** count;
-- explicit formal confirmation that Juliette's original Silo is designated **18**;
-- whether key `18` numbering is tied to Silo designation;
-- whether HDD 18 belongs to that same numbering scheme;
-- exact source/camera/transmitter and archive format of cleaning feeds;
-- exact nature, mobility and delivery of the outside dust/poison hazard;
-- exact suit breathing architecture and standard-tape failure pathway;
-- whether standard tape is deliberately calibrated to a short public death window;
-- whether Ron actually survived after leaving sensor view;
-- who placed `LIES` on the internal Silo 17 cafeteria display;
-- Russell's exact institutional role and the contents/function of the Silo 17 vault;
-- whether all Silos have homologous Server Room/vault architecture;
-- who besides Bernard has cross-Silo status/history knowledge;
-- exact effect, duration and reversibility of the memory-suppression medication;
-- whether the historical water-based memory agent is chemically/operationally related;
-- whether The Syndrome reaction-to-Silo-life theory receives objective support;
-- whether lush cleaner imagery is a literal replay/loop or a rendered standardized template;
-- exact meaning of `A.R.`;
-- exact chronology relation among `SILO YEAR`, `A.R.`, the Rebellion and Jane Carmody recording age.
+- exact wording/scope of the `THE ORDER` instruction to blame Mechanical;
+- why Mechanical is the designated scapegoat;
+- whether generator/critical-infrastructure control is the principal reason;
+- how many prior rebellions show the same Mechanical-blame pattern;
+- exact mine location, ore/metal types, refining chain and penal-labor rules;
+- exact age/background of the Silo 17 survivor when Russell placed him in the vault;
+- why Russell selected that child and whether the vault is intended as a standard human-survival refuge;
+- identity of the hard drive Meadows asks about and whether it has any relation to HDD 18;
+- contents and cipher of Salvador Quinn's encoded letter;
+- what Meadows did during her four-day disappearance ~25 years ago;
+- whether those four days connect to Quinn or forbidden historical knowledge;
+- exact technical relationship between Bernard's immersive headset and cleaner helmets;
+- source/archive of the Monteverde 2018 environment;
+- whether the cleaner lush scene is literally prerecorded, procedurally rendered, or composited from stored assets;
+- whether Bernard's Meadows-framing operation succeeds publicly;
+- whether Sims knows Bernard killed Meadows;
+- whether Sims' anti-Mechanical agitation is coordinated with Bernard or independently opportunistic;
+- how the Bernard/Sims power conflict develops;
+- whether `A.R.` is explicitly expanded and how Salvador Quinn's ~140-year anchor maps to it.
 
 Виж също:
 
+- `docs/episodes/S02E04.md`
+- `docs/evidence/S02E04-mechanical-scapegoating.md`
+- `docs/evidence/S02E04-mines-penal-labor.md`
+- `docs/evidence/S02E04-salvador-quinn-meadows.md`
+- `docs/evidence/S02E04-vr-cleaner-technology.md`
+- `docs/evidence/S02E04-meadows-framing-sims.md`
+- `docs/evidence/S02E04-silo17-child-vault.md`
 - `docs/episodes/S02E03.md`
-- `docs/evidence/S02E03-silo17-failed-cleaning-rebellion.md`
-- `docs/evidence/S02E03-outside-hazard-cleaner-death.md`
-- `docs/evidence/S02E03-memory-suppression.md`
-- `docs/evidence/S02E03-key18-server-room-vault.md`
-- `docs/evidence/S02E03-silo-orange-chronology.md`
-- `docs/evidence/S02E03-cleaner-perception-pattern.md`
-- `docs/episodes/S02E02.md`
 - `docs/evidence-ledger.md`
 - `docs/open-questions.md`
