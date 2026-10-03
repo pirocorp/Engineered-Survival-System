@@ -636,6 +636,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 445. Bernard's "~200 years" за Jane Carmody recording approximate ли е, or points to a different dating system? S02E04 adds Salvador Quinn as a ~140-years-ago Rebellion-era anchor but does not yet reconcile the calendars.
 446. Jane Carmody file metadata actual recording date ли е, archive/import date ли е, or another label?
 447. Physical age на Silo може ли да се establish-не independently from these calendar systems?
+
 ## S02E04 — Mechanical scapegoating / THE ORDER
 
 448. Какво е exact wording и scope на `THE ORDER` instruction-а да се обвинява Mechanical?
