@@ -1,30 +1,100 @@
-# Текущо състояние — след S02E02
+# Текущо състояние — след S02E03
 
-**Knowledge boundary:** `S02E02`
+**Knowledge boundary:** `S02E03`
 
 ## Работен модел
 
-S02E02 exposes a deeper privileged-control layer around cleaning, IT and crisis management.
+S02E03 provides the first concrete historical failure case that closely matches `THE ORDER` and materially clarifies the relationship between cleaning, public deterrence, real outside hazard and Silo-wide rebellion.
 
-Най-големите промени спрямо S02E01 са:
+Най-големите промени спрямо S02E02 са:
 
-1. Bernard/IT receives a **live exterior video feed associated with Juliette** while she is outside.
-2. The feed is lost when Juliette enters the second Silo, establishing a practical transmission boundary.
-3. Bernard consults a distinct physical doctrine titled **`THE ORDER`**.
-4. `THE ORDER` explicitly states: **`IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`**.
-5. Judge Meadows knows about `THE ORDER`, showing that this hidden doctrine is shared within a restricted senior knowledge layer rather than being Bernard's private secret.
-6. Bernard fears the catastrophic second-Silo outcome could happen in his own Silo.
-7. Bernard and Meadows attribute Juliette's survival to replacement of the normal cleaning tape.
-8. Meadows says somebody would eventually figure the tape mechanism out and later demands the **good tape** as a condition for going outside.
-9. The strongest current tape model is therefore an intentionally/systematically inferior standard seal that creates only limited protection; exact contaminant/air-loss pathway remains unresolved.
-10. Bernard's Silo has a secured/vault-like IT compartment analogous to the second Silo's secured IT compartment, strengthening standardized IT-vault architecture.
-11. A distinct circled rebellion-context symbol/emblem appears; exact meaning remains unknown.
+1. The other Silo is identified by its survivor as **Silo 17**, and he states that the system contains **50 Silos** in total.
+2. Juliette's original Silo is strongly identified/inferred as **Silo 18**.
+3. Silo 17's collapse begins after Ron goes out for cleaning, refuses to clean, writes `LIES`, disappears from view, and the population later concludes that the outside is safe because they never saw him die.
+4. Three days later `LIES` appears on the internal cafeteria display; rebellion follows.
+5. This is the first concrete historical corroboration of `THE ORDER`: **failed cleaning → prepare for war**.
+6. Silo 17's mass-exit deaths are described as caused by a returning dust/poison hazard after the outside hazard temporarily dispersed, separating real exterior lethality from the ordinary short cleaner-death window.
+7. The secured IT compartment is explicitly called a **vault**; Russell placed the survivor inside and ordered him not to let anyone enter.
+8. Bernard's physical key `18` accesses the **SERVER ROOM**, and the vault is inside that restricted layer.
+9. Bernard says the Jane Carmody cleaning recording is about **200 years old** and already knew Silo 17 was "dead" long before the current crisis.
+10. Sims explicitly offers medication so a person can **forget**, strongly corroborating deliberate pharmacological memory suppression.
+11. `CODE SILO ORANGE` directly formalizes covert birth-control deception as institutional medical protocol.
+12. A medical record uses `116 A.R.`, forcing a chronology correction: `SILO YEAR 96/97`, `A.R.`, the Rebellion and Bernard's "~200 years" statement cannot yet be mapped onto one simple calendar.
+13. Juliette explicitly identifies the lush cleaner view as the behavioral trigger for cleaning and recognizes it as false from the repeated Jane Carmody visual pattern, including the same flying-creature movement.
+14. Judge Meadows introduces a theory that The Syndrome may be a reaction to Silo life rather than a primary physiological disease.
 
-> **След S02E02 cleaning looks increasingly like an engineered public-control ritual: false lush imagery induces cleaning, standard tape provides inferior/limited protection, visible death reinforces the official outside-danger narrative, and `THE ORDER` explicitly anticipates war if that expected cleaning outcome fails.**
-
+> **След S02E03 cleaning is best modeled as a public deterrence/legitimacy ritual operating inside a genuinely dangerous exterior environment: manipulated lush imagery induces cleaning, standard protection is intentionally/systematically inferior, expected visible cleaner death deters mass exit, and Silo 17 shows how failure of that visible outcome can cascade into rebellion and catastrophic exterior exposure.**
 ---
 
 ## Наблюдения с висок confidence
+
+### S02E03 — Silo count / numbering / Silo 17 collapse
+
+- The Silo 17 survivor states that there are **50 Silos** in total.
+- He identifies the collapsed Silo Juliette entered as **Silo 17**.
+- Juliette's original Silo is now strongly identified/inferred as **Silo 18**, although the exact numbering relation to key `18` and HDD 18 remains only partially resolved.
+- Ron went outside for a cleaning, refused to clean, wrote/marked `LIES` on the exterior sensor and then moved out of view.
+- Three days later `LIES` appeared on the internal cafeteria display.
+- The survivor says rebellion followed this sequence.
+- He further says the population eventually went outside because they had not seen Ron die and concluded the exterior was safe.
+- Silo 17 therefore provides concrete historical corroboration of `THE ORDER` failed-cleaning → war contingency.
+
+### S02E03 — exterior hazard vs cleaner timing
+
+- The survivor says the exterior dust/poison temporarily dispersed.
+- Unprotected residents remained alive outside beyond the ordinary short cleaner-death window.
+- The hazard later returned and killed them.
+- This separates the **real mobile/time-varying outside hazard** from the short predictable mortality pattern of standard cleaning suits.
+- Exact hazard chemistry remains unresolved.
+- Exact tape pathway also remains unresolved: breathing-gas loss, contaminant ingress, or both.
+
+### S02E03 — Server Room / vault / Russell
+
+- The Silo 17 survivor explicitly calls the secured IT compartment a **vault**.
+- He says Russell put him inside it and ordered him never to let anyone enter.
+- Bernard's physical key `18` is used for/accesses the **SERVER ROOM** in Silo 18.
+- The heavy secured vault is located inside that Server Room.
+- Current restricted path: `key 18 → Server Room → vault`.
+- This strongly strengthens standardized protected IT-vault architecture across Silos 17 and 18.
+- Exact vault contents and whether key numbering corresponds to Silo numbering remain unresolved.
+
+### S02E03 — Bernard cross-Silo knowledge / Jane Carmody age
+
+- Bernard knows Juliette reached Silo 17.
+- He states Silo 17 has been "dead" for a long time.
+- He says he knew this before Judge Meadows became his shadow.
+- Bernard therefore has inherited/long-standing **partial cross-Silo knowledge**, but there is no evidence that he knows the whole system.
+- Bernard says the Jane Carmody cleaning recording is about **200 years old**; the number may be approximate.
+
+### S02E03 — pharmacological memory suppression
+
+- Bernard asks Sims what happened to personnel exposed to Juliette's classified broadcast.
+- Sims says medication was administered, presented as sedatives.
+- Sims later explicitly offers medication so another person can **forget**.
+- Current authorities therefore possess or claim a deliberate pharmacological memory-suppression capability.
+- This strongly corroborates the older historical memory-suppression testimony, while exact drug identity and relation to the water-based claim remain unresolved.
+
+### S02E03 — The Syndrome theory
+
+- Judge Meadows presents a theory that The Syndrome is not primarily a physiological disease but a reaction to the conditions/way of life inside the Silo.
+- This is a character theory, not an established medical explanation.
+- It should not be overtranslated as "psychosomatic" without stronger dialogue.
+
+### S02E03 — cleaner visual trigger / repeated Jane pattern
+
+- Juliette explicitly believes the manipulated lush view is what makes cleaners clean.
+- She recognizes the lush image as false because it matches the old Jane Carmody recording.
+- She does not know the ordinary word/concept "birds", but recognizes the same movement pattern of the flying creatures.
+- This strengthens a reused/highly standardized visual-sequence model and independently demonstrates deep loss of ordinary natural-world vocabulary.
+
+### S02E03 — CODE SILO ORANGE / chronology
+
+- A medical screen explicitly states `CODE SILO ORANGE`.
+- It instructs staff **not to remove birth control** and to ensure the patient **believes it was removed**.
+- Covert reproductive deception is therefore a formally encoded institutional medical protocol.
+- The same record shows `DOB 09/13/116 A.R.`.
+- `A.R.` is directly established as an institutional era notation, but the screenshot does not spell out the abbreviation.
+- The previous simple H15 calendar model is no longer safe; chronology conflict is preserved explicitly rather than silently remapped.
 
 ### S02E02 — live exterior cleaner feed
 
