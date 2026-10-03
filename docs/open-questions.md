@@ -1,28 +1,28 @@
 # Отворени въпроси
 
-**Knowledge boundary:** **S01E07**
+**Knowledge boundary:** **S01E10**
 
-Въпросите са само за knowledge state-а до S01E07. Не се използва информация от S01E08+, книги, wiki, interviews, leaks или retrospective explanations.
+Въпросите са само за knowledge state-а до S01E10. Не се използва информация от S02E01+, книги, wiki, interviews, leaks или retrospective explanations.
 
 Resolved/partially resolved questions от по-ранни епизоди са премахнати или refactor-нати вместо да се пазят като вече неверни watch targets.
 
 ## Външен свят / cleaning / visual pipeline
 
-1. Какво обективно има извън Silo?
-2. Кое representation е по-близо до physical reality: barren public feed, lush cleaner view или нито едно?
-3. Cleaner helmet image live ли е, prerecorded, generated, augmented или substituted?
-4. Public wall display live ли е, prerecorded, generated, augmented или otherwise processed?
-5. Получават ли public display и cleaner helmet един и същ physical camera source?
-6. Защо lush view системно е followed by cleaning behavior?
-7. Какво точно убива/обездвижва cleaners?
-8. Има ли lethal factor в suit/helmet/life-support system?
-9. Външната atmosphere сама по себе си lethal ли е?
-10. Какво вижда cleaner след сваляне на helmet?
-11. Скрива ли lush view bodies/objects?
+1. **RESOLVED in S01E10:** exterior-ът около Silo е barren/devastated; lush cleaner representation е false.
+2. **RESOLVED in S01E10:** barren representation е substantially closer to physical reality; lush helmet view is deception.
+3. Cleaner helmet layer как точно се генерира — prerecorded asset, realtime render, composited overlay или друг mechanism?
+4. Public wall display direct live camera feed ли е или все още processed representation на substantially real barren exterior?
+5. Public display и cleaner helmet споделят ли един physical camera source или separate pipelines?
+6. Какъв е exact intended behavioral purpose на lush deception и защо исторически cleaners clean-ват?
+7. Какво точно убива/обездвижва standard cleaners?
+8. Как точно standard tape/seal contributes към mortality и deliberately inferior ли е?
+9. Външната atmosphere сама по себе си lethal ли е, или mortality requires suit failure / another factor?
+10. Какво вижда cleaner при helmet-layer failure/removal и има ли automatic fallback?
+11. Скрива ли lush layer bodies, neighboring Silos, terrain features или други objects deliberately?
 12. Защо public display показва lush imagery при S01E03 power-down?
-13. Lush flash overlay/cached frame/fallback/test state/alternate feed ли е?
-14. Забелязал ли е някой authority/resident lush flash-а?
-15. Има ли diagnostic/log evidence за visual-state switching?
+13. S01E03 lush flash same asset/pipeline ли е като cleaner helmet overlay?
+14. Bernard/друг authority знаел ли е за power-down lush flash и има ли incident logs?
+15. Има ли diagnostic/log evidence за visual-state switching и cleaning-overlay delivery?
 
 ## Night sky / celestial behavior
 
@@ -131,7 +131,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 94. Колко е prevalent?
 95. Как се diagnoses/treats?
 96. Има ли occupational/geographic clustering?
-97. Какво пише на по-ранния blurred Mechanical/generator notice за Syndrome?
+97. **PARTIALLY RESOLVED in S01E10:** official Syndrome notice lists a progressive symptom pattern; exact blurred wording still needs clearer source material.
 98. Има ли institutional restrictions/rights consequences за affected residents, включително office eligibility, след като new Deputy е concrete affected character?
 
 ## Surveillance / dossiers
@@ -296,7 +296,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 213. Judge Meadows знае ли, че е monitored?
 214. Защо Judge е surveillance target?
 215. Sims може ли да observe Judge without approval from higher authority?
-216. Има ли authority над Sims, която controls both Judge and surveillance system?
+216. **PARTIALLY RESOLVED in S01E10:** Bernard demonstrates direct command/compartmentalization over Sims in classified cleaning/surveillance context; whether anyone sits above Bernard remains open.
 217. Mirror units capture-ват ли audio в допълнение към video?
 218. Janitorial closet route единственият entrance ли е към control center-а?
 219. Къде physically се намира surveillance center-ът спрямо visible Silo levels?
@@ -348,9 +348,102 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S01E08 — episode-end escape
 
-249. Какъв е immediate outcome от Juliette’s railing jump?
-250. Escape/evasion plan ли е, импровизация ли е, или има known route/landing structure?
+249. **RESOLVED in S01E09:** Juliette survives the initial drop by landing on / being caught by an intermediate bridge at Level 23.
+250. Escape/evasion context е established; било ли е Level-23 landing point-а pre-planned или improvised остава unresolved.
 251. Как authorities classify event-а, ако Juliette избяга от custody?
+
+
+## S01E09 — Level 23 / escape route
+
+252. Level 23 bridge-ът част от common circulation ли е, maintenance route ли е или special cross-connection?
+253. Juliette целенасочено ли избира Level 23 като landing/escape point?
+254. Какъв exact route използва след landing-а?
+255. Има ли surveillance coverage на Level 23 bridge-а?
+
+## S01E09 — numbered object/device `18`
+
+256. Какво точно отключва physical key `18`?
+257. **RESOLVED in S01E10:** object `18` е physical key; значението на number `18` остава unknown.
+258. Има ли реална връзка между key `18` и HDD 18, или numerical overlap е coincidence?
+259. Кой има право да притежава/използва numbered keys от този тип?
+260. Key `18` към door/room/system/container ли е и има ли matching lock identifier?
+261. Защо Bernard държи key `18` и каква authority/access представлява?
+
+## S01E09 — Jane Carmody cleaning file
+
+262. **RESOLVED in S01E10:** Juliette sees the same lush representation and initially concludes the public display is the lie.
+263. **RESOLVED/SUPERSEDED in S01E10:** the helmet lush representation is directly revealed as false; Juliette’s initial inference is overturned.
+264. Може ли Jane Carmody footage да се compare-не frame-for-frame с Allison/Holston/Juliette helmet imagery?
+265. Има ли metadata във файла, което може да establish date/source/rendering pipeline?
+266. Jane Carmody file prerecorded source asset ли е, captured helmet output ли е или another pipeline artifact?
+267. Има ли други cleaning files със същия exact lush asset?
+268. **PARTIALLY RESOLVED in S01E10:** cleaner view is a false overlay/simulation-like layer; exact rendering/delivery mechanism remains open.
+
+
+## S01E10 — Bernard / classified cleaning knowledge
+
+269. Bernard единственият currently demonstrated authority ли е с full prior knowledge of the helmet deception?
+270. Кой е authorized да know `JANE CARMODY CLEANING` и cleaner-overlay truth?
+271. Bernard може ли formally да order Sims във всички domains или само в selected classified matters?
+272. Sims действително ли не е знаел lush imagery/helmet truth преди broadcast incident-а?
+273. Кой controls distribution/activation на cleaning helmet visual layer?
+274. Кой controls public display routing and emergency broadcast interruption?
+275. Има ли authority above Bernard, която defines cleaning secrecy policy?
+276. Каква е exact institutional relation IT ↔ Mayor ↔ Judicial ↔ Janitorial control room?
+
+## S01E10 — cleaning suit / tape / outside hazard
+
+277. Какъв material/specification е standard cleaning tape?
+278. Какъв material/specification е alternate tape used for Juliette?
+279. Deliberately inferior ли е standard tape или просто operationally inadequate?
+280. Кой normally supplies/selects standard tape?
+281. Кой arranged the alternate tape for Juliette and with what intent?
+282. Seal failure позволява ли external contaminant да проникне, или има друг suit-mediated lethal mechanism?
+283. Колко дълго standard cleaner може да survive при intact vs failed seal?
+284. Bernard/Sims откъде знаят expected death point near the tree?
+285. Има ли telemetry/biometrics from cleaning suits?
+286. Външната atmosphere сама по себе си lethal ли е при fully sealed suit?
+
+## S01E10 — multiple Silos / exterior geography
+
+287. Колко Silo installations има в visible field?
+288. Всички visible circular sites inhabited/active Silos ли са?
+289. Имат ли identical architecture and cleaning systems?
+290. Има ли communication/coordination between Silos?
+291. Кой управлява multi-Silo system-а, ако има common authority?
+292. `SILO_COUNT` field от HDD към exact number ли сочи?
+293. Distant ruined/city-like skyline кой city е?
+294. Georgia relic има ли реална local-geography връзка или остава provenance-only clue?
+295. Какво е причинило barren exterior и ruined skyline?
+296. Колко време exterior-ът е в това състояние?
+
+## S01E10 — key 18
+
+297. Какво отключва key `18`?
+298. Matching `18` identifier има ли върху physical door/room/console/container?
+299. Key `18` и HDD 18 част от common numbering scheme ли са?
+300. Има ли other numbered keys и кой ги държи?
+
+## S01E10 — Level 144 / Janitorial ROTA
+
+301. Level 144 ventilation infrastructure обслужва целия Silo ли, lower levels ли или special system?
+302. Fans intake/exhaust/circulation function ли изпълняват?
+303. Има ли relation между Level 144 airflow infrastructure и outside atmosphere?
+304. ROTA board-ът genuine janitorial schedule ли е?
+305. Level numbers на ROTA-та correlate-ват ли с surveillance targets or camera maintenance?
+306. Имената/инициалите на ROTA-та janitors ли са, control-room staff ли са или cover identities?
+307. Защо hidden surveillance entrance използва Janitorial като cover layer?
+308. ROTA scheduling позволява ли legitimate movement between levels for covert-control personnel?
+
+## S01E10 — The Syndrome
+
+309. Каква е underlying cause на The Syndrome?
+310. Exact official symptom sequence какво гласи на clear source?
+311. Има ли known treatment, suppression или cure?
+312. Syndrome environmental, toxic, infectious, genetic, nutritional или other origin ли има?
+313. Има ли clustering by level/occupation?
+314. Какви legal/occupational restrictions следват от diagnosis?
+315. Control authorities знаят ли повече за cause-а от public medical messaging?
 
 ## Основен въпрос на проекта
 
