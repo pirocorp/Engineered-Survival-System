@@ -1,6 +1,6 @@
 # Evidence регистър
 
-Текуща **knowledge boundary:** **S02E01**
+Текуща **knowledge boundary:** **S02E02**
 
 | ID | Evidence | Клас | Confidence | Бележки |
 |---|---|---|---:|---|
@@ -221,6 +221,21 @@
 | E207 | A childhood flashback shows young Juliette visiting the excavation machine in her own Silo with a friend. | Direct observation / character-history scene | VH | Establishes early personal familiarity with deep legacy infrastructure; no lower-tunnel connection proven. |
 | E208 | A living person is present behind a heavy secured/vault-like door in the second Silo's IT area. | Direct observation | VH | Falsifies any model that the second Silo is completely uninhabited. |
 | E209 | The second-Silo IT survivor threatens Juliette with lethal force if she attempts to open the secured door. | Character statement / threat | VH | Establishes threat; willingness/ability to carry it out remains separate. |
+| E210 | Bernard/IT receives a live video feed associated with Juliette while she is outside. | Direct observation | VH | Establishes a live outbound exterior video channel accessible to Bernard/IT; exact camera/transmitter source unknown. |
+| E211 | The Juliette-associated live feed persists beyond her own Silo's immediate surface area and is lost when she enters the second Silo. | Direct observation + scene continuity | VH | Establishes a practical transmission boundary in this event; does not prove deliberate blocking or absence of inter-Silo communications. |
+| E212 | Bernard consults a physical document titled `THE ORDER`. | Direct visual evidence | VH | Distinct from the public Pact in scene context; authorship, access rules and formal authority remain unknown. |
+| E213 | `THE ORDER` contains the clearly legible heading `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`. | Direct visual / institutional evidence | VH | Directly establishes failed cleaning as a severe contingency anticipated by the hidden doctrine; smaller body text is not over-transcribed. |
+| E214 | Bernard accesses a heavy secured/vault-like IT door in Juliette's original Silo. | Direct visual evidence | VH | Establishes a restricted IT compartment/layer in her Silo. |
+| E215 | Privileged surveillance/control materials, including `THE ORDER` and classified live monitoring, are associated by scene context with the secured IT layer in Juliette's Silo. | Scene-context inference | H | Strong association, but not every hidden function is proven to reside physically behind the door. |
+| E216 | Juliette's Silo and the second Silo both contain analogous secured/vault-like IT compartments. | Repeated observation / cross-Silo structural inference | H | Supports standardized secured-IT architecture; identical contents/functions remain unconfirmed. |
+| E217 | The woman involved in replacing Juliette's tape believes Juliette ultimately died because the suit ran out of breathable air. | Character testimony / inference | VH | VH that she makes the assessment; exact technical mechanism remains unconfirmed. |
+| E218 | Bernard and Judge Meadows attribute Juliette's unexpected exterior survival to replacement of the normal cleaning tape. | Character testimony / insider assessment | VH | Strong insider causal attribution to tape/seal configuration. |
+| E219 | Judge Meadows states that eventually someone was bound to figure out the tape mechanism. | Character testimony | VH | Strongly implies a hidden but discoverable known mechanism rather than an accidental one-off defect. |
+| E220 | Judge Meadows knows about `THE ORDER`. | Character knowledge / institutional testimony | VH | Shows the doctrine is shared beyond Bernard within at least part of a privileged senior knowledge layer. |
+| E221 | Bernard explicitly fears/assesses that the catastrophic fate observed around the second Silo could also happen to his own Silo. | Character statement / institutional risk assessment | VH | Links second-Silo collapse to current failed-cleaning/stability risk; does not prove `THE ORDER` was written from that specific case. |
+| E222 | A distinct circled painted symbol/emblem appears in rebellion-context imagery. | Direct visual evidence | VH | Exact meaning, name and faction identity remain unresolved. |
+| E223 | Judge Meadows offers to help Bernard through the crisis on the condition that afterward he allows her to go outside and provides the "good" tape. | Direct dialogue / negotiated condition | VH | Directly establishes that Meadows distinguishes and requests a better tape configuration for her own exterior exit. |
+| E224 | Judge Meadows treats the "good" tape as materially capable of improving exterior survival compared with the standard cleaning tape. | Character inference / insider knowledge | H | Strongly supports material survival relevance; exact leak pathway remains unresolved. |
 
 ## Визуални източници — S01E01
 
@@ -384,6 +399,20 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 
 `contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
 
+## Визуални източници — S02E02
+
+Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+
+- [Bernard / live Juliette-associated exterior feed](../assets/S02E02/screenshots/bernard-live-helmet-feed-second-silo.jpeg)
+- [Bernard reaction/context frame](../assets/S02E02/screenshots/bernard-reaction-to-second-silo-feed.jpeg)
+- [THE ORDER cover](../assets/S02E02/screenshots/the-order-cover.jpeg)
+- [THE ORDER — failed cleaning → prepare for war](../assets/S02E02/screenshots/the-order-failed-cleaning-prepare-for-war.jpeg)
+- [Bernard / secured IT vault door](../assets/S02E02/screenshots/bernard-it-vault-door.jpeg)
+- [Circled rebellion-context graffiti symbol](../assets/S02E02/screenshots/rebellion-circled-symbol-graffiti.jpeg)
+- [S02E02 visual evidence manifest](../assets/S02E02/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+
 ## Фокусирани evidence бележки
 
 - [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
@@ -416,3 +445,7 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [S02E01 — Outside hazard, suit seal and breathing support](evidence/S02E01-outside-hazard-suit-breathing.md)
 - [S02E01 — Cross-Silo surveillance and IT standardization](evidence/S02E01-cross-silo-surveillance-it.md)
 - [S02E01 — Second-Silo collapse state: power, flooding and survivor](evidence/S02E01-power-flooding-survivor.md)
+- [S02E02 — THE ORDER and failed-cleaning contingency](evidence/S02E02-the-order-failed-cleaning.md)
+- [S02E02 — Live cleaner exterior feed](evidence/S02E02-live-cleaner-feed.md)
+- [S02E02 — Cleaning tape, seal and finite protection](evidence/S02E02-cleaning-tape-mechanism.md)
+- [S02E02 — IT vault architecture and privileged governance layer](evidence/S02E02-it-vault-governance.md)
