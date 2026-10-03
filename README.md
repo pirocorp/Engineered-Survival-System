@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S01E08 моделът включва centralized covert surveillance, illicit scientific observation under Pact restriction, mirror-surveillance as an enforcement/discovery mechanism, confirmed reproductive-control deception и demonstrated ability to weaponize institutional procedure through disputed/false testimony.**
+> **След S01E10 lush cleaner view е direct-confirmed deception layer, barren exterior е substantially real, Juliette’s alternate suit tape strongly implicates sealing in cleaner mortality, Bernard demonstrates privileged control above ordinary surveillance access, and the exterior wide reveal confirms a larger multi-Silo landscape.**
 
 ## Език на проекта
 
@@ -16,17 +16,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S01E08**
+**Текуща граница на знанието:** **S01E10**
 
-**Статус на гледане:** **Сезон 1, епизод 8**
+**Статус на гледане:** **Сезон 1, епизод 10**
 
-Не се използва никаква информация от S01E09+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация от S02E01+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S01E08 най-силният работен модел е:
+След S01E10 най-силният работен модел е:
 
-> **Силозът е 144-level engineered habitation/control system с dynamic exterior visual pipeline, hidden lower infrastructure, centralized covert surveillance, restricted historical/scientific capability, Flamekeeper preservation networks, covert reproductive control и institutional mechanisms, които могат да бъдат използвани coercively чрез controlled testimony.**
+> **Juliette’s Silo е една unit в по-голяма multi-Silo survival/control architecture. Cleaner helmet-ът intentionally presents false lush imagery, barren exterior is substantially real, and internal authority is compartmentalized, with Bernard holding privileged access to cleaning/surveillance secrets.**
 
 Ключови установени линии:
 
@@ -37,7 +37,7 @@
 - S01E05 показва systematic/time-dependent star-like movement на night display-а;
 - observer в cafeteria не знае concept-а „stars“ и сам reconstruct-ва movement patterns;
 - Silo има **144 levels** и Bernard заявява **10 112 current residents**;
-- observed direct level anchors вече включват `8, 9, 12, 14, 17, 26, 27, 29, 30, 50`;
+- observed direct level anchors вече включват `8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 144`;
 - Pact deliberately забранява mechanized transport през Silo;
 - Pact забранява magnifying devices над определен threshold;
 - Juliette dossier съдържа content от разговора ѝ с Holston → strong hidden-surveillance/reporting evidence;
@@ -63,7 +63,20 @@
 - a priority Medical → Martha Walker message direct-confirms structured interdepartmental digital messaging;
 - Mayor + Sims coordinate a trap and claim Juliette said she wanted to go out; she is arrested on that basis;
 - Bernard/IT claims Judge Meadows is afraid of him; objective hierarchy remains unresolved;
-- S01E08 ends with Juliette going over the railing during escape/evasion context; outcome remains unknown at the episode boundary.
+- S01E08 ends with Juliette going over the railing during escape/evasion context;
+- S01E09 resolves the immediate outcome: she survives the initial fall on an intermediate bridge at **Level 23**;
+- a small illuminated object/device marked **`18`** is shown in Bernard/acting-mayor context; function unknown and no HDD-18 link is assumed;
+- Juliette opens the known **`JANE CARMODY CLEANING`** file from the hard-drive evidence chain, bringing the alternate lush cleaning imagery directly into her own knowledge;
+- S01E10 reveals that the lush cleaner/helmet view is a **false visual layer**; Juliette’s initial belief that the public display is lying is superseded by the direct reveal;
+- barren exterior remains after the false layer drops and is therefore substantially real;
+- Bernard recognizes that Juliette has understood the helmet deception and demonstrates privileged access/control over classified cleaning and surveillance information;
+- Bernard can stop sensitive broadcast and order control-room personnel, including Sims, not to look/retain what they saw;
+- Juliette’s suit uses different tape/material and she survives beyond the point Bernard/Sims expect a cleaner to die, strongly implicating suit sealing;
+- the illuminated `18` object is directly shown to be a **physical key**; what it opens and whether it relates to HDD 18 remain unknown;
+- wide exterior views reveal **multiple Silo installations** and a distant ruined/city-like skyline;
+- Level 144/bottom contains large ventilation / air-handling machinery;
+- official `THE SYNDROME` signage gives a partially legible symptom progression;
+- Janitorial contains a structured day/level/time `ROTA` board.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
@@ -78,6 +91,8 @@
 - [`docs/episodes/S01E06.md`](docs/episodes/S01E06.md) — episode record за S01E06.
 - [`docs/episodes/S01E07.md`](docs/episodes/S01E07.md) — episode record за S01E07.
 - [`docs/episodes/S01E08.md`](docs/episodes/S01E08.md) — episode record за S01E08.
+- [`docs/episodes/S01E09.md`](docs/episodes/S01E09.md) — episode record за S01E09.
+- [`docs/episodes/S01E10.md`](docs/episodes/S01E10.md) — episode record за S01E10.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
@@ -97,6 +112,14 @@
 - [`docs/evidence/S01E08-illicit-microscopy-and-mirror-surveillance.md`](docs/evidence/S01E08-illicit-microscopy-and-mirror-surveillance.md) — microscope, restricted record и revision на father-as-informant model.
 - [`docs/evidence/S01E08-fabricated-cleaning-trigger.md`](docs/evidence/S01E08-fabricated-cleaning-trigger.md) — Mayor/Sims trap, disputed exit claim и arrest.
 - [`docs/evidence/S01E08-bernard-judge-power.md`](docs/evidence/S01E08-bernard-judge-power.md) — Bernard’s claim за Judge Meadows и hidden hierarchy candidate.
+- [`docs/evidence/S01E09-level23-escape.md`](docs/evidence/S01E09-level23-escape.md) — Level 23 bridge landing and escape outcome.
+- [`docs/evidence/S01E09-number18-device.md`](docs/evidence/S01E09-number18-device.md) — illuminated object/device marked `18`, function unknown.
+- [`docs/evidence/S01E09-jane-carmody-cleaning.md`](docs/evidence/S01E09-jane-carmody-cleaning.md) — Juliette opens the known Jane Carmody cleaning footage.
+- [`docs/evidence/S01E10-cleaning-helmet-tape.md`](docs/evidence/S01E10-cleaning-helmet-tape.md) — false helmet layer, tape variation and cleaner-survival mechanism.
+- [`docs/evidence/S01E10-bernard-compartmentalization.md`](docs/evidence/S01E10-bernard-compartmentalization.md) — Bernard privileged access/control and Sims compartmentalization.
+- [`docs/evidence/S01E10-multiple-silos-exterior.md`](docs/evidence/S01E10-multiple-silos-exterior.md) — barren reality, multi-Silo field and distant skyline.
+- [`docs/evidence/S01E10-key18.md`](docs/evidence/S01E10-key18.md) — physical key marked `18`.
+- [`docs/evidence/S01E10-syndrome-level144-rota.md`](docs/evidence/S01E10-syndrome-level144-rota.md) — Syndrome sign, Level 144 infrastructure and Janitorial ROTA.
 - [`docs/open-questions.md`](docs/open-questions.md) — активните въпроси за falsification / future testing.
 - [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — visual evidence от S01E01.
 - [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — selected visual evidence от S01E02.
@@ -108,6 +131,10 @@
 - [`assets/S01E07/MANIFEST.md`](assets/S01E07/MANIFEST.md) — S01E07 visual processing/selection manifest.
 - [`assets/S01E08/screenshots/`](assets/S01E08/screenshots/) — validated selected visual evidence от S01E08.
 - [`assets/S01E08/MANIFEST.md`](assets/S01E08/MANIFEST.md) — S01E08 visual processing/selection manifest.
+- [`assets/S01E09/screenshots/`](assets/S01E09/screenshots/) — validated selected visual evidence от S01E09.
+- [`assets/S01E09/MANIFEST.md`](assets/S01E09/MANIFEST.md) — S01E09 visual processing/selection manifest.
+- [`assets/S01E10/screenshots/`](assets/S01E10/screenshots/) — validated selected visual evidence от S01E10.
+- [`assets/S01E10/MANIFEST.md`](assets/S01E10/MANIFEST.md) — S01E10 visual processing/selection manifest.
 
 ## Основна директива
 
@@ -151,6 +178,16 @@ S01E07 съдържа както direct-confirmed механизми, така �
 
 - Juliette’s earlier belief that her father exposed the microscope is no longer required once mirror surveillance is known and she herself connects the two.
 - The Mayor/Sims “she wants to go out” claim is tracked separately from what Juliette actually said; downstream arrest does not retroactively make the claim true.
+
+### Допълнително правило след S01E09
+
+**Evidence becoming known to a character is tracked separately from evidence already known to the viewer/project.**
+
+The Jane Carmody cleaning footage was already direct visual evidence in S01E01. S01E09 is important because Juliette herself now accesses that same evidence; it does not make the lush image newly true or resolve whether it is real vs manipulated.
+
+### Допълнително правило след S01E10
+
+**Character conclusions remain separate from direct system reveals.** Juliette initially concludes that the public display is the lie because her helmet shows lush imagery; S01E10 then directly reveals the helmet imagery itself as false. The ledger therefore preserves her statement as a character inference and the later reveal as higher-grade evidence.
 
 ## Spoiler discipline
 
