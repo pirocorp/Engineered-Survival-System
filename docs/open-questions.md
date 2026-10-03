@@ -362,11 +362,11 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S01E09 — numbered object/device `18`
 
-256. Какво точно отключва physical key `18`?
+256. **PARTIALLY RESOLVED in S02E03:** physical key `18` accesses the `SERVER ROOM`; exact inner-vault unlocking relation remains open.
 257. **RESOLVED in S01E10:** object `18` е physical key; значението на number `18` остава unknown.
 258. Има ли реална връзка между key `18` и HDD 18, или numerical overlap е coincidence?
 259. Кой има право да притежава/използва numbered keys от този тип?
-260. Key `18` към door/room/system/container ли е и има ли matching lock identifier?
+260. **PARTIALLY RESOLVED in S02E03:** key `18` grants Server Room access; whether the number itself is a Silo identifier or lock-specific identifier remains open.
 261. Защо Bernard държи key `18` и каква authority/access представлява?
 
 ## S01E09 — Jane Carmody cleaning file
@@ -406,12 +406,12 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S01E10 — multiple Silos / exterior geography
 
-287. Колко Silo installations има общо? S02E01 confirms direct access to a second Silo, but exact count remains unknown.
+287. **PARTIALLY RESOLVED in S02E03:** Silo 17 survivor states there are **50 Silos** total; independent corroboration remains open.
 288. Всички visible circular sites inhabited/active Silos ли са? S02E01 shows at least one other Silo can be collapsed/largely depopulated yet still contain a survivor and residual power.
 289. **PARTIALLY RESOLVED in S02E01:** at least two Silos share homologous airlock, IT, agriculture and concealed mirror-camera concepts; exact identity of all architecture/cleaning systems remains open.
 290. Има ли communication/coordination between Silos?
 291. Кой управлява multi-Silo system-а, ако има common authority?
-292. `SILO_COUNT` field от HDD към exact number ли сочи?
+292. `SILO_COUNT` field от HDD към exact number **50** ли сочи, as now claimed by the Silo 17 survivor?
 293. Distant ruined/city-like skyline кой city е?
 294. Georgia relic има ли реална local-geography връзка или остава provenance-only clue?
 295. Какво е причинило barren exterior и ruined skyline?
@@ -419,8 +419,8 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S01E10 — key 18
 
-297. Какво отключва key `18`?
-298. Matching `18` identifier има ли върху physical door/room/console/container?
+297. **RESOLVED at observed layer in S02E03:** key `18` accesses the `SERVER ROOM`; whether it also directly unlocks the inner vault remains open.
+298. S02E03 strongly links `18` to Juliette's Silo designation context; има ли explicit matching `18` identifier върху Server Room/vault access hardware?
 299. Key `18` и HDD 18 част от common numbering scheme ли са?
 300. Има ли other numbered keys и кой ги държи?
 
@@ -447,10 +447,10 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S02E01 — second Silo / rebellion / Russell
 
-316. Какъв е exact номер/designation на втория Silo?
-317. Juliette's original Silo действително ли е Silo `18`?
+316. **RESOLVED by S02E03 survivor testimony:** the second/collapsed Silo is identified as **Silo 17**.
+317. **STRONGLY SUPPORTED in S02E03:** Juliette's original Silo is identified/inferred as **Silo 18**; seek explicit formal designation for full confirmation.
 318. Key `18`, HDD 18 и Silo numbering имат ли real common identifier, или numerical overlap е coincidence?
-319. Кой е Russell и каква institutional role има?
+319. Кой е Russell и каква exact institutional role има? S02E03 shows claimed authority to place the survivor in the IT vault and order absolute no-entry.
 320. За какво точно Sheriff-ът твърди, че Russell е излъгал?
 321. Sheriff-led group officially rebels ли са, или faction identity остава по-сложна?
 322. Кой защитава IT — IT staff, security, loyalists или mixed force?
@@ -461,7 +461,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 325. Какъв exact airborne/atmosphere-borne agent причинява exterior deaths?
 326. Chemical toxin, gas, aerosol/particulate, pathogen/bioaerosol или друг mechanism ли е?
-327. Колко бързо настъпват symptoms/death при unprotected exposure?
+327. Колко бързо настъпват symptoms/death при unprotected exposure, given S02E03 testimony that hazard intensity can temporarily disperse and later return?
 328. Каква е exact suit breathing architecture — stored gas, rebreather, filtered supply или друго?
 329. Standard tape позволява ли contaminant ingress, breathing-gas loss, или и двете? S02E02 strengthens both seal-failure pathways but does not technically distinguish them.
 330. Juliette's alternate tape колко materially удължава sealed survival?
@@ -472,7 +472,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 332. Кой е living survivor-ът в secured IT compartment и каква е ролята му?
 333. От колко време е там и как е осигурявал food/water/air?
 334. Има ли други survivors в Silo-а?
-335. Secured IT vault-like compartment standard feature ли е и в други Silos?
+335. **STRONGLY SUPPORTED in S02E03:** analogous secured IT vaults exist in Silos 17 and 18; is this universal across all Silos?
 336. Какъв е source-ът на residual electrical power след collapse-а?
 337. Кои systems продължават автоматично да работят без normal population/operations?
 338. Каква е причината и timeline-ът на massive flooding до IT?
@@ -516,7 +516,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 364. Каква е formal relation `THE ORDER` ↔ Pact?
 365. `THE ORDER` legally supersede-ва ли Pact-а при crisis, или е covert operational guidance?
 366. Всеки Silo има ли собствено копие на `THE ORDER`?
-367. `FAILED CLEANING → PREPARE FOR WAR` derived от historical empirical failures ли е?
+367. **STRONGLY SUPPORTED but not origin-confirmed in S02E03:** Silo 17 supplies a concrete failed-cleaning → rebellion case; was this or earlier cases used to derive the doctrine?
 368. Ако да, колко previous failed-cleaning / rebellion cases са known to authors?
 369. Second-Silo collapse един от cases, върху които doctrine-ът е based, ли е?
 370. Има ли други trigger conditions в `THE ORDER`, които activate crisis protocols?
@@ -525,8 +525,8 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 371. Каква е exact material/spec difference между standard cleaning tape и "good" tape?
 372. Кой deliberately selects/supplies standard tape for cleanings?
-373. Standard tape проектирана ли е да fail-не след приблизително predictable exposure window?
-374. Ако има predictable window, calibrate-ната ли е така, че cleaner-ът обикновено да има време да почисти преди protection failure?
+373. S02E03 further strengthens this: standard tape/protection may fail in a short predictable window distinct from variable outside-hazard timing. Deliberately calibrated ли е?
+374. Ако има predictable window, deliberately calibrate-ната ли е така, че cleaner-ът да има време да почисти и после да умре **видимо пред sensor-а**?
 375. Основният failure mode contaminant ingress ли е?
 376. Основният failure mode breathing-gas loss ли е?
 377. Двата mechanisms едновременно ли действат?
@@ -557,6 +557,85 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 396. Появява ли се в други historical/current locations?
 397. Символът свързан ли е със specific movement, person, slogan или organizational identity?
 
+## S02E03 — 50 Silos / numbering
+
+385. Може ли твърдението за **50 Silos** да бъде независимо corroborate-нато чрез `SILO_COUNT`, map, `THE ORDER` или another institutional source?
+386. Juliette's Silo formally designated ли е `Silo 18` в direct institutional text/dialogue?
+387. Key `18` numbered by **Silo identity** ли е, by access zone, or by another scheme?
+388. HDD 18 също Silo-18-specific object ли е, или number overlap остава coincidence?
+389. Как са spatially подредени 50-те Silos и Silo 17/18 adjacent ли са по numbering design?
+
+## S02E03 — Ron / failed cleaning / rebellion
+
+390. Ron действително ли е оцелял след като изчезва от sensor view?
+391. Кой е написал `LIES` на internal cafeteria display три дни по-късно?
+392. Как technically е поставено/инжектирано `LIES` съобщението на display-а?
+393. Какъв exact interval има между failed cleaning, internal `LIES`, rebellion и mass exit?
+394. Какво конкретно превръща instability в organized rebellion — cleaner survival belief, hidden messages, faction leadership, или combination?
+395. Silo 18 след Juliette следва ли същия repeatable social cascade като Silo 17?
+
+## S02E03 — outside dust/poison
+
+396. Какво точно е dust/poison agent-ът?
+397. Weather/airflow ли причинява временното му dispersal, или има artificial/systemic source?
+398. Hazard-ът continuous background ли е с variable concentration, periodic plume ли е, или се release-ва event-driven?
+399. Колко дълго може човек да остане unprotected при temporarily low concentration?
+400. Cleaner suit death timing independent ли е от hazard concentration при standard tape failure?
+
+## S02E03 — Russell / vault / Server Room
+
+401. Russell Bernard-equivalent Head of IT ли е, another privileged role ли е, or something else?
+402. Защо Russell избира точно survivor-а да остане във vault-а?
+403. Какво точно трябва да бъде защитено във Silo 17 vault-а?
+404. Vault-ът съдържа ли `THE ORDER`, cross-Silo status information, communications or control systems?
+405. Key `18` unlock-ва само Server Room ли, или и inner vault access chain?
+406. Всеки Silo има ли physical key numbered by its Silo designation?
+
+## S02E03 — Bernard cross-Silo knowledge
+
+407. От какъв source Bernard знае, че Silo 17 е dead?
+408. Има ли current status registry за всички Silos?
+409. Може ли Bernard да вижда current/lifetime status на други Silos, или knowledge-ът е inherited historical record?
+410. Кой е над Bernard, ако local IT custodian knowledge-ът е intentionally partial?
+411. Колко други failed/dead Silos знае Bernard?
+
+## S02E03 — memory suppression
+
+412. Какъв е exact medication, който Sims предлага за forgetting?
+413. Complete erasure ли причинява, weakened recall, confusion, or selective amnesia?
+414. Колко дълго трае effect-ът и reversible ли е?
+415. Witnesses from Juliette broadcast действително ли са забравили видяното?
+416. Същата drug family ли е историческото вещество, alleged to have been delivered through water?
+417. Кой authorizes targeted memory suppression and как се документира?
+
+## S02E03 — The Syndrome
+
+418. Meadows' reaction-to-Silo-life theory има ли medical evidence?
+419. Какъв mechanism би свързал Silo living conditions с observed motor/cognitive symptoms?
+420. The Syndrome реално disease entity ли е, stress/environment response ли е, or institutional label covering multiple causes?
+
+## S02E03 — cleaner visual asset / lost vocabulary
+
+421. Flying-creature movement literal exact replay/loop ли е across cleanings?
+422. Cleaner helmet използва един prerecorded scene asset ли, procedural rendering ли, or composited template?
+423. Ако Jane Carmody recording е ~200 years old, същият exact visual asset използван ли е през целия период?
+424. Колко broad е natural-world vocabulary loss beyond `birds` and earlier `stars` evidence?
+
+## S02E03 — CODE SILO ORANGE / reproductive control
+
+425. Кой assigns `CODE SILO ORANGE` на конкретен patient/procedure?
+426. Какви selection criteria trigger covert retention of birth control?
+427. Code Orange same protocol ли е across all Silos?
+428. Как medical staff са compelled/authorized да deceive patients and who audits compliance?
+
+## S02E03 — chronology correction
+
+429. Какво точно означава abbreviation `A.R.` в institutional records?
+430. Кога започва `1 A.R.` спрямо Rebellion?
+431. Как `SILO YEAR 96/97` се mapping-ва към `A.R.`, ако изобщо се mapping-ва?
+432. Bernard's "~200 years" за Jane Carmody recording approximate ли е, or points to a different dating system?
+433. Jane Carmody file metadata actual recording date ли е, archive/import date ли е, or another label?
+434. Physical age на Silo може ли да се establish-не independently from these calendar systems?
 ## Основен въпрос на проекта
 
 163. Авторитарният control в Silo основно real survival necessity ли е, institutional system надживяла original purpose, deliberate deception, или combination от трите?
