@@ -1,6 +1,6 @@
 # Evidence регистър
 
-Текуща **knowledge boundary:** **S01E07**
+Текуща **knowledge boundary:** **S01E10**
 
 | ID | Evidence | Клас | Confidence | Бележки |
 |---|---|---|---:|---|
@@ -169,6 +169,34 @@
 | E159 | Juliette is arrested on the basis of the claim that she said she wanted to go outside. | Direct observation + institutional action | VH | False/disputed testimony produces immediate coercive legal consequence. |
 | E160 | At episode end Juliette goes over the central-stair railing during escape/evasion context; outcome is not shown before cut. | Direct observation | VH | Do not classify as suicide attempt; outcome remains unknown at S01E08 boundary. |
 
+
+| E161 | Juliette survives the initial railing jump by landing on / being caught by an intermediate bridge structure. | Direct observation | VH | Resolves S01E08 immediate-outcome uncertainty; event remains escape/evasion rather than suicide attempt. |
+| E162 | Level 23 is directly shown during Juliette’s post-jump escape sequence. | Direct visual evidence | VH | New spatial/worldbuilding anchor; no special function established. |
+| E163 | A small illuminated object/device marked `18` is directly shown. | Direct visual evidence | VH | Number is clear; function unknown. |
+| E164 | Scene context associates the illuminated `18` object/device with Bernard / the acting mayor. | Direct observation / context-linked visual evidence | H | Does not establish what the device does or any relation to HDD 18. |
+| E165 | At the end of S01E09 Juliette opens the known `JANE CARMODY CLEANING` file from the hard-drive evidence chain. | Direct observation + cross-episode file match | VH | Connects Juliette directly to E014 lush-cleaning footage; does not resolve whether lush exterior is real or synthetic. |
+
+
+| E166 | `JANE CARMODY CLEANING` imagery is broadcast across multiple/all visible Silo monitors before Bernard stops the transmission. | Direct observation | VH | Demonstrates that secret cleaning imagery can enter the broader display infrastructure. |
+| E167 | Bernard stops the sensitive cleaning-image broadcast. | Direct observation | VH | Shows direct intervention/control in the display event; exact technical path is not established. |
+| E168 | Bernard orders control-room personnel not to watch the classified imagery and to forget what they saw; Sims is included in the command context. | Direct dialogue / command | VH | Direct evidence of intra-authority information compartmentalization and Bernard command authority in this context. |
+| E169 | Bernard personally brings Juliette into the surveillance/control environment and selectively shows archived incident footage. | Direct observation | VH | Confirms Bernard has privileged access to stored surveillance material. |
+| E170 | After viewing the archived evidence, Juliette says they “never had a chance” and Bernard agrees. | Direct dialogue / shared character assessment | VH | Establishes shared assessment, not an objective universal fact about the entire system. |
+| E171 | Juliette’s cleaning suit is sealed with different tape/material from the standard cleaning configuration. | Direct observation | VH | Concrete controlled variation in suit sealing. |
+| E172 | The cleaning airlock entrance is spatially opposite Cell 3 in the Sheriff/holding area. | Direct visual/spatial observation | VH | Refines detention → airlock → exterior route. |
+| E173 | Juliette’s helmet shows the same lush representation associated with the Jane Carmody cleaning footage; she initially concludes the internal public display is the lie. | Direct visual observation + character inference | VH | Her conclusion is later superseded by the helmet-layer reveal. |
+| E174 | Bernard and Sims expect Juliette to fail/die around the tree and treat the timing/location as predictable. | Direct dialogue / insider expectation | VH | Strong evidence that normal cleaner mortality is an expected system outcome; mechanism still separate. |
+| E175 | The lush cleaner-helmet scene is directly revealed as a false/manipulated visual layer; barren terrain remains when it drops. | Direct visual-system reveal | VH | Exact technology unknown; “hologram-like” describes appearance, not mechanism. |
+| E176 | Bernard says, in context, that Juliette “knows,” recognizing that she has understood the helmet-view deception. | Direct dialogue + scene-context interpretation | VH | Also confirms Bernard’s prior knowledge of the deception. |
+| E177 | Juliette survives beyond the expected cleaner-failure point while using the alternate tape/material configuration. | Direct observation + comparative evidence | VH | Strongly implicates suit sealing/tape, but does not alone prove the exact lethal pathway. |
+| E178 | Close visual evidence identifies the illuminated object marked `18` as a physical key held by Bernard. | Direct visual evidence | VH | Supersedes uncertainty about object class; lock/function remains unknown. |
+| E179 | After the false lush helmet layer is gone, Juliette sees the barren exterior landscape directly. | Direct visual observation | VH | Strongly establishes barren exterior as substantially real. |
+| E180 | Wide exterior views reveal multiple repeated circular surface installations consistent with neighboring Silo sites. | Direct visual observation + structural inference | VH | Confirms a multi-Silo landscape; exact count/operational status unknown. |
+| E181 | A distant ruined/city-like skyline is visible beyond the Silo field. | Direct visual observation | H | No city identity or geographic location inferred. |
+| E182 | An official `THE SYNDROME` notice contains a progressive symptom list, including partially legible twitching/shaking and later motor/cognitive/nervous-system impairment. | Direct visual / institutional medical information | H | Small text is blurred; exact wording is not over-transcribed. |
+| E183 | Scene context identifies the bottom as Level 144; the area contains large axial fans and ventilation / air-handling infrastructure. | Direct observation + scene-context spatial identification | H | `144` is not visibly printed in the selected frame itself. |
+| E184 | A `ROTA` board in the Janitorial closet is organized by day, `LEVEL NO.`, time slots and assigned names/initials. | Direct visual evidence | VH | Proves structured level-by-level scheduling; purpose beyond scheduling remains unresolved. |
+
 ## Визуални източници — S01E01
 
 - [Публичният екран с barren exterior](../assets/S01E01/screenshots/exterior-barren-display.webp)
@@ -280,6 +308,36 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 
 `contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
 
+## Визуални източници — S01E09
+
+Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+
+- [Juliette fall / Level 23 bridge](../assets/S01E09/screenshots/juliette-fall-level-23-bridge.jpeg)
+- [Level 23 marker](../assets/S01E09/screenshots/level-23-marker.jpeg)
+- [Bernard / numbered device 18](../assets/S01E09/screenshots/bernard-number-18-device.jpeg)
+- [S01E09 visual evidence manifest](../assets/S01E09/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+
+The episode-ending Jane Carmody cleaning-file frame is recorded as direct episode observation (E165) but is not part of the current screenshot batch.
+
+## Визуални източници — S01E10
+
+Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+
+- [Bernard physical key `18`](../assets/S01E10/screenshots/bernard-key-18.jpeg)
+- [Barren exterior + distant skyline](../assets/S01E10/screenshots/exterior-barren-city-skyline.jpeg)
+- [Surface hatch / barren terrain](../assets/S01E10/screenshots/exterior-silo-hatch-barren-terrain.jpeg)
+- [Neighboring Silo field](../assets/S01E10/screenshots/exterior-neighboring-silo-field.jpeg)
+- [Multiple Silo rings — wide](../assets/S01E10/screenshots/exterior-multiple-silo-rings-wide.jpeg)
+- [Silo field + distant skyline — wide](../assets/S01E10/screenshots/exterior-silo-field-city-skyline-wide.jpeg)
+- [The Syndrome notice](../assets/S01E10/screenshots/syndrome-sign.png)
+- [Level 144 ventilation / air-handling infrastructure](../assets/S01E10/screenshots/level-144-ventilation-infrastructure.png)
+- [Janitorial ROTA board](../assets/S01E10/screenshots/janitorial-closet-rota.png)
+- [S01E10 visual evidence manifest](../assets/S01E10/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+
 ## Фокусирани evidence бележки
 
 - [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
@@ -300,3 +358,11 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [S01E08 — Illicit microscopy, restricted record и mirror-surveillance realization](evidence/S01E08-illicit-microscopy-and-mirror-surveillance.md)
 - [S01E08 — Fabricated/disputed cleaning trigger и arrest](evidence/S01E08-fabricated-cleaning-trigger.md)
 - [S01E08 — Bernard/IT claim за Judge Meadows](evidence/S01E08-bernard-judge-power.md)
+- [S01E09 — Level 23 bridge landing / escape outcome](evidence/S01E09-level23-escape.md)
+- [S01E09 — Numbered object/device `18`](evidence/S01E09-number18-device.md)
+- [S01E09 — Juliette opens `JANE CARMODY CLEANING`](evidence/S01E09-jane-carmody-cleaning.md)
+- [S01E10 — Helmet deception, tape variation и cleaner survival](evidence/S01E10-cleaning-helmet-tape.md)
+- [S01E10 — Bernard privileged control и information compartmentalization](evidence/S01E10-bernard-compartmentalization.md)
+- [S01E10 — Barren reality, multi-Silo landscape и distant skyline](evidence/S01E10-multiple-silos-exterior.md)
+- [S01E10 — Physical key `18`](evidence/S01E10-key18.md)
+- [S01E10 — Syndrome sign, Level 144 и Janitorial ROTA](evidence/S01E10-syndrome-level144-rota.md)
