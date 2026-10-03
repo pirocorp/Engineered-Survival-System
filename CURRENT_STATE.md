@@ -1,32 +1,77 @@
-# Текущо състояние — след S02E04
+# Текущо състояние — след S02E05
 
-**Knowledge boundary:** `S02E04`
+**Knowledge boundary:** `S02E05`
 
 ## Работен модел
 
-S02E04 expands `THE ORDER` from a contingency handbook into an observed crisis-management playbook: Mechanical is a predefined blame target, Bernard stages Meadows' death to fit that narrative, and Sims actively drives anti-Mechanical sentiment.
+S02E05 clarifies two deep structural layers at once: Bernard separates Sims' public Judicial role from the privileged shadow/succession path, while Silo 17 reveals a hardened IT continuity-power architecture capable of surviving main-generator loss and potentially powering recovery systems.
 
-Най-големите промени спрямо S02E03 са:
+Най-големите промени спрямо S02E04 са:
 
-1. `THE ORDER` instructs leadership to blame Mechanical in rebellion/crisis.
-2. Historical markings in Mechanical are interpreted as showing that Mechanical has repeatedly been blamed regardless of where unrest began.
-3. Mining supplies metal to the Silo and dangerous/undesirable mining work is partly staffed through a **penal labor system**.
-4. The Silo 17 survivor was a child when the rebellion occurred and had been placed/locked in the IT vault from childhood, refactoring the vault toward continuity/survival refuge.
-5. Level **119** becomes a new direct spatial anchor.
-6. Bernard poisons Judge Meadows.
-7. Meadows asks about a hard drive connected to **Salvador Quinn**, Head of IT during the Rebellion roughly 140 years ago; Quinn left a partly encoded letter.
-8. Meadows had abandoned Bernard's shadow path about 25 years ago after a four-day disappearance.
-9. Bernard possesses an immersive headset showing Monteverde cloud forest, 2018, and explains that it works similarly to cleaner-helmet imagery.
-10. Bernard gives the headset to Meadows before she dies.
-11. Bernard stages Mechanical representatives at the death scene so Mechanical can be blamed and public anger redirected toward them.
-12. Bernard claims impeachment protests forced his hand and says Sims was behind them.
-13. Sims independently/actively agitates the Silo against Mechanical.
-14. The hidden-control structure therefore looks less like a monolithic chain and more like overlapping actors with different leverage and agendas.
+1. Bernard removes Sims as Head of Security.
+2. Bernard explicitly tells Sims that Sims will not become his shadow.
+3. Bernard appoints Sims as the new Judge.
+4. Judge therefore appears to be a high public/formal office distinct from Bernard's privileged succession/read-in path; this does not prove every Judge is merely a puppet.
+5. The Silo 17 survivor says IT has its own independent power supply coming from an external/outside source.
+6. A Level 144 pump was destroyed during the Silo 17 rebellion in an attempt to flood Mechanical.
+7. The generator was not restored before the rising water reached it; normal Silo power failed and the water continues to rise.
+8. The survivor wants Juliette to repair a pump and power it from IT's independent supply to stop/slow the flooding.
+9. A newly found Silo schematic shows special/marked lines associated with both IT and Judicial, compatible with a hidden privileged infrastructure backbone but not yet identifiable as power lines.
+10. Level 26 is directly shown again as a repeated spatial anchor.
+11. A scanned handwritten Salvador Quinn letter is found in the archive.
+12. The letter's encoded/ciphered content is specifically at the end, refining the earlier "partly encoded" description.
 
-> **След S02E04 the strongest governance model is a deliberate crisis-shaping system: `THE ORDER` anticipates instability, Mechanical is a predefined scapegoat, Bernard is willing to manufacture evidence/events to fit that narrative, and Sims has enough independent political-operational leverage to shape public pressure rather than functioning as a simple subordinate.**
+> **След S02E05 the strongest continuity model is that IT is not merely a privileged information layer: in Silo 17 it also has resilient independent power surviving main-generator failure, and that power can potentially be redirected to critical recovery infrastructure. In parallel, Bernard's treatment of Sims shows that public office (Judge) and hidden succession (shadow) are structurally separate layers.**
 ---
 
 ## Наблюдения с висок confidence
+
+### S02E05 — Sims / Judge / shadow
+
+- Bernard removes Sims as Head of Security.
+- Bernard explicitly tells Sims he will **not** become Bernard's shadow.
+- Bernard appoints Sims as the new Judge.
+- This separates the public Judicial office from Bernard's privileged succession/read-in path.
+- Bernard's ability to move Sims between formal roles is strong evidence of institutional leverage, but does not establish that every Judge is a passive puppet.
+
+### S02E05 — Silo 17 independent IT power
+
+- The Silo 17 survivor says IT has its own independent power supply.
+- He describes its source as external/outside relative to the normal Silo generator path.
+- Exact physical source/location remains unresolved.
+- This directly explains why IT can remain powered after the main generator is lost.
+
+### S02E05 — Silo 17 flooding failure chain
+
+- During the rebellion, a pump on Level 144 was blown/destroyed in an attempt to flood Mechanical.
+- Water continued rising.
+- Mechanical did not restore the generator before the water reached it.
+- The main generator failed because of flooding.
+- Water continues to rise gradually in the present.
+- The survivor wants Juliette to repair/restore a pump that can stop or slow the flooding.
+- The recovery plan is to power that pump from IT's independent supply.
+- IT power can therefore potentially be routed to selected non-IT critical recovery infrastructure.
+
+### S02E05 — Level 26 / common-area visuals
+
+- Level 26 is directly shown again; this is corroboration of an already known anchor.
+- A large multilevel common/circulation area with landscaped green space is directly shown.
+- No special function or level assignment is inferred from the common-area frame alone.
+
+### S02E05 — IT / Judicial infrastructure map
+
+- A newly found Silo schematic shows marked/visible lines associated in scene context with IT.
+- A similar line/connection is associated with Judicial.
+- The screenshot does not establish whether these lines are power, data, communications, control, utility, or shared conduits.
+- The map is compatible with a hidden privileged infrastructure backbone and with Silo 17's independent-IT-power testimony, but does not itself prove the lines depict that power feed.
+
+### S02E05 — Salvador Quinn letter
+
+- A scanned handwritten letter attributed to Salvador Quinn is found in the archive.
+- This independently corroborates the S02E04 claim that Quinn left a letter.
+- The letter's ending is encoded/ciphered.
+- The strongest safe formulation is therefore: readable handwritten body + protected encoded final payload.
+- Exact transcription, cipher, intended recipient and whether Meadows decoded it remain unresolved.
 
 ### S02E04 — Mechanical scapegoating doctrine
 
