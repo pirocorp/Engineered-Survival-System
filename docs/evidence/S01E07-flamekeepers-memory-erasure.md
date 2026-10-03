@@ -62,3 +62,12 @@ This remains testimony-driven until independently corroborated.
 H6 remains VH but broadens from restricted knowledge access toward a multi-layer historical-erasure architecture.
 
 H7 strengthens because the emerging account places organized erasure before the Rebellion, while the official story centers destruction on rebels.
+
+
+---
+
+## S02E03 update — current memory-suppression capability
+
+S02E03 independently corroborates the **capability class** behind the older memory-suppression testimony. Sims explicitly offers medication so a person can **forget**, and personnel exposed to Juliette's classified broadcast are reported to have received medication presented as sedatives.
+
+This raises the memory-suppression model from historical testimony alone to a current institutional capability. Still unresolved: whether the historical water-delivered agent is the same drug/substance, whether forgetting is complete or partial, and how long the effect lasts.
