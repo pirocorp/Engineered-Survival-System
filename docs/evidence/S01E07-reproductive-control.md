@@ -53,3 +53,18 @@ The mechanism is confirmed; the historical targeting purpose remains testimony-b
 Juliette believes her father betrayed her mother.
 
 This is a character belief/accusation. Objective betrayal, exact act and motive remain unresolved.
+
+
+---
+
+## S02E03 update — formal CODE SILO ORANGE protocol
+
+S02E03 adds direct institutional documentation. A medical system screen states:
+
+`THIS PROCEDURE HAS BEEN DESIGNATED CODE SILO ORANGE`
+
+`PATIENT MUST NOT HAVE BIRTH CONTROL REMOVED.`
+
+`PATIENT MUST BELIEVE BIRTH CONTROL WAS REMOVED.`
+
+This upgrades the already confirmed reproductive-control deception from a repeated practice to a **formally encoded medical protocol**.
