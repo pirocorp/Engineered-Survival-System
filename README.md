@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S02E01 Juliette has directly entered a second Silo. The episode confirms a catastrophic mass exit there, a real lethal exterior hazard, standardized mirror-camera/IT architecture across Silos, residual power/flooding, and at least one living survivor inside secured IT.**
+> **След S02E02 the hidden cleaning/control architecture is substantially clearer: Bernard receives a live Juliette-associated exterior feed, consults `THE ORDER`, which explicitly says `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`, and insider dialogue strongly ties Juliette's survival to replacement of the standard cleaning tape with a better seal.**
 
 ## Език на проекта
 
@@ -16,17 +16,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S02E01**
+**Текуща граница на знанието:** **S02E02**
 
-**Статус на гледане:** **Сезон 2, епизод 1**
+**Статус на гледане:** **Сезон 2, епизод 2**
 
-Не се използва никаква информация от S02E02+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация от S02E03+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S02E01 най-силният работен модел е:
+След S02E02 най-силният работен модел е:
 
-> **Juliette’s Silo е една unit в стандартизирана multi-Silo survival/control architecture. Barren exterior is substantially real and genuinely lethal under observed conditions; suit sealing/breathing integrity materially affects survival. A second Silo independently shows mirror-camera surveillance, IT as a secured strategic layer, agricultural infrastructure, airlock architecture, residual power and a surviving occupant.**
+> **Juliette’s Silo е една unit в стандартизирана multi-Silo survival/control architecture. Cleaning increasingly appears to combine false lush perception, deliberately/systematically inferior standard sealing and an expected visible death; `THE ORDER` explicitly treats failed cleaning as a war-risk contingency. Bernard/IT also has a live exterior feed associated with Juliette, while Judge Meadows is read into at least `THE ORDER` and the tape secret.**
 
 Ключови установени линии:
 
@@ -88,6 +88,16 @@
 - at least one living person remains inside the secured IT compartment;
 - young Juliette is shown visiting the excavation machine in her own Silo as a child;
 - exact total Silo count and any relation `key 18 ↔ HDD 18 ↔ Silo 18` remain unresolved.
+- S02E02 shows Bernard/IT receiving a **live Juliette-associated exterior video feed**; the signal is lost when she enters the second Silo;
+- Bernard consults a distinct physical doctrine titled **`THE ORDER`**;
+- `THE ORDER` explicitly states **`IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`**;
+- Judge Meadows knows about `THE ORDER`, so this hidden doctrine is not Bernard's private secret;
+- Bernard explicitly fears that the catastrophic fate of the second Silo could occur in his own Silo;
+- Bernard and Meadows attribute Juliette's survival to replacement of the normal cleaning tape;
+- Meadows says somebody would eventually figure the tape mechanism out and later demands the **good tape** before agreeing to go outside;
+- the standard cleaning tape is therefore strongly supported as intentionally/systematically inferior, although contaminant ingress vs breathing-gas loss vs both remains unresolved;
+- Bernard's Silo contains a secured/vault-like IT layer analogous to the second Silo's secured IT compartment;
+- a distinct circled rebellion-context graffiti symbol/emblem appears; exact meaning remains unknown.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
@@ -105,6 +115,7 @@
 - [`docs/episodes/S01E09.md`](docs/episodes/S01E09.md) — episode record за S01E09.
 - [`docs/episodes/S01E10.md`](docs/episodes/S01E10.md) — episode record за S01E10.
 - [`docs/episodes/S02E01.md`](docs/episodes/S02E01.md) — episode record за S02E01.
+- [`docs/episodes/S02E02.md`](docs/episodes/S02E02.md) — episode record за S02E02.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
@@ -136,6 +147,10 @@
 - [`docs/evidence/S02E01-outside-hazard-suit-breathing.md`](docs/evidence/S02E01-outside-hazard-suit-breathing.md) — outside hazard, suit seal and breathing-support model.
 - [`docs/evidence/S02E01-cross-silo-surveillance-it.md`](docs/evidence/S02E01-cross-silo-surveillance-it.md) — repeated mirror-camera surveillance and IT standardization.
 - [`docs/evidence/S02E01-power-flooding-survivor.md`](docs/evidence/S02E01-power-flooding-survivor.md) — residual power, flooding and surviving occupant.
+- [`docs/evidence/S02E02-the-order-failed-cleaning.md`](docs/evidence/S02E02-the-order-failed-cleaning.md) — `THE ORDER`, failed-cleaning contingency and war-risk doctrine.
+- [`docs/evidence/S02E02-live-cleaner-feed.md`](docs/evidence/S02E02-live-cleaner-feed.md) — live Juliette-associated exterior feed and transmission boundary.
+- [`docs/evidence/S02E02-cleaning-tape-mechanism.md`](docs/evidence/S02E02-cleaning-tape-mechanism.md) — good/bad tape distinction and finite-protection model.
+- [`docs/evidence/S02E02-it-vault-governance.md`](docs/evidence/S02E02-it-vault-governance.md) — repeated secured IT architecture and privileged read-in layer.
 - [`docs/open-questions.md`](docs/open-questions.md) — активните въпроси за falsification / future testing.
 - [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — visual evidence от S01E01.
 - [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — selected visual evidence от S01E02.
@@ -153,6 +168,8 @@
 - [`assets/S01E10/MANIFEST.md`](assets/S01E10/MANIFEST.md) — S01E10 visual processing/selection manifest.
 - [`assets/S02E01/screenshots/`](assets/S02E01/screenshots/) — validated selected visual evidence от S02E01.
 - [`assets/S02E01/MANIFEST.md`](assets/S02E01/MANIFEST.md) — S02E01 visual processing/selection manifest.
+- [`assets/S02E02/screenshots/`](assets/S02E02/screenshots/) — validated selected visual evidence от S02E02.
+- [`assets/S02E02/MANIFEST.md`](assets/S02E02/MANIFEST.md) — S02E02 visual processing/selection manifest.
 
 ## Основна директива
 
@@ -212,6 +229,12 @@ The Jane Carmody cleaning footage was already direct visual evidence in S01E01. 
 **Cross-Silo repetition strengthens standardization hypotheses, not automatic central-control conclusions.** When the same architecture appears in a second Silo — mirror cameras, IT, airlock, agriculture — we may infer common design/doctrine more strongly, but we do not automatically conclude one live central authority controls every Silo.
 
 **Superseded inferences remain in history.** E188 preserves the initial mistaken Engineering/generator-target interpretation and marks it superseded after later scene evidence identifies IT as the actual attacked/defended location.
+
+### Допълнително правило след S02E02
+
+**Privileged doctrine, insider interpretation and direct mechanism remain separate evidence classes.** `THE ORDER` heading is direct institutional evidence; Bernard/Meadows tape explanations are insider testimony; exact engineering mechanism remains unresolved until directly established.
+
+**Repeated cross-Silo secured architecture supports standardization, not identical contents.** Similar IT vault-like compartments in two Silos strengthen H38 without assuming they contain the same systems, people or doctrine.
 
 ## Spoiler discipline
 
@@ -305,7 +328,7 @@ Confidence не е математическа вероятност и не за�
 
 ## Текущ модел за външния свят
 
-След S02E01 основната visual ambiguity остава разрешена и exterior hazard model-ът е substantially stronger:
+След S02E02 основната visual ambiguity остава разрешена, а cleaner survival/control model-ът е substantially stronger:
 
 1. **Lush cleaner view is false** — helmet-ът показва manipulated / overlay-like visual layer.
 2. **Barren exterior is substantially real** — след отпадането на false layer Juliette вижда devastated terrain.
@@ -315,8 +338,10 @@ Confidence не е математическа вероятност и не за�
 6. A large mass-remains field around that Silo confirms a real lethal exterior hazard under observed conditions.
 7. Current best-fit hazard class is airborne / atmosphere-borne; exact toxin/pathogen/particulate mechanism remains unresolved.
 8. Suit sealing and breathing-support integrity materially affect survival.
+9. Insider dialogue strongly ties Juliette's survival to replacement of the normal cleaning tape with a better seal.
+10. Bernard/IT receives live exterior video associated with Juliette while she is outside.
 
-Все още са unresolved exact helmet-rendering technology, exact outside lethal agent, exact relation между public display и raw exterior feed, total Silo count/status, any current central authority, Silo numbering and identity-то на distant skyline.
+Все още са unresolved exact helmet-rendering technology, exact outside lethal agent, exact suit leak pathway, exact source/format of the live cleaner feed, total Silo count/status, any current central authority, Silo numbering and identity-то на distant skyline.
 
 ## Текущ architectural model
 
@@ -394,6 +419,7 @@ episode/S01E07
 episode/S01E09-analysis
 episode/S01E10-analysis
 episode/S02E01-analysis
+episode/S02E02-analysis
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -403,4 +429,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S02E02`
+**Следваща knowledge boundary:** `S02E03`
