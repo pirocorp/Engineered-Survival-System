@@ -60,14 +60,3 @@ public belief that outside is lethal is reinforced
 The exterior really is lethal, so this is not a model in which death is produced only by sabotage in an otherwise safe world.
 
 The unresolved question is whether standard tape is deliberately calibrated to provide exactly enough time for cleaning before failure, or is simply deliberately/systematically inadequate.
-
-
----
-
-## S02E03 update — ordinary cleaner timing vs real outside hazard
-
-Silo 17 survivor testimony separates the ordinary short cleaner-death window from the independently real exterior hazard. Unprotected residents reportedly survived outside while the dust/poison temporarily dispersed, then died when it returned.
-
-This strengthens the model that standard cleaning-suit failure creates a short predictable mortality window that is not simply identical to constant ambient outside time-to-death. Exact mechanism remains unresolved: breathing-gas loss, contaminant ingress, or both.
-
-S02E03 also strengthens the **visible-death deterrence** function: residents of Silo 17 reportedly concluded the outside was safe because they never saw Ron die.
