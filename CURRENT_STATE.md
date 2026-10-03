@@ -1,29 +1,79 @@
-# Текущо състояние — след S01E10
+# Текущо състояние — след S02E01
 
-**Knowledge boundary:** `S01E10`
+**Knowledge boundary:** `S02E01`
 
 ## Работен модел
 
-S01E10 resolves several of the project’s longest-running exterior questions and exposes a deeper internal command/knowledge asymmetry.
+S02E01 converts the multi-Silo reveal from a distant exterior observation into direct exploration of a second Silo and exposes a historical failure mode of another Silo community.
 
-Най-големите промени спрямо S01E09 са:
+Най-големите промени спрямо S01E10 са:
 
-1. The lush cleaner view is directly revealed as a **false helmet-generated visual layer / overlay-like presentation**.
-2. The barren exterior seen after that layer drops is established as the substantially real outside environment.
-3. Juliette survives beyond the point where Bernard and Sims expect a cleaner to die; her suit uses **different tape/material**, strongly implicating suit sealing in cleaner mortality.
-4. Wide exterior views reveal **multiple repeated silo installations** across the landscape.
-5. A distant **ruined/city-like skyline** is visible; exact city identity is unknown.
-6. Bernard demonstrates privileged knowledge/control over the cleaning deception and surveillance environment, including direct commands to personnel and Sims about classified imagery.
-7. The previously unidentified illuminated object marked `18` is directly shown to be a **physical key**; what it opens remains unknown.
-8. An official `THE SYNDROME` notice gives a partially legible progressive symptom list.
-9. The bottom / Level 144 scene shows major ventilation / air-handling infrastructure.
-10. The Janitorial closet contains a structured `ROTA` board organized by day, level number and time slots.
+1. Juliette reaches and enters a **second Silo** whose historical rebellion-era sequence is shown at the start of the episode.
+2. A Sheriff-led group in that Silo attacks/advances against **IT**, reaches the airlock and exits outside.
+3. Present-day mass human remains around the second Silo hatch show that a large exterior exit ended catastrophically.
+4. Outside lethality is therefore real; exact agent remains unknown, with an **airborne / atmosphere-borne hazard** currently the best-fit class.
+5. Juliette experiences acute breathing distress while sealed in her suit inside the second Silo, then can breathe after opening/breaking the helmet, strongly implicating suit breathing/seal integrity.
+6. The second Silo contains the same concealed **mirror-camera** concept, supporting standardized cross-Silo surveillance/control design.
+7. IT in the second Silo is a defended/secured strategic area with a severed bridge, local power and a hardened compartment.
+8. At least one **living survivor** remains inside that secured IT compartment.
+9. The second Silo is massively flooded to within a few levels below IT, yet multiple local lighting circuits still operate.
+10. Young Juliette is shown visiting the excavation machine in her own Silo as a child.
 
-> **След S01E10 exterior model-ът се обръща от ambiguity към direct reveal: lush cleaner imagery е deception layer, barren outside is substantially real, and Juliette’s survival strongly implicates suit sealing/tape. At the same time the final wide exterior establishes that her Silo is one unit in a larger multi-silo landscape.**
+> **След S02E01 multi-Silo architecture is no longer only visible from outside: Juliette directly enters a second Silo with homologous surveillance/IT/agricultural infrastructure. A real lethal exterior hazard is strongly established, while the exact airborne/atmospheric agent and the exact suit/tape failure pathway remain unresolved.**
 
 ---
 
 ## Наблюдения с висок confidence
+
+### S02E01 — second Silo / rebellion / mass exit
+
+- Opening historical sequence occurs in the second Silo later entered by Juliette.
+- Anti-Founder / anti-deception graffiti is visible.
+- A generator-related 15-minute written warning is present, but its exact relation to the IT conflict is unresolved.
+- Sheriff-led group attacks/advances toward IT; another group defends IT.
+- Sheriff claims Russell lied to them; this is character testimony, not objective proof.
+- Sheriff-led group reaches the airlock, Sheriff opens it, and the group exits outside.
+- An early interpretation that the attack targeted Engineering/generator control is preserved as **E188 superseded inference** after later evidence identifies IT as the target.
+
+### S02E01 — exterior deaths / outside hazard
+
+- Juliette reaches a separate Silo exterior site surrounded by a large field of human remains.
+- Cross-scene continuity links the remains field to the historical mass-exit sequence.
+- This confirms a real lethal exterior hazard under observed conditions.
+- Exact lethal agent remains unknown.
+- Current best-fit class is airborne / atmosphere-borne exposure; toxin/chemical/aerosol and pathogen remain live alternatives.
+- Pure external radiation as the sole immediate killer is weakened, while airborne radioactive particulate is not excluded.
+
+### S02E01 — suit breathing / interior air
+
+- Inside the second Silo, Juliette experiences acute breathing distress while still sealed in her suit/helmet environment.
+- After breaking/opening the helmet, she can breathe the second Silo interior atmosphere.
+- Suit survival model therefore expands from tape/seal integrity to **seal + breathing-support integrity**.
+- Poor standard sealing could allow external contaminant ingress, faster breathing-gas loss, or both; exact mechanism is unresolved.
+
+### S02E01 — standardized cross-Silo surveillance / IT
+
+- The second Silo contains a concealed camera behind/in a mirror structure, matching the surveillance concept in Juliette's Silo.
+- Covert mirror-camera surveillance is therefore not unique to one Silo.
+- The second Silo contains an IT institutional area that was actively defended during internal conflict.
+- Present-day IT access bridge is severed, creating a physical defensive/isolation geometry.
+- IT contains a hardened secured/vault-like compartment.
+- These observations support standardized multi-Silo surveillance/control design but do not yet prove one live central authority governs every Silo.
+
+### S02E01 — residual power / flooding / survivor
+
+- Fixed lighting remains active in at least an agricultural area and the IT bridge area.
+- The second Silo is therefore not completely electrically dead; exact power source is unknown.
+- Water has risen to within a few levels below IT, establishing massive internal flooding.
+- At least one living person remains inside a secured IT compartment.
+- The survivor threatens Juliette if she attempts to open the door.
+- The second Silo is therefore collapsed/largely depopulated, not proven completely uninhabited.
+
+### S02E01 — agriculture / Juliette childhood
+
+- A large agricultural/growing zone is integrated into the Silo's vertical habitation structure.
+- A childhood flashback shows young Juliette visiting the excavation machine in her own Silo with a friend.
+- This establishes early personal familiarity with deep legacy infrastructure, without proving a lower-tunnel/inter-Silo connection.
 
 ### S01E10 — cleaner helmet deception / exterior truth
 
@@ -226,7 +276,7 @@ Observed direct anchors include:
 
 | ID | Hypothesis | Confidence | Status |
 |---|---|---:|---|
-| H0 | Juliette’s Silo е проектирана survival/habitation unit within a larger multi-Silo system/complex. | H | Strongly Strengthened / Refactored |
+| H0 | Juliette’s Silo е проектирана survival/habitation unit within a larger multi-Silo system/complex. | VH | Strongly Strengthened / Refactored |
 | H1 | Exterior visual-information pipeline-ът се манипулира умишлено; cleaner helmet-ът presents a false lush visual layer. | VH | Confirmed / Refactored |
 | H2 | Зелената гледка за cleaners е обективно реална. | VL | Rejected |
 | H3 | Barren exterior е substantially real, а lush cleaner view е false overlay/simulation-like layer. | VH | Confirmed |
@@ -240,7 +290,7 @@ Observed direct anchors include:
 | H11 | Classified lower tunnel води към undisclosed lower/internal system. | M | Strengthened |
 | H12 | Pact-forbidden tunnel system е същата или пряко свързана структура с `CLASSIFIED` tunnel-а от HDD 18. | H | Active |
 | H13 | George е намерил door-а / входа към нея при flooded bottom. | H | Active |
-| H14 | Cleaner mortality materially depends on suit sealing/material configuration; Juliette’s alternate tape and survival strongly implicate the seal. | VH | Strongly Strengthened / Refactored |
+| H14 | Cleaner mortality materially depends on suit sealing and breathing-support integrity; Juliette’s alternate tape, survival and S02E01 breathing failure strongly implicate this combined pathway. | VH | Strongly Strengthened / Refactored |
 | H15 | `SILO YEAR 96/97` и mayor journals използват един и същ post-Rebellion calendar. | H | Active |
 | H16 | Current order uses concealed/hidden infrastructure and deliberately keeps selected spaces/layers outside normal access. | H | Strengthened |
 | H17 | Sims/Judicial-associated network има coercive/investigative capability, lethal enforcement, narrative control, privileged relic access and direct surveillance command. | VH | Strengthened |
@@ -260,11 +310,17 @@ Observed direct anchors include:
 | H31 | Reproductive selection was used for selective lineage suppression against Flamekeeper / knowledge-preserving family lines. | H | Active |
 | H32 | Flamekeeper knowledge/history survived through family/social networks and intergenerational transfer of relics. | H | Active |
 | H33 | Bernard/IT occupies a privileged hidden-control layer with classified knowledge/access and demonstrated command authority over surveillance personnel and Sims in at least some matters. | H | Strongly Strengthened / Refactored |
-| H34 | Standard cleaning-suit tape is intentionally or systematically inferior, while Juliette’s alternate tape materially improves seal integrity and survival. | H | Active |
+| H34 | Standard cleaning-suit tape is intentionally or systematically inferior; possible effects include external contaminant ingress, faster breathing-gas loss, or both. | H | Active / Refactored |
+| H35 | S02E01 historical rebellion sequence depicts the second Silo later entered by Juliette. | VH | Confirmed / Refactored |
+| H36 | Outside lethality is primarily caused by an airborne / atmosphere-borne environmental hazard. | H | Active / Strengthened |
+| H37 | Concealed mirror-camera surveillance is part of a standardized multi-Silo control architecture across at least two Silos. | H | Strongly Strengthened |
+| H38 | IT is a standardized strategic/secured institutional layer across at least some Silos. | H | Active |
 
 ---
 
-## Surveillance / privileged-control model after S01E10
+## Surveillance / privileged-control model after S02E01
+
+S02E01 adds a second-Silo mirror camera and strategic IT strongpoint. This supports standardized design across Silos, while the Bernard/Sims hierarchy below remains specific to Juliette's original Silo.
 
 ```text
 mirror cameras / archived feeds / control-room infrastructure
@@ -309,7 +365,7 @@ This is stronger than a false narrative after the fact: the disputed/false claim
 
 ---
 
-## Historical-erasure model after S01E10
+## Historical-erasure model after S02E01
 
 ```text
 PRE-SILO HISTORY
@@ -367,32 +423,36 @@ Historical targeting purpose against Flamekeeper family lines remains testimony-
 
 ---
 
-## Immediate watch targets за S02E01
+## Immediate watch targets за S02E02
 
-- what physical lock/system the key marked `18` opens;
-- whether key `18` is meaningfully related to HDD 18 or only numerically coincidental;
-- exact technology/source of the false lush helmet layer;
-- whether the public barren display is a direct live feed or still processed;
-- exact environmental lethal factor outside;
-- exact suit/tape failure mechanism and whether standard tape is deliberately inferior;
-- who designed/maintains the cleaning deception;
-- how many Silos exist and whether they are centrally coordinated;
-- whether each circular surface installation corresponds to an inhabited/active Silo;
-- identity/location of the distant ruined skyline;
+- identity and institutional role of the second-Silo IT survivor;
+- how the survivor remained alive and supplied;
+- exact number/designation of the second Silo;
+- whether Juliette's original Silo is actually `18`;
+- whether key `18`, HDD 18 and Silo numbering have any real common identifier;
+- who Russell is and what he allegedly lied about;
+- exact environmental lethal agent outside;
+- toxin/chemical vs aerosol/particulate vs pathogen or another airborne mechanism;
+- exact suit breathing-support architecture;
+- whether standard tape causes contaminant ingress, breathing-gas loss, or both;
+- source and scope of residual electrical power in the second Silo;
+- cause and timeline of the second Silo flooding;
+- whether the second Silo has a Bernard-equivalent privileged IT/control role;
 - whether Silos communicate with one another;
-- Bernard’s exact authority over Sims, Judicial, IT and the Mayor role;
-- who, if anyone, sits above Bernard;
-- what information Bernard knows about the multi-Silo system;
-- exact scope and retention of surveillance archives;
-- purpose of the Janitorial ROTA and whether it is genuine cleaning scheduling, operational cover, or both;
-- exact function of Level 144 ventilation / atmosphere-control infrastructure;
-- Syndrome cause, diagnosis, treatment and institutional consequences;
-- exact symptom wording on clearer official material;
-- lower tunnel/door relationship to the newly confirmed multi-Silo landscape;
-- whether hidden lower infrastructure connects Silos physically.
+- whether a current central authority exists above individual Silos;
+- exact total Silo count and operational status of neighboring installations;
+- relation of lower tunnel/door architecture to the multi-Silo system;
+- whether physical inter-Silo connections exist;
+- what the second-Silo rebellion reveals about the official Rebellion narrative in Juliette's Silo;
+- exact purpose and history of the excavation machine.
 
 Виж също:
 
+- `docs/episodes/S02E01.md`
+- `docs/evidence/S02E01-other-silo-rebellion.md`
+- `docs/evidence/S02E01-outside-hazard-suit-breathing.md`
+- `docs/evidence/S02E01-cross-silo-surveillance-it.md`
+- `docs/evidence/S02E01-power-flooding-survivor.md`
 - `docs/episodes/S01E10.md`
 - `docs/episodes/S01E09.md`
 - `docs/episodes/S01E08.md`
