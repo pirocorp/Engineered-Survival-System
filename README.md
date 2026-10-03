@@ -279,26 +279,37 @@ Confidence не е математическа вероятност и не за�
 
 Ако нова информация опровергава само част от theory, предпочитаме **refactor**, вместо да я защитаваме на всяка цена.
 
-## Текущи competing models за външния свят
+## Текущ модел за външния свят
 
-След S01E07 все още не избираме окончателно една версия:
+След S01E10 основната visual ambiguity е разрешена:
 
-1. **Lush exterior is real** — public display-ът е false/manipulated.
-2. **Barren exterior is substantially real** — cleaner helmet view е overlay/simulation.
-3. **Neither is fully authentic** — и двата visual channels са processed representations.
+1. **Lush cleaner view is false** — helmet-ът показва manipulated / overlay-like visual layer.
+2. **Barren exterior is substantially real** — след отпадането на false layer Juliette вижда devastated terrain.
+3. **Multiple Silo installations exist** в surrounding landscape.
+4. В далечината се вижда **ruined / city-like skyline**, но identity/location не са установени.
 
-Systematic star-like movement прави public night state по-сложен/dynamic, но не го authenticates като live physical sky.
+Все още са unresolved exact helmet-rendering technology, atmospheric hazard, exact relation между public display и raw exterior feed, броят/статусът на останалите Silos и identity-то на distant skyline.
 
 ## Текущ architectural model
 
 ```text
-LEVEL 1 / UP-TOP ?
-        │
-        ├─ Sheriff's Department ?
-        └─ secure airlock / cleaning access ?
+EXTERIOR
+  ├─ barren terrain
+  ├─ multiple neighboring Silo installations
+  └─ distant ruined / city-like skyline
         │
         ▼
-LEVEL 8 → 9 → 12 → ~14 JUDICIAL → 17 → 26 → 27 → 29
+SURFACE / CLEANING EXIT
+        │
+        ▼
+LEVEL 1 / UP-TOP ?
+        │
+        ├─ Sheriff's Department / holding
+        ├─ Cell 3
+        └─ cleaning airlock opposite Cell 3
+        │
+        ▼
+LEVEL 8 → 9 → 12 → ~14 JUDICIAL → 17 → 23 → 26 → 27 → 29 → 30
         │
         ▼
 LEVEL 50 / MIDS
@@ -306,16 +317,16 @@ LEVEL 50 / MIDS
         ▼
 DOWN-DEEP
         │
-        │  144 inhabited levels total
         ▼
-STRUCTURAL BOTTOM / CAP
+LEVEL 144 / BOTTOM
+        ├─ major ventilation / air-handling infrastructure
+        └─ relation to lower hidden construction layer ?
         │
         ▼
-PACT-FORBIDDEN PRE-REBELLION TUNNEL
+PACT-FORBIDDEN PRE-REBELLION TUNNEL / LOWER LAYER ?
         │
         ▼
 SUB-SILO CONSTRUCTION CAVITY
-        │
         ├─ excavation machine
         ├─ George cache / PEZ trail
         └─ flooded bottom
@@ -323,7 +334,7 @@ SUB-SILO CONSTRUCTION CAVITY
                └─ reported short tunnel + door ?
 ```
 
-Question marks означават strong spatial inference, не single-frame direct confirmation.
+Question marks означават strong spatial inference или unresolved relation, не single-frame direct confirmation.
 
 ## Workflow след всеки епизод
 
@@ -352,6 +363,8 @@ episode/S01E04
 episode/S01E05-analysis
 episode/S01E06-analysis
 episode/S01E07
+episode/S01E09-analysis
+episode/S01E10-analysis
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -361,4 +374,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S01E08`
+**Следваща knowledge boundary:** `S02E01`
