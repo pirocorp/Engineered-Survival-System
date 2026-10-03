@@ -31,7 +31,7 @@ Cleaner behavior engineered through perception → **VH / Strongly Strengthened*
 Cleaner mortality materially depends on suit/helmet/seal configuration → **VH / Strongly Strengthened / Refactored**.
 
 ### H34
-Standard cleaning tape may be systematically or deliberately inferior while alternate tape preserves seal integrity → **H / Active / Strongly Supported**.
+Standard cleaning tape may be systematically or deliberately inferior while alternate tape preserves seal integrity → **H / Active**.
 
 ## Causal discipline
 
