@@ -278,6 +278,32 @@
 | E263 | The same medical record uses the date notation `DOB 09/13/116 A.R.`. | Direct visual evidence | VH | Establishes institutional `A.R.` dating; screenshot does not expand the abbreviation. |
 | E264 | S02E03 evidence makes the prior simple single-calendar mapping for `SILO YEAR 96/97`, Rebellion-era dating, `A.R.`, and Jane Carmody's stated age insufficient. | Analytical correction / model-history preservation | VH | H15 must be weakened/refactored rather than silently overwritten. |
 
+| E265 | `THE ORDER` instructs that Mechanical should be blamed in the context of rebellion/crisis. | Institutional doctrine / direct textual or dialogue evidence | VH | Establishes a predefined crisis narrative target rather than evidence-driven culpability. |
+| E266 | Historical writing/markings in Mechanical lead characters to conclude that Mechanical has repeatedly been blamed regardless of where unrest actually began. | Physical historical evidence + character inference | H | Strongly supports a repeated scapegoating pattern; exact number/dates of prior cases remain unresolved. |
+| E267 | The Silo 17 survivor was a child when the rebellion occurred. | Character testimony | VH | Refines the survivor timeline established in S02E03. |
+| E268 | The Silo 17 survivor had been placed/locked in the IT vault from childhood during the rebellion period. | Character testimony | H | Refactors the vault from a simple guard position toward continuity/survival refuge. |
+| E269 | A level marker `119` is directly visible. | Direct visual evidence | VH | Spatial anchor only; no special function is inferred from the number alone. |
+| E270 | The mines extract metal that is used within the Silo. | Worldbuilding / character testimony | H | Establishes a raw-material extraction function. |
+| E271 | Mining is described as dangerous, unpleasant and undesirable work. | Character/social testimony | H | Explains why mining labor has low desirability. |
+| E272 | Penal assignment is used to supply labor for the mines. | Institutional/social practice | H | Supports a penal labor system tied to critical resource extraction. |
+| E273 | Bernard poisons Judge Meadows. | Direct observation | VH | Directly establishes Bernard as the cause of her fatal poisoning. |
+| E274 | Before dying, Meadows asks whether Bernard destroyed a hard drive because it contained material connected to Salvador Quinn. | Direct dialogue / character knowledge | VH | Exact drive identity remains unresolved; do not automatically equate it with HDD 18. |
+| E275 | Salvador Quinn is described as Head of IT roughly 140 years ago, during the Rebellion. | Historical character testimony | H | Adds a privileged-IT figure and Rebellion-era chronology anchor. |
+| E276 | Salvador Quinn wrote a letter that is at least partly encoded. | Character testimony / historical-document claim | H | Contents, cipher and provenance remain unresolved. |
+| E277 | Meadows stopped being Bernard's shadow roughly 25 years ago. | Character testimony / temporal anchor | VH | Establishes the timing of her departure from the IT succession path. |
+| E278 | Around that transition, Meadows disappeared for four days before abandoning the shadow path. | Character testimony | VH | The purpose/location of the four-day absence remains unresolved. |
+| E279 | Bernard possesses/uses an immersive headset showing a pre-Silo natural environment identified in-scene as Monteverde cloud forest, 2018. | Direct visual evidence + scene text/context | VH | Demonstrates a preserved immersive pre-Silo environment. |
+| E280 | Bernard explains that the immersive headset works similarly to the visual system used in cleaner helmets. | Character technical explanation | H | VH that he gives the explanation; exact hardware/software equivalence remains unresolved. |
+| E281 | Bernard gives the immersive headset to Meadows before she dies. | Direct observation | VH | Establishes its use in her final scene; motive is not inferred as fact. |
+| E282 | Bernard prepares a trap around the arrival of Mechanical representatives who expect to meet Meadows. | Direct observation / operational setup | VH | Establishes deliberate staging around the death scene. |
+| E283 | Bernard's plan is to present Mechanical as responsible for Meadows' death. | Character plan / operational inference | H | Strongly supported by scene sequence and the newly revealed scapegoating doctrine. |
+| E284 | The murder/framing is intended to turn public anger against Mechanical. | Character plan / governance mechanism | H | Connects the staged killing to crisis-narrative management. |
+| E285 | Mechanical representatives are directly shown arriving at the staged Meadows scene. | Direct visual evidence + scene continuity | VH | Directly confirms their placement at the scene; the public narrative comes from surrounding context. |
+| E286 | Bernard claims that impeachment protests against Meadows forced him to act. | Character justification | VH | Records Bernard's self-justification, not objective necessity. |
+| E287 | Bernard says he knows Sims is behind the impeachment pressure/protests against Meadows. | Character claim / privileged assessment | H | VH that Bernard makes the claim; independent corroboration remains open. |
+| E288 | Sims actively agitates public sentiment against Mechanical. | Direct political/operational action | VH | Demonstrates independent narrative-shaping power and directly advances the Mechanical blame campaign. |
+| E289 | Large-scale population movement through the Silo's vertical circulation system is shown during escalating unrest. | Direct visual / contextual evidence | H | Movement/scale are directly visible; exact cause, destination and organizer are contextual. |
+
 ## Визуални източници — S01E01
 
 - [Публичният екран с barren exterior](../assets/S01E01/screenshots/exterior-barren-display.webp)
@@ -464,6 +490,18 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [S02E03 visual evidence manifest](../assets/S02E03/MANIFEST.md)
 
 `contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+## Визуални източници — S02E04
+
+Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+
+- [Level 119 marker](../assets/S02E04/screenshots/level-119-marker.jpeg)
+- [Bernard / Monteverde 2018 immersive headset](../assets/S02E04/screenshots/bernard-vr-monteverde-2018.jpeg)
+- [Mechanical representatives at Meadows framing scene](../assets/S02E04/screenshots/mechanical-arrives-meadows-framing-scene.jpeg)
+- [Population movement in Silo stairwell](../assets/S02E04/screenshots/silo-stairwell-population-movement.jpeg)
+- [S02E04 visual evidence manifest](../assets/S02E04/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+
 ## Фокусирани evidence бележки
 
 - [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
@@ -506,3 +544,9 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [S02E03 — Key 18, Server Room and IT vault](evidence/S02E03-key18-server-room-vault.md)
 - [S02E03 — CODE SILO ORANGE and chronology correction](evidence/S02E03-silo-orange-chronology.md)
 - [S02E03 — Cleaner perception, Jane pattern and lost vocabulary](evidence/S02E03-cleaner-perception-pattern.md)
+- [S02E04 — Mechanical scapegoating doctrine](evidence/S02E04-mechanical-scapegoating.md)
+- [S02E04 — Mines and penal labor system](evidence/S02E04-mines-penal-labor.md)
+- [S02E04 — Salvador Quinn, Meadows and hidden Rebellion-era record](evidence/S02E04-salvador-quinn-meadows.md)
+- [S02E04 — Immersive headset and cleaner-helmet technology](evidence/S02E04-vr-cleaner-technology.md)
+- [S02E04 — Meadows murder, Mechanical framing and Sims pressure](evidence/S02E04-meadows-framing-sims.md)
+- [S02E04 — Silo 17 survivor as child in protected vault](evidence/S02E04-silo17-child-vault.md)
