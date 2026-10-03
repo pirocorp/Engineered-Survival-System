@@ -1,30 +1,60 @@
-# Текущо състояние — след S02E05
+# Текущо състояние — след S02E06
 
-**Knowledge boundary:** `S02E05`
+**Knowledge boundary:** `S02E06`
 
 ## Работен модел
 
-S02E05 clarifies two deep structural layers at once: Bernard separates Sims' public Judicial role from the privileged shadow/succession path, while Silo 17 reveals a hardened IT continuity-power architecture capable of surviving main-generator loss and potentially powering recovery systems.
+S02E06 reveals that the Silo's communication environment is not technologically primitive; it is **layered and controllable**. Institutional terminals support direct digital messaging, the control room receives routed field/HUMINT reports, and Bernard/IT can disable Silo-wide radio communications.
 
-Най-големите промени спрямо S02E04 са:
+Най-големите промени спрямо S02E05 са:
 
-1. Bernard removes Sims as Head of Security.
-2. Bernard explicitly tells Sims that Sims will not become his shadow.
-3. Bernard appoints Sims as the new Judge.
-4. Judge therefore appears to be a high public/formal office distinct from Bernard's privileged succession/read-in path; this does not prove every Judge is merely a puppet.
-5. The Silo 17 survivor says IT has its own independent power supply coming from an external/outside source.
-6. A Level 144 pump was destroyed during the Silo 17 rebellion in an attempt to flood Mechanical.
-7. The generator was not restored before the rising water reached it; normal Silo power failed and the water continues to rise.
-8. The survivor wants Juliette to repair a pump and power it from IT's independent supply to stop/slow the flooding.
-9. A newly found Silo schematic shows special/marked lines associated with both IT and Judicial, compatible with a hidden privileged infrastructure backbone but not yet identifiable as power lines.
-10. Level 26 is directly shown again as a repeated spatial anchor.
-11. A scanned handwritten Salvador Quinn letter is found in the archive.
-12. The letter's encoded/ciphered content is specifically at the end, refining the earlier "partly encoded" description.
+1. Sheriff Department terminals have an explicit `DIRECT MESSAGING` function.
+2. The observed inbox includes departmental and named senders such as IT, Office of HR, Mechanical and individual users.
+3. A two-way person-to-person text conversation is directly shown.
+4. This strengthens an institutional intranet-like communications model and weakens any explanation that couriers exist because electronic messaging does not exist.
+5. A control-room screen receives current written field intelligence describing armed-group movement, direction and equipment.
+6. The field report is routed to named operators (`ATTN: DOREEN`, `FOR: DIEGO`).
+7. The exact input device/path used by the field source remains unresolved.
+8. Bernard/IT can interrupt all radio communications in the Silo.
+9. Radio therefore depends on a centrally controllable infrastructure point/path under IT authority.
+10. The strongest communication model now has at least three parallel tiers: physical couriers, institutional digital messaging and centrally controllable radio.
+11. Level **55** becomes a new direct spatial anchor.
+12. Level **120** becomes a new direct spatial anchor.
 
-> **След S02E05 the strongest continuity model is that IT is not merely a privileged information layer: in Silo 17 it also has resilient independent power surviving main-generator failure, and that power can potentially be redirected to critical recovery infrastructure. In parallel, Bernard's treatment of Sims shows that public office (Judge) and hidden succession (shadow) are structurally separate layers.**
+> **След S02E06 communication control becomes a first-class part of the Silo governance architecture: digital messaging exists but observed access is institutional, control-room operators ingest human-source reports, and IT can remove the radio layer entirely. The key question is no longer whether the Silo has communication technology, but who may use each channel and who can disable or observe it.**
 ---
 
 ## Наблюдения с висок confidence
+
+### S02E06 — institutional digital messaging
+
+- A Sheriff Department terminal visibly includes `DIRECT MESSAGING`.
+- Its inbox contains both departmental and named senders, including IT, Office of HR, Mechanical and individual users.
+- A two-way direct text conversation is shown.
+- This proves institutional electronic messaging exists and supports person-addressable communication.
+- It does **not** establish universal digital access for ordinary residents.
+- The continued courier system must therefore be explained by access, endpoint availability, policy, privacy/audit considerations, physical delivery needs or another constraint rather than by absence of digital messaging technology alone.
+
+### S02E06 — control-room field / HUMINT reporting
+
+- A control-room screen receives a current written report describing an armed group's movement, direction and equipment.
+- The report is routed to named operators with `ATTN: DOREEN` and `FOR: DIEGO`.
+- The control-room operational picture therefore includes human-source/field reporting in addition to camera/surveillance inputs.
+- Exact source device, intermediary path, network protocol and authentication remain unresolved.
+
+### S02E06 — IT radio control
+
+- Bernard/IT can interrupt all radio communications across the Silo.
+- This establishes a Silo-wide communications-control capability, not merely passive access to information.
+- The exact technical choke point remains unknown: central repeater, power dependency, switching/gating or another shared infrastructure element are still alternatives.
+- It is not yet established whether IT can selectively block channels/users or only perform broad shutdown.
+
+### S02E06 — Levels 55 and 120
+
+- Level marker **55** is directly shown.
+- Level marker **120** is directly shown.
+- Both are added only as spatial anchors.
+- Level 120's adjacency in numbering to the already observed Level 119 does not by itself establish a shared function.
 
 ### S02E05 — Sims / Judge / shadow
 
@@ -457,15 +487,17 @@ S02E05 clarifies two deep structural layers at once: Bernard separates Sims' pub
 
 Observed direct anchors include:
 
-`8 → 9 → 12 → 14 → 17 → 23 → 26 → 27 → 29 → 30 → 50 → 119 → 144`
+`8 → 9 → 12 → 14 → 17 → 23 → 26 → 27 → 29 → 30 → 50 → 55 → 119 → 120 → 144`
 
 - Level 14 is repeated again in S01E07.
 - Level 26 is direct-confirmed in S01E07 and independently repeated in S02E05.
 - Level 23 is newly direct-confirmed in S01E09.
 - Level 30 is direct-confirmed in S01E08.
+- Level 55 is direct-confirmed in S02E06.
 - Level 119 is direct-confirmed in S02E04.
+- Level 120 is direct-confirmed in S02E06.
 - Level 144 / bottom is established by S01E10 scene context and contains major ventilation / air-handling infrastructure.
-- No special function is inferred from Level 23, Level 26, Level 30 or Level 119 markers alone.
+- No special function is inferred from Level 23, Level 26, Level 30, Level 55, Level 119 or Level 120 markers alone.
 
 ### Exterior / architecture / energy — S01E10 resolved core
 
@@ -512,7 +544,7 @@ Observed direct anchors include:
 | H17 | Sims/Judicial-associated network има coercive/investigative capability, lethal enforcement, narrative control, privileged relic access and direct surveillance command. | VH | Strengthened |
 | H18 | Silo deliberately запазва slow human-powered vertical movement; това поддържа de facto social separation. | VH | Strengthened |
 | H19 | Suicide law отразява collective claim върху individual life/resource. | M | Active |
-| H20 | Unauthorized communication се ограничава, за да остане inter-level communication в controlled channels. | M | Active |
+| H20 | Communication control is better modeled as selective access to channels/technology: institutional digital messaging exists, physical couriers remain a parallel layer, and radio can be centrally cut by IT. | H | Strengthened / Refactored |
 | H21 | Violence around Mayor/Sheriff leadership може да е свързано с appointment/control conflict около Juliette. | M | Strengthened |
 | H22 | Silo зависи от deeper legacy energy infrastructure, която current operators не разбират напълно. | H | Active |
 | H23 | Sheriff succession/staffing е institutional power contest; S01E08 shows Mayor/Sims coordinated coercive action directly against Sheriff Juliette. | H | Strongly Strengthened |
@@ -525,7 +557,7 @@ Observed direct anchors include:
 | H30 | Silo authorities possess/use pharmacological memory suppression as an information-control capability; historical water-delivery testimony may represent an earlier/broader form of the same control family. | VH | Strongly Strengthened / Refactored |
 | H31 | Reproductive selection was used for selective lineage suppression against Flamekeeper / knowledge-preserving family lines. | H | Active |
 | H32 | Flamekeeper knowledge/history survived through family/social networks and intergenerational transfer of relics. | H | Active |
-| H33 | A privileged hidden-control/read-in layer centered on Bernard/IT controls classified cleaning/surveillance knowledge; the `shadow` role is a distinct succession/read-in path separate from the public Judge office. | VH | Strongly Strengthened / Refactored |
+| H33 | A privileged hidden-control/read-in layer centered on Bernard/IT controls classified knowledge and now demonstrably includes communications-control capability; the `shadow` role remains a distinct succession/read-in path separate from the public Judge office. | VH | Strongly Strengthened / Refactored |
 | H34 | Standard cleaning-suit tape is intentionally or systematically inferior, while the alternative "good" tape materially improves seal integrity/survival; possible failure pathways remain contaminant ingress, breathing-gas loss, or both. | VH | Strongly Strengthened / Refactored |
 | H35 | S02E01 historical rebellion sequence depicts the second Silo later entered by Juliette. | VH | Confirmed / Refactored |
 | H36 | Outside lethality is driven by a mobile airborne/dust-borne environmental hazard whose local concentration can temporarily fall/disperse and later return. | H | Strongly Strengthened / Refactored |
@@ -548,10 +580,13 @@ Observed direct anchors include:
 | H53 | Judge is a high public/formal office that Bernard can fill/reassign, while the `shadow` role is a separate privileged IT succession/read-in path. | H | Strongly Strengthened |
 | H54 | IT/vault infrastructure has an independent external power path robust enough to survive normal-generator failure and potentially energize selected critical recovery systems. | H | Strongly Strengthened |
 | H55 | IT and Judicial may connect to a hidden privileged infrastructure backbone distinct from ordinary Silo distribution; exact service type remains unresolved. | M-H | Active |
+| H56 | The Silo uses multiple parallel communication tiers with different access/control properties: physical couriers, institutional digital messaging and radio. | H | Strongly Strengthened / Refactored |
+| H57 | The surveillance/control-room function aggregates human-source field reporting alongside technical surveillance inputs. | H | Active / Strengthened |
+| H58 | IT is a central communications choke point capable of degrading or isolating operational coordination by cutting Silo-wide radio traffic. | H | Active / Strengthened |
 
 ---
 
-## Surveillance / privileged-control model after S02E05
+## Surveillance / privileged-control model after S02E06
 
 S02E02 expands the hidden-control model beyond ordinary internal surveillance.
 
@@ -586,12 +621,55 @@ S02E04 further shows that this layer is **not politically monolithic**: Bernard 
 
 S02E05 makes the hierarchy more concrete: Bernard removes Sims from Security, denies him the `shadow` succession path, and appoints him Judge. Public Judicial authority and privileged IT succession are therefore distinct layers, while Sims' independent political leverage still prevents a simple "Bernard controls everything" model.
 
+S02E06 adds **communications infrastructure control** to Bernard/IT's demonstrated domain. Institutional direct messaging exists, the control room ingests routed field reports, and IT can disable the Silo's radio layer. This does not prove IT reads every message or controls every communication channel, but it establishes a real communications choke-point capability.
+
 It still does **not** establish:
 - the full membership of that layer;
 - whether Sims knows parts of `THE ORDER`;
 - who authored `THE ORDER`;
 - whether a current authority above Bernard/Meadows exists;
 - whether this layer is centrally coordinated across all Silos.
+
+---
+
+## Communications architecture after S02E06
+
+```text
+GENERAL / PHYSICAL LAYER
+residents / departments
+        │
+        ▼
+physical couriers
+        │
+        └─ broad delivery + physical items
+           exact access/privacy role unresolved
+
+
+INSTITUTIONAL DIGITAL LAYER
+authorized terminal users
+        │
+        ▼
+DIRECT MESSAGING
+        │
+        ├─ departments
+        ├─ named individuals
+        └─ routed field reports → control room
+
+
+OPERATIONAL RADIO LAYER
+field / security coordination
+        │
+        ▼
+radio infrastructure
+        │
+        └─ Bernard / IT can disable Silo-wide
+```
+
+This is a layered-access model, not proof that every digital message is monitored or that ordinary residents lack all electronic access.
+
+The crucial new distinction is:
+
+> **communication technology exists; access and controllability are the constrained variables.**
 
 ---
 
@@ -741,35 +819,32 @@ Historical targeting purpose against Flamekeeper family lines remains testimony-
 
 ---
 
-## Immediate watch targets за S02E06
+## Immediate watch targets за S02E07
 
-- how Sims exercises the Judge role after losing Security command;
-- who becomes Head of Security;
-- who Bernard chooses, if anyone, as shadow;
-- whether Judge appointment formally depends on Bernard or reflects emergency authority;
-- exact source/location of Silo 17 IT's independent external power;
-- whether the same independent power architecture exists in Silo 18;
-- exact Level 144 pump function and why destroying it floods Mechanical;
-- exact hydraulic path by which the water reaches the generator;
-- whether Juliette can actually power the recovery pump from IT;
-- whether IT power can be routed broadly or only through predefined emergency circuits;
-- exact meaning/type of the schematic lines associated with IT and Judicial;
-- whether those lines correspond to power, data, communications, control or utility infrastructure;
-- whether the schematic independently corroborates an external privileged backbone;
-- full transcription of Salvador Quinn's handwritten letter;
-- cipher/encoding of the final section;
-- intended recipient and purpose of Quinn's encoded payload;
-- whether Meadows decoded the ending;
-- whether the Quinn letter is directly tied to the hard drive Meadows asked about;
-- what historical fact Quinn was trying to preserve.
+- who has access to `DIRECT MESSAGING`;
+- whether ordinary residents have personal digital accounts/terminals;
+- whether courier use is driven by access limits, physical delivery, privacy/audit concerns, policy or another factor;
+- whether institutional digital messages are logged, searchable or readable by IT/Judicial;
+- whether the Sheriff messaging system and control-room field-report system are the same backend;
+- how field informants submit reports and what devices/accounts they use;
+- whether human-source reports are authenticated and how spoofing/manipulation is prevented;
+- how control-room operators fuse human reports with surveillance camera feeds;
+- exact mechanism by which IT disables Silo-wide radio;
+- whether IT can selectively block departments/frequencies/users or only perform total cutoff;
+- whether any emergency/bypass radio path exists;
+- whether digital messaging remains operational during radio shutdown;
+- whether Judicial shares any radio-control capability;
+- whether radio traffic is centrally monitored or archived;
+- functions/locations associated with Level 55;
+- functions/locations associated with Level 120;
+- all unresolved S02E05 Quinn/power/infrastructure questions remain active unless later evidence resolves them.
 
 Виж също:
 
+- `docs/episodes/S02E06.md`
+- `docs/evidence/S02E06-institutional-messaging.md`
+- `docs/evidence/S02E06-control-room-humint.md`
+- `docs/evidence/S02E06-radio-communications-control.md`
 - `docs/episodes/S02E05.md`
-- `docs/evidence/S02E05-sims-judge-shadow.md`
-- `docs/evidence/S02E05-silo17-power-flooding-recovery.md`
-- `docs/evidence/S02E05-it-judicial-infrastructure-map.md`
-- `docs/evidence/S02E05-salvador-quinn-letter.md`
-- `docs/episodes/S02E04.md`
 - `docs/evidence-ledger.md`
 - `docs/open-questions.md`

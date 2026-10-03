@@ -323,6 +323,16 @@
 | E306 | A similar line/connection on the schematic is associated with Judicial. | Direct visual + dialogue-supported evidence | H | Supports a possible shared privileged infrastructure backbone; does not prove power routing. |
 | E307 | A scanned handwritten letter attributed to Salvador Quinn is found in the archive. | Direct archived-document evidence | VH | Independently corroborates the S02E04 testimony that Quinn left a letter. |
 | E308 | Salvador Quinn's handwritten letter ends with an encoded/ciphered passage. | Direct visual / archived-document evidence | VH | Refines the earlier "partly encoded" description: the protected payload is at the end. |
+| E309 | A Sheriff Department terminal has an explicit `DIRECT MESSAGING` function. | Direct visual evidence | VH | Establishes institutional electronic messaging on the observed terminal. |
+| E310 | The Sheriff terminal inbox shows departmental and named senders, including IT, Office of HR, Mechanical and individual users. | Direct visual evidence | VH | Demonstrates cross-department/person-addressable messaging; does not prove universal resident access. |
+| E311 | A two-way person-to-person text conversation is shown on the Sheriff Department terminal. | Direct visual evidence | VH | Establishes interactive direct messaging, not only one-way notices. |
+| E312 | Level marker `55` is directly visible. | Direct visual evidence | VH | New spatial anchor only; no special function inferred. |
+| E313 | A control-room screen receives a written field report describing current movement, direction and equipment of an armed group. | Direct visual evidence | VH | Supports near-real-time operational field reporting. |
+| E314 | The control-room field report is routed to named recipients/operators, visibly including `ATTN: DOREEN` and `FOR: DIEGO`. | Direct visual evidence | VH | Demonstrates structured digital routing to named operators. |
+| E315 | The control-room operational picture includes a digital human-source / field-reporting channel in addition to technical surveillance inputs. | Strong system inference | H | Exact source device, input path and protocol are not shown. |
+| E316 | Level marker `120` is directly visible. | Direct visual evidence | VH | New spatial anchor only; adjacency to Level 119 does not establish function. |
+| E317 | Bernard/IT can interrupt all radio communications across the Silo. | Direct dialogue / demonstrated institutional capability | VH | Establishes Silo-wide radio-cutoff capability. |
+| E318 | Silo radio communications therefore depend on a centralized control point or infrastructure path that IT can disable. | System inference | H | Exact architecture—repeater, switching, power, gating or another shared dependency—remains unresolved. |
 
 ## Визуални източници — S01E01
 
@@ -533,6 +543,19 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 
 `contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
 
+## Визуални източници — S02E06
+
+Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+
+- [Sheriff direct-messaging UI](../assets/S02E06/screenshots/sheriff-direct-messaging-ui.jpeg)
+- [Sheriff direct-messaging conversation](../assets/S02E06/screenshots/sheriff-direct-messaging-conversation.jpeg)
+- [Level 55 marker](../assets/S02E06/screenshots/level-55-marker.jpeg)
+- [Control-room field informant report](../assets/S02E06/screenshots/control-room-field-informant-report.jpeg)
+- [Level 120 marker](../assets/S02E06/screenshots/level-120-marker.jpeg)
+- [S02E06 visual evidence manifest](../assets/S02E06/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+
 ## Фокусирани evidence бележки
 
 - [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
@@ -585,3 +608,6 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [S02E05 — Silo 17 independent IT power, flooding and pump recovery](evidence/S02E05-silo17-power-flooding-recovery.md)
 - [S02E05 — Silo schematic and hidden IT/Judicial infrastructure](evidence/S02E05-it-judicial-infrastructure-map.md)
 - [S02E05 — Salvador Quinn scanned handwritten letter](evidence/S02E05-salvador-quinn-letter.md)
+- [S02E06 — Institutional digital messaging and communication tiers](evidence/S02E06-institutional-messaging.md)
+- [S02E06 — Control-room digital field/HUMINT reporting](evidence/S02E06-control-room-humint.md)
+- [S02E06 — IT control of Silo radio communications](evidence/S02E06-radio-communications-control.md)

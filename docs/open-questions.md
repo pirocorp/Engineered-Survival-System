@@ -323,8 +323,8 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S01E08 — internal communication / Level 30
 
-233. Кой има access до interdepartmental digital messaging system-а?
-234. Messages archive/search/monitor-ват ли се от surveillance/control layer?
+233. **PARTIALLY NARROWED in S02E06:** Sheriff Department terminal directly shows `DIRECT MESSAGING`, departmental senders and named users. Кой exactly има account/terminal access beyond observed institutional users?
+234. S02E06 strengthens the importance of this question: institutional direct messaging is confirmed, but archive/search/monitor access by IT/Judicial remains unresolved.
 235. `PRIVATE` service/channel какво означава practically?
 236. Level 30 има ли special institutional/social function или е само spatial anchor?
 
@@ -777,6 +777,48 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 547. Meadows decoded ли е final section по време на four-day disappearance?
 548. Quinn letter директно ли е материалът, който Meadows свързва с questioned hard drive?
 549. Encoded ending съдържа ли информация за Rebellion, Silo origin, external infrastructure or another hidden system?
+
+## S02E06 — digital messaging / courier coexistence
+
+550. Ordinary residents имат ли personal digital accounts/terminals, or is access limited to institutional roles?
+551. Защо physical courier network остава необходим при functioning digital messaging — endpoint scarcity, access policy, physical-item delivery, privacy/audit avoidance, resilience, or combination?
+552. Sheriff `DIRECT MESSAGING` same backend ли е as earlier Medical → Martha Walker messaging?
+553. Departmental accounts shared mailboxes ли са, role accounts ли са, or individual-address aliases?
+554. Messages centrally retained/logged ли са and for how long?
+555. IT може ли да read/search/delete/modify institutional messages?
+556. Digital messaging usable ли е across all 144 levels or only through selected terminals/departments?
+557. Какво practically означава previously observed `PRIVATE` service/channel спрямо S02E06 `DIRECT MESSAGING`?
+
+## S02E06 — control-room field / HUMINT reporting
+
+558. Control-room field report same messaging infrastructure ли използва as Sheriff `DIRECT MESSAGING`?
+559. Как field informant-ът physically/digitally submits the report?
+560. Informant-ът има ли dedicated account/device, institutional terminal access, or sends through an intermediary?
+561. Как source identity/authenticity се проверява?
+562. Може ли field report да бъде spoofed, altered or fabricated inside the system?
+563. Какъв е typical latency from observation to control-room display?
+564. Reports automatically route-ват ли се by subject/sector or manually to named operators?
+565. Camera feeds и human-source reports combined ли са в unified operational record?
+566. Doreen и Diego какви exact roles имат в reporting/response chain?
+
+## S02E06 — IT radio cutoff
+
+567. Какъв technical choke point позволява на Bernard/IT да cut-не всички radio communications?
+568. Central repeater, switching/gating layer, controlled power feed, software authorization or another shared dependency ли е?
+569. IT може ли selective да block-ва specific channels, departments or radios, or only Silo-wide shutdown?
+570. Има ли emergency/bypass radio channels independent from IT?
+571. Radio traffic centrally monitored/recorded ли е?
+572. Digital messaging остава ли available while radio is cut?
+573. Physical couriers intended resilience/fallback layer ли са exactly for communication outages?
+574. Judicial има ли independent authority/access да control-ва radio network-а?
+575. Radio infrastructure part ли е от hidden IT/Judicial backbone suggested by the S02E05 schematic?
+576. Radio cutoff може ли да isolate-не specific levels geographically, or only the whole Silo?
+
+## S02E06 — spatial anchors
+
+577. Каква function/location context има Level 55?
+578. Каква function/location context има Level 120?
+579. Level 119 и Level 120 functional cluster ли са, or numbering adjacency only?
 
 ## Основен въпрос на проекта
 
