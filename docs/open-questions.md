@@ -259,13 +259,13 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 185. Каква е exact origin/history на Flamekeepers?
 186. Flamekeepers част от Rebellion ли са, предшественици ли са, allies ли са или отделна group?
 187. Кой historical source потвърждава independently, че Flamekeepers са пазели history/relics?
-188. Кой е въвел relic prohibition и кога спрямо Rebellion?
-189. Relic ban explicit historical-erasure policy ли е в institutional records, или това остава testimony-based purpose?
-190. Какво точно е било добавяно във water supply според memory-suppression account-а?
-191. Има ли medical/chemical/engineering evidence за такъв agent?
-192. Какъв е mechanism-ът: memory formation, recall, cognition или друго?
-193. Practice-ът действително ли predates Rebellion и колко дълго е продължил?
-194. Кой authority е управлявал pre-Rebellion memory-control program-а?
+188. **PARTIALLY NARROWED in S02E08:** Quinn confiscated books as part of the last-Rebellion historical reset. Whether he also authored the formal modern relic prohibition, or later leadership institutionalized it, remains open.
+189. **STRONGLY STRENGTHENED in S02E08:** Quinn's deliberate history reset gives a direct privileged rationale for suppressing historical carriers; whether the modern relic ban is explicitly documented as that policy's maintenance layer remains open.
+190. **PARTIALLY RESOLVED in S02E08:** Bernard describes a chemical/drug placed in the water to make memories fade. Exact compound/formulation remains unknown.
+191. **TESTIMONY CORROBORATED in S02E08:** Bernard independently corroborates the older Flamekeeper water-memory account. Physical chemical/medical evidence and delivery engineering remain open.
+192. **PARTIALLY NARROWED in S02E08:** Bernard describes progressive fading over weeks/months/years of exposure; exact cognitive mechanism (formation, consolidation, recall, broader cognition) remains unresolved.
+193. **TIMELINE REQUIRES RECONCILIATION after S02E08:** earlier Flamekeeper testimony suggested pre-Rebellion water memory suppression, while Bernard specifically attributes a major prolonged dosing program to Quinn's last-Rebellion reset. Earlier use vs Quinn-era implementation remains unresolved.
+194. **PARTIALLY NARROWED in S02E08:** Quinn/IT is explicitly attributed control of the last-Rebellion historical-reset dosing program. Any earlier pre-Quinn memory-control authority remains unresolved.
 
 ## S01E07 — reproductive control / medical chain
 
@@ -605,7 +605,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 426. Complete erasure ли причинява, weakened recall, confusion, or selective amnesia?
 427. Колко дълго трае effect-ът и reversible ли е?
 428. Witnesses from Juliette broadcast действително ли са забравили видяното?
-429. Същата drug family ли е историческото вещество, alleged to have been delivered through water?
+429. **STRONGLY RELEVANT after S02E08:** historical waterborne memory suppression is independently corroborated by Bernard, but identity with the current S02E03 forgetfulness medication remains unresolved.
 430. Кой authorizes targeted memory suppression and как се документира?
 
 ## S02E03 — The Syndrome
@@ -671,9 +671,9 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 469. Кой точно hard drive има предвид Meadows — HDD 18 ли е или друг drive?
 470. Какво конкретно е съдържал drive-ът за Salvador Quinn?
-471. **PARTIALLY NARROWED in S02E05:** scanned handwritten Quinn letter is found and only its ending is encoded; какво гласи full readable body + final protected payload?
+471. **FURTHER NARROWED in S02E08:** one decoded final line is now known — `If you've gotten this far, you already know the game is rigged.` Full readable body + remaining protected payload remain unresolved.
 472. Какъв exact cipher/encoding използва final section на Quinn letter и защо?
-473. Quinn е кодирал писмото, за да го скрие от current authority ли, от future IT leadership ли, or for another reason?
+473. **PARTIALLY NARROWED in S02E08:** decoded wording is explicitly framed for a later reader who has already gotten far enough to know the system is `rigged`; exact intended person/group and reason for encryption remain open.
 474. Meadows успяла ли е да decode-не letter-а?
 475. Какво е правила Meadows през четирите дни, когато е изчезнала преди ~25 години?
 476. Четиридневното изчезване свързано ли е с Quinn, encoded letter, hard drive or another forbidden archive?
@@ -767,16 +767,16 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 ## S02E05 — Salvador Quinn letter
 
 539. Какво е exact transcription на readable handwritten body of Quinn letter?
-540. Какво е exact encoded final string/block?
+540. **PARTIALLY RESOLVED in S02E08:** decoded payload includes `If you've gotten this far, you already know the game is rigged.` Exact full encoded block and remaining decoded text remain open.
 541. Какъв cipher/key/method е използван?
 542. Има ли clue в readable body за decoding key?
 543. Защо само final payload е protected, а основният текст е readable?
-544. Кой е intended recipient на letter-а?
+544. **PARTIALLY NARROWED in S02E08:** wording targets a future reader/investigator who has already penetrated the hidden system/history; exact intended identity or office remains open.
 545. Кога е сканиран letter-ът и кой го е archived?
 546. Bernard виждал/чел ли е този exact archived scan?
 547. Meadows decoded ли е final section по време на four-day disappearance?
 548. Quinn letter директно ли е материалът, който Meadows свързва с questioned hard drive?
-549. Encoded ending съдържа ли информация за Rebellion, Silo origin, external infrastructure or another hidden system?
+549. **PARTIALLY NARROWED in S02E08:** the decoded ending states that `the game is rigged`; which system/domain this refers to and what further information follows remain unresolved.
 
 ## S02E06 — digital messaging / courier coexistence
 
@@ -842,7 +842,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 594. Bernard's **352 years** exact archival figure ли е or rounded conversational age?
 595. 352 years refers specifically to Silo 18 ли, to the whole Silo program, or to another shared construction event?
 596. Всички 50 Silos built simultaneously ли са?
-597. Какво се случва през приблизителните ~212 years между construction и Rebellion?
+597. **PARTIALLY NARROWED in S02E08:** Bernard says multiple rebellions recurred roughly every 20 years before Quinn's final reset. Exact start point, count, causes and placement across the ~212-year pre-last-Rebellion period remain unresolved.
 598. Jane Carmody's ~200-year recording is therefore roughly ~152 years after construction — does later evidence confirm this placement?
 599. Quinn/Rebellion ~140-year anchor exact enough ли е to refine the ~212-year interval?
 600. `A.R.` literally означава ли post-Rebellion era, or does the 352-year anchor point to another epoch?
@@ -870,6 +870,82 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 616. Publicly visible IT power asymmetry ще increase-не ли anti-IT distrust or trigger direct demands for explanation?
 617. Can IT continuity power be routed to non-IT recovery systems in Silo 18 as proposed in Silo 17?
 618. Is the continuity-power topology connected to the hidden IT/Judicial lines shown in S02E05?
+
+## S02E08 — Quinn historical reset / recurring rebellions
+
+619. Колко historical rebellions реално е имало преди Quinn's final reset?
+620. `roughly every 20 years` archival statistic ли е, Bernard summary ли е, or Quinn's own pattern analysis?
+621. Кога започва първият known rebellion спрямо 352-year construction anchor?
+622. Какво точно Quinn смята за causal mechanism между знанието за предишни rebellions и нов rebellion?
+623. Quinn има ли contemporaneous document, в който описва тази diagnosis и reset plan?
+624. Reset strategy описана ли е в `Legacy`, `THE ORDER`, old Pact material or separate archive?
+625. Кой е помогнал на Quinn да cut-не server access и конфискува книгите?
+626. Колко бързо public historical access е премахнат след/по време на Rebellion?
+627. Кои categories of records са унищожени, скрити или само access-restricted?
+628. Rebels знаели ли са, че върху тях ще бъде прехвърлена вината за historical loss?
+629. `~140 years of peace` означава ли zero rebellions, zero major rebellions, or official narrative of peace?
+630. Какви други Quinn-era reforms освен history/memory reset може да са допринесли за тези ~140 years?
+
+## S02E08 — waterborne memory-suppression program
+
+631. Какъв exact chemical/drug Quinn е сложил във водата?
+632. Какъв dose/concentration е използван и how controlled?
+633. Къде physically веществото е добавяно към water system-а?
+634. Всички levels/population еднакво ли са били exposed?
+635. IT/leadership/shadows exempt ли са били or protected somehow?
+636. Memory loss reversible ли е след спиране на exposure?
+637. Drug-ът засяга ли episodic memory, historical recall, learning, emotional salience or broader cognition?
+638. Колко години е продължило dosing-ът?
+639. Кога и защо program-ът е спрян, ако вече не е ongoing?
+640. S02E03 forgetfulness medication same molecule/formulation ли е, descendant ли е, or separate memory-control drug?
+
+## S02E08 — Meadows / Quinn family / old Pact
+
+641. Кои Quinn relatives/descendants Meadows посещава?
+642. Как тези relatives са запазили книги/materials despite historical confiscation and relic enforcement?
+643. Meadows' Quinn-family visit част ли е от known four-day disappearance, or separate event?
+644. Какво конкретно научава Meadows от Quinn's family?
+645. Old `Pact Between the Founders` same text ли има as current Pact?
+646. Има ли annotations, marginalia or hidden notes by Quinn inside the copy?
+647. Handwritten `Salvador Quinn` ownership mark ли е, signature ли е, dedication ли е, or another provenance mark?
+648. Quinn was he merely owner/custodian of the copy, or had a formal role related to foundational doctrine?
+649. Old Pact copy преди или след Quinn's historical reset е придобито/annotated?
+650. Meadows' discovery of this copy допринася ли directly за abandoning Bernard's shadow path?
+
+## S02E08 — Quinn decoded payload
+
+651. Какъв е full decoded final message?
+652. Какво точно Quinn има предвид под `the game`?
+653. `rigged` означава ли governance, Pact enforcement, rebellion cycle, cleaning system, Silo network, Founders' design or another mechanism?
+654. Кой е intended future reader — Head of IT, shadow, independent investigator, Quinn descendant, or anyone capable of decoding?
+655. Какъв cipher/key е използван за final payload?
+656. Как reader-ът трябва да obtain-не decoding key?
+657. Quinn очаквал ли е institutional archive да preserve-не letter-а, or private relic chain?
+658. Remaining decoded text corroborate-ва ли Bernard's account of Quinn's reset, or reveals a deeper contradiction?
+
+## S02E08 — R. Ahundsen / Judge Sims / apple tree
+
+659. Кой е R. Ahundsen?
+660. Каква е връзката между Ahundsen family и Sims?
+661. На чие funeral е присъствал Sims и кога?
+662. `little apple tree` literal reference ли е to a specific tree in the orchard?
+663. Phrase-ът covert code ли е, or dual-purpose literal + code?
+664. Ако е code, какво action/meaning trigger-ва?
+665. Orchard-ът на кое level/department е и кой има access?
+666. Sims' response/behavior direct-confirm-ва ли hidden meaning of the message?
+
+## S02E08 — multiple Silo 17 survivors
+
+667. Колко living inhabitants има в Silo 17?
+668. Original Rebellion-era survivors ли са, descendants ли са, or mixed population?
+669. Къде са living spaces-ите им?
+670. Как са survived food/water/air requirements over generations/decades?
+671. Имат ли access to IT continuity power?
+672. Какво знаят за mass exit, Ron, Russell and the original rebellion?
+673. Каква е връзката им с previously known IT-vault survivor?
+674. Защо са останали hidden from Juliette толкова дълго?
+675. Имат ли own governance/social structure?
+676. Имат ли access до books, archives, Legacy-like knowledge or preserved oral history?
 
 ## Основен въпрос на проекта
 

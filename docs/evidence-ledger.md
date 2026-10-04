@@ -344,6 +344,33 @@
 | E327 | The leaflet asks `What is I.T. hiding?` and urges `Look and See.` | Direct visual evidence | VH | Shows an explicit investigation/truth-seeking counter-narrative. |
 | E328 | During a general Silo 18 power outage, IT remains visibly lit/powered. | Direct observation + scene context | VH | Establishes functional continuity/redundant power for IT in Silo 18; exact source remains unresolved. |
 | E329 | Residents explicitly notice that IT remains lit during the outage and question why. | Direct dialogue / public observation | VH | Makes the privileged power asymmetry publicly observable during crisis. |
+| E330 | The official historical version presents Salvador Quinn as having failed while historical/server records were destroyed or lost during the Rebellion. | Institutional historical claim | VH | Establishes the official version, not its truth. |
+| E331 | Bernard says the official version is false and that Quinn instead saved the Silo. | Privileged character testimony | H-VH | VH that Bernard states it; historical truth remains privileged testimony. |
+| E332 | Bernard says rebellions before Quinn recurred roughly every 20 years and each endangered everyone in the Silo. | Privileged historical testimony | H-VH | Recurrence interval remains Bernard's account. |
+| E333 | Bernard says Quinn concluded that knowledge of previous rebellions contributed to new rebellions. | Bernard's account of Quinn's reasoning | H | Establishes Quinn's attributed diagnosis, not independent causality. |
+| E334 | Quinn deliberately chose to erase public historical continuity to break the rebellion cycle. | Privileged historical testimony | H-VH | Core Quinn historical-reset claim. |
+| E335 | Quinn cut public access to historical server records. | Privileged historical testimony | H-VH | Mechanism of information removal. |
+| E336 | Quinn confiscated books as part of the reset. | Privileged historical testimony | H-VH | Strongly links physical historical carriers to suppression policy. |
+| E337 | Historical destruction/loss was publicly attributed to rebels rather than to Quinn's deliberate policy. | Privileged historical testimony / manufactured official history | H-VH | Directly strengthens the false-official-history model. |
+| E338 | Bernard says Quinn put a chemical/drug into the water that made people forget. | Privileged historical testimony | H-VH | Independently corroborates earlier Flamekeeper water-memory testimony. |
+| E339 | Bernard describes chronic exposure over weeks, months and years causing memories to fade progressively. | Privileged technical/historical testimony | H-VH | Refines the mechanism away from an instantaneous memory reset. |
+| E340 | Bernard attributes the following ~140 years of peace to Quinn's intervention. | Character causal assessment | H | VH that Bernard makes the claim; causality itself remains interpretive. |
+| E341 | Modern relic/book/history suppression is strongly consistent with maintaining Quinn's reset by preventing reconstruction of the erased past. | Strong system inference | H-VH | Fits observed relic enforcement; explicit direct policy linkage remains to be shown. |
+| E342 | Earlier S02E08 scenes suggest Silo 17 may contain additional survivors. | Provisional scene observation | M | Superseded by direct confirmation in E356. |
+| E343 | Judge Sims receives a digital message from `R. AHUNDSEN`. | Direct visual evidence | VH | Extends institutional person-addressable messaging into Sims' Judicial role. |
+| E344 | The message refers to Sims having attended the sender's father's funeral. | Direct textual evidence | VH | Message claim; factual history remains unverified. |
+| E345 | The message asks how a `little apple tree` has grown. | Direct textual evidence | VH | Could be literal, coded, or both. |
+| E346 | A large indoor orchard/agricultural area is directly shown. | Direct visual evidence | VH | Establishes a plausible literal agricultural context. |
+| E347 | The orchard provides a plausible literal referent for the apple-tree wording. | Contextual inference | M-H | Does not resolve whether the message also carries coded meaning. |
+| E348 | While still Bernard's shadow, Meadows visited relatives/descendants of Salvador Quinn. | Historical character testimony | H-VH | Strengthens the Meadows↔Quinn investigation line. |
+| E349 | Meadows searched for surviving books and historical materials connected to Quinn. | Historical character testimony | H-VH | Shows independent historical investigation within the succession layer. |
+| E350 | Quinn's family supplied or led Meadows to an old Pact copy associated with Quinn. | Historical testimony + object context | H-VH | Exact chain of custody remains scene/testimony based. |
+| E351 | The old physical copy is titled `The Pact Between the Founders`. | Direct visual evidence | VH | Does not by itself establish edition chronology or textual difference from the current Pact. |
+| E352 | The copy bears the handwritten name `Salvador Quinn`. | Direct visual evidence | VH | Direct association; authorship/signature function remains unresolved. |
+| E353 | Meadows' investigation directly connects Quinn to surviving physical Pact material from the suppressed historical layer. | Object association + historical context | H-VH | Does not establish Quinn as author or Founder. |
+| E354 | A decoded portion of Quinn's protected final message reads: `If you've gotten this far, you already know the game is rigged.` | Direct decoded-document evidence | VH | Exact referent of `the game` remains unresolved. |
+| E355 | Quinn's wording presumes a future reader who has already penetrated beyond the official narrative before reaching the protected message. | Strong textual inference | H | Supports a second-layer protected-message model. |
+| E356 | Additional living people in Silo 17 are directly shown beyond Juliette and the previously known survivor. | Direct observation | VH | Confirms multiple living inhabitants; total count and survival history remain unresolved. |
 
 ## Визуални източници — S01E01
 
@@ -581,6 +608,20 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 
 E323–E324 are dialogue/chronology evidence; the current screenshot batch does not contain a frame with the explicit `352 years` line.
 
+## Визуални източници — S02E08
+
+Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+
+- [Judge Sims / R. Ahundsen message](../assets/S02E08/screenshots/judge-sims-r-ahundsen-apple-tree-message.jpeg)
+- [Indoor orchard / apple-tree context](../assets/S02E08/screenshots/indoor-orchard-apple-tree-context.jpeg)
+- [Salvador Quinn — The Pact Between the Founders](../assets/S02E08/screenshots/salvador-quinn-founders-pact-copy.jpeg)
+- [Quinn decoded message — game is rigged](../assets/S02E08/screenshots/quinn-decoded-message-game-is-rigged.jpeg)
+- [S02E08 visual evidence manifest](../assets/S02E08/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+
+E330–E341 and E348–E350 are primarily dialogue/privileged-history evidence. E356 directly confirms additional Silo 17 survivors, but no dedicated screenshot of that final reveal is included in the current visual package.
+
 ## Фокусирани evidence бележки
 
 - [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
@@ -640,3 +681,9 @@ E323–E324 are dialogue/chronology evidence; the current screenshot batch does 
 - [S02E07 — 352-year Silo age and chronology refactor](evidence/S02E07-352-year-chronology.md)
 - [S02E07 — Anti-IT physical counter-narrative](evidence/S02E07-anti-it-counter-narrative.md)
 - [S02E07 — Silo 18 IT continuity power](evidence/S02E07-silo18-continuity-power.md)
+- [S02E08 — Salvador Quinn historical reset and recurring rebellions](evidence/S02E08-quinn-historical-reset.md)
+- [S02E08 — Chronic waterborne memory suppression](evidence/S02E08-memory-suppression-water.md)
+- [S02E08 — Meadows, Quinn family and The Pact Between the Founders](evidence/S02E08-meadows-quinn-pact.md)
+- [S02E08 — Quinn decoded message: game is rigged](evidence/S02E08-quinn-decoded-message.md)
+- [S02E08 — R. Ahundsen message to Judge Sims and orchard context](evidence/S02E08-sims-ahundsen-message.md)
+- [S02E08 — Multiple living inhabitants in Silo 17](evidence/S02E08-silo17-multiple-survivors.md)
