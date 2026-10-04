@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S02E07 the secured IT vault is best modeled as a continuity bunker for people, power and privileged knowledge: it includes living space and the `Legacy` library, Bernard places Silo construction 352 years ago, and Silo 18 independently confirms blackout-resilient IT power. At the same time, a physical anti-IT counter-narrative is circulating publicly.**
+> **След S02E08 public historical amnesia is best modeled as an engineered stability intervention: Quinn deliberately broke public historical continuity through record-access removal, book confiscation, false attribution and chronic memory-suppressing dosing through the water, while privileged knowledge remained preserved. The episode also reveals part of Quinn's decoded message and directly confirms multiple survivors in Silo 17.**
 
 ## Език на проекта
 
@@ -16,17 +16,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S02E07**
+**Текуща граница на знанието:** **S02E08**
 
-**Статус на гледане:** **Сезон 2, епизод 7**
+**Статус на гледане:** **Сезон 2, епизод 8**
 
-Не се използва никаква информация от S02E08+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация от S02E09+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S02E07 най-силният работен модел е:
+След S02E08 най-силният работен модел е:
 
-> **The secured IT vault is a continuity architecture, not merely a secure room: it preserves people through residential space, preserves privileged knowledge through `Legacy`, and retains power during broader Silo failure. Bernard's 352-year construction statement also establishes a long pre-Rebellion Silo history, while public anti-IT messaging shows the crisis becoming a contest over institutional truth.**
+> **Historical knowledge loss was engineered rather than accidental: Quinn's reset removed public records and books, weakened memory pharmacologically over time, and concealed the intervention behind a false rebel-blame narrative. Privileged continuity systems preserved selected truth for leadership, creating a controlled monopoly over historical memory.**
 
 Ключови установени линии:
 
@@ -153,6 +153,17 @@
 - the leaflet establishes a circulating anti-IT counter-narrative but not its author/distributor;
 - during a general Silo 18 blackout, IT remains visibly powered and residents explicitly notice the exception;
 - continuity power is therefore independently demonstrated across at least Silos 17 and 18, while exact source equivalence remains unresolved.
+- S02E08 reveals Bernard's privileged alternative history: Quinn did not fail during the Rebellion but deliberately reset public historical continuity;
+- Bernard says pre-Quinn rebellions recurred roughly every 20 years and each threatened the whole Silo;
+- Quinn removed public server access, confiscated books and allowed/caused the historical loss to be blamed on rebels;
+- Bernard says Quinn put a memory-suppressing chemical/drug into the water; chronic exposure over weeks, months and years caused memories to fade;
+- this independently corroborates the earlier Flamekeeper water-memory testimony and strongly strengthens the pharmacological memory-suppression model;
+- Bernard attributes roughly 140 years of peace to Quinn's intervention, while that causal diagnosis remains a privileged interpretation rather than an independent proof;
+- Meadows' earlier Quinn investigation is now tied to Quinn's relatives and surviving books/materials;
+- an old copy titled `The Pact Between the Founders` bears the handwritten name `Salvador Quinn`; association is direct, authorship/Founder status are not;
+- a decoded Quinn payload states: `If you've gotten this far, you already know the game is rigged.`;
+- Judge Sims receives a personal message from R. Ahundsen mentioning a funeral and a `little apple tree`; a large orchard provides a plausible literal referent but coded intent remains unresolved;
+- Silo 17 directly contains multiple living inhabitants, not only the previously known IT-vault survivor.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
@@ -176,6 +187,7 @@
 - [`docs/episodes/S02E05.md`](docs/episodes/S02E05.md) — episode record за S02E05.
 - [`docs/episodes/S02E06.md`](docs/episodes/S02E06.md) — episode record за S02E06.
 - [`docs/episodes/S02E07.md`](docs/episodes/S02E07.md) — episode record за S02E07.
+- [`docs/episodes/S02E08.md`](docs/episodes/S02E08.md) — episode record за S02E08.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
@@ -234,6 +246,12 @@
 - [`docs/evidence/S02E07-352-year-chronology.md`](docs/evidence/S02E07-352-year-chronology.md) — 352-year construction age and pre-Rebellion chronology refactor.
 - [`docs/evidence/S02E07-anti-it-counter-narrative.md`](docs/evidence/S02E07-anti-it-counter-narrative.md) — handwritten anti-IT leaflet and competing crisis narrative.
 - [`docs/evidence/S02E07-silo18-continuity-power.md`](docs/evidence/S02E07-silo18-continuity-power.md) — Silo 18 blackout-resilient IT power and cross-Silo corroboration.
+- [`docs/evidence/S02E08-quinn-historical-reset.md`](docs/evidence/S02E08-quinn-historical-reset.md) — Quinn historical reset, recurring rebellions and official-history reversal.
+- [`docs/evidence/S02E08-memory-suppression-water.md`](docs/evidence/S02E08-memory-suppression-water.md) — chronic waterborne memory suppression and cross-episode corroboration.
+- [`docs/evidence/S02E08-meadows-quinn-pact.md`](docs/evidence/S02E08-meadows-quinn-pact.md) — Meadows' Quinn-family investigation and old `Pact Between the Founders` copy.
+- [`docs/evidence/S02E08-quinn-decoded-message.md`](docs/evidence/S02E08-quinn-decoded-message.md) — decoded Quinn payload and `game is rigged` wording.
+- [`docs/evidence/S02E08-sims-ahundsen-message.md`](docs/evidence/S02E08-sims-ahundsen-message.md) — R. Ahundsen message to Judge Sims and orchard context.
+- [`docs/evidence/S02E08-silo17-multiple-survivors.md`](docs/evidence/S02E08-silo17-multiple-survivors.md) — direct confirmation of multiple living Silo 17 inhabitants.
 - [`docs/open-questions.md`](docs/open-questions.md) — активните въпроси за falsification / future testing.
 - [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — visual evidence от S01E01.
 - [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — selected visual evidence от S01E02.
@@ -263,6 +281,8 @@
 - [`assets/S02E06/MANIFEST.md`](assets/S02E06/MANIFEST.md) — S02E06 visual processing/selection manifest.
 - [`assets/S02E07/screenshots/`](assets/S02E07/screenshots/) — validated selected visual evidence от S02E07.
 - [`assets/S02E07/MANIFEST.md`](assets/S02E07/MANIFEST.md) — S02E07 visual processing/selection manifest.
+- [`assets/S02E08/screenshots/`](assets/S02E08/screenshots/) — validated selected visual evidence от S02E08.
+- [`assets/S02E08/MANIFEST.md`](assets/S02E08/MANIFEST.md) — S02E08 visual processing/selection manifest.
 
 ## Основна директива
 
@@ -461,9 +481,23 @@ Confidence не е математическа вероятност и не за�
 **Derived chronology preserves approximation.** `352 years since construction - ~140 years since Rebellion ≈ 212 pre-Rebellion years` is a strong derived anchor, but approximate testimony inputs are not silently converted into exact calendar dates.
 
 
+
+### Допълнително правило след S02E08
+
+**Privileged historical testimony can overturn an official account without becoming automatically omniscient truth.** Bernard directly identifies the public Quinn story as false and supplies a coherent hidden mechanism, but Quinn's motives and the causal claim that historical memory itself generated rebellions remain tracked as privileged historical testimony.
+
+**Corroborated mechanism ≠ identical substance.** S01E07 water-memory testimony + S02E08 Bernard account strongly establish historical waterborne memory suppression, while S02E03 proves current forgetfulness medication exists. The exact compound identity across eras remains unresolved.
+
+**Historical erasure and historical preservation can coexist by design.** Public records/books/memory may be suppressed while `Legacy` and other privileged systems preserve selected truth. The model is controlled access, not total destruction.
+
+**Association with an old document ≠ authorship.** `Salvador Quinn` handwritten on `The Pact Between the Founders` directly associates him with that copy, but does not establish that he authored the Pact, was a Founder, or changed its text.
+
+**Decoded phrase ≠ decoded system.** `the game is rigged` is direct evidence of Quinn's message, but the exact referent of `the game` remains open.
+
+
 ## Текущ модел за външния свят
 
-След S02E07 основната exterior visual ambiguity остава разрешена. S02E07 does not materially alter the exterior model; its major contributions are IT continuity architecture, protected historical knowledge and chronology:
+След S02E08 основната exterior visual ambiguity остава разрешена. S02E08 does not materially alter the exterior-hazard model; it directly changes the Silo 17 habitation model by confirming multiple living inhabitants:
 
 1. **Lush cleaner view is false** — helmet-ът показва manipulated / overlay-like visual layer.
 2. **Barren exterior is substantially real** — след отпадането на false layer Juliette вижда devastated terrain.
@@ -478,6 +512,7 @@ Confidence не е математическа вероятност и не за�
 11. Silo 17 demonstrates that failure to observe the cleaner's expected death can produce an "outside is safe" belief and mass-exit cascade.
 12. Juliette explicitly identifies the repeated lush visual sequence as the cleaning-behavior trigger.
 13. Bernard demonstrates a standalone immersive headset with a preserved pre-Silo natural environment and explains that it works similarly to cleaner-helmet imagery.
+14. S02E08 directly confirms multiple living inhabitants inside Silo 17 beyond the previously known IT-vault survivor.
 
 Все още са unresolved exact helmet-rendering technology, exact outside lethal agent, exact suit leak pathway, exact source/format of the live cleaner feed, independent confirmation of the 50-Silo count, full Silo-numbering scheme, any current central authority and identity-то на distant skyline.
 
@@ -563,6 +598,7 @@ episode/S02E04-analysis
 episode/S02E05-analysis
 episode/S02E06-analysis
 episode/S02E07-analysis
+episode/S02E08-analysis
 hypothesis/<name>
 model/<name>
 methodology/<change>
