@@ -44,7 +44,7 @@ Unknown:
 - duration of survival;
 - supplies;
 - дали има и други живи хора;
-- relationship to historical IT defenders.
+- връзка с историческите IT defenders.
 
 ## Visual evidence
 
