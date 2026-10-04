@@ -1,55 +1,55 @@
-# S02E08 — Salvador Quinn historical reset and recurring rebellions
+# S02E08 — historical reset на Salvador Quinn и повтарящите се бунтове
 
 **Knowledge boundary:** `S02E08`
 
-S02E08 provides a privileged alternative history for the last Rebellion and for the Silo's historical amnesia.
+S02E08 дава привилегирована алтернативна история за последния Rebellion и за историческата амнезия в Silo.
 
-## Official version
+## Официална версия
 
-The official account presents Salvador Quinn, Head of IT during the Rebellion, as a failure under whose watch the Silo's historical/server records were destroyed or lost during the rebellion.
+Официалният разказ представя Salvador Quinn, Head of IT по време на Rebellion, като човек, който се е провалил, докато историческите/server записи на Silo са били унищожени или загубени.
 
-## Bernard's privileged version
+## Привилегированата версия на Bernard
 
-Bernard says this account is false.
+Bernard казва, че този разказ е невярен.
 
-According to him:
-- Quinn **saved the Silo**;
-- before Quinn, rebellions recurred roughly every twenty years;
-- each rebellion risked everyone in the Silo;
-- Quinn concluded that knowledge of prior rebellions helped reproduce the cycle;
-- Quinn deliberately broke public historical continuity;
-- server access was removed;
-- books were confiscated;
-- blame for historical destruction was placed on the rebels.
+Според него:
+- Quinn **спасява Silo**;
+- преди Quinn бунтовете са се повтаряли приблизително на всеки двадесет години;
+- всеки бунт е поставял всички в Silo в риск;
+- Quinn стига до извода, че знанието за предишните бунтове помага на цикъла да се възпроизвежда;
+- Quinn умишлено прекъсва публичната историческа приемственост;
+- server access е премахнат;
+- книгите са конфискувани;
+- вината за унищожаването на историята е прехвърлена върху бунтовниците.
 
 ## H61
 
-**Quinn implemented a deliberate historical-reset strategy intended to break a recurring ~20-year rebellion cycle by preventing the population from retaining/reconstructing the history of earlier rebellions.**
+**Quinn прилага умишлен historical-reset strategy, предназначен да прекъсне повтарящ се ~20-годишен rebellion cycle, като не позволява населението да запазва/реконструира историята на предишните бунтове.**
 
 **Confidence:** H–VH  
 **Status:** Active / Strongly Supported by Bernard's privileged testimony.
 
-## H7 update
+## Update на H7
 
-The project previously tracked the Rebellion-centered story of historical knowledge loss as incomplete/misleading.
+Проектът вече следеше Rebellion-centered историята за загубата на историческо знание като непълна/подвеждаща.
 
-S02E08 strongly upgrades that:
+S02E08 силно надгражда това:
 
-> Bernard explicitly says the public historical story is false and attributes the knowledge destruction to Quinn's deliberate intervention rather than rebel success.
+> Bernard изрично казва, че публичната историческа версия е невярна и приписва унищожаването на знанието на умишлената намеса на Quinn, а не на успех на бунтовниците.
 
-This remains privileged testimony rather than independent contemporaneous documentation.
+Това остава privileged testimony, а не независимо contemporaneous documentation.
 
-## Causality boundary
+## Граница на causal извода
 
-Bernard also credits Quinn's intervention with ~140 years of peace.
+Bernard също приписва на намесата на Quinn ~140 години мир.
 
-That proves Bernard's causal interpretation, not independently that historical knowledge alone caused the previous rebellions.
+Това доказва causal interpretation на Bernard, но не и независимо, че само историческото знание е причинявало предишните бунтове.
 
-Potential alternatives remain:
-- other Quinn-era reforms;
-- changed surveillance/governance;
+Възможни алтернативи остават:
+- други Quinn-era reforms;
+- променено surveillance/governance;
 - demographic effects;
-- memory suppression itself;
-- unknown system changes.
+- самото memory suppression;
+- неизвестни промени в системата.
 
-The episode supports a multi-mechanism intervention, not a clean causal experiment.
+Епизодът подкрепя multi-mechanism intervention, а не чист causal experiment.
