@@ -15,7 +15,7 @@
 - source subtitles, glare/reflections и visible scene content са запазени, където присъстват;
 - не са използвани external или future-episode sources.
 
-## Selected frames
+## Избрани кадри
 
 | Evidence | File | Bytes | Git blob SHA | Notes |
 |---|---|---:|---|---|
