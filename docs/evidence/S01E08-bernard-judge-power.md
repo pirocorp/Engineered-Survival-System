@@ -33,7 +33,7 @@ S01E07 independently established, че Judge Meadows е surveillance subject.
 - Bernard издава order, който тя изпълнява;
 - documentary evidence за IT authority над Judicial;
 - evidence, че Bernard controls/authorizes surveillance над Judge;
-- independent testimony, corroborating fear/leverage.
+- независимо testimony, corroborate-ващо fear/leverage.
 
 ## What would weaken H33
 
