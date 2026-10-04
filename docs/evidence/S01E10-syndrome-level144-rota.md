@@ -26,7 +26,7 @@ Scene context идентифицира дъното като **Level 144**.
 Избраният frame съдържа:
 - large axial fans;
 - vertical vent/duct structures;
-- major air-handling / ventilation machinery.
+- основна air-handling / ventilation machinery.
 
 Това подкрепя значима environmental-control function в долната част, но не и точния ѝ scope или airflow direction.
 
