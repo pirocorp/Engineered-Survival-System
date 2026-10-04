@@ -34,7 +34,7 @@ Judge Meadows също знае за `THE ORDER`, следователно до�
 
 Възможните обяснения как авторите са знаели този pattern включват:
 - empirical knowledge от previous Silo failures;
-- deliberate behavioral/system modelling;
+- целенасочено behavioral/system modelling;
 - both.
 
 Нито едно обяснение още не е direct-confirmed.
