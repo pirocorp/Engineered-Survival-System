@@ -62,7 +62,7 @@ Current candidates include:
 
 Pure external radiation като sole immediate killer е weakened, защото seal/breathing evidence съответства по-добре на ingress/exposure model. Airborne radioactive particulate остава physically possible, но unsupported.
 
-## Boundaries
+## Граници
 
 Do not assert:
 - oxygen tank;
