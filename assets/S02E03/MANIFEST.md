@@ -15,7 +15,7 @@
 - source subtitles, glare/reflections и visible scene content са запазени;
 - не са използвани external или future-episode sources.
 
-## Selected frames
+## Избрани кадри
 
 | Evidence | File | Bytes | Git blob SHA | Notes |
 |---|---|---:|---|---|
@@ -23,7 +23,7 @@
 | E244-E245 | `screenshots/server-room-it-vault.jpeg` | 252369 | `2bd4d6b5940237f4758fc7d148aa26a9d885f7fe` | В SERVER ROOM се намира heavy secured IT vault, което установява path-а key 18 -> Server Room -> vault. |
 | E262-E263 | `screenshots/silo-orange-birth-control-protocol.jpeg` | 319855 | `d6f5c9626fecb733629ce7823d5e89712fdb561a` | Medical record показва CODE SILO ORANGE instructions да не се премахва birth control, докато пациентът вярва, че е премахнат; DOB използва A.R. notation. |
 
-## Evidence boundaries
+## Граници на доказателствата
 
 - E243: сцената установява, че physical key `18` на Bernard се използва за / е свързан с access до `SERVER ROOM`. Exact lock internals не се извеждат отвъд observed access sequence.
 - E244–E245: secured vault е пространствено в Server Room и установява restricted path `key 18 -> Server Room -> vault`.
@@ -32,6 +32,6 @@
 - E264 chronology conflict е text/model evidence и няма dedicated screenshot в този batch.
 - Package-ът не установява visually numbering на Silo 17, 50-Silo count, failed cleaning на Ron, Silo 17 rebellion sequence, memory-suppression drug dialogue или bird-pattern inference на Juliette; те остават dialogue/scene-context evidence, освен ако по-късно не се добавят dedicated frames.
 
-## Contact sheet
+## Контактен лист
 
 `contact-sheet.jpg` е auxiliary navigation asset, а не primary evidence.
