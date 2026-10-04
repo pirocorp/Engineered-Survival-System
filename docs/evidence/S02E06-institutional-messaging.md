@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S02E06`
 
-## Direct evidence
+## Директни доказателства
 
 Terminal в Sheriff Department видимо включва `DIRECT MESSAGING`.
 
