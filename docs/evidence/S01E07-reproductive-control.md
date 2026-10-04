@@ -4,9 +4,9 @@
 
 ## Doctor confession
 
-Juliette’s father personally admits that he told selected female patients their contraceptive implants had been removed while actually leaving them in place.
+Бащата на Juliette лично признава, че е казвал на selected female patients, че contraceptive implants са им премахнати, докато всъщност ги е оставял на място.
 
-This independently corroborates Allison’s S01E01 physical discovery.
+Това independently corroborate-ва physical discovery на Allison от S01E01.
 
 ```text
 Allison finds retained implant
@@ -18,38 +18,38 @@ covert reproductive-control mechanism confirmed
 
 ## H5 update
 
-> **H5 — Silo uses covert reproductive control through medical deception: selected women receive false confirmation of implant removal while contraception remains active.**
+> **H5 — Silo използва covert reproductive control чрез medical deception: selected women получават false confirmation за премахване на implant, докато contraception остава active.**
 
 **Confidence:** VH  
 **Status:** Confirmed
 
 ## “I had no choice”
 
-Juliette’s father says he had no choice.
+Бащата на Juliette казва, че не е имал избор.
 
-This is his **self-justification / character claim**, not independent proof that refusal was impossible.
+Това е негова **self-justification / character claim**, а не independent proof, че отказът е бил невъзможен.
 
-Still unknown:
-- who issued orders;
-- how patients were selected;
-- what doctors knew about ultimate purpose;
-- consequences for refusal.
+Все още е неизвестно:
+- кой е издавал orders;
+- как са били selected пациентите;
+- какво са знаели doctors за ultimate purpose;
+- какви са били consequences при отказ.
 
 ## Flamekeeper family-line suppression
 
-Historical testimony states reproductive control was used to prevent Flamekeepers / their descendants from continuing family lines, allowing those lineages to die out over generations.
+Historical testimony твърди, че reproductive control е използван, за да попречи на Flamekeepers / техните descendants да продължат family lines, така че тези lineages да изчезнат през поколенията.
 
 ## H31 — NEW
 
-> **Silo reproductive-selection system was used for selective lineage suppression against Flamekeeper / knowledge-preserving families.**
+> **Silo reproductive-selection system е използвана за selective lineage suppression срещу Flamekeeper / knowledge-preserving families.**
 
 **Confidence:** H  
 **Status:** Active
 
-The mechanism is confirmed; the historical targeting purpose remains testimony-based.
+Механизмът е confirmed; historical targeting purpose остава testimony-based.
 
 ## Juliette’s accusation
 
-Juliette believes her father betrayed her mother.
+Juliette вярва, че баща ѝ е предал майка ѝ.
 
-This is a character belief/accusation. Objective betrayal, exact act and motive remain unresolved.
+Това е character belief/accusation. Objective betrayal, точният act и motive остават unresolved.
