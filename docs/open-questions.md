@@ -140,7 +140,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 100. Всички mirrors ли са instrumented, или само selected locations?
 101. Кой събира, indexes и stores dossiers и video-surveillance logs?
 102. Кой formally owns centralized surveillance infrastructure beyond Sims's confirmed operational command: Judicial, IT или separate hidden authority?
-103. Колко widespread е network coverage — targeted residents, broad residential coverage или near-total internal monitoring?
+103. Колко широко е покритието на мрежата — насочено наблюдение на определени жители, широко жилищно покритие или почти пълно вътрешно наблюдение?
 104. Как се избират targets и кой authorizes monitoring?
 105. Sheriff има ли access до surveillance data, или Juliette вижда само selected institutional material?
 106. Residents знаят ли scope-а на surveillance и има ли official/legal cover за него?
@@ -244,7 +244,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 177. Travel guide-ът local relic ли е или може да е imported/collected object?
 178. Има ли second independent clue, който свързва Silo с Georgia, USA?
-179. Ако бъде намерен second clue, constrains ли той state-level location или само broader pre-Silo provenance?
+179. Ако бъде намерена втора следа, ограничава ли тя местоположението до конкретен щат или само до по-широк pre-Silo произход?
 180. Tybee Island / Chattahoochee references имат ли direct relevance към Silo location или са merely guide content?
 
 ## Social / cultural system
@@ -318,7 +318,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 228. Rabbit и Jacob имат ли established same diagnosis или само analogous heart problem?
 229. Защо magnification capability е restricted — biomedical discovery ли е target, или това е only one consequence of broader capability control?
 230. Кой е открил microscope-а и има ли surviving surveillance recording?
-231. Restricted record-ът каква exact процедура/санкция документира?
+231. Каква точна процедура/санкция документира ограниченият запис?
 232. Father предоставял ли е информация за mother по други линии, дори ако microscope discovery може да се обясни чрез surveillance?
 
 ## S01E08 — internal communication / Level 30
@@ -831,7 +831,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 586. 352-year construction figure sourced ли е from `Legacy`?
 587. `THE ORDER` част ли е от `Legacy`, separate controlled doctrine ли е, or both?
 588. `Legacy` curated/censored ли е, and who controls additions/removals?
-589. **В ЗНАЧИТЕЛНА СТЕПЕН РАЗРЕШЕНО in S02E09:** Silo 17 vault директно съдържа large preserved knowledge environment, функционално аналогична на `Legacy`; official `Legacy` label за Silo 17 остава unconfirmed.
+589. **В ЗНАЧИТЕЛНА СТЕПЕН РАЗРЕШЕНО в S02E09:** vault-ът на Silo 17 директно съдържа голяма запазена среда от знания, функционално аналогична на `Legacy`; официалното обозначение `Legacy` за Silo 17 остава непотвърдено.
 590. **СИЛНО ЗАСИЛЕНО в S02E09:** широкото знание на оцелелия във vault-а на Silo 17 има пряк правдоподобен източник в показаната архивна/библиотечна среда; точната история на придобиването на знанието остава неустановена.
 591. За колко occupants са предназначени residential vault compartments и за какъв период?
 592. Vault разполага ли с независими запаси от food/water/air, достатъчни за long-duration continuity?
@@ -963,7 +963,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 685. **ЧАСТИЧНО РАЗРЕШЕНО:** разкриването на защитеното долно знание е заявено като достатъчно условие; какви други точни условия за задействане съществуват?
 686. Защо разкриването на скритото долно знание е достатъчен trigger за отравяне на целия Silo?
 687. Как system-ът detect-ва или доказва такова disclosure, така че да activate-не safeguard-а?
-688. **РАЗРЕШЕНО in S02E10:** physical effect е poison delivery в Silo с capacity да kill-не whole local population.
+688. **РАЗРЕШЕНО в S02E10:** физическият ефект е доставяне на отрова в Silo със способност да унищожи цялото местно население.
 689. **В ЗНАЧИТЕЛНА СТЕПЕН РАЗРЕШЕНО in S02E10:** demonstrated/stated target scope е local Silo population; остава дали system има broader cross-Silo modes.
 690. **ЧАСТИЧНО РАЗРЕШЕНО в S02E10:** физическото блокиране е възможно и е заявено като успешно в Silo 17; остава дали Head of IT има разрешена възможност за override/изключване.
 691. Quinn знаел ли е actual poison-pipe mechanism, Level 14 interface и blocking method, или само existence/risk?
@@ -1016,7 +1016,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 723. Level 14 interface еднакъв ли е във всички Silos?
 724. Как parents на Silo 17 survivor-а са discovered safeguard pipe-а?
 725. Как точно са го blocked — valve, physical seal, cutting, rerouting или друг mechanism?
-726. Може ли remote/controller layer да bypass-не или restore-не blocked safeguard path?
+726. Може ли дистанционният/контролният слой да заобиколи или възстанови блокирания път на safeguard-а?
 727. Скритият долен събеседник/система същата власт ли е, която контролира задействането на safeguard-а?
 728. Juliette's claimed stopping method същият ли е като Silo 17 block method или independent approach?
 
@@ -1042,7 +1042,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 ## S02E10 — Georgia / PEZ provenance
 
 742. Защо Georgia се повтаря като pre-Silo anchor — travel guide relic + 15th-district Congressman?
-743. Georgia geographic location на Silos ли подсказва, character provenance ли, или друг design/origin relationship?
+743. Подсказва ли Georgia географско местоположение на Silos, произход на персонажи или друга връзка с дизайна/произхода?
 744. S02E10 yellow-duck PEZ gift exact same physical object ли е като earlier Silo-era `YELLOW, PLASTIC, BLUE HANDLE` relic?
 745. Ако е същият предмет, каква е веригата на притежание от pre-Silo жената до скрития/rеlic контекст в ерата на Silo?
 746. Може ли произходът на PEZ да свърже конкретни Основатели/pre-Silo участници с по-късното население на Silo или с мрежата за съхраняване на реликви?
