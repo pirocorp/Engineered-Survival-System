@@ -1,23 +1,49 @@
-# Текущо състояние — след S03E01
+# Текущо състояние — след S03E02
 
-**Knowledge boundary:** `S03E01`
+**Knowledge boundary:** `S03E02`
 
 ## Работен модел
 
-S03E01 показва, че три месеца след завръщането на Juliette в Silo 18 **старият control architecture е запазен, но персоналът на върха е сменен**. Juliette е Mayor, докато семейство Sims държи доминиращ operational/control layer; тя остава под постоянен surveillance и е подложена на deliberate memory suppression.
+S03E02 materially refactor-ва memory-control architecture: pre-Silo medical evidence показва **selective retrieval suppression + narrative conditioning**, при което real memories могат да останат налични, но temporarily inaccessible. Това прави `memory erasure` твърде силна формулировка за Juliette и променя best-fit model-а към retrieval blocking, false autobiographical replacement narrative и surveillance за spontaneous recovery.
 
-Memory-control линията вече е директно установена: Juliette не помни Sims, не помни разговора си с Bernard и задачата да спре safeguard-а, получава false `bunker` replacement narrative и computer/system-ът знае за pharmacological suppression-а, тревожи се от връщането на спомените и иска дозата да бъде удвоена.
+Cross-era parallel-ът е силен: pre-Silo doctor-ът описва selective restore/omit, repeated telling of the patient's own story, ability to implant/suggest a lie и rapid return на real memories; Juliette получава `vitamins`, false `bunker` story, monitoring и dosage escalation. Exact same drug/protocol lineage все още не е direct-confirmed.
 
-Computer/system-ът също заявява, че ситуацията е **`beyond The Order`**, което показва supervisory layer, способен да оценява local Silo state извън стандартния Head-of-IT playbook. Връзката му с hidden lower contact/system от S02E09 е силно strengthened candidate, но exact identity все още не е доказана.
+Computer/system-ът вече демонстрира не само treatment awareness, а **semantic situational assessment**: знае за covert note-а, знае за deception-а към Mrs Sims и го оценява като concerning. Допълнително показва explicit red risk line срещу blue stabilizing-value line за Juliette и дефинира threshold, след който тя вече не е useful.
 
-Паралелно pre-Silo Washington линията идентифицира Georgia congressman-а като **Daniel Keen**. Сестра му участва в retaliatory operation срещу Iran след alleged dirty-bomb attack; при ~15 000 m multiple aircraft и вече изстреляни missiles са засегнати от общ anomalous disruption, докато сестрата оцелява.
+System-ът същевременно оценява sudden removal на Juliette като potentially catastrophically destabilizing и планира `vitamins` във water supply преди removal да стане necessary. Това е first direct evidence за population-scale pharmacological contingency, свързан с current Juliette crisis.
 
-Hidden-lower access state също се променя: tunnel-ът под Silo 18 е запечатан, Lukas е missing, а официалното обяснение за sealing-а е safety/anti-youth-access. Juliette получава covert note през храната с instruction chain: `Want to know the truth` → bowl upside down → marketplace on Level 2 → `BURN THIS`.
+Covert physical note network продължава с note #2 и note #3. S03E02 коригира S03E01 inference: physical notes могат да bypass-ват ordinary/local communication controls, но не са доказано invisible за supervisory computer/system.
 
-> **След S03E01 най-силният model е: public/formal governance и privileged IT/surveillance layer продължават, но над тях се вижда active supervisory computer/system, който има situational awareness и operational influence върху memory-control protocol. Exact identity, location и relation към safeguard controller остават unresolved.**
+> **След S03E02 най-силният model е: supervisory computer/system има context-aware behavioral assessment и operational influence върху targeted и contemplated population-scale memory control. Juliette се третира като simultaneous stabilizing asset и protected-knowledge risk. Exact system identity, objective function, drug lineage и long-term program goal остават unresolved.**
 ---
 
 ## Наблюдения с висок confidence
+
+### S03E02 — pre-Silo memory mechanism
+
+- Treating doctor direct-confirm-ва selective restore/omit capability за memories.
+- Recovery process включва repeated autobiographical narrative.
+- False autobiographical story може да бъде внушена.
+- False replacement narrative изисква time/effort.
+- Real memories се връщат бързо и остават налични, но temporarily inaccessible.
+- Best-fit mechanism е retrieval/access suppression + narrative conditioning, не proven destruction.
+
+### S03E02 — supervisory computer/system
+
+- System-ът знае за covert note activity и deception към Mrs Sims.
+- Deception decision е explicitly evaluated as concerning.
+- Juliette е modeled чрез red risk line и blue stabilizing-value line.
+- Crossing threshold означава, че Juliette вече не е useful.
+- Sudden removal е modeled като potentially catastrophically destabilizing.
+- System-ът wants `vitamins` deployed through water supply before removal becomes necessary.
+- This is population-scale contingency planning, not merely individual treatment monitoring.
+
+### S03E02 — covert notes
+
+- Note #2 насочва Juliette към first Silo Council meeting в cafeteria.
+- Note #3 е direct-confirmed, но exact transcription остава unresolved.
+- Adjacent-shot subtitles are excluded from note #3 transcription.
+- Physical covert channel persists, but is not proven invisible to supervisory system.
 
 ### S03E01 — Juliette / post-return state
 
@@ -796,18 +822,23 @@ Observed direct anchors включват:
 | H75 | Founders' safeguard е fail-deadly whole-Silo termination architecture, предназначена да може да унищожи local population при определени conditions. | H-VH | New / Active |
 | H76 | Alleged Iranian radiological attack в pre-Silo political narrative може да е fabricated/manipulated pretext; reality, attribution и institutional authorship остават unresolved. | M | New / Candidate |
 | H77 | S02E10 yellow-duck PEZ gift може да е same-object/provenance ancestor candidate за earlier Silo-era yellow-plastic/blue-handle PEZ relic. | M-H | New / Candidate |
-| H78 | Juliette е под deliberate memory-control program: pharmacological suppression + false replacement narrative + surveillance за recovery на protected memories. | VH | New / Strongly Supported |
-| H79 | Computer/system-ът има current situational awareness и operational influence върху memory-control protocol, включително dosage escalation. | H-VH | New / Strongly Supported |
+| H78 | Juliette е под deliberate memory-control program: pharmacological retrieval suppression/blocking + false replacement narrative/conditioning + surveillance за recovery на protected memories. | VH | Refactored / Strongly Supported |
+| H79 | Computer/system-ът има current semantic situational awareness и operational influence върху memory-control protocol, including dosage escalation, deception-risk assessment и population-level contingency planning. | VH | Strengthened / Strongly Supported |
 | H80 | S03E01 computer/system и S02E09 hidden lower contact са interfaces към една underlying network/controller или към тясно свързани supervisory systems. | H | New / Strengthened Candidate |
 | H81 | `The Order` не е най-високият effective control layer; съществува supervisory layer, който може да оценява ситуацията като `beyond The Order`. | H | New / Strongly Supported |
 | H82 | Post-Bernard governance запазва същата institutional/control architecture, но доминиращите leadership roles са концентрирани около family Sims; exact formal role split остава unresolved. | H | New / Active |
 | H83 | Sealing-ът на lower tunnel и disappearance-ът на Lukas може да са част от knowledge-containment response около hidden lower system. | M | New / Candidate |
 | H84 | Pre-Silo Iran operation е засегната от common-mode external disruption, който засяга multiple aircraft и launched missiles; mechanism и actor остават unknown. | H | New / Strongly Supported |
-| H85 | В Silo 18 съществува covert human communication path, способен да bypass-не ordinary surveillance чрез physical food/tray signaling. | H | New / Strongly Supported |
+| H85 | В Silo 18 съществува covert human physical communication path, способен да bypass-не ordinary/local communication controls; S03E02 показва, че supervisory computer/system nevertheless може да знае за activity-то. | H-VH | Refactored / Strongly Supported |
+| H86 | Pre-Silo и Silo-era memory-control systems share strong functional architecture: selective retrieval suppression + autobiographical narrative conditioning; exact drug/protocol lineage remains unproven. | H | New / Strongly Strengthened Candidate |
+| H87 | Supervisory computer/system explicitly models Juliette through population-stability utility vs protected-memory risk and acts on a threshold model. | H-VH | New / Strongly Supported |
+| H88 | Waterborne `vitamins` are a population-scale contingency intended to reduce destabilization before possible Juliette removal; exact target memories remain unresolved. | H | New / Strongly Supported |
+| H89 | Juliette's original memories likely remain latent/retrievable rather than destroyed, consistent with pre-Silo mechanism; direct identity of mechanism remains unproven. | H | New / Strengthened Candidate |
+| H90 | Supervisory system performs semantic behavioral assessment beyond raw feed monitoring, including inference/evaluation of deception and covert-note behavior. | H-VH | New / Strongly Supported |
 
 ---
 
-## Hidden lower-system model after S03E01
+## Hidden lower-system model after S03E02
 
 ```text
 PUBLIC / ORDINARY SILO
@@ -824,8 +855,10 @@ SUPERVISORY COMPUTER/SYSTEM ?
         │
         ├─ knows Juliette treatment/status
         ├─ evaluates state as `beyond The Order`
-        ├─ reacts to memory recovery
-        └─ requests doubled suppression dose
+        ├─ semantically evaluates deception/covert behavior
+        ├─ models Juliette risk vs stabilizing utility
+        ├─ requests dosage escalation
+        └─ plans waterborne population-control contingency
         │
         ▼
 very bottom / hidden tunnel
@@ -852,23 +885,25 @@ safeguard infrastructure
 - outside environmental hazard остава separate lethal mechanism.
 ---
 
-## Surveillance / privileged-control model after S03E01
+## Surveillance / privileged-control model after S03E02
 
-S03E01 materially refactor-ва този model: Juliette вече е formal Mayor, но остава target на hidden surveillance и pharmacological memory control. Sims family е dominant local leadership layer, докато computer/system-ът демонстрира knowledge и influence отвъд ordinary surveillance chain.
+S03E02 further refactor-ва този model: Juliette остава formal Mayor и target на memory-control program, но supervisory computer/system вече demonstrably interprets behavior, models social utility/risk и plans population-scale pharmacological intervention. Sims family remains local execution/control layer, while exact command relationship към system-а остава unresolved.
 
 ```text
 Juliette / Mayor
       │
       ├─ surveillance feed → Sims / control room
-      ├─ memory-suppression medication
+      ├─ retrieval-suppression medication
       ├─ false `bunker` replacement narrative
       └─ monitored for memory recovery
                  │
                  ▼
          computer/system
-         ├─ knows treatment
+         ├─ knows treatment + covert behavior
+         ├─ semantic deception/risk assessment
          ├─ `beyond The Order` assessment
-         └─ requests doubled dose
+         ├─ Juliette utility-vs-risk threshold
+         └─ water-supply `vitamins` contingency
 ```
 
 S02E02 разширява hidden-control model отвъд ordinary internal surveillance.
