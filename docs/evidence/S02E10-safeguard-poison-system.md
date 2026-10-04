@@ -1,70 +1,70 @@
-# S02E10 — `the safeguard`: poison pipe, Level 14 и Silo 17 block
+# S02E10 — `the safeguard`: тръба за отрова, Level 14 и блокиране в Silo 17
 
 **Knowledge boundary:** `S02E10 — Season 2 finished`
 
-S02E10 разрешава physical mechanism-а на `the safeguard`, който в S02E09 беше известен само като protected concept и disclosure-trigger threat.
+S02E10 изяснява физическия механизъм на `the safeguard`, който в S02E09 беше известен само като защитена концепция и заплаха, задействаща се при разкриване.
 
-## Директно evidence
+## Директни доказателства
 
-- Silo 17 survivor-ът казва, че safeguard-ът може да бъде спрян.
+- Оцелелият от Silo 17 казва, че safeguard-ът може да бъде спрян.
 - Той твърди, че родителите му са успели да го спрат в Silo 17.
-- Safeguard-ът включва физическа pipe.
-- Pipe-ът може да достави poison, способен да убие всички в Silo.
-- Родителите на survivor-а са блокирали pipe-а.
-- Pipe-ът идва отвън и влиза в Silo при **Level 14**.
+- Safeguard-ът включва физическа тръба.
+- Тръбата може да достави отрова, способна да убие всички в Silo.
+- Родителите на оцелелия са блокирали тръбата.
+- Тръбата идва отвън и влиза в Silo при **Level 14**.
 
-**Confidence:** VH за stated mechanism; H–VH за historical account за successful Silo 17 block.
+**Confidence:** VH за заявения механизъм; H–VH за историческия разказ за успешно блокиране в Silo 17.
 
-## Refactor на casualty model
+## Преработка на модела за жертвите
 
-Важно е да не се смесват две различни systems:
+Важно е да не се смесват две различни системи:
 
 ```text
 THE SAFEGUARD
-external supply
+външно подаване
     ↓
-pipe enters at Level 14
+тръбата влиза при Level 14
     ↓
-poison inside Silo
+отрова вътре в Silo
     ↓
-whole-population kill capability
+способност за унищожаване на цялото население
 
-OUTSIDE HAZARD
-separate exterior environmental lethality
+ВЪНШНА ОПАСНОСТ
+отделна смъртоносна опасност във външната среда
 ```
 
-Silo 17 testimony се моделира най-добре като:
+Свидетелството за Silo 17 се моделира най-добре като:
 
 ```text
-safeguard activation risk
+риск от задействане на safeguard-а
         ↓
-parents physically block poison path
+родителите физически блокират пътя на отровата
         ↓
-population is not exterminated inside
+населението не е унищожено вътре
         ↓
-mass exit reaches exterior
+масовото излизане достига външната среда
         ↓
-outside hazard remains independently lethal
+външната опасност остава независимо смъртоносна
 ```
 
-Това supersede-ва всеки earlier live interpretation, при който safeguard-ът директно обяснява death timing навън.
+Това заменя всяка по-ранна live интерпретация, при която safeguard-ът директно обяснява времето на смъртта навън.
 
 ## Level 14
 
-E397 установява external → Level 14 path. Това materially upgrades Level 14 от repeated spatial anchor към possible infrastructure interface.
+E397 установява път отвън → Level 14. Това съществено повишава значението на Level 14 от повтарящ се пространствен ориентир до възможен инфраструктурен интерфейс.
 
 Все още не е установено:
-- къде е upstream poison source-ът;
-- кой/какво контролира valve/activation path-а;
-- дали Level 14 interface е стандартизиран във всеки Silo;
-- как parents of the Silo 17 survivor са открили и блокирали pipe-а;
-- дали block-ът може да бъде remotely bypassed или restored;
-- exact poison agent и delivery dynamics.
+- къде се намира източникът на отровата нагоре по веригата;
+- кой/какво контролира клапана и пътя за задействане;
+- дали интерфейсът при Level 14 е стандартизиран във всеки Silo;
+- как родителите на оцелелия от Silo 17 са открили и блокирали тръбата;
+- дали блокирането може да бъде заобиколено или отменено дистанционно;
+- точният отровен агент и динамиката на доставянето му.
 
-## Hypothesis impact
+## Въздействие върху хипотезите
 
 - H71 → Refactored / Strongly Strengthened.
-- H73 → practical interruption/blocking path.
-- H74 → external supply / Level 14 interface.
-- H75 → whole-Silo fail-deadly termination architecture / termination model.
-- H14 → refactored така, че outside hazard и safeguard да са отделни mechanisms.
+- H73 → практически път за прекъсване/блокиране.
+- H74 → външно подаване / интерфейс при Level 14.
+- H75 → архитектура за фатално прекратяване на целия Silo / модел за унищожаване.
+- H14 → refactored така, че външната опасност и safeguard-ът да са отделни механизми.
