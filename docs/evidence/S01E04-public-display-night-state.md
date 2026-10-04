@@ -18,7 +18,7 @@ Public barren representation е **dynamic**, не immutable daytime still image.
 
 1. live camera feed;
 2. processed live camera feed;
-3. prerecorded/time-indexed visual sequence;
+3. prerecorded/time-indexed визуална sequence;
 4. generated/synthetic representation synchronized с internal clock;
 5. composite pipeline.
 
