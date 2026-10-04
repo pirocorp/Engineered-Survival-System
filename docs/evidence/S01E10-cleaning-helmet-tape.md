@@ -25,10 +25,10 @@ Lush cleaner exterior objectively real → **VL / Rejected**.
 Barren exterior substantially real + lush cleaner overlay → **VH / Confirmed**.
 
 ### H4
-Cleaner behavior engineered through perception → **VH / Strongly Strengthened**.
+Cleaner поведението е инженерно насочвано чрез perception → **VH / Strongly Strengthened**.
 
 ### H14
-Cleaner mortality materially depends on suit/helmet/seal configuration → **VH / Strongly Strengthened / Refactored**.
+Cleaner mortality съществено зависи от suit/helmet/seal configuration → **VH / Strongly Strengthened / Refactored**.
 
 ### H34
 Standard cleaning tape може да е системно или умишлено inferior, докато alternate tape запазва seal integrity → **H / Active**.
