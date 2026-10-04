@@ -1,36 +1,36 @@
 # S01E08 — Visual evidence manifest
 
-Target repo path: `assets/S01E08/screenshots/`
+Целеви repo path: `assets/S01E08/screenshots/`
 
-## Processing
+## Обработка
 
-Selected screenshots were processed with **perspective correction / rectification first**, then cropped to the TV picture plane.
+Selected screenshots са обработени първо с **perspective correction / rectification**, след което са cropped до TV picture plane.
 
-- no generative editing
-- no generative fill or reconstruction
-- no object removal
-- no content alteration
+- без generative editing
+- без generative fill или reconstruction
+- без object removal
+- без content alteration
 - JPEG quality: **95**
 - output: **1536×864**
 
 ## Selected screenshots
 
-| File | Evidence / context |
+| Файл | Evidence / context |
 |---|---|
-| `juliette-mother-rabbit-heart-research.jpeg` | Flashback/context: Juliette's mother uses the rabbit as part of an attempt to understand a heart problem analogous to Jacob's. |
-| `juliette-mother-illicit-microscope-device.jpeg` | Direct visual evidence of the homemade magnification/microscope apparatus. |
-| `juliette-mother-restricted-access-magnification-record.jpeg` | Restricted institutional record concerning Juliette's mother and magnification-device activity. |
-| `juliette-mirror-surveillance-realization.jpeg` | Scene supporting Juliette's realization that mirror surveillance can explain how authorities learned about her mother's microscope. |
-| `pete-nichols-priority-message-to-martha-walker.jpeg` | Priority digital message from Medical / Dr Pete Nichols to Martha Walker: “RUNAWAY HEADING TO YOU, URGENT. ETA 6PM.” |
-| `level-30-marker.jpeg` | New direct Level 30 spatial anchor. |
-| `contact-sheet.jpg` | Auxiliary review/navigation only; **not primary evidence**. |
+| `juliette-mother-rabbit-heart-research.jpeg` | Flashback/context: майката на Juliette използва заека като част от опит да разбере сърдечен проблем, аналогичен на този на Jacob. |
+| `juliette-mother-illicit-microscope-device.jpeg` | Direct visual evidence за homemade magnification/microscope apparatus. |
+| `juliette-mother-restricted-access-magnification-record.jpeg` | Restricted institutional record за майката на Juliette и magnification-device activity. |
+| `juliette-mirror-surveillance-realization.jpeg` | Сцена, подкрепяща осъзнаването на Juliette, че mirror surveillance може да обясни как authorities са научили за microscope-а на майка ѝ. |
+| `pete-nichols-priority-message-to-martha-walker.jpeg` | Priority digital message от Medical / Dr Pete Nichols до Martha Walker: “RUNAWAY HEADING TO YOU, URGENT. ETA 6PM.” |
+| `level-30-marker.jpeg` | Нов direct spatial anchor за Level 30. |
+| `contact-sheet.jpg` | Само auxiliary review/navigation; **не е primary evidence**. |
 
 ## Epistemic notes
 
-- The microscope apparatus is visually confirmed; exact optical power is not established.
-- The restricted document is visually confirmed, but small partially blurred text should not be over-transcribed.
-- The mirror-surveillance scene weakens the earlier father-as-informant explanation for discovery of the microscope; it does not prove he never shared any other information.
-- The priority message itself says `RUNAWAY`; identity should rely on scene context rather than the screenshot text alone.
-- Level 30 is a spatial anchor only; no special function is inferred from the marker itself.
+- Microscope apparatus е visually confirmed; exact optical power не е established.
+- Restricted document е visually confirmed, но дребният частично замъглен текст не трябва да се over-transcribe-ва.
+- Mirror-surveillance scene отслабва по-ранното father-as-informant обяснение за откриването на microscope-а; не доказва, че той никога не е споделял друга информация.
+- Самото priority message казва `RUNAWAY`; identity трябва да се извежда от scene context, а не само от screenshot text.
+- Level 30 е само spatial anchor; не се извежда special function от самия marker.
 
 **Knowledge boundary:** S01E08 only.
