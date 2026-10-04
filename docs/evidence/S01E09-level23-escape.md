@@ -4,24 +4,24 @@
 
 ## Evidence
 
-S01E08 ended with Juliette going over the central stairwell railing.
+S01E08 завърши с преминаването на Juliette през парапета на central stairwell.
 
-S01E09 establishes the immediate outcome:
-- she survives the initial drop;
-- she lands on / is caught by an intermediate bridge structure;
-- Level 23 is directly shown during the sequence.
+S01E09 установява непосредствения резултат:
+- тя оцелява при първоначалното падане;
+- приземява се върху / е спряна от междинна bridge structure;
+- Level 23 е директно показан по време на sequence-а.
 
 ## Impact
 
-This resolves the S01E08 immediate-outcome uncertainty.
+Това разрешава S01E08 immediate-outcome uncertainty.
 
-The event is classified as **escape/evasion**, not suicide attempt.
+Събитието се класифицира като **escape/evasion**, а не suicide attempt.
 
 ## Boundaries
 
-- exact fall distance is not inferred from the still;
-- whether Level 23 was intentionally targeted remains unknown;
-- no special function is inferred from the Level 23 marker.
+- точната fall distance не се извежда от still-а;
+- дали Level 23 е била целенасочено избрана, остава unknown;
+- не се извежда special function от Level 23 marker-а.
 
 ## Visual evidence
 
