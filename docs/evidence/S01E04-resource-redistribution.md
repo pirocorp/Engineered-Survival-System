@@ -4,13 +4,13 @@
 
 S01E04 показва бележка към new occupant, която инструктира unwanted items на previous tenant да бъдат изпратени в `recycling`, за да бъдат `properly redistributed`.
 
-## Direct evidence
+## Директни доказателства
 
 - previous-occupant durable items могат да останат в reassigned space;
 - unwanted items трябва да се върнат към formal recycling flow;
 - целта е redistribution, не просто disposal.
 
-## Strong inference
+## Силен извод
 
 Silo използва closed-loop material model:
 
@@ -43,7 +43,7 @@ sort / redistribute
 - че recycling винаги означава direct reuse;
 - че residents нямат informal/secondary markets.
 
-## Future tests
+## Бъдещи проверки
 
 - housing allocation rules;
 - inheritance / belongings after death;
