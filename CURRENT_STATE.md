@@ -183,146 +183,146 @@ S02E08 дава първото coherent privileged explanation **защо Silo �
 
 ### S02E05 — IT / Judicial infrastructure map
 
-- A newly found Silo schematic shows marked/visible lines associated in scene context with IT.
-- A similar line/connection is associated with Judicial.
-- The screenshot does not establish whether these lines are power, data, communications, control, utility, or shared conduits.
-- The map is compatible with a hidden privileged infrastructure backbone and with Silo 17's independent-IT-power testimony, but does not itself prove the lines depict that power feed.
+- Новооткрита Silo schematic показва marked/visible lines, свързани чрез scene context с IT.
+- Подобна line/connection е свързана с Judicial.
+- Screenshot-ът не установява дали тези линии са power, data, communications, control, utility или shared conduits.
+- Map-ът е compatible с hidden privileged infrastructure backbone и с independent-IT-power testimony от Silo 17, но сам по себе си не доказва, че линиите изобразяват този power feed.
 
-### S02E05 — Salvador Quinn letter
+### S02E05 — писмото на Salvador Quinn
 
-- A scanned handwritten letter attributed to Salvador Quinn is found in the archive.
-- This independently corroborates the S02E04 claim that Quinn left a letter.
-- The letter's ending is encoded/ciphered.
-- The strongest safe formulation is therefore: readable handwritten body + protected encoded final payload.
-- Exact transcription, cipher, intended recipient and whether Meadows decoded it remain unresolved.
+- В archive е намерено scanned handwritten letter, приписано на Salvador Quinn.
+- Това независимо corroborate-ва S02E04 claim, че Quinn е оставил писмо.
+- Ending-ът на писмото е encoded/ciphered.
+- Най-сигурната formulation следователно е: readable handwritten body + protected encoded final payload.
+- Exact transcription, cipher, intended recipient и дали Meadows го е decoded-нала остават unresolved.
 
-### S02E04 — Mechanical scapegoating doctrine
+### S02E04 — doctrine за scapegoating на Mechanical
 
-- `THE ORDER` instructs that Mechanical should be blamed during rebellion/crisis.
-- Historical wall markings in Mechanical are interpreted as showing repeated blame against Mechanical regardless of where unrest actually began.
-- This makes Mechanical a predefined crisis narrative target rather than an evidence-driven suspect.
-- The strongest current explanation for *why Mechanical* is its control of generator/critical infrastructure, but this remains a hypothesis rather than established fact.
+- `THE ORDER` инструктира Mechanical да бъде обвиняван при rebellion/crisis.
+- Historical wall markings в Mechanical се интерпретират като знак за repeated blame срещу Mechanical независимо откъде реално е започвал unrest.
+- Това прави Mechanical predefined crisis narrative target, а не evidence-driven suspect.
+- Най-силното текущо обяснение *защо Mechanical* е контролът му върху generator/critical infrastructure, но това остава hypothesis, а не established fact.
 
 ### S02E04 — mines / penal labor
 
-- The mines extract metal used within the Silo.
-- Mining is dangerous, unpleasant and undesirable work.
-- Penal assignment supplies at least part of the mining workforce.
-- Best-fit term: **penal labor system**, not penal colony.
+- Mines извличат metal, използван в Silo.
+- Mining е опасна, неприятна и нежелана работа.
+- Penal assignment осигурява поне част от mining workforce.
+- Best-fit term: **penal labor system**, а не penal colony.
 
-### S02E04 — Silo 17 survivor / vault continuity
+### S02E04 — survivor от Silo 17 / vault continuity
 
-- The Silo 17 survivor was a child when the rebellion occurred.
-- He had been placed/locked in the IT vault from childhood during that crisis period.
-- The vault therefore cannot be modeled only as a guard post; it is capable of serving as a protected continuity/survival refuge.
-- Why Russell selected this child remains unresolved.
+- Survivor-ът от Silo 17 е бил дете, когато се случва rebellion.
+- Бил е поставен/заключен в IT vault още от детството през този crisis period.
+- Vault следователно не може да се моделира само като guard post; способен е да служи като protected continuity/survival refuge.
+- Защо Russell избира това дете остава unresolved.
 
 ### S02E04 — Level 119
 
-- Level marker **119** is directly shown.
-- It is added only as a spatial anchor; no special function is inferred from the number alone.
+- Level marker **119** е директно показан.
+- Добавя се само като spatial anchor; само от номера не се infer-ва special function.
 
 ### S02E04 — Meadows / Salvador Quinn / Rebellion-era IT history
 
-- Bernard poisons Judge Meadows.
-- Before dying, Meadows asks whether Bernard destroyed a hard drive because it contained material connected to Salvador Quinn.
-- The drive is not automatically equated with HDD 18.
-- Salvador Quinn is described as Head of IT roughly 140 years ago, during the Rebellion.
-- Quinn left a letter that is at least partly encoded.
-- Meadows stopped being Bernard's shadow about 25 years ago.
-- Around that transition, she disappeared for four days before abandoning the shadow path.
-- The relation between the four-day disappearance, Quinn and forbidden historical knowledge remains unresolved.
+- Bernard отравя Judge Meadows.
+- Преди да умре Meadows пита дали Bernard е унищожил hard drive, защото е съдържал материал, свързан със Salvador Quinn.
+- Drive-ът не се приравнява автоматично с HDD 18.
+- Salvador Quinn е описан като Head of IT преди приблизително 140 години, по време на Rebellion.
+- Quinn е оставил писмо, което е поне частично encoded.
+- Meadows спира да бъде shadow на Bernard преди около 25 години.
+- Около този transition тя изчезва за четири дни, преди да изостави shadow path.
+- Relation между четиридневното изчезване, Quinn и forbidden historical knowledge остава unresolved.
 
 ### S02E04 — immersive headset / cleaner technology
 
-- Bernard possesses an immersive headset showing a pre-Silo natural environment identified in-scene as Monteverde cloud forest, 2018.
-- Bernard explains that it works similarly to the visual system in cleaner helmets.
-- He gives the headset to Meadows before she dies.
-- This strongly strengthens a broader immersive stored/rendered visual technology family behind the cleaner lush-view system.
+- Bernard притежава immersive headset, показващ pre-Silo natural environment, идентифициран in-scene като Monteverde cloud forest, 2018.
+- Bernard обяснява, че работи подобно на visual system в cleaner helmets.
+- Той дава headset-а на Meadows преди смъртта ѝ.
+- Това силно strengthens по-широка immersive stored/rendered visual technology family зад cleaner lush-view system.
 
-### S02E04 — Meadows framing / Sims pressure
+### S02E04 — framing на Meadows / натиск от Sims
 
-- Bernard prepares a trap around Mechanical representatives coming to meet Meadows.
-- He intends Mechanical to be blamed for Meadows' death.
-- The framing is designed to redirect public anger toward Mechanical.
-- Mechanical representatives are directly shown arriving at the staged scene.
-- Bernard claims impeachment protests against Meadows forced him to act.
-- Bernard says he knows Sims was behind that impeachment pressure.
-- Separately, Sims actively agitates public sentiment against Mechanical.
-- Bernard and Sims therefore have partially independent political/operational leverage rather than a simple one-directional hierarchy.
+- Bernard подготвя trap около представители на Mechanical, които идват да се срещнат с Meadows.
+- Целта му е Mechanical да бъде обвинен за смъртта на Meadows.
+- Framing-ът е designed да пренасочи public anger към Mechanical.
+- Представители на Mechanical са директно показани да пристигат на staged scene.
+- Bernard твърди, че impeachment protests срещу Meadows са го принудили да действа.
+- Bernard казва, че знае, че Sims стои зад този impeachment pressure.
+- Отделно Sims активно насочва public sentiment срещу Mechanical.
+- Следователно Bernard и Sims имат частично independent political/operational leverage, а не simple one-directional hierarchy.
 
-### S02E04 — unrest movement
+### S02E04 — movement по време на unrest
 
-- Large-scale population movement through the Silo's vertical circulation system is shown during escalating unrest.
-- The frame establishes movement/scale; exact cause and destination come from scene context.
+- Показано е large-scale population movement през vertical circulation system на Silo по време на escalating unrest.
+- Frame-ът установява movement/scale; exact cause и destination идват от scene context.
 
-### S02E03 — Silo count / numbering / Silo 17 collapse
+### S02E03 — Silo count / numbering / collapse на Silo 17
 
-- The Silo 17 survivor states that there are **50 Silos** in total.
-- He identifies the collapsed Silo Juliette entered as **Silo 17**.
-- Juliette's original Silo is now strongly identified/inferred as **Silo 18**, although the exact numbering relation to key `18` and HDD 18 remains only partially resolved.
-- Ron went outside for a cleaning, refused to clean, wrote/marked `LIES` on the exterior sensor and then moved out of view.
-- Three days later `LIES` appeared on the internal cafeteria display.
-- The survivor says rebellion followed this sequence.
-- He further says the population eventually went outside because they had not seen Ron die and concluded the exterior was safe.
-- Silo 17 therefore provides concrete historical corroboration of `THE ORDER` failed-cleaning → war contingency.
+- Survivor-ът от Silo 17 заявява, че общо има **50 Silos**.
+- Той идентифицира collapsed Silo, в който влиза Juliette, като **Silo 17**.
+- Original Silo на Juliette вече е силно identified/inferred като **Silo 18**, макар exact numbering relation към key `18` и HDD 18 да остава само partially resolved.
+- Ron излиза навън за cleaning, отказва да clean-не, изписва/маркира `LIES` върху exterior sensor и след това излиза от view.
+- Три дни по-късно `LIES` се появява на internal cafeteria display.
+- Survivor-ът казва, че след тази sequence започва rebellion.
+- Той допълва, че population в крайна сметка излиза навън, защото не е видяло Ron да умира и е заключило, че exterior е безопасен.
+- Silo 17 следователно дава concrete historical corroboration на `THE ORDER` failed-cleaning → war contingency.
 
 ### S02E03 — exterior hazard vs cleaner timing
 
-- The survivor says the exterior dust/poison temporarily dispersed.
-- Unprotected residents remained alive outside beyond the ordinary short cleaner-death window.
-- The hazard later returned and killed them.
-- This separates the **real mobile/time-varying outside hazard** from the short predictable mortality pattern of standard cleaning suits.
-- Exact hazard chemistry remains unresolved.
-- Exact tape pathway also remains unresolved: breathing-gas loss, contaminant ingress, or both.
+- Survivor-ът казва, че exterior dust/poison временно се е разсеял.
+- Unprotected residents остават живи навън отвъд ordinary short cleaner-death window.
+- Hazard-ът по-късно се връща и ги убива.
+- Това разделя **real mobile/time-varying outside hazard** от краткия predictable mortality pattern на standard cleaning suits.
+- Exact hazard chemistry остава unresolved.
+- Exact tape pathway също остава unresolved: breathing-gas loss, contaminant ingress или и двете.
 
 ### S02E03 — Server Room / vault / Russell
 
-- The Silo 17 survivor explicitly calls the secured IT compartment a **vault**.
-- He says Russell put him inside it and ordered him never to let anyone enter.
-- Bernard's physical key `18` is used for/accesses the **SERVER ROOM** in Silo 18.
-- The heavy secured vault is located inside that Server Room.
-- Current restricted path: `key 18 → Server Room → vault`.
-- This strongly strengthens standardized protected IT-vault architecture across Silos 17 and 18.
-- Exact vault contents and whether key numbering corresponds to Silo numbering remain unresolved.
+- Survivor-ът от Silo 17 изрично нарича secured IT compartment **vault**.
+- Той казва, че Russell го е поставил вътре и му е наредил никога да не допуска никого.
+- Physical key `18` на Bernard се използва за/access-ва **SERVER ROOM** в Silo 18.
+- Heavy secured vault се намира вътре в този Server Room.
+- Текущ restricted path: `key 18 → Server Room → vault`.
+- Това силно strengthens standardized protected IT-vault architecture в Silos 17 и 18.
+- Exact vault contents и дали key numbering съответства на Silo numbering остават unresolved.
 
-### S02E03 — Bernard cross-Silo knowledge / Jane Carmody age
+### S02E03 — cross-Silo knowledge на Bernard / age на Jane Carmody
 
-- Bernard knows Juliette reached Silo 17.
-- He states Silo 17 has been "dead" for a long time.
-- He says he knew this before Judge Meadows became his shadow.
-- Bernard therefore has inherited/long-standing **partial cross-Silo knowledge**, but there is no evidence that he knows the whole system.
-- Bernard says the Jane Carmody cleaning recording is about **200 years old**; the number may be approximate.
+- Bernard знае, че Juliette е достигнала Silo 17.
+- Той заявява, че Silo 17 е "dead" от дълго време.
+- Казва, че е знаел това преди Judge Meadows да стане негов shadow.
+- Bernard следователно има inherited/long-standing **partial cross-Silo knowledge**, но няма evidence, че познава цялата system.
+- Bernard казва, че Jane Carmody cleaning recording е на около **200 години**; числото може да е approximate.
 
 ### S02E03 — pharmacological memory suppression
 
-- Bernard asks Sims what happened to personnel exposed to Juliette's classified broadcast.
-- Sims says medication was administered, presented as sedatives.
-- Sims later explicitly offers medication so another person can **forget**.
-- Current authorities therefore possess or claim a deliberate pharmacological memory-suppression capability.
-- This strongly corroborates the older historical memory-suppression testimony, while exact drug identity and relation to the water-based claim remain unresolved.
+- Bernard пита Sims какво се е случило с personnel, exposed на classified broadcast на Juliette.
+- Sims казва, че е приложена medication, представена като sedatives.
+- По-късно Sims изрично предлага medication, за да може друг човек да **forget**.
+- Current authorities следователно притежават или claim-ват deliberate pharmacological memory-suppression capability.
+- Това силно corroborate-ва по-старото historical memory-suppression testimony, докато exact drug identity и relation към water-based claim остават unresolved.
 
-### S02E03 — The Syndrome theory
+### S02E03 — theory за The Syndrome
 
-- Judge Meadows presents a theory that The Syndrome is not primarily a physiological disease but a reaction to the conditions/way of life inside the Silo.
-- This is a character theory, not an established medical explanation.
-- It should not be overtranslated as "psychosomatic" without stronger dialogue.
+- Judge Meadows представя theory, че The Syndrome не е primary physiological disease, а reaction към conditions/way of life в Silo.
+- Това е character theory, а не established medical explanation.
+- Не трябва да се overtranslate-ва като "psychosomatic" без по-силен dialogue.
 
 ### S02E03 — cleaner visual trigger / repeated Jane pattern
 
-- Juliette explicitly believes the manipulated lush view is what makes cleaners clean.
-- She recognizes the lush image as false because it matches the old Jane Carmody recording.
-- She does not know the ordinary word/concept "birds", but recognizes the same movement pattern of the flying creatures.
-- This strengthens a reused/highly standardized visual-sequence model and independently demonstrates deep loss of ordinary natural-world vocabulary.
+- Juliette изрично вярва, че manipulated lush view е това, което кара cleaners да clean-ват.
+- Тя разпознава lush image като false, защото съвпада със стария Jane Carmody recording.
+- Тя не знае ordinary word/concept "birds", но разпознава същия movement pattern на flying creatures.
+- Това strengthens reused/highly standardized visual-sequence model и независимо демонстрира дълбока загуба на ordinary natural-world vocabulary.
 
 ### S02E03 — CODE SILO ORANGE / chronology
 
-- A medical screen explicitly states `CODE SILO ORANGE`.
-- It instructs staff **not to remove birth control** and to ensure the patient **believes it was removed**.
-- Covert reproductive deception is therefore a formally encoded institutional medical protocol.
-- The same record shows `DOB 09/13/116 A.R.`.
-- `A.R.` is directly established as an institutional era notation, but the screenshot does not spell out the abbreviation.
-- The previous simple H15 calendar model is no longer safe; chronology conflict is preserved explicitly rather than silently remapped.
+- Medical screen изрично показва `CODE SILO ORANGE`.
+- Той инструктира staff **да не премахва birth control** и да гарантира, че patient **вярва, че е премахнат**.
+- Covert reproductive deception следователно е formally encoded institutional medical protocol.
+- Същият record показва `DOB 09/13/116 A.R.`.
+- `A.R.` е директно established като institutional era notation, но screenshot-ът не изписва abbreviation-а.
+- Previous simple H15 calendar model вече не е safe; chronology conflict се запазва изрично, вместо да се remap-ва мълчаливо.
 
 ### S02E02 — live exterior cleaner feed
 
