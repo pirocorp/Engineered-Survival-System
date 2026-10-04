@@ -16,7 +16,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 6. Какъв е exact intended behavioral purpose на lush deception и защо исторически cleaners clean-ват?
 7. **PARTIALLY RESOLVED in S02E01:** outside hazard е реален; exact agent/mechanism, който убива standard cleaners, остава unknown.
 8. Как точно standard tape/seal contributes към mortality — external contaminant ingress, breathing-gas loss, both — и deliberately inferior ли е?
-9. **PARTIALLY RESOLVED in S02E01:** mass unprotected exterior deaths strongly establish a real exterior hazard; exact airborne/atmosphere-borne agent and role of suit failure remain unresolved.
+9. **PARTIALLY RESOLVED in S02E01:** масовите unprotected exterior deaths силно установяват real exterior hazard; exact airborne/atmosphere-borne agent и ролята на suit failure остават unresolved.
 10. Какво вижда cleaner при helmet-layer failure/removal и има ли automatic fallback?
 11. Скрива ли lush layer bodies, neighboring Silos, terrain features или други objects deliberately?
 12. Защо public display показва lush imagery при S01E03 power-down?
@@ -131,7 +131,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 94. Колко е prevalent?
 95. Как се diagnoses/treats?
 96. Има ли occupational/geographic clustering?
-97. **PARTIALLY RESOLVED in S01E10:** official Syndrome notice lists a progressive symptom pattern; exact blurred wording still needs clearer source material.
+97. **PARTIALLY RESOLVED in S01E10:** official Syndrome notice изброява progressive symptom pattern; exact blurred wording все още изисква по-ясен source material.
 98. Има ли institutional restrictions/rights consequences за affected residents, включително office eligibility, след като new Deputy е concrete affected character?
 
 ## Surveillance / dossiers
@@ -259,13 +259,13 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 185. Каква е exact origin/history на Flamekeepers?
 186. Flamekeepers част от Rebellion ли са, предшественици ли са, allies ли са или отделна group?
 187. Кой historical source потвърждава independently, че Flamekeepers са пазели history/relics?
-188. **PARTIALLY NARROWED in S02E08:** Quinn confiscated books as part of the last-Rebellion historical reset. Whether he also authored the formal modern relic prohibition, or later leadership institutionalized it, remains open.
-189. **STRONGLY STRENGTHENED in S02E08:** Quinn's deliberate history reset gives a direct privileged rationale for suppressing historical carriers; whether the modern relic ban is explicitly documented as that policy's maintenance layer remains open.
-190. **PARTIALLY RESOLVED in S02E08:** Bernard describes a chemical/drug placed in the water to make memories fade. Exact compound/formulation remains unknown.
-191. **TESTIMONY CORROBORATED in S02E08:** Bernard independently corroborates the older Flamekeeper water-memory account. Physical chemical/medical evidence and delivery engineering remain open.
-192. **PARTIALLY NARROWED in S02E08:** Bernard describes progressive fading over weeks/months/years of exposure; exact cognitive mechanism (formation, consolidation, recall, broader cognition) remains unresolved.
-193. **TIMELINE REQUIRES RECONCILIATION after S02E08:** earlier Flamekeeper testimony suggested pre-Rebellion water memory suppression, while Bernard specifically attributes a major prolonged dosing program to Quinn's last-Rebellion reset. Earlier use vs Quinn-era implementation remains unresolved.
-194. **PARTIALLY NARROWED in S02E08:** Quinn/IT is explicitly attributed control of the last-Rebellion historical-reset dosing program. Any earlier pre-Quinn memory-control authority remains unresolved.
+188. **PARTIALLY NARROWED in S02E08:** Quinn е confiscate-нал books като част от historical reset-а при последния Rebellion. Остава open дали той е authored и formal modern relic prohibition, или по-късно leadership го е institutionalized.
+189. **STRONGLY STRENGTHENED in S02E08:** deliberate history reset на Quinn дава direct privileged rationale за suppression на historical carriers; остава open дали modern relic ban е explicit documented като maintenance layer на тази policy.
+190. **PARTIALLY RESOLVED in S02E08:** Bernard описва chemical/drug във водата, който кара memories да fade-ват. Exact compound/formulation остава unknown.
+191. **TESTIMONY CORROBORATED in S02E08:** Bernard independently corroborate-ва по-стария Flamekeeper water-memory account. Physical chemical/medical evidence и delivery engineering остават open.
+192. **PARTIALLY NARROWED in S02E08:** Bernard описва progressive fading в продължение на weeks/months/years exposure; exact cognitive mechanism (formation, consolidation, recall, broader cognition) остава unresolved.
+193. **TIMELINE REQUIRES RECONCILIATION after S02E08:** по-ранното Flamekeeper testimony подсказваше pre-Rebellion water memory suppression, докато Bernard конкретно приписва major prolonged dosing program на Quinn reset-а при последния Rebellion. Earlier use спрямо Quinn-era implementation остава unresolved.
+194. **PARTIALLY NARROWED in S02E08:** Quinn/IT е explicitly attributed control над historical-reset dosing program при последния Rebellion. Всяка по-ранна pre-Quinn memory-control authority остава unresolved.
 
 ## S01E07 — reproductive control / medical chain
 
@@ -296,7 +296,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 213. Judge Meadows знае ли, че е monitored?
 214. Защо Judge е surveillance target?
 215. Sims може ли да observe Judge without approval from higher authority?
-216. **PARTIALLY RESOLVED in S01E10:** Bernard demonstrates direct command/compartmentalization over Sims in classified cleaning/surveillance context; whether anyone sits above Bernard remains open.
+216. **PARTIALLY RESOLVED in S01E10:** Bernard демонстрира direct command/compartmentalization над Sims в classified cleaning/surveillance context; остава open дали има authority над Bernard.
 217. Mirror units capture-ват ли audio в допълнение към video?
 218. Janitorial closet route единственият entrance ли е към control center-а?
 219. Къде physically се намира surveillance center-ът спрямо visible Silo levels?
@@ -324,7 +324,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 ## S01E08 — internal communication / Level 30
 
 233. **PARTIALLY NARROWED in S02E06:** Sheriff Department terminal directly shows `DIRECT MESSAGING`, departmental senders and named users. Кой exactly има account/terminal access beyond observed institutional users?
-234. S02E06 strengthens the importance of this question: institutional direct messaging is confirmed, but archive/search/monitor access by IT/Judicial remains unresolved.
+234. S02E06 увеличава значението на този въпрос: institutional direct messaging е confirmed, но archive/search/monitor access от IT/Judicial остава unresolved.
 235. `PRIVATE` service/channel какво означава practically?
 236. Level 30 има ли special institutional/social function или е само spatial anchor?
 
@@ -348,7 +348,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S01E08 — episode-end escape
 
-249. **RESOLVED in S01E09:** Juliette survives the initial drop by landing on / being caught by an intermediate bridge at Level 23.
+249. **RESOLVED in S01E09:** Juliette оцелява при първоначалното падане, като се приземява върху / е спряна от intermediate bridge на Level 23.
 250. Escape/evasion context е established; било ли е Level-23 landing point-а pre-planned или improvised остава unresolved.
 251. Как authorities classify event-а, ако Juliette избяга от custody?
 
@@ -362,22 +362,22 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S01E09 — numbered object/device `18`
 
-256. **PARTIALLY RESOLVED in S02E03:** physical key `18` accesses the `SERVER ROOM`; exact inner-vault unlocking relation remains open.
+256. **PARTIALLY RESOLVED in S02E03:** physical key `18` access-ва `SERVER ROOM`; exact relation към unlocking на inner vault остава open.
 257. **RESOLVED in S01E10:** object `18` е physical key; значението на number `18` остава unknown.
 258. Има ли реална връзка между key `18` и HDD 18, или numerical overlap е coincidence?
 259. Кой има право да притежава/използва numbered keys от този тип?
-260. **PARTIALLY RESOLVED in S02E03:** key `18` grants Server Room access; whether the number itself is a Silo identifier or lock-specific identifier remains open.
+260. **PARTIALLY RESOLVED in S02E03:** key `18` дава Server Room access; остава open дали самият номер е Silo identifier или lock-specific identifier.
 261. Защо Bernard държи key `18` и каква authority/access представлява?
 
 ## S01E09 — Jane Carmody cleaning file
 
-262. **RESOLVED in S01E10:** Juliette sees the same lush representation and initially concludes the public display is the lie.
-263. **RESOLVED/SUPERSEDED in S01E10:** the helmet lush representation is directly revealed as false; Juliette’s initial inference is overturned.
+262. **RESOLVED in S01E10:** Juliette вижда същото lush representation и първоначално заключава, че public display е лъжата.
+263. **RESOLVED/SUPERSEDED in S01E10:** helmet lush representation директно е разкрито като false; initial inference на Juliette е overturned.
 264. Може ли Jane Carmody footage да се compare-не frame-for-frame с Allison/Holston/Juliette helmet imagery?
 265. Има ли metadata във файла, което може да establish date/source/rendering pipeline?
 266. Jane Carmody file prerecorded source asset ли е, captured helmet output ли е или another pipeline artifact?
 267. Има ли други cleaning files със същия exact lush asset?
-268. **PARTIALLY RESOLVED in S01E10:** cleaner view is a false overlay/simulation-like layer; exact rendering/delivery mechanism remains open.
+268. **PARTIALLY RESOLVED in S01E10:** cleaner view е false overlay/simulation-like layer; exact rendering/delivery mechanism остава open.
 
 
 ## S01E10 — Bernard / classified cleaning knowledge
@@ -395,20 +395,20 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 277. Какъв material/specification е standard cleaning tape?
 278. Какъв material/specification е alternate tape used for Juliette?
-279. **STRONGLY NARROWED in S02E02:** insider statements strongly support intentionally/systematically inferior standard tape; exact design intent/calibration still remains to be established technically.
+279. **STRONGLY NARROWED in S02E02:** insider statements силно подкрепят intentionally/systematically inferior standard tape; exact design intent/calibration все още трябва да бъде established technically.
 280. Кой normally supplies/selects standard tape?
 281. Кой arranged the alternate tape for Juliette and with what intent?
 282. Seal failure позволява ли external contaminant да проникне, breathing gas да изтича, или и двете?
 283. Колко дълго standard cleaner може да survive при intact vs failed seal?
 284. Bernard/Sims откъде знаят expected death point near the tree?
-285. **PARTIALLY RESOLVED in S02E02:** Bernard/IT receives a live Juliette-associated exterior video feed; separate telemetry/biometrics remain unknown.
+285. **PARTIALLY RESOLVED in S02E02:** Bernard/IT получава live exterior video feed, свързан с Juliette; separate telemetry/biometrics остават unknown.
 286. Външната atmosphere сама по себе си lethal ли е при fully sealed suit?
 
 ## S01E10 — multiple Silos / exterior geography
 
-287. **PARTIALLY RESOLVED in S02E03:** Silo 17 survivor states there are **50 Silos** total; independent corroboration remains open.
+287. **PARTIALLY RESOLVED in S02E03:** survivor от Silo 17 заявява, че общо има **50 Silos**; independent corroboration остава open.
 288. Всички visible circular sites inhabited/active Silos ли са? S02E01 shows at least one other Silo can be collapsed/largely depopulated yet still contain a survivor and residual power.
-289. **PARTIALLY RESOLVED in S02E01:** at least two Silos share homologous airlock, IT, agriculture and concealed mirror-camera concepts; exact identity of all architecture/cleaning systems remains open.
+289. **PARTIALLY RESOLVED in S02E01:** поне два Silos споделят homologous airlock, IT, agriculture и concealed mirror-camera concepts; exact identity на всички architecture/cleaning systems остава open.
 290. Има ли communication/coordination between Silos?
 291. Кой управлява multi-Silo system-а, ако има common authority?
 292. `SILO_COUNT` field от HDD към exact number **50** ли сочи, as now claimed by the Silo 17 survivor?
@@ -419,7 +419,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S01E10 — key 18
 
-297. **RESOLVED at observed layer in S02E03:** key `18` accesses the `SERVER ROOM`; whether it also directly unlocks the inner vault remains open.
+297. **RESOLVED at observed layer in S02E03:** key `18` access-ва `SERVER ROOM`; остава open дали директно отключва и inner vault.
 298. S02E03 strongly links `18` to Juliette's Silo designation context; има ли explicit matching `18` identifier върху Server Room/vault access hardware?
 299. Key `18` и HDD 18 част от common numbering scheme ли са?
 300. Има ли other numbered keys и кой ги държи?
@@ -447,8 +447,8 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S02E01 — second Silo / rebellion / Russell
 
-316. **RESOLVED by S02E03 survivor testimony:** the second/collapsed Silo is identified as **Silo 17**.
-317. **STRONGLY SUPPORTED in S02E03:** Juliette's original Silo is identified/inferred as **Silo 18**; seek explicit formal designation for full confirmation.
+316. **RESOLVED by S02E03 survivor testimony:** вторият/collapsed Silo е идентифициран като **Silo 17**.
+317. **STRONGLY SUPPORTED in S02E03:** original Silo на Juliette е identified/inferred като **Silo 18**; търсим explicit formal designation за full confirmation.
 318. Key `18`, HDD 18 и Silo numbering имат ли real common identifier, или numerical overlap е coincidence?
 319. Кой е Russell и каква exact institutional role има? S02E03 shows claimed authority to place the survivor in the IT vault and order absolute no-entry.
 320. За какво точно Sheriff-ът твърди, че Russell е излъгал?
@@ -472,10 +472,10 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 332. Кой е living survivor-ът в secured IT compartment и каква е ролята му?
 333. От колко време е там и как е осигурявал food/water/air?
 334. Има ли други survivors в Silo-а?
-335. **STRONGLY SUPPORTED in S02E03:** analogous secured IT vaults exist in Silos 17 and 18; is this universal across all Silos?
-336. **PARTIALLY RESOLVED in S02E05:** Silo 17 survivor says IT has its own independent power from an external/outside source; exact source technology/location remains open.
+335. **STRONGLY SUPPORTED in S02E03:** analogous secured IT vaults съществуват в Silos 17 и 18; universal ли е това във всички Silos?
+336. **PARTIALLY RESOLVED in S02E05:** survivor-ът от Silo 17 казва, че IT има own independent power от external/outside source; exact source technology/location остава open.
 337. Кои systems продължават автоматично да работят без normal population/operations?
-338. **SUBSTANTIALLY RESOLVED in S02E05:** a Level 144 pump was destroyed during rebellion to flood Mechanical; water kept rising, reached the generator before repair and continues rising in the present. Exact hydraulic path/timing remains open.
+338. **SUBSTANTIALLY RESOLVED in S02E05:** Level 144 pump е destroyed по време на rebellion с цел flooding на Mechanical; water продължава да се покачва, достига generator-а преди repair и продължава да се покачва в present. Exact hydraulic path/timing остава open.
 339. S02E05 establishes Silo 17 flooding as a deliberate rebellion sabotage cascade. Common failure mode ли е elsewhere, or Silo-17-specific event?
 340. Има ли structural connection между second-Silo flooding и known flooded-bottom/lower-tunnel evidence in Juliette's Silo?
 
@@ -516,7 +516,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 364. Каква е formal relation `THE ORDER` ↔ Pact?
 365. `THE ORDER` legally supersede-ва ли Pact-а при crisis, или е covert operational guidance?
 366. Всеки Silo има ли собствено копие на `THE ORDER`?
-367. **STRONGLY SUPPORTED but not origin-confirmed in S02E03:** Silo 17 supplies a concrete failed-cleaning → rebellion case; was this or earlier cases used to derive the doctrine?
+367. **STRONGLY SUPPORTED but not origin-confirmed in S02E03:** Silo 17 дава concrete failed-cleaning → rebellion case; използван ли е този или по-ранни случаи за derive-ване на doctrine-а?
 368. Ако да, колко previous failed-cleaning / rebellion cases са known to authors?
 369. Second-Silo collapse един от cases, върху които doctrine-ът е based, ли е?
 370. Има ли други trigger conditions в `THE ORDER`, които activate crisis protocols?
@@ -586,14 +586,14 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 414. Russell Bernard-equivalent Head of IT ли е, another privileged role ли е, or something else? S02E04 confirms only that the survivor was a child during the rebellion and Russell had authority/access to place him in the vault.
 415. **REFRAMED in S02E04:** survivor-ът е бил дете, когато Russell го е поставил/затворил във vault-а. Защо е избрано точно това дете?
-416. **STRONGLY NARROWED in S02E07:** Silo 18 vault directly includes residential/living space + `Legacy` library, while Silos 17/18 both show IT continuity power. Exact standardized occupant capacity, supplies and full protected-system set remain open.
+416. **STRONGLY NARROWED in S02E07:** vault-ът на Silo 18 директно включва residential/living space + `Legacy` library, докато Silos 17/18 показват IT continuity power. Exact standardized occupant capacity, supplies и full protected-system set остават open.
 417. Vault-ът съдържа ли `THE ORDER`, cross-Silo status information, communications or control systems?
 418. Key `18` unlock-ва само Server Room ли, или и inner vault access chain?
 419. Всеки Silo има ли physical key numbered by its Silo designation?
 
 ## S02E03 — Bernard cross-Silo knowledge
 
-420. **PARTIALLY NARROWED in S02E07:** `Legacy` provides a concrete archive mechanism for Bernard's inherited historical knowledge, but whether his specific knowledge that Silo 17 is dead comes from Legacy, another status registry, or another source remains open.
+420. **PARTIALLY NARROWED in S02E07:** `Legacy` предоставя concrete archive mechanism за inherited historical knowledge на Bernard, но остава open дали specific knowledge-ът му, че Silo 17 е dead, идва от Legacy, друг status registry или друг source.
 421. Има ли current status registry за всички Silos?
 422. Може ли Bernard да вижда current/lifetime status на други Silos, или knowledge-ът е inherited historical record?
 423. Кой е над Bernard, ако local IT custodian knowledge-ът е intentionally partial?
@@ -605,7 +605,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 426. Complete erasure ли причинява, weakened recall, confusion, or selective amnesia?
 427. Колко дълго трае effect-ът и reversible ли е?
 428. Witnesses from Juliette broadcast действително ли са забравили видяното?
-429. **STRONGLY RELEVANT after S02E08:** historical waterborne memory suppression is independently corroborated by Bernard, but identity with the current S02E03 forgetfulness medication remains unresolved.
+429. **STRONGLY RELEVANT after S02E08:** historical waterborne memory suppression е independently corroborated от Bernard, но identity с current S02E03 forgetfulness medication остава unresolved.
 430. Кой authorizes targeted memory suppression and как се документира?
 
 ## S02E03 — The Syndrome
@@ -671,9 +671,9 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 469. Кой точно hard drive има предвид Meadows — HDD 18 ли е или друг drive?
 470. Какво конкретно е съдържал drive-ът за Salvador Quinn?
-471. **FURTHER NARROWED in S02E08:** one decoded final line is now known — `If you've gotten this far, you already know the game is rigged.` Full readable body + remaining protected payload remain unresolved.
+471. **FURTHER NARROWED in S02E08:** вече е познат един decoded final line — `If you've gotten this far, you already know the game is rigged.` Full readable body + remaining protected payload остават unresolved.
 472. Какъв exact cipher/encoding използва final section на Quinn letter и защо?
-473. **PARTIALLY NARROWED in S02E08:** decoded wording is explicitly framed for a later reader who has already gotten far enough to know the system is `rigged`; exact intended person/group and reason for encryption remain open.
+473. **PARTIALLY NARROWED in S02E08:** decoded wording е explicitly framed за later reader, който вече е стигнал достатъчно далеч, за да знае, че system е `rigged`; exact intended person/group и reason for encryption остават open.
 474. Meadows успяла ли е да decode-не letter-а?
 475. Какво е правила Meadows през четирите дни, когато е изчезнала преди ~25 години?
 476. Четиридневното изчезване свързано ли е с Quinn, encoded letter, hard drive or another forbidden archive?
@@ -716,7 +716,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 501. Salvador Quinn's ~140-years-ago Rebellion anchor mapping-ва ли директно към current `A.R.` era?
 502. Ако `A.R.` наистина е post-Rebellion calendar, какъв е current A.R. year?
 503. Quinn's tenure може ли да anchor-не `SILO YEAR 96/97` спрямо Rebellion?
-504. **SUBSTANTIALLY RESOLVED in S02E07:** Bernard says the Silo was built 352 years ago; combined with the ~140-years-ago Rebellion anchor, the Silo predates the Rebellion by roughly 212 years. Jane Carmody's ~200-year age places that recording roughly ~152 years after construction / ~60 years before Rebellion if the approximate anchors are taken at face value.
+504. **SUBSTANTIALLY RESOLVED in S02E07:** Bernard казва, че Silo е построен преди 352 години; комбинирано с ~140-years-ago Rebellion anchor, Silo предхожда Rebellion с приблизително 212 години. ~200-year age на Jane Carmody поставя recording-а приблизително ~152 години след construction / ~60 години преди Rebellion, ако approximate anchors се приемат буквално.
 
 ## S02E05 — Sims / Judge / shadow succession
 
@@ -734,8 +734,8 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 513. Какъв точно е external/outside source-ът на IT power в Silo 17?
 514. Physical outside the Silo ли е source-ът, or merely external to the normal internal grid?
 515. Как energy се доставя до IT — cable, buried feed, separate generator, battery/storage, or another system?
-516. **STRONGLY STRENGTHENED in S02E07:** functional continuity power is now evidenced in both Silo 17 and Silo 18. Standard across all 50 Silos remains unconfirmed.
-517. **FUNCTIONALLY RESOLVED / SOURCE STILL OPEN in S02E07:** Silo 18 IT remains powered during a general blackout, confirming an independent/redundant continuity path. Whether it is the same exact external source architecture described for Silo 17 remains unresolved.
+516. **STRONGLY STRENGTHENED in S02E07:** functional continuity power вече е evidenced и в Silo 17, и в Silo 18. Standard във всички 50 Silos остава unconfirmed.
+517. **FUNCTIONALLY RESOLVED / SOURCE STILL OPEN in S02E07:** IT в Silo 18 остава powered по време на general blackout, което потвърждава independent/redundant continuity path. Остава unresolved дали това е същата exact external source architecture, описана за Silo 17.
 518. Каква capacity има IT continuity power и колко дълго може да работи след normal-grid collapse?
 519. Може ли IT power да захранва arbitrary loads, or only predefined emergency circuits?
 520. Judicial също има ли independent continuity power?
@@ -767,16 +767,16 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 ## S02E05 — Salvador Quinn letter
 
 539. Какво е exact transcription на readable handwritten body of Quinn letter?
-540. **PARTIALLY RESOLVED in S02E08:** decoded payload includes `If you've gotten this far, you already know the game is rigged.` Exact full encoded block and remaining decoded text remain open.
+540. **PARTIALLY RESOLVED in S02E08:** decoded payload включва `If you've gotten this far, you already know the game is rigged.` Exact full encoded block и remaining decoded text остават open.
 541. Какъв cipher/key/method е използван?
 542. Има ли clue в readable body за decoding key?
 543. Защо само final payload е protected, а основният текст е readable?
-544. **PARTIALLY NARROWED in S02E08:** wording targets a future reader/investigator who has already penetrated the hidden system/history; exact intended identity or office remains open.
+544. **PARTIALLY NARROWED in S02E08:** wording-ът е насочен към future reader/investigator, който вече е проникнал в hidden system/history; exact intended identity или office остава open.
 545. Кога е сканиран letter-ът и кой го е archived?
 546. Bernard виждал/чел ли е този exact archived scan?
 547. Meadows decoded ли е final section по време на four-day disappearance?
 548. Quinn letter директно ли е материалът, който Meadows свързва с questioned hard drive?
-549. **PARTIALLY NARROWED in S02E08:** the decoded ending states that `the game is rigged`; which system/domain this refers to and what further information follows remain unresolved.
+549. **PARTIALLY NARROWED in S02E08:** decoded ending заявява, че `the game is rigged`; остава unresolved към кой system/domain се отнася това и каква further information следва.
 
 ## S02E06 — digital messaging / courier coexistence
 
@@ -842,8 +842,8 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 594. Bernard's **352 years** exact archival figure ли е or rounded conversational age?
 595. 352 years refers specifically to Silo 18 ли, to the whole Silo program, or to another shared construction event?
 596. Всички 50 Silos built simultaneously ли са?
-597. **PARTIALLY NARROWED in S02E08:** Bernard says multiple rebellions recurred roughly every 20 years before Quinn's final reset. Exact start point, count, causes and placement across the ~212-year pre-last-Rebellion period remain unresolved.
-598. Jane Carmody's ~200-year recording is therefore roughly ~152 years after construction — does later evidence confirm this placement?
+597. **PARTIALLY NARROWED in S02E08:** Bernard казва, че multiple rebellions са се повтаряли приблизително на всеки 20 години преди final reset на Quinn. Exact start point, count, causes и placement в ~212-year pre-last-Rebellion period остават unresolved.
+598. Следователно ~200-year recording на Jane Carmody е приблизително ~152 години след construction — потвърждава ли later evidence това placement?
 599. Quinn/Rebellion ~140-year anchor exact enough ли е to refine the ~212-year interval?
 600. `A.R.` literally означава ли post-Rebellion era, or does the 352-year anchor point to another epoch?
 601. Как `SILO YEAR 96/97` се fits into a system already ~352 years old?
@@ -868,8 +868,8 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 614. Кои systems inside IT remain powered — lighting only, servers, vault, communications, life support, all critical systems?
 615. Judicial остава ли powered under the same blackout?
 616. Publicly visible IT power asymmetry ще increase-не ли anti-IT distrust or trigger direct demands for explanation?
-617. Can IT continuity power be routed to non-IT recovery systems in Silo 18 as proposed in Silo 17?
-618. Is the continuity-power topology connected to the hidden IT/Judicial lines shown in S02E05?
+617. Може ли IT continuity power да бъде routed към non-IT recovery systems в Silo 18, както е предложено в Silo 17?
+618. Свързана ли е continuity-power topology с hidden IT/Judicial lines, показани в S02E05?
 
 ## S02E08 — Quinn historical reset / recurring rebellions
 
@@ -908,7 +908,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 645. Old `Pact Between the Founders` same text ли има as current Pact?
 646. Има ли annotations, marginalia or hidden notes by Quinn inside the copy?
 647. Handwritten `Salvador Quinn` ownership mark ли е, signature ли е, dedication ли е, or another provenance mark?
-648. Quinn was he merely owner/custodian of the copy, or had a formal role related to foundational doctrine?
+648. Quinn бил ли е само owner/custodian на copy-то, или е имал formal role, свързана с foundational doctrine?
 649. Old Pact copy преди или след Quinn's historical reset е придобито/annotated?
 650. Meadows' discovery of this copy допринася ли directly за abandoning Bernard's shadow path?
 
