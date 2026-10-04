@@ -39,7 +39,7 @@ construction          Jane Carmody           Rebellion / Quinn        present
 
 Тъй като ages за Jane и Rebellion са approximate, тези intervals също остават approximate.
 
-## Model impact
+## Въздействие върху модела
 
 Това силно установява, че:
 - Silo е съществувал много преди Rebellion;
