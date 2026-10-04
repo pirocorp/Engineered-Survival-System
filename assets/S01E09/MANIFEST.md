@@ -22,7 +22,7 @@ Selected screenshots са обработени първо с **perspective corre
 | `bernard-number-18-device.jpeg` | Малък illuminated numbered device/object с маркировка `18`, свързан чрез scene context с Bernard/acting mayor; функцията е unknown. |
 | `contact-sheet.jpg` | Само auxiliary review/navigation; **не е primary evidence**. |
 
-## Epistemic notes
+## Епистемични бележки
 
 - Level 23 е direct visual evidence.
 - Bridge/landing sequence подкрепя, че Juliette оцелява при първоначалното падане; exact mechanics/distance не се извеждат само от still-а.
