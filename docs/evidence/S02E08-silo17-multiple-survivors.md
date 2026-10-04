@@ -1,34 +1,34 @@
-# S02E08 — multiple living inhabitants in Silo 17
+# S02E08 — множество живи обитатели в Silo 17
 
 **Knowledge boundary:** `S02E08`
 
-Earlier evidence established:
-- Silo 17 suffered mass exit and catastrophic collapse;
-- a child survivor was preserved inside the IT vault;
-- Juliette later encountered that survivor.
+По-ранният evidence установява:
+- Silo 17 преживява mass exit и catastrophic collapse;
+- child survivor е запазен вътре в IT vault;
+- по-късно Juliette среща този survivor.
 
-S02E08 directly shows that this person is **not the only living inhabitant** remaining in Silo 17.
+S02E08 директно показва, че този човек **не е единственият жив обитател** в Silo 17.
 
 ## Evidence lifecycle
 
-**E342 — Candidate/provisional:** scene indications suggested additional survivors.
+**E342 — Candidate/provisional:** сцената дава индикации за допълнителни survivors.
 
-**E356 — Direct confirmation:** additional living people are shown by the end of the episode.
+**E356 — Direct confirmation:** до края на епизода директно са показани и други живи хора.
 
-E356 supersedes the uncertainty of E342.
+E356 supersede-ва несигурността на E342.
 
 ## H63
 
-**Silo 17 contains multiple surviving inhabitants.**
+**Silo 17 съдържа множество живи обитатели.**
 
 **Confidence:** VH  
 **Status:** Confirmed / Refactored.
 
-This does not yet establish:
-- total survivor population;
+Това все още не установява:
+- общия survivor population;
 - family/generational structure;
-- whether they survived the original mass-exit event or were born later;
-- where they live;
-- whether they share the IT survivor's knowledge;
-- whether they have access to continuity power, protected archives or agriculture;
-- why they remained hidden from Juliette.
+- дали са преживели original mass-exit event или са родени по-късно;
+- къде живеят;
+- дали споделят knowledge-а на IT survivor-а;
+- дали имат access до continuity power, protected archives или agriculture;
+- защо са останали скрити от Juliette.
