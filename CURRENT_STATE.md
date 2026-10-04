@@ -326,196 +326,196 @@ S02E08 дава първото coherent privileged explanation **защо Silo �
 
 ### S02E02 — live exterior cleaner feed
 
-- Bernard/IT receives a live video feed associated with Juliette while she is outside.
-- The feed persists beyond the immediate surface of her own Silo.
-- The signal is lost when Juliette enters the second Silo.
-- Exact camera/transmitter/network architecture remains unknown.
-- Earlier `... CLEANING` archive files may belong to the same broader pipeline, but raw feed vs wearer-visible rendered output remains unresolved.
+- Bernard/IT получава live video feed, свързан с Juliette, докато тя е навън.
+- Feed-ът продължава отвъд непосредствената surface зона на нейния Silo.
+- Signal-ът се губи, когато Juliette влиза във втория Silo.
+- Exact camera/transmitter/network architecture остава неизвестна.
+- По-ранните `... CLEANING` archive files може да принадлежат към същия по-широк pipeline, но raw feed vs wearer-visible rendered output остава unresolved.
 
 ### S02E02 — THE ORDER / failed-cleaning contingency
 
-- Bernard consults a distinct physical document titled `THE ORDER`.
-- A clearly legible heading states: `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`.
-- Judge Meadows knows about `THE ORDER`.
-- Bernard fears that the catastrophic outcome observed around the second Silo could happen to his own Silo.
-- This establishes failed cleaning as a recognized Silo-stability crisis condition.
-- Authorship, historical basis, legal relation to the Pact and cross-Silo distribution of `THE ORDER` remain unknown.
+- Bernard използва отделен physical document, озаглавен `THE ORDER`.
+- Ясно четим heading гласи: `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`.
+- Judge Meadows знае за `THE ORDER`.
+- Bernard се страхува, че catastrophic outcome, наблюдаван около втория Silo, може да се случи и в неговия.
+- Това установява failed cleaning като recognized Silo-stability crisis condition.
+- Authorship, historical basis, legal relation към Pact и cross-Silo distribution на `THE ORDER` остават неизвестни.
 
 ### S02E02 — cleaning tape / seal mechanism
 
-- The woman involved in replacing Juliette's tape believes Juliette eventually died because the suit ran out of breathable air.
-- Bernard and Judge Meadows attribute Juliette's unexpected survival to replacement of the normal cleaning tape.
-- Meadows says somebody would eventually figure the tape mechanism out.
-- Meadows later conditions her help on being allowed outside after the crisis with the **good tape**.
-- These insider statements strongly support a known material distinction between normal cleaning tape and a better sealing configuration.
-- Exact physical failure pathway remains unresolved: external contaminant ingress, breathing-gas loss, or both.
+- Жената, участвала в замяната на tape на Juliette, вярва, че Juliette в крайна сметка е умряла, защото suit-ът е останал без breathable air.
+- Bernard и Judge Meadows приписват неочакваното оцеляване на Juliette на замяната на normal cleaning tape.
+- Meadows казва, че рано или късно някой ще разбере tape mechanism.
+- По-късно Meadows поставя като условие за помощта си да бъде пусната навън след кризата с **good tape**.
+- Тези insider statements силно подкрепят известна material distinction между normal cleaning tape и по-добра sealing configuration.
+- Exact physical failure pathway остава unresolved: external contaminant ingress, breathing-gas loss или и двете.
 
 ### S02E02 — secured IT / privileged governance layer
 
-- Bernard accesses a heavy secured/vault-like IT door in Juliette's Silo.
-- S02E01 already established an analogous secured IT compartment in the second Silo.
-- At least two Silos therefore share a repeated secured-IT architectural pattern.
-- Scene context associates Juliette's Silo secured IT layer with `THE ORDER`, classified cleaning knowledge and privileged live monitoring.
-- Judge Meadows' knowledge shows this secret layer is not exclusive to Bernard.
+- Bernard access-ва heavy secured/vault-like IT door в Silo на Juliette.
+- S02E01 вече установи analogous secured IT compartment във втория Silo.
+- Следователно поне два Silos споделят repeated secured-IT architectural pattern.
+- Scene context свързва secured IT layer в Silo на Juliette с `THE ORDER`, classified cleaning knowledge и privileged live monitoring.
+- Knowledge-ът на Judge Meadows показва, че този secret layer не е exclusive за Bernard.
 
 ### S02E02 — rebellion-context symbol
 
-- A distinct circled painted symbol/emblem appears in rebellion-context imagery.
-- Its exact meaning, name and faction identity remain unresolved.
+- Distinct circled painted symbol/emblem се появява в rebellion-context imagery.
+- Exact meaning, name и faction identity остават unresolved.
 
-### S02E01 — second Silo / rebellion / mass exit
+### S02E01 — вторият Silo / rebellion / mass exit
 
-- Opening historical sequence occurs in the second Silo later entered by Juliette.
+- Opening historical sequence се развива във втория Silo, в който по-късно влиза Juliette.
 - Anti-Founder / anti-deception graffiti is visible.
-- A generator-related 15-minute written warning is present, but its exact relation to the IT conflict is unresolved.
-- Sheriff-led group attacks/advances toward IT; another group defends IT.
-- Sheriff claims Russell lied to them; this is character testimony, not objective proof.
-- Sheriff-led group reaches the airlock, Sheriff opens it, and the group exits outside.
-- An early interpretation that the attack targeted Engineering/generator control is preserved as **E188 superseded inference** after later evidence identifies IT as the target.
+- Налице е generator-related 15-minute written warning, но exact relation към IT conflict остава unresolved.
+- Sheriff-led group атакува/напредва към IT; друга група защитава IT.
+- Sheriff твърди, че Russell ги е излъгал; това е character testimony, а не objective proof.
+- Sheriff-led group достига airlock, Sheriff го отваря и групата излиза навън.
+- Ранна interpretation, че атаката е насочена към Engineering/generator control, се запазва като **E188 superseded inference**, след като по-късен evidence идентифицира IT като target.
 
 ### S02E01 — exterior deaths / outside hazard
 
-- Juliette reaches a separate Silo exterior site surrounded by a large field of human remains.
-- Cross-scene continuity links the remains field to the historical mass-exit sequence.
-- This confirms a real lethal exterior hazard under observed conditions.
-- Exact lethal agent remains unknown.
-- Current best-fit class is airborne / atmosphere-borne exposure; toxin/chemical/aerosol and pathogen remain live alternatives.
-- Pure external radiation as the sole immediate killer is weakened, while airborne radioactive particulate is not excluded.
+- Juliette достига отделен Silo exterior site, заобиколен от голямо поле с човешки останки.
+- Cross-scene continuity свързва remains field с historical mass-exit sequence.
+- Това потвърждава real lethal exterior hazard при observed conditions.
+- Exact lethal agent остава неизвестен.
+- Текущият best-fit class е airborne / atmosphere-borne exposure; toxin/chemical/aerosol и pathogen остават live alternatives.
+- Pure external radiation като sole immediate killer е weakened, докато airborne radioactive particulate не е изключен.
 
 ### S02E01 — suit breathing / interior air
 
-- Inside the second Silo, Juliette experiences acute breathing distress while still sealed in her suit/helmet environment.
-- After breaking/opening the helmet, she can breathe the second Silo interior atmosphere.
-- Suit survival model therefore expands from tape/seal integrity to **seal + breathing-support integrity**.
-- Poor standard sealing could allow external contaminant ingress, faster breathing-gas loss, or both; exact mechanism is unresolved.
+- Във втория Silo Juliette изпитва acute breathing distress, докато още е sealed в suit/helmet environment.
+- След счупване/отваряне на helmet-а тя може да диша interior atmosphere на втория Silo.
+- Suit survival model следователно се разширява от tape/seal integrity към **seal + breathing-support integrity**.
+- Poor standard sealing може да позволява external contaminant ingress, по-бърз breathing-gas loss или и двете; exact mechanism е unresolved.
 
 ### S02E01 — standardized cross-Silo surveillance / IT
 
-- The second Silo contains a concealed camera behind/in a mirror structure, matching the surveillance concept in Juliette's Silo.
-- Covert mirror-camera surveillance is therefore not unique to one Silo.
-- The second Silo contains an IT institutional area that was actively defended during internal conflict.
-- Present-day IT access bridge is severed, creating a physical defensive/isolation geometry.
-- IT contains a hardened secured/vault-like compartment.
-- These observations support standardized multi-Silo surveillance/control design but do not yet prove one live central authority governs every Silo.
+- Вторият Silo съдържа concealed camera зад/в mirror structure, съвпадаща със surveillance concept в Silo на Juliette.
+- Covert mirror-camera surveillance следователно не е unique за един Silo.
+- Вторият Silo съдържа IT institutional area, която е била actively defended по време на internal conflict.
+- Present-day IT access bridge е severed, създавайки physical defensive/isolation geometry.
+- IT съдържа hardened secured/vault-like compartment.
+- Тези observations подкрепят standardized multi-Silo surveillance/control design, но още не доказват, че една live central authority управлява всеки Silo.
 
 ### S02E01 — residual power / flooding / survivor
 
-- Fixed lighting remains active in at least an agricultural area and the IT bridge area.
-- The second Silo is therefore not completely electrically dead; exact power source is unknown.
-- Water has risen to within a few levels below IT, establishing massive internal flooding.
-- At least one living person remains inside a secured IT compartment.
-- The survivor threatens Juliette if she attempts to open the door.
-- S02E08 directly confirms multiple living inhabitants in Silo 17; it is collapsed/largely depopulated but not limited to the previously known IT-vault survivor.
+- Fixed lighting остава active поне в agricultural area и IT bridge area.
+- Вторият Silo следователно не е напълно electrically dead; exact power source е неизвестен.
+- Водата се е покачила до няколко levels под IT, установявайки massive internal flooding.
+- Поне един living person остава вътре в secured IT compartment.
+- Survivor-ът заплашва Juliette, ако тя се опита да отвори door-а.
+- S02E08 директно потвърждава multiple living inhabitants в Silo 17; той е collapsed/largely depopulated, но не е ограничен само до познатия IT-vault survivor.
 
 ### S02E01 — agriculture / Juliette childhood
 
-- A large agricultural/growing zone is integrated into the Silo's vertical habitation structure.
-- A childhood flashback shows young Juliette visiting the excavation machine in her own Silo with a friend.
-- This establishes early personal familiarity with deep legacy infrastructure, without proving a lower-tunnel/inter-Silo connection.
+- Голям agricultural/growing zone е интегриран във vertical habitation structure на Silo.
+- Childhood flashback показва young Juliette, която посещава excavation machine в своя Silo с приятел.
+- Това установява early personal familiarity с deep legacy infrastructure, без да доказва lower-tunnel/inter-Silo connection.
 
-### S01E10 — cleaner helmet deception / exterior truth
+### S01E10 — deception в cleaner helmet / exterior truth
 
-- Juliette initially sees the same lush exterior representation associated with `JANE CARMODY CLEANING`.
-- She initially concludes that the internal public/cafeteria display is the lie.
-- The lush helmet view is then directly revealed as a false visual layer / overlay-like presentation.
-- The barren exterior remains visible once that false layer is gone.
-- Bernard recognizes the moment Juliette understands the deception and says, in context, that **she knows**.
-- Exact rendering technology is not established; `hologram` is treated as descriptive appearance, not a technical mechanism.
+- Juliette първоначално вижда същата lush exterior representation, свързана с `JANE CARMODY CLEANING`.
+- Първоначално тя заключава, че internal public/cafeteria display е лъжата.
+- Lush helmet view след това е директно разкрит като false visual layer / overlay-like presentation.
+- Barren exterior остава видим, след като false layer изчезне.
+- Bernard разпознава момента, в който Juliette разбира deception-а, и казва в context, че **тя знае**.
+- Exact rendering technology не е established; `hologram` се третира като descriptive appearance, а не technical mechanism.
 
 ### S01E10 — cleaning mortality / tape
 
-- Juliette’s suit is sealed with different tape/material from the standard cleaning configuration.
-- Bernard and Sims expect her to fail/die around the tree, treating that outcome as predictable.
-- Juliette survives beyond that expected failure point.
-- The contrast strongly implicates suit sealing/material quality in cleaner mortality.
-- Exact causal mechanism remains unresolved: inferior seal, environmental ingress, deliberate sabotage, or another linked factor.
+- Suit-ът на Juliette е sealed с различен tape/material от standard cleaning configuration.
+- Bernard и Sims очакват тя да fail-не/умре около дървото, третирайки outcome-а като predictable.
+- Juliette оцелява отвъд expected failure point.
+- Контрастът силно implicate-ва suit sealing/material quality в cleaner mortality.
+- Exact causal mechanism остава unresolved: inferior seal, environmental ingress, deliberate sabotage или друг linked factor.
 
 ### S01E10 — Bernard / surveillance / compartmentalization
 
-- Cleaning footage is broadcast across multiple/all visible Silo monitors before Bernard stops it.
-- Bernard orders surveillance/control-room personnel not to watch the classified footage and to forget what they saw; Sims is included in that command context.
-- Bernard personally brings Juliette into the surveillance/control environment and selectively shows archived incident footage.
-- Juliette says they “never had a chance”; Bernard agrees.
-- Bernard therefore has privileged knowledge/access beyond ordinary surveillance operators and can directly constrain Sims in at least this classified context.
-- This does not yet prove Bernard is the ultimate authority over the entire Silo.
+- Cleaning footage се broadcast-ва по multiple/all visible Silo monitors, преди Bernard да го спре.
+- Bernard нарежда на surveillance/control-room personnel да не гледа classified footage и да забрави видяното; Sims е включен в този command context.
+- Bernard лично въвежда Juliette в surveillance/control environment и selective показва archived incident footage.
+- Juliette казва, че те „never had a chance“; Bernard се съгласява.
+- Bernard следователно има privileged knowledge/access отвъд ordinary surveillance operators и може директно да constrain-ва Sims поне в този classified context.
+- Това още не доказва, че Bernard е ultimate authority над целия Silo.
 
 ### S01E10 — physical key `18`
 
-- Close visual evidence establishes that the illuminated object marked `18` is a **physical key**.
+- Close visual evidence установява, че осветеният object с маркировка `18` е **physical key**.
 - Bernard possesses/uses it.
-- S02E03 resolves its observed access target as the **SERVER ROOM**; the vault is located inside that restricted layer.
-- Numerical overlap with `Silo 18` is now a strong clue, while relation to `HDD 18` remains unresolved.
+- S02E03 resolve-ва observed access target като **SERVER ROOM**; vault се намира вътре в този restricted layer.
+- Numerical overlap със `Silo 18` вече е strong clue, докато relation към `HDD 18` остава unresolved.
 
 ### S01E10 — multiple silos / ruined skyline
 
-- Wide exterior shots show repeated circular surface installations consistent with neighboring Silo sites.
-- The landscape therefore contains multiple Silo installations rather than one isolated Silo.
-- A distant ruined/city-like skyline is visible on the horizon.
-- No city identity or geographic location is inferred from visual resemblance alone.
+- Wide exterior shots показват repeated circular surface installations, consistent с neighboring Silo sites.
+- Landscape следователно съдържа multiple Silo installations, а не един isolated Silo.
+- На horizon се вижда distant ruined/city-like skyline.
+- Само от visual resemblance не се infer-ва city identity или geographic location.
 
 ### S01E10 — Syndrome / Level 144 / Janitorial ROTA
 
-- An official `THE SYNDROME` notice confirms an institutional symptom list; small text is partially blurred and is transcribed conservatively.
-- The visible progression includes twitching/shaking and later motor/cognitive/nervous-system impairment, but exact wording remains image-limited.
-- Scene context identifies the bottom as Level 144; the area contains large axial fans / ventilation-air-handling infrastructure.
-- A `ROTA` board in the Janitorial closet is organized by day, `LEVEL NO.`, and time slots with assigned names/initials.
-- The ROTA board proves structured level-by-level scheduling, but does not by itself establish surveillance targeting or cover identities.
+- Официална табела `THE SYNDROME` потвърждава institutional symptom list; small text е partially blurred и се transcribe-ва conservatively.
+- Visible progression включва twitching/shaking и по-късно motor/cognitive/nervous-system impairment, но exact wording остава image-limited.
+- Scene context идентифицира bottom като Level 144; area съдържа large axial fans / ventilation-air-handling infrastructure.
+- `ROTA` board в Janitorial closet е организиран по day, `LEVEL NO.` и time slots с assigned names/initials.
+- ROTA board доказва structured level-by-level scheduling, но сам по себе си не установява surveillance targeting или cover identities.
 
 ### S01E10 — airlock / Cell 3
 
-- The cleaning airlock entrance is spatially opposite **Cell 3** in the Sheriff/holding area.
-- This directly refines the known detention → airlock → exterior route.
+- Cleaning airlock entrance е spatially opposite на **Cell 3** в Sheriff/holding area.
+- Това директно refine-ва познатия detention → airlock → exterior route.
 
 ### S01E09 — Level 23 escape outcome
 
-- Juliette survives the initial railing jump.
-- She lands on / is caught by an intermediate bridge structure rather than falling uninterrupted to the bottom.
-- Level 23 is directly shown during the sequence.
-- The event is therefore classified as escape/evasion, not a suicide attempt.
-- Exact drop distance and whether the landing point was pre-planned remain unresolved.
+- Juliette оцелява след initial railing jump.
+- Тя се приземява върху / е уловена от intermediate bridge structure, вместо да пада непрекъснато до bottom.
+- Level 23 е директно показан по време на sequence.
+- Event-ът следователно се класифицира като escape/evasion, а не suicide attempt.
+- Exact drop distance и дали landing point е бил pre-planned остават unresolved.
 
 ### S01E09 — numbered object/device `18`
 
-- A small illuminated object/device marked `18` is directly shown.
-- Scene context associates it with Bernard / the acting mayor.
+- Директно е показан малък осветен object/device с маркировка `18`.
+- Scene context го свързва с Bernard / acting mayor.
 - Its function is unknown.
-- No accepted link is made to HDD 18, access control, tracking, identity, level numbering or any other system without further evidence.
+- Без допълнителен evidence не се приема link към HDD 18, access control, tracking, identity, level numbering или друга system.
 
 ### S01E09 — Jane Carmody cleaning file
 
-- Juliette opens the known `JANE CARMODY CLEANING` video/file from the hard-drive evidence chain.
-- S01E01 already established that this file contains the lush exterior imagery.
-- Juliette therefore now directly sees/accesses evidence of the alternate cleaner visual state.
-- This strengthens the importance of the HDD evidence line but does not by itself establish whether the lush view is real or synthetic.
+- Juliette отваря познатия `JANE CARMODY CLEANING` video/file от hard-drive evidence chain.
+- S01E01 вече установи, че този file съдържа lush exterior imagery.
+- Juliette следователно вече директно вижда/access-ва evidence за alternate cleaner visual state.
+- Това strengthens importance-а на HDD evidence line, но само по себе си не установява дали lush view е real или synthetic.
 
 ### S01E08 — illicit microscopy / independent scientific observation
 
-- Juliette’s mother built/possessed a homemade microscope-like magnification apparatus.
+- Майката на Juliette е построила/притежавала homemade microscope-like magnification apparatus.
 - Context presents the device as tool за medical investigation, включително rabbit с heart problem analogous на Jacob’s.
 - Restricted institutional record corroborates authority attention към magnification-device activity.
-- Exact optical power/threshold crossing is not measured from the image itself.
-- This strongly strengthens the interpretation that Pact magnification restrictions limit residents’ capacity for independent scientific/medical discovery.
+- Exact optical power/threshold crossing не е измерен от самото изображение.
+- Това силно strengthens interpretation-а, че Pact magnification restrictions ограничават capacity на residents за independent scientific/medical discovery.
 
 ### S01E08 — Juliette revises the father-betrayal model
 
-- Juliette had previously believed her father betrayed her mother.
-- After the mirror-camera discovery, Juliette realizes her mother could have been observed directly through covert surveillance.
-- Therefore father-as-informant is no longer required to explain discovery of the microscope.
-- This does **not** prove he never shared any other information.
+- Juliette по-рано е вярвала, че баща ѝ е предал майка ѝ.
+- След mirror-camera discovery Juliette осъзнава, че майка ѝ е могла да бъде наблюдавана директно чрез covert surveillance.
+- Следователно father-as-informant вече не е необходим, за да обясни discovery на microscope.
+- Това **не** доказва, че той никога не е споделял друга информация.
 
 ### S01E08 — coercive institutional chain
 
-- Mayor and Sims coordinate a trap for Juliette.
-- They claim Juliette said she wanted to go outside.
-- In the scene context, only Juliette, Mayor and Sims are present; no independent witness is established.
-- Juliette is arrested on the basis of that claim.
-- This demonstrates that the “want to go out” rule can be weaponized if officials control the testimony about whether the phrase was spoken.
+- Mayor и Sims координират trap за Juliette.
+- Те твърдят, че Juliette е казала, че иска да излезе навън.
+- В scene context присъстват само Juliette, Mayor и Sims; не е established independent witness.
+- Juliette е арестувана на основата на този claim.
+- Това демонстрира, че правилото “want to go out” може да бъде weaponized, ако officials контролират testimony дали фразата е била произнесена.
 
 ### S01E08 — Bernard / Judge power claim
 
-- Bernard/IT states that Judge Meadows is afraid of him.
-- This is direct evidence of **Bernard’s claim**, not yet independent proof of hierarchy.
-- Combined with Judge surveillance, it supports a new candidate model that IT/Bernard may hold hidden leverage outside simple formal Judicial hierarchy.
+- Bernard/IT заявява, че Judge Meadows се страхува от него.
+- Това е direct evidence за **claim-а на Bernard**, а не independent proof за hierarchy.
+- Комбинирано с Judge surveillance, това подкрепя нов candidate model, че IT/Bernard може да има hidden leverage извън simple formal Judicial hierarchy.
 
 ### Surveillance / hidden control layer
 
