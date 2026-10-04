@@ -1,30 +1,65 @@
-# Текущо състояние — след S02E06
+# Текущо състояние — след S02E07
 
-**Knowledge boundary:** `S02E06`
+**Knowledge boundary:** `S02E07`
 
 ## Работен модел
 
-S02E06 reveals that the Silo's communication environment is not technologically primitive; it is **layered and controllable**. Institutional terminals support direct digital messaging, the control room receives routed field/HUMINT reports, and Bernard/IT can disable Silo-wide radio communications.
+S02E07 turns the secured IT vault into a much more complete continuity system: it contains residential/living space, a protected knowledge archive called `Legacy`, and IT in Silo 18 remains powered during a general blackout. Bernard also supplies the strongest direct age anchor yet by stating that the Silo was built **352 years ago**.
 
-Най-големите промени спрямо S02E05 са:
+Най-големите промени спрямо S02E06 са:
 
-1. Sheriff Department terminals have an explicit `DIRECT MESSAGING` function.
-2. The observed inbox includes departmental and named senders such as IT, Office of HR, Mechanical and individual users.
-3. A two-way person-to-person text conversation is directly shown.
-4. This strengthens an institutional intranet-like communications model and weakens any explanation that couriers exist because electronic messaging does not exist.
-5. A control-room screen receives current written field intelligence describing armed-group movement, direction and equipment.
-6. The field report is routed to named operators (`ATTN: DOREEN`, `FOR: DIEGO`).
-7. The exact input device/path used by the field source remains unresolved.
-8. Bernard/IT can interrupt all radio communications in the Silo.
-9. Radio therefore depends on a centrally controllable infrastructure point/path under IT authority.
-10. The strongest communication model now has at least three parallel tiers: physical couriers, institutional digital messaging and centrally controllable radio.
-11. Level **55** becomes a new direct spatial anchor.
-12. Level **120** becomes a new direct spatial anchor.
+1. The secured IT vault includes residential/living compartments.
+2. A protected component inside the vault is called `Legacy`.
+3. `Legacy` is identified as a library / knowledge archive.
+4. This supplies a concrete mechanism for preservation and intergenerational transfer of privileged historical/technical knowledge to IT custodians.
+5. Bernard states that the Silo was built **352 years ago**.
+6. Combined with the ~140-years-ago Rebellion anchor, construction falls roughly **212 years before the Rebellion**.
+7. A handwritten physical leaflet accuses IT of lying, presents Mechanical as seeking truth, asks what happened to Juliette and how Meadows really died, and asks what IT is hiding.
+8. The leaflet proves a circulating anti-IT counter-narrative, but not who authored/distributed it.
+9. During a general Silo 18 blackout, IT remains visibly powered.
+10. Residents notice that IT still has power, making privileged continuity infrastructure publicly visible.
+11. IT continuity power is now independently demonstrated in at least Silos 17 and 18.
+12. Silo 18 still does not prove the same exact external source described for Silo 17.
 
-> **След S02E06 communication control becomes a first-class part of the Silo governance architecture: digital messaging exists but observed access is institutional, control-room operators ingest human-source reports, and IT can remove the radio layer entirely. The key question is no longer whether the Silo has communication technology, but who may use each channel and who can disable or observe it.**
+> **След S02E07 the IT vault is best modeled as a continuity bunker for people, power and privileged knowledge. `Legacy` gives the hidden leadership a concrete institutional-memory mechanism, while the 352-year age anchor shows the Silo predates the Rebellion by roughly two centuries. At the same time, IT's privileged power resilience becomes publicly visible and feeds a growing counter-narrative against IT.**
 ---
 
 ## Наблюдения с висок confidence
+
+### S02E07 — vault habitation / Legacy
+
+- The secured IT vault includes residential/living compartments.
+- A protected component inside the vault is explicitly called `Legacy`.
+- `Legacy` is identified as a library / knowledge archive.
+- This provides a concrete preservation mechanism for privileged institutional memory across succession and crisis.
+- Bernard's deep historical/cross-Silo knowledge no longer needs to be modeled as vaguely inherited; `Legacy` is a direct candidate repository.
+- Silo 17 having an equivalent `Legacy` remains an inference, not a direct observation.
+
+### S02E07 — 352-year Silo age
+
+- Bernard states that the Silo was built **352 years ago**.
+- Combined with the earlier ~140-years-ago Rebellion anchor, construction is approximately **212 years before the Rebellion**.
+- Combined with Bernard's ~200-year Jane Carmody estimate, the current rough sequence is construction → ~152 years → Jane Carmody → ~60 years → Rebellion → ~140 years → present.
+- Jane/Rebellion values are approximate testimony anchors; this is not an exact calendar conversion.
+- The Rebellion is therefore clearly not the beginning of Silo history.
+- `A.R.` expansion and `SILO YEAR 96/97` mapping remain unresolved.
+
+### S02E07 — anti-IT physical counter-narrative
+
+- A handwritten leaflet states: `I.T. Lies to us.`
+- It states: `Mechanical wants THE TRUTH.`
+- It asks what happened to Juliette, how Meadows really died, and what IT is hiding.
+- It ends with `Look and See.`
+- The note establishes a circulating anti-IT counter-narrative but does not establish its author or whether Mechanical leadership officially produced it.
+- Physical paper is a communication channel distinct from the centrally cuttable radio layer established in S02E06.
+
+### S02E07 — Silo 18 continuity power
+
+- During a general Silo 18 power outage, IT remains visibly lit/powered.
+- Residents explicitly notice and question why IT still has power.
+- This independently corroborates functional IT continuity/redundant power across at least Silos 17 and 18.
+- It does not yet prove that Silo 18 uses the same exact external source described by the Silo 17 survivor.
+- The power asymmetry is now publicly observable and can feed anti-IT distrust during crisis.
 
 ### S02E06 — institutional digital messaging
 
@@ -455,12 +490,15 @@ S02E06 reveals that the Silo's communication environment is not technologically 
 - Same account places this before Rebellion.
 - S02E03 independently establishes a current institutional drug offered explicitly **to make a person forget**; whether this is the same agent/family as the historical water-based claim remains unresolved.
 
-### Relics / archives
+### Relics / archives / Legacy
 
 - S01E06 already confirmed restricted Judicial relic database with `PRE-SILO` archival records.
 - S01E07 testimony gives a reason relics matter: they preserve continuity with pre-Silo history.
 - Claim that relic prohibition serves deliberate historical erasure is testimony-backed and strongly consistent with observed restricted-knowledge architecture.
 - Georgia guide has Flamekeeper preservation provenance but does not establish Silo location.
+- S02E07 directly reveals `Legacy`, a protected library/knowledge archive inside the IT vault.
+- `Legacy` provides a concrete mechanism for preserving privileged historical/technical knowledge while ordinary public knowledge remains restricted or lost.
+- Exact catalog, curation rules, media types and whether records are complete/edited remain unresolved.
 
 ### Reproductive control
 
@@ -516,6 +554,8 @@ Observed direct anchors include:
 - Level 144/bottom contains large ventilation / air-handling machinery.
 - S02E05 survivor testimony also places a critical pump on Level 144 in Silo 17; its destruction during rebellion caused the flooding cascade that eventually disabled the main generator.
 - Silo 17 IT retains an independent power path after normal generator failure and may be able to energize a recovery pump.
+- S02E07 independently shows Silo 18 IT remaining powered during a general blackout, strongly supporting standardized IT continuity power across at least Silos 17 and 18.
+- Exact source equivalence remains unresolved: Silo 17 is described as external/outside power; Silo 18 currently proves functional redundancy/independence only.
 - Pact bans mechanized vertical transport and high-magnification devices above a threshold.
 
 ---
@@ -562,31 +602,33 @@ Observed direct anchors include:
 | H35 | S02E01 historical rebellion sequence depicts the second Silo later entered by Juliette. | VH | Confirmed / Refactored |
 | H36 | Outside lethality is driven by a mobile airborne/dust-borne environmental hazard whose local concentration can temporarily fall/disperse and later return. | H | Strongly Strengthened / Refactored |
 | H37 | Concealed mirror-camera surveillance is part of a standardized multi-Silo control architecture across at least two Silos. | H | Strongly Strengthened |
-| H38 | IT is a standardized strategic/secured institutional layer across at least Silos 17 and 18, including protected vault compartments and, in Silo 17, an independent continuity-power path. | H | Strongly Strengthened / Refactored |
+| H38 | IT is a standardized strategic/secured continuity layer across at least Silos 17 and 18, including protected vaults and continuity power in both; Silo 18 additionally reveals residential space and the Legacy knowledge archive. | VH | Strongly Strengthened / Refactored |
 | H39 | `THE ORDER` is a privileged operational/governance doctrine distinct from the public Pact and includes active crisis-narrative management such as directing blame toward Mechanical. | VH | Strongly Strengthened / Refactored |
 | H40 | Cleaning is an engineered public legitimacy/deterrence ritual: manipulated lush perception drives cleaning, while expected visible cleaner death reinforces outside danger; Silo 17 shows the destabilization cascade when that visible outcome fails. | VH | Strongly Strengthened / Refactored |
 | H41 | `THE ORDER` encodes known Silo governance failure modes, including failed cleaning → war risk; Silo 17 provides concrete historical corroboration of that pattern. | VH | Strongly Strengthened |
-| H42 | The IT vault/secured IT layer is a protected continuity/survival compartment capable of preserving people, privileged systems/knowledge and resilient power through Silo-wide unrest or collapse. | H | Strongly Strengthened / Refactored |
+| H42 | The IT vault/secured IT layer is a protected continuity environment preserving people, resilient power and privileged knowledge through crisis/collapse; S02E07 directly adds residential space and the Legacy library. | VH | Strongly Strengthened / Refactored |
 | H43 | Standard cleaning protection may be deliberately calibrated to fail within a short publicly observable window after enough time for the cleaner to clean. | H | Active |
-| H44 | Bernard inherits limited but significant cross-Silo historical/status knowledge; he knows about Silo 17's long-term failed/dead status without evidence that he understands the whole system. | H | Active / Strengthened |
+| H44 | Bernard inherits limited but significant historical/cross-Silo knowledge; S02E07's Legacy library provides a concrete preservation/transfer mechanism for that institutional memory, without proving every fact he knows comes from Legacy. | VH | Strongly Strengthened / Refactored |
 | H45 | The Syndrome may be a systemic human reaction to long-term Silo life rather than a primary physiological disease. | M | Active |
 | H46 | Cleaner lush imagery belongs to a broader immersive stored/rendered visual technology family also demonstrated by Bernard's standalone pre-Silo environment headset. | VH | Strongly Strengthened / Refactored |
 | H47 | Historical/cultural knowledge suppression has removed ordinary pre-Silo natural-world vocabulary from at least some residents. | H | Active / Strengthened |
-| H48 | `A.R.` is a distinct institutional era notation; S02E04's ~140-year Rebellion/Salvador Quinn anchor strengthens the separate-calendar model, while exact expansion/mapping to `SILO YEAR` remains unresolved. | H | Strengthened |
+| H48 | `A.R.` is a distinct institutional era notation; the 352-year construction age and ~140-year Rebellion anchor now strongly establish a long pre-Rebellion Silo history, while exact `A.R.` expansion and mapping to `SILO YEAR` remain unresolved. | H | Strongly Strengthened / Refactored |
 | H49 | Mechanical is a predefined institutional scapegoat during rebellion/crisis; blame is prescribed independently of where unrest actually begins. | VH | Strongly Strengthened |
 | H50 | Salvador Quinn is a key Rebellion-era privileged-IT figure whose archived handwritten letter contains a deliberately encoded final payload likely protecting sensitive historical information. | VH | Strongly Strengthened / Refactored |
 | H51 | Hidden-control leadership is non-monolithic: Bernard and Sims have partially independent interests/power bases, while Bernard demonstrably retains authority over Sims' formal posting and shadow eligibility. | H | Strongly Strengthened / Refactored |
 | H52 | Bernard uses the Mechanical-scapegoating doctrine to convert a leadership crisis into controlled conflict by framing Mechanical for Meadows' death. | H | Strongly Strengthened |
 | H53 | Judge is a high public/formal office that Bernard can fill/reassign, while the `shadow` role is a separate privileged IT succession/read-in path. | H | Strongly Strengthened |
-| H54 | IT/vault infrastructure has an independent external power path robust enough to survive normal-generator failure and potentially energize selected critical recovery systems. | H | Strongly Strengthened |
+| H54 | IT/vault infrastructure has standardized continuity-power capability across at least Silos 17 and 18, allowing IT to remain powered when normal Silo power is unavailable; an external/outside source is specifically described only by Silo 17 survivor testimony, while Silo 18 source architecture remains unresolved. | VH | Strongly Strengthened / Refactored |
 | H55 | IT and Judicial may connect to a hidden privileged infrastructure backbone distinct from ordinary Silo distribution; exact service type remains unresolved. | M-H | Active |
 | H56 | The Silo uses multiple parallel communication tiers with different access/control properties: physical couriers, institutional digital messaging and radio. | H | Strongly Strengthened / Refactored |
 | H57 | The surveillance/control-room function aggregates human-source field reporting alongside technical surveillance inputs. | H | Active / Strengthened |
 | H58 | IT is a central communications choke point capable of degrading or isolating operational coordination by cutting Silo-wide radio traffic. | H | Active / Strengthened |
+| H59 | IT vaults may include a standardized `Legacy` knowledge archive intended to preserve technical, historical and governance knowledge across succession or Silo-wide collapse; direct confirmation currently exists in Silo 18. | H | Active / Strengthened |
+| H60 | The crisis now contains competing public narratives: leadership/IT frames Mechanical as the threat while an anti-IT physical counter-narrative presents Mechanical as seeking truth and questions Juliette/Meadows official stories. | H | Active / Strengthened |
 
 ---
 
-## Surveillance / privileged-control model after S02E06
+## Surveillance / privileged-control model after S02E07
 
 S02E02 expands the hidden-control model beyond ordinary internal surveillance.
 
@@ -623,12 +665,47 @@ S02E05 makes the hierarchy more concrete: Bernard removes Sims from Security, de
 
 S02E06 adds **communications infrastructure control** to Bernard/IT's demonstrated domain. Institutional direct messaging exists, the control room ingests routed field reports, and IT can disable the Silo's radio layer. This does not prove IT reads every message or controls every communication channel, but it establishes a real communications choke-point capability.
 
+S02E07 adds a concrete **institutional-memory mechanism** and visible continuity privilege: the vault contains `Legacy`, while IT remains powered during a broader Silo 18 blackout. The privileged layer therefore preserves not only classified access and communications control but also knowledge and operational continuity.
+
 It still does **not** establish:
 - the full membership of that layer;
 - whether Sims knows parts of `THE ORDER`;
 - who authored `THE ORDER`;
 - whether a current authority above Bernard/Meadows exists;
 - whether this layer is centrally coordinated across all Silos.
+
+---
+
+## IT continuity / Legacy model after S02E07
+
+```text
+SECURED IT VAULT
+      │
+      ├─ hardened protected space
+      ├─ residential / living capability
+      ├─ continuity power
+      └─ LEGACY
+           │
+           ▼
+   protected knowledge archive
+           │
+           ▼
+ succession / future IT custodian
+```
+
+Cross-Silo support:
+
+```text
+Silo 17
+vault + survivor + independent IT power
+            │
+            └─ Legacy not yet directly named
+
+Silo 18
+vault + residential space + Legacy + blackout-resilient IT power
+```
+
+The strongest current model is a standardized IT continuity layer, but exact component identity across all 50 Silos remains unresolved.
 
 ---
 
@@ -707,6 +784,30 @@ external/outside source (character description)
 This strongly upgrades IT from a privileged information compartment to a hardened **continuity infrastructure layer**.
 
 The exact external source, generation technology, capacity and routing remain unresolved.
+
+---
+
+## Competing crisis narratives after S02E07
+
+```text
+BERNARD / IT NARRATIVE
+Mechanical = designated crisis culprit
+        │
+        ▼
+Meadows framing / anti-Mechanical mobilization
+
+PHYSICAL COUNTER-NARRATIVE
+"I.T. Lies to us"
+"Mechanical wants THE TRUTH"
+        │
+        ├─ What happened to Juliette?
+        ├─ How did Meadows really die?
+        └─ What is IT hiding?
+```
+
+The note proves competing messaging, not the truth of every claim or official Mechanical authorship.
+
+The blackout adds a visible asymmetry: normal areas lose power while IT remains lit, giving residents direct evidence that IT possesses privileged infrastructure.
 
 ---
 
@@ -819,32 +920,36 @@ Historical targeting purpose against Flamekeeper family lines remains testimony-
 
 ---
 
-## Immediate watch targets за S02E07
+## Immediate watch targets за S02E08
 
-- who has access to `DIRECT MESSAGING`;
-- whether ordinary residents have personal digital accounts/terminals;
-- whether courier use is driven by access limits, physical delivery, privacy/audit concerns, policy or another factor;
-- whether institutional digital messages are logged, searchable or readable by IT/Judicial;
-- whether the Sheriff messaging system and control-room field-report system are the same backend;
-- how field informants submit reports and what devices/accounts they use;
-- whether human-source reports are authenticated and how spoofing/manipulation is prevented;
-- how control-room operators fuse human reports with surveillance camera feeds;
-- exact mechanism by which IT disables Silo-wide radio;
-- whether IT can selectively block departments/frequencies/users or only perform total cutoff;
-- whether any emergency/bypass radio path exists;
-- whether digital messaging remains operational during radio shutdown;
-- whether Judicial shares any radio-control capability;
-- whether radio traffic is centrally monitored or archived;
-- functions/locations associated with Level 55;
-- functions/locations associated with Level 120;
-- all unresolved S02E05 Quinn/power/infrastructure questions remain active unless later evidence resolves them.
+- exact contents and scope of `Legacy`;
+- whether `Legacy` contains pre-Silo history, construction records, cross-Silo status, `THE ORDER`, technical manuals or curated/censored history;
+- who can access `Legacy`;
+- whether shadow succession includes systematic `Legacy` training;
+- whether Silo 17 has a homologous `Legacy` archive;
+- whether the Silo 17 survivor's knowledge comes from such an archive;
+- whether Bernard's 352-year figure comes directly from `Legacy`;
+- whether 352 years is exact or rounded;
+- whether the figure applies specifically to Silo 18 or to a wider synchronized Silo construction program;
+- exact mapping among construction age, Jane Carmody, Rebellion/Quinn, `A.R.` and `SILO YEAR 96/97`;
+- who authored/distributed the anti-IT leaflet;
+- whether the leaflet is official Mechanical messaging or grassroots opposition;
+- whether physical leaflets are deliberately used to bypass radio/digital control;
+- whether the anti-IT message spreads beyond Mechanical-linked groups;
+- how public opinion changes after people observe IT remaining powered during blackout;
+- exact source, capacity and duration of Silo 18 IT continuity power;
+- whether Silo 18 uses the same external source/architecture described for Silo 17;
+- whether Judicial also remains powered during the outage;
+- whether all 50 Silos have standardized continuity power + Legacy infrastructure;
+- all unresolved S02E06 communications questions remain active unless later evidence resolves them.
 
 Виж също:
 
+- `docs/episodes/S02E07.md`
+- `docs/evidence/S02E07-legacy-vault.md`
+- `docs/evidence/S02E07-352-year-chronology.md`
+- `docs/evidence/S02E07-anti-it-counter-narrative.md`
+- `docs/evidence/S02E07-silo18-continuity-power.md`
 - `docs/episodes/S02E06.md`
-- `docs/evidence/S02E06-institutional-messaging.md`
-- `docs/evidence/S02E06-control-room-humint.md`
-- `docs/evidence/S02E06-radio-communications-control.md`
-- `docs/episodes/S02E05.md`
 - `docs/evidence-ledger.md`
 - `docs/open-questions.md`

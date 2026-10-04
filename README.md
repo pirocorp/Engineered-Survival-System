@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S02E06 the Silo is no longer best modeled as communication-poor: institutional terminals support direct messaging, the control room receives routed field/HUMINT reports, and Bernard/IT can cut Silo-wide radio. Communication technology exists; access and central controllability are the constrained variables.**
+> **След S02E07 the secured IT vault is best modeled as a continuity bunker for people, power and privileged knowledge: it includes living space and the `Legacy` library, Bernard places Silo construction 352 years ago, and Silo 18 independently confirms blackout-resilient IT power. At the same time, a physical anti-IT counter-narrative is circulating publicly.**
 
 ## Език на проекта
 
@@ -16,17 +16,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S02E06**
+**Текуща граница на знанието:** **S02E07**
 
-**Статус на гледане:** **Сезон 2, епизод 6**
+**Статус на гледане:** **Сезон 2, епизод 7**
 
-Не се използва никаква информация от S02E07+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация от S02E08+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S02E06 най-силният работен модел е:
+След S02E07 най-силният работен модел е:
 
-> **The Silo uses layered communications rather than a single universal channel: physical couriers remain active, institutional terminals support direct digital messaging and routed field reports, and IT retains a Silo-wide radio cutoff. Communication control is therefore an architectural governance capability, not merely a social convention.**
+> **The secured IT vault is a continuity architecture, not merely a secure room: it preserves people through residential space, preserves privileged knowledge through `Legacy`, and retains power during broader Silo failure. Bernard's 352-year construction statement also establishes a long pre-Rebellion Silo history, while public anti-IT messaging shows the crisis becoming a contest over institutional truth.**
 
 Ключови установени линии:
 
@@ -144,6 +144,15 @@
 - Bernard/IT can interrupt all radio communications across the Silo, establishing a centralized communications-control capability;
 - the strongest communication model now contains at least three parallel tiers: physical couriers, institutional digital messaging and centrally controllable radio;
 - Level 55 and Level 120 become new direct spatial anchors.
+- S02E07 reveals residential/living compartments inside the secured IT vault;
+- a protected vault component called `Legacy` is identified as a library / knowledge archive;
+- `Legacy` provides a concrete mechanism for privileged institutional memory surviving across generations/succession;
+- Bernard states that the Silo was built **352 years ago**;
+- combined with the ~140-years-ago Rebellion anchor, construction is roughly **212 years before the Rebellion**;
+- a handwritten leaflet states `I.T. Lies to us`, `Mechanical wants THE TRUTH`, asks what happened to Juliette and how Meadows really died, and asks what IT is hiding;
+- the leaflet establishes a circulating anti-IT counter-narrative but not its author/distributor;
+- during a general Silo 18 blackout, IT remains visibly powered and residents explicitly notice the exception;
+- continuity power is therefore independently demonstrated across at least Silos 17 and 18, while exact source equivalence remains unresolved.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
@@ -166,6 +175,7 @@
 - [`docs/episodes/S02E04.md`](docs/episodes/S02E04.md) — episode record за S02E04.
 - [`docs/episodes/S02E05.md`](docs/episodes/S02E05.md) — episode record за S02E05.
 - [`docs/episodes/S02E06.md`](docs/episodes/S02E06.md) — episode record за S02E06.
+- [`docs/episodes/S02E07.md`](docs/episodes/S02E07.md) — episode record за S02E07.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
@@ -220,6 +230,10 @@
 - [`docs/evidence/S02E06-institutional-messaging.md`](docs/evidence/S02E06-institutional-messaging.md) — direct messaging, courier coexistence and layered communication access.
 - [`docs/evidence/S02E06-control-room-humint.md`](docs/evidence/S02E06-control-room-humint.md) — routed field/HUMINT reporting into the control-room operational picture.
 - [`docs/evidence/S02E06-radio-communications-control.md`](docs/evidence/S02E06-radio-communications-control.md) — Bernard/IT Silo-wide radio cutoff capability.
+- [`docs/evidence/S02E07-legacy-vault.md`](docs/evidence/S02E07-legacy-vault.md) — vault habitation, Legacy library and institutional-memory mechanism.
+- [`docs/evidence/S02E07-352-year-chronology.md`](docs/evidence/S02E07-352-year-chronology.md) — 352-year construction age and pre-Rebellion chronology refactor.
+- [`docs/evidence/S02E07-anti-it-counter-narrative.md`](docs/evidence/S02E07-anti-it-counter-narrative.md) — handwritten anti-IT leaflet and competing crisis narrative.
+- [`docs/evidence/S02E07-silo18-continuity-power.md`](docs/evidence/S02E07-silo18-continuity-power.md) — Silo 18 blackout-resilient IT power and cross-Silo corroboration.
 - [`docs/open-questions.md`](docs/open-questions.md) — активните въпроси за falsification / future testing.
 - [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — visual evidence от S01E01.
 - [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — selected visual evidence от S01E02.
@@ -247,6 +261,8 @@
 - [`assets/S02E05/MANIFEST.md`](assets/S02E05/MANIFEST.md) — S02E05 visual processing/selection manifest.
 - [`assets/S02E06/screenshots/`](assets/S02E06/screenshots/) — validated selected visual evidence от S02E06.
 - [`assets/S02E06/MANIFEST.md`](assets/S02E06/MANIFEST.md) — S02E06 visual processing/selection manifest.
+- [`assets/S02E07/screenshots/`](assets/S02E07/screenshots/) — validated selected visual evidence от S02E07.
+- [`assets/S02E07/MANIFEST.md`](assets/S02E07/MANIFEST.md) — S02E07 visual processing/selection manifest.
 
 ## Основна директива
 
@@ -433,9 +449,21 @@ Confidence не е математическа вероятност и не за�
 **Near-real-time field reporting ≠ direct source-terminal proof.** A control-room report establishes a digital HUMINT/field-report pipeline, but the originating device, intermediary and protocol remain unresolved.
 
 
+
+### Допълнително правило след S02E07
+
+**Protected knowledge preservation ≠ public historical continuity.** The `Legacy` library demonstrates that privileged historical/technical knowledge can remain deliberately preserved even while ordinary residents lose or are denied broad historical context.
+
+**Functional redundancy ≠ identical source architecture.** Silo 18 IT remaining powered during blackout proves continuity/redundant power, but does not by itself prove the same external source described for Silo 17.
+
+**Circulating message ≠ verified authorship or truth.** The anti-IT leaflet is direct evidence that a counter-narrative exists. Its claims, author, distributor and official Mechanical endorsement are tracked separately.
+
+**Derived chronology preserves approximation.** `352 years since construction - ~140 years since Rebellion ≈ 212 pre-Rebellion years` is a strong derived anchor, but approximate testimony inputs are not silently converted into exact calendar dates.
+
+
 ## Текущ модел за външния свят
 
-След S02E06 основната exterior visual ambiguity остава разрешена. S02E06 does not materially alter the exterior model; its major contribution is the internal communications architecture:
+След S02E07 основната exterior visual ambiguity остава разрешена. S02E07 does not materially alter the exterior model; its major contributions are IT continuity architecture, protected historical knowledge and chronology:
 
 1. **Lush cleaner view is false** — helmet-ът показва manipulated / overlay-like visual layer.
 2. **Barren exterior is substantially real** — след отпадането на false layer Juliette вижда devastated terrain.
@@ -534,6 +562,7 @@ episode/S02E03-analysis
 episode/S02E04-analysis
 episode/S02E05-analysis
 episode/S02E06-analysis
+episode/S02E07-analysis
 hypothesis/<name>
 model/<name>
 methodology/<change>
