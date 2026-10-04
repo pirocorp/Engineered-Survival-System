@@ -774,13 +774,13 @@ Observed direct anchors включват:
 | H67 | Salvador Quinn има пряка връзка с оцелял основополагащ материал на Pact; авторството, статусът на Основател и текстовите разлики спрямо текущия Pact остават недоказани. | H | Active / Strengthened |
 | H69 | Кодираният край на Quinn е защитено съобщение от втори слой за бъдещ читател, който вече е проникнал отвъд официалния разказ и е насочен към път за физическа проверка. | VH | Strongly Strengthened / Refactored |
 | H70 | Под известното/публично дъно на Silo 18 има активен скрит инфраструктурен слой; точната топология и връзката с помпите/`CLASSIFIED` тунела остават неустановени. | H-VH | Active / Strongly Supported |
-| H71 | `the safeguard` е physical whole-Silo poison-delivery termination mechanism; protected disclosure е demonstrated activation condition, но controller и full trigger logic остават unresolved. | VH | Strongly Strengthened / Refactored |
-| H72 | Hidden lower system може да detect-ва/engage-ва visitors и да води context-aware two-way communication; identity на interlocutor-а остава unknown. | H-VH | Active / Strongly Supported |
+| H71 | `the safeguard` е физически механизъм за доставяне на отрова и унищожаване на целия Silo; разкриването на защитеното знание е демонстрирано условие за задействане, но контролиращият субект и пълната логика на trigger-а остават неустановени. | VH | Strongly Strengthened / Refactored |
+| H72 | Скритата долна система може да открива/ангажира посетители и да води двупосочна комуникация, отчитаща контекста; самоличността на събеседника остава неизвестна. | H-VH | Active / Strongly Supported |
 | H73 | Safeguard има practical interruption/blocking path; Silo 17 parents са stated successful example. | H-VH | New / Strongly Supported |
-| H74 | Safeguard supply path идва отвън и влиза при Level 14; exact upstream source, routing и controller остават unknown. | H-VH | New / Strongly Supported |
-| H75 | Founders' safeguard е fail-deadly whole-Silo termination architecture, предназначена да може да унищожи local population при определени conditions. | H-VH | New / Active |
-| H76 | Alleged Iranian radiological attack в pre-Silo political narrative може да е fabricated/manipulated pretext; reality, attribution и institutional authorship остават unresolved. | M | New / Candidate |
-| H77 | S02E10 yellow-duck PEZ gift може да е same-object/provenance ancestor candidate за earlier Silo-era yellow-plastic/blue-handle PEZ relic. | M-H | New / Candidate |
+| H74 | Пътят за подаване на safeguard-а идва отвън и влиза при Level 14; точният източник нагоре по веригата, маршрутизацията и контролиращият субект остават неизвестни. | H-VH | New / Strongly Supported |
+| H75 | Safeguard-ът на Основателите е fail-deadly архитектура за унищожаване на целия Silo, предназначена да може да унищожи местното население при определени условия. | H-VH | New / Active |
+| H76 | Предполагаемата иранска радиологична атака в pre-Silo политическия разказ може да е фабрикуван/манипулиран претекст; реалността на събитието, приписването и институционалното авторство остават неустановени. | M | New / Candidate |
+| H77 | Подаръкът PEZ с жълто пате в S02E10 може да е кандидат за същия предмет/предшественик по произход на по-ранната Silo-era жълта пластмасова PEZ реликва със синя дръжка. | M-H | New / Candidate |
 
 ---
 
@@ -819,8 +819,8 @@ active lower contact/system
 ```
 
 Граници:
-- exact identity на lower interlocutor-а остава unknown;
-- relation между lower contact и safeguard controller не е established;
+- точната самоличност на долния събеседник остава неизвестна;
+- връзката между долния контакт и контролиращия safeguard-а субект не е установена;
 - exact relation Quinn tunnel ↔ HDD 18 `CLASSIFIED` tunnel остава strong inference, не direct identity proof;
 - poison agent, upstream source и activation command path са unknown;
 - Bernard's absence from previous-visitor list не доказва absence of knowledge;
@@ -830,7 +830,7 @@ active lower contact/system
 
 ## Surveillance / privileged-control model after S02E10
 
-S02E02 разширява hidden-control model отвъд ordinary internal surveillance.
+S02E02 разширява модела за скрит контрол отвъд обикновеното вътрешно наблюдение.
 
 ```text
 internal mirror cameras / archived feeds
@@ -861,13 +861,13 @@ S02E03 добавя, че privileged layer на Bernard включва и long-s
 
 S02E04 допълнително показва, че този layer **не е politically monolithic**: Bernard приписва impeachment pressure срещу Meadows на Sims, докато Sims активно mobilize-ва sentiment срещу Mechanical. Едновременно с това Bernard използва `THE ORDER`, за да shape-не отделна scapegoating operation.
 
-S02E05 прави hierarchy по-конкретна: Bernard отстранява Sims от Security, отказва му `shadow` succession path и го назначава за Judge. Public Judicial authority и privileged IT succession следователно са distinct layers, докато independent political leverage на Sims все още не позволява simple model „Bernard controls everything“.
+S02E05 прави йерархията по-конкретна: Bernard отстранява Sims от Security, отказва му `shadow` пътя за наследяване и го назначава за Judge. Публичната власт на Judicial и привилегированото IT наследяване следователно са отделни слоеве, докато независимото политическо влияние на Sims все още не позволява простия модел „Bernard контролира всичко“.
 
-S02E06 добавя **communications infrastructure control** към demonstrated domain на Bernard/IT. Institutional direct messaging съществува, control room приема routed field reports, а IT може да disable-не radio layer на Silo. Това не доказва, че IT чете всяко message или контролира всеки communication channel, но установява реален communications choke-point capability.
+S02E06 добавя **контрол върху комуникационната инфраструктура** към демонстрирания домейн на Bernard/IT. Институционалното direct messaging съществува, control room приема маршрутизирани полеви доклади, а IT може да изключва радио слоя на Silo. Това не доказва, че IT чете всяко съобщение или контролира всеки комуникационен канал, но установява реална способност за контрол на комуникационна choke point.
 
 S02E07 добавя concrete **institutional-memory mechanism** и visible continuity privilege: vault съдържа `Legacy`, докато IT остава powered по време на по-широк blackout в Silo 18. Privileged layer следователно запазва не само classified access и communications control, но и knowledge и operational continuity.
 
-S02E08 изяснява asymmetry: public historical layer е умишлено прекъснат при Quinn, докато privileged knowledge оцелява достатъчно, за да може Bernard да знае hidden Quinn account, а `Legacy` да запази protected material. Това подкрепя **controlled historical monopoly**, а не total destruction of history.
+S02E08 изяснява асиметрията: публичният исторически слой е умишлено прекъснат при Quinn, докато привилегированото знание оцелява достатъчно, за да може Bernard да знае скрития разказ за Quinn, а `Legacy` да запази защитен материал. Това подкрепя **контролиран исторически монопол**, а не пълно унищожаване на историята.
 
 It still does **not** establish:
 - пълния membership на този layer;
@@ -907,7 +907,7 @@ Silo 18
 vault + residential space + Legacy + blackout-resilient IT power
 ```
 
-Най-силният текущ model е standardized IT continuity layer, но exact component identity във всичките 50 Silos остава unresolved.
+Най-силният текущ модел е стандартизиран IT слой за приемственост, но точната идентичност на компонентите във всичките 50 Silos остава неустановена.
 
 ---
 
@@ -1110,7 +1110,7 @@ Quinn truth survives
 Bernard запазва скрита chronology/history
 ```
 
-Това вече не се моделира най-добре като simple accidental historical loss. Най-силният текущ model е **deliberate public historical reset + privileged preservation**.
+Това вече не се моделира най-добре като проста случайна историческа загуба. Най-силният текущ модел е **умишлен публичен исторически reset + привилегировано съхраняване**.
 
 Still unresolved:
 - дали diagnosis на Quinn е била correct;
@@ -1167,7 +1167,7 @@ Historical targeting purpose срещу Flamekeeper family lines остава te
 
 - защо Quinn/earlier testimony дават 50, а Bernard казва 51;
 - identity/function на possible 51st installation;
-- кой/какво стои зад hidden lower interlocutor/system;
+- кой/какво стои зад скрития долен събеседник/система;
 - relation между lower contact и safeguard control authority;
 - upstream source и exact poison agent на safeguard-а;
 - exact trigger logic отвъд disclosure condition;
@@ -1180,16 +1180,16 @@ Historical targeting purpose срещу Flamekeeper family lines остава te
 - exact command/access path за Silo 18 hatch;
 - дали Juliette's exterior warning е достигнал residents unfiltered;
 - exact chronology/date на direct pre-Silo Washington scene;
-- identity/role и institutional access на жената в bar scene;
+- самоличността/ролята и институционалният достъп на жената в сцената в бара;
 - дали alleged radiological attack реално се е случила;
 - дали Iran attribution е factual, manipulated или false;
 - дали retaliatory strike е бил само обсъждан или operationally planned;
 - дали radiological-security environment е causal precursor към Silo project;
 - защо Georgia се повтаря като pre-Silo anchor;
-- дали Georgia има geographic relation към Silo installations или само към characters/material provenance;
-- дали S02E10 PEZ gift е exact same physical relic, който се появява в Silo era, и ако да — каква е chain of custody;
+- дали Georgia има географска връзка със Silo инсталациите или само с произхода на персонажи/материали;
+- дали подаръкът PEZ в S02E10 е точно същата физическа реликва, която се появява в ерата на Silo, и ако да — каква е веригата на притежание;
 - original purpose на Silos и exact cause на exterior catastrophe;
-- кой current/remote authority, ако има такъв, стои над local Head-of-IT layer.
+- коя текуща/дистанционна власт, ако има такава, стои над местния слой Head of IT.
 
 Виж също:
 
