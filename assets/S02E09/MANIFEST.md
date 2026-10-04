@@ -40,6 +40,6 @@
 - E381–E385 установяват имената Salvador Quinn, Mary Meadows и George Wilkins като тримата предишни посетители, достигнали до тази точка. Bernard не е сред тях; това не доказва само по себе си, че не е знаел за съществуването на мястото.
 - E386 (warning that disclosure will trigger `the safeguard`) е dialogue evidence; в текущия пакет няма отделен screenshot за тази реплика.
 
-## Contact sheet
+## Контактен лист
 
 `contact-sheet.jpg` е auxiliary/navigation asset, а не primary evidence.
