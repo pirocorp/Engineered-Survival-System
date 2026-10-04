@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S02E10 / края на Season 2 `the safeguard` вече е физически установена whole-Silo poison system: external pipe влиза при Level 14 и може да убие local population, а Silo 17 testimony показва, че path-ът може да бъде блокиран. Финалът също отваря direct pre-Silo Washington timeline с radiation screening, Georgia congressman, disputed radiological-attack narrative и PEZ provenance clue.**
+> **След S03E01 Juliette е Mayor приблизително три месеца след завръщането си, но остава под surveillance и deliberate memory suppression. Computer/system-ът знае treatment-а ѝ, заявява, че ситуацията е `beyond The Order`, тревожи се от връщането на safeguard-related memories и иска doubled dose. Паралелно pre-Silo Washington линията идентифицира Daniel Keen и показва anomalous common-mode disruption на aircraft + missiles по време на Iran operation.**
 
 ## Език на проекта
 
@@ -29,17 +29,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S02E10 — Season 2 finished**
+**Текуща граница на знанието:** **S03E01**
 
-**Статус на гледане:** **Сезон 2 — завършен**
+**Статус на гледане:** **Season 3 — S03E01 завършен**
 
-Не се използва никаква информация след S02E10, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация след S03E01, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S02E10 / края на Season 2 най-силният работен модел е:
+След S03E01 най-силният работен модел е:
 
-> **Silo system трябва да се моделира като layered survival/control architecture: public habitation → privileged IT/Legacy continuity → hidden lower contact/control → externally supplied safeguard poison path. Outside hazard остава отделен physical threat. Direct pre-Silo Washington scene вече добавя първия contemporaneous origin-era political/security context.**
+> **Silo system вече се моделира като layered survival/control architecture, в която local governance/IT/surveillance layer е наблюдаван или направляван от по-висок context-aware computer/system. Memory suppression е active operational tool, safeguard остава physically blockable kill system, а exact identity на supervisory layer остава unresolved.**
 
 Ключови установени линии:
 
@@ -50,7 +50,7 @@
 - S01E05 показва systematic/time-dependent star-like movement на night display-а;
 - observer в cafeteria не знае concept-а „stars“ и сам reconstruct-ва movement patterns;
 - Silo има **144 levels** и Bernard заявява **10 112 current residents**;
-- observed direct level anchors вече включват `8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 119, 120, 123, 144`;
+- observed direct level anchors вече включват `1, 8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 67, 87, 119, 120, 123, 144`;
 - Pact deliberately забранява mechanized transport през Silo;
 - Pact забранява magnifying devices над определен threshold;
 - Juliette dossier съдържа content от разговора ѝ с Holston → strong hidden-surveillance/reporting evidence;
@@ -583,14 +583,14 @@ EXTERIOR
 SURFACE / CLEANING EXIT
         │
         ▼
-LEVEL 1 / UP-TOP ?
+LEVEL 1 / UP-TOP
         │
         ├─ Sheriff's Department / holding
         ├─ Cell 3
         └─ cleaning airlock opposite Cell 3
         │
         ▼
-LEVEL 8 → 9 → 12 → ~14 JUDICIAL → 17 → 23 → 26 → 27 → 29 → 30
+LEVEL 8 → 9 → 12 → ~14 JUDICIAL → 17 → 23 → 26 → 27 → 29 → 30 → 50 → 55 → 67 → 87
         │
         ▼
 LEVEL 50 / MIDS
@@ -654,6 +654,9 @@ episode/S02E05-analysis
 episode/S02E06-analysis
 episode/S02E07-analysis
 episode/S02E08-analysis
+analysis/S02E09-hidden-lower-system
+analysis/S02E10-safeguard-presilo-washington
+analysis/S03E01-memory-control-supervisory-system
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -663,4 +666,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S02E03`
+**Следваща knowledge boundary:** `S03E02`
