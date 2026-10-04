@@ -1,8 +1,8 @@
 # Отворени въпроси
 
-**Knowledge boundary:** **S02E09**
+**Knowledge boundary:** **S02E10 — Season 2 finished**
 
-Въпросите са само за knowledge state-а до S02E09. Не се използва информация от S02E10+, книги, wiki, interviews, leaks или retrospective explanations.
+Въпросите са само за knowledge state-а до края на S02E10. Не се използва информация след S02E10, книги, wiki, interviews, leaks или retrospective explanations.
 
 Resolved/partially resolved questions от по-ранни епизоди са премахнати или refactor-нати вместо да се пазят като вече неверни watch targets.
 
@@ -957,17 +957,17 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S02E09 — the safeguard
 
-682. Какво физически представлява `the safeguard`?
-683. Кой/какво има authority да го activate-ва?
-684. Activation manual, remote, automatic или hybrid ли е?
-685. Какви exact trigger conditions съществуват?
-686. Защо disclosure на hidden-lower knowledge е достатъчен trigger според warning-а към Lukas?
-687. Как system-ът би detect-нал такова disclosure?
-688. Какъв е physical effect на safeguard-а?
-689. Target-ът individual, local Silo population, infrastructure, multiple Silos или друг scope ли е?
-690. Head of IT може ли да override/disable-не safeguard-а?
-691. Quinn знаел ли е actual safeguard mechanism, or only existence/risk?
-692. `the safeguard` еднакъв ли е във всички Silos?
+682. **RESOLVED in S02E10:** `the safeguard` включва physical pipe, която може да достави poison в local Silo с whole-population kill capability.
+683. Кой/какво има authority да activate-ва safeguard-а и къде физически/логически се намира този controller?
+684. **PARTIALLY RESOLVED in S02E10:** physical delivery path е известен, но activation manual, remote, automatic или hybrid ли е остава unresolved.
+685. **PARTIALLY RESOLVED:** disclosure на protected lower knowledge е stated sufficient condition; какви други exact trigger conditions съществуват?
+686. Защо disclosure на hidden-lower knowledge е sufficient trigger за whole-Silo poison response?
+687. Как system-ът detect-ва или доказва такова disclosure, така че да activate-не safeguard-а?
+688. **RESOLVED in S02E10:** physical effect е poison delivery в Silo с capacity да kill-не whole local population.
+689. **SUBSTANTIALLY RESOLVED in S02E10:** demonstrated/stated target scope е local Silo population; остава дали system има broader cross-Silo modes.
+690. **PARTIALLY RESOLVED in S02E10:** physical blocking е possible и е stated successful в Silo 17; остава дали Head of IT има authorized override/disable capability.
+691. Quinn знаел ли е actual poison-pipe mechanism, Level 14 interface и blocking method, или само existence/risk?
+692. Silo 17 има equivalent safeguard, но еднакви ли са exact pipe route, Level 14 interface, poison agent и controller във всички Silos?
 
 ## S02E09 — hidden lower contact / tunnel
 
@@ -1008,6 +1008,44 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 718. Коя wife е използвана като leverage и къде е задържана?
 719. Какъв plan се опитва да извлече sender-ът?
 720. Camera condition surveillance requirement ли е, identity/authentication measure ли е, or coercive control tactic?
+
+## S02E10 — safeguard supply / interruption
+
+721. Къде се намира upstream poison source-ът за safeguard pipe-а?
+722. Какъв е exact poison agent и как се разпределя през local Silo?
+723. Level 14 interface еднакъв ли е във всички Silos?
+724. Как parents на Silo 17 survivor-а са discovered safeguard pipe-а?
+725. Как точно са го blocked — valve, physical seal, cutting, rerouting или друг mechanism?
+726. Може ли remote/controller layer да bypass-не или restore-не blocked safeguard path?
+727. Hidden lower interlocutor/system същият authority ли е, който control-ва safeguard activation?
+728. Juliette's claimed stopping method същият ли е като Silo 17 block method или independent approach?
+
+## S02E10 — Silo 18 return / airlock
+
+729. Каква е exact function на burner/flame cycle след entry — decontamination, sterilization, contaminant destruction или друго?
+730. Кой може да command-ва exterior hatch/airlock и Bernard лично ли го control-ва?
+731. Juliette's `not safe / do not come out` message показан ли е unfiltered на residents и как IT може да mediate този feed?
+732. Level 1 Sheriff/cafeteria/airlock adjacency как изглежда в exact floor plan?
+733. До каква степен stair sabotage променя long-term mobility и control of upper/lower Silo?
+
+## S02E10 — direct pre-Silo Washington
+
+734. Коя е exact calendar date/year на Washington bar scene?
+735. Коя е жената и каква е institutional/professional role-а ѝ?
+736. Alleged radiological attack срещу САЩ реално ли се е случила?
+737. Ако attack-ът не се е случил, кой е fabricated/manipulated narrative-а и с каква цел?
+738. Ако е имало real event, Iran attribution accurate ли е или manipulated?
+739. Retaliatory strike срещу Iran само political speculation ли е, formal planning ли е, or later executed action?
+740. Radiation screening пред ordinary bar direct consequence ли е от alleged attack narrative и колко widespread е practice-ът?
+741. Pre-Silo radiological-security crisis causal precursor ли е към Silo project или само contextual background?
+
+## S02E10 — Georgia / PEZ provenance
+
+742. Защо Georgia се повтаря като pre-Silo anchor — travel guide relic + 15th-district Congressman?
+743. Georgia geographic location на Silos ли подсказва, character provenance ли, или друг design/origin relationship?
+744. S02E10 yellow-duck PEZ gift exact same physical object ли е като earlier Silo-era `YELLOW, PLASTIC, BLUE HANDLE` relic?
+745. Ако е same object, каква е chain of custody от pre-Silo woman до Silo-era hidden/relic context?
+746. PEZ provenance може ли да свърже конкретни Founders/pre-Silo actors с later Silo population or relic-preservation network?
 
 ## Основен въпрос на проекта
 
