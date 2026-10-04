@@ -1,8 +1,8 @@
 # Отворени въпроси
 
-**Knowledge boundary:** **S02E02**
+**Knowledge boundary:** **S02E09**
 
-Въпросите са само за knowledge state-а до S02E02. Не се използва информация от S02E03+, книги, wiki, interviews, leaks или retrospective explanations.
+Въпросите са само за knowledge state-а до S02E09. Не се използва информация от S02E10+, книги, wiki, interviews, leaks или retrospective explanations.
 
 Resolved/partially resolved questions от по-ранни епизоди са премахнати или refactor-нати вместо да се пазят като вече неверни watch targets.
 
@@ -58,7 +58,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 39. Какво съдържа relic video camera-та?
 40. George intentionally evidence package ли е подготвил за Juliette?
 41. Какво точно е намерил George, когато казва „намерих това, което търсех“?
-42. Локализирал ли е door-а, отворил ли го е или е преминал?
+42. **SUBSTANTIALLY RESOLVED in S02E09:** George е назован като един от само тримата previous visitors, достигнали hidden lower contact point. Exact route/door mechanics и какво е научил там остават unresolved.
 43. Какво е научил непосредствено преди смъртта си?
 44. George official suicide account false ли е?
 45. Ако George е murdered — кой има motive/access/opportunity?
@@ -77,7 +77,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 55. Excavation machine действително ли е machine-ът, изкопал Silo?
 56. Защо е оставена/locked below Silo?
 57. Flooded bottom natural, accidental или deliberate barrier ли е?
-58. Колко е дълбока water zone?
+58. **PARTIALLY RESOLVED in S02E09:** показаната bottom zone е плитка и passable on foot; depth/topology на останалата flooded area остава unresolved.
 59. Къде точно е reported short tunnel + door?
 60. Какво има зад door-а?
 61. Защо George exploration и death са temporally related, ако изобщо са?
@@ -831,8 +831,8 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 586. 352-year construction figure sourced ли е from `Legacy`?
 587. `THE ORDER` част ли е от `Legacy`, separate controlled doctrine ли е, or both?
 588. `Legacy` curated/censored ли е, and who controls additions/removals?
-589. Silo 17 има ли homologous `Legacy` archive?
-590. Широките познания на оцелелия от Silo 17 резултат ли са от години достъп до Legacy-like archive?
+589. **SUBSTANTIALLY RESOLVED in S02E09:** Silo 17 vault директно съдържа large preserved knowledge environment, функционално аналогична на `Legacy`; official `Legacy` label за Silo 17 остава unconfirmed.
+590. **STRONGLY STRENGTHENED in S02E09:** broad knowledge на Silo 17 vault survivor-а има direct plausible source в показаната archive/library environment; exact learning history остава unresolved.
 591. За колко occupants са предназначени residential vault compartments и за какъв период?
 592. Vault разполага ли с независими запаси от food/water/air, достатъчни за long-duration continuity?
 593. Всеки Silo vault стандартизиран ли е със същия habitation + Legacy + power package?
@@ -903,18 +903,18 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 641. Кои Quinn relatives/descendants Meadows посещава?
 642. Как тези relatives са запазили книги/materials despite historical confiscation and relic enforcement?
-643. Meadows' Quinn-family visit част ли е от known four-day disappearance, or separate event?
+643. **STRONGLY STRENGTHENED in S02E09:** Meadows е достигнала hidden lower contact point; дали това е станало именно през known four-day disappearance остава unresolved.
 644. Какво конкретно научава Meadows от Quinn's family?
 645. Old `Pact Between the Founders` same text ли има as current Pact?
 646. Има ли annotations, marginalia or hidden notes by Quinn inside the copy?
 647. Handwritten `Salvador Quinn` ownership mark ли е, signature ли е, dedication ли е, or another provenance mark?
 648. Quinn бил ли е само owner/custodian на copy-то, или е имал formal role, свързана с foundational doctrine?
 649. Old Pact copy преди или след Quinn's historical reset е придобито/annotated?
-650. Meadows' discovery of this copy допринася ли directly за abandoning Bernard's shadow path?
+650. **STRONGLY STRENGTHENED in S02E09:** Meadows достига same hidden lower contact point като Quinn; дали old Pact discovery directly води до това visit/abandonment остава unresolved.
 
 ## S02E08 — Quinn decoded payload
 
-651. Какъв е full decoded final message?
+651. **PARTIALLY RESOLVED in S02E09:** decoded payload вече включва `the game is rigged`, Founders-built-fifty claim, `the safeguard` и bottom/tunnel/confirmation instruction; exact full message остава unresolved.
 652. Какво точно Quinn има предвид под `the game`?
 653. `rigged` означава ли governance, Pact enforcement, rebellion cycle, cleaning system, Silo network, Founders' design or another mechanism?
 654. Кой е intended future reader — Head of IT, shadow, independent investigator, Quinn descendant, or anyone capable of decoding?
@@ -945,7 +945,69 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 673. Каква е връзката им с previously known IT-vault survivor?
 674. Защо са останали hidden from Juliette толкова дълго?
 675. Имат ли own governance/social structure?
-676. Имат ли access до books, archives, Legacy-like knowledge or preserved oral history?
+676. **SUBSTANTIALLY RESOLVED in S02E09:** Silo 17 vault директно съдържа books/archive/knowledge-rich environment и additional survivors влизат в него; exact access rules, curation и official `Legacy` status остават unresolved.
+
+## S02E09 — 50/51 Silos и counting model
+
+677. Защо Quinn казва, че Founders са построили **50**, а Bernard казва, че реалният брой е **51**?
+678. 51-вото звено standard Silo ли е, different facility/control node ли е, later addition ли е, or counting-convention difference?
+679. Всички Heads of IT/shadows знаят ли exact 51 count, или само broader multi-Silo existence?
+680. Има ли numbering scheme, която включва/изключва отделен special installation?
+681. Как `SILO_COUNT` от HDD 18 се mapping-ва към 50/51 discrepancy?
+
+## S02E09 — the safeguard
+
+682. Какво физически представлява `the safeguard`?
+683. Кой/какво има authority да го activate-ва?
+684. Activation manual, remote, automatic или hybrid ли е?
+685. Какви exact trigger conditions съществуват?
+686. Защо disclosure на hidden-lower knowledge е достатъчен trigger според warning-а към Lukas?
+687. Как system-ът би detect-нал такова disclosure?
+688. Какъв е physical effect на safeguard-а?
+689. Target-ът individual, local Silo population, infrastructure, multiple Silos или друг scope ли е?
+690. Head of IT може ли да override/disable-не safeguard-а?
+691. Quinn знаел ли е actual safeguard mechanism, or only existence/risk?
+692. `the safeguard` еднакъв ли е във всички Silos?
+
+## S02E09 — hidden lower contact / tunnel
+
+693. Кой или какво стои зад lower interlocutor-а?
+694. Human remote operator ли е, automated system ли е, AI-like interface ли е, or another mechanism?
+695. Как lower system detect-ва присъствието и identity/context на Lukas?
+696. Какъв е communication path-ът — local audio, buried network, remote link или друго?
+697. Same interlocutor/system ли е контактувал Quinn, Meadows и George?
+698. Защо само тези трима преди Lukas са достигали тази point?
+699. Какво точно е научил Quinn там?
+700. Какво точно е научила Meadows там?
+701. Какво точно е научил George там?
+702. Visit-ът на Meadows случил ли се е през известното four-day disappearance?
+703. Bernard знае ли за tunnel/contact point, въпреки че не е previous visitor?
+704. Quinn tunnel same structure ли е as HDD 18 `CLASSIFIED` tunnel / Pact-forbidden lower system?
+705. Tunnel-ът свързва ли отделни Silos, service infrastructure, central facility или друг hidden layer?
+
+## S02E09 — bottom water / pumps
+
+706. Реално ли съществуват hidden pumps под known bottom, както спекулира shadow-ът?
+707. Ако съществуват, те ли поддържат shallow/stable water level?
+708. Mechanical deliberately ли е държан ignorant за този hydraulic layer?
+709. Hidden pumps свързани ли са с tunnel/contact infrastructure?
+
+## S02E09 — Silo 17 survivors / vault knowledge
+
+710. Silo 17 knowledge room официално `Legacy` ли се нарича?
+711. Колко standardized е vault knowledge package между Silos 17 и 18?
+712. Кои additional survivors имат access до archive-а и при какви rules?
+713. Защо survivor group нарича IT-vault survivor „the killer“?
+714. Каква е точната history/governance структура на тази group?
+715. Къде са останалите survivors, ако group-ът не представлява всички живи inhabitants?
+
+## S02E09 — coercive digital message
+
+716. Кой е sender-ът на wife/camera coercive message?
+717. Кой е recipient-ът?
+718. Коя wife е използвана като leverage и къде е задържана?
+719. Какъв plan се опитва да извлече sender-ът?
+720. Camera condition surveillance requirement ли е, identity/authentication measure ли е, or coercive control tactic?
 
 ## Основен въпрос на проекта
 

@@ -371,6 +371,47 @@
 | E354 | Decoded portion от protected final message на Quinn гласи: `If you've gotten this far, you already know the game is rigged.` | Direct decoded-document evidence | VH | Exact referent на `the game` остава unresolved. |
 | E355 | Wording-ът на Quinn предполага future reader, който вече е проникнал отвъд official narrative, преди да достигне protected message. | Strong textual inference | H | Подкрепя second-layer protected-message model. |
 | E356 | Директно са показани additional living people в Silo 17 освен Juliette и previously known survivor. | Direct observation | VH | Потвърждава multiple living inhabitants; total count и survival history остават unresolved. |
+| E357 | В Silo 17 има организирана група от additional survivors, визуално изглеждащи предимно млади. | Direct observation | VH / H | VH за group existence; H за приблизителна age assessment по appearance. |
+| E358 | Групата нарича known IT-vault survivor „the killer“. | Direct dialogue | VH | Установява label/belief, не причината или factual truth зад accusation-а. |
+| E359 | Групата задържа survivor-а и го използва като leverage за food. | Direct action / dialogue | VH | Показва organized coercive behavior и resource pressure. |
+| E360 | Audrey показва най-силна наблюдавана склонност към violence/escalation в сцената. | Character behavior / dialogue | H | Behavioral characterization, не stable personality diagnosis. |
+| E361 | Decoded Quinn text гласи: `The founders didn't build a single silo. They built fifty.` | Direct decoded-document evidence | VH | Independent documentary support за 50-built claim. |
+| E362 | Bernard уточнява, че реалният брой е 51. | Privileged character testimony | H-VH | VH, че го заявява; exact counting model остава unresolved заради 50/51 discrepancy. |
+| E363 | Heads of IT и техните shadows знаят за другите Silos. | Privileged institutional knowledge / dialogue | VH | Cross-Silo awareness е част от privileged succession/read-in layer. |
+| E364 | Броят Silos не е представен като най-важната protected част от Quinn material-а. | Dialogue / decoded-message context | VH | Насочва attention към по-дълбок claim. |
+| E365 | Quinn пише: `And they created the safeguard.` | Direct decoded-document evidence | VH | Въвежда named protected concept; mechanism unknown в S02E09. |
+| E366 | Quinn инструктира future reader да отиде на `the very bottom`, да намери `the tunnel` и да получи `confirmation there`. | Direct decoded-document evidence | VH | Physical verification path. |
+| E367 | Quinn представя tunnel-а като място, където предходният protected claim може да бъде physically verified. | Strong textual inference | H-VH | Exact scope на „confirmation“ остава unresolved. |
+| E368 | Quinn tunnel може да е същата структура или директно свързана с по-рано tracked hidden lower door / `CLASSIFIED` tunnel. | Cross-episode working inference | M-H | Exact identity не е директно доказана. |
+| E369 | Level marker 14 отново се вижда директно. | Direct visual evidence | VH | Corroboration only в S02E09; не се присвоява нова function. |
+| E370 | Digital message изисква plan information, camera-та да остане включена, recipient-ът да не напуска и използва wife като coercive leverage. | Direct visual / textual evidence | VH | Sender/recipient identity не се извежда само от кадъра. |
+| E371 | Shadow-ът на Bernard спекулира, че под known bottom може да има pumps, неизвестни на Mechanical, които поддържат water level стабилно. | Character speculation / technical inference | M | VH, че speculation-ът е изказан; M за actual existence/function. |
+| E372 | Silo 17 vault показва голямо помещение с книги, документи, изображения, модели и preserved objects. | Direct visual evidence | VH | Директно установява knowledge-rich environment. |
+| E373 | Vault environment включва ясно educational/scientific material и голям astronomical/planetary model. | Direct visual evidence | VH | Подкрепя preserved knowledge function. |
+| E374 | Silo 17 има директно наблюдавана knowledge-preservation function, функционално аналогична на `Legacy` в Silo 18. | Strong cross-Silo inference | H-VH | Official `Legacy` label не е директно потвърден за Silo 17. |
+| E375 | В наблюдаваната bottom zone на Silo 18 водата е плитка и route-ът е passable on foot. | Direct observation | VH | Не установява uniform depth за цялото дъно. |
+| E376 | Quinn instruction за bottom/tunnel е physically executable без задължително diving поне по наблюдавания route. | Spatial inference | H | Ограничено до показаната зона. |
+| E377 | На дъното на Silo 18 действително съществува physical tunnel/opening. | Direct observation | VH | Core physical discovery. |
+| E378 | Откриването на tunnel-а materially validates physical-check instruction на Quinn. | Direct confirmation of prior clue | VH | Не разрешава автоматично full meaning на message-а. |
+| E379 | В hidden lower zone Lukas получава intelligible, contextual response от unknown interlocutor/system. | Direct observation / dialogue | VH | Establishes active two-way contact; source identity unknown. |
+| E380 | Tunnel-ът води към active monitored/controlled infrastructure, а не само към passive abandoned passage. | Strong system inference | H | Supported by context-aware interaction. |
+| E381 | Lukas научава, че преди него само Salvador Quinn, Mary Meadows и George Wilkins са стигали до тази point. | Direct dialogue | VH | Exhaustive previous-visitor claim в сцената. |
+| E382 | George Wilkins е достигнал hidden lower contact point. | Direct historical claim from lower contact | VH | Strongly resolves old George-door reach hypothesis. |
+| E383 | Mary Meadows е достигнала hidden lower contact point. | Direct historical claim from lower contact | VH | Strongly links Meadows to protected lower layer. |
+| E384 | Salvador Quinn е достигнал hidden lower contact point. | Direct historical claim from lower contact | VH | Strengthens provenance на Quinn tunnel instruction. |
+| E385 | Bernard не е сред three previous visitors; това установява, че не е reached personally тази point, но не доказва ignorance за нейното existence. | Exhaustive-dialogue negative evidence | VH / M-H | Distinguishes physical visitation from knowledge. |
+| E386 | Lukas е предупреден, че disclosure на видяното/наученото в hidden lower zone ще доведе до activation на `the safeguard`. | Direct dialogue / threat-condition statement | VH | Mechanism, controller и physical effect не са established в S02E09. |
+
+## Визуални източници — S02E09
+
+- [Silo 17 survivor group](../assets/S02E09/screenshots/silo17-young-survivor-group.jpeg)
+- [Quinn — fifty Silos / safeguard](../assets/S02E09/screenshots/quinn-fifty-silos-safeguard.jpeg)
+- [Quinn — bottom / tunnel / confirmation](../assets/S02E09/screenshots/quinn-bottom-tunnel-confirmation.jpeg)
+- [Coercive camera/wife message](../assets/S02E09/screenshots/coercive-camera-wife-message.jpeg)
+- [Silo 17 vault knowledge archive](../assets/S02E09/screenshots/silo17-vault-knowledge-archive.jpeg)
+- [Silo 18 bottom tunnel](../assets/S02E09/screenshots/silo18-bottom-tunnel.jpeg)
+- [Lukas — hidden contact / Quinn reference](../assets/S02E09/screenshots/lukas-hidden-contact-quinn-reference.jpeg)
+- [Prior visitors — Quinn / Meadows / George](../assets/S02E09/screenshots/prior-visitors-quinn-meadows-george.jpeg)
 
 ## Визуални източници — S01E01
 
