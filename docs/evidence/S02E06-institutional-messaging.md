@@ -26,12 +26,12 @@ Inbox-ът съдържа departmental и named senders, включително 
 physical couriers
     ↳ broad/general delivery
     ↳ can carry physical material
-    ↳ access not dependent on terminal entitlement
+    ↳ access не зависи от terminal entitlement
 
 institutional digital messaging
     ↳ departments + named users
     ↳ interactive two-way messages
-    ↳ endpoint/access population still unknown
+    ↳ endpoint/access population остава неизвестна
 
 radio
     ↳ operational voice traffic
