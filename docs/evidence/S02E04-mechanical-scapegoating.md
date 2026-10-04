@@ -2,14 +2,14 @@
 
 **Knowledge boundary:** `S02E04`
 
-S02E04 reveals that crisis management includes a predefined narrative target.
+S02E04 разкрива, че crisis management включва предварително определен narrative target.
 
 ## Evidence
 
-- `THE ORDER` instructs leadership to blame Mechanical during rebellion/crisis.
-- Historical wall markings in Mechanical are interpreted as showing that Mechanical has repeatedly been blamed regardless of where unrest actually began.
-- Bernard later stages Mechanical representatives at Meadows' death scene after poisoning her.
-- Sims actively agitates public sentiment against Mechanical.
+- `THE ORDER` инструктира leadership да обвинява Mechanical при rebellion/crisis.
+- Historical wall markings в Mechanical се интерпретират като знак, че Mechanical многократно е бил обвиняван независимо откъде реално е започвал unrest.
+- По-късно Bernard инсценира присъствието на представители на Mechanical на мястото на смъртта на Meadows, след като я отравя.
+- Sims активно насочва public sentiment срещу Mechanical.
 
 ## Working mechanism
 
@@ -27,9 +27,9 @@ conflict managed around a chosen target
 
 ## H49
 
-**Mechanical is a predefined institutional scapegoat during serious unrest.**
+**Mechanical е предварително определен institutional scapegoat при сериозен unrest.**
 
 **Confidence:** VH  
 **Status:** Strongly Strengthened
 
-The exact reason for selecting Mechanical remains unresolved. The strongest current candidate is its control of the generator/critical infrastructure, but social/geographic separation may also matter.
+Exact reason за избора на Mechanical остава unresolved. Най-силният текущ candidate е контролът му върху generator/critical infrastructure, но social/geographic separation също може да има значение.

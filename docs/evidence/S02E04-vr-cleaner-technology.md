@@ -1,27 +1,27 @@
-# S02E04 — Immersive headset and cleaner-helmet technology
+# S02E04 — Immersive headset и cleaner-helmet technology
 
 **Knowledge boundary:** `S02E04`
 
 ## Evidence
 
-Bernard possesses an immersive visual headset showing a pre-Silo natural environment identified in-scene as **Monteverde cloud forest, 2018**.
+Bernard притежава immersive visual headset, показващ pre-Silo natural environment, идентифициран in-scene като **Monteverde cloud forest, 2018**.
 
-Bernard explains that it works similarly to the visual system used by cleaner helmets.
+Bernard обяснява, че работи подобно на visual system, използвана от cleaner helmets.
 
-He gives the headset to Judge Meadows before she dies.
+Той дава headset-а на Judge Meadows преди смъртта ѝ.
 
 ## H46 refactor
 
-The cleaner lush view is now best modeled as part of a broader **immersive visual-display technology family** capable of presenting stored/rendered natural environments.
+Cleaner lush view вече се моделира най-добре като част от по-широка **immersive visual-display technology family**, способна да показва stored/rendered natural environments.
 
-This strongly strengthens H46 beyond simple repeated imagery.
+Това силно strengthens H46 отвъд simple repeated imagery.
 
 Still unresolved:
-- whether cleaner helmets literally play a prerecorded scene;
-- whether they render a stored environment procedurally;
-- whether the standalone headset and cleaner helmet use identical hardware/software;
-- why specific pre-Silo environmental recordings are preserved;
-- who can access the archive.
+- дали cleaner helmets буквално play-ват prerecorded scene;
+- дали render-ват stored environment procedurally;
+- дали standalone headset и cleaner helmet използват identical hardware/software;
+- защо конкретни pre-Silo environmental recordings са preserved;
+- кой може да access-ва archive.
 
 ## Visual
 

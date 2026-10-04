@@ -1,50 +1,50 @@
-# S02E01 — Second-Silo rebellion, IT assault and mass exit
+# S02E01 — Rebellion във втория Silo, IT assault и mass exit
 
 **Knowledge boundary:** `S02E01`
 
 ## Evidence chain
 
-- rebellion-era anti-Founder / anti-deception graffiti is visible;
-- a 15-minute generator-related written warning appears;
-- Sheriff-led group advances against **IT**;
+- видимо е rebellion-era anti-Founder / anti-deception graffiti;
+- появява се 15-minute generator-related written warning;
+- Sheriff-led group напредва срещу **IT**;
 - another group defends IT;
-- Sheriff says **Russell lied to them**;
-- Sheriff-led group reaches the airlock;
+- Sheriff казва, че **Russell ги е излъгал**;
+- Sheriff-led group достига airlock;
 - Sheriff opens it;
-- the group exits outside;
-- present-day remains and event continuity link this sequence to the second Silo later entered by Juliette.
+- групата излиза навън;
+- present-day remains и event continuity свързват тази sequence с втория Silo, в който по-късно влиза Juliette.
 
 ## Correction history
 
-An early interpretation treated the attack as an attack on Engineering to seize generator control.
+Ранна interpretation третира атаката като нападение срещу Engineering с цел завземане на generator control.
 
-Later scene geography establishes IT as the attacked/defended institutional location.
+По-късната scene geography установява IT като attacked/defended institutional location.
 
-Therefore **E188 is superseded inference** and remains recorded historically rather than silently overwritten.
+Следователно **E188 е superseded inference** и остава записан historical, вместо да бъде мълчаливо презаписан.
 
-The generator note remains separate. Its relation to the IT assault is unresolved.
+Generator note остава отделна. Връзката ѝ с IT assault е unresolved.
 
 ## Interpretation
 
-The sequence proves organized internal conflict involving:
+Sequence-ът доказва организиран internal conflict, включващ:
 - IT as a defended strategic location;
-- an exit attempt through the airlock;
+- exit attempt през airlock;
 - strong anti-deception sentiment.
 
-It does **not** yet prove:
+Това все още **не** доказва:
 - exact formal faction labels;
-- that the Sheriff-led group represents all rebels;
-- that IT defenders caused the bridge destruction unless directly shown;
-- that the group achieved overall political control of the Silo.
+- че Sheriff-led group представлява всички rebels;
+- че IT defenders са причинили bridge destruction, освен ако не е директно показано;
+- че групата е постигнала overall political control върху Silo.
 
 ## Russell boundary
 
-`Russell lied` is a **character claim** by the Sheriff, not objective confirmation.
+`Russell lied` е **character claim** на Sheriff, а не objective confirmation.
 
 Unknown:
 - Russell's role;
-- what he allegedly lied about;
-- whether the claim is accurate.
+- за какво allegedly е излъгал;
+- дали claim-ът е accurate.
 
 ## Visual evidence
 

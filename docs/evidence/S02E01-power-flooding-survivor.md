@@ -1,14 +1,14 @@
-# S02E01 — Second-Silo collapse state: power, flooding and survivor
+# S02E01 — Collapse state на втория Silo: power, flooding и survivor
 
 **Knowledge boundary:** `S02E01`
 
 ## Residual power
 
-Despite mass death and abandonment, fixed lighting remains operational in more than one area:
+Въпреки mass death и abandonment, fixed lighting остава operational в повече от една area:
 - agricultural/growing zone;
 - IT bridge/chokepoint area.
 
-Therefore the second Silo is **not completely electrically dead**.
+Следователно вторият Silo **не е напълно electrically dead**.
 
 Unknown:
 - main generator vs backup power;
@@ -18,9 +18,9 @@ Unknown:
 
 ## Flooding
 
-The second Silo is massively flooded, with water reaching to within a few levels below IT.
+Вторият Silo е massively flooded, като водата достига до няколко levels под IT.
 
-The scale is consistent with major infrastructure failure or long-term water ingress.
+Мащабът е consistent с major infrastructure failure или long-term water ingress.
 
 Unknown cause:
 - drainage/pump failure;
@@ -29,21 +29,21 @@ Unknown cause:
 - deliberate flooding;
 - another mechanism.
 
-Do not automatically equate this flooding mechanism with Juliette's own Silo flooded-bottom evidence.
+Не приравняваме автоматично този flooding mechanism с flooded-bottom evidence от Silo на Juliette.
 
 ## Living survivor
 
-At least one living person remains inside a secured/vault-like IT compartment.
+Поне един living person остава вътре в secured/vault-like IT compartment.
 
-The person threatens Juliette with lethal force if she tries to open the door.
+Човекът заплашва Juliette с lethal force, ако тя се опита да отвори door-а.
 
-This directly falsifies any model that the second Silo is completely uninhabited.
+Това директно falsify-ва всеки model, според който вторият Silo е напълно uninhabited.
 
 Unknown:
 - identity and role;
 - duration of survival;
 - supplies;
-- whether anyone else remains alive;
+- дали има и други живи хора;
 - relationship to historical IT defenders.
 
 ## Visual evidence

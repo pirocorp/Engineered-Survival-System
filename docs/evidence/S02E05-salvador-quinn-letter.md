@@ -1,20 +1,20 @@
-# S02E05 — Salvador Quinn scanned handwritten letter
+# S02E05 — scanned handwritten letter на Salvador Quinn
 
 **Knowledge boundary:** `S02E05`
 
-S02E05 converts the Quinn letter from historical testimony into direct archived-document evidence.
+S02E05 превръща Quinn letter от historical testimony в direct archived-document evidence.
 
 ## E307
 
-A scanned handwritten letter attributed to Salvador Quinn is found in the archive.
+В archive е намерено scanned handwritten letter, приписано на Salvador Quinn.
 
-This independently corroborates the S02E04 claim that Quinn left a letter.
+Това независимо corroborate-ва S02E04 claim, че Quinn е оставил писмо.
 
 ## E308
 
-The letter's **ending** is encoded/ciphered.
+**Ending-ът** на писмото е encoded/ciphered.
 
-This refines the earlier description "partly encoded":
+Това refine-ва по-ранното описание "partly encoded":
 
 ```text
 readable handwritten body
@@ -26,7 +26,7 @@ deliberately protected payload
 
 ## H50 update
 
-Salvador Quinn is now strongly supported as a key Rebellion-era privileged-IT figure who deliberately preserved a written message containing a protected final payload.
+Salvador Quinn вече е силно подкрепен като ключова Rebellion-era privileged-IT фигура, която умишлено е запазила written message с protected final payload.
 
 **Confidence:** VH-ish  
 **Status:** Strongly Strengthened
@@ -35,6 +35,6 @@ Still unresolved:
 - exact letter text;
 - exact cipher;
 - intended recipient;
-- reason for encoding only the end;
+- причината да бъде encoded само end-ът;
 - whether Meadows decoded it;
-- whether it is directly connected to the hard drive Meadows asked Bernard about.
+- дали е директно свързано с hard drive, за който Meadows пита Bernard.

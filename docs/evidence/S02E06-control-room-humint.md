@@ -1,23 +1,23 @@
-# S02E06 — control-room digital field / HUMINT reporting
+# S02E06 — digital field / HUMINT reporting към control room
 
 **Knowledge boundary:** `S02E06`
 
-A control-room screen receives a written report describing current field activity.
+Екран в control room получава written report, описващ current field activity.
 
-The visible report includes:
-- an armed group moving toward a barricade;
-- a smaller group moving away from stairs;
-- a rotary concrete saw carried by one member.
+Видимият report включва:
+- въоръжена група, движеща се към barricade;
+- по-малка група, движеща се встрани от stairs;
+- rotary concrete saw, носен от един member.
 
-The report is visibly routed with named recipient fields:
+Report-ът е видимо routed с named recipient fields:
 - `ATTN: DOREEN`
 - `FOR: DIEGO`
 
 ## Evidence interpretation
 
-This is strong evidence that the control-room operational picture is not built only from camera feeds.
+Това е силен evidence, че control-room operational picture не се изгражда само от camera feeds.
 
-It also receives human-source / field-originated text reporting.
+Тя получава и human-source / field-originated text reporting.
 
 ```text
 field observer / informant
@@ -37,16 +37,16 @@ operational response
 
 ## H57
 
-**The surveillance/control-room function aggregates human-source reporting alongside technical surveillance inputs.**
+**Surveillance/control-room function агрегира human-source reporting заедно с technical surveillance inputs.**
 
 **Confidence:** H  
 **Status:** Active / Strengthened.
 
 ## Boundary
 
-The screenshot does not reveal:
+Screenshot-ът не разкрива:
 - the informant's device;
-- whether the source types directly or through an intermediary;
+- дали source въвежда директно или чрез intermediary;
 - network protocol;
 - source authentication;
-- whether the report uses the exact same system as Sheriff `DIRECT MESSAGING`.
+- дали report-ът използва точно същата system като Sheriff `DIRECT MESSAGING`.

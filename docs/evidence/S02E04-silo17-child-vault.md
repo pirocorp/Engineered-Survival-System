@@ -1,27 +1,27 @@
-# S02E04 — Silo 17 survivor: child during rebellion, protected in vault
+# S02E04 — survivor от Silo 17: дете по време на rebellion, защитено във vault
 
 **Knowledge boundary:** `S02E04`
 
-S02E04 refines the Silo 17 survivor timeline.
+S02E04 refine-ва timeline-а на survivor-а от Silo 17.
 
 ## Evidence
 
-- He was a child when the Silo 17 rebellion occurred.
-- He had been placed/locked in the IT vault from childhood during that crisis period.
+- Той е бил дете, когато се случва rebellion в Silo 17.
+- Бил е поставен/заключен в IT vault още от детството през този crisis period.
 
-This changes the interpretation of Russell's order.
+Това променя interpretation-а на заповедта на Russell.
 
-The vault cannot be modeled only as a guard position. It was capable of functioning as a protected **continuity/survival refuge** preserving a child through Silo-wide collapse.
+Vault не може да се моделира само като guard position. Той е можел да функционира като protected **continuity/survival refuge**, запазвайки дете през Silo-wide collapse.
 
 ## H42 refactor
 
-**The IT vault is a protected continuity/survival compartment that may preserve people as well as privileged systems/knowledge during catastrophic unrest.**
+**IT vault е protected continuity/survival compartment, който може да запазва хора, както и privileged systems/knowledge по време на catastrophic unrest.**
 
 **Confidence:** H  
 **Status:** Strongly Strengthened / Refactored
 
 Still unresolved:
-- why Russell selected this child;
-- exact relationship between Russell and the survivor;
-- how the survivor was supplied over the long term;
-- whether preserving a person is an intended standard vault function or an emergency decision.
+- защо Russell е избрал това дете;
+- exact relationship между Russell и survivor-а;
+- как survivor-ът е бил снабдяван long term;
+- дали preserving на човек е intended standard vault function или emergency decision.
