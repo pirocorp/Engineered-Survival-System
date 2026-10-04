@@ -4,7 +4,7 @@
 
 S02E07 съществено refactor-ва secured IT vault.
 
-## Direct evidence
+## Директни доказателства
 
 The vault includes:
 - residential/living compartments;
