@@ -15,7 +15,7 @@ writes/marks "LIES" on exterior sensor
         ↓
 moves away and is no longer seen
         ↓
-three days later "LIES" appears on cafeteria display
+три дни по-късно "LIES" се появява на cafeteria display
         ↓
 rebellion begins
         ↓
