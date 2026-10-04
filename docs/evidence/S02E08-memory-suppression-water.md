@@ -1,61 +1,63 @@
-# S02E08 — chronic waterborne memory suppression
+# S02E08 — Хронично memory suppression чрез водата
 
 **Knowledge boundary:** `S02E08`
 
-S02E08 independently corroborates one of the most important historical claims from S01E07.
+S02E08 независимо corroborate-ва едно от най-важните исторически твърдения от S01E07.
 
 ## Evidence
 
-Bernard says Salvador Quinn placed a **chemical/drug in the water** that made people forget.
+Bernard казва, че Salvador Quinn е поставил **chemical/drug във водата**, който кара хората да забравят.
 
-He describes the effect as cumulative:
+Той описва ефекта като натрупващ се:
 
 ```text
-continued consumption
+продължителна консумация
       ↓
-week after week
+седмица след седмица
       ↓
-month after month
+месец след месец
       ↓
-year after year
+година след година
       ↓
-memories progressively fade
+спомените постепенно избледняват
 ```
 
-This is materially different from an instantaneous complete reset.
+Това е съществено различно от моментален пълен reset на паметта.
 
 ## Cross-episode corroboration
 
 ```text
 S01E07
-Flamekeeper historical testimony:
-something was put in the water to suppress/erase memory
+историческо Flamekeeper testimony:
+нещо е било поставено във водата,
+за да потиска/изтрива паметта
 
 S02E03
-current institutional drug:
-offered explicitly "so you can forget"
+текущ institutional drug:
+предлага се изрично "so you can forget"
 
 S02E08
-Bernard privileged history:
-Quinn deliberately used chronic waterborne dosing
-so memories faded over time
+privileged history от Bernard:
+Quinn умишлено използва продължително
+waterborne dosing, така че спомените
+да избледняват с времето
 ```
 
-## H30 update
+## Обновяване на H30
 
-**The Silo possesses pharmacological memory-suppression capability, and Quinn historically used prolonged waterborne dosing as part of a deliberate population-wide historical-memory reset.**
+**Silo разполага с pharmacological memory-suppression capability, а Quinn исторически е използвал продължително waterborne dosing като част от умишлен population-wide reset на историческата памет.**
 
 **Confidence:** VH  
 **Status:** Strongly Strengthened / Refactored.
 
-## Unresolved
+## Нерешени въпроси
 
-The episode does not establish:
+Епизодът не установява:
 - chemical identity;
 - dose;
-- exact cognitive mechanism;
+- точния cognitive mechanism;
 - reversibility;
-- side effects;
-- whether the current S02E03 forgetfulness drug is the same molecule;
-- whether privileged personnel were exempt;
-- how treatment of water was technically implemented or stopped.
+- страничните ефекти;
+- дали текущият S02E03 forgetfulness drug е същата molecule;
+- дали privileged personnel са били exempt;
+- как технически е било реализирано и прекратено третирането на водата.
