@@ -1,21 +1,21 @@
 # S01E07 — Visual evidence manifest
 
-Target repo path: `assets/S01E07/screenshots/`
+Целеви repo path: `assets/S01E07/screenshots/`
 
-## Processing
+## Обработка
 
-Selected screenshots were processed using **perspective correction / rectification**, then cropped to the TV picture plane.
+Selected screenshots са обработени с **perspective correction / rectification**, след което са cropped до TV picture plane.
 
-- no generative editing
-- no generative fill/reconstruction
-- no object removal
+- без generative editing
+- без generative fill/reconstruction
+- без object removal
 - JPEG quality: **95**
 - output: **1536×864**
 
-| File | Category | Evidence / context |
+| Файл | Category | Evidence / context |
 |---|---|---|
-| `level-14-marker.jpeg` | Worldbuilding / spatial map | Repeated Level 14 marker in S01E07. |
-| `level-26-marker.jpeg` | Worldbuilding / spatial map | New direct Level 26 marker in S01E07. |
-| `contact-sheet.jpg` | Auxiliary / navigation | Review only; **not primary evidence**. |
+| `level-14-marker.jpeg` | Worldbuilding / spatial map | Повторен Level 14 marker в S01E07. |
+| `level-26-marker.jpeg` | Worldbuilding / spatial map | Нов direct Level 26 marker в S01E07. |
+| `contact-sheet.jpg` | Auxiliary / navigation | Само за review; **не е primary evidence**. |
 
 **Knowledge boundary:** S01E07 only.
