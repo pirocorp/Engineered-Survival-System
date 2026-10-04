@@ -1,10 +1,10 @@
-# S02E03 — CODE SILO ORANGE and chronology correction
+# S02E03 — CODE SILO ORANGE и chronology correction
 
 **Knowledge boundary:** `S02E03`
 
 ## Formal reproductive-control protocol
 
-A medical system screen explicitly states:
+Medical system screen изрично гласи:
 
 `THIS PROCEDURE HAS BEEN DESIGNATED CODE SILO ORANGE`
 
@@ -12,29 +12,29 @@ A medical system screen explicitly states:
 
 `PATIENT MUST BELIEVE BIRTH CONTROL WAS REMOVED.`
 
-This is direct institutional proof that covert reproductive-control deception is formally encoded, not merely an improvised decision by individual doctors.
+Това е direct institutional proof, че covert reproductive-control deception е formally encoded, а не просто improvised decision на отделни doctors.
 
 ## A.R. dating
 
-The same record shows:
+Същият record показва:
 
 `DOB 09/13/116 A.R.`
 
-This directly establishes institutional use of an `A.R.` era notation.
+Това директно установява institutional use на `A.R.` era notation.
 
-The screenshot does not itself expand the abbreviation.
+Screenshot-ът сам по себе си не expand-ва abbreviation-а.
 
 ## Chronology correction
 
-Prior H15 assumed `SILO YEAR 96/97` and mayor-journal dating were one post-Rebellion calendar.
+Prior H15 приемаше, че `SILO YEAR 96/97` и mayor-journal dating са един post-Rebellion calendar.
 
-S02E03 makes that simple interpretation unsafe because the model must now reconcile:
+S02E03 прави тази simple interpretation unsafe, защото model трябва да reconcile-не:
 - `SILO YEAR 96/97`;
 - `116 A.R.`;
-- the known Rebellion chronology;
-- Bernard's statement that Jane Carmody's recording is ~200 years old.
+- познатата Rebellion chronology;
+- твърдението на Bernard, че Jane Carmody recording е на ~200 години.
 
-Therefore H15 is explicitly weakened rather than silently overwritten.
+Следователно H15 е изрично weakened, вместо да бъде мълчаливо overwritten.
 
 ## Visual evidence
 
