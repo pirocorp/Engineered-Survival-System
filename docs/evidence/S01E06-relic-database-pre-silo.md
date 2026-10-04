@@ -31,7 +31,7 @@ Judicial-side database:
 - `RELIC DATABASE`;
 - `RELIC/SEIZED OBJECTS INVENTORY`;
 - `JUDICIARY PERSONNEL ONLY`;
-- access authorization associated with `JUDICIAL: SIMS`;
+- authorization за access, свързан с `JUDICIAL: SIMS`;
 - `ACCESS ALL RECORDS/OBJECT LOGS`.
 
 Database result:
