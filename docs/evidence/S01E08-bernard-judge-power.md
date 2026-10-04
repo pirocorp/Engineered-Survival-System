@@ -1,18 +1,18 @@
-# S01E08 — Bernard / Judge Meadows power claim
+# S01E08 — Твърдението на Bernard за власт спрямо Judge Meadows
 
 **Knowledge boundary:** `S01E08`
 
-## Evidence
+## Доказателства
 
 Bernard/IT заявява, че **Judge Meadows се страхува от него**.
 
-**Epistemic class:** Character testimony / self-described power relation.
+**Епистемичен клас:** Свидетелство на персонаж / заявено от самия него властово отношение.
 
-Директният факт е, че Bernard прави това твърдение. Objective relationship остава unresolved.
+Директният факт е, че Bernard прави това твърдение. Обективното отношение между двамата остава неустановено.
 
-## Relevant prior evidence
+## Релевантни предходни доказателства
 
-S01E07 independently established, че Judge Meadows е surveillance subject.
+S01E07 независимо установява, че Judge Meadows е обект на наблюдение.
 
 Това прави твърдението на Bernard важно, но не доказва:
 - че Bernard controls surveillance;
@@ -27,7 +27,7 @@ S01E07 independently established, че Judge Meadows е surveillance subject.
 **Confidence:** M  
 **Status:** Candidate
 
-## What would strengthen H33
+## Какво би засилило H33
 
 - Judge видимо се подчинява на Bernard въпреки formal role;
 - Bernard издава order, който тя изпълнява;
@@ -35,7 +35,7 @@ S01E07 independently established, че Judge Meadows е surveillance subject.
 - evidence, че Bernard controls/authorizes surveillance над Judge;
 - независимо testimony, corroborate-ващо fear/leverage.
 
-## What would weaken H33
+## Какво би отслабило H33
 
 - evidence, че Bernard bluff-ва;
 - Judge действа independently срещу него без consequence;
