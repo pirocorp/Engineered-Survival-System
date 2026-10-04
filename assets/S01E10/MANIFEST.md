@@ -32,7 +32,7 @@ The Syndrome sign, Level 144 infrastructure frame и Janitorial ROTA frame са 
 | `janitorial-closet-rota.png` | `ROTA` board в Janitorial closet с day, level number и time-slot structure. |
 | `contact-sheet.jpg` | Само auxiliary review/navigation; **не е primary evidence**. |
 
-## Epistemic notes
+## Епистемични бележки
 
 - `18` се вижда директно върху physical key. Purpose-ът на key остава unresolved.
 - Barren exterior е показан, след като cleaner-helmet lush layer е разкрит като false; exact atmospheric hazard остава отделен въпрос.
