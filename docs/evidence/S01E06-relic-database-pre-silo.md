@@ -41,7 +41,7 @@ Database result:
 - `SMALL PLASTIC CONTAINER`;
 - archival image.
 
-## Model impact
+## Въздействие върху модела
 
 Това доказва asymmetric knowledge distribution:
 
