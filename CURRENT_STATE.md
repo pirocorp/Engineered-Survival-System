@@ -140,7 +140,7 @@ outside environmental hazard remains independently lethal
 - Докато още е shadow на Bernard, Meadows посещава роднини/потомци на Salvador Quinn в търсене на оцелели книги и historical materials.
 - Директно е показано старо физическо копие със заглавие `The Pact Between the Founders`.
 - Копието носи ръкописното име `Salvador Quinn`.
-- Това директно асоциира Quinn с оцеляло foundational Pact material от suppressed historical layer.
+- Това директно асоциира Quinn с оцелял основополагащ материал на Pact от потиснат исторически слой.
 - Това **не** установява, че Quinn е написал Pact, че е бил Founder или че това копие се различава от current Pact.
 - Разследването на Meadows може да е свързано с по-късното ѝ изоставяне на shadow path, но точната връзка — включително с известното четиридневно изчезване — остава неустановена.
 
@@ -208,11 +208,11 @@ outside environmental hazard remains independently lethal
 - Показан е two-way direct text conversation.
 - Това доказва, че institutional electronic messaging съществува и поддържа person-addressable communication.
 - Това **не** установява universal digital access за ordinary residents.
-- Продължаващата courier system следователно трябва да се обясни чрез access, endpoint availability, policy, privacy/audit considerations, physical delivery needs или друг constraint, а не само чрез липса на digital messaging technology.
+- Продължаващата куриерска система следователно трябва да се обясни чрез достъп, наличност на крайни точки, политика, съображения за поверителност/одит, нужди от физическа доставка или друго ограничение, а не само чрез липса на технология за digital messaging.
 
 ### S02E06 — field / HUMINT reporting към control room
 
-- Control-room screen получава current written report, описващ movement, direction и equipment на въоръжена група.
+- Екранът в control room получава текущ писмен доклад, описващ движение, посока и оборудване на въоръжена група.
 - Report-ът е routed към named operators с `ATTN: DOREEN` и `FOR: DIEGO`.
 - Control-room operational picture следователно включва human-source/field reporting в допълнение към camera/surveillance inputs.
 - Exact source device, intermediary path, network protocol и authentication остават unresolved.
@@ -242,7 +242,7 @@ outside environmental hazard remains independently lethal
 ### S02E05 — independent IT power в Silo 17
 
 - Survivor-ът от Silo 17 казва, че IT има собствен independent power supply.
-- Той описва source-а като external/outside спрямо normal Silo generator path.
+- Той описва източника като външен спрямо нормалния път през генератора на Silo.
 - Exact physical source/location остава unresolved.
 - Това директно обяснява защо IT може да остане powered след загубата на main generator.
 
@@ -276,7 +276,7 @@ outside environmental hazard remains independently lethal
 - Това независимо corroborate-ва S02E04 claim, че Quinn е оставил писмо.
 - Ending-ът на писмото е encoded/ciphered.
 - Най-сигурната formulation следователно е: readable handwritten body + protected encoded final payload.
-- Exact transcription, cipher, intended recipient и дали Meadows го е decoded-нала остават unresolved.
+- Точната транскрипция, шифърът, предвиденият получател и дали Meadows го е декодирала остават неустановени.
 
 ### S02E04 — doctrine за scapegoating на Mechanical
 
@@ -313,7 +313,7 @@ outside environmental hazard remains independently lethal
 - Quinn е оставил писмо, което е поне частично encoded.
 - Meadows спира да бъде shadow на Bernard преди около 25 години.
 - Около този transition тя изчезва за четири дни, преди да изостави shadow path.
-- Relation между четиридневното изчезване, Quinn и forbidden historical knowledge остава unresolved.
+- Връзката между четиридневното изчезване, Quinn и забраненото историческо знание остава неустановена.
 
 ### S02E04 — immersive headset / cleaner technology
 
@@ -336,7 +336,7 @@ outside environmental hazard remains independently lethal
 ### S02E04 — movement по време на unrest
 
 - Показано е large-scale population movement през vertical circulation system на Silo по време на escalating unrest.
-- Frame-ът установява movement/scale; exact cause и destination идват от scene context.
+- Кадърът установява движение/мащаб; точната причина и дестинация идват от контекста на сцената.
 
 ### S02E03 — Silo count / numbering / collapse на Silo 17
 
@@ -354,7 +354,7 @@ outside environmental hazard remains independently lethal
 - Survivor-ът казва, че exterior dust/poison временно се е разсеял.
 - Unprotected residents остават живи навън отвъд ordinary short cleaner-death window.
 - Hazard-ът по-късно се връща и ги убива.
-- Това разделя **real mobile/time-varying outside hazard** от краткия predictable mortality pattern на standard cleaning suits.
+- Това разделя **реалната подвижна/променяща се във времето външна опасност** от краткия предвидим модел на смъртност при стандартните cleaning костюми.
 - Exact hazard chemistry остава unresolved.
 - Exact tape pathway също остава unresolved: breathing-gas loss, contaminant ingress или и двете.
 
@@ -382,7 +382,7 @@ outside environmental hazard remains independently lethal
 - Sims казва, че е приложена medication, представена като sedatives.
 - По-късно Sims изрично предлага medication, за да може друг човек да **forget**.
 - Current authorities следователно притежават или claim-ват deliberate pharmacological memory-suppression capability.
-- Това силно corroborate-ва по-старото historical memory-suppression testimony, докато exact drug identity и relation към water-based claim остават unresolved.
+- Това силно потвърждава по-старото историческо свидетелство за потискане на паметта, докато точната идентичност на лекарството и връзката с твърдението за водата остават неустановени.
 
 ### S02E03 — theory за The Syndrome
 
@@ -430,14 +430,14 @@ outside environmental hazard remains independently lethal
 - Meadows казва, че рано или късно някой ще разбере tape mechanism.
 - По-късно Meadows поставя като условие за помощта си да бъде пусната навън след кризата с **good tape**.
 - Тези insider statements силно подкрепят известна material distinction между normal cleaning tape и по-добра sealing configuration.
-- Exact physical failure pathway остава unresolved: external contaminant ingress, breathing-gas loss или и двете.
+- Точният физически път на повредата остава неустановен: проникване на външен замърсител, загуба на дихателен газ или и двете.
 
 ### S02E02 — secured IT / privileged governance layer
 
 - Bernard access-ва heavy secured/vault-like IT door в Silo на Juliette.
 - S02E01 вече установи analogous secured IT compartment във втория Silo.
 - Следователно поне два Silos споделят repeated secured-IT architectural pattern.
-- Scene context свързва secured IT layer в Silo на Juliette с `THE ORDER`, classified cleaning knowledge и privileged live monitoring.
+- Контекстът на сцената свързва защитения IT слой в Silo на Juliette с `THE ORDER`, класифицираното знание за cleaning и привилегированото live наблюдение.
 - Knowledge-ът на Judge Meadows показва, че този secret layer не е exclusive за Bernard.
 
 ### S02E02 — rebellion-context symbol
@@ -449,7 +449,7 @@ outside environmental hazard remains independently lethal
 
 - Opening historical sequence се развива във втория Silo, в който по-късно влиза Juliette.
 - Видими са Anti-Founder / anti-deception graffiti.
-- Налице е generator-related 15-minute written warning, но exact relation към IT conflict остава unresolved.
+- Налице е 15-минутно писмено предупреждение, свързано с генератора, но точната му връзка с конфликта около IT остава неустановена.
 - Sheriff-led group атакува/напредва към IT; друга група защитава IT.
 - Sheriff твърди, че Russell ги е излъгал; това е character testimony, а не objective proof.
 - Sheriff-led group достига airlock, Sheriff го отваря и групата излиза навън.
@@ -459,9 +459,9 @@ outside environmental hazard remains independently lethal
 
 - Juliette достига отделен Silo exterior site, заобиколен от голямо поле с човешки останки.
 - Cross-scene continuity свързва remains field с historical mass-exit sequence.
-- Това потвърждава real lethal exterior hazard при observed conditions.
+- Това потвърждава реална смъртоносна външна опасност при наблюдаваните условия.
 - Exact lethal agent остава неизвестен.
-- Текущият best-fit class е airborne / atmosphere-borne exposure; toxin/chemical/aerosol и pathogen остават live alternatives.
+- Текущият най-подходящ клас е въздушно / атмосферно излагане; токсин/химикал/аерозол и патоген остават актуални алтернативи.
 - Pure external radiation като sole immediate killer е weakened, докато airborne radioactive particulate не е изключен.
 
 ### S02E01 — suit breathing / interior air
@@ -469,7 +469,7 @@ outside environmental hazard remains independently lethal
 - Във втория Silo Juliette изпитва acute breathing distress, докато още е sealed в suit/helmet environment.
 - След счупване/отваряне на helmet-а тя може да диша interior atmosphere на втория Silo.
 - Suit survival model следователно се разширява от tape/seal integrity към **seal + breathing-support integrity**.
-- Poor standard sealing може да позволява external contaminant ingress, по-бърз breathing-gas loss или и двете; exact mechanism е unresolved.
+- Лошото стандартно уплътняване може да позволява проникване на външен замърсител, по-бърза загуба на дихателен газ или и двете; точният механизъм е неустановен.
 
 ### S02E01 — standardized cross-Silo surveillance / IT
 
@@ -478,7 +478,7 @@ outside environmental hazard remains independently lethal
 - Вторият Silo съдържа IT institutional area, която е била actively defended по време на internal conflict.
 - Present-day IT access bridge е severed, създавайки physical defensive/isolation geometry.
 - IT съдържа hardened secured/vault-like compartment.
-- Тези observations подкрепят standardized multi-Silo surveillance/control design, но още не доказват, че една live central authority управлява всеки Silo.
+- Тези наблюдения подкрепят стандартизиран дизайн за наблюдение/контрол между множество Silos, но още не доказват, че една активна централна власт управлява всеки Silo.
 
 ### S02E01 — residual power / flooding / survivor
 
@@ -502,7 +502,7 @@ outside environmental hazard remains independently lethal
 - Lush helmet view след това е директно разкрит като false visual layer / overlay-like presentation.
 - Barren exterior остава видим, след като false layer изчезне.
 - Bernard разпознава момента, в който Juliette разбира deception-а, и казва в context, че **тя знае**.
-- Exact rendering technology не е established; `hologram` се третира като descriptive appearance, а не technical mechanism.
+- Точната технология за рендиране не е установена; `hologram` се третира като описание на външния вид, а не като технически механизъм.
 
 ### S01E10 — cleaning mortality / tape
 
@@ -510,7 +510,7 @@ outside environmental hazard remains independently lethal
 - Bernard и Sims очакват тя да fail-не/умре около дървото, третирайки outcome-а като predictable.
 - Juliette оцелява отвъд expected failure point.
 - Контрастът силно implicate-ва suit sealing/material quality в cleaner mortality.
-- Exact causal mechanism остава unresolved: inferior seal, environmental ingress, deliberate sabotage или друг linked factor.
+- Точният причинен механизъм остава неустановен: по-лошо уплътнение, проникване от средата, умишлен саботаж или друг свързан фактор.
 
 ### S01E10 — Bernard / surveillance / compartmentalization
 
@@ -526,7 +526,7 @@ outside environmental hazard remains independently lethal
 - Close visual evidence установява, че осветеният object с маркировка `18` е **physical key**.
 - Bernard possesses/uses it.
 - S02E03 resolve-ва observed access target като **SERVER ROOM**; vault се намира вътре в този restricted layer.
-- Numerical overlap със `Silo 18` вече е strong clue, докато relation към `HDD 18` остава unresolved.
+- Числовото съвпадение със `Silo 18` вече е силна следа, докато връзката с `HDD 18` остава неустановена.
 
 ### S01E10 — multiple silos / ruined skyline
 
@@ -561,7 +561,7 @@ outside environmental hazard remains independently lethal
 - Директно е показан малък осветен object/device с маркировка `18`.
 - Scene context го свързва с Bernard / acting mayor.
 - Its function is unknown.
-- Без допълнителен evidence не се приема link към HDD 18, access control, tracking, identity, level numbering или друга system.
+- Без допълнително evidence не се приема връзка с HDD 18, контрол на достъпа, проследяване, идентичност, номериране на нива или друга система.
 
 ### S01E09 — Jane Carmody cleaning file
 
