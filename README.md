@@ -20,7 +20,8 @@
 
 Английски могат да останат:
 - утвърдени project/technical terms като `evidence`, `confidence`, `hypothesis`, `knowledge boundary`, `direct observation`, `institutional claim`, `feed`, `overlay`, `branch`, `PR`;
-- точни цитати от сериала;
+- точни цитати от сериала; оригиналът се запазва дословно, а при важни цитати веднага след него може да се добави български превод в скоби, без преводът да заменя оригиналния evidence;
+- обяснителният текст около цитатите остава на български;
 - оригинални UI/document labels като `THE ORDER`, `DIRECT MESSAGING`, `SERVER ROOM`, `Legacy`;
 - filenames, paths, branch names и code identifiers;
 - собствени имена.
