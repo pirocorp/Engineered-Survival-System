@@ -46,7 +46,7 @@ S01E03:
 
 Така exterior contradiction вече не е само conflict между два устройства. Имаме evidence, че **един и същ public presentation endpoint може да покаже radically different exterior representations**.
 
-## Hypothesis impact
+## Въздействие върху хипотезите
 
 ### H1 — deliberate/manipulated exterior visual pipeline
 
