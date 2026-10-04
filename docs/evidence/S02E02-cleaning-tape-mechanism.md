@@ -23,7 +23,7 @@ S02E02 adds insider testimony:
 **Confidence:** VH  
 **Status:** Strongly Strengthened / Refactored
 
-This is now supported by:
+Това вече се подкрепя от:
 - controlled material difference;
 - unexpected survival;
 - insider causal attribution;
@@ -40,7 +40,7 @@ Tape може plausibly да влияе на:
 
 ## H40 — cleaning as legitimacy ritual
 
-Current integrated model:
+Текущ интегриран модел:
 
 ```text
 false lush perception
@@ -51,7 +51,7 @@ limited standard protection
        ↓
 visible cleaner death
        ↓
-public belief that outside is lethal is reinforced
+общественото убеждение, че outside е lethal, се засилва
 ```
 
 **Confidence:** H  
