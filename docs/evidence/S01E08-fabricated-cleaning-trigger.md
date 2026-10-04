@@ -16,13 +16,13 @@ Juliette е арестувана въз основа на приписаното
 target Juliette
      │
      ▼
-Mayor + Sims control immediate witness account
+Mayor + Sims контролират непосредствения witness account
      │
      ▼
 attribute "I want to go out"
      │
      ▼
-known high-consequence procedural trigger
+известен procedural trigger с тежки последствия
      │
      ▼
 arrest / cleaning-path coercion
