@@ -4,16 +4,16 @@
 
 ## Observation
 
-Woman who raised Juliette identifies two unusual Pact restrictions:
+Жената, която е отгледала Juliette, идентифицира две необичайни Pact restrictions:
 
-1. mechanized movement / transport through the Silo is prohibited;
-2. magnifying devices above a certain threshold are prohibited.
+1. mechanized movement / transport през Silo е забранен;
+2. magnifying devices над определен threshold са забранени.
 
 ## Mechanized transport
 
 До S01E04 липсата на elevators можеше да бъде engineering limitation или deliberate design choice.
 
-S01E05 adds direct testimony that mechanized vertical transport е **formally/deliberately prohibited**.
+S01E05 добавя direct testimony, че mechanized vertical transport е **formally/deliberately prohibited**.
 
 Това strengthens H18:
 
