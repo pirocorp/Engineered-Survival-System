@@ -174,14 +174,14 @@
 - Bernard приписва приблизително 140 години мир на intervention-а на Quinn, докато тази causal diagnosis остава privileged interpretation, а не independent proof;
 - по-ранното Quinn investigation на Meadows вече е свързано с роднините на Quinn и оцелели books/materials;
 - старо копие със заглавие `The Pact Between the Founders` носи ръкописното име `Salvador Quinn`; association е direct, но authorship/Founder status не са;
-- decoded Quinn payload гласи: `If you've gotten this far, you already know the game is rigged.`;
+- декодираното съобщение на Quinn гласи: `If you've gotten this far, you already know the game is rigged.` („Ако си стигнал дотук, вече знаеш, че играта е нагласена.“);
 - Judge Sims получава лично съобщение от R. Ahundsen, в което се споменават погребение и `little apple tree`; голям orchard дава plausible literal referent, но coded intent остава unresolved;
 - Silo 17 директно съдържа множество живи обитатели, не само познатия досега IT-vault survivor.
 - S02E09 показва организирана additional-survivor group в Silo 17; group-ът нарича IT-vault survivor-а „the killer“ и го използва като leverage за food;
 - Silo 17 vault директно съдържа large books/archive/scientific-knowledge environment, функционално аналогична на `Legacy` в Silo 18, без official `Legacy` label да е confirmed;
 - decoded Quinn material казва: `The founders didn't build a single silo. They built fifty.` и `And they created the safeguard.`;
 - Bernard отделно заявява, че real count е **51**, а Heads of IT и shadows знаят за другите Silos;
-- Quinn оставя physical verification instruction: `go to the very bottom` → `find the tunnel` → `you will get confirmation there`;
+- Quinn оставя последователни указания за физическа проверка: `go to the very bottom` („слез до самото дъно“) → `find the tunnel` („намери тунела“) → `you will get confirmation there` („там ще получиш потвърждение“);
 - observed bottom zone на Silo 18 е shallow/passable, а real tunnel/opening действително е намерен;
 - в tunnel/lower zone active unknown interlocutor/system води context-aware two-way conversation с Lukas;
 - lower contact казва, че преди Lukas само **Salvador Quinn, Mary Meadows и George Wilkins** са достигали до тази точка;
@@ -663,4 +663,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S02E03`
+**Следваща knowledge boundary:** `S03E01`
