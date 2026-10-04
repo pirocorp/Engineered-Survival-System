@@ -15,7 +15,7 @@
 - source subtitles, glare/reflections и visible scene content са запазени, където присъстват;
 - не са използвани external или future-episode sources.
 
-## Selected frames
+## Избрани кадри
 
 | Evidence | File | Bytes | Git blob SHA | Notes |
 |---|---|---:|---|---|
@@ -25,7 +25,7 @@
 | E313-E315 | `screenshots/control-room-field-informant-report.jpeg` | 358546 | `9278f040e0011a9668e70c22e0814cd31b5d4e8c` | Control-room screen показва routed written field report, описващ current movement, direction и equipment на armed group. Това подкрепя near-real-time digital human-source reporting; source device/input path не е показан. |
 | E316 | `screenshots/level-120-marker.jpeg` | 488650 | `ed695e16c3adc9fe0c1749d3fc0d87f657c11bb7` | Direct spatial anchor: Level 120. Не се извежда special institutional function само от marker-а. |
 
-## Evidence boundaries
+## Граници на доказателствата
 
 - E309–E311 установяват functioning institutional electronic messaging на Sheriff Department terminal. Не установяват, че ordinary residents имат personal terminal access.
 - E310 показва inbox entries от departments и named senders, подкрепящи cross-department/person routing в institutional network.
@@ -34,6 +34,6 @@
 - Няма dedicated screenshot за E317–E318 (capability на Bernard/IT да прекъсва Silo radio communications); това остава dialogue/demonstrated-capability evidence, освен ако по-късно не се добави dedicated frame.
 - Courier-vs-digital-vs-radio tier model е analytical synthesis, а не direct statement, видим в тези frames.
 
-## Contact sheet
+## Контактен лист
 
 `contact-sheet.jpg` е auxiliary navigation asset, а не primary evidence.
