@@ -381,38 +381,38 @@
 | E364 | Броят Silos не е представен като най-важната защитена част от материала на Quinn. | Dialogue / decoded-message context | VH | Насочва вниманието към по-дълбоко твърдение. |
 | E365 | Quinn пише: `And they created the safeguard.` („И те създадоха safeguard-а.“) | Direct decoded-document evidence | VH | Въвежда назована защитена концепция; механизмът е неизвестен в S02E09. |
 | E366 | Quinn инструктира бъдещия читател да отиде до `the very bottom` („самото дъно“), да намери `the tunnel` („тунела“) и да получи `confirmation there` („потвърждение там“). | Direct decoded-document evidence | VH | Път за физическа проверка. |
-| E367 | Quinn представя tunnel-а като място, където предходният protected claim може да бъде physically verified. | Strong textual inference | H-VH | Exact scope на „confirmation“ остава unresolved. |
-| E368 | Quinn tunnel може да е същата структура или директно свързана с по-рано tracked hidden lower door / `CLASSIFIED` tunnel. | Cross-episode working inference | M-H | Exact identity не е директно доказана. |
-| E369 | Level marker 14 отново се вижда директно. | Direct visual evidence | VH | Corroboration only в S02E09; не се присвоява нова function. |
-| E370 | Digital message изисква plan information, camera-та да остане включена, recipient-ът да не напуска и използва wife като coercive leverage. | Direct visual / textual evidence | VH | Sender/recipient identity не се извежда само от кадъра. |
-| E371 | Shadow-ът на Bernard спекулира, че под known bottom може да има pumps, неизвестни на Mechanical, които поддържат water level стабилно. | Character speculation / technical inference | M | VH, че speculation-ът е изказан; M за actual existence/function. |
-| E372 | Silo 17 vault показва голямо помещение с книги, документи, изображения, модели и preserved objects. | Direct visual evidence | VH | Директно установява knowledge-rich environment. |
-| E373 | Vault environment включва ясно educational/scientific material и голям astronomical/planetary model. | Direct visual evidence | VH | Подкрепя preserved knowledge function. |
-| E374 | Silo 17 има директно наблюдавана knowledge-preservation function, функционално аналогична на `Legacy` в Silo 18. | Strong cross-Silo inference | H-VH | Official `Legacy` label не е директно потвърден за Silo 17. |
-| E375 | В наблюдаваната bottom zone на Silo 18 водата е плитка и route-ът е passable on foot. | Direct observation | VH | Не установява uniform depth за цялото дъно. |
-| E376 | Quinn instruction за bottom/tunnel е physically executable без задължително diving поне по наблюдавания route. | Spatial inference | H | Ограничено до показаната зона. |
-| E377 | На дъното на Silo 18 действително съществува physical tunnel/opening. | Direct observation | VH | Core physical discovery. |
-| E378 | Откриването на tunnel-а materially validates physical-check instruction на Quinn. | Direct confirmation of prior clue | VH | Не разрешава автоматично full meaning на message-а. |
-| E379 | В hidden lower zone Lukas получава intelligible, contextual response от unknown interlocutor/system. | Direct observation / dialogue | VH | Establishes active two-way contact; source identity unknown. |
-| E380 | Tunnel-ът води към active monitored/controlled infrastructure, а не само към passive abandoned passage. | Strong system inference | H | Supported by context-aware interaction. |
-| E381 | Lukas научава, че преди него само Salvador Quinn, Mary Meadows и George Wilkins са стигали до тази point. | Direct dialogue | VH | Exhaustive previous-visitor claim в сцената. |
-| E382 | George Wilkins е достигнал hidden lower contact point. | Direct historical claim from lower contact | VH | Strongly resolves old George-door reach hypothesis. |
-| E383 | Mary Meadows е достигнала hidden lower contact point. | Direct historical claim from lower contact | VH | Strongly links Meadows to protected lower layer. |
-| E384 | Salvador Quinn е достигнал hidden lower contact point. | Direct historical claim from lower contact | VH | Strengthens provenance на Quinn tunnel instruction. |
-| E385 | Bernard не е сред three previous visitors; това установява, че не е reached personally тази point, но не доказва ignorance за нейното existence. | Exhaustive-dialogue negative evidence | VH / M-H | Distinguishes physical visitation from knowledge. |
-| E386 | Lukas е предупреден, че disclosure на видяното/наученото в hidden lower zone ще доведе до activation на `the safeguard`. | Direct dialogue / threat-condition statement | VH | Mechanism, controller и physical effect не са established в S02E09. |
-| E387 | Level marker 123 е директно показан по време на confrontation. | Direct visual evidence | VH | New spatial anchor. |
-| E388 | Silo 17 survivor-ът казва, че е имало начин `the safeguard` да бъде спрян. | Character testimony | VH / H | VH stated; H за practical effectiveness преди further corroboration. |
-| E389 | Survivor-ът твърди, че родителите му са успели да спрат safeguard-а. | Character testimony | VH / H-VH | Historical account; later pipe/block description strengthens it. |
-| E390 | Survivor-ът свързва successful safeguard stop с това Silo 17 population да достигне mass exit живо вместо да бъде унищожено вътре. | Character causal claim / refactored interpretation | H | Separates internal safeguard from exterior deaths. |
-| E391 | Safeguard-ът materially променя casualty sequence-а на Silo 17 и трябва да се моделира отделно от outside hazard. | Strong inference | H | Основано на E389–E390 и последващото physical mechanism evidence. |
-| E392 | Parents на Silo 17 survivor-а са знаели practical interruption/blocking method. | Character testimony / derived fact | H-VH | Exact discovery method unknown. |
-| E393 | `The safeguard` включва physical pipe. | Direct system exposition / dialogue | VH | Mechanism becomes physical, not abstract. |
-| E394 | Stopping safeguard-а е compatible с physical interruption/blocking на flow през pipe-а. | Technical inference | H | Strengthened by E396. |
-| E395 | Safeguard pipe-ът може да достави poison в Silo, способен да kill-не whole local population. | Direct system exposition / character testimony | VH | Whole-Silo lethal scope stated. |
-| E396 | В Silo 17 parents на survivor-а са блокирали safeguard pipe-а и са prevented normal poison execution. | Character testimony | VH / H-VH | Strong evidence for practical block path. |
-| E397 | Safeguard pipe-ът идва отвън и влиза в Silo при Level 14. | Direct system exposition / dialogue | VH | Gives external supply + spatial interface. |
-| E398 | Safeguard supply path е поне частично external спрямо local Silo envelope. | Strong system inference | H-VH | Upstream source/controller unknown. |
+| E367 | Quinn представя тунела като място, където предходното защитено твърдение може да бъде физически проверено. | Strong textual inference | H-VH | Точният обхват на `confirmation` („потвърждение“) остава неустановен. |
+| E368 | Тунелът на Quinn може да е същата структура или директно свързан с по-рано проследяваната скрита долна врата / `CLASSIFIED` тунел. | Cross-episode working inference | M-H | Точната идентичност не е директно доказана. |
+| E369 | Marker-ът за Level 14 отново се вижда директно. | Direct visual evidence | VH | Само потвърждение в S02E09; не се присвоява нова функция. |
+| E370 | Digital съобщение изисква информация за плана, камерата да остане включена, получателят да не напуска и използва съпругата като средство за принуда. | Direct visual / textual evidence | VH | Самоличността на подателя/получателя не се извежда само от кадъра. |
+| E371 | `Shadow`-ът на Bernard спекулира, че под известното дъно може да има помпи, неизвестни на Mechanical, които поддържат нивото на водата стабилно. | Character speculation / technical inference | M | VH, че спекулацията е изказана; M за действителното съществуване/функция. |
+| E372 | Vault-ът на Silo 17 показва голямо помещение с книги, документи, изображения, модели и запазени предмети. | Direct visual evidence | VH | Директно установява среда, богата на знание. |
+| E373 | Средата във vault-а включва ясно образователен/научен материал и голям астрономически/планетарен модел. | Direct visual evidence | VH | Подкрепя функция за съхраняване на знание. |
+| E374 | Silo 17 има директно наблюдавана функция за съхраняване на знание, функционално аналогична на `Legacy` в Silo 18. | Strong cross-Silo inference | H-VH | Официалното обозначение `Legacy` не е директно потвърдено за Silo 17. |
+| E375 | В наблюдаваната зона на дъното на Silo 18 водата е плитка и маршрутът е проходим пеша. | Direct observation | VH | Не установява еднаква дълбочина за цялото дъно. |
+| E376 | Инструкцията на Quinn за дъното/тунела е физически изпълнима без задължително гмуркане поне по наблюдавания маршрут. | Spatial inference | H | Ограничено до показаната зона. |
+| E377 | На дъното на Silo 18 действително съществува физически тунел/отвор. | Direct observation | VH | Основно физическо откритие. |
+| E378 | Откриването на тунела практически потвърждава физически проверимата инструкция на Quinn. | Direct confirmation of prior clue | VH | Не разрешава автоматично пълното значение на съобщението. |
+| E379 | В скритата долна зона Lukas получава разбираем, контекстуален отговор от неизвестен събеседник/система. | Direct observation / dialogue | VH | Установява активен двупосочен контакт; самоличността на източника е неизвестна. |
+| E380 | Тунелът води към активна наблюдавана/контролирана инфраструктура, а не само към пасивен изоставен проход. | Strong system inference | H | Подкрепено от взаимодействието, отчитащо контекста. |
+| E381 | Lukas научава, че преди него само Salvador Quinn, Mary Meadows и George Wilkins са стигали до тази точка. | Direct dialogue | VH | Изчерпателно твърдение в сцената за предишните посетители. |
+| E382 | George Wilkins е достигнал скритата долна контактна точка. | Direct historical claim from lower contact | VH | Силно разрешава старата hypothesis, че George е достигнал вратата. |
+| E383 | Mary Meadows е достигнала скритата долна контактна точка. | Direct historical claim from lower contact | VH | Силно свързва Meadows със защитения долен слой. |
+| E384 | Salvador Quinn е достигнал скритата долна контактна точка. | Direct historical claim from lower contact | VH | Засилва произхода/достоверността на инструкцията на Quinn за тунела. |
+| E385 | Bernard не е сред тримата предишни посетители; това установява, че не е достигал лично тази точка, но не доказва незнание за нейното съществуване. | Exhaustive-dialogue negative evidence | VH / M-H | Разграничава физическото посещение от знанието. |
+| E386 | Lukas е предупреден, че разкриването на видяното/наученото в скритата долна зона ще доведе до задействане на `the safeguard`. | Direct dialogue / threat-condition statement | VH | Механизмът, контролиращият субект и физическият ефект не са установени в S02E09. |
+| E387 | Marker-ът за Level 123 е директно показан по време на конфронтацията. | Direct visual evidence | VH | Нов пространствен ориентир. |
+| E388 | Оцелелият от Silo 17 казва, че е имало начин `the safeguard` да бъде спрян. | Character testimony | VH / H | VH, че твърдението е направено; H за практическата ефективност преди допълнително потвърждение. |
+| E389 | Оцелелият твърди, че родителите му са успели да спрат safeguard-а. | Character testimony | VH / H-VH | Исторически разказ; по-късното описание на тръбата/блокирането го засилва. |
+| E390 | Оцелелият свързва успешното спиране на safeguard-а с това населението на Silo 17 да достигне живо до масовото излизане, вместо да бъде унищожено вътре. | Character causal claim / refactored interpretation | H | Разделя вътрешния safeguard от смъртните случаи навън. |
+| E391 | Safeguard-ът съществено променя поредицата на жертвите в Silo 17 и трябва да се моделира отделно от външната опасност. | Strong inference | H | Основано на E389–E390 и последващото evidence за физическия механизъм. |
+| E392 | Родителите на оцелелия от Silo 17 са знаели практичен метод за прекъсване/блокиране. | Character testimony / derived fact | H-VH | Точният метод на откриване е неизвестен. |
+| E393 | `The safeguard` включва физическа тръба. | Direct system exposition / dialogue | VH | Механизмът става физически, а не абстрактен. |
+| E394 | Спирането на safeguard-а е съвместимо с физическо прекъсване/блокиране на потока през тръбата. | Technical inference | H | Засилено от E396. |
+| E395 | Тръбата на safeguard-а може да достави отрова в Silo, способна да унищожи цялото местно население. | Direct system exposition / character testimony | VH | Заявен е смъртоносен обхват върху целия Silo. |
+| E396 | В Silo 17 родителите на оцелелия са блокирали тръбата на safeguard-а и са предотвратили нормалното подаване на отровата. | Character testimony | VH / H-VH | Силно evidence за практически път за блокиране. |
+| E397 | Тръбата на safeguard-а идва отвън и влиза в Silo при Level 14. | Direct system exposition / dialogue | VH | Установява външно подаване + пространствен интерфейс. |
+| E398 | Пътят за подаване на safeguard-а е поне частично външен спрямо локалната обвивка на Silo. | Strong system inference | H-VH | Източникът нагоре по веригата/контролиращият субект са неизвестни. |
 | E399 | Level 14 е strong candidate interface point между external safeguard infrastructure и internal Silo systems. | Spatial/system inference | H | Function beyond safeguard interface remains unresolved. |
 | E400 | Rebels sabotage/destroy част от main stair connections в Silo 18. | Direct action / scene observation | VH | Architecture becomes tactical terrain. |
 | E401 | Bernard's forces остават significantly cut off lower down, докато rebellion side retains upper positions. | Direct situational outcome / user-confirmed context | VH | Operational split. |
