@@ -16,13 +16,13 @@
 ## Model update
 
 ### H1
-Exterior visual-information manipulation → **VH / Confirmed / Refactored**.
+Манипулиране на exterior visual information → **VH / Confirmed / Refactored**.
 
 ### H2
-Lush cleaner exterior objectively real → **VL / Rejected**.
+Обективно реален lush cleaner exterior → **VL / Rejected**.
 
 ### H3
-Barren exterior substantially real + lush cleaner overlay → **VH / Confirmed**.
+По същество реален barren exterior + lush cleaner overlay → **VH / Confirmed**.
 
 ### H4
 Cleaner поведението е инженерно насочвано чрез perception → **VH / Strongly Strengthened**.
@@ -42,7 +42,7 @@ different tape
     +
 survival beyond expected point
     ≠
-proof of exact toxic agent / exact chemical pathway
+доказателство за точния toxic agent / точния chemical pathway
 ```
 
 Все още е unresolved:
