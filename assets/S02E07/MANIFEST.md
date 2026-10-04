@@ -15,7 +15,7 @@
 - source subtitles, glare/reflections и visible scene content са запазени, където присъстват;
 - не са използвани external или future-episode sources.
 
-## Selected frames
+## Избрани кадри
 
 | Evidence | File | Bytes | Git blob SHA | Notes |
 |---|---|---:|---|---|
@@ -24,7 +24,7 @@
 | E325-E327 | `screenshots/anti-it-mechanical-truth-leaflet.jpeg` | 383062 | `656ca2f5bd35be2096020236b62d06730cf5f0f1` | Handwritten leaflet, който обвинява IT в лъжа и пита какво е станало с Juliette и как Meadows наистина е умряла. Author/distributor identity не се установява само от note-а. |
 | E328-E329 | `screenshots/silo18-blackout-it-remains-powered.jpeg` | 350711 | `c77eaccad0ffaa45ebe02f670f49e4dfb6ec17de` | General blackout context, при който IT остава visibly lit, с public dialogue, отбелязващ, че IT все още има power. Установява functional continuity power в Silo 18, а не exact source architecture. |
 
-## Evidence boundaries
+## Граници на доказателствата
 
 - E319–E322 установяват, че protected vault context включва living/residential capability и knowledge-preservation component, наречен `Legacy`, идентифициран in-scene като library/archive. Screenshots не доказват independently всеки detail от dialogue.
 - E323–E324 (statement-ът на Bernard, че Silo е построен преди 352 години, и derived ~212-year construction→Rebellion interval) са dialogue/chronology evidence; няма dedicated frame в този batch, който visibly да съдържа `352 years` line.
@@ -32,6 +32,6 @@
 - E328–E329 установяват, че IT в Silo 18 остава powered по време на general blackout и residents забелязват това. Exact source, topology и capacity на continuity-power system остават unresolved.
 - `Legacy` в Silo 17 остава cross-Silo standardization inference, освен ако не бъде directly shown/said там.
 
-## Contact sheet
+## Контактен лист
 
 `contact-sheet.jpg` е auxiliary navigation asset, а не primary evidence.
