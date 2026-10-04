@@ -366,7 +366,7 @@ S02E08 дава първото coherent privileged explanation **защо Silo �
 ### S02E01 — вторият Silo / rebellion / mass exit
 
 - Opening historical sequence се развива във втория Silo, в който по-късно влиза Juliette.
-- Anti-Founder / anti-deception graffiti is visible.
+- Видими са Anti-Founder / anti-deception graffiti.
 - Налице е generator-related 15-minute written warning, но exact relation към IT conflict остава unresolved.
 - Sheriff-led group атакува/напредва към IT; друга група защитава IT.
 - Sheriff твърди, че Russell ги е излъгал; това е character testimony, а не objective proof.
@@ -570,8 +570,8 @@ S02E08 дава първото coherent privileged explanation **защо Silo �
 
 ### Juliette / George / семейната Flamekeeper network
 
-- George’s mother is identified as Flamekeeper.
-- Juliette’s mother is identified as Flamekeeper.
+- Майката на George е идентифицирана като Flamekeeper.
+- Майката на Juliette е идентифицирана като Flamekeeper.
 - Двете майки са се познавали.
 - Имали са обща business/work relation.
 - Gloria е описана като предала Georgia book на майката на George, когато Gloria се е withdrawn/given up от този path.
@@ -836,7 +836,7 @@ generator floods
           
 SEPARATE CONTINUITY PATH
 
-external/outside source (character description)
+външен/outside източник (описание от персонаж)
           │
           ▼
        IT / vault
@@ -861,7 +861,7 @@ BERNARD / IT NARRATIVE
 Mechanical = designated crisis culprit
         │
         ▼
-Meadows framing / anti-Mechanical mobilization
+инсценировка около Meadows / anti-Mechanical мобилизация
 
 PHYSICAL COUNTER-NARRATIVE
 "I.T. Lies to us"
@@ -884,19 +884,19 @@ Blackout-ът добавя visible asymmetry: normal areas губят power, д�
 leadership / rebellion risk
           │
           ▼
-THE ORDER designates Mechanical as blame target
+THE ORDER определя Mechanical като мишена за обвинение
           │
           ▼
 Bernard kills Meadows
           │
           ▼
-Mechanical representatives arrive at staged scene
+Представители на Mechanical пристигат на инсценираната сцена
           │
           ▼
-false culpability narrative becomes available
+става възможен false culpability narrative
           │
           ▼
-Sims agitates public sentiment against Mechanical
+Sims насочва общественото настроение срещу Mechanical
           │
           ▼
 population polarization / unrest
@@ -918,7 +918,7 @@ claim: Juliette said she wants to go out
 no independent witness established
           │
           ▼
-institutional arrest / cleaning-path trigger
+институционален arrest / trigger към cleaning path
 ```
 
 Това е по-силно от false narrative след факта: самият disputed/false claim се използва като predicate за immediate coercive action.
@@ -930,11 +930,11 @@ institutional arrest / cleaning-path trigger
 ```text
 PRE-QUINN SILO
 recurring rebellions ~ every 20 years
-people retain knowledge of prior rebellions
+хората запазват знание за предишни rebellions
               │
               ▼
 QUINN'S DIAGNOSIS
-historical continuity helps reproduce rebellion
+историческата continuity подпомага възпроизвеждането на rebellion
               │
               ▼
 DELIBERATE RESET
@@ -948,11 +948,11 @@ CHRONIC EXPOSURE
 weeks → months → years
               │
               ▼
-memories fade / public continuity collapses
+спомените избледняват / обществената continuity се разпада
               │
               ▼
 MAINTENANCE LAYER
-relic restrictions + controlled archives
+ограничения върху relics + контролирани archives
               │
               ▼
 ~140 years of peace
@@ -972,7 +972,7 @@ memory pharmacologically weakened
 PRIVILEGED CONTINUITY
 Legacy / protected records
 Quinn truth survives
-Bernard retains hidden chronology/history
+Bernard запазва скрита chronology/history
 ```
 
 Това вече не се моделира най-добре като simple accidental historical loss. Най-силният текущ model е **deliberate public historical reset + privileged preservation**.
@@ -1008,18 +1008,18 @@ Juliette's mother        George's mother
 
 ```text
 S01E01
-Allison physically finds retained implant
+Allison физически открива оставения implant
         │
         ▼
 S01E07
-Juliette's father admits implant-removal deception
+Бащата на Juliette признава измамата с премахването на implant
         │
         ▼
 S02E03
-CODE SILO ORANGE explicitly formalizes the deception
+CODE SILO ORANGE изрично формализира измамата
         │
         ▼
-covert medical reproductive-control mechanism CONFIRMED
+скрит medical reproductive-control mechanism — CONFIRMED
 ```
 
 Historical targeting purpose срещу Flamekeeper family lines остава testimony-based.
