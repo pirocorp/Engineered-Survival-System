@@ -973,7 +973,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 693. Кой или какво стои зад lower interlocutor-а?
 694. Дистанционен човешки оператор ли е, автоматизирана система, AI-подобен интерфейс или друг механизъм?
-695. Как lower system detect-ва присъствието и identity/context на Lukas?
+695. Как долната система открива присъствието на Lukas и разпознава неговата самоличност/контекст?
 696. Какъв е communication path-ът — local audio, buried network, remote link или друго?
 697. Same interlocutor/system ли е контактувал Quinn, Meadows и George?
 698. Защо само тези трима преди Lukas са достигали тази point?
@@ -1017,7 +1017,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 724. Как parents на Silo 17 survivor-а са discovered safeguard pipe-а?
 725. Как точно са го blocked — valve, physical seal, cutting, rerouting или друг mechanism?
 726. Може ли remote/controller layer да bypass-не или restore-не blocked safeguard path?
-727. Hidden lower interlocutor/system същият authority ли е, който control-ва safeguard activation?
+727. Скритият долен събеседник/система същата власт ли е, която контролира задействането на safeguard-а?
 728. Juliette's claimed stopping method същият ли е като Silo 17 block method или independent approach?
 
 ## S02E10 — Silo 18 return / airlock
@@ -1035,8 +1035,8 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 736. Alleged radiological attack срещу САЩ реално ли се е случила?
 737. Ако attack-ът не се е случил, кой е fabricated/manipulated narrative-а и с каква цел?
 738. Ако е имало real event, Iran attribution accurate ли е или manipulated?
-739. Retaliatory strike срещу Iran само political speculation ли е, formal planning ли е, or later executed action?
-740. Radiation screening пред ordinary bar direct consequence ли е от alleged attack narrative и колко widespread е practice-ът?
+739. Ответният удар срещу Iran само политическа спекулация ли е, формално планиране или по-късно изпълнено действие?
+740. Радиационният контрол пред обикновен бар пряко следствие ли е от разказа за предполагаемата атака и колко широко разпространена е тази практика?
 741. Pre-Silo radiological-security crisis causal precursor ли е към Silo project или само contextual background?
 
 ## S02E10 — Georgia / PEZ provenance
@@ -1044,10 +1044,10 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 742. Защо Georgia се повтаря като pre-Silo anchor — travel guide relic + 15th-district Congressman?
 743. Georgia geographic location на Silos ли подсказва, character provenance ли, или друг design/origin relationship?
 744. S02E10 yellow-duck PEZ gift exact same physical object ли е като earlier Silo-era `YELLOW, PLASTIC, BLUE HANDLE` relic?
-745. Ако е same object, каква е chain of custody от pre-Silo woman до Silo-era hidden/relic context?
-746. PEZ provenance може ли да свърже конкретни Founders/pre-Silo actors с later Silo population or relic-preservation network?
+745. Ако е същият предмет, каква е веригата на притежание от pre-Silo жената до скрития/rеlic контекст в ерата на Silo?
+746. Може ли произходът на PEZ да свърже конкретни Основатели/pre-Silo участници с по-късното население на Silo или с мрежата за съхраняване на реликви?
 
 ## Основен въпрос на проекта
 
-163. Авторитарният control в Silo основно real survival necessity ли е, institutional system надживяла original purpose, deliberate deception, или combination от трите?
-164. След direct proof за fabricated official narrative, **кой layer може да authenticate truth вътре в system, ако Judicial/records themselves can be manipulated?**
+163. Авторитарният контрол в Silo основно реална необходимост за оцеляване ли е, институционална система, надживяла първоначалната си цел, умишлена измама или комбинация от трите?
+164. След прякото доказателство за фабрикуван официален разказ, **кой слой може да удостоверява истината вътре в системата, ако самите Judicial/records могат да бъдат манипулирани?**
