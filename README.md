@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S02E09 най-дълбокият known control layer вече е физически проверим: Quinn насочва future reader към bottom tunnel, реален tunnel е намерен, а там active hidden system контактува с Lukas и идентифицира Quinn, Meadows и George като единствените previous visitors. Паралелно Quinn казва, че Founders са построили 50 Silos, докато Bernard казва 51, а `the safeguard` е въведен като protected enforcement concept с все още неизвестен механизъм.**
+> **След S02E10 / края на Season 2 `the safeguard` вече е физически установена whole-Silo poison system: external pipe влиза при Level 14 и може да убие local population, а Silo 17 testimony показва, че path-ът може да бъде блокиран. Финалът също отваря direct pre-Silo Washington timeline с radiation screening, Georgia congressman, disputed radiological-attack narrative и PEZ provenance clue.**
 
 ## Език на проекта
 
@@ -29,17 +29,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S02E09**
+**Текуща граница на знанието:** **S02E10 — Season 2 finished**
 
-**Статус на гледане:** **Сезон 2, епизод 9**
+**Статус на гледане:** **Сезон 2 — завършен**
 
-Не се използва никаква информация от S02E10+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация след S02E10, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S02E09 най-силният работен модел е:
+След S02E10 / края на Season 2 най-силният работен модел е:
 
-> **Silo system вече има доказан hidden physical layer под познатото дъно: Quinn оставя проверима инструкция, Lukas намира tunnel-а, а active lower contact показва, че knowledge boundaries продължават отвъд Head-of-IT/Legacy слоя. Public/ordinary Silo, privileged IT/Legacy и hidden lower control layer трябва да се моделират като различни нива на достъп.**
+> **Silo system трябва да се моделира като layered survival/control architecture: public habitation → privileged IT/Legacy continuity → hidden lower contact/control → externally supplied safeguard poison path. Outside hazard остава отделен physical threat. Direct pre-Silo Washington scene вече добавя първия contemporaneous origin-era political/security context.**
 
 Ключови установени линии:
 
@@ -50,7 +50,7 @@
 - S01E05 показва systematic/time-dependent star-like movement на night display-а;
 - observer в cafeteria не знае concept-а „stars“ и сам reconstruct-ва movement patterns;
 - Silo има **144 levels** и Bernard заявява **10 112 current residents**;
-- observed direct level anchors вече включват `8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 119, 120, 144`;
+- observed direct level anchors вече включват `8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 119, 120, 123, 144`;
 - Pact deliberately забранява mechanized transport през Silo;
 - Pact забранява magnifying devices над определен threshold;
 - Juliette dossier съдържа content от разговора ѝ с Holston → strong hidden-surveillance/reporting evidence;
@@ -190,6 +190,22 @@
 - shadow-ът на Bernard спекулира за hidden pumps под known bottom, неизвестни на Mechanical; това остава speculation;
 - digital coercive message изисква camera-on/no-leave compliance и използва wife като leverage; sender/recipient identity не се извежда само от screenshot-а.
 
+- S02E10 direct-confirm-ва Level 123 и показва stair sabotage, което operationally split-ва Bernard's forces;
+- `the safeguard` вече е physical poison-delivery pipe, capable of whole-Silo kill;
+- Silo 17 survivor-ът казва, че parents са успели да block-нат safeguard-а;
+- safeguard supply идва отвън и влиза при Level 14;
+- това refactor-ва model-а: outside hazard и safeguard са distinct lethal mechanisms;
+- Juliette се връща в Silo 18 и показва `not safe / do not come out`;
+- Bernard лично я посреща при airlock-а;
+- Juliette казва, че **може би знае как да спре safeguard-а**;
+- коригираната sequence е: stopping claim → Juliette + Bernard enter → burner/flame cycle;
+- финалът показва direct pre-Silo Washington scene;
+- radiation screening е routine enough да се използва пред bar;
+- central character е Congressman from Georgia's 15th congressional district;
+- alleged radiological attack е attributed to Iran, но dialogue-ът поставя под въпрос дали attack изобщо е имало;
+- possible retaliatory strike срещу Iran е част от политическия разговор, не established executed action;
+- Congressman-ът подарява yellow-duck PEZ dispenser; това е strong candidate provenance bridge към earlier Silo-era yellow-plastic/blue-handle relic, без exact same-object continuity да е proven.
+
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
 ## Карта на repo-то
@@ -214,6 +230,7 @@
 - [`docs/episodes/S02E07.md`](docs/episodes/S02E07.md) — episode record за S02E07.
 - [`docs/episodes/S02E08.md`](docs/episodes/S02E08.md) — episode record за S02E08.
 - [`docs/episodes/S02E09.md`](docs/episodes/S02E09.md) — episode record за S02E09.
+- [`docs/episodes/S02E10.md`](docs/episodes/S02E10.md) — Season 2 finale record за S02E10.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
@@ -282,7 +299,10 @@
 - [`docs/evidence/S02E09-hidden-lower-contact.md`](docs/evidence/S02E09-hidden-lower-contact.md) — Active lower contact и previous visitors Quinn/Meadows/George.
 - [`docs/evidence/S02E09-silo17-vault-knowledge.md`](docs/evidence/S02E09-silo17-vault-knowledge.md) — Knowledge-preservation среда във vault-а на Silo 17.
 - [`docs/evidence/S02E09-silo17-survivor-group.md`](docs/evidence/S02E09-silo17-survivor-group.md) — Organized survivor group и “the killer” accusation.
-- [`docs/evidence/S02E09-coercive-message.md`](docs/evidence/S02E09-coercive-message.md) — Wife/camera coercive digital message. — директно потвърждение за множество живи inhabitants в Silo 17.
+- [`docs/evidence/S02E09-coercive-message.md`](docs/evidence/S02E09-coercive-message.md) — Wife/camera coercive digital message.
+- [`docs/evidence/S02E10-safeguard-poison-system.md`](docs/evidence/S02E10-safeguard-poison-system.md) — safeguard poison pipe, Level 14 и Silo 17 block.
+- [`docs/evidence/S02E10-silo18-rebellion-return-airlock.md`](docs/evidence/S02E10-silo18-rebellion-return-airlock.md) — Level 123, stair sabotage, Juliette return и corrected airlock chronology.
+- [`docs/evidence/S02E10-presilo-washington-georgia-iran-pez.md`](docs/evidence/S02E10-presilo-washington-georgia-iran-pez.md) — direct pre-Silo Washington, disputed radiological narrative, Georgia и PEZ provenance.
 - [`docs/open-questions.md`](docs/open-questions.md) — активните въпроси за falsification / future testing.
 - [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — visual evidence от S01E01.
 - [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — selected visual evidence от S01E02.
@@ -314,6 +334,10 @@
 - [`assets/S02E07/MANIFEST.md`](assets/S02E07/MANIFEST.md) — manifest за S02E07 visual processing/selection.
 - [`assets/S02E08/screenshots/`](assets/S02E08/screenshots/) — validated selected visual evidence от S02E08.
 - [`assets/S02E08/MANIFEST.md`](assets/S02E08/MANIFEST.md) — manifest за S02E08 visual processing/selection.
+- [`assets/S02E09/screenshots/`](assets/S02E09/screenshots/) — validated selected visual evidence от S02E09.
+- [`assets/S02E09/MANIFEST.md`](assets/S02E09/MANIFEST.md) — manifest за S02E09 visual processing/selection.
+- [`assets/S02E10/screenshots/`](assets/S02E10/screenshots/) — validated selected visual evidence от S02E10.
+- [`assets/S02E10/MANIFEST.md`](assets/S02E10/MANIFEST.md) — manifest за Season 2 finale visual processing/selection.
 
 ## Основна директива
 
