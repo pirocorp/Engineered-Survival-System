@@ -15,7 +15,7 @@
 - source subtitles, glare/reflections и visible scene content са запазени;
 - не са използвани external или future-episode sources.
 
-## Selected frames
+## Избрани кадри
 
 | Evidence | File | Bytes | Git blob SHA | Notes |
 |---|---|---:|---|---|
@@ -26,7 +26,7 @@
 | E214-E216 | `screenshots/bernard-it-vault-door.jpeg` | 441992 | `d2eeac3ab821a622a607c3108a3eae5af6c57533` | Bernard при secured vault-like IT door; подкрепя cross-Silo secured-IT architectural parallel. |
 | E222 | `screenshots/rebellion-circled-symbol-graffiti.jpeg` | 319225 | `d94d832f80fce6b6eeeddfe290a304511b1d37c7` | Distinct circled graffiti symbol/emblem в rebellion-context imagery; meaning остава unresolved. |
 
-## Evidence boundaries
+## Граници на доказателствата
 
 - E210–E211: сцената подкрепя live exterior video feed, свързан с Juliette, който достига Bernard/IT, и загубата му при влизането ѝ във втория Silo. Exact camera/transmitter/network mechanism остава unresolved.
 - E212: `THE ORDER` е directly visible като distinct physical document.
@@ -38,6 +38,6 @@
 - Не се приема, че `THE ORDER` legally outranks Pact, нито че доказва single live central authority над всички Silos.
 - Standard cleaning tape е strongly implicated като intentionally/systematically inferior, но exact physical pathway (external contaminant ingress, breathing-gas loss или и двете) остава unresolved.
 
-## Contact sheet
+## Контактен лист
 
 `contact-sheet.jpg` е auxiliary navigation asset, а не primary evidence.
