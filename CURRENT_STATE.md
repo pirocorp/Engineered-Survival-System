@@ -524,97 +524,97 @@ S02E08 дава първото coherent privileged explanation **защо Silo �
 - Judge Meadows е surveillance subject.
 - Medical center / clinical space също е monitored.
 - Juliette’s residence е monitored.
-- Cameras are concealed behind/in mirror structures.
+- Cameras са concealed зад/в mirror structures.
 - Entrance към surveillance center-а е concealed през/зад janitorial closet.
-- Coverage therefore is broader than a single targeted residence.
+- Coverage следователно е по-широк от single targeted residence.
 - Still unknown: formal institutional ownership, total coverage, audio capture, retention policy и highest authority над Sims.
 
 ### Governance / Sims / Judge
 
-- Sims has demonstrated operational surveillance command, covert enforcement, lethal action, narrative control and privileged relic-information access.
-- S02E04 shows Sims can also create/shape public political pressure.
-- S02E05 shows Bernard can remove Sims from Head of Security, explicitly deny him the `shadow` succession path and appoint him Judge.
-- Therefore `Judge` and `shadow` are not equivalent roles: Judge is a formal/public office, while shadow is a privileged IT succession/read-in track.
-- This does not establish that every Judge is a passive puppet; Meadows demonstrated independent knowledge and choices.
-- Current best-fit hierarchy is domain-specific and overlapping, with Bernard holding decisive leverage over classified IT succession and Sims retaining independent political/operational capacity.
+- Sims е демонстрирал operational surveillance command, covert enforcement, lethal action, narrative control и privileged relic-information access.
+- S02E04 показва, че Sims може също да create/shape-ва public political pressure.
+- S02E05 показва, че Bernard може да отстрани Sims от Head of Security, изрично да му откаже `shadow` succession path и да го назначи за Judge.
+- Следователно `Judge` и `shadow` не са equivalent roles: Judge е formal/public office, докато shadow е privileged IT succession/read-in track.
+- Това не установява, че всеки Judge е passive puppet; Meadows демонстрира independent knowledge и choices.
+- Текущата best-fit hierarchy е domain-specific и overlapping, като Bernard държи decisive leverage върху classified IT succession, а Sims запазва independent political/operational capacity.
 
 ### Historical knowledge / Flamekeepers
 
 - Flamekeepers са named historical group in S01E07 testimony.
 - Те са described as preserving history/knowledge against erasure.
 - Те са пазели relics as physical carriers of historical memory.
-- Exact relationship Flamekeepers ↔ Rebels/Rebellion is not established.
-- Historical testimony states something was added to water to suppress/erase memories.
-- Same account places this before Rebellion.
-- S02E03 independently establishes a current institutional drug offered explicitly **to make a person forget**; whether this is the same agent/family as the historical water-based claim remains unresolved.
+- Exact relationship Flamekeepers ↔ Rebels/Rebellion не е established.
+- Historical testimony заявява, че нещо е било добавено във водата, за да suppress/erase-ва memories.
+- Същият account поставя това преди Rebellion.
+- S02E03 независимо установява current institutional drug, предлаган изрично **за да накара човек да забрави**; дали това е същият agent/family като historical water-based claim остава unresolved.
 
 ### Relics / archives / Legacy
 
-- S01E06 already confirmed restricted Judicial relic database with `PRE-SILO` archival records.
-- S01E07 testimony gives a reason relics matter: they preserve continuity with pre-Silo history.
-- Claim that relic prohibition serves deliberate historical erasure is testimony-backed and strongly consistent with observed restricted-knowledge architecture.
-- Georgia guide has Flamekeeper preservation provenance but does not establish Silo location.
-- S02E07 directly reveals `Legacy`, a protected library/knowledge archive inside the IT vault.
-- `Legacy` provides a concrete mechanism for preserving privileged historical/technical knowledge while ordinary public knowledge remains restricted or lost.
-- Exact catalog, curation rules, media types and whether records are complete/edited remain unresolved.
+- S01E06 вече потвърди restricted Judicial relic database с `PRE-SILO` archival records.
+- S01E07 testimony дава причина защо relics са важни: те запазват continuity с pre-Silo history.
+- Claim-ът, че relic prohibition служи за deliberate historical erasure, е testimony-backed и силно consistent с observed restricted-knowledge architecture.
+- Georgia guide има Flamekeeper preservation provenance, но не установява Silo location.
+- S02E07 директно разкрива `Legacy`, protected library/knowledge archive вътре в IT vault.
+- `Legacy` дава concrete mechanism за preserving на privileged historical/technical knowledge, докато ordinary public knowledge остава restricted или lost.
+- Exact catalog, curation rules, media types и дали records са complete/edited остават unresolved.
 
 ### Reproductive control
 
-- Allison physically found a retained contraceptive implant in S01E01.
-- Juliette’s father now personally admits he lied to patients that implants were removed while leaving them in place.
-- Therefore covert implant-removal deception mechanism is independently corroborated and confirmed.
-- S02E03 additionally reveals formal `CODE SILO ORANGE` instructions: birth control must remain in place while the patient must believe it was removed.
-- Historical testimony says this system was used to suppress Flamekeeper/descendant family lines.
-- Juliette’s father says he “had no choice”; this is his self-justification, not independent proof of coercion.
-- Juliette previously believed he betrayed her mother; S01E08 mirror-surveillance realization supersedes father-as-informant as a necessary explanation for discovery of the microscope.
+- Allison физически намира retained contraceptive implant в S01E01.
+- Бащата на Juliette вече лично признава, че е лъгал patients, че implants са премахнати, докато ги е оставял на място.
+- Следователно covert implant-removal deception mechanism е independently corroborated и confirmed.
+- S02E03 допълнително разкрива formal `CODE SILO ORANGE` instructions: birth control трябва да остане на място, докато patient трябва да вярва, че е премахнат.
+- Historical testimony казва, че тази system е използвана за suppress-ване на Flamekeeper/descendant family lines.
+- Бащата на Juliette казва, че „had no choice“; това е негово self-justification, а не independent proof за coercion.
+- Juliette по-рано е вярвала, че той е предал майка ѝ; S01E08 mirror-surveillance realization supersede-ва father-as-informant като необходимо обяснение за discovery на microscope.
 
 ### Juliette / George / Flamekeeper family network
 
 - George’s mother is identified as Flamekeeper.
 - Juliette’s mother is identified as Flamekeeper.
-- The two mothers knew each other.
-- They had common business/work relation.
-- Gloria is described as having passed the Georgia book to George’s mother when Gloria withdrew/gave up that path.
-- George and Juliette therefore connect through an intergenerational Flamekeeper network, not only through their own relationship.
-- Juliette finds/retrieves the hard drive connected to George’s investigation.
-- Exact in-scene re-identification as `HDD 18` is not assumed unless shown/spoken.
+- Двете майки са се познавали.
+- Имали са обща business/work relation.
+- Gloria е описана като предала Georgia book на майката на George, когато Gloria се е withdrawn/given up от този path.
+- George и Juliette следователно се свързват чрез intergenerational Flamekeeper network, а не само чрез собствената си relationship.
+- Juliette намира/retrieve-ва hard drive, свързан с investigation на George.
+- Exact in-scene re-identification като `HDD 18` не се приема, освен ако не е shown/spoken.
 
 ### Geography / spatial anchors
 
-Observed direct anchors include:
+Observed direct anchors включват:
 
 `8 → 9 → 12 → 14 → 17 → 23 → 26 → 27 → 29 → 30 → 50 → 55 → 119 → 120 → 144`
 
-- Level 14 is repeated again in S01E07.
-- Level 26 is direct-confirmed in S01E07 and independently repeated in S02E05.
-- Level 23 is newly direct-confirmed in S01E09.
-- Level 30 is direct-confirmed in S01E08.
-- Level 55 is direct-confirmed in S02E06.
-- Level 119 is direct-confirmed in S02E04.
-- Level 120 is direct-confirmed in S02E06.
-- Level 144 / bottom is established by S01E10 scene context and contains major ventilation / air-handling infrastructure.
-- No special function is inferred from Level 23, Level 26, Level 30, Level 55, Level 119 or Level 120 markers alone.
+- Level 14 е повторен отново в S01E07.
+- Level 26 е direct-confirmed в S01E07 и independently repeated в S02E05.
+- Level 23 е newly direct-confirmed в S01E09.
+- Level 30 е direct-confirmed в S01E08.
+- Level 55 е direct-confirmed в S02E06.
+- Level 119 е direct-confirmed в S02E04.
+- Level 120 е direct-confirmed в S02E06.
+- Level 144 / bottom е established чрез S01E10 scene context и съдържа major ventilation / air-handling infrastructure.
+- От Level 23, Level 26, Level 30, Level 55, Level 119 или Level 120 markers сами по себе си не се infer-ва special function.
 
-### Exterior / architecture / energy — S01E10 resolved core
+### Exterior / architecture / energy — resolved core след S01E10
 
-- Silo has 144 levels.
-- Official current population figure remains 10 112.
-- The public display normally shows a barren exterior.
-- Cleaner helmets show a lush exterior representation.
-- S01E10 directly reveals the lush helmet representation as false/manipulated.
-- Once the false layer is gone, Juliette sees the barren exterior.
-- Wide exterior shots reveal multiple neighboring Silo installations.
-- A distant ruined/city-like skyline is visible.
-- Exact atmospheric hazard and city identity remain unresolved.
-- Hidden construction layer, excavation cavity, flooded bottom and lower-door/tunnel hypotheses remain active.
-- Energy chain remains `steam from below → turbine → generator → Silo electricity`.
-- Mechanical does not know exact primary steam origin.
-- Level 144/bottom contains large ventilation / air-handling machinery.
-- S02E05 survivor testimony also places a critical pump on Level 144 in Silo 17; its destruction during rebellion caused the flooding cascade that eventually disabled the main generator.
-- Silo 17 IT retains an independent power path after normal generator failure and may be able to energize a recovery pump.
-- S02E07 independently shows Silo 18 IT remaining powered during a general blackout, strongly supporting standardized IT continuity power across at least Silos 17 and 18.
-- Exact source equivalence remains unresolved: Silo 17 is described as external/outside power; Silo 18 currently proves functional redundancy/independence only.
-- Pact bans mechanized vertical transport and high-magnification devices above a threshold.
+- Silo има 144 levels.
+- Official current population figure остава 10 112.
+- Public display обичайно показва barren exterior.
+- Cleaner helmets показват lush exterior representation.
+- S01E10 директно разкрива lush helmet representation като false/manipulated.
+- След изчезването на false layer Juliette вижда barren exterior.
+- Wide exterior shots разкриват multiple neighboring Silo installations.
+- Вижда се distant ruined/city-like skyline.
+- Exact atmospheric hazard и city identity остават unresolved.
+- Hidden construction layer, excavation cavity, flooded bottom и lower-door/tunnel hypotheses остават active.
+- Energy chain остава `steam from below → turbine → generator → Silo electricity`.
+- Mechanical не знае exact primary steam origin.
+- Level 144/bottom съдържа large ventilation / air-handling machinery.
+- S02E05 survivor testimony също поставя critical pump на Level 144 в Silo 17; унищожаването ѝ по време на rebellion причинява flooding cascade, която в крайна сметка disable-ва main generator.
+- IT в Silo 17 запазва independent power path след normal generator failure и може да е способно да energize-ва recovery pump.
+- S02E07 независимо показва IT в Silo 18 да остава powered при general blackout, което силно подкрепя standardized IT continuity power поне в Silos 17 и 18.
+- Exact source equivalence остава unresolved: Silo 17 е описан с external/outside power; Silo 18 към момента доказва само functional redundancy/independence.
+- Pact забранява mechanized vertical transport и high-magnification devices над определен threshold.
 
 ---
 
