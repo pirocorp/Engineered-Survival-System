@@ -4,9 +4,9 @@
 
 ## Evidence
 
-A small illuminated object/device marked **`18`** is directly shown.
+Директно е показан малък illuminated object/device с маркировка **`18`**.
 
-Scene context associates it with **Bernard / the acting mayor**.
+Scene context го свързва с **Bernard / acting mayor**.
 
 **Confidence:**
 - object exists / `18` visible: VH
@@ -15,7 +15,7 @@ Scene context associates it with **Bernard / the acting mayor**.
 
 ## Non-inferences
 
-Do not yet classify the device as:
+Все още не класифицираме device-а като:
 - key/access token;
 - tracker;
 - pager/communicator;
@@ -24,11 +24,11 @@ Do not yet classify the device as:
 - level identifier;
 - HDD-related hardware.
 
-The number `18` also appears in the existing HDD evidence line, but numerical overlap alone is insufficient to connect them.
+Номерът `18` се среща и в existing HDD evidence line, но numerical overlap сам по себе си не е достатъчен за връзка.
 
 ## Open test
 
-A future explicit use, UI response, dialogue label, matching device, or technical interaction would materially reduce uncertainty.
+Бъдеща explicit use, UI response, dialogue label, matching device или technical interaction би намалила съществено uncertainty.
 
 ## Visual evidence
 
