@@ -4,13 +4,13 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S02E10 / края на Season 2 `the safeguard` вече е физически установена whole-Silo poison system: external pipe влиза при Level 14 и може да убие local population, а Silo 17 testimony показва, че path-ът може да бъде блокиран. Финалът също отваря direct pre-Silo Washington timeline с radiation screening, Georgia congressman, disputed radiological-attack narrative и PEZ provenance clue.**
+> **След S02E10 / края на Season 2 `the safeguard` вече е физически установена система за отравяне на целия Silo: външна тръба влиза при Level 14 и може да убие местното население, а свидетелството от Silo 17 показва, че този път може да бъде блокиран. Финалът също отваря директна pre-Silo линия във Washington с радиационен контрол, конгресмен от Georgia, оспорван разказ за радиологична атака и следа за произхода на PEZ реликвата.**
 
 ## Език на проекта
 
 Основният език на repo-то е **български**.
 
-Всички обяснителни текстове, анализи, conclusions, въпроси и описания се пишат на български. Утвърдени технически термини могат да останат на английски, когато това прави модела по-точен или по-четим — например `evidence`, `confidence`, `hypothesis`, `knowledge boundary`, `direct observation`, `institutional claim`, `visual pipeline`, `feed`, `overlay`, `falsification`, `branch` и `PR`.
+Всички обяснителни текстове, анализи, заключения, въпроси и описания се пишат на български. Утвърдени технически термини могат да останат на английски, когато това прави модела по-точен или по-четим — например `evidence`, `confidence`, `hypothesis`, `knowledge boundary`, `direct observation`, `institutional claim`, `visual pipeline`, `feed`, `overlay`, `falsification`, `branch` и `PR`.
 
 Имената на файлове, branch-ове, code identifiers и оригинални UI/file labels от сериала не се превеждат задължително.
 
@@ -40,7 +40,7 @@
 
 След S02E10 / края на Season 2 най-силният работен модел е:
 
-> **Silo system трябва да се моделира като layered survival/control architecture: public habitation → privileged IT/Legacy continuity → hidden lower contact/control → externally supplied safeguard poison path. Outside hazard остава отделен physical threat. Direct pre-Silo Washington scene вече добавя първия contemporaneous origin-era political/security context.**
+> **Системата на Silo трябва да се моделира като многослойна архитектура за оцеляване и контрол: обществено обитаване → привилегирована IT/Legacy приемственост → скрит долен контакт/контрол → външно захранван път за отровата на safeguard-а. Външната опасност остава отделна физическа заплаха. Директната pre-Silo сцена във Washington вече добавя първия политически и свързан със сигурността контекст от епохата на произхода.**
 
 Ключови установени линии:
 
@@ -54,11 +54,11 @@
 - observed direct level anchors вече включват `8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 119, 120, 123, 144`;
 - Pact deliberately забранява mechanized transport през Silo;
 - Pact забранява magnifying devices над определен threshold;
-- Juliette dossier съдържа content от разговора ѝ с Holston → strong hidden-surveillance/reporting evidence;
+- досието на Juliette съдържа информация от разговора ѝ с Holston → силно доказателство за скрито наблюдение/докладване;
 - Douglas Trumbull е хванат да manipulate/plant evidence и се опитва да убие Juliette;
 - Sims лично убива Trumbull, после представя смъртта му като suicide;
 - Judge formal closure-ва case-а след този false narrative;
-- следователно official institutional record не може автоматично да се третира като independently established truth;
+- следователно официалният институционален запис не може автоматично да се третира като независимо установена истина;
 - Juliette търси formal hook за reopening на George case-а и взема PEZ relic-а от sub-Silo area;
 - `The Syndrome` е explicit in-world term; S01E06 establishes new Deputy като concrete affected character, но nature/cause остават unknown;
 - **няма established Syndrome ↔ magnification link** — това остава VL speculation/open question only;
@@ -66,7 +66,7 @@
 - restricted Judicial relic database пази archival `PRE-SILO` records и Sims/Judicial има privileged access;
 - pre-Silo Georgia travel guide establishes concrete U.S.-Georgia geography, но не locates the Silo;
 - Sims operationally commands surveillance; Judge Meadows и medical center са monitored;
-- concealed cameras са confirmed behind/in mirrors, а control-center access минава през hidden janitorial-closet route;
+- скритите камери са потвърдени зад/в огледалата, а достъпът до контролния център минава през скрит маршрут през janitorial closet;
 - Flamekeepers са описани като група, съхраняваща историята/relics; точната им връзка с Rebellion остава неустановена;
 - historical testimony въвежда memory suppression чрез водата преди/около Rebellion-era;
 - бащата на Juliette лично признава измамата с премахването на implant-а, потвърждавайки covert reproductive-control mechanism;
@@ -95,13 +95,13 @@
 - opening historical sequence във втория Silo показва anti-Founder / anti-deception graffiti, Sheriff-led assault/advance срещу IT, airlock breach и mass exit навън;
 - в present-day сцените Juliette намира голямо поле от човешки останки около hatch-а на втория Silo, което силно потвърждава real lethal exterior hazard;
 - Juliette изпитва acute breathing distress, докато е sealed в suit-а си вътре във втория Silo, а след отваряне/разбиване на helmet-а отново може да диша; exact breathing technology остава неизвестна;
-- текущият best-fit клас за outside hazard е **airborne / atmosphere-borne exposure**; toxin/chemical/aerosol и pathogen остават competing possibilities;
+- текущият най-подходящ клас за външната опасност е **въздушно / атмосферно излагане**; токсин/химикал/аерозол и патоген остават конкуриращи се възможности;
 - вторият Silo съдържа същия concealed mirror-camera concept, което силно подкрепя standardized cross-Silo surveillance/control design;
 - IT във втория Silo е defended/secured strategic area със severed access, local lighting и vault-like compartment;
 - вторият Silo е масивно наводнен до няколко нива под IT, но не е напълно electrically dead;
 - поне един жив човек остава вътре в secured IT compartment;
 - показана е младата Juliette, която като дете посещава excavation machine в своя Silo;
-- exact total Silo count и всяка връзка `key 18 ↔ HDD 18 ↔ Silo 18` остават unresolved.
+- точният общ брой Silos и всяка връзка `key 18 ↔ HDD 18 ↔ Silo 18` остават неустановени.
 - S02E02 показва как Bernard/IT получава **live Juliette-associated exterior video feed**; сигналът се губи, когато тя влиза във втория Silo;
 - Bernard използва отделна физическа doctrine, озаглавена **`THE ORDER`**;
 - `THE ORDER` изрично гласи **`IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`**;
@@ -111,8 +111,8 @@
 - Meadows казва, че някой рано или късно ще разбере tape mechanism, а по-късно изисква **good tape**, преди да се съгласи да излезе навън;
 - standard cleaning tape следователно е силно подкрепен като умишлено/системно inferior, макар contaminant ingress vs breathing-gas loss vs both да остава unresolved;
 - Silo на Bernard съдържа secured/vault-like IT layer, аналогичен на secured IT compartment във втория Silo;
-- появява се distinct circled rebellion-context graffiti symbol/emblem; exact meaning остава неизвестно.
-- survivor testimony в S02E03 идентифицира другата инсталация като **Silo 17** и заявява **50 Silos**; S02E09 Quinn material независимо казва, че Founders са построили **50**, но Bernard уточнява, че реалният брой е **51**; причината за discrepancy остава unresolved, а оригиналният Silo на Juliette е силно identified/inferred като **Silo 18**;
+- появява се отличителен ограден символ/емблема в контекста на бунта; точното му значение остава неизвестно.
+- свидетелството на оцелелия в S02E03 идентифицира другата инсталация като **Silo 17** и заявява **50 Silos**; материалът на Quinn в S02E09 независимо казва, че Основателите са построили **50**, но Bernard уточнява, че реалният брой е **51**; причината за несъответствието остава неустановена, а оригиналният Silo на Juliette е силно идентифициран/изводим като **Silo 18**;
 - отказът на Ron да clean-не, съобщението `LIES` и изчезването му от view са последвани от вътрешно `LIES` съобщение и rebellion в Silo 17;
 - survivor-ът от Silo 17 казва, че хората по-късно излизат, защото не виждат Ron да умира и заключават, че exterior е безопасен; това силно corroborate-ва visible cleaner death като population deterrence;
 - жителите на Silo 17 са описани като оцелели навън, докато dust/poison временно се разсейва, след което умират при завръщането на hazard-а; real exterior lethality и ordinary cleaner timing следователно са distinct mechanisms;
@@ -128,7 +128,7 @@
 - historical markings в Mechanical се интерпретират като знак, че Mechanical многократно е бил обвиняван независимо откъде реално започва unrest;
 - текущото best explanation за избора на Mechanical е контролът му върху generator/critical infrastructure, но това остава hypothesis;
 - мините осигуряват metal, използван в Silo, а опасната/нежелана mining работа се изпълнява частично чрез **penal labor system**;
-- survivor-ът от Silo 17 е бил дете по време на rebellion и е бил поставен/заключен в IT vault още от детството, което strengthen-ва continuity/survival-refuge interpretation;
+- оцелелият от Silo 17 е бил дете по време на бунта и е бил поставен/заключен в IT vault още от детството, което засилва интерпретацията за приемственост и убежище за оцеляване;
 - Level **119** е директно наблюдаван като нов spatial anchor;
 - Bernard poisons Judge Meadows;
 - Meadows пита за hard drive, свързан със **Salvador Quinn**, описан като Head of IT по време на Rebellion преди приблизително 140 години;
@@ -142,19 +142,19 @@
 - S02E04 завършва с large-scale population movement по време на escalating unrest.
 - S02E05 показва как Bernard отстранява Sims като Head of Security, изрично му отказва ролята `shadow` и го назначава за Judge;
 - това разделя public Judicial office от privileged IT succession/read-in path на Bernard, без да доказва, че всеки Judge е просто puppet;
-- survivor-ът от Silo 17 казва, че IT има собствен independent power supply от external/outside source спрямо normal generator path;
+- оцелелият от Silo 17 казва, че IT има собствено независимо електрозахранване от външен източник спрямо нормалния път през генератора;
 - pump на Level 144 е унищожена по време на rebellion в Silo 17, за да бъде наводнен Mechanical; покачващата се вода в крайна сметка изключва main generator и продължава да се покачва;
 - survivor-ът иска Juliette да ремонтира pump и да я захрани от IT, което предполага, че continuity power може потенциално да поддържа избрани non-IT recovery loads;
 - Level 26 отново е директно показан като repeated spatial anchor;
 - директно е показано голямо multilevel landscaped common/circulation area;
-- новооткрита Silo schematic показва маркирани линии, свързани в scene context едновременно с IT и Judicial; line type/source остават unresolved;
+- новооткрита схема на Silo показва маркирани линии, свързани в контекста на сцената едновременно с IT и Judicial; типът и източникът на линиите остават неустановени;
 - в архива е намерено scanned handwritten писмо на Salvador Quinn;
 - encoded/ciphered material е конкретно в края на писмото на Quinn, което refine-ва по-ранното описание 'partly encoded'.
 - S02E06 директно показва Sheriff Department `DIRECT MESSAGING` interface с departmental и named senders;
 - директно е показан two-way person-to-person digital conversation;
 - това weaken-ва всеки модел, според който couriers съществуват просто защото electronic messaging не съществува;
 - control room получава routed written field intelligence за движение и оборудване на въоръжена група;
-- exact source device/input path, използван от field informants, остава unresolved;
+- точното изходно устройство/входен път, използван от информаторите на терен, остава неустановено;
 - Bernard/IT може да прекъсва всички radio communications в Silo, установявайки centralized communications-control capability;
 - най-силният communication model вече съдържа поне три паралелни tiers: physical couriers, institutional digital messaging и centrally controllable radio;
 - Level 55 и Level 120 стават нови direct spatial anchors.
@@ -166,8 +166,8 @@
 - handwritten leaflet гласи `I.T. Lies to us`, `Mechanical wants THE TRUTH`, пита какво се е случило с Juliette, как наистина е умряла Meadows и какво крие IT;
 - leaflet-ът установява circulating anti-IT counter-narrative, но не и неговия author/distributor;
 - по време на general Silo 18 blackout IT остава видимо powered и жителите изрично забелязват изключението;
-- continuity power следователно е независимо демонстрирано поне в Silos 17 и 18, докато exact source equivalence остава unresolved.
-- S02E08 разкрива privileged alternative history на Bernard: Quinn не се е провалил по време на Rebellion, а умишлено е reset-нал public historical continuity;
+- захранването за приемственост следователно е независимо демонстрирано поне в Silos 17 и 18, докато точното съответствие на източника остава неустановено.
+- S02E08 разкрива привилегирована алтернативна история според Bernard: Quinn не се е провалил по време на Rebellion, а умишлено е прекъснал публичната историческа приемственост;
 - Bernard казва, че pre-Quinn rebellions са се повтаряли приблизително на всеки 20 години и всеки е застрашавал целия Silo;
 - Quinn премахва public server access, конфискува книги и позволява/причинява историческата загуба да бъде приписана на rebels;
 - Bernard казва, че Quinn поставя memory-suppressing chemical/drug във водата; chronic exposure в течение на седмици, месеци и години кара спомените да избледняват;
@@ -176,10 +176,10 @@
 - по-ранното Quinn investigation на Meadows вече е свързано с роднините на Quinn и оцелели books/materials;
 - старо копие със заглавие `The Pact Between the Founders` носи ръкописното име `Salvador Quinn`; association е direct, но authorship/Founder status не са;
 - декодираното съобщение на Quinn гласи: `If you've gotten this far, you already know the game is rigged.` („Ако си стигнал дотук, вече знаеш, че играта е нагласена.“);
-- Judge Sims получава лично съобщение от R. Ahundsen, в което се споменават погребение и `little apple tree`; голям orchard дава plausible literal referent, но coded intent остава unresolved;
+- Judge Sims получава лично съобщение от R. Ahundsen, в което се споменават погребение и `little apple tree`; голяма овощна градина дава правдоподобен буквален референт, но евентуален кодиран замисъл остава неустановен;
 - Silo 17 директно съдържа множество живи обитатели, не само познатия досега IT-vault survivor.
 - S02E09 показва организирана additional-survivor group в Silo 17; group-ът нарича IT-vault survivor-а „the killer“ и го използва като leverage за food;
-- Silo 17 vault директно съдържа large books/archive/scientific-knowledge environment, функционално аналогична на `Legacy` в Silo 18, без official `Legacy` label да е confirmed;
+- vault-ът на Silo 17 директно съдържа голяма среда от книги, архиви и научно знание, функционално аналогична на `Legacy` в Silo 18, без официалното обозначение `Legacy` да е потвърдено;
 - decoded Quinn material казва: `The founders didn't build a single silo. They built fifty.` и `And they created the safeguard.`;
 - Bernard отделно заявява, че real count е **51**, а Heads of IT и shadows знаят за другите Silos;
 - Quinn оставя последователни указания за физическа проверка: `go to the very bottom` („слез до самото дъно“) → `find the tunnel` („намери тунела“) → `you will get confirmation there` („там ще получиш потвърждение“);
@@ -187,7 +187,7 @@
 - в tunnel/lower zone active unknown interlocutor/system води context-aware two-way conversation с Lukas;
 - lower contact казва, че преди Lukas само **Salvador Quinn, Mary Meadows и George Wilkins** са достигали до тази точка;
 - Bernard не е сред previous visitors; това доказва non-visitation, не automatic ignorance;
-- Lukas е предупреден, че disclosure на видяното/наученото там ще доведе до activation на `the safeguard`; exact mechanism/controller/effect остават unresolved в S02E09;
+- Lukas е предупреден, че разкриването на видяното/наученото там ще доведе до задействане на `the safeguard`; точният механизъм, контролиращ субект и ефект остават неустановени в S02E09;
 - shadow-ът на Bernard спекулира за hidden pumps под known bottom, неизвестни на Mechanical; това остава speculation;
 - digital coercive message изисква camera-on/no-leave compliance и използва wife като leverage; sender/recipient identity не се извежда само от screenshot-а.
 
@@ -195,7 +195,7 @@
 - `the safeguard` вече е physical poison-delivery pipe, capable of whole-Silo kill;
 - Silo 17 survivor-ът казва, че parents са успели да block-нат safeguard-а;
 - safeguard supply идва отвън и влиза при Level 14;
-- това refactor-ва model-а: outside hazard и safeguard са distinct lethal mechanisms;
+- това преработва модела: външната опасност и safeguard-ът са отделни смъртоносни механизми;
 - Juliette се връща в Silo 18 и показва `not safe / do not come out`;
 - Bernard лично я посреща при airlock-а;
 - Juliette казва, че **може би знае как да спре safeguard-а**;
@@ -205,7 +205,7 @@
 - central character е Congressman from Georgia's 15th congressional district;
 - alleged radiological attack е attributed to Iran, но dialogue-ът поставя под въпрос дали attack изобщо е имало;
 - possible retaliatory strike срещу Iran е част от политическия разговор, не established executed action;
-- Congressman-ът подарява yellow-duck PEZ dispenser; това е strong candidate provenance bridge към earlier Silo-era yellow-plastic/blue-handle relic, без exact same-object continuity да е proven.
+- конгресменът подарява PEZ дозатор с жълто пате; това е силен кандидат за връзка по произход към по-ранната Silo-era жълта пластмасова реликва със синя дръжка, без да е доказана точна приемственост на един и същ предмет.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
