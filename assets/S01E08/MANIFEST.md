@@ -25,7 +25,7 @@ Selected screenshots са обработени първо с **perspective corre
 | `level-30-marker.jpeg` | Нов direct spatial anchor за Level 30. |
 | `contact-sheet.jpg` | Само auxiliary review/navigation; **не е primary evidence**. |
 
-## Epistemic notes
+## Епистемични бележки
 
 - Microscope apparatus е visually confirmed; exact optical power не е established.
 - Restricted document е visually confirmed, но дребният частично замъглен текст не трябва да се over-transcribe-ва.
