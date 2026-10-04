@@ -66,7 +66,7 @@
 - pre-Silo Georgia travel guide establishes concrete U.S.-Georgia geography, но не locates the Silo;
 - Sims operationally commands surveillance; Judge Meadows и medical center са monitored;
 - concealed cameras са confirmed behind/in mirrors, а control-center access минава през hidden janitorial-closet route;
-- Flamekeepers са described as preserving history/relics; exact relation to Rebellion remains unresolved;
+- Flamekeepers са описани като група, съхраняваща историята/relics; точната им връзка с Rebellion остава неустановена;
 - historical testimony въвежда memory suppression чрез водата преди/около Rebellion-era;
 - бащата на Juliette лично признава измамата с премахването на implant-а, потвърждавайки covert reproductive-control mechanism;
 - Juliette и George са свързани чрез своите Flamekeeper майки и intergenerational preservation network;
