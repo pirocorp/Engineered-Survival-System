@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S02E08 public historical amnesia is best modeled as an engineered stability intervention: Quinn deliberately broke public historical continuity through record-access removal, book confiscation, false attribution and chronic memory-suppressing dosing through the water, while privileged knowledge remained preserved. The episode also reveals part of Quinn's decoded message and directly confirms multiple survivors in Silo 17.**
+> **След S02E09 най-дълбокият known control layer вече е физически проверим: Quinn насочва future reader към bottom tunnel, реален tunnel е намерен, а там active hidden system контактува с Lukas и идентифицира Quinn, Meadows и George като единствените previous visitors. Паралелно Quinn казва, че Founders са построили 50 Silos, докато Bernard казва 51, а `the safeguard` е въведен като protected enforcement concept с все още неизвестен механизъм.**
 
 ## Език на проекта
 
@@ -29,17 +29,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S02E08**
+**Текуща граница на знанието:** **S02E09**
 
-**Статус на гледане:** **Сезон 2, епизод 8**
+**Статус на гледане:** **Сезон 2, епизод 9**
 
-Не се използва никаква информация от S02E09+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация от S02E10+, книгите, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S02E08 най-силният работен модел е:
+След S02E09 най-силният работен модел е:
 
-> **Загубата на историческо знание е била инженерно предизвикана, а не случайна: reset-ът на Quinn премахва публични записи и книги, отслабва паметта pharmacologically с течение на времето и прикрива намесата чрез невярна версия, която обвинява бунтовниците. Privileged continuity системите запазват избрано знание за leadership, създавайки контролиран монопол върху историческата памет.**
+> **Silo system вече има доказан hidden physical layer под познатото дъно: Quinn оставя проверима инструкция, Lukas намира tunnel-а, а active lower contact показва, че knowledge boundaries продължават отвъд Head-of-IT/Legacy слоя. Public/ordinary Silo, privileged IT/Legacy и hidden lower control layer трябва да се моделират като различни нива на достъп.**
 
 Ключови установени линии:
 
@@ -111,7 +111,7 @@
 - standard cleaning tape следователно е силно подкрепен като умишлено/системно inferior, макар contaminant ingress vs breathing-gas loss vs both да остава unresolved;
 - Silo на Bernard съдържа secured/vault-like IT layer, аналогичен на secured IT compartment във втория Silo;
 - появява се distinct circled rebellion-context graffiti symbol/emblem; exact meaning остава неизвестно.
-- survivor testimony в S02E03 идентифицира другата инсталация като **Silo 17** и заявява, че общо има **50 Silos**; оригиналният Silo на Juliette е силно identified/inferred като **Silo 18**;
+- survivor testimony в S02E03 идентифицира другата инсталация като **Silo 17** и заявява **50 Silos**; S02E09 Quinn material независимо казва, че Founders са построили **50**, но Bernard уточнява, че реалният брой е **51**; причината за discrepancy остава unresolved, а оригиналният Silo на Juliette е силно identified/inferred като **Silo 18**;
 - отказът на Ron да clean-не, съобщението `LIES` и изчезването му от view са последвани от вътрешно `LIES` съобщение и rebellion в Silo 17;
 - survivor-ът от Silo 17 казва, че хората по-късно излизат, защото не виждат Ron да умира и заключават, че exterior е безопасен; това силно corroborate-ва visible cleaner death като population deterrence;
 - жителите на Silo 17 са описани като оцелели навън, докато dust/poison временно се разсейва, след което умират при завръщането на hazard-а; real exterior lethality и ordinary cleaner timing следователно са distinct mechanisms;
@@ -177,6 +177,18 @@
 - decoded Quinn payload гласи: `If you've gotten this far, you already know the game is rigged.`;
 - Judge Sims получава лично съобщение от R. Ahundsen, в което се споменават погребение и `little apple tree`; голям orchard дава plausible literal referent, но coded intent остава unresolved;
 - Silo 17 директно съдържа множество живи обитатели, не само познатия досега IT-vault survivor.
+- S02E09 показва организирана additional-survivor group в Silo 17; group-ът нарича IT-vault survivor-а „the killer“ и го използва като leverage за food;
+- Silo 17 vault директно съдържа large books/archive/scientific-knowledge environment, функционално аналогична на `Legacy` в Silo 18, без official `Legacy` label да е confirmed;
+- decoded Quinn material казва: `The founders didn't build a single silo. They built fifty.` и `And they created the safeguard.`;
+- Bernard отделно заявява, че real count е **51**, а Heads of IT и shadows знаят за другите Silos;
+- Quinn оставя physical verification instruction: `go to the very bottom` → `find the tunnel` → `you will get confirmation there`;
+- observed bottom zone на Silo 18 е shallow/passable, а real tunnel/opening действително е намерен;
+- в tunnel/lower zone active unknown interlocutor/system води context-aware two-way conversation с Lukas;
+- lower contact казва, че преди Lukas само **Salvador Quinn, Mary Meadows и George Wilkins** са достигали до тази точка;
+- Bernard не е сред previous visitors; това доказва non-visitation, не automatic ignorance;
+- Lukas е предупреден, че disclosure на видяното/наученото там ще доведе до activation на `the safeguard`; exact mechanism/controller/effect остават unresolved в S02E09;
+- shadow-ът на Bernard спекулира за hidden pumps под known bottom, неизвестни на Mechanical; това остава speculation;
+- digital coercive message изисква camera-on/no-leave compliance и използва wife като leverage; sender/recipient identity не се извежда само от screenshot-а.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
@@ -201,6 +213,7 @@
 - [`docs/episodes/S02E06.md`](docs/episodes/S02E06.md) — episode record за S02E06.
 - [`docs/episodes/S02E07.md`](docs/episodes/S02E07.md) — episode record за S02E07.
 - [`docs/episodes/S02E08.md`](docs/episodes/S02E08.md) — episode record за S02E08.
+- [`docs/episodes/S02E09.md`](docs/episodes/S02E09.md) — episode record за S02E09.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
@@ -264,7 +277,12 @@
 - [`docs/evidence/S02E08-meadows-quinn-pact.md`](docs/evidence/S02E08-meadows-quinn-pact.md) — разследването на Meadows за Quinn family и старо копие на `Pact Between the Founders`.
 - [`docs/evidence/S02E08-quinn-decoded-message.md`](docs/evidence/S02E08-quinn-decoded-message.md) — decoded Quinn payload и формулировката `game is rigged`.
 - [`docs/evidence/S02E08-sims-ahundsen-message.md`](docs/evidence/S02E08-sims-ahundsen-message.md) — съобщението на R. Ahundsen до Judge Sims и orchard context.
-- [`docs/evidence/S02E08-silo17-multiple-survivors.md`](docs/evidence/S02E08-silo17-multiple-survivors.md) — директно потвърждение за множество живи inhabitants в Silo 17.
+- [`docs/evidence/S02E08-silo17-multiple-survivors.md`](docs/evidence/S02E08-silo17-multiple-survivors.md)
+- [`docs/evidence/S02E09-quinn-safeguard-tunnel.md`](docs/evidence/S02E09-quinn-safeguard-tunnel.md) — Quinn: 50/51 Silos, safeguard и bottom-tunnel verification path.
+- [`docs/evidence/S02E09-hidden-lower-contact.md`](docs/evidence/S02E09-hidden-lower-contact.md) — Active lower contact и previous visitors Quinn/Meadows/George.
+- [`docs/evidence/S02E09-silo17-vault-knowledge.md`](docs/evidence/S02E09-silo17-vault-knowledge.md) — Knowledge-preservation среда във vault-а на Silo 17.
+- [`docs/evidence/S02E09-silo17-survivor-group.md`](docs/evidence/S02E09-silo17-survivor-group.md) — Organized survivor group и “the killer” accusation.
+- [`docs/evidence/S02E09-coercive-message.md`](docs/evidence/S02E09-coercive-message.md) — Wife/camera coercive digital message. — директно потвърждение за множество живи inhabitants в Silo 17.
 - [`docs/open-questions.md`](docs/open-questions.md) — активните въпроси за falsification / future testing.
 - [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — visual evidence от S01E01.
 - [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — selected visual evidence от S01E02.

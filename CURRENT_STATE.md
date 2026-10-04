@@ -1,35 +1,74 @@
-# Текущо състояние — след S02E08
+# Текущо състояние — след S02E09
 
-**Knowledge boundary:** `S02E08`
+**Knowledge boundary:** `S02E09`
 
 ## Работен модел
 
-S02E08 дава първото coherent privileged explanation **защо Silo умишлено е унищожил собствената си публична историческа памет**.
+S02E09 разкрива, че privileged knowledge architecture не приключва с Head of IT / shadow / `Legacy`. Под познатото дъно на Silo 18 има **active hidden lower layer**, към който Quinn умишлено е оставил physical verification path.
 
-Според Bernard Salvador Quinn не се е провалил по време на последния Rebellion. Той умишлено прекъсва public historical continuity, след като заключава, че знанието за по-ранните rebellions допринася за повтарящ се приблизително 20-годишен rebellion cycle. Намесата комбинира премахване на server access, конфискуване на книги, невярно приписване на историческата загуба на rebels и продължително memory-suppressing dosing чрез водата. Bernard приписва резултата на приблизително **140 години мир**.
+Decoded Quinn material твърди, че Founders са построили **50 Silos** и са създали `the safeguard`. Bernard отделно казва, че реалният брой е **51**, което налага counting discrepancy да се пази explicit, а не да се изглажда. Heads of IT и shadows знаят за другите Silos, но Bernard не е сред тримата previous visitors, достигали hidden lower contact point.
 
-Най-големите промени спрямо S02E07 са:
+Най-големите промени спрямо S02E08 са:
 
-1. Официалната история представя Quinn като провалил се Rebellion-era Head of IT, по чието време historical/server records са загубени.
-2. Bernard изрично казва, че тази официална история е невярна и че Quinn всъщност е спасил Silo.
-3. Bernard казва, че pre-Quinn rebellions са се повтаряли приблизително на всеки 20 години и всеки е застрашавал всички.
-4. Quinn заключава, че знанието за предишните rebellions допринася за повторяемостта.
-5. Quinn умишлено премахва public historical continuity: server access е прекъснат, а книгите са конфискувани.
-6. Унищожаването/загубата на историята е приписано на rebels.
-7. Bernard казва, че Quinn е поставил memory-suppressing chemical/drug във водата.
-8. Chronic exposure в течение на седмици, месеци и години кара спомените постепенно да избледняват.
-9. Това независимо corroborate-ва по-старото Flamekeeper water-memory testimony и силно refactor-ва H30.
-10. Bernard приписва приблизително 140 години мир на intervention-а, докато самата causal diagnosis остава interpretation на Bernard/Quinn, а не independently proven.
-11. По-ранното independent investigation на Meadows вече е директно свързано с роднините на Quinn и оцелели historical books/materials.
-12. Старо копие със заглавие `The Pact Between the Founders` носи ръкописното име `Salvador Quinn`; това доказва association, а не authorship или Founder status.
-13. Decoded protected message на Quinn започва да разкрива предназначението си: `If you've gotten this far, you already know the game is rigged.`
-14. Judge Sims получава лично digital message от R. Ahundsen, което препраща към погребение и `little apple tree`; голям indoor orchard дава plausible literal referent, докато coded intent остава unresolved.
-15. Silo 17 директно съдържа и други живи хора освен Juliette и познатия досега survivor.
+1. Quinn's decoded payload вече съдържа concrete system claims, а не само `the game is rigged`.
+2. Quinn казва, че Founders са построили 50 Silos.
+3. Bernard казва, че реалният брой е 51; exact counting model остава unresolved.
+4. Heads of IT и shadows знаят за другите Silos.
+5. Quinn въвежда named concept `the safeguard`.
+6. Quinn оставя проверима инструкция: very bottom → tunnel → confirmation.
+7. На дъното водата в наблюдаваната зона е плитка/passable.
+8. Реален tunnel/opening действително е намерен.
+9. Hidden lower zone съдържа active, context-aware interlocutor/system.
+10. Само Quinn, Meadows и George са named като previous visitors преди Lukas.
+11. Това directly confirms George reached the hidden lower contact point и силно strengthen-ва Meadows↔forbidden-knowledge line.
+12. Bernard не е previous visitor; това не доказва, че не знае за layer-а.
+13. Lukas е предупреден, че disclosure на protected lower knowledge ще trigger-не `the safeguard`; mechanism/controller/effect остават unresolved.
+14. Silo 17 vault директно съдържа large preserved knowledge environment, функционално аналогична на `Legacy`.
+15. Additional Silo 17 survivors са вече не просто брой, а показана organized group с conflict/resource dynamics.
+16. Digital coercive message демонстрира wife/hostage leverage и camera/no-leave control condition.
+17. Shadow-ът на Bernard въвежда pump hypothesis за hidden hydraulic infrastructure под known bottom; това остава speculation.
 
-> **След S02E08 public historical amnesia се моделира най-добре като engineered stability intervention: information access е премахнат, физическите historical carriers са конфискувани, public blame е фалшифициран, а memory е pharmacologically отслабвана с времето. В същото време privileged continuity systems като Legacy запазват selected knowledge за leadership. Резултатът не е total destruction of history, а контролиран монопол върху историческата памет.**
+> **След S02E09 най-добрият layered model е: public Silo → privileged IT/Legacy continuity layer → hidden lower contact/control layer. Последният е физически reachable, active и protective/coercive, но exact authority, topology и safeguard mechanism все още не са установени.**
 ---
 
 ## Наблюдения с висок confidence
+
+### S02E09 — Quinn / 50–51 Silos / safeguard
+
+- Decoded Quinn material казва, че Founders са построили **50 Silos**.
+- Bernard отделно казва, че real count е **51**.
+- 50/51 discrepancy се пази explicit; S02E09 не обяснява причината.
+- Heads of IT и shadows знаят за другите Silos.
+- Quinn въвежда `the safeguard` като protected system concept.
+- Quinn насочва future reader към very bottom → tunnel → confirmation.
+- Това превръща encoded payload-а в actionable physical verification path.
+
+### S02E09 — bottom tunnel / active lower system
+
+- В наблюдаваната bottom zone водата е shallow/passable.
+- Реален physical tunnel/opening е директно намерен.
+- Hidden lower zone дава context-aware intelligible response на Lukas.
+- Следователно tunnel-ът води към active monitored/controlled infrastructure, а не само към passive passage.
+- Previous visitors преди Lukas са named exhaustively като Salvador Quinn, Mary Meadows и George Wilkins.
+- Bernard не е сред тях; това доказва non-visitation, не ignorance.
+- Lukas е предупреден, че disclosure на видяното/наученото ще доведе до activation на `the safeguard`.
+- S02E09 не разкрива exact safeguard mechanism, controller или physical effect.
+
+### S02E09 — Silo 17 survivors / vault knowledge
+
+- Additional survivors в Silo 17 са показани като organized group.
+- Group-ът нарича known IT-vault survivor „the killer“ и го използва като leverage за food.
+- Vault-ът на Silo 17 директно съдържа books/documents/scientific objects и large astronomical model.
+- Това е direct evidence за knowledge-preservation function, силно homologous на `Legacy` в Silo 18.
+- Official `Legacy` name за Silo 17 остава unconfirmed.
+
+### S02E09 — coercive message / pump speculation
+
+- Digital message изисква information за plan, camera-on/no-leave compliance и използва wife като coercive leverage.
+- Screenshot-ът сам по себе си не установява sender/recipient identity.
+- Shadow-ът на Bernard спекулира за hidden pumps под known bottom, неизвестни на Mechanical.
+- Actual existence/function на pumps остава M-confidence speculation.
+
 
 ### S02E08 — Quinn historical reset / обръщане на официалната история
 
@@ -632,10 +671,10 @@ Observed direct anchors включват:
 | H7 | Официалният Rebellion-centered account за загубата на historical knowledge е умишлено false/misleading: Bernard казва, че Quinn нарочно е изтрил public historical continuity, а загубата е приписана на rebels. | VH | Strongly Strengthened / Refactored |
 | H8 | Covert surveillance architecture използва concealed mirror cameras, archived feeds и privileged live exterior video channel, свързан с Juliette; Sims има operational command върху ordinary surveillance, докато Bernard/IT има higher classified access. | VH | Confirmed / Refactored |
 | H9 | George Wilkins може да е бил убит. | L | Active |
-| H10 | Multiple Silo installations образуват по-голяма system; survivor testimony от Silo 17 заявява exact total **50 Silos**. | VH | Confirmed / Refactored; exact count testimony-backed |
-| H11 | Classified lower tunnel води към undisclosed lower/internal system. | M | Strengthened |
-| H12 | Pact-forbidden tunnel system е същата структура или е пряко свързана с `CLASSIFIED` tunnel от HDD 18. | H | Active |
-| H13 | George е намерил door-а / входа към нея при flooded bottom. | H | Active |
+| H10 | Multiple Silo installations образуват по-голяма system; Quinn и Silo 17 testimony дават 50, докато Bernard казва real count 51. | VH / H-VH | Confirmed / Refactored; counting model unresolved |
+| H11 | Classified lower tunnel води към undisclosed active lower/internal system; physical tunnel и context-aware contact са директно observed. | H-VH | Strongly Strengthened / Refactored |
+| H12 | Pact-forbidden tunnel system вероятно е същата структура или е пряко свързана с `CLASSIFIED` tunnel от HDD 18 и Quinn's bottom tunnel. | H | Strongly Strengthened; exact identity unproven |
+| H13 | George е достигнал hidden lower contact point при bottom/tunnel layer. | VH | Confirmed / Refactored |
 | H14 | Cleaner mortality зависи materially от suit sealing/breathing-support integrity и е отделима от independently real outside hazard; residents на Silo 17 могат да оцелеят отвъд normal cleaner window, когато hazard временно се разсее. | VH | Strongly Strengthened / Refactored |
 | H15 | Prior model: `SILO YEAR 96/97` и mayor journals използват един simple post-Rebellion calendar. S02E03 `116 A.R.` + ~200-year Jane statement на Bernard правят този mapping unsafe. | L | Weakened / Requires Refactor |
 | H16 | Current order използва concealed/hidden infrastructure и умишлено държи selected spaces/layers извън normal access. | H | Strengthened |
@@ -672,7 +711,7 @@ Observed direct anchors включват:
 | H47 | Historical/cultural knowledge loss е engineered чрез комбинирани information removal и memory suppression: server access removal, book confiscation, chronic waterborne forgetting и continuing relic control могат да обяснят изчезването на ordinary pre-Silo/historical knowledge. | VH | Strongly Strengthened / Refactored |
 | H48 | `A.R.` е distinct institutional era notation; 352-year construction age и ~140-year Rebellion anchor вече силно установяват long pre-Rebellion Silo history, докато exact `A.R.` expansion и mapping към `SILO YEAR` остават unresolved. | H | Strongly Strengthened / Refactored |
 | H49 | Mechanical е predefined institutional scapegoat при rebellion/crisis; blame е prescribed независимо откъде реално започва unrest. | VH | Strongly Strengthened |
-| H50 | Salvador Quinn е ключова Rebellion-era privileged-IT фигура, чийто encoded final payload директно съдържа protected message към future reader/investigator, който вече е разпознал, че system/history е “rigged”. | VH | Strongly Strengthened / Refactored |
+| H50 | Salvador Quinn е ключова Rebellion-era privileged-IT фигура, чийто encoded payload съдържа protected system claims и физически проверима инструкция към bottom tunnel. | VH | Strongly Strengthened / Refactored |
 | H51 | Hidden-control leadership не е monolithic: Bernard и Sims имат частично independent interests/power bases, докато Bernard demonstrably запазва authority върху formal posting на Sims и shadow eligibility. | H | Strongly Strengthened / Refactored |
 | H52 | Bernard използва Mechanical-scapegoating doctrine, за да превърне leadership crisis в controlled conflict чрез framing на Mechanical за смъртта на Meadows. | H | Strongly Strengthened |
 | H53 | Judge е high public/formal office, който Bernard може да fill/reassign-ва, докато ролята `shadow` е отделен privileged IT succession/read-in path. | H | Strongly Strengthened |
@@ -681,19 +720,54 @@ Observed direct anchors включват:
 | H56 | Silo използва multiple parallel communication tiers с различни access/control properties: physical couriers, institutional digital messaging и radio. | H | Strongly Strengthened / Refactored |
 | H57 | Surveillance/control-room function агрегира human-source field reporting заедно с technical surveillance inputs. | H | Active / Strengthened |
 | H58 | IT е central communications choke point, способен да degrade-ва или isolate-ва operational coordination чрез прекъсване на Silo-wide radio traffic. | H | Active / Strengthened |
-| H59 | IT vaults може да включват standardized `Legacy` knowledge archive, предназначен да запазва technical, historical и governance knowledge през succession или Silo-wide collapse; direct confirmation към момента има в Silo 18. | H | Active / Strengthened |
+| H59 | IT vaults включват или могат да включват standardized knowledge-preservation layer: `Legacy` е direct-confirmed в Silo 18, а homologous archive/library environment е direct-observed в Silo 17. | VH | Strongly Strengthened / Refactored |
 | H60 | Кризата вече съдържа competing public narratives: leadership/IT frame-ва Mechanical като threat, докато anti-IT physical counter-narrative представя Mechanical като търсещ truth и поставя под въпрос official stories за Juliette/Meadows. | H | Active / Strengthened |
 | H61 | Quinn прилага deliberate historical-reset strategy, за да прекъсне recurring ~20-year rebellion cycle чрез information suppression, false public attribution и pharmacological memory weakening. | H | Active / Strongly Supported |
 | H62 | Modern relic/book/history prohibition функционира като maintenance layer на reset-а на Quinn, предотвратявайки reconstruction на erased public past. | H | Active / Strongly Supported |
 | H63 | Silo 17 съдържа multiple living inhabitants; познатият по-рано IT-vault survivor не е единственият показан surviving resident. | VH | Confirmed / Refactored |
 | H64 | Wording-ът на R. Ahundsen за `apple tree` може да е covert signaling, literal personal reminiscence или dual-purpose language. | M | Candidate |
-| H65 | Independent investigation на Meadows върху Quinn/family-held historical material може да е допринесло за abandonment на shadow path на Bernard; exact relation към четиридневното изчезване остава unresolved. | M-H | Active |
+| H65 | Independent Quinn investigation на Meadows е силно свързано с forbidden lower knowledge, защото Meadows е named previous visitor на hidden lower contact point; exact relation към four-day disappearance остава unresolved. | H | Strengthened |
 | H67 | Salvador Quinn има direct association с оцеляло foundational Pact material; authorship, Founder status и textual differences спрямо current Pact остават unproven. | H | Active / Strengthened |
-| H69 | Encoded ending на Quinn е умишлено структуриран като protected second-layer message за future reader, който вече е проникнал отвъд official narrative. | H | Active / Strengthened |
+| H69 | Encoded ending на Quinn е protected second-layer message за future reader, който вече е проникнал отвъд official narrative и е насочен към physical verification path. | VH | Strongly Strengthened / Refactored |
+| H70 | Под known/public bottom на Silo 18 има active hidden infrastructure layer; exact topology и relation към pumps/`CLASSIFIED` tunnel остават unresolved. | H-VH | Active / Strongly Supported |
+| H71 | `the safeguard` е conditional enforcement/containment mechanism, свързан с disclosure на protected lower-system knowledge; mechanism, controller и effect не са established в S02E09. | H | Active |
+| H72 | Hidden lower system може да detect-ва/engage-ва visitors и да води context-aware two-way communication; identity на interlocutor-а остава unknown. | H-VH | Active / Strongly Supported |
 
 ---
 
-## Surveillance / privileged-control model after S02E08
+## Hidden lower-system model after S02E09
+
+```text
+PUBLIC / ORDINARY SILO
+        │
+        ▼
+privileged IT / shadow / Legacy layer
+        │
+        ▼
+very bottom / hidden tunnel
+        │
+        ▼
+active lower contact/system
+        │
+        ├─ previous visitors:
+        │    Quinn
+        │    Meadows
+        │    George
+        │    Lukas
+        │
+        └─ disclosure warning
+             → safeguard activation
+```
+
+Граници:
+- exact identity на lower interlocutor-а е unknown;
+- exact relation между Quinn tunnel и HDD 18 `CLASSIFIED` tunnel остава inference;
+- safeguard mechanism/controller/effect не са разкрити в S02E09;
+- Bernard's absence from visitor list не доказва absence of knowledge.
+
+---
+
+## Surveillance / privileged-control model after S02E09
 
 S02E02 разширява hidden-control model отвъд ordinary internal surveillance.
 
@@ -1026,42 +1100,34 @@ Historical targeting purpose срещу Flamekeeper family lines остава te
 
 ---
 
-## Immediate watch targets за S02E09
+## Immediate watch targets за S02E10
 
-- exact archival/documentary evidence зад ~20-year recurring-rebellion account на Bernard;
-- дали reset plan на Quinn е документиран в `Legacy`, `THE ORDER`, друг protected archive или oral succession knowledge;
-- exact chemical/drug, използван във водата;
-- дали historical waterborne substance и S02E03 forgetfulness medication са същият compound/family;
-- dose, duration, reversibility и cognitive scope на chronic memory suppression;
-- как privileged personnel/Legacy custodians са запазили memory, докато public е бил exposed;
-- кога water dosing започва и приключва;
-- дали modern relic enforcement е explicitly documented като maintenance на reset-а на Quinn;
-- кои private family-held books/materials са оцелели след confiscation;
-- exact relationship между Quinn-family investigation на Meadows, четиридневното ѝ изчезване и abandonment на shadow role;
-- дали `The Pact Between the Founders` се различава textually от current Pact;
-- provenance/function на ръкописното име `Salvador Quinn`;
-- дали Quinn е annotated старото Pact copy;
-- full decoded Quinn payload отвъд `the game is rigged`;
-- exact referent of `the game`;
-- intended reader/recipient на message-а на Quinn;
-- identity and role of R. Ahundsen;
-- дали apple-tree phrase е literal, coded или dual-purpose;
-- exact location/function на orchard;
-- exact number и identities на additional Silo 17 survivors;
-- дали Silo 17 survivors са original survivors, descendants или и двете;
-- къде живеят и как получават food, water и power;
-- relation им към IT-vault survivor;
-- дали имат access до Legacy-like archive или друг preserved knowledge source.
+Изведени само от knowledge state-а в края на S02E09:
+
+- защо Quinn/earlier testimony дават 50, а Bernard казва 51;
+- nature/function на possible 51st installation;
+- exact physical mechanism на `the safeguard`;
+- trigger conditions, controller и target scope на safeguard-а;
+- identity/location на hidden lower interlocutor/system;
+- как lower system detect-ва visitors и поддържа two-way communication;
+- дали Quinn, Meadows и George са контактували със същия system;
+- exact information, която всеки от three previous visitors е получил;
+- дали visit-ът на Meadows е known four-day disappearance;
+- extent на Bernard's knowledge за lower layer;
+- exact mapping Quinn tunnel ↔ HDD 18 `CLASSIFIED` tunnel ↔ Pact-forbidden lower system;
+- дали hidden pumps съществуват и дали обясняват water level;
+- дали Silo 17 knowledge room официално е `Legacy`;
+- organization/history на additional Silo 17 survivors;
+- reason зад „the killer“ accusation;
+- sender/recipient/purpose на coercive wife/camera message.
 
 Виж също:
 
-- `docs/episodes/S02E08.md`
-- `docs/evidence/S02E08-quinn-historical-reset.md`
-- `docs/evidence/S02E08-memory-suppression-water.md`
-- `docs/evidence/S02E08-meadows-quinn-pact.md`
-- `docs/evidence/S02E08-quinn-decoded-message.md`
-- `docs/evidence/S02E08-sims-ahundsen-message.md`
-- `docs/evidence/S02E08-silo17-multiple-survivors.md`
-- `docs/episodes/S02E07.md`
+- `docs/episodes/S02E09.md`
+- `docs/evidence/S02E09-quinn-safeguard-tunnel.md`
+- `docs/evidence/S02E09-hidden-lower-contact.md`
+- `docs/evidence/S02E09-silo17-vault-knowledge.md`
+- `docs/evidence/S02E09-silo17-survivor-group.md`
+- `docs/evidence/S02E09-coercive-message.md`
 - `docs/evidence-ledger.md`
 - `docs/open-questions.md`
