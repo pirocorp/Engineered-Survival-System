@@ -1,18 +1,18 @@
-# S02E01 — Outside hazard, suit seal and breathing support
+# S02E01 — Outside hazard, suit seal и breathing support
 
 **Knowledge boundary:** `S02E01`
 
 ## Direct observations
 
-- the second Silo exterior is surrounded by a large field of human remains;
-- these remains are consistent with the historical mass-exit sequence;
-- Juliette survives outside while protected by her suit;
-- inside the second Silo, Juliette develops acute breathing distress while sealed in the suit/helmet environment;
-- after breaking/opening the helmet, she can breathe the second Silo interior atmosphere.
+- exterior на втория Silo е заобиколен от голямо поле с човешки останки;
+- тези останки са consistent с historical mass-exit sequence;
+- Juliette оцелява навън, докато е защитена от suit-а си;
+- вътре във втория Silo Juliette развива acute breathing distress, докато е sealed в suit/helmet environment;
+- след счупване/отваряне на helmet-а тя може да диша interior atmosphere на втория Silo.
 
 ## Model update
 
-The strongest current model is:
+Най-силният текущ model е:
 
 ```text
 real outside hazard
@@ -22,22 +22,22 @@ suit sealing / breathing-support integrity matters
 
 Possible poor-seal pathways:
 
-1. external hazardous material enters through a failed seal;
-2. breathing gas escapes faster and supply is depleted;
-3. both mechanisms operate together.
+1. external hazardous material влиза през failed seal;
+2. breathing gas изтича по-бързо и supply се изчерпва;
+3. и двата механизма работят едновременно.
 
-No exact mechanism is accepted yet.
+Все още не се приема exact mechanism.
 
 ## H14
 
-Cleaner mortality materially depends on suit sealing **and breathing-support integrity**.
+Cleaner mortality зависи materially от suit sealing **и breathing-support integrity**.
 
 **Confidence:** VH  
 **Status:** Strongly Strengthened / Refactored
 
 ## H34
 
-Standard cleaning tape may be intentionally or systematically inferior.
+Standard cleaning tape може да е intentionally или systematically inferior.
 
 S02E01 refines possible effects:
 - contaminant ingress;
@@ -49,7 +49,7 @@ S02E01 refines possible effects:
 
 ## H36
 
-Outside lethality is primarily caused by an **airborne / atmosphere-borne hazard**.
+Outside lethality е причинена основно от **airborne / atmosphere-borne hazard**.
 
 **Confidence:** H  
 **Status:** Active / Strengthened
@@ -60,7 +60,7 @@ Current candidates include:
 - biological/pathogen exposure;
 - other atmosphere-borne agent.
 
-Pure external radiation as the sole immediate killer is weakened because seal/breathing evidence fits an ingress/exposure model better. Airborne radioactive particulate remains physically possible but unsupported.
+Pure external radiation като sole immediate killer е weakened, защото seal/breathing evidence съответства по-добре на ingress/exposure model. Airborne radioactive particulate остава physically possible, но unsupported.
 
 ## Boundaries
 
