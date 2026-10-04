@@ -776,12 +776,12 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 546. Bernard виждал/чел ли е този exact archived scan?
 547. Meadows decoded ли е final section по време на four-day disappearance?
 548. Quinn letter директно ли е материалът, който Meadows свързва с questioned hard drive?
-549. **ЧАСТИЧНО СТЕСНЕНО in S02E08:** decoded ending заявява, че `the game is rigged`; остава unresolved към кой system/domain се отнася това и каква further information следва.
+549. **ЧАСТИЧНО СТЕСНЕНО в S02E08:** декодираният край заявява, че `the game is rigged` („играта е нагласена“); остава неустановено към коя система/област се отнася това и каква допълнителна информация следва.
 
 ## S02E06 — digital messaging / courier coexistence
 
 550. Ordinary residents имат ли personal digital accounts/terminals, or is access limited to institutional roles?
-551. Защо physical courier network остава необходим при functioning digital messaging — endpoint scarcity, access policy, physical-item delivery, privacy/audit avoidance, resilience, or combination?
+551. Защо физическата куриерска мрежа остава необходима при работещо digital messaging — недостиг на крайни устройства, политика за достъп, доставка на физически предмети, избягване на проследяване/одит, устойчивост или комбинация от тези фактори?
 552. Sheriff `DIRECT MESSAGING` same backend ли е as earlier Medical → Martha Walker messaging?
 553. Departmental accounts shared mailboxes ли са, role accounts ли са, or individual-address aliases?
 554. Messages centrally retained/logged ли са and for how long?
@@ -791,7 +791,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S02E06 — control-room field / HUMINT reporting
 
-558. Control-room field report same messaging infrastructure ли използва as Sheriff `DIRECT MESSAGING`?
+558. Използва ли полевият доклад към control room същата инфраструктура за съобщения като Sheriff `DIRECT MESSAGING`?
 559. Как field informant-ът physically/digitally submits the report?
 560. Informant-ът има ли dedicated account/device, institutional terminal access, or sends through an intermediary?
 561. Как source identity/authenticity се проверява?
@@ -823,7 +823,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 ## S02E07 — Legacy / vault continuity
 
 580. Какъв е exact catalog/scope на `Legacy`?
-581. `Legacy` съдържа ли pre-Silo history, construction records, technical manuals, governance doctrine, cross-Silo records, or all of these?
+581. Съдържа ли `Legacy` pre-Silo история, строителни записи, технически ръководства, governance doctrine, cross-Silo записи или всичко изброено?
 582. Physical books ли са основният носител, има ли digital archive, or mixed media?
 583. Кой има право на direct access до `Legacy`?
 584. `Shadow` succession включва ли formal training/study в `Legacy`?
@@ -832,7 +832,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 587. `THE ORDER` част ли е от `Legacy`, separate controlled doctrine ли е, or both?
 588. `Legacy` curated/censored ли е, and who controls additions/removals?
 589. **В ЗНАЧИТЕЛНА СТЕПЕН РАЗРЕШЕНО in S02E09:** Silo 17 vault директно съдържа large preserved knowledge environment, функционално аналогична на `Legacy`; official `Legacy` label за Silo 17 остава unconfirmed.
-590. **СИЛНО ЗАСИЛЕНО in S02E09:** broad knowledge на Silo 17 vault survivor-а има direct plausible source в показаната archive/library environment; exact learning history остава unresolved.
+590. **СИЛНО ЗАСИЛЕНО в S02E09:** широкото знание на оцелелия във vault-а на Silo 17 има пряк правдоподобен източник в показаната архивна/библиотечна среда; точната история на придобиването на знанието остава неустановена.
 591. За колко occupants са предназначени residential vault compartments и за какъв период?
 592. Vault разполага ли с независими запаси от food/water/air, достатъчни за long-duration continuity?
 593. Всеки Silo vault стандартизиран ли е със същия habitation + Legacy + power package?
@@ -842,7 +842,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 594. **352 years** на Bernard точна archival стойност ли е, или закръглена conversational age?
 595. **352 years** отнасят ли се конкретно за Silo 18, за цялата Silo program или за друго общо construction event?
 596. Всички 50 Silos построени ли са едновременно?
-597. **ЧАСТИЧНО СТЕСНЕНО in S02E08:** Bernard казва, че multiple rebellions са се повтаряли приблизително на всеки 20 години преди final reset на Quinn. Exact start point, count, causes и placement в ~212-year pre-last-Rebellion period остават unresolved.
+597. **ЧАСТИЧНО СТЕСНЕНО в S02E08:** Bernard казва, че множество бунтове са се повтаряли приблизително на всеки 20 години преди финалния reset на Quinn. Точната начална точка, брой, причини и разположение в приблизително 212-годишния период преди последния Rebellion остават неустановени.
 598. Следователно ~200-year recording на Jane Carmody е приблизително ~152 години след construction — потвърждава ли по-късно evidence това placement?
 599. Quinn/Rebellion ~140-year anchor достатъчно точен ли е, за да прецизира ~212-year interval?
 600. `A.R.` буквално означава ли post-Rebellion era, или 352-year anchor сочи към друга epoch?
@@ -883,7 +883,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 626. Колко бързо public historical access е премахнат след/по време на Rebellion?
 627. Кои categories of records са унищожени, скрити или само access-restricted?
 628. Rebels знаели ли са, че върху тях ще бъде прехвърлена вината за historical loss?
-629. `~140 years of peace` означава ли zero rebellions, zero major rebellions, or official narrative of peace?
+629. `~140 years of peace` („~140 години мир“) означава ли нула бунтове, нула големи бунтове или официален разказ за мир?
 630. Какви други Quinn-era reforms освен history/memory reset може да са допринесли за тези ~140 years?
 
 ## S02E08 — waterborne memory-suppression program
@@ -903,20 +903,20 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 641. Кои Quinn relatives/descendants Meadows посещава?
 642. Как тези relatives са запазили книги/materials despite historical confiscation and relic enforcement?
-643. **СИЛНО ЗАСИЛЕНО in S02E09:** Meadows е достигнала hidden lower contact point; дали това е станало именно през known four-day disappearance остава unresolved.
+643. **СИЛНО ЗАСИЛЕНО в S02E09:** Meadows е достигнала скритата долна контактна точка; дали това е станало именно през известното четиридневно изчезване остава неустановено.
 644. Какво конкретно научава Meadows от Quinn's family?
 645. Old `Pact Between the Founders` same text ли има as current Pact?
 646. Има ли annotations, marginalia or hidden notes by Quinn inside the copy?
 647. Handwritten `Salvador Quinn` ownership mark ли е, signature ли е, dedication ли е, or another provenance mark?
 648. Quinn бил ли е само owner/custodian на copy-то, или е имал formal role, свързана с foundational doctrine?
 649. Old Pact copy преди или след Quinn's historical reset е придобито/annotated?
-650. **СИЛНО ЗАСИЛЕНО in S02E09:** Meadows достига same hidden lower contact point като Quinn; дали old Pact discovery directly води до това visit/abandonment остава unresolved.
+650. **СИЛНО ЗАСИЛЕНО в S02E09:** Meadows достига същата скрита долна контактна точка като Quinn; дали откриването на старото копие на Pact директно води до това посещение/оттегляне остава неустановено.
 
 ## S02E08 — Quinn decoded payload
 
-651. **ЧАСТИЧНО РАЗРЕШЕНО in S02E09:** decoded payload вече включва `the game is rigged`, Founders-built-fifty claim, `the safeguard` и bottom/tunnel/confirmation instruction; exact full message остава unresolved.
+651. **ЧАСТИЧНО РАЗРЕШЕНО в S02E09:** декодираното съобщение вече включва `the game is rigged` („играта е нагласена“), твърдението, че Основателите са построили петдесет, `the safeguard` и указанието дъно → тунел → потвърждение; точното пълно съобщение остава неустановено.
 652. Какво точно Quinn има предвид под `the game`?
-653. `rigged` означава ли governance, Pact enforcement, rebellion cycle, cleaning system, Silo network, Founders' design or another mechanism?
+653. `rigged` („нагласена“) отнася ли се до управлението, прилагането на Pact, цикъла на бунтовете, cleaning системата, мрежата от Silos, дизайна на Основателите или друг механизъм?
 654. Кой е intended future reader — Head of IT, shadow, independent investigator, Quinn descendant, or anyone capable of decoding?
 655. Какъв cipher/key е използван за final payload?
 656. Как reader-ът трябва да obtain-не decoding key?
@@ -945,34 +945,34 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 673. Каква е връзката им с previously known IT-vault survivor?
 674. Защо са останали hidden from Juliette толкова дълго?
 675. Имат ли own governance/social structure?
-676. **В ЗНАЧИТЕЛНА СТЕПЕН РАЗРЕШЕНО in S02E09:** Silo 17 vault директно съдържа books/archive/knowledge-rich environment и additional survivors влизат в него; exact access rules, curation и official `Legacy` status остават unresolved.
+676. **В ЗНАЧИТЕЛНА СТЕПЕН РАЗРЕШЕНО в S02E09:** vault-ът на Silo 17 директно съдържа богата на книги/архиви/знание среда и в него влизат допълнителни оцелели; точните правила за достъп, подборът на съдържанието и официалният статус като `Legacy` остават неустановени.
 
 ## S02E09 — 50/51 Silos и counting model
 
 677. Защо Quinn казва, че Founders са построили **50**, а Bernard казва, че реалният брой е **51**?
-678. 51-вото звено standard Silo ли е, different facility/control node ли е, later addition ли е, or counting-convention difference?
+678. 51-вото звено стандартен Silo ли е, различно съоръжение/контролен възел, по-късно допълнение или разлика в начина на броене?
 679. Всички Heads of IT/shadows знаят ли exact 51 count, или само broader multi-Silo existence?
 680. Има ли numbering scheme, която включва/изключва отделен special installation?
 681. Как `SILO_COUNT` от HDD 18 се mapping-ва към 50/51 discrepancy?
 
 ## S02E09 — the safeguard
 
-682. **РАЗРЕШЕНО in S02E10:** `the safeguard` включва physical pipe, която може да достави poison в local Silo с whole-population kill capability.
+682. **РАЗРЕШЕНО в S02E10:** `the safeguard` включва физическа тръба, която може да достави отрова в местния Silo със способност да унищожи цялото население.
 683. Кой/какво има authority да activate-ва safeguard-а и къде физически/логически се намира този controller?
-684. **ЧАСТИЧНО РАЗРЕШЕНО in S02E10:** physical delivery path е известен, но activation manual, remote, automatic или hybrid ли е остава unresolved.
-685. **ЧАСТИЧНО РАЗРЕШЕНО:** disclosure на protected lower knowledge е stated sufficient condition; какви други exact trigger conditions съществуват?
-686. Защо disclosure на hidden-lower knowledge е sufficient trigger за whole-Silo poison response?
+684. **ЧАСТИЧНО РАЗРЕШЕНО в S02E10:** физическият път за доставяне е известен, но остава неустановено дали задействането е ръчно, дистанционно, автоматично или хибридно.
+685. **ЧАСТИЧНО РАЗРЕШЕНО:** разкриването на защитеното долно знание е заявено като достатъчно условие; какви други точни условия за задействане съществуват?
+686. Защо разкриването на скритото долно знание е достатъчен trigger за отравяне на целия Silo?
 687. Как system-ът detect-ва или доказва такова disclosure, така че да activate-не safeguard-а?
 688. **РАЗРЕШЕНО in S02E10:** physical effect е poison delivery в Silo с capacity да kill-не whole local population.
 689. **В ЗНАЧИТЕЛНА СТЕПЕН РАЗРЕШЕНО in S02E10:** demonstrated/stated target scope е local Silo population; остава дали system има broader cross-Silo modes.
-690. **ЧАСТИЧНО РАЗРЕШЕНО in S02E10:** physical blocking е possible и е stated successful в Silo 17; остава дали Head of IT има authorized override/disable capability.
+690. **ЧАСТИЧНО РАЗРЕШЕНО в S02E10:** физическото блокиране е възможно и е заявено като успешно в Silo 17; остава дали Head of IT има разрешена възможност за override/изключване.
 691. Quinn знаел ли е actual poison-pipe mechanism, Level 14 interface и blocking method, или само existence/risk?
-692. Silo 17 има equivalent safeguard, но еднакви ли са exact pipe route, Level 14 interface, poison agent и controller във всички Silos?
+692. Silo 17 има еквивалентен safeguard, но еднакви ли са точният маршрут на тръбата, интерфейсът при Level 14, отровният агент и контролиращият субект във всички Silos?
 
 ## S02E09 — hidden lower contact / tunnel
 
 693. Кой или какво стои зад lower interlocutor-а?
-694. Human remote operator ли е, automated system ли е, AI-like interface ли е, or another mechanism?
+694. Дистанционен човешки оператор ли е, автоматизирана система, AI-подобен интерфейс или друг механизъм?
 695. Как lower system detect-ва присъствието и identity/context на Lukas?
 696. Какъв е communication path-ът — local audio, buried network, remote link или друго?
 697. Same interlocutor/system ли е контактувал Quinn, Meadows и George?
