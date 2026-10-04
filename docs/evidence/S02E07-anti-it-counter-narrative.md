@@ -54,7 +54,7 @@ radio
   ↳ centrally cuttable
 
 institutional digital messaging
-  ↳ access-controlled; monitoring unresolved
+  ↳ access-controlled; monitoring остава unresolved
 
 physical leaflet
   ↳ decentralized physical propagation
