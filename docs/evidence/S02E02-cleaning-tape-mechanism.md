@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S02E02`
 
-## Evidence chain
+## Верига на доказателствата
 
 S01E10/S02E01 already established:
 - Juliette получава различен tape от normal cleaning configuration;
