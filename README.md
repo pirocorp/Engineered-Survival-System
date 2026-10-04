@@ -540,28 +540,28 @@ Confidence не е математическа вероятност и не за�
 
 ### Допълнително правило след S02E08
 
-**Privileged historical testimony може да отхвърли official account, без автоматично да се превръща в omniscient truth.** Bernard директно идентифицира публичната Quinn story като невярна и дава coherent hidden mechanism, но мотивите на Quinn и causal claim-ът, че самата historical memory е пораждала rebellions, остават tracked като privileged historical testimony.
+**Привилегированото историческо свидетелство може да отхвърли официалния разказ, без автоматично да се превръща във всезнаеща истина.** Bernard директно идентифицира публичния разказ за Quinn като неверен и дава последователен скрит механизъм, но мотивите на Quinn и причинното твърдение, че самата историческа памет е пораждала бунтове, остават проследявани като привилегировано историческо свидетелство.
 
-**Corroborated mechanism ≠ identical substance.** S01E07 water-memory testimony + S02E08 account на Bernard силно установяват historical waterborne memory suppression, докато S02E03 доказва, че съществува current forgetfulness medication. Exact compound identity между eras остава unresolved.
+**Потвърден механизъм ≠ идентично вещество.** Свидетелството за паметта и водата в S01E07 + разказът на Bernard в S02E08 силно установяват историческо потискане на паметта чрез водата, докато S02E03 доказва, че съществува текущо лекарство за забравяне. Точната идентичност на съединението между различните ери остава неустановена.
 
-**Historical erasure и historical preservation могат да съществуват едновременно по design.** Public records/books/memory могат да бъдат suppress-нати, докато `Legacy` и други privileged systems пазят selected truth. Моделът е controlled access, а не total destruction.
+**Историческото заличаване и историческото съхраняване могат да съществуват едновременно по дизайн.** Публичните записи/книги/памет могат да бъдат потискани, докато `Legacy` и други привилегировани системи пазят избрана истина. Моделът е контролиран достъп, а не пълно унищожение.
 
 **Association със стар документ ≠ authorship.** Ръкописното `Salvador Quinn` върху `The Pact Between the Founders` го асоциира директно с това копие, но не установява, че е автор на Pact, че е Founder или че е променял текста му.
 
-**Decoded phrase ≠ decoded system.** `the game is rigged` е direct evidence от съобщението на Quinn, но exact referent на `the game` остава open.
+**Декодирана фраза ≠ декодирана система.** `the game is rigged` („играта е нагласена“) е директно evidence от съобщението на Quinn, но точният референт на `the game` остава отворен.
 
 
 ## Текущ модел за външния свят
 
-След S02E08 основната exterior visual ambiguity остава разрешена. S02E08 does not materially alter the exterior-hazard model; it directly changes the Silo 17 habitation model by confirming multiple living inhabitants:
+След S02E08 основната визуална неяснота за външната среда остава разрешена. S02E08 не променя съществено модела за външната опасност; директно променя модела за обитаване на Silo 17, като потвърждава множество живи обитатели:
 
 1. **Lush cleaner view is false** — helmet-ът показва manipulated / overlay-like visual layer.
 2. **Barren exterior is substantially real** — след отпадането на false layer Juliette вижда devastated terrain.
-3. **Съществуват multiple Silo installations**; survivor от Silo 17 заявява exact system count **50**.
+3. **Съществуват множество Silo инсталации**; оцелял от Silo 17 заявява точен брой на системата **50**.
 4. В далечината се вижда **ruined / city-like skyline**, но identity/location не са установени.
 5. Juliette директно достига и влиза във **втори Silo**.
 6. Голямо mass-remains field около този Silo потвърждава real lethal exterior hazard при наблюдаваните условия.
-7. Текущият best-fit hazard class е **mobile airborne/dust-borne hazard**, чиято local concentration може временно да се разсее и после да се върне; exact toxin/pathogen/particulate mechanism остава unresolved.
+7. Текущият най-подходящ клас на опасността е **подвижна въздушна/прахова опасност**, чиято локална концентрация може временно да се разсее и после да се върне; точният механизъм токсин/патоген/частици остава неустановен.
 8. Suit sealing и breathing-support integrity влияят съществено върху survival.
 9. Insider dialogue силно свързва оцеляването на Juliette със замяната на normal cleaning tape с по-добър seal.
 10. Bernard/IT получава live exterior video, свързано с Juliette, докато тя е навън.
@@ -570,7 +570,7 @@ Confidence не е математическа вероятност и не за�
 13. Bernard демонстрира standalone immersive headset с preserved pre-Silo natural environment и обяснява, че работи подобно на cleaner-helmet imagery.
 14. S02E08 директно потвърждава multiple living inhabitants в Silo 17 отвъд познатия досега IT-vault survivor.
 
-Все още са unresolved exact helmet-rendering technology, exact outside lethal agent, exact suit leak pathway, exact source/format of the live cleaner feed, independent confirmation of the 50-Silo count, full Silo-numbering scheme, any current central authority and identity-то на distant skyline.
+Все още остават неустановени точната технология за рендиране в шлема, точният смъртоносен външен агент, точният път на теча в костюма, точният източник/формат на live feed-а от cleaner-а, независимото потвърждение на броя 50 Silos, пълната схема за номериране на Silos, евентуална текуща централна власт и идентичността на далечния skyline.
 
 ## Текущ architectural model
 
@@ -616,7 +616,7 @@ SUB-SILO CONSTRUCTION CAVITY
                └─ reported short tunnel + door ?
 ```
 
-Question marks означават strong spatial inference или unresolved relation, не single-frame direct confirmation.
+Въпросителните означават силен пространствен извод или неустановена връзка, а не директно потвърждение от един кадър.
 
 ## Workflow след всеки епизод
 
