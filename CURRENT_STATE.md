@@ -222,7 +222,7 @@ S02E08 дава първото coherent privileged explanation **защо Silo �
 - Level marker **119** е директно показан.
 - Добавя се само като spatial anchor; само от номера не се infer-ва special function.
 
-### S02E04 — Meadows / Salvador Quinn / Rebellion-era IT history
+### S02E04 — Meadows / Salvador Quinn / IT история от Rebellion-era
 
 - Bernard отравя Judge Meadows.
 - Преди да умре Meadows пита дали Bernard е унищожил hard drive, защото е съдържал материал, свързан със Salvador Quinn.
@@ -308,7 +308,7 @@ S02E08 дава първото coherent privileged explanation **защо Silo �
 - Това е character theory, а не established medical explanation.
 - Не трябва да се overtranslate-ва като "psychosomatic" без по-силен dialogue.
 
-### S02E03 — cleaner visual trigger / repeated Jane pattern
+### S02E03 — visual trigger за cleaner / repeated Jane pattern
 
 - Juliette изрично вярва, че manipulated lush view е това, което кара cleaners да clean-ват.
 - Тя разпознава lush image като false, защото съвпада със стария Jane Carmody recording.
@@ -488,7 +488,7 @@ S02E08 дава първото coherent privileged explanation **защо Silo �
 - Juliette следователно вече директно вижда/access-ва evidence за alternate cleaner visual state.
 - Това strengthens importance-а на HDD evidence line, но само по себе си не установява дали lush view е real или synthetic.
 
-### S01E08 — illicit microscopy / independent scientific observation
+### S01E08 — illicit microscopy / независимо scientific observation
 
 - Майката на Juliette е построила/притежавала homemade microscope-like magnification apparatus.
 - Context presents the device as tool за medical investigation, включително rabbit с heart problem analogous на Jacob’s.
@@ -496,7 +496,7 @@ S02E08 дава първото coherent privileged explanation **защо Silo �
 - Exact optical power/threshold crossing не е измерен от самото изображение.
 - Това силно strengthens interpretation-а, че Pact magnification restrictions ограничават capacity на residents за independent scientific/medical discovery.
 
-### S01E08 — Juliette revises the father-betrayal model
+### S01E08 — Juliette преразглежда father-betrayal model
 
 - Juliette по-рано е вярвала, че баща ѝ е предал майка ѝ.
 - След mirror-camera discovery Juliette осъзнава, че майка ѝ е могла да бъде наблюдавана директно чрез covert surveillance.
@@ -568,7 +568,7 @@ S02E08 дава първото coherent privileged explanation **защо Silo �
 - Бащата на Juliette казва, че „had no choice“; това е негово self-justification, а не independent proof за coercion.
 - Juliette по-рано е вярвала, че той е предал майка ѝ; S01E08 mirror-surveillance realization supersede-ва father-as-informant като необходимо обяснение за discovery на microscope.
 
-### Juliette / George / Flamekeeper family network
+### Juliette / George / семейната Flamekeeper network
 
 - George’s mother is identified as Flamekeeper.
 - Juliette’s mother is identified as Flamekeeper.
@@ -695,7 +695,7 @@ Observed direct anchors включват:
 
 ## Surveillance / privileged-control model after S02E08
 
-S02E02 expands the hidden-control model beyond ordinary internal surveillance.
+S02E02 разширява hidden-control model отвъд ordinary internal surveillance.
 
 ```text
 internal mirror cameras / archived feeds
@@ -720,26 +720,26 @@ internal mirror cameras / archived feeds
                                    at least THE ORDER + tape secret
 ```
 
-This supports a **restricted read-in governance layer**, not merely one individual's private knowledge.
+Това подкрепя **restricted read-in governance layer**, а не просто private knowledge на един човек.
 
-S02E03 adds that Bernard's privileged layer also includes long-standing knowledge of Silo 17's failed/dead status, while Sims demonstrates targeted pharmacological information-containment capability. Bernard's knowledge remains partial rather than assumed omniscient.
+S02E03 добавя, че privileged layer на Bernard включва и long-standing knowledge за failed/dead status на Silo 17, докато Sims демонстрира targeted pharmacological information-containment capability. Knowledge-ът на Bernard остава partial, а не assumed omniscient.
 
-S02E04 further shows that this layer is **not politically monolithic**: Bernard attributes impeachment pressure against Meadows to Sims, while Sims actively mobilizes sentiment against Mechanical. Bernard simultaneously uses `THE ORDER` to shape a separate scapegoating operation.
+S02E04 допълнително показва, че този layer **не е politically monolithic**: Bernard приписва impeachment pressure срещу Meadows на Sims, докато Sims активно mobilize-ва sentiment срещу Mechanical. Едновременно с това Bernard използва `THE ORDER`, за да shape-не отделна scapegoating operation.
 
-S02E05 makes the hierarchy more concrete: Bernard removes Sims from Security, denies him the `shadow` succession path, and appoints him Judge. Public Judicial authority and privileged IT succession are therefore distinct layers, while Sims' independent political leverage still prevents a simple "Bernard controls everything" model.
+S02E05 прави hierarchy по-конкретна: Bernard отстранява Sims от Security, отказва му `shadow` succession path и го назначава за Judge. Public Judicial authority и privileged IT succession следователно са distinct layers, докато independent political leverage на Sims все още не позволява simple model „Bernard controls everything“.
 
-S02E06 adds **communications infrastructure control** to Bernard/IT's demonstrated domain. Institutional direct messaging exists, the control room ingests routed field reports, and IT can disable the Silo's radio layer. This does not prove IT reads every message or controls every communication channel, but it establishes a real communications choke-point capability.
+S02E06 добавя **communications infrastructure control** към demonstrated domain на Bernard/IT. Institutional direct messaging съществува, control room приема routed field reports, а IT може да disable-не radio layer на Silo. Това не доказва, че IT чете всяко message или контролира всеки communication channel, но установява реален communications choke-point capability.
 
-S02E07 adds a concrete **institutional-memory mechanism** and visible continuity privilege: the vault contains `Legacy`, while IT remains powered during a broader Silo 18 blackout. The privileged layer therefore preserves not only classified access and communications control but also knowledge and operational continuity.
+S02E07 добавя concrete **institutional-memory mechanism** и visible continuity privilege: vault съдържа `Legacy`, докато IT остава powered по време на по-широк blackout в Silo 18. Privileged layer следователно запазва не само classified access и communications control, но и knowledge и operational continuity.
 
-S02E08 clarifies the asymmetry: the public historical layer was deliberately broken under Quinn, while privileged knowledge survived sufficiently for Bernard to know the hidden Quinn account and for `Legacy` to preserve protected material. This supports a **controlled historical monopoly** rather than total destruction of history.
+S02E08 изяснява asymmetry: public historical layer е умишлено прекъснат при Quinn, докато privileged knowledge оцелява достатъчно, за да може Bernard да знае hidden Quinn account, а `Legacy` да запази protected material. Това подкрепя **controlled historical monopoly**, а не total destruction of history.
 
 It still does **not** establish:
-- the full membership of that layer;
-- whether Sims knows parts of `THE ORDER`;
+- пълния membership на този layer;
+- дали Sims знае части от `THE ORDER`;
 - who authored `THE ORDER`;
-- whether a current authority above Bernard/Meadows exists;
-- whether this layer is centrally coordinated across all Silos.
+- дали съществува current authority над Bernard/Meadows;
+- дали този layer е centrally coordinated във всички Silos.
 
 ---
 
@@ -772,7 +772,7 @@ Silo 18
 vault + residential space + Legacy + blackout-resilient IT power
 ```
 
-The strongest current model is a standardized IT continuity layer, but exact component identity across all 50 Silos remains unresolved.
+Най-силният текущ model е standardized IT continuity layer, но exact component identity във всичките 50 Silos остава unresolved.
 
 ---
 
@@ -809,15 +809,15 @@ radio infrastructure
         └─ Bernard / IT can disable Silo-wide
 ```
 
-This is a layered-access model, not proof that every digital message is monitored or that ordinary residents lack all electronic access.
+Това е layered-access model, а не proof, че всяко digital message се monitored-ва или че ordinary residents нямат никакъв electronic access.
 
 The crucial new distinction is:
 
-> **communication technology exists; access and controllability are the constrained variables.**
+> **Communication technology съществува; access и controllability са constrained variables.**
 
 ---
 
-## Silo 17 continuity-power / flooding model after S02E05
+## Continuity-power / flooding model за Silo 17 след S02E05
 
 ```text
 normal Silo power
@@ -848,9 +848,9 @@ external/outside source (character description)
              stop / slow flooding
 ```
 
-This strongly upgrades IT from a privileged information compartment to a hardened **continuity infrastructure layer**.
+Това силно upgrade-ва IT от privileged information compartment към hardened **continuity infrastructure layer**.
 
-The exact external source, generation technology, capacity and routing remain unresolved.
+Exact external source, generation technology, capacity и routing остават unresolved.
 
 ---
 
@@ -872,9 +872,9 @@ PHYSICAL COUNTER-NARRATIVE
         └─ What is IT hiding?
 ```
 
-The note proves competing messaging, not the truth of every claim or official Mechanical authorship.
+Note-ът доказва competing messaging, а не truth на всеки claim или official Mechanical authorship.
 
-The blackout adds a visible asymmetry: normal areas lose power while IT remains lit, giving residents direct evidence that IT possesses privileged infrastructure.
+Blackout-ът добавя visible asymmetry: normal areas губят power, докато IT остава lit, което дава на residents direct evidence, че IT притежава privileged infrastructure.
 
 ---
 
@@ -902,7 +902,7 @@ Sims agitates public sentiment against Mechanical
 population polarization / unrest
 ```
 
-This is stronger than post-hoc propaganda: S02E04 shows **event construction + blame assignment + public mobilization** operating as linked crisis-management mechanisms.
+Това е по-силно от post-hoc propaganda: S02E04 показва **event construction + blame assignment + public mobilization**, действащи като linked crisis-management mechanisms.
 
 ---
 
@@ -921,7 +921,7 @@ no independent witness established
 institutional arrest / cleaning-path trigger
 ```
 
-This is stronger than a false narrative after the fact: the disputed/false claim itself is used as the predicate for immediate coercive action.
+Това е по-силно от false narrative след факта: самият disputed/false claim се използва като predicate за immediate coercive action.
 
 ---
 
@@ -975,15 +975,15 @@ Quinn truth survives
 Bernard retains hidden chronology/history
 ```
 
-This is no longer best modeled as simple accidental historical loss. The strongest current model is **deliberate public historical reset + privileged preservation**.
+Това вече не се моделира най-добре като simple accidental historical loss. Най-силният текущ model е **deliberate public historical reset + privileged preservation**.
 
 Still unresolved:
-- whether Quinn's diagnosis was correct;
+- дали diagnosis на Quinn е била correct;
 - exact waterborne drug;
-- whether S02E03's current forgetfulness medication is the same substance;
-- who was exempt from exposure;
+- дали current forgetfulness medication от S02E03 е същото substance;
+- кой е бил exempt от exposure;
 - when dosing stopped;
-- exact relationship between Quinn's reset and modern relic enforcement.
+- exact relationship между reset-а на Quinn и modern relic enforcement.
 
 
 ---
@@ -1000,7 +1000,7 @@ Juliette's mother        George's mother
               later connection
 ```
 
-The mothers’ common business/work relationship makes the family bridge direct rather than speculative.
+Общата business/work relationship на майките прави family bridge direct, а не speculative.
 
 ---
 
@@ -1022,36 +1022,36 @@ CODE SILO ORANGE explicitly formalizes the deception
 covert medical reproductive-control mechanism CONFIRMED
 ```
 
-Historical targeting purpose against Flamekeeper family lines remains testimony-based.
+Historical targeting purpose срещу Flamekeeper family lines остава testimony-based.
 
 ---
 
 ## Immediate watch targets за S02E09
 
-- exact archival/documentary evidence behind Bernard's ~20-year recurring-rebellion account;
-- whether Quinn's reset plan is documented in `Legacy`, `THE ORDER`, another protected archive, or oral succession knowledge;
-- exact chemical/drug used in the water;
-- whether the historical waterborne substance and S02E03 forgetfulness medication are the same compound/family;
-- dose, duration, reversibility and cognitive scope of chronic memory suppression;
-- how privileged personnel/Legacy custodians preserved memory while the public was exposed;
-- when water dosing began and ended;
-- whether modern relic enforcement is explicitly documented as maintenance of Quinn's reset;
-- what private family-held books/materials survived confiscation;
-- exact relationship between Meadows' Quinn-family investigation, her four-day disappearance and abandonment of the shadow role;
-- whether `The Pact Between the Founders` differs textually from the current Pact;
-- provenance/function of the handwritten `Salvador Quinn` name;
-- whether Quinn annotated the old Pact copy;
-- full decoded Quinn payload beyond `the game is rigged`;
+- exact archival/documentary evidence зад ~20-year recurring-rebellion account на Bernard;
+- дали reset plan на Quinn е документиран в `Legacy`, `THE ORDER`, друг protected archive или oral succession knowledge;
+- exact chemical/drug, използван във водата;
+- дали historical waterborne substance и S02E03 forgetfulness medication са същият compound/family;
+- dose, duration, reversibility и cognitive scope на chronic memory suppression;
+- как privileged personnel/Legacy custodians са запазили memory, докато public е бил exposed;
+- кога water dosing започва и приключва;
+- дали modern relic enforcement е explicitly documented като maintenance на reset-а на Quinn;
+- кои private family-held books/materials са оцелели след confiscation;
+- exact relationship между Quinn-family investigation на Meadows, четиридневното ѝ изчезване и abandonment на shadow role;
+- дали `The Pact Between the Founders` се различава textually от current Pact;
+- provenance/function на ръкописното име `Salvador Quinn`;
+- дали Quinn е annotated старото Pact copy;
+- full decoded Quinn payload отвъд `the game is rigged`;
 - exact referent of `the game`;
-- intended reader/recipient of Quinn's message;
+- intended reader/recipient на message-а на Quinn;
 - identity and role of R. Ahundsen;
-- whether the apple-tree phrase is literal, coded or dual-purpose;
-- exact location/function of the orchard;
-- exact number and identities of additional Silo 17 survivors;
-- whether Silo 17 survivors are original survivors, descendants, or both;
-- where they live and how they obtain food, water and power;
-- their relation to the IT-vault survivor;
-- whether they have access to a Legacy-like archive or another preserved knowledge source.
+- дали apple-tree phrase е literal, coded или dual-purpose;
+- exact location/function на orchard;
+- exact number и identities на additional Silo 17 survivors;
+- дали Silo 17 survivors са original survivors, descendants или и двете;
+- къде живеят и как получават food, water и power;
+- relation им към IT-vault survivor;
+- дали имат access до Legacy-like archive или друг preserved knowledge source.
 
 Виж също:
 
