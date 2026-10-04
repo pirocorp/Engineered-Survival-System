@@ -683,8 +683,8 @@ Observed direct anchors include:
 | H58 | IT is a central communications choke point capable of degrading or isolating operational coordination by cutting Silo-wide radio traffic. | H | Active / Strengthened |
 | H59 | IT vaults may include a standardized `Legacy` knowledge archive intended to preserve technical, historical and governance knowledge across succession or Silo-wide collapse; direct confirmation currently exists in Silo 18. | H | Active / Strengthened |
 | H60 | The crisis now contains competing public narratives: leadership/IT frames Mechanical as the threat while an anti-IT physical counter-narrative presents Mechanical as seeking truth and questions Juliette/Meadows official stories. | H | Active / Strengthened |
-| H61 | Quinn implemented a deliberate historical-reset strategy to break a recurring ~20-year rebellion cycle through information suppression, false public attribution and pharmacological memory weakening. | H | Active / Strongly Strengthened |
-| H62 | Modern relic/book/history prohibition functions as a maintenance layer of Quinn's reset by preventing reconstruction of the erased public past. | H | Active / Strongly Strengthened |
+| H61 | Quinn implemented a deliberate historical-reset strategy to break a recurring ~20-year rebellion cycle through information suppression, false public attribution and pharmacological memory weakening. | H | Active / Strongly Supported |
+| H62 | Modern relic/book/history prohibition functions as a maintenance layer of Quinn's reset by preventing reconstruction of the erased public past. | H | Active / Strongly Supported |
 | H63 | Silo 17 contains multiple living inhabitants; the previously known IT-vault survivor is not the only surviving resident shown. | VH | Confirmed / Refactored |
 | H64 | The R. Ahundsen `apple tree` wording may be covert signaling, literal personal reminiscence, or dual-purpose language. | M | Candidate |
 | H65 | Meadows' independent investigation into Quinn/family-held historical material may have contributed to her abandonment of Bernard's shadow path; exact relation to the four-day disappearance remains unresolved. | M-H | Active |
