@@ -4,31 +4,31 @@
 
 | ID | Evidence | Клас | Confidence | Бележки |
 |---|---|---|---:|---|
-| E001 | Населението открито не знае защо Силозът съществува, защо човечеството живее под земята и какво се е случило навън. | Character / institutional context | H | Установява сериозна празнина в historical knowledge, но не причината. |
-| E002 | Официалният разказ приписва унищожаването на archives, books и hard drives на Rebellion отпреди приблизително 140 години. | Institutional claim | H | Истинността не е independently confirmed. |
-| E003 | Pact функционира като основополагаща система от закони/правила. | Direct observation | H | Core institutional framework. |
-| E004 | Reproduction изисква permission и се използват contraceptive implants. | Direct observation | H | Engineered population management. |
-| E005 | Allison физически премахва implant, който според нея вече е трябвало да бъде отстранен. | Direct observation + testimony | H | Силен evidence за поне една covert reproductive intervention. |
-| E006 | Relics / предмети от стария свят и historical inquiry са restricted. | Direct observation / institutional rule | H | Strong information-control indicator. |
-| E007 | Изричното заявяване „искам да изляза“ задейства cleaning/outside process. | Direct observation | VH | Allison и Holston третират wording-а като legal trigger. |
-| E008 | Residents виждат barren/gray exterior на public display. | Direct observation + screenshot | VH | Representation е established; authenticity не е. |
-| E009 | Allison helmet показва lush green exterior. | Direct observation | VH | Feed authenticity unknown. |
-| E010 | Allison cleans след lush view. | Direct observation | H | Perception → cleaning behavioral link. |
-| E011 | Allison collapses близо до дървото след излизане. | Direct observation | VH | Cause unknown. |
-| E012 | HDD 18 е извън normal inventory/accountability и съдържа recoverable deleted material. | Direct observation | H | Origin unknown. |
-| E013 | Archive screens показват `SILO YEAR 96/97`. | Screenshot evidence | VH | Later mayor journals independently reference Year 97. |
-| E014 | `JANE CARMODY CLEANING` съдържа същия тип lush exterior imagery. | Screenshot evidence | VH | Repeatable system clue. |
-| E015 | Blueprint material показва lower tunnel и `CLASSIFIED`. | Screenshot evidence | VH | Exact destination/status unknown. |
-| E016 | File listings съдържат planning/development/implementation material и `SILO_COUNT`. | Screenshot evidence | H | Не доказва multiple Silos. |
-| E017 | Cross-sections подкрепят very deep vertical structure с Mechanical near bottom. | Screenshot evidence | H | S01E02 уточнява 144 levels. |
-| E018 | Deleted-file recovery knowledge е removed/restricted под IT control. | Direct observation | H | Intentional technical-information control. |
-| E019 | Juliette оспорва official account за George death. | Character testimony | H | Raises, but does not prove murder. |
-| E020 | Exterior displays има на multiple public locations, включително communal/dining space. | Direct observation + screenshot | H | Broad public information infrastructure. |
-| E021 | Holston вижда lush exterior през cleaner helmet. | Direct observation + screenshot | VH | Third independent lush-view datapoint. |
-| E022 | Simultaneously public feed показва barren exterior. | Direct observation + screenshot | VH | Incompatible simultaneous representations. |
-| E023 | Public feed показва Allison body близо до tree; Holston later physically reaches same place. | Direct observation + screenshot | VH | Geometry/object-position correspondence. |
-| E024 | Holston вижда lush scene и след това почиства sensor/camera. | Repeated observation | H | Повтаря pattern perception → cleaning. |
-| E025 | Holston показва distress, сваля helmet-а и умира до Allison. | Direct observation + screenshot | VH | Отваря hypothesis за suit/helmet/life-support. |
+| E001 | Населението открито не знае защо Silo съществува, защо човечеството живее под земята и какво се е случило навън. | Character / institutional context | H | Установява сериозна празнина в историческото знание, но не и причината. |
+| E002 | Официалният разказ приписва унищожаването на архиви, книги и hard drives на Rebellion отпреди приблизително 140 години. | Institutional claim | H | Истинността не е независимо потвърдена. |
+| E003 | Pact функционира като основополагаща система от закони/правила. | Direct observation | H | Основна институционална рамка. |
+| E004 | Репродукцията изисква разрешение и се използват контрацептивни импланти. | Direct observation | H | Проектирано управление на населението. |
+| E005 | Allison физически премахва имплант, който според нея вече е трябвало да бъде отстранен. | Direct observation + testimony | H | Силно evidence за поне една скрита репродуктивна намеса. |
+| E006 | Реликвите / предметите от стария свят и историческите проучвания са ограничени. | Direct observation / institutional rule | H | Силен индикатор за контрол на информацията. |
+| E007 | Изричното заявяване „искам да изляза“ задейства cleaning/outside процеса. | Direct observation | VH | Allison и Holston третират формулировката като правен trigger. |
+| E008 | Жителите виждат безплодна/сива външна среда на public display. | Direct observation + screenshot | VH | Представянето е установено; автентичността не е. |
+| E009 | Шлемът на Allison показва зелена и буйна външна среда. | Direct observation | VH | Автентичността на feed-а е неизвестна. |
+| E010 | Allison почиства след зелената гледка. | Direct observation | H | Връзка възприятие → cleaning поведение. |
+| E011 | Allison припада близо до дървото след излизане. | Direct observation | VH | Причината е неизвестна. |
+| E012 | HDD 18 е извън нормалния инвентар/отчетност и съдържа възстановим изтрит материал. | Direct observation | H | Произходът е неизвестен. |
+| E013 | Архивните екрани показват `SILO YEAR 96/97`. | Screenshot evidence | VH | По-късните дневници на Mayor независимо посочват Year 97. |
+| E014 | `JANE CARMODY CLEANING` съдържа същия тип зелено изображение на външната среда. | Screenshot evidence | VH | Повтаряема системна следа. |
+| E015 | Blueprint материалът показва долен тунел и `CLASSIFIED`. | Screenshot evidence | VH | Точната дестинация/статус са неизвестни. |
+| E016 | Списъците с файлове съдържат материали за планиране/разработка/внедряване и `SILO_COUNT`. | Screenshot evidence | H | Не доказва наличието на множество Silos. |
+| E017 | Напречните сечения подкрепят много дълбока вертикална структура с Mechanical близо до дъното. | Screenshot evidence | H | S01E02 уточнява 144 нива. |
+| E018 | Знанието за възстановяване на изтрити файлове е премахнато/ограничено под контрола на IT. | Direct observation | H | Умишлен контрол върху техническата информация. |
+| E019 | Juliette оспорва официалния разказ за смъртта на George. | Character testimony | H | Повдига подозрение, но не доказва убийство. |
+| E020 | Exterior displays има на множество обществени места, включително обща/трапезарна зона. | Direct observation + screenshot | H | Широка публична информационна инфраструктура. |
+| E021 | Holston вижда зелена външна среда през шлема на cleaner-а. | Direct observation + screenshot | VH | Трета независима точка с такава зелена гледка. |
+| E022 | Едновременно с това public feed показва безплодна външна среда. | Direct observation + screenshot | VH | Несъвместими едновременни представяния. |
+| E023 | Public feed показва тялото на Allison близо до дървото; по-късно Holston физически достига същото място. | Direct observation + screenshot | VH | Съответствие в геометрията/позицията на обектите. |
+| E024 | Holston вижда зелената сцена и след това почиства сензора/камерата. | Repeated observation | H | Повтаря модела възприятие → cleaning. |
+| E025 | Holston показва силно физическо неразположение, сваля шлема и умира до Allison. | Direct observation + screenshot | VH | Отваря hypothesis за костюма/шлема/животоподдържането. |
 | E026 | Диалогът изрично заявява 144 levels. | Character testimony + screenshot | VH | Architectural baseline. |
 | E027 | `Up-top`, `Mids`, `Down-deep` са вътрешни regional labels. | Repeated usage | H | Social/spatial categories. |
 | E028 | Porters поддържат vertical logistics. | Direct observation / dialogue | H | Human logistics в среда без elevator. |
