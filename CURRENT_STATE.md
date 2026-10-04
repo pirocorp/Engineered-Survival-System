@@ -4,15 +4,15 @@
 
 ## Работен модел
 
-S02E10 превръща `the safeguard` от неизвестен protected enforcement concept в **конкретна physical whole-Silo termination system**. Safeguard-ът използва pipe, която идва отвън, влиза при **Level 14** и може да достави poison, способен да убие всички в Silo. Silo 17 survivor-ът твърди, че родителите му са блокирали тази pipe, което показва practical interruption path.
+S02E10 превръща `the safeguard` от неизвестна защитена концепция за принудително прилагане в **конкретна физическа система за унищожаване на целия Silo**. Safeguard-ът използва тръба, която идва отвън, влиза при **Level 14** и може да достави отрова, способна да убие всички в Silo. Оцелелият от Silo 17 твърди, че родителите му са блокирали тази тръба, което показва практически път за прекъсване.
 
-Това налага ключов refactor: **outside hazard и safeguard са отделни lethal mechanisms**. Block-ът в Silo 17 позволява population да стигне до exterior alive; exterior environment остава independently dangerous.
+Това налага ключова преработка: **външната опасност и safeguard-ът са отделни смъртоносни механизми**. Блокирането в Silo 17 позволява на населението да стигне живо до външната среда; външната среда остава независимо опасна.
 
 Silo 18 crisis също преминава в нов state: rebels използват destroyed stair connections като defensive barrier, Juliette се връща и показва `not safe / do not come out`, Bernard лично я посреща при airlock-а, а тя му казва, че може би знае как да спре safeguard-а. Corrected sequence е: Juliette's stopping claim → двамата влизат → burner/flame cycle се активира.
 
-Финалът отваря direct pre-Silo history: Washington bar scene с radiation screening, Congressman from Georgia's 15th district, alleged radiological attack attributed to Iran, въпрос за possible retaliation и direct doubt дали attack-ът изобщо се е случил. Congressman-ът подарява yellow-duck PEZ dispenser, което създава strong candidate bridge към earlier Silo-era yellow-plastic/blue-handle PEZ relic.
+Финалът отваря директна pre-Silo история: сцена в бар във Washington с радиационен контрол, конгресмен от 15-и конгресен окръг на Georgia, предполагаема радиологична атака, приписвана на Iran, въпрос за възможен ответен удар и пряко съмнение дали атаката изобщо се е случила. Конгресменът подарява PEZ дозатор с жълто пате, което създава силен кандидат за връзка по произход към по-ранната Silo-era жълта пластмасова реликва със синя дръжка.
 
-Най-дълбокият current model след Season 2 е:
+Най-дълбокият текущ модел след Season 2 е:
 
 ```text
 PRE-SILO WORLD / political-security context
@@ -38,7 +38,7 @@ SEPARATE:
 outside environmental hazard remains independently lethal
 ```
 
-> **Season 2 завършва с директно evidence, че Silo system не е само information-control architecture, а включва и външно захранвана fail-deadly physical termination infrastructure. Първата direct pre-Silo сцена едновременно въвежда спорен radiological-security narrative, който може да е свързан с origin-а на system-а, но causal връзка още не е установена.**
+> **Season 2 завършва с директно evidence, че системата на Silo не е само архитектура за контрол на информацията, а включва и външно захранвана физическа инфраструктура за фатално унищожаване. Първата директна pre-Silo сцена едновременно въвежда спорен разказ за радиологична заплаха и сигурност, който може да е свързан с произхода на системата, но причинно-следствена връзка още не е установена.**
 
 ---
 
@@ -50,8 +50,8 @@ outside environmental hazard remains independently lethal
 - Pipe-ът може да достави poison, способен да убие population на local Silo.
 - Silo 17 survivor-ът казва, че родителите му са успели да block-нат safeguard-а.
 - Safeguard supply идва отвън и влиза при Level 14.
-- Safeguard-ът следователно е отделен от independently real outside hazard.
-- Physical blocking показва, че mechanism-ът има practical interruption path.
+- Safeguard-ът следователно е отделен от независимо реалната външна опасност.
+- Физическото блокиране показва, че механизмът има практически път за прекъсване.
 
 ### S02E10 — Silo 18 crisis / Juliette return
 
@@ -66,7 +66,7 @@ outside environmental hazard remains independently lethal
 
 ### S02E10 — direct pre-Silo Washington
 
-- Narrative-ът показва direct pre-Silo Washington scene.
+- Разказът показва директна pre-Silo сцена във Washington.
 - Radiation screening е показан пред bar и meter status е `NORMAL`.
 - Central male character е Congressman from Georgia's 15th congressional district.
 - Alleged prior radiological attack срещу САЩ е attributed to Iran в разговора.
@@ -74,7 +74,7 @@ outside environmental hazard remains independently lethal
 - Dialogue-ът директно поставя под въпрос дали radiological attack изобщо е имало.
 - Fabricated/manipulated-pretext interpretation е candidate, не established fact.
 - Congressman-ът подарява packaged yellow-duck PEZ dispenser на жената.
-- PEZ gift-ът е strong candidate provenance bridge към earlier Silo-era yellow-plastic/blue-handle relic; exact same-object identity остава unproven.
+- Подаръкът PEZ е силен кандидат за връзка по произход към по-ранната Silo-era жълта пластмасова реликва със синя дръжка; точната идентичност като един и същ предмет остава недоказана.
 
 ### S02E09 — Quinn / 50–51 Silos / safeguard
 
@@ -84,7 +84,7 @@ outside environmental hazard remains independently lethal
 - Heads of IT и shadows знаят за другите Silos.
 - Quinn въвежда `the safeguard` като protected system concept.
 - Quinn насочва future reader към very bottom → tunnel → confirmation.
-- Това превръща encoded payload-а в actionable physical verification path.
+- Това превръща кодираното съобщение в практически използваем път за физическа проверка.
 
 ### S02E09 — bottom tunnel / active lower system
 
@@ -95,14 +95,14 @@ outside environmental hazard remains independently lethal
 - Previous visitors преди Lukas са named exhaustively като Salvador Quinn, Mary Meadows и George Wilkins.
 - Bernard не е сред тях; това доказва non-visitation, не ignorance.
 - Lukas е предупреден, че disclosure на видяното/наученото ще доведе до activation на `the safeguard`.
-- S02E09 не разкрива exact safeguard mechanism, controller или physical effect.
+- S02E09 не разкрива точния механизъм на safeguard-а, кой го контролира или физическия му ефект.
 
 ### S02E09 — Silo 17 survivors / vault knowledge
 
 - Additional survivors в Silo 17 са показани като organized group.
 - Group-ът нарича known IT-vault survivor „the killer“ и го използва като leverage за food.
 - Vault-ът на Silo 17 директно съдържа books/documents/scientific objects и large astronomical model.
-- Това е direct evidence за knowledge-preservation function, силно homologous на `Legacy` в Silo 18.
+- Това е директно evidence за функция за съхраняване на знание, силно аналогична на `Legacy` в Silo 18.
 - Official `Legacy` name за Silo 17 остава unconfirmed.
 
 ### S02E09 — coercive message / pump speculation
@@ -119,8 +119,8 @@ outside environmental hazard remains independently lethal
 - Bernard изрично казва, че тази версия е невярна и че Quinn всъщност **спасява Silo**.
 - Bernard казва, че rebellions преди Quinn са се повтаряли приблизително на всеки **20 години** и всеки е застрашавал всички в Silo.
 - Според Bernard Quinn заключава, че знанието за по-ранните rebellions помага cycle-ът да се възпроизвежда.
-- Quinn умишлено прекъсва public historical continuity.
-- Public access до historical server records е прекъснат.
+- Quinn умишлено прекъсва публичната историческа приемственост.
+- Публичният достъп до историческите server records е прекъснат.
 - Книгите са конфискувани.
 - Historical destruction/loss е приписано на rebels, вместо да бъде представено като deliberate policy на Quinn.
 - Bernard приписва на intervention-а приблизително **140 години мир**.
@@ -142,13 +142,13 @@ outside environmental hazard remains independently lethal
 - Копието носи ръкописното име `Salvador Quinn`.
 - Това директно асоциира Quinn с оцеляло foundational Pact material от suppressed historical layer.
 - Това **не** установява, че Quinn е написал Pact, че е бил Founder или че това копие се различава от current Pact.
-- Investigation-ът на Meadows може да е свързан с по-късното ѝ abandonment на shadow path, но exact connection — включително с известното четиридневно изчезване — остава unresolved.
+- Разследването на Meadows може да е свързано с по-късното ѝ изоставяне на shadow path, но точната връзка — включително с известното четиридневно изчезване — остава неустановена.
 
 ### S02E08 — decoded protected message на Quinn
 
 - Decoded част от final protected message на Quinn гласи: `If you've gotten this far, you already know the game is rigged.`
-- Wording-ът предполага future reader, който вече е проникнал отвъд official narrative.
-- Exact referent на `the game` все още не е established.
+- Формулировката предполага бъдещ читател, който вече е проникнал отвъд официалния разказ.
+- Точният референт на `the game` все още не е установен.
 - Protected ending следователно вече е директно подкрепен като second-layer message за future investigator/successor, а не просто generic sensitive information.
 
 ### S02E08 — Sims / R. Ahundsen / orchard
@@ -156,7 +156,7 @@ outside environmental hazard remains independently lethal
 - Judge Sims получава digital message от `R. AHUNDSEN`.
 - Sender-ът припомня, че Sims е присъствал на погребението на баща му.
 - Message-ът пита как е пораснало `little apple tree`.
-- Показано е голямо indoor orchard/agricultural area, което дава plausible literal referent.
+- Показана е голяма вътрешна овощна/земеделска зона, която дава правдоподобен буквален референт.
 - Apple-tree wording може все още да е coded или dual-purpose, но coded interpretation все още не се приема.
 
 ### S02E08 — multiple survivors в Silo 17
@@ -164,7 +164,7 @@ outside environmental hazard remains independently lethal
 - По-рано в епизода indications за additional survivors остават provisional.
 - До края на епизода директно са показани additional living people в Silo 17.
 - Следователно познатият IT-vault survivor не е единственият living inhabitant.
-- Exact survivor count, generational history, habitat, supplies и relationship към vault остават unresolved.
+- Точният брой оцелели, историята на поколенията, средата им за живот, запасите и връзката им с vault-а остават неустановени.
 
 ### S02E07 — habitation във vault / Legacy
 
@@ -172,7 +172,7 @@ outside environmental hazard remains independently lethal
 - Protected component във vault изрично се нарича `Legacy`.
 - `Legacy` е идентифициран като library / knowledge archive.
 - Това дава concrete preservation mechanism за privileged institutional memory през succession и crisis.
-- Deep historical/cross-Silo knowledge на Bernard вече не трябва да се моделира като vaguely inherited; `Legacy` е direct candidate repository.
+- Дълбокото историческо и cross-Silo знание на Bernard вече не трябва да се моделира като неясно наследено; `Legacy` е директен кандидат за хранилище.
 - Silo 17 да има equivalent `Legacy` остава inference, а не direct observation.
 
 ### S02E07 — 352-годишна възраст на Silo
@@ -198,7 +198,7 @@ outside environmental hazard remains independently lethal
 - По време на general Silo 18 power outage IT остава видимо lit/powered.
 - Residents изрично забелязват и питат защо IT все още има power.
 - Това независимо corroborate-ва functional IT continuity/redundant power поне в Silos 17 и 18.
-- Все още не доказва, че Silo 18 използва същия exact external source, описан от survivor-а от Silo 17.
+- Все още не доказва, че Silo 18 използва същия точен външен източник, описан от оцелелия от Silo 17.
 - Power asymmetry вече е publicly observable и може да захранва anti-IT distrust по време на crisis.
 
 ### S02E06 — institutional digital messaging
