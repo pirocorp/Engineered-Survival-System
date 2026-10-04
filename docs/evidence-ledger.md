@@ -54,31 +54,31 @@
 | E048 | George оставя PEZ реликва и следи/бележки, насочващи Juliette. | Direct observation | H | Умишлена следа. |
 | E049 | George търси врата, показана на рисунка, в края на къс тунел в долната строителна зона. | Character testimony | H | Вероятна връзка с blueprint-а; идентичността не е директно потвърдена. |
 | E050 | George оставя съобщение, че е намерил това, което търси. | Character message | H | Подкрепя hypothesis, че вратата е намерена, но не доказва проход/отваряне. |
-| E051 | Juliette премълчава пред law enforcement, че George е казал, че го е намерил. | Direct action | H | Selective information withholding. |
-| E052 | Juliette се страхува от water; reported door area е свързана с flooded lower zone. | Character fact + environment | H | Обяснява barrier. |
-| E053 | Juliette напуска flooded bottom, без лично да verify-не reported door. | Direct observation | H | H13 остава unverified. |
-| E054 | Level 9 и Level 12 са директно показани. | Visual evidence | VH | Upper-level anchors. |
-| E055 | Judicial entrance се появява в adjacent sequence с Level 14 marker. | Visual sequence / inference | H | Силно подкрепя Judicial на/около 14. |
-| E056 | Level 50 е в Mids. | Direct visual / dialogue | H | Spatial anchor. |
-| E057 | Level 50 съдържа medical/neonatal infrastructure; бащата на Juliette е doctor там. | Direct observation / character fact | H | Mids family background. |
-| E058 | Почти 100 levels separation прави посещенията father↔Mechanical практически невъзможни в рамките на един day off. | Character testimony / consequence | H | Direct social-separation evidence. |
-| E059 | Съществува голям indoor green communal area с restaurant/seating. | Direct visual evidence | H | Не е само industrial bunker. |
-| E060 | Bernard/IT се противопоставя Juliette да стане Sheriff и посочва insulation-tape theft. | Direct stance | H | Не е доказано formal veto. |
-| E061 | Suicide се третира като сериозно crime срещу Silo. | Institutional rule / dialogue | H | Отваря collective-life question. |
-| E062 | Homemade/unauthorized radio е строго забранено от Pact. | Institutional rule / dialogue | H | Independent communication restriction. |
-| E063 | Population е описано приблизително като 10,000. | Character / institutional testimony | H | Superseded по precision от E086, без contradiction. |
-| E064 | `SILOMAIL` показва Mayor-ordered planned 8-hour outage, започващ в 22:00. | Screenshot evidence | VH | Central messaging + mayoral operational authority. |
-| E065 | Energy chain е steam from below → turbine → generator → electricity. | Technical observation / dialogue | H | Operational chain е ясна. |
-| E066 | Mechanical personnel казват, че никой не знае exact origin на primary steam source. | Character testimony | H | Upstream infrastructure е извън knowledge на current operators. |
-| E067 | Generator/turbine е огромна centralized multi-level machine, отваряна за maintenance. | Direct visual evidence | VH | Critical infrastructure scale. |
-| E068 | По време на planned blackout normal lighting до голяма степен изчезва. | Direct visual evidence | H | Infrastructure dependency. |
-| E069 | По време на power-down public display за кратко показва lush exterior imagery. | Direct visual + screenshot | VH | Multiple visual states; reality не е authenticated. |
-| E070 | Mayor подкрепя/назначава Juliette въпреки opposition от Bernard. | Direct governance action | H | Formal succession step. |
-| E071 | Mayor умира след apparent deliberate attack/poisoning. | Direct event | H | Perpetrator/motive са неизвестни при S01E03 boundary. |
-| E072 | Майката на Juliette е била medical professional/worker; Juliette е имала брат. | Family-history evidence | H | Exact maternal medical role е unspecified. |
-| E073 | Juliette обвинява баща си за загубата на майка и брат и свързва rupture с преместването си в Mechanical. | Character testimony / motivation | H | Доказва perspective/motive на Juliette, а не objective guilt на бащата. |
-| E074 | Judicial се противопоставя Juliette да стане Sheriff и предпочита друг/preferred candidate. | Direct governance stance | H | Sheriff succession = institutional power contest. |
-| E075 | Deputy Sheriff Marnes умира при suspicious circumstances. | Direct event | M | S01E05 по-късно третира death като murder investigation. |
+| E051 | Juliette премълчава пред органите на реда, че George е казал, че го е намерил. | Direct action | H | Избирателно задържане на информация. |
+| E052 | Juliette се страхува от вода; зоната на описаната врата е свързана с наводнената долна зона. | Character fact + environment | H | Обяснява бариерата. |
+| E053 | Juliette напуска наводненото дъно, без лично да провери описаната врата. | Direct observation | H | H13 остава непотвърдена. |
+| E054 | Level 9 и Level 12 са директно показани. | Visual evidence | VH | Ориентири в горните нива. |
+| E055 | Входът на Judicial се появява в съседна поредица с marker за Level 14. | Visual sequence / inference | H | Силно подкрепя Judicial на/около 14. |
+| E056 | Level 50 е в Mids. | Direct visual / dialogue | H | Пространствен ориентир. |
+| E057 | Level 50 съдържа медицинска/неонатална инфраструктура; бащата на Juliette е лекар там. | Direct observation / character fact | H | Семеен контекст на Juliette в Mids. |
+| E058 | Разстоянието от почти 100 нива прави посещенията баща↔Mechanical практически невъзможни в рамките на един почивен ден. | Character testimony / consequence | H | Директно evidence за социално разделение. |
+| E059 | Съществува голяма вътрешна зелена обща зона с ресторант/места за сядане. | Direct visual evidence | H | Не е само индустриален бункер. |
+| E060 | Bernard/IT се противопоставя Juliette да стане Sheriff и посочва кражбата на изолационна лента. | Direct stance | H | Не е доказано формално вето. |
+| E061 | Самоубийството се третира като сериозно престъпление срещу Silo. | Institutional rule / dialogue | H | Отваря въпрос за колективната стойност на живота. |
+| E062 | Самоделното/неразрешено радио е строго забранено от Pact. | Institutional rule / dialogue | H | Ограничение върху независимата комуникация. |
+| E063 | Населението е описано приблизително като 10 000. | Character / institutional testimony | H | Заменено по точност от E086, без противоречие. |
+| E064 | `SILOMAIL` показва планирано 8-часово прекъсване, наредено от Mayor и започващо в 22:00. | Screenshot evidence | VH | Централизирани съобщения + оперативна власт на Mayor. |
+| E065 | Енергийната верига е пара отдолу → турбина → генератор → електричество. | Technical observation / dialogue | H | Оперативната верига е ясна. |
+| E066 | Персоналът на Mechanical казва, че никой не знае точния произход на основния източник на пара. | Character testimony | H | Инфраструктурата нагоре по веригата е извън знанието на текущите оператори. |
+| E067 | Генераторът/турбината е огромна централизирана многоетажна машина, отваряна за поддръжка. | Direct visual evidence | VH | Мащаб на критична инфраструктура. |
+| E068 | По време на планирания blackout нормалното осветление до голяма степен изчезва. | Direct visual evidence | H | Зависимост от инфраструктурата. |
+| E069 | По време на изключването на захранването public display за кратко показва зелено изображение на външната среда. | Direct visual + screenshot | VH | Множество визуални състояния; реалността не е удостоверена. |
+| E070 | Mayor подкрепя/назначава Juliette въпреки противопоставянето на Bernard. | Direct governance action | H | Формална стъпка в наследяването на длъжността. |
+| E071 | Mayor умира след очевидна умишлена атака/отравяне. | Direct event | H | Извършителят/мотивът са неизвестни при S01E03 boundary. |
+| E072 | Майката на Juliette е била медицински специалист/служител; Juliette е имала брат. | Family-history evidence | H | Точната медицинска роля на майката не е уточнена. |
+| E073 | Juliette обвинява баща си за загубата на майка и брат и свързва разрива с преместването си в Mechanical. | Character testimony / motivation | H | Доказва гледната точка/мотива на Juliette, а не обективна вина на бащата. |
+| E074 | Judicial се противопоставя Juliette да стане Sheriff и предпочита друг кандидат. | Direct governance stance | H | Наследяването на Sheriff = институционална борба за власт. |
+| E075 | Deputy Sheriff Marnes умира при подозрителни обстоятелства. | Direct event | M | S01E05 по-късно третира смъртта като разследване на убийство. |
 | E076 | Juliette намира official file/dossier на George Wilkins. | Direct investigation event | H | Позволява comparison official record vs independent evidence. |
 | E077 | Public exterior display е показан в normal night state с dark exterior/tree/star-like points. | Direct visual evidence | H | Dynamic day/night state; не е live-feed proof. |
 | E078 | S01E04 spatial sequence укрепва model Level 1/Up-top Sheriff + airlock complex. | Visual/spatial inference | M | Strong model, не floor-plan confirmation. |
