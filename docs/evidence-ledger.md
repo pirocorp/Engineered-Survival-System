@@ -504,7 +504,7 @@
 | E486 | Същият account твърди, че `bunker`-ът е съдържал fire-resistant suit + helmet. | Institutional/character-supplied narrative | H | Used to explain survival through flame cycle. |
 | E487 | `Bunker` account contradict-ва direct S02 evidence за Juliette's stay in Silo 17. | Direct contradiction with established evidence | VH | False/misleading replacement history identified. |
 | E488 | False `bunker` narrative fills the same memory interval that Juliette cannot recall. | Cross-evidence structural inference | H | Supports controlled reconstruction model. |
-| E489 | Juliette е subject на deliberate memory-erasure/conditioning process. | Episode revelation / cross-scene conclusion | H-VH | Not merely accidental amnesia. |
+| E489 | Juliette е subject на deliberate memory-erasure/conditioning process. | Episode revelation / cross-scene conclusion | H-VH | Historical S03E01 wording retained; S03E02 E533–E534 refines mechanism toward retrieval suppression/blocking + narrative conditioning rather than proven destruction of memories. |
 | E490 | На Juliette се дава pharmacological memory-suppression medication. | Episode revelation | H-VH | Later directly confirmed by computer/system dialogue. |
 | E491 | Surveillance around Juliette is used to monitor whether suppressed memories return. | Operational inference from dialogue/context | H | Explains continued observation despite formal Mayor role. |
 | E492 | Computer/system-ът пита как е Mayor Juliette. | Direct system dialogue | H-VH | Demonstrates current-person context awareness. |
@@ -521,7 +521,7 @@
 | E503 | Juliette получава written note от unidentified sender. | Direct episode event | H | Sender unknown. |
 | E504 | Note content initially is withheld/only partially visible to viewer. | Narrative/evidence limitation | VH | Prevents premature sender/message inference. |
 | E505 | Бележката е hidden in Juliette's food. | Direct event | VH | Covert delivery channel. |
-| E506 | Food/tray channel is likely used to bypass ordinary surveillance. | Operational inference | H | Exact sender/access chain unknown. |
+| E506 | Food/tray channel is likely used to bypass ordinary surveillance. | Operational inference | H | Historical S03E01 inference; S03E02 E516–E519 shows supervisory computer/system nevertheless knows about covert-note behavior, so bypass applies at most to ordinary/local channels, not proven system blindness. |
 | E507 | Juliette returns tray with bowl deliberately upside down. | Direct behavior | H-VH | Meaning later clarified by note text. |
 | E508 | Upside-down bowl is covert acknowledgment signal instructed by the note. | Cross-evidence conclusion | H-VH | Upgrades earlier live candidate state. |
 | E509 | Note clearly begins with `Want to know the truth.` | Direct visual text | VH | Exact quote retained. |
@@ -531,6 +531,61 @@
 | E513 | Note contains explicit instruction `BURN THIS`. | Direct visual text | VH | Exact text visible. |
 | E514 | Juliette burns the note after reading it. | Direct visual behavior | VH | Implements destruction instruction. |
 | E515 | Reconstructed instruction chain is: `Want to know the truth` → bowl upside down → marketplace on Level 2 → `BURN THIS`. | Cross-frame reconstruction | H-VH | Minor punctuation/line-break uncertainty only; earlier `shaft 2` reading is superseded. |
+
+| E516 | Computer/system-ът знае за covert note-а, получен от Juliette през food/tray channel. | Direct system dialogue + context | H-VH | Physical note не е blind spot за supervisory layer. |
+| E517 | System-ът знае, че Juliette е скрила/отрекла note-а пред Mrs Sims. | Direct system dialogue + context | H-VH | Demonstrates context beyond simple note detection. |
+| E518 | Computer/system-ът оценява решението на Juliette да излъже като concerning. | Direct dialogue / visual evidence | VH | Explicit semantic/risk evaluation. |
+| E519 | System-ът има semantic situational awareness: reconstruct-ва behavior/deception context, а не само показва raw feed. | Strong inference | H | Nature/implementation remains unknown; not sufficient to label confirmed AI. |
+| E520 | Daniel Keen посещава surviving sister-а си в hospital след Iran operation. | Direct narrative event | H | Continues pre-Silo timeline. |
+| E521 | Sister-а на Keen не го разпознава/не си спомня Daniel. | Direct behavior/dialogue | H-VH | Establishes selective autobiographical memory problem. |
+| E522 | Treating doctor-ът казва, че неговото treatment е responsible за това тя да не помни Daniel. | Direct physician statement | H-VH | Responsibility belongs to treatment/doctor, not Daniel. |
+| E523 | Pre-Silo medicine demonstrably includes deliberate/selective memory manipulation capability. | Cross-dialogue conclusion | H-VH | Strengthened by E524–E533. |
+| E524 | Doctor-ът казва, че чрез medication/treatment могат да изберат кои memories да restore-нат и кои да omit-нат. | Direct physician statement | VH | Direct selective-memory capability. |
+| E525 | Doctor-ът описва recovery process, който включва repeatedly telling patient-а собствената ѝ story. | Direct physician statement | VH | Establishes narrative reinforcement component. |
+| E526 | Pre-Silo memory-treatment combines pharmacological selection/suppression with repeated autobiographical narrative. | Strong cross-evidence inference | H-VH | Exact drug and neural mechanism remain unknown. |
+| E527 | Juliette's false `bunker` story functionally parallels pre-Silo narrative-conditioning technique. | Cross-era structural inference | H | Same protocol/drug lineage not proven. |
+| E528 | Daniel Keen пита doctor-а дали може да излъже sister-а си и дали тя ще му повярва. | Direct dialogue | VH | Sets up explicit false-memory question. |
+| E529 | Treatment state permits possibility patient-ът да accept-не externally supplied false autobiographical narrative. | Inference from E528 + treatment context | H | Directly strengthened by E530. |
+| E530 | Doctor-ът direct-confirm-ва, че на sister-а може да бъде внушена/подадена лъжа като replacement narrative. | Direct physician statement | VH | Strong evidence for false autobiographical conditioning. |
+| E531 | Building such a false replacement narrative requires substantial time and effort. | Direct physician statement | VH | Conditioning is not instantaneous. |
+| E532 | Doctor-ът казва, че real memories се връщат бързо. | Direct physician statement | VH | Important reversibility/retrieval clue. |
+| E533 | Doctor-ът казва, че real memories все още са налични, но patient-ът не може да ги вижда/достъпва. | Direct physician statement | VH | Strongly supports retrieval/access suppression rather than proven erasure. |
+| E534 | Juliette's spontaneous memory recovery is strongly consistent with original memories remaining stored but temporarily inaccessible. | Cross-era inference | H | Exact same drug/protocol still unproven. |
+| E535 | Juliette получава second covert note, насочващ я към first Silo Council meeting в cafeteria. | Direct written/subtitle evidence | VH | Persistent covert-contact channel. |
+| E536 | Covert physical-note network can repeatedly deliver instructions despite local surveillance/control environment. | Cross-episode inference | H | S03E02 also shows system-level awareness; channel is not proven invisible to supervisory computer. |
+| E537 | Juliette получава third handwritten covert note. | Direct visual evidence | VH | Third distinct message in chain. |
+| E538 | Third note съдържа partially readable logistical/instructional fragments, но exact wording/action остава unresolved. | Partial visual evidence | M | No invented verbatim transcription. |
+| E539 | Additional third-note frame suggests possible medication/food-related wording, but exact text remains insufficiently legible for a reliable quote. | Partial visual evidence | M | Adjacent-shot subtitles are explicitly excluded from note transcription. |
+| E540 | Computer/system-ът показва red risk line за Juliette / risk associated with return of suppressed protected memories. | Direct system explanation + visual model | VH | Explicit risk metric/model. |
+| E541 | Blue line represents Juliette's stabilizing influence on Silo 18 as Mayor. | Direct system explanation | VH | Explicit social-stability value. |
+| E542 | System-ът заявява, че ако risk и stabilizing-value lines се пресекат, Juliette вече няма да бъде useful. | Direct system dialogue | VH | Explicit utility threshold. |
+| E543 | System-ът разглежда removal на Juliette като possible measure, но sudden removal може да бъде catastrophically destabilizing. | Direct system dialogue | VH | Shows second-order population consequences are modeled. |
+| E544 | Computer/system-ът иска/се надява `vitamins` да бъдат пуснати във water supply преди Juliette removal да стане necessary. | Direct system dialogue | VH | Population-scale pharmacological contingency. |
+| E545 | Targeted Juliette memory treatment и population-scale waterborne memory control are operationally linked by the same `vitamins` framing. | Cross-episode structural conclusion | H-VH | Exact chemical identity not proven. |
+| E546 | Candidate: waterborne `vitamins` are intended to reduce destabilization around future Juliette removal, likely through broad memory/attachment suppression related to recent crisis. | Strong inference / candidate | H | Exact target memories are not stated; do not reduce this to confirmed “forget Juliette”. |
+
+## Визуални източници — S03E02
+
+Binary assets са качени отделно в `main` преди analysis PR-а и са валидирани чрез Git blob SHA comparison:
+
+- [System — covert note/deception concern](../assets/S03E02/screenshots/computer-note-deception-concern.jpeg)
+- [Pre-Silo selective memory restore/omit](../assets/S03E02/screenshots/presilo-selective-memory-restore-omit.jpeg)
+- [Pre-Silo repeated autobiographical narrative](../assets/S03E02/screenshots/presilo-repeat-personal-history.jpeg)
+- [Pre-Silo false narrative can be suggested](../assets/S03E02/screenshots/presilo-can-suggest-a-lie.jpeg)
+- [False replacement narrative takes time](../assets/S03E02/screenshots/presilo-false-memory-takes-time.jpeg)
+- [Real memories remain / return](../assets/S03E02/screenshots/presilo-real-memories-return.jpeg)
+- [Note #2 — Silo Council / cafeteria](../assets/S03E02/screenshots/note-2-silo-council-cafeteria.jpeg)
+- [Note #3 — partial frame A](../assets/S03E02/screenshots/note-3-partial-a.jpeg)
+- [Note #3 — partial frame B](../assets/S03E02/screenshots/note-3-partial-b.jpeg)
+- [System — Juliette risk red line](../assets/S03E02/screenshots/ai-risk-red-line.jpeg)
+- [System — stabilizing blue line](../assets/S03E02/screenshots/ai-stabilizing-blue-line.jpeg)
+- [System — threshold crossing / no longer useful](../assets/S03E02/screenshots/ai-lines-cross-no-longer-useful.jpeg)
+- [System — removal / catastrophic destabilization](../assets/S03E02/screenshots/ai-removal-catastrophic-destabilization.jpeg)
+- [System — vitamins before removal](../assets/S03E02/screenshots/ai-vitamins-before-removal.jpeg)
+- [System — vitamins / water supply](../assets/S03E02/screenshots/ai-vitamins-water-supply.jpeg)
+- [S03E02 visual evidence manifest](../assets/S03E02/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset, не primary evidence.
 
 ## Визуални източници — S03E01
 
