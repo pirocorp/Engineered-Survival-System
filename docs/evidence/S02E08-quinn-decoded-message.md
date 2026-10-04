@@ -1,53 +1,53 @@
-# S02E08 — Quinn decoded message: “the game is rigged”
+# S02E08 — декодираното съобщение на Quinn: “the game is rigged”
 
 **Knowledge boundary:** `S02E08`
 
-S02E08 begins revealing the content of Salvador Quinn's encoded final payload.
+S02E08 започва да разкрива съдържанието на encoded final payload на Salvador Quinn.
 
-## Direct decoded text
+## Директно декодиран текст
 
 ```text
 If you've gotten this far,
 you already know the game is rigged.
 ```
 
-This is direct decoded-document evidence.
+Това е direct decoded-document evidence.
 
-## Interpretation
+## Интерпретация
 
-The wording presumes a reader who has already:
-- discovered hidden material;
-- penetrated beyond the official historical narrative;
-- recognized structural manipulation before finishing the protected message.
+Формулировката предполага reader, който вече:
+- е открил скрит материал;
+- е проникнал отвъд официалния исторически разказ;
+- е разпознал structural manipulation преди да стигне до края на protected message.
 
-The phrase therefore behaves like a **second-layer message**, not the first clue.
+Следователно фразата се държи като **second-layer message**, а не като първа следа.
 
-## H50 update
+## Update на H50
 
-Quinn's encoded final section is no longer merely “likely sensitive information”.
+Encoded final section на Quinn вече не е просто „вероятно sensitive information“.
 
-It directly contains a protected message addressed to a future reader/investigator.
+Той директно съдържа protected message, адресиран към бъдещ reader/investigator.
 
 ## H69
 
-**Quinn intentionally structured the encoded ending as a protected second-layer message for a reader who had already discovered that the official system/history was manipulated.**
+**Quinn умишлено структурира encoded ending като protected second-layer message за reader, който вече е разбрал, че official system/history е манипулирана.**
 
 **Confidence:** H  
 **Status:** Active / Strengthened.
 
-## Boundary
+## Граница
 
-`the game` is not yet defined.
+`the game` все още не е дефинирано.
 
-Do not prematurely equate it with:
-- the Pact;
+Не го приравняваме преждевременно с:
+- Pact;
 - elections/governance;
 - rebellion management;
 - cleaning;
-- all 50 Silos;
-- the Founders' original design.
+- всички 50 Silos;
+- original design на Founders.
 
-Those remain competing interpretations until more of the decoded text is revealed.
+Това остават competing interpretations, докато не бъде разкрито повече от decoded text.
 
 ## Visual
 
