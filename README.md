@@ -264,8 +264,8 @@
 - [`docs/evidence/S02E01-cross-silo-surveillance-it.md`](docs/evidence/S02E01-cross-silo-surveillance-it.md) — повторено mirror-camera surveillance и IT standardization.
 - [`docs/evidence/S02E01-power-flooding-survivor.md`](docs/evidence/S02E01-power-flooding-survivor.md) — residual power, flooding и surviving occupant.
 - [`docs/evidence/S02E02-the-order-failed-cleaning.md`](docs/evidence/S02E02-the-order-failed-cleaning.md) — `THE ORDER`, failed-cleaning contingency и war-risk doctrine.
-- [`docs/evidence/S02E02-live-cleaner-feed.md`](docs/evidence/S02E02-live-cleaner-feed.md) — live exterior feed, свързан с Juliette, и transmission boundary.
-- [`docs/evidence/S02E02-cleaning-tape-mechanism.md`](docs/evidence/S02E02-cleaning-tape-mechanism.md) — разграничение good/bad tape и finite-protection model.
+- [`docs/evidence/S02E02-live-cleaner-feed.md`](docs/evidence/S02E02-live-cleaner-feed.md) — live feed от външната среда, свързан с Juliette, и границата на предаването.
+- [`docs/evidence/S02E02-cleaning-tape-mechanism.md`](docs/evidence/S02E02-cleaning-tape-mechanism.md) — разграничение между добра/лоша лента и модел на ограничена защита.
 - [`docs/evidence/S02E02-it-vault-governance.md`](docs/evidence/S02E02-it-vault-governance.md) — повторена secured IT architecture и privileged read-in layer.
 - [`docs/evidence/S02E03-silo17-failed-cleaning-rebellion.md`](docs/evidence/S02E03-silo17-failed-cleaning-rebellion.md) — failed cleaning в Silo 17, visible-death deterrence и rebellion cascade.
 - [`docs/evidence/S02E03-outside-hazard-cleaner-death.md`](docs/evidence/S02E03-outside-hazard-cleaner-death.md) — mobile outside hazard спрямо ordinary cleaner death timing.
@@ -276,7 +276,7 @@
 - [`docs/evidence/S02E04-mechanical-scapegoating.md`](docs/evidence/S02E04-mechanical-scapegoating.md) — `THE ORDER`, повторено обвиняване на Mechanical и crisis scapegoating.
 - [`docs/evidence/S02E04-mines-penal-labor.md`](docs/evidence/S02E04-mines-penal-labor.md) — metal extraction и penal labor system.
 - [`docs/evidence/S02E04-salvador-quinn-meadows.md`](docs/evidence/S02E04-salvador-quinn-meadows.md) — Salvador Quinn, encoded letter и четиридневното изчезване на Meadows.
-- [`docs/evidence/S02E04-vr-cleaner-technology.md`](docs/evidence/S02E04-vr-cleaner-technology.md) — immersive Monteverde headset и връзката с cleaner-helmet technology.
+- [`docs/evidence/S02E04-vr-cleaner-technology.md`](docs/evidence/S02E04-vr-cleaner-technology.md) — immersive headset с Monteverde и връзката му с технологията на cleaner helmet.
 - [`docs/evidence/S02E04-meadows-framing-sims.md`](docs/evidence/S02E04-meadows-framing-sims.md) — убийството на Meadows, framing на Mechanical и натискът на Sims.
 - [`docs/evidence/S02E04-silo17-child-vault.md`](docs/evidence/S02E04-silo17-child-vault.md) — survivor-ът от Silo 17 като дете и vault continuity-refuge model.
 - [`docs/evidence/S02E05-sims-judge-shadow.md`](docs/evidence/S02E05-sims-judge-shadow.md) — reassignment на Sims, Judge office и отделен shadow succession path.
@@ -293,8 +293,8 @@
 - [`docs/evidence/S02E08-quinn-historical-reset.md`](docs/evidence/S02E08-quinn-historical-reset.md) — historical reset на Quinn, recurring rebellions и reversal на official history.
 - [`docs/evidence/S02E08-memory-suppression-water.md`](docs/evidence/S02E08-memory-suppression-water.md) — chronic waterborne memory suppression и cross-episode corroboration.
 - [`docs/evidence/S02E08-meadows-quinn-pact.md`](docs/evidence/S02E08-meadows-quinn-pact.md) — разследването на Meadows за Quinn family и старо копие на `Pact Between the Founders`.
-- [`docs/evidence/S02E08-quinn-decoded-message.md`](docs/evidence/S02E08-quinn-decoded-message.md) — decoded Quinn payload и формулировката `game is rigged`.
-- [`docs/evidence/S02E08-sims-ahundsen-message.md`](docs/evidence/S02E08-sims-ahundsen-message.md) — съобщението на R. Ahundsen до Judge Sims и orchard context.
+- [`docs/evidence/S02E08-quinn-decoded-message.md`](docs/evidence/S02E08-quinn-decoded-message.md) — декодираното съобщение на Quinn и формулировката `game is rigged` („играта е нагласена“).
+- [`docs/evidence/S02E08-sims-ahundsen-message.md`](docs/evidence/S02E08-sims-ahundsen-message.md) — съобщението на R. Ahundsen до Judge Sims и контекстът с овощната градина.
 - [`docs/evidence/S02E08-silo17-multiple-survivors.md`](docs/evidence/S02E08-silo17-multiple-survivors.md)
 - [`docs/evidence/S02E09-quinn-safeguard-tunnel.md`](docs/evidence/S02E09-quinn-safeguard-tunnel.md) — Quinn: 50/51 Silos, safeguard и bottom-tunnel verification path.
 - [`docs/evidence/S02E09-hidden-lower-contact.md`](docs/evidence/S02E09-hidden-lower-contact.md) — Active lower contact и previous visitors Quinn/Meadows/George.
@@ -361,17 +361,17 @@
 
 S01E05 дава direct-confirmed example: Sims kills Trumbull → official narrative says suicide → Judge closes case.
 
-Това не означава, че всички official records са false. Означава, че official records се класифицират като institutional claims, когато няма independent corroboration.
+Това не означава, че всички официални записи са неверни. Означава, че официалните записи се класифицират като institutional claims, когато няма независимо потвърждение.
 
 ### Допълнително правило след S01E06
 
-**Public knowledge loss ≠ total institutional knowledge loss.** Restricted relic DB показва, че selected pre-Silo records са preserved в privileged systems. Hidden surveillance също вече е direct-confirmed infrastructure, а не само dossier inference.
+**Загуба на публично знание ≠ пълна загуба на институционално знание.** Ограничената база данни за реликви показва, че избрани pre-Silo записи са запазени в привилегировани системи. Скритото наблюдение също вече е директно потвърдена инфраструктура, а не само извод от досието.
 
 ### Допълнително правило след S01E07
 
 **Direct confession / direct observation > историческо обяснение.**
 
-S01E07 съдържа както direct-confirmed механизми, така и historical testimony. Например:
+S01E07 съдържа както директно потвърдени механизми, така и исторически свидетелства. Например:
 - retained-implant deception е independently corroborated чрез Allison physical evidence + Juliette’s father confession;
 - water-based memory suppression и anti-Flamekeeper lineage targeting остават historical claims до independent corroboration;
 - Flamekeepers не се приравняват автоматично с Rebels, докато episode evidence не establish-не връзката.
@@ -395,25 +395,25 @@ Jane Carmody cleaning footage вече беше direct visual evidence в S01E01
 
 ### Допълнително правило след S02E01
 
-**Cross-Silo repetition укрепва hypotheses за standardization, а не автоматични изводи за central control.** Когато същата architecture се появява във втори Silo — mirror cameras, IT, airlock, agriculture — можем по-силно да infer-нем общ design/doctrine, но не заключаваме автоматично, че една live central authority контролира всеки Silo.
+**Повторението между Silos укрепва hypotheses за стандартизация, а не автоматични изводи за централен контрол.** Когато същата архитектура се появява във втори Silo — камери в огледалата, IT, airlock, земеделие — можем по-силно да изведем общ дизайн/doctrine, но не заключаваме автоматично, че една активна централна власт контролира всеки Silo.
 
 **Superseded inferences остават в history.** E188 запазва първоначалната погрешна Engineering/generator-target interpretation и я маркира като superseded, след като по-късен scene evidence идентифицира IT като действителната attacked/defended location.
 
 ### Допълнително правило след S02E02
 
-**Privileged doctrine, insider interpretation и direct mechanism остават отделни evidence classes.** Заглавието в `THE ORDER` е direct institutional evidence; обясненията на Bernard/Meadows за tape са insider testimony; exact engineering mechanism остава unresolved, докато не бъде директно установен.
+**Привилегированата doctrine, вътрешната интерпретация и директният механизъм остават отделни evidence classes.** Заглавието в `THE ORDER` е директно институционално evidence; обясненията на Bernard/Meadows за лентата са вътрешни свидетелства; точният инженерен механизъм остава неустановен, докато не бъде директно установен.
 
 **Repeated cross-Silo secured architecture подкрепя standardization, а не identical contents.** Подобните IT vault-like compartments в два Silos strengthen-ват H38, без да приемаме, че съдържат едни и същи systems, хора или doctrine.
 
 ### Допълнително правило след S02E03
 
-**Historical corroboration укрепва механизъм, без да превръща testimony в objective telemetry.** Silo 17 силно съвпада с `THE ORDER`, но действията на Ron, dust/poison timing и заповедите на Russell остават survivor testimony, освен ако не бъдат independently observed.
+**Историческото потвърждение укрепва механизъм, без да превръща свидетелството в обективна телеметрия.** Silo 17 силно съвпада с `THE ORDER`, но действията на Ron, времето на праха/отровата и заповедите на Russell остават свидетелство на оцелял, освен ако не бъдат независимо наблюдавани.
 
 **Chronology contradictions се запазват, а не се нормализират насила.** `SILO YEAR 96/97`, `116 A.R.` и приблизителното твърдение на Bernard за Jane Carmody „~200 years“ се пазят като отделни anchors, докато consistent mapping не бъде директно подкрепен.
 
 ### Допълнително правило след S02E04
 
-**Crisis narrative може сам по себе си да е engineered mechanism.** Когато doctrine предписва виновник и leadership инсценира събития, които да подкрепят тази narrative, публичното обвинение е evidence за governance behavior, а не evidence, че обвинената група е причинила кризата.
+**Кризисният разказ може сам по себе си да е проектиран механизъм.** Когато doctrine предписва виновник и ръководството инсценира събития, които да подкрепят този разказ, публичното обвинение е evidence за управленско поведение, а не evidence, че обвинената група е причинила кризата.
 
 **Internal elite conflict се следи отделно от formal hierarchy.** Classified access на Bernard и political/operational leverage на Sims могат да съществуват едновременно; нито един не се приема като total control над другия без domain-specific evidence.
 
@@ -482,7 +482,7 @@ Ownership, assignment, recycling, redistribution, scarcity и closed-loop use н
 - **Direct observation** — сериалът директно показва събитието/обекта.
 - **Repeated observation** — поведението/моделът се появява независимо повече от веднъж.
 - **Character testimony** — доказва какво твърди/вярва герой, не непременно че твърдението е вярно.
-- **Institutional claim** — официално правило, historical account или case conclusion; третира се като claim до независимо потвърждение.
+- **Institutional claim** — официално правило, исторически разказ или заключение по дело; третира се като claim до независимо потвърждение.
 - **Visual/screenshot evidence** — детайл в кадър, файл, blueprint, UI или archive listing.
 - **Inference** — логически извод от evidence.
 - **Speculation** — възможно обяснение без достатъчна evidence support.
@@ -510,7 +510,7 @@ Confidence не е математическа вероятност и не за�
 
 ### Допълнително правило след S02E05
 
-**Formal office и hidden succession са отделни evidence layers.** Това, че Bernard назначава Sims за Judge, но му отказва ролята `shadow`, показва, че public institutional rank не означава автоматично access до най-дълбокия IT succession/read-in path.
+**Формалната длъжност и скритото наследяване са отделни evidence layers.** Това, че Bernard назначава Sims за Judge, но му отказва ролята `shadow`, показва, че публичният институционален ранг не означава автоматично достъп до най-дълбокия IT succession/read-in path.
 
 **Infrastructure-line drawings не се интерпретират сами.** Линия, стигаща до IT или Judicial, се записва като connection/path на schematic; power, data, communications, control и utility interpretation остават competing, докато diagram или dialogue не идентифицира service-а.
 
@@ -520,21 +520,21 @@ Confidence не е математическа вероятност и не за�
 
 **Съществуване на technology ≠ universal access до нея.** Direct messaging на institutional terminals доказва, че Silo има digital communication capability, но не доказва, че обикновените residents имат равен endpoint/account access.
 
-**Communication channels се моделират отделно според access и control.** Courier, digital messaging и radio могат да съществуват паралелно, защото обслужват различни populations/functions. Способността на IT да cut-ва radio е evidence за control върху този channel, а не автоматично доказателство, че IT чете всяко digital message или контролира всяка physical communication.
+**Комуникационните канали се моделират отделно според достъпа и контрола.** Куриера, digital messaging и радиото могат да съществуват паралелно, защото обслужват различни групи/функции. Способността на IT да прекъсва радиото е evidence за контрол върху този канал, а не автоматично доказателство, че IT чете всяко digital message или контролира всяка физическа комуникация.
 
-**Near-real-time field reporting ≠ direct source-terminal proof.** Control-room report установява digital HUMINT/field-report pipeline, но originating device, intermediary и protocol остават unresolved.
+**Почти реалновремевото полево докладване ≠ директно доказателство за изходния терминал.** Докладът в control room установява digital HUMINT/полеви reporting pipeline, но изходното устройство, посредникът и протоколът остават неустановени.
 
 
 
 ### Допълнително правило след S02E07
 
-**Protected knowledge preservation ≠ public historical continuity.** Library-то `Legacy` показва, че privileged historical/technical knowledge може да бъде умишлено запазено, докато обикновените residents губят или нямат достъп до широк historical context.
+**Защитено съхраняване на знание ≠ публична историческа приемственост.** Библиотеката `Legacy` показва, че привилегировано историческо/техническо знание може да бъде умишлено запазено, докато обикновените жители губят или нямат достъп до широк исторически контекст.
 
-**Functional redundancy ≠ identical source architecture.** Това, че IT в Silo 18 остава powered при blackout, доказва continuity/redundant power, но само по себе си не доказва същия external source, описан за Silo 17.
+**Функционална резервираност ≠ идентична архитектура на източника.** Това, че IT в Silo 18 остава захранен при blackout, доказва резервно/continuity power, но само по себе си не доказва същия външен източник, описан за Silo 17.
 
-**Circulating message ≠ verified authorship or truth.** Anti-IT leaflet-ът е direct evidence, че counter-narrative съществува. Неговите claims, author, distributor и official Mechanical endorsement се следят отделно.
+**Разпространявано съобщение ≠ проверено авторство или истина.** Anti-IT листовката е директно evidence, че съществува контраразказ. Нейните твърдения, автор, разпространител и официална подкрепа от Mechanical се следят отделно.
 
-**Derived chronology запазва approximation.** `352 years since construction - ~140 years since Rebellion ≈ 212 pre-Rebellion years` е strong derived anchor, но approximate testimony inputs не се превръщат мълчаливо в exact calendar dates.
+**Изведената хронология запазва приблизителността.** `352 years since construction - ~140 years since Rebellion ≈ 212 pre-Rebellion years` е силен изведен ориентир, но приблизителните входни свидетелства не се превръщат мълчаливо в точни календарни дати.
 
 
 
