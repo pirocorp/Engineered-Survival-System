@@ -56,7 +56,7 @@ S01E05 оставя три различни роли, които не трябв
 
 Не знаем дали Sims:
 
-- personally ordered all Trumbull actions;
+- лично е разпоредил всички действия на Trumbull;
 - управлява Trumbull, но получава orders от по-висока authority;
 - реагира след unauthorized/failed operation.
 
