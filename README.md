@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S03E01 Juliette е Mayor приблизително три месеца след завръщането си, но остава под surveillance и deliberate memory suppression. Computer/system-ът знае treatment-а ѝ, заявява, че ситуацията е `beyond The Order`, тревожи се от връщането на safeguard-related memories и иска doubled dose. Паралелно pre-Silo Washington линията идентифицира Daniel Keen и показва anomalous common-mode disruption на aircraft + missiles по време на Iran operation.**
+> **След S03E02 memory-control model-ът е refactored от „erasure“ към retrieval suppression/blocking + narrative conditioning: pre-Silo treatment може selective да restore/omit memories, да reinforce-ва autobiographical story и да внушава false replacement narrative, докато real memories остават налични и могат да се върнат. Computer/system-ът вече demonstrably моделира Juliette чрез risk-vs-stabilizing-value threshold и планира population-scale `vitamins` intervention през water supply преди евентуалното ѝ removal.**
 
 ## Език на проекта
 
@@ -29,9 +29,9 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S03E01**
+**Текуща граница на знанието:** **S03E02**
 
-**Статус на гледане:** **Season 3 — S03E01 завършен**
+**Статус на гледане:** **Season 3 — S03E02 завършен**
 
 Не се използва никаква информация след S03E01, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
@@ -657,6 +657,7 @@ episode/S02E08-analysis
 analysis/S02E09-hidden-lower-system
 analysis/S02E10-safeguard-presilo-washington
 analysis/S03E01-memory-control-supervisory-system
+analysis/S03E02-memory-retrieval-population-control
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -666,4 +667,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S03E02`
+**Следваща knowledge boundary:** `S03E03`
