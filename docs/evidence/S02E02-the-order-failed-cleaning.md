@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S02E02`
 
-## Direct evidence
+## Директни доказателства
 
 Bernard използва physical document, озаглавен `THE ORDER`.
 
