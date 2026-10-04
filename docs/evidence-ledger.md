@@ -564,6 +564,76 @@
 | E545 | Targeted Juliette memory treatment и population-scale waterborne memory control are operationally linked by the same `vitamins` framing. | Cross-episode structural conclusion | H-VH | Exact chemical identity not proven. |
 | E546 | Candidate: waterborne `vitamins` are intended to reduce destabilization around future Juliette removal, likely through broad memory/attachment suppression related to recent crisis. | Strong inference / candidate | H | Exact target memories are not stated; do not reduce this to confirmed “forget Juliette”. |
 
+| E547 | На всички aircraft в Iran mission-а communication systems са предварително заменени с много стари systems. | Direct dialogue / mission-history information | H-VH | Mission-wide deliberate configuration; exact reason unresolved. |
+| E548 | Replacement-ът е mission-level configuration, а не modification само на aircraft-а на Keen's sister. | Structural inference | H | Supported by all-aircraft wording/context. |
+| E549 | Candidate: old communications may have been selected because planners expected vulnerability/dependency in contemporary communications/electronics. | Hypothesis | M-H | Do not infer analog/EMP immunity without evidence. |
+| E550 | Old communication systems make mission communications comparatively easy to record/capture despite encryption. | Direct dialogue / mission-history information | H-VH | Exact encryption standard and recorder remain unknown. |
+| E551 | Mission communications were therefore practically archivable/capturable by a third party or monitoring infrastructure. | Strong inference | H | Existence later confirmed by E582–E583. |
+| E552 | Candidate state: a surviving recording of Iran mission communications may exist. | Historical hypothesis state | M | RESOLVED/CONFIRMED by E582–E583; retained as prior state. |
+| E553 | Medical staff actively monitors whether Juliette swallows her prescribed memory-suppression pills. | Direct observed behavior | VH | Compliance monitoring is part of treatment. |
+| E554 | Nurse catches Juliette spitting the pills out instead of swallowing them. | Direct observed behavior | VH | Direct non-compliance. |
+| E555 | Memory-control protocol includes ingestion/compliance monitoring, not just prescription/delivery. | Strong inference | H-VH | Human execution layer around treatment. |
+| E556 | Juliette's returning memories can plausibly be aided by interrupted/reduced dosing. | Strong inference | H | Not established as sole cause of recovery. |
+| E557 | Computer/system-ът states that putting `Vitamin D+` into the water increases the chance of survival. | Direct system dialogue | VH | Population intervention is survival-framed. |
+| E558 | System-ът frames current Silo state as dangerously close to safeguard activation. | Direct dialogue/context | H-VH | Exact threshold remains unknown. |
+| E559 | Water-supply intervention is presented as a survival/stability measure, not only as medical treatment. | Strong inference | H-VH | Function clarified further by E562–E563. |
+| E560 | System-ът rationalizes coercive population dosing through collective-survival framing. | Strong inference | H | Descriptive control-model inference, not motive attribution beyond shown framing. |
+| E561 | Early candidate: `Vitamin D+` might have separate survival + memory/behavior roles. | Historical hypothesis state | M-H | SUPERSEDED by E562: contextual identification is memory-suppression/forgetting chemistry. |
+| E562 | `Vitamin D+` is identified in episode context as memory-suppression / forgetting chemistry. | Direct contextual identification | VH | Terminology clarified. |
+| E563 | System-ът therefore presents population-wide memory suppression as a means to increase Silo survival probability. | Direct dialogue + established chemical function | VH | Exact target memories still unstated. |
+| E564 | Character hypothesis: Lukas may be in the mines and trying to reach/contact another Silo. | Character hypothesis | M | Location later confirmed; purpose remains unresolved. |
+| E565 | Computer/system-ът states that any contact with another Silo is a violation leading to immediate safeguard. | Direct system statement | VH | Explicit cross-Silo-contact trigger. |
+| E566 | Cross-Silo contact is an explicit safeguard trigger, separate from protected-lower-knowledge disclosure. | Cross-episode structural conclusion | H-VH | Expands known trigger set. |
+| E567 | Multi-Silo architecture includes actively enforced contact/information isolation backed by lethal safeguard capability. | Strong inference | H | Exact detection logic unresolved. |
+| E568 | S03E03 directly shows Level 124. | Direct visual evidence | VH | New spatial anchor. |
+| E569 | S03E03 directly shows Level 70. | Direct visual evidence | VH | New spatial anchor. |
+| E570 | Episode directly shows an underground mine/tunnel environment with hazardous-work visual context. | Direct visual evidence | H-VH | Mine sector is physically real/navigable. |
+| E571 | Episode context ties Level 70 to the start/access of the mine sector. | Direct contextual/spatial information | H-VH | Exact map topology remains unresolved. |
+| E572 | Working spatial model: mine access begins at/from Level 70. | Spatial inference | H | Strongly supported by E569–E571. |
+| E573 | S03E03 directly shows the interior of the mines / tunnel network. | Direct visual evidence | VH | Confirms mine environment. |
+| E574 | Mine zone consists of excavated rock tunnels with industrial lighting/cabling and heavy dust/aerosol context. | Direct visual evidence | H-VH | Functional details beyond shown environment remain open. |
+| E575 | Direct mine visuals strengthen the Level-70-to-mine-access model. | Cross-scene support | H | Does not independently prove full vertical extent. |
+| E576 | Lukas Kyle is alive and located in the mines. | Direct episode reveal | VH | Resolves prior missing-location uncertainty. |
+| E577 | Juliette and Lukas reunite in the mine sector. | Direct episode event | VH | Direct continuity. |
+| E578 | Earlier hypothesis that Lukas had gone into the mines is confirmed as to location; exact purpose, including cross-Silo intent, remains unresolved. | Hypothesis refinement | H-VH | Preserves distinction between location and motive. |
+| E579 | Camille Sims sends/dispatches people after Lukas following concern about his activity/location. | Direct episode action + context | H-VH | Exact order wording may be indirect; pursuit itself is established. |
+| E580 | Lukas moves into/through the mine sector under active pursuit rather than as an unconstrained exploration. | Direct sequence / causal inference | H-VH | Original reason for entering remains separable from later flight. |
+| E581 | Juliette meets Lukas in the mines after the pursuit sequence. | Direct continuity | VH | Confirms sequence relation. |
+| E582 | Daniel Keen finds a person who possesses a recording of Iran mission communications. | Direct episode event | VH | Confirms E552 candidate. |
+| E583 | Keen personally listens to the recording. | Direct episode event | VH | Recording existence is established. |
+| E584 | Keen later returns to obtain the recording, but the holder is gone. | Direct episode event | VH | Disappearance established; cause unknown. |
+| E585 | The location has been searched/disturbed between Keen's visits. | Direct visual/narrative evidence | H-VH | Indicates intervention by another actor. |
+| E586 | Someone else appears to have reacted to the recording, its holder, or both. | Strong inference | H | Actor and purpose unresolved. |
+| E587 | Candidate: holder may have been removed/intimidated/silenced and recording seized because its content was sensitive. | Hypothesis | M-H | Multiple alternatives remain viable. |
+| E588 | After the mine-sector events, Juliette is again in hospital / medical care. | Direct episode state | H-VH | Exact injury chain not fully reconstructed here. |
+| E589 | Computer/system-ът tells Camille Sims that she was selected because of her ability to lie. | Direct system dialogue | VH | Explicit selection criterion. |
+| E590 | Camille is selected as a human operational asset specifically because deception is a useful competency. | Strong inference | H-VH | Not merely incidental character trait. |
+| E591 | Computer/system-ът directs/persuades Camille that Juliette must be killed in order to save the Silo. | Direct dialogue / persuasion context | VH | Lethal objective is explicit. |
+| E592 | Supervisory system has a human execution layer: it can select an operative by behavioral trait and steer that operative toward coercive/lethal action. | Structural conclusion | H-VH | Exact formal command authority remains unresolved. |
+| E593 | In Juliette's case, S03E02 `removal` can escalate to literal killing, not merely removal from office/isolation. | Cross-episode resolution | H-VH | Does not make every future use of `removal` synonymous with death. |
+| E594 | Computer/system-ът states that deception is fundamental to the Head of IT role. | Direct system dialogue / role description | VH | Institutional-role clue. |
+| E595 | Deception is therefore structural to Head-of-IT role design, not only a personal tactic of Bernard. | Strong institutional inference | H-VH | Exact training/selection process remains open. |
+| E596 | Candidate: Head-of-IT succession/selection includes deliberate preparation for deception as governance competency, not only technical competence. | Hypothesis | H | Direct training process not yet shown. |
+| E597 | Computer/system-ът successfully persuades Camille that Juliette must be killed to save the Silo. | Direct dialogue / persuasion outcome | H-VH | Shows persuasion, not only instruction. |
+| E598 | Camille accepts the lethal objective against Juliette and is no longer only a passive recipient of system guidance. | Direct behavioral/dialogue conclusion | H-VH | Whether she will execute it remains unresolved. |
+
+## Визуални източници — S03E03
+
+Binary assets са качени отделно в `main` преди analysis PR-а и са валидирани чрез Git blob SHA comparison:
+
+- [Vitamin D+ / water](../assets/S03E03/screenshots/vitamin-d-plus-water.jpeg)
+- [Vitamin D+ / survival chance](../assets/S03E03/screenshots/vitamin-d-plus-survival-chance.jpeg)
+- [Silo close to safeguard](../assets/S03E03/screenshots/silo-close-to-safeguard.jpeg)
+- [Cross-Silo contact → safeguard](../assets/S03E03/screenshots/safeguard-cross-silo-contact-trigger.jpeg)
+- [Level 124](../assets/S03E03/screenshots/level-124.jpeg)
+- [Level 70 / mine access](../assets/S03E03/screenshots/level-70-mine-access.jpeg)
+- [Mine interior](../assets/S03E03/screenshots/mine-interior.jpeg)
+- [Camille selected for ability to lie](../assets/S03E03/screenshots/camille-selected-for-lying.jpeg)
+- [Head of IT role built on deception](../assets/S03E03/screenshots/head-of-it-role-built-on-deception.jpeg)
+- [S03E03 visual evidence manifest](../assets/S03E03/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset, не primary evidence.
+
 ## Визуални източници — S03E02
 
 Binary assets са качени отделно в `main` преди analysis PR-а и са валидирани чрез Git blob SHA comparison:
