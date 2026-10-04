@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S02E07`
 
-A handwritten physical leaflet circulates with a direct anti-IT message.
+Циркулира handwritten physical leaflet с директно anti-IT message.
 
 ## Legible text
 
@@ -19,35 +19,35 @@ Look and See.
 
 The note:
 - accuses IT of lying;
-- frames Mechanical as wanting the truth;
-- connects public suspicion to Juliette;
-- questions the official understanding of Meadows' death;
+- представя Mechanical като търсещ истината;
+- свързва public suspicion с Juliette;
+- поставя под въпрос official understanding за смъртта на Meadows;
 - asks what IT is hiding;
 - urges investigation/observation.
 
 ## Boundary
 
-The leaflet does **not** establish:
+Leaflet-ът **не** установява:
 - its author;
 - its distributor;
-- whether Mechanical leadership officially approved it;
+- дали Mechanical leadership официално го е одобрило;
 - how widely it circulated;
-- whether every claim in it is factually correct.
+- дали всеки claim в него е factually correct.
 
-It is direct evidence of a circulating **counter-narrative**, not proof of the counter-narrative's claims.
+Това е direct evidence за circulating **counter-narrative**, а не proof за claims на counter-narrative.
 
 ## H60
 
-**The crisis now contains competing public narratives: institutional leadership frames/blames Mechanical, while an anti-IT physical message presents Mechanical as the side seeking truth and casts suspicion on IT.**
+**Кризата вече съдържа competing public narratives: institutional leadership frame-ва/обвинява Mechanical, докато anti-IT physical message представя Mechanical като страната, която търси истината, и насочва suspicion към IT.**
 
 **Confidence:** H  
 **Status:** Active / Strengthened.
 
 ## Communication significance
 
-S02E06 established that radio can be centrally disabled by IT.
+S02E06 установи, че radio може да бъде centrally disabled от IT.
 
-A physical paper message is operationally different:
+Physical paper message е operationally различно:
 
 ```text
 radio
@@ -61,7 +61,7 @@ physical leaflet
   ↳ no central "off switch" demonstrated
 ```
 
-Whether physical notes are deliberately used to bypass controlled communication channels remains an open hypothesis.
+Дали physical notes се използват deliberately за bypass на controlled communication channels остава open hypothesis.
 
 ## Visual
 
