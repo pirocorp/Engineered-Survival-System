@@ -4,17 +4,17 @@
 
 ## Prior evidence
 
-S01E01 E014 established:
+S01E01 E014 установи:
 
-> `JANE CARMODY CLEANING` contains the same type of lush exterior imagery seen by cleaners.
+> `JANE CARMODY CLEANING` съдържа същия тип lush exterior imagery, какъвто виждат cleaners.
 
-That was already strong viewer/project evidence for a manipulated or multi-state exterior visual pipeline.
+Това вече беше strong viewer/project evidence за manipulated или multi-state exterior visual pipeline.
 
 ## S01E09 update
 
-At the end of S01E09, **Juliette opens the same known cleaning file** from the hard-drive evidence chain.
+В края на S01E09 **Juliette отваря същия познат cleaning file** от hard-drive evidence chain.
 
-This creates a critical knowledge-state transition:
+Това създава critical knowledge-state transition:
 
 ```text
 viewer/project knows Jane Carmody lush footage
@@ -32,26 +32,26 @@ major viewer-side evidence becomes protagonist-side evidence
 ## Hypothesis impact
 
 ### H1
-Remains **VH / Strengthened**.
+Остава **VH / Strengthened**.
 
-The file reinforces the importance of the alternate exterior visual pipeline and now makes that contradiction directly available to Juliette.
+Файлът подсилва значението на alternate exterior visual pipeline и вече прави това contradiction директно достъпно за Juliette.
 
 ### H2 / H3
-No score change.
+Без score change.
 
-The footage alone does not distinguish:
+Самият footage не разграничава:
 - objectively lush outside world;
 - cleaner-only overlay/simulation;
 - rendered/prerecorded composite;
-- another manipulated pipeline state.
+- друг manipulated pipeline state.
 
 ### H4
-No score change.
+Без score change.
 
-The known perception → cleaning pattern remains important, but simply opening the file adds no new behavioral instance.
+Познатият perception → cleaning pattern остава важен, но самото отваряне на файла не добавя new behavioral instance.
 
 ## Epistemic rule
 
-**Character acquisition of evidence is tracked separately from existence of evidence.**
+**Character acquisition of evidence се проследява отделно от existence of evidence.**
 
-S01E09 does not make E014 newly true; it changes Juliette’s knowledge state.
+S01E09 не прави E014 newly true; променя knowledge state на Juliette.
