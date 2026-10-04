@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S02E02`
 
-## Direct evidence
+## Директни доказателства
 
 Bernard/IT получава live video feed, свързан с Juliette, докато тя е навън.
 
