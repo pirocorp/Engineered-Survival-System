@@ -29,31 +29,31 @@
 | E023 | Public feed показва тялото на Allison близо до дървото; по-късно Holston физически достига същото място. | Direct observation + screenshot | VH | Съответствие в геометрията/позицията на обектите. |
 | E024 | Holston вижда зелената сцена и след това почиства сензора/камерата. | Repeated observation | H | Повтаря модела възприятие → cleaning. |
 | E025 | Holston показва силно физическо неразположение, сваля шлема и умира до Allison. | Direct observation + screenshot | VH | Отваря hypothesis за костюма/шлема/животоподдържането. |
-| E026 | Диалогът изрично заявява 144 levels. | Character testimony + screenshot | VH | Architectural baseline. |
-| E027 | `Up-top`, `Mids`, `Down-deep` са вътрешни regional labels. | Repeated usage | H | Social/spatial categories. |
-| E028 | Porters поддържат vertical logistics. | Direct observation / dialogue | H | Human logistics в среда без elevator. |
-| E029 | Присъствието на Sims/Judicial предизвиква видимо напрежение/страх. | Direct observation + screenshot | H | Подкрепя coercive role. |
-| E030 | Formal relationships/partnerships изглеждат subject to approval. | Character / institutional testimony | M | Exact scope е неизвестен. |
-| E031 | Mines са споменати като punitive destination/labor. | Character / institutional testimony | M | Punishment отвъд cleaning. |
-| E032 | Holston номинира Juliette за successor Sheriff и оставя badge. | Direct action / testimony | H | Мотивът остава inference. |
-| E033 | Mayor journals са организирани по year; Mayor достига '97. | Character testimony + screenshot | VH | Independent chronology link. |
-| E034 | Mayor описва ~140 години мир след Rebellion. | Character testimony + screenshot | H | Current era ≈140 години след Rebellion. |
-| E035 | Съществува institutional/historical discontinuity през границата на Rebellion. | Testimony / inference | H | Причината е неизвестна. |
-| E036 | Pact изрично забранява навлизането в lower restricted zone. | Direct visual evidence | VH | Physical access control е encoded във foundational law. |
-| E037 | Restricted zone има hidden/nonstandard wall opening. | Direct visual evidence | H | Non-routine access. |
-| E038 | Tunnel system зад opening е описана от Juliette като pre-Rebellion. | Visual + testimony | H | Origin не е independently dated. |
-| E039 | Tunnel system води вертикално под inhabited Silo. | Direct observation | VH | Down-deep не е physical bottom. |
-| E040 | Под Silo има огромна construction cavity с massive abandoned machine. | Direct visual evidence | VH | Character theory: excavation machine. |
-| E041 | Над cavity има massive structural cap/boundary. | Screenshot evidence | H | Exact thickness/material не е independently measured. |
-| E042 | Най-ниската видима zone около machine е flooded. | Direct visual evidence | VH | Physical barrier; Juliette се страхува от water. |
-| E043 | George поддържа hidden workspace/cache в sub-Silo construction layer. | Direct observation + screenshot | H | Systematic use на forbidden space. |
-| E044 | Cache на George съдържа portable relic video camera. | Direct visual evidence | VH | Contents/function са неизвестни. |
-| E045 | Cache на George съдържа HDD 18 + printed deleted-file recovery material. | Direct observation + screenshot | VH | Директно свързва George с HDD/recovery line. |
-| E046 | Holston идентифицира handwriting върху recovery document като на Allison. | Character identification + screenshot | H | Provenance chain Allison → George/cache. |
-| E047 | George и Juliette са били във relationship. | Character fact / dialogue | H | Personal stake е established. |
-| E048 | George оставя PEZ relic и breadcrumbs/notes, насочващи Juliette. | Direct observation | H | Intentional trail. |
-| E049 | George търси door, показан на drawing, в края на short tunnel в lower construction zone. | Character testimony | H | Вероятна blueprint relation; identity не е direct-confirmed. |
-| E050 | George оставя message, че е намерил това, което търси. | Character message | H | Подкрепя door-found hypothesis, но не passage/opening. |
+| E026 | Диалогът изрично заявява 144 нива. | Character testimony + screenshot | VH | Архитектурна базова стойност. |
+| E027 | `Up-top`, `Mids`, `Down-deep` са вътрешни регионални обозначения. | Repeated usage | H | Социални/пространствени категории. |
+| E028 | Porters поддържат вертикалната логистика. | Direct observation / dialogue | H | Човешка логистика в среда без асансьор. |
+| E029 | Присъствието на Sims/Judicial предизвиква видимо напрежение/страх. | Direct observation + screenshot | H | Подкрепя принудителна/сплашваща роля. |
+| E030 | Формалните връзки/партньорства изглеждат подлежащи на одобрение. | Character / institutional testimony | M | Точният обхват е неизвестен. |
+| E031 | Мините са споменати като наказателна дестинация/труд. | Character / institutional testimony | M | Наказание отвъд cleaning. |
+| E032 | Holston номинира Juliette за следващ Sheriff и оставя значката. | Direct action / testimony | H | Мотивът остава извод. |
+| E033 | Дневниците на Mayor са организирани по години; Mayor достига '97. | Character testimony + screenshot | VH | Независима хронологична връзка. |
+| E034 | Mayor описва ~140 години мир след Rebellion. | Character testimony + screenshot | H | Текущата ера е приблизително 140 години след Rebellion. |
+| E035 | Съществува институционално/историческо прекъсване през границата на Rebellion. | Testimony / inference | H | Причината е неизвестна. |
+| E036 | Pact изрично забранява навлизането в долната ограничена зона. | Direct visual evidence | VH | Физическият контрол на достъпа е кодиран в основополагащия закон. |
+| E037 | Ограничената зона има скрит/нестандартен отвор в стената. | Direct visual evidence | H | Нестандартен достъп. |
+| E038 | Тунелната система зад отвора е описана от Juliette като pre-Rebellion. | Visual + testimony | H | Произходът не е независимо датиран. |
+| E039 | Тунелната система води вертикално под обитаемия Silo. | Direct observation | VH | Down-deep не е физическото дъно. |
+| E040 | Под Silo има огромна строителна кухина с масивна изоставена машина. | Direct visual evidence | VH | Теория на персонажите: excavation machine. |
+| E041 | Над кухината има масивна структурна преграда/граница. | Screenshot evidence | H | Точната дебелина/материал не са независимо измерени. |
+| E042 | Най-ниската видима зона около машината е наводнена. | Direct visual evidence | VH | Физическа бариера; Juliette се страхува от вода. |
+| E043 | George поддържа скрито работно място/cache в строителния слой под Silo. | Direct observation + screenshot | H | Системно използване на забранено пространство. |
+| E044 | Cache-ът на George съдържа преносима relic видеокамера. | Direct visual evidence | VH | Съдържанието/функцията са неизвестни. |
+| E045 | Cache-ът на George съдържа HDD 18 + отпечатан материал за възстановяване на изтрити файлове. | Direct observation + screenshot | VH | Директно свързва George с линията HDD/възстановяване. |
+| E046 | Holston идентифицира почерка върху документа за възстановяване като на Allison. | Character identification + screenshot | H | Верига на произход Allison → George/cache. |
+| E047 | George и Juliette са били във връзка. | Character fact / dialogue | H | Личният залог е установен. |
+| E048 | George оставя PEZ реликва и следи/бележки, насочващи Juliette. | Direct observation | H | Умишлена следа. |
+| E049 | George търси врата, показана на рисунка, в края на къс тунел в долната строителна зона. | Character testimony | H | Вероятна връзка с blueprint-а; идентичността не е директно потвърдена. |
+| E050 | George оставя съобщение, че е намерил това, което търси. | Character message | H | Подкрепя hypothesis, че вратата е намерена, но не доказва проход/отваряне. |
 | E051 | Juliette премълчава пред law enforcement, че George е казал, че го е намерил. | Direct action | H | Selective information withholding. |
 | E052 | Juliette се страхува от water; reported door area е свързана с flooded lower zone. | Character fact + environment | H | Обяснява barrier. |
 | E053 | Juliette напуска flooded bottom, без лично да verify-не reported door. | Direct observation | H | H13 остава unverified. |
