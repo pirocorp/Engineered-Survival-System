@@ -10,7 +10,7 @@
 - S01E07 вече установи concealed mirror cameras и centralized surveillance.
 - В S01E08 Juliette свързва този механизъм с майка си и ревизира по-ранното си убеждение, че баща ѝ непременно е информирал authorities.
 
-## Evidence chain
+## Верига на доказателствата
 
 ```text
 Pact restricts high magnification
@@ -40,7 +40,7 @@ mirror surveillance предоставя механизъм за открива�
 ### E144 revision
 S01E07 belief-ът на Juliette, че баща ѝ е предал майка ѝ, се запазва като historical character state, но S01E08 предоставя и foreground-ва independently established alternative mechanism. Father-as-informant вече не е необходим за откриването на microscope-а.
 
-## Boundaries
+## Граници
 
 - не се извежда точна optical power;
 - не се извежда genetic/hereditary cause за сърдечния проблем на Jacob;
