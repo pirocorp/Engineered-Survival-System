@@ -1,17 +1,17 @@
-# S02E07 — IT vault habitation and the Legacy library
+# S02E07 — habitation в IT vault и Legacy library
 
 **Knowledge boundary:** `S02E07`
 
-S02E07 materially refactors the secured IT vault.
+S02E07 съществено refactor-ва secured IT vault.
 
 ## Direct evidence
 
 The vault includes:
 - residential/living compartments;
-- a protected component called `Legacy`;
-- `Legacy` is identified as a library / knowledge archive.
+- protected component, наречен `Legacy`;
+- `Legacy` е идентифициран като library / knowledge archive.
 
-This means the vault is not adequately modeled as only a server room or hardened security compartment.
+Това означава, че vault не се моделира адекватно само като server room или hardened security compartment.
 
 ## Continuity model
 
@@ -30,36 +30,36 @@ IT vault
   successor / IT custodian
 ```
 
-This provides a concrete mechanism for institutional memory surviving across generations even while public historical knowledge is heavily restricted.
+Това дава конкретен механизъм institutional memory да оцелява през generations, дори когато public historical knowledge е силно restricted.
 
 ## H42 update
 
-**The IT vault is a protected continuity environment designed to preserve people, power, privileged systems and protected knowledge through crisis/collapse.**
+**IT vault е protected continuity environment, предназначен да запазва хора, power, privileged systems и protected knowledge през crisis/collapse.**
 
 **Confidence:** H → VH-ish  
 **Status:** Strongly Strengthened / Refactored.
 
 ## H44 update
 
-Bernard's deep historical/cross-Silo knowledge no longer requires a vague "inherited institutional knowledge" mechanism.
+Deep historical/cross-Silo knowledge на Bernard вече не изисква vague "inherited institutional knowledge" mechanism.
 
-`Legacy` provides a concrete candidate repository through which that knowledge can be preserved and transferred.
+`Legacy` дава concrete candidate repository, чрез който това knowledge може да бъде preserved и transferred.
 
 **Confidence:** H → VH-ish  
 **Status:** Strongly Strengthened / Refactored.
 
 ## H59
 
-**IT vaults may contain a standardized `Legacy` archive intended to preserve technical, historical and governance knowledge across succession or Silo-wide collapse.**
+**IT vaults може да съдържат standardized `Legacy` archive, предназначен да запазва technical, historical и governance knowledge през succession или Silo-wide collapse.**
 
 **Confidence:** H  
-**Status:** Active / Strongly Supported in Silo 18.
+**Status:** Active / Strongly Supported в Silo 18.
 
-Cross-Silo standardization remains incomplete:
-- Silo 17 vault is directly established;
-- Silo 17 continuity power is directly/testimony-backed;
-- Silo 17 survivor has unusually broad knowledge;
-- but a Silo 17 `Legacy` archive has not yet been directly shown or named.
+Cross-Silo standardization остава incomplete:
+- Silo 17 vault е directly established;
+- Silo 17 continuity power е directly/testimony-backed;
+- Silo 17 survivor има unusually broad knowledge;
+- но `Legacy` archive в Silo 17 все още не е директно показан или назован.
 
 ## Visuals
 
