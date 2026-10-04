@@ -618,17 +618,17 @@ Observed direct anchors include:
 | H51 | Hidden-control leadership is non-monolithic: Bernard and Sims have partially independent interests/power bases, while Bernard demonstrably retains authority over Sims' formal posting and shadow eligibility. | H | Strongly Strengthened / Refactored |
 | H52 | Bernard uses the Mechanical-scapegoating doctrine to convert a leadership crisis into controlled conflict by framing Mechanical for Meadows' death. | H | Strongly Strengthened |
 | H53 | Judge is a high public/formal office that Bernard can fill/reassign, while the `shadow` role is a separate privileged IT succession/read-in path. | H | Strongly Strengthened |
-| H54 | IT/vault infrastructure has standardized continuity-power capability across at least Silos 17 and 18, allowing IT to remain powered when normal Silo power is unavailable; exact source architecture is confirmed external only for Silo 17 testimony. | VH | Strongly Strengthened / Refactored |
+| H54 | IT/vault infrastructure has standardized continuity-power capability across at least Silos 17 and 18, allowing IT to remain powered when normal Silo power is unavailable; an external/outside source is specifically described only by Silo 17 survivor testimony, while Silo 18 source architecture remains unresolved. | VH | Strongly Strengthened / Refactored |
 | H55 | IT and Judicial may connect to a hidden privileged infrastructure backbone distinct from ordinary Silo distribution; exact service type remains unresolved. | M-H | Active |
 | H56 | The Silo uses multiple parallel communication tiers with different access/control properties: physical couriers, institutional digital messaging and radio. | H | Strongly Strengthened / Refactored |
 | H57 | The surveillance/control-room function aggregates human-source field reporting alongside technical surveillance inputs. | H | Active / Strengthened |
 | H58 | IT is a central communications choke point capable of degrading or isolating operational coordination by cutting Silo-wide radio traffic. | H | Active / Strengthened |
-| H59 | IT vaults may include a standardized `Legacy` knowledge archive intended to preserve technical, historical and governance knowledge across succession or Silo-wide collapse; direct confirmation currently exists in Silo 18. | H | Active / Strongly Supported |
+| H59 | IT vaults may include a standardized `Legacy` knowledge archive intended to preserve technical, historical and governance knowledge across succession or Silo-wide collapse; direct confirmation currently exists in Silo 18. | H | Active / Strengthened |
 | H60 | The crisis now contains competing public narratives: leadership/IT frames Mechanical as the threat while an anti-IT physical counter-narrative presents Mechanical as seeking truth and questions Juliette/Meadows official stories. | H | Active / Strengthened |
 
 ---
 
-## Surveillance / privileged-control model after S02E06
+## Surveillance / privileged-control model after S02E07
 
 S02E02 expands the hidden-control model beyond ordinary internal surveillance.
 
@@ -664,6 +664,8 @@ S02E04 further shows that this layer is **not politically monolithic**: Bernard 
 S02E05 makes the hierarchy more concrete: Bernard removes Sims from Security, denies him the `shadow` succession path, and appoints him Judge. Public Judicial authority and privileged IT succession are therefore distinct layers, while Sims' independent political leverage still prevents a simple "Bernard controls everything" model.
 
 S02E06 adds **communications infrastructure control** to Bernard/IT's demonstrated domain. Institutional direct messaging exists, the control room ingests routed field reports, and IT can disable the Silo's radio layer. This does not prove IT reads every message or controls every communication channel, but it establishes a real communications choke-point capability.
+
+S02E07 adds a concrete **institutional-memory mechanism** and visible continuity privilege: the vault contains `Legacy`, while IT remains powered during a broader Silo 18 blackout. The privileged layer therefore preserves not only classified access and communications control but also knowledge and operational continuity.
 
 It still does **not** establish:
 - the full membership of that layer;
