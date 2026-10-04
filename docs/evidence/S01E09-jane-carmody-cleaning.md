@@ -29,7 +29,7 @@ Juliette opens JANE CARMODY CLEANING
 важно viewer-side evidence се превръща в protagonist-side evidence
 ```
 
-## Hypothesis impact
+## Въздействие върху хипотезите
 
 ### H1
 Остава **VH / Strengthened**.
