@@ -32,7 +32,7 @@
 | E204-E205 | `screenshots/other-silo-it-severed-bridge.jpeg` | 271190 | `854df217a0d738d2d140574a58de56795212fd2e` | Present-day IT bridge/chokepoint: locally illuminated и physically severed. |
 | E208-E209 | `screenshots/other-silo-it-vault-survivor.jpeg` | 447612 | `133a8c6a8974acbcb157c6b05d622d7686b146ec` | Жив човек се вижда зад secured vault-like door в IT area на другия Silo. |
 
-## Contact sheet
+## Контактен лист
 
 - `contact-sheet.jpg`
 - Bytes: 487995
