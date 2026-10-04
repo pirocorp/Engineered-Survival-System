@@ -1,18 +1,20 @@
-# S02E09 — Quinn: 50 Silos, `the safeguard` и tunnel instruction
+# S02E09 — Quinn: 50 Silos, `the safeguard` и указанията за тунела
 
 **Knowledge boundary:** `S02E09`
 
-S02E09 разширява decoded protected payload на Salvador Quinn от общото `the game is rigged` към конкретни claims и physical verification path.
+S02E09 разширява декодираното защитено съобщение на Salvador Quinn от общото `the game is rigged` („играта е нагласена“) към конкретни твърдения и път за физическа проверка.
 
-## Директно evidence
+## Директни доказателства
 
-Quinn's decoded material съдържа:
+Декодираното съобщение на Quinn съдържа:
 
 ```text
 The founders didn't build a single silo.
 They built fifty.
 And they created the safeguard.
 ```
+
+(„Основателите не са построили един-единствен Silo. Построили са петдесет. И са създали safeguard-а.“)
 
 и след това:
 
@@ -23,11 +25,13 @@ Find the tunnel.
 You will get confirmation there.
 ```
 
+(„Ако не ми вярваш, слез до самото дъно на Silo. Намери тунела. Там ще получиш потвърждение.“)
+
 **Confidence:** VH.
 
 Bernard отделно казва, че реалният брой е **51**.
 
-Това не позволява 50 и 51 да бъдат silently collapsed в една стойност. Най-сигурният модел е:
+Това не позволява 50 и 51 да бъдат безусловно обединени в една стойност. Най-сигурният модел е:
 
 ```text
 Founders built fifty — Quinn decoded claim
@@ -35,32 +39,32 @@ Founders built fifty — Quinn decoded claim
 actually 51 — Bernard
 ```
 
-Причината за discrepancy остава unresolved.
+Причината за несъответствието остава неустановена.
 
-## Physical validation
+## Физическа проверка
 
-До края на епизода Lukas достига дъното и намира реален tunnel/opening. Така physical-check instruction на Quinn е materially validated.
+До края на епизода Lukas достига дъното и намира реален тунел/отвор. Така проверимата инструкция на Quinn е практически потвърдена.
 
 Това:
-- strengthen-ва H50 и H69;
-- strengthen-ва H11/H12;
-- не установява автоматично exact relation между Quinn tunnel и всеки по-ранен tunnel/door depiction.
+- засилва H50 и H69;
+- засилва H11/H12;
+- не установява автоматично точната връзка между тунела на Quinn и всяко по-ранно изображение на тунел/врата.
 
-## Safeguard boundary
+## Граница на установеното за safeguard-а
 
 S02E09 установява, че:
-- Founders са свързани с creation на `the safeguard` според Quinn;
-- protected lower contact предупреждава Lukas, че disclosure на видяното/наученото ще доведе до activation.
+- Основателите са свързани със създаването на `the safeguard` според Quinn;
+- долният контакт предупреждава Lukas, че разкриването на видяното/наученото ще доведе до задействане.
 
 S02E09 **не установява**:
-- physical mechanism;
-- substance/agent;
-- controller identity;
-- geographic scope;
-- exact trigger implementation;
-- дали safeguard е локален или cross-Silo.
+- физическия механизъм;
+- веществото/агента;
+- кой контролира системата;
+- географския обхват;
+- точната реализация на задействащия механизъм;
+- дали safeguard-ът е локален или действа между отделни Silos.
 
-## Visuals
+## Визуални материали
 
 - [Quinn — fifty Silos / safeguard](../../assets/S02E09/screenshots/quinn-fifty-silos-safeguard.jpeg)
 - [Quinn — bottom / tunnel / confirmation](../../assets/S02E09/screenshots/quinn-bottom-tunnel-confirmation.jpeg)
