@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S01E05`
 
-## Evidence chain
+## Верига на доказателствата
 
 ### Juliette dossier
 
@@ -60,7 +60,7 @@ S01E05 оставя три различни роли, които не трябв
 - управлява Trumbull, но получава orders от по-висока authority;
 - реагира след unauthorized/failed operation.
 
-## Hypothesis impact
+## Въздействие върху хипотезите
 
 - H8 → `H / Strengthened + Refactored`
 - H17 → `VH / Strengthened`
