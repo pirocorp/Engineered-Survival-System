@@ -49,4 +49,4 @@ sort / redistribute
 - inheritance / belongings after death;
 - repair vs replacement rules;
 - official redistribution centers;
-- markets / trade / barter outside central allocation.
+- markets / trade / barter извън central allocation.
