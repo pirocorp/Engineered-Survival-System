@@ -4,33 +4,33 @@
 
 ## Barren exterior
 
-Once the false lush helmet layer is gone, Juliette sees a barren/devastated exterior.
+След като false lush helmet layer изчезва, Juliette вижда barren/devastated exterior.
 
-This strongly establishes the barren representation as substantially real.
+Това силно установява barren representation като substantially real.
 
 ## Multiple Silos
 
-Wide exterior shots show repeated circular surface installations consistent with neighboring Silo sites.
+Wide exterior shots показват повтарящи се circular surface installations, съвместими с neighboring Silo sites.
 
-This refactors H10:
+Това refactor-ва H10:
 
-> **Multiple Silo installations exist in the surrounding landscape.**
+> **В околния landscape съществуват multiple Silo installations.**
 
 **Confidence:** VH  
 **Status:** Confirmed / Refactored
 
-The earlier `SILO_COUNT` clue is now consistent with directly observed world structure rather than standing alone as weak textual speculation.
+По-ранната `SILO_COUNT` clue вече е съвместима с directly observed world structure, вместо да стои самостоятелно като weak textual speculation.
 
 ## Distant skyline
 
-A distant ruined/city-like skyline is visible.
+Вижда се далечен ruined/city-like skyline.
 
 **Confidence:** H
 
-Do not infer:
-- city identity;
+Не извеждаме:
+- identity на city;
 - state/country;
-- connection to Georgia relic;
+- връзка с Georgia relic;
 - event/cause of destruction.
 
 ## Visual evidence
