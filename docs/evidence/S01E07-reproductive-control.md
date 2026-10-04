@@ -11,9 +11,9 @@
 ```text
 Allison finds retained implant
         +
-doctor admits retained-implant deception
+лекарят признава retained-implant deception
         =
-covert reproductive-control mechanism confirmed
+скрит reproductive-control mechanism — confirmed
 ```
 
 ## H5 update
