@@ -27,90 +27,90 @@
 | E021 | Holston вижда lush exterior през cleaner helmet. | Direct observation + screenshot | VH | Third independent lush-view datapoint. |
 | E022 | Simultaneously public feed показва barren exterior. | Direct observation + screenshot | VH | Incompatible simultaneous representations. |
 | E023 | Public feed показва Allison body близо до tree; Holston later physically reaches same place. | Direct observation + screenshot | VH | Geometry/object-position correspondence. |
-| E024 | Holston sees lush scene, then cleans sensor/camera. | Repeated observation | H | Repeats perception → cleaning pattern. |
-| E025 | Holston shows distress, removes helmet and dies beside Allison. | Direct observation + screenshot | VH | Opens suit/helmet/life-support hypothesis. |
-| E026 | Dialogue explicitly states 144 levels. | Character testimony + screenshot | VH | Architectural baseline. |
-| E027 | `Up-top`, `Mids`, `Down-deep` are internal regional labels. | Repeated usage | H | Social/spatial categories. |
-| E028 | Porters support vertical logistics. | Direct observation / dialogue | H | Human logistics under no-elevator environment. |
-| E029 | Sims/Judicial presence produces visible tension/fear. | Direct observation + screenshot | H | Supports coercive role. |
-| E030 | Formal relationships/partnerships appear subject to approval. | Character / institutional testimony | M | Exact scope unknown. |
-| E031 | Mines are referenced as punitive destination/labor. | Character / institutional testimony | M | Punishment beyond cleaning. |
-| E032 | Holston nominates Juliette as successor Sheriff and leaves badge. | Direct action / testimony | H | Motive remains inference. |
-| E033 | Mayor journals are organized by year; Mayor reaches '97. | Character testimony + screenshot | VH | Independent chronology link. |
-| E034 | Mayor describes ~140 years post-Rebellion peace. | Character testimony + screenshot | H | Current era ≈140 years post-Rebellion. |
-| E035 | Institutional/historical discontinuity exists across Rebellion boundary. | Testimony / inference | H | Cause unknown. |
-| E036 | Pact explicitly forbids proceeding into a lower restricted zone. | Direct visual evidence | VH | Physical access control is foundational-law encoded. |
-| E037 | Restricted zone has hidden/nonstandard wall opening. | Direct visual evidence | H | Non-routine access. |
-| E038 | Tunnel system behind opening is described by Juliette as pre-Rebellion. | Visual + testimony | H | Origin not independently dated. |
-| E039 | Tunnel system leads vertically below inhabited Silo. | Direct observation | VH | Down-deep is not physical bottom. |
-| E040 | Huge construction cavity with massive abandoned machine exists below Silo. | Direct visual evidence | VH | Character theory: excavation machine. |
-| E041 | Massive structural cap/boundary exists above cavity. | Screenshot evidence | H | Exact thickness/material not independently measured. |
-| E042 | Lowest visible zone around machine is flooded. | Direct visual evidence | VH | Physical barrier; Juliette fears water. |
-| E043 | George maintained hidden workspace/cache in sub-Silo construction layer. | Direct observation + screenshot | H | Systematic use of forbidden space. |
-| E044 | George cache contains portable relic video camera. | Direct visual evidence | VH | Contents/function unknown. |
-| E045 | George cache contains HDD 18 + printed deleted-file recovery material. | Direct observation + screenshot | VH | Directly links George to HDD/recovery line. |
-| E046 | Holston identifies handwriting on recovery document as Allison's. | Character identification + screenshot | H | Provenance chain Allison → George/cache. |
-| E047 | George and Juliette were in a relationship. | Character fact / dialogue | H | Personal stake established. |
-| E048 | George leaves PEZ relic and breadcrumbs/notes guiding Juliette. | Direct observation | H | Intentional trail. |
-| E049 | George sought a door shown on drawing, at end of short tunnel in lower construction zone. | Character testimony | H | Likely blueprint relation; identity not direct-confirmed. |
-| E050 | George leaves message that he found what he was looking for. | Character message | H | Supports door-found hypothesis, not passage/opening. |
-| E051 | Juliette withholds from law enforcement that George said he found it. | Direct action | H | Selective information withholding. |
-| E052 | Juliette fears water; reported door area is linked to flooded lower zone. | Character fact + environment | H | Explains barrier. |
-| E053 | Juliette leaves flooded bottom without personally verifying reported door. | Direct observation | H | H13 remains unverified. |
-| E054 | Level 9 and Level 12 are directly shown. | Visual evidence | VH | Upper-level anchors. |
-| E055 | Judicial entrance appears in adjacent sequence with Level 14 marker. | Visual sequence / inference | H | Strongly supports Judicial on/around 14. |
-| E056 | Level 50 is in Mids. | Direct visual / dialogue | H | Spatial anchor. |
-| E057 | Level 50 contains medical/neonatal infrastructure; Juliette father is doctor there. | Direct observation / character fact | H | Mids family background. |
-| E058 | Nearly 100 levels separation makes father↔Mechanical visits practically impossible within one day off. | Character testimony / consequence | H | Direct social-separation evidence. |
-| E059 | Large indoor green communal area with restaurant/seating exists. | Direct visual evidence | H | Not only industrial bunker. |
-| E060 | Bernard/IT opposes Juliette as Sheriff and cites insulation-tape theft. | Direct stance | H | No formal veto proven. |
-| E061 | Suicide is treated as serious crime against Silo. | Institutional rule / dialogue | H | Opens collective-life question. |
-| E062 | Homemade/unauthorized radio is strictly prohibited by Pact. | Institutional rule / dialogue | H | Independent communication restriction. |
-| E063 | Population is described approximately as 10,000. | Character / institutional testimony | H | Superseded in precision by E086, not contradicted. |
-| E064 | `SILOMAIL` shows Mayor-ordered planned 8-hour outage starting 22:00. | Screenshot evidence | VH | Central messaging + mayoral operational authority. |
-| E065 | Energy chain is steam from below → turbine → generator → electricity. | Technical observation / dialogue | H | Operational chain clear. |
-| E066 | Mechanical personnel say nobody knows exact origin of primary steam source. | Character testimony | H | Upstream infrastructure outside current operator knowledge. |
-| E067 | Generator/turbine is huge centralized multi-level machine opened for maintenance. | Direct visual evidence | VH | Critical infrastructure scale. |
-| E068 | During planned blackout normal lighting largely disappears. | Direct visual evidence | H | Infrastructure dependency. |
-| E069 | During power-down public display briefly shows lush exterior imagery. | Direct visual + screenshot | VH | Multiple visual states; reality not authenticated. |
-| E070 | Mayor supports/appoints Juliette despite Bernard opposition. | Direct governance action | H | Formal succession step. |
-| E071 | Mayor dies after apparent deliberate attack/poisoning. | Direct event | H | Perpetrator/motive unknown at S01E03 boundary. |
-| E072 | Juliette mother was medical professional/worker; Juliette had a brother. | Family-history evidence | H | Exact maternal medical role unspecified. |
-| E073 | Juliette blames father for loss of mother and brother and links rupture to move to Mechanical. | Character testimony / motivation | H | Proves Juliette perspective/motive, not objective father guilt. |
-| E074 | Judicial opposes Juliette as Sheriff and prefers another/preferred candidate. | Direct governance stance | H | Sheriff succession = institutional power contest. |
-| E075 | Deputy Sheriff Marnes dies under suspicious circumstances. | Direct event | M | S01E05 later treats death as murder investigation. |
-| E076 | Juliette finds official George Wilkins file/dossier. | Direct investigation event | H | Enables official record vs independent evidence comparison. |
-| E077 | Public exterior display is shown in normal night state with dark exterior/tree/star-like points. | Direct visual evidence | H | Dynamic day/night state; not live-feed proof. |
-| E078 | S01E04 spatial sequence strengthens Level 1/Up-top Sheriff + airlock complex model. | Visual/spatial inference | M | Strong model, not floor-plan confirmation. |
-| E079 | New-occupant notice directs unwanted previous-tenant items to recycling for proper redistribution. | Direct screenshot evidence | VH | Circular reuse/redistribution; ownership regime unknown. |
-| E080 | Juliette sees that her institutional dossier contains the content of her conversation with Holston about the watch. | Direct observation / dossier evidence | H | Strong content-level surveillance/reporting evidence; exact mechanism unknown. |
-| E081 | Marnes death is investigated as murder and Juliette must investigate it as Sheriff. | Direct dialogue / investigation fact | H | Upgrades S01E04 suspicious-death status. |
-| E082 | After Marnes, a Deputy preferred/aligned with the opposing institutional line is installed with Juliette. | Governance action / dialogue context | H | Strengthens H23; does not prove murder motive. |
-| E083 | Mayor's sketch is missing during the investigation. | Direct investigation observation | H | Potential removed evidence/object. |
-| E084 | Sims directly blames Juliette for Marnes death. | Character accusation | H | Proves stance/pressure, not Juliette responsibility. |
-| E085 | Previously seen indoor garden/green communal area is used for funerals/memorial/burial ritual. | Direct observation | H | Adds funerary function; no biological recycling inference. |
-| E086 | Bernard states current Silo population as **10,112 residents**. | Institutional/direct dialogue claim | H | Most precise current official population figure so far. |
-| E087 | Level 27 marker is directly visible. | Screenshot evidence | VH | Spatial anchor only. |
-| E088 | Juliette references **The Syndrome** as an in-world condition/term. | Direct dialogue | H | Nature, symptoms, cause and prevalence unknown. |
-| E089 | Level 29 marker is directly visible. | Screenshot evidence | VH | Spatial anchor. |
-| E090 | New Deputy is said/contextually established to live several levels below Level 29. | Dialogue/context | M | Exact home level unknown; not connected to Level 27 marker. |
-| E091 | Rat poison and missing Mayor sketch are found at Patrick Kennedy's place. | Direct investigation evidence | H | Initially incriminating, later reliability compromised by E093. |
-| E092 | Judicial demonstrates capacity to run/participate in an investigation parallel to Sheriff's Department. | Direct governance/investigative behavior | H | Exact formal legal scope remains unknown. |
-| E093 | Juliette directly catches Douglas Trumbull, a Judicial-associated operative, manipulating/planting evidence. | Direct observation | VH | Direct proof of evidence manipulation in active case. |
-| E094 | After being exposed, Trumbull attempts to kill Juliette by throwing/pushing her from the stairs. | Direct observation | VH | Demonstrates lethal operational behavior. |
-| E095 | Sims personally kills Trumbull. | Direct observation | VH | Critical command/cleanup datapoint. |
-| E096 | Episode's investigative/institutional resolution identifies Trumbull as responsible for Mayor and Marnes killings and framing Patrick. | Character/institutional conclusion | M-H | Not equivalent to independent confession/forensic proof; Trumbull cannot be questioned. |
-| E097 | Sims knowingly presents Trumbull death as **suicide**, despite viewer-direct observation that Sims killed him. | Direct observation + false institutional claim | VH | First confirmed observed-event ≠ official-account case. |
-| E098 | Judge closes/formally ends the case after the Trumbull narrative. | Direct governance action | H | Demonstrates Judicial case-finalization power. |
-| E099 | Cafeteria observer sees night-sky lights but does not know/identify them as stars. | Direct dialogue / knowledge-state evidence | H | Concrete lost-astronomy knowledge datapoint. |
-| E100 | Observer recognizes W/zig-zag-like pattern and records its movement/distance at roughly 30-day intervals. | Direct observation + screenshot | VH | Systematic longitudinal observation. |
-| E101 | Night public display contains sufficiently systematic time-dependent celestial behavior to permit repeated measurement. | Inference from repeated observation | H | Does not distinguish live, processed, prerecorded or synthetic sky. |
-| E102 | Level 8 marker is directly visible. | Screenshot evidence | VH | Upper-level spatial anchor. |
-| E103 | Pact deliberately prohibits mechanized movement/transport through the Silo. | Character testimony about institutional rule | H | Confirms no-elevator condition is intentional policy/design constraint; reason unknown. |
-| E104 | Pact prohibits magnifying devices above a specified/limited threshold. | Character testimony about institutional rule | H | Restricts observation capability; target/rationale unknown. |
-| E105 | Juliette deliberately seeks bait/evidence/pretext to reopen the closed George case. | Direct investigation motive / dialogue | H | Uses new Sheriff authority toward formal reopening. |
-| E106 | This search for a reopening hook motivates Juliette to return to the hidden sub-Silo construction/excavation area. | Direct action + motive context | H | Connects official investigation to hidden layer. |
-| E107 | At episode end Juliette takes the George-associated PEZ dispenser relic as an evidence hook/bait. | Direct observation | VH | Does not itself prove George murder. |
+| E024 | Holston вижда lush scene и след това почиства sensor/camera. | Repeated observation | H | Повтаря pattern perception → cleaning. |
+| E025 | Holston показва distress, сваля helmet-а и умира до Allison. | Direct observation + screenshot | VH | Отваря hypothesis за suit/helmet/life-support. |
+| E026 | Диалогът изрично заявява 144 levels. | Character testimony + screenshot | VH | Architectural baseline. |
+| E027 | `Up-top`, `Mids`, `Down-deep` са вътрешни regional labels. | Repeated usage | H | Social/spatial categories. |
+| E028 | Porters поддържат vertical logistics. | Direct observation / dialogue | H | Human logistics в среда без elevator. |
+| E029 | Присъствието на Sims/Judicial предизвиква видимо напрежение/страх. | Direct observation + screenshot | H | Подкрепя coercive role. |
+| E030 | Formal relationships/partnerships изглеждат subject to approval. | Character / institutional testimony | M | Exact scope е неизвестен. |
+| E031 | Mines са споменати като punitive destination/labor. | Character / institutional testimony | M | Punishment отвъд cleaning. |
+| E032 | Holston номинира Juliette за successor Sheriff и оставя badge. | Direct action / testimony | H | Мотивът остава inference. |
+| E033 | Mayor journals са организирани по year; Mayor достига '97. | Character testimony + screenshot | VH | Independent chronology link. |
+| E034 | Mayor описва ~140 години мир след Rebellion. | Character testimony + screenshot | H | Current era ≈140 години след Rebellion. |
+| E035 | Съществува institutional/historical discontinuity през границата на Rebellion. | Testimony / inference | H | Причината е неизвестна. |
+| E036 | Pact изрично забранява навлизането в lower restricted zone. | Direct visual evidence | VH | Physical access control е encoded във foundational law. |
+| E037 | Restricted zone има hidden/nonstandard wall opening. | Direct visual evidence | H | Non-routine access. |
+| E038 | Tunnel system зад opening е описана от Juliette като pre-Rebellion. | Visual + testimony | H | Origin не е independently dated. |
+| E039 | Tunnel system води вертикално под inhabited Silo. | Direct observation | VH | Down-deep не е physical bottom. |
+| E040 | Под Silo има огромна construction cavity с massive abandoned machine. | Direct visual evidence | VH | Character theory: excavation machine. |
+| E041 | Над cavity има massive structural cap/boundary. | Screenshot evidence | H | Exact thickness/material не е independently measured. |
+| E042 | Най-ниската видима zone около machine е flooded. | Direct visual evidence | VH | Physical barrier; Juliette се страхува от water. |
+| E043 | George поддържа hidden workspace/cache в sub-Silo construction layer. | Direct observation + screenshot | H | Systematic use на forbidden space. |
+| E044 | Cache на George съдържа portable relic video camera. | Direct visual evidence | VH | Contents/function са неизвестни. |
+| E045 | Cache на George съдържа HDD 18 + printed deleted-file recovery material. | Direct observation + screenshot | VH | Директно свързва George с HDD/recovery line. |
+| E046 | Holston идентифицира handwriting върху recovery document като на Allison. | Character identification + screenshot | H | Provenance chain Allison → George/cache. |
+| E047 | George и Juliette са били във relationship. | Character fact / dialogue | H | Personal stake е established. |
+| E048 | George оставя PEZ relic и breadcrumbs/notes, насочващи Juliette. | Direct observation | H | Intentional trail. |
+| E049 | George търси door, показан на drawing, в края на short tunnel в lower construction zone. | Character testimony | H | Вероятна blueprint relation; identity не е direct-confirmed. |
+| E050 | George оставя message, че е намерил това, което търси. | Character message | H | Подкрепя door-found hypothesis, но не passage/opening. |
+| E051 | Juliette премълчава пред law enforcement, че George е казал, че го е намерил. | Direct action | H | Selective information withholding. |
+| E052 | Juliette се страхува от water; reported door area е свързана с flooded lower zone. | Character fact + environment | H | Обяснява barrier. |
+| E053 | Juliette напуска flooded bottom, без лично да verify-не reported door. | Direct observation | H | H13 остава unverified. |
+| E054 | Level 9 и Level 12 са директно показани. | Visual evidence | VH | Upper-level anchors. |
+| E055 | Judicial entrance се появява в adjacent sequence с Level 14 marker. | Visual sequence / inference | H | Силно подкрепя Judicial на/около 14. |
+| E056 | Level 50 е в Mids. | Direct visual / dialogue | H | Spatial anchor. |
+| E057 | Level 50 съдържа medical/neonatal infrastructure; бащата на Juliette е doctor там. | Direct observation / character fact | H | Mids family background. |
+| E058 | Почти 100 levels separation прави посещенията father↔Mechanical практически невъзможни в рамките на един day off. | Character testimony / consequence | H | Direct social-separation evidence. |
+| E059 | Съществува голям indoor green communal area с restaurant/seating. | Direct visual evidence | H | Не е само industrial bunker. |
+| E060 | Bernard/IT се противопоставя Juliette да стане Sheriff и посочва insulation-tape theft. | Direct stance | H | Не е доказано formal veto. |
+| E061 | Suicide се третира като сериозно crime срещу Silo. | Institutional rule / dialogue | H | Отваря collective-life question. |
+| E062 | Homemade/unauthorized radio е строго забранено от Pact. | Institutional rule / dialogue | H | Independent communication restriction. |
+| E063 | Population е описано приблизително като 10,000. | Character / institutional testimony | H | Superseded по precision от E086, без contradiction. |
+| E064 | `SILOMAIL` показва Mayor-ordered planned 8-hour outage, започващ в 22:00. | Screenshot evidence | VH | Central messaging + mayoral operational authority. |
+| E065 | Energy chain е steam from below → turbine → generator → electricity. | Technical observation / dialogue | H | Operational chain е ясна. |
+| E066 | Mechanical personnel казват, че никой не знае exact origin на primary steam source. | Character testimony | H | Upstream infrastructure е извън knowledge на current operators. |
+| E067 | Generator/turbine е огромна centralized multi-level machine, отваряна за maintenance. | Direct visual evidence | VH | Critical infrastructure scale. |
+| E068 | По време на planned blackout normal lighting до голяма степен изчезва. | Direct visual evidence | H | Infrastructure dependency. |
+| E069 | По време на power-down public display за кратко показва lush exterior imagery. | Direct visual + screenshot | VH | Multiple visual states; reality не е authenticated. |
+| E070 | Mayor подкрепя/назначава Juliette въпреки opposition от Bernard. | Direct governance action | H | Formal succession step. |
+| E071 | Mayor умира след apparent deliberate attack/poisoning. | Direct event | H | Perpetrator/motive са неизвестни при S01E03 boundary. |
+| E072 | Майката на Juliette е била medical professional/worker; Juliette е имала брат. | Family-history evidence | H | Exact maternal medical role е unspecified. |
+| E073 | Juliette обвинява баща си за загубата на майка и брат и свързва rupture с преместването си в Mechanical. | Character testimony / motivation | H | Доказва perspective/motive на Juliette, а не objective guilt на бащата. |
+| E074 | Judicial се противопоставя Juliette да стане Sheriff и предпочита друг/preferred candidate. | Direct governance stance | H | Sheriff succession = institutional power contest. |
+| E075 | Deputy Sheriff Marnes умира при suspicious circumstances. | Direct event | M | S01E05 по-късно третира death като murder investigation. |
+| E076 | Juliette намира official file/dossier на George Wilkins. | Direct investigation event | H | Позволява comparison official record vs independent evidence. |
+| E077 | Public exterior display е показан в normal night state с dark exterior/tree/star-like points. | Direct visual evidence | H | Dynamic day/night state; не е live-feed proof. |
+| E078 | S01E04 spatial sequence укрепва model Level 1/Up-top Sheriff + airlock complex. | Visual/spatial inference | M | Strong model, не floor-plan confirmation. |
+| E079 | New-occupant notice насочва unwanted previous-tenant items към recycling за proper redistribution. | Direct screenshot evidence | VH | Circular reuse/redistribution; ownership regime е неизвестен. |
+| E080 | Juliette вижда, че institutional dossier съдържа content от разговора ѝ с Holston за watch. | Direct observation / dossier evidence | H | Strong content-level surveillance/reporting evidence; exact mechanism е неизвестен. |
+| E081 | Смъртта на Marnes се разследва като murder и Juliette трябва да я разследва като Sheriff. | Direct dialogue / investigation fact | H | Upgrade-ва S01E04 suspicious-death status. |
+| E082 | След Marnes Deputy, preferred/aligned с opposing institutional line, е назначен при Juliette. | Governance action / dialogue context | H | Strengthen-ва H23; не доказва murder motive. |
+| E083 | Sketch на Mayor липсва по време на investigation. | Direct investigation observation | H | Potential removed evidence/object. |
+| E084 | Sims директно обвинява Juliette за смъртта на Marnes. | Character accusation | H | Доказва stance/pressure, а не responsibility на Juliette. |
+| E085 | По-рано видяното indoor garden/green communal area се използва за funerals/memorial/burial ritual. | Direct observation | H | Добавя funerary function; няма biological recycling inference. |
+| E086 | Bernard заявява current Silo population **10,112 residents**. | Institutional/direct dialogue claim | H | Най-прецизният current official population figure досега. |
+| E087 | Level 27 marker е директно видим. | Screenshot evidence | VH | Само spatial anchor. |
+| E088 | Juliette споменава **The Syndrome** като in-world condition/term. | Direct dialogue | H | Nature, symptoms, cause и prevalence са неизвестни. |
+| E089 | Level 29 marker е директно видим. | Screenshot evidence | VH | Spatial anchor. |
+| E090 | За новия Deputy е казано/contextually established, че живее няколко levels под Level 29. | Dialogue/context | M | Exact home level е неизвестен; няма връзка с Level 27 marker. |
+| E091 | Rat poison и missing Mayor sketch са намерени при Patrick Kennedy. | Direct investigation evidence | H | Първоначално incriminating, по-късно reliability е compromised от E093. |
+| E092 | Judicial демонстрира capacity да води/участва в investigation паралелно на Sheriff's Department. | Direct governance/investigative behavior | H | Exact formal legal scope остава неизвестен. |
+| E093 | Juliette директно хваща Douglas Trumbull, Judicial-associated operative, да manipulate/plant-ва evidence. | Direct observation | VH | Direct proof за evidence manipulation в active case. |
+| E094 | След като е разкрит, Trumbull се опитва да убие Juliette, като я хвърли/бута от stairs. | Direct observation | VH | Демонстрира lethal operational behavior. |
+| E095 | Sims лично убива Trumbull. | Direct observation | VH | Critical command/cleanup datapoint. |
+| E096 | Investigative/institutional resolution на епизода идентифицира Trumbull като отговорен за убийствата на Mayor и Marnes и за framing на Patrick. | Character/institutional conclusion | M-H | Не е equivalent на independent confession/forensic proof; Trumbull не може да бъде questioned. |
+| E097 | Sims съзнателно представя смъртта на Trumbull като **suicide**, въпреки viewer-direct observation, че Sims го убива. | Direct observation + false institutional claim | VH | Първи confirmed case observed-event ≠ official-account. |
+| E098 | Judge formally затваря case след narrative за Trumbull. | Direct governance action | H | Демонстрира Judicial case-finalization power. |
+| E099 | Cafeteria observer вижда night-sky lights, но не знае/не ги идентифицира като stars. | Direct dialogue / knowledge-state evidence | H | Concrete lost-astronomy knowledge datapoint. |
+| E100 | Observer разпознава W/zig-zag-like pattern и записва movement/distance приблизително през 30-day intervals. | Direct observation + screenshot | VH | Systematic longitudinal observation. |
+| E101 | Night public display съдържа достатъчно systematic time-dependent celestial behavior за repeated measurement. | Inference from repeated observation | H | Не различава live, processed, prerecorded или synthetic sky. |
+| E102 | Level 8 marker е директно видим. | Screenshot evidence | VH | Upper-level spatial anchor. |
+| E103 | Pact умишлено забранява mechanized movement/transport през Silo. | Character testimony about institutional rule | H | Потвърждава, че no-elevator condition е intentional policy/design constraint; reason е unknown. |
+| E104 | Pact забранява magnifying devices над specified/limited threshold. | Character testimony about institutional rule | H | Ограничава observation capability; target/rationale са unknown. |
+| E105 | Juliette умишлено търси bait/evidence/pretext за reopening на затворения George case. | Direct investigation motive / dialogue | H | Използва new Sheriff authority към formal reopening. |
+| E106 | Това търсене на reopening hook мотивира Juliette да се върне в hidden sub-Silo construction/excavation area. | Direct action + motive context | H | Свързва official investigation с hidden layer. |
+| E107 | В края на епизода Juliette взема George-associated PEZ dispenser relic като evidence hook/bait. | Direct observation | VH | Само по себе си не доказва murder на George. |
 
 | E108 | Намереният PEZ-like relic влиза в official Sheriff/law-enforcement handling flow след като е намерен от new Deputy. | Direct observation / investigation event | H | Strongly supports intended bait effect; exact placement action остава inference. |
 | E109 | Sheriff object-search interface няма known object name и описва relic-а физически като `YELLOW, PLASTIC, BLUE HANDLE`. | Direct visual evidence | VH | Показва липса на normal object identity/name в ordinary law-enforcement lookup context. |
