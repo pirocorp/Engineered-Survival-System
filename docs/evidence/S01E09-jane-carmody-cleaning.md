@@ -17,7 +17,7 @@ S01E01 E014 установи:
 Това създава critical knowledge-state transition:
 
 ```text
-viewer/project knows Jane Carmody lush footage
+viewer/project знае за lush footage на Jane Carmody
                  │
                  ▼
 Juliette reaches hard-drive content
@@ -26,7 +26,7 @@ Juliette reaches hard-drive content
 Juliette opens JANE CARMODY CLEANING
                  │
                  ▼
-major viewer-side evidence becomes protagonist-side evidence
+важно viewer-side evidence се превръща в protagonist-side evidence
 ```
 
 ## Hypothesis impact
