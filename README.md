@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S03E02 memory-control model-ът е refactored от „erasure“ към retrieval suppression/blocking + narrative conditioning: pre-Silo treatment може selective да restore/omit memories, да reinforce-ва autobiographical story и да внушава false replacement narrative, докато real memories остават налични и могат да се върнат. Computer/system-ът вече demonstrably моделира Juliette чрез risk-vs-stabilizing-value threshold и планира population-scale `vitamins` intervention през water supply преди евентуалното ѝ removal.**
+> **След S03E03 supervisory computer/system-ът вече не е само assessment layer: той свързва memory suppression със survival/stability, налага explicit cross-Silo isolation чрез immediate safeguard, избира Camille Sims заради способността ѝ да лъже и я убеждава да убие Juliette. Паралелно Lukas е намерен жив в mine sector-а, а pre-Silo Iran line вече има реален surviving mission recording, след което holder-ът му изчезва и мястото е претърсено.**
 
 ## Език на проекта
 
@@ -29,17 +29,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S03E02**
+**Текуща граница на знанието:** **S03E03**
 
-**Статус на гледане:** **Season 3 — S03E02 завършен**
+**Статус на гледане:** **Season 3 — S03E03 завършен**
 
-Не се използва никаква информация след S03E01, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация след S03E03, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S03E01 най-силният работен модел е:
+След S03E03 най-силният работен модел е:
 
-> **Silo system вече се моделира като layered survival/control architecture, в която local governance/IT/surveillance layer е наблюдаван или направляван от по-висок context-aware computer/system. Memory suppression е active operational tool, safeguard остава physically blockable kill system, а exact identity на supervisory layer остава unresolved.**
+> **Silo system се моделира като layered survival/control architecture, в която supervisory computer/system не само наблюдава, а оценява, убеждава и task-ва human execution layer. Memory suppression е population-level stability actuator; cross-Silo contact е explicit immediate-safeguard violation; deception е embedded Head-of-IT competency; exact system identity/objective и long-term program goal остават unresolved.**
 
 Ключови установени линии:
 
@@ -50,7 +50,7 @@
 - S01E05 показва systematic/time-dependent star-like movement на night display-а;
 - observer в cafeteria не знае concept-а „stars“ и сам reconstruct-ва movement patterns;
 - Silo има **144 levels** и Bernard заявява **10 112 current residents**;
-- observed direct level anchors вече включват `1, 8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 67, 87, 119, 120, 123, 144`;
+- observed direct level anchors вече включват `1, 8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 67, 70, 87, 119, 120, 123, 124, 144`;
 - Pact deliberately забранява mechanized transport през Silo;
 - Pact забранява magnifying devices над определен threshold;
 - Juliette dossier съдържа content от разговора ѝ с Holston → strong hidden-surveillance/reporting evidence;
@@ -658,6 +658,7 @@ analysis/S02E09-hidden-lower-system
 analysis/S02E10-safeguard-presilo-washington
 analysis/S03E01-memory-control-supervisory-system
 analysis/S03E02-memory-retrieval-population-control
+analysis/S03E03-safeguard-isolation-deception
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -667,4 +668,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S03E03`
+**Следваща knowledge boundary:** `S03E04`
