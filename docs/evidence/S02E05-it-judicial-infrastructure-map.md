@@ -4,7 +4,7 @@
 
 Новооткрита Silo schematic показва lines/connections, свързани в scene context едновременно с **IT** и **Judicial**.
 
-## Direct evidence boundary
+## Директни доказателства boundary
 
 Изображението не е достатъчно sharp, за да установи:
 - line type;
