@@ -19,7 +19,7 @@
 | Evidence | File | Bytes | Git blob SHA | Purpose |
 |---|---|---:|---|---|
 | E185 | `screenshots/silo-agricultural-levels-wide.jpeg` | 349183 | `e4f99c170440a010d6c59b4cec27235db4836680` | Голяма internal agricultural zone между Silo levels. |
-| E186 | `screenshots/rebellion-anti-founders-graffiti.jpeg` | 482211 | `e8f084090b9aa07873e3f8fa2b1ce2a0ab336fb6` | Rebellion-era anti-Founder / anti-deception graffiti. |
+| E186 | `screenshots/rebellion-anti-founders-graffiti.jpeg` | 482211 | `e8f084090b9aa07873e3f8fa2b1ce2a0ab336fb6` | Anti-Founder / anti-deception graffiti от периода на Rebellion. |
 | E187 | `screenshots/rebellion-generator-15min-note.jpeg` | 321999 | `5356c8360001744336748e0eee699a176a11a4d2` | Писмен 15-minute ultimatum/message, свързан с generator. |
 | E189 | `screenshots/other-silo-it-battle-bridge.jpeg` | 473719 | `51c7340266d2a68cad0a30d028a4253098d1643b` | Armed confrontation при IT bridge/chokepoint на другия Silo. |
 | E193 | `screenshots/sheriff-group-exits-outside.jpeg` | 266625 | `983255bfb121b48f657d299a8fec89ab7f551a40` | Група, водена от Sheriff, излиза през airlock навън. |
