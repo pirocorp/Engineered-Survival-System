@@ -27,7 +27,7 @@ cleaner mortality
     interacting with exterior hazard
 
 mass-exit mortality
-  = direct exposure to a real mobile airborne/dust-borne hazard
+  = пряко излагане на реален подвижен airborne/dust-borne hazard
 ```
 
 Exact cleaner failure path остава unresolved:
