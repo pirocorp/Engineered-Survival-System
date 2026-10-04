@@ -589,7 +589,7 @@ outside environmental hazard remains independently lethal
 
 - Mayor и Sims координират trap за Juliette.
 - Те твърдят, че Juliette е казала, че иска да излезе навън.
-- В scene context присъстват само Juliette, Mayor и Sims; не е established independent witness.
+- В контекста на сцената присъстват само Juliette, Mayor и Sims; не е установен независим свидетел.
 - Juliette е арестувана на основата на този claim.
 - Това демонстрира, че правилото “want to go out” може да бъде weaponized, ако officials контролират testimony дали фразата е била произнесена.
 
@@ -597,7 +597,7 @@ outside environmental hazard remains independently lethal
 
 - Bernard/IT заявява, че Judge Meadows се страхува от него.
 - Това е direct evidence за **claim-а на Bernard**, а не independent proof за hierarchy.
-- Комбинирано с Judge surveillance, това подкрепя нов candidate model, че IT/Bernard може да има hidden leverage извън simple formal Judicial hierarchy.
+- Комбинирано с наблюдението над Judge, това подкрепя нов кандидат-модел, че IT/Bernard може да има скрито влияние извън простата формална йерархия на Judicial.
 
 ### Surveillance / hidden control layer
 
@@ -628,25 +628,25 @@ outside environmental hazard remains independently lethal
 - Exact relationship Flamekeepers ↔ Rebels/Rebellion не е established.
 - Historical testimony заявява, че нещо е било добавено във водата, за да suppress/erase-ва memories.
 - Същият account поставя това преди Rebellion.
-- S02E03 независимо установява current institutional drug, предлаган изрично **за да накара човек да забрави**; дали това е същият agent/family като historical water-based claim остава unresolved.
+- S02E03 независимо установява текущо институционално лекарство, предлагано изрично **за да накара човек да забрави**; дали това е същият агент/семейство вещества като историческото твърдение за водата остава неустановено.
 
 ### Relics / archives / Legacy
 
 - S01E06 вече потвърди restricted Judicial relic database с `PRE-SILO` archival records.
 - S01E07 testimony дава причина защо relics са важни: те запазват continuity с pre-Silo history.
-- Claim-ът, че relic prohibition служи за deliberate historical erasure, е testimony-backed и силно consistent с observed restricted-knowledge architecture.
+- Твърдението, че забраната на реликви служи за умишлено историческо заличаване, е подкрепено от свидетелство и е силно съвместимо с наблюдаваната архитектура за ограничаване на знанието.
 - Georgia guide има Flamekeeper preservation provenance, но не установява Silo location.
 - S02E07 директно разкрива `Legacy`, protected library/knowledge archive вътре в IT vault.
-- `Legacy` дава concrete mechanism за preserving на privileged historical/technical knowledge, докато ordinary public knowledge остава restricted или lost.
-- Exact catalog, curation rules, media types и дали records са complete/edited остават unresolved.
+- `Legacy` дава конкретен механизъм за съхраняване на привилегировано историческо/техническо знание, докато обикновеното публично знание остава ограничено или изгубено.
+- Точният каталог, правилата за подбор, типовете носители и дали записите са пълни/редактирани остават неустановени.
 
 ### Reproductive control
 
 - Allison физически намира retained contraceptive implant в S01E01.
 - Бащата на Juliette вече лично признава, че е лъгал patients, че implants са премахнати, докато ги е оставял на място.
-- Следователно covert implant-removal deception mechanism е independently corroborated и confirmed.
+- Следователно скритият измамен механизъм с премахването на импланти е независимо потвърден.
 - S02E03 допълнително разкрива formal `CODE SILO ORANGE` instructions: birth control трябва да остане на място, докато patient трябва да вярва, че е премахнат.
-- Historical testimony казва, че тази system е използвана за suppress-ване на Flamekeeper/descendant family lines.
+- Историческото свидетелство казва, че тази система е използвана за потискане на семейните линии на Flamekeepers/техните потомци.
 - Бащата на Juliette казва, че „had no choice“; това е негово self-justification, а не independent proof за coercion.
 - Juliette по-рано е вярвала, че той е предал майка ѝ; S01E08 mirror-surveillance realization supersede-ва father-as-informant като необходимо обяснение за discovery на microscope.
 
@@ -675,7 +675,7 @@ Observed direct anchors включват:
 - Level 119 е direct-confirmed в S02E04.
 - Level 120 е direct-confirmed в S02E06.
 - Level 123 е direct-confirmed в S02E10.
-- Level 144 / bottom е established чрез S01E10 scene context и съдържа major ventilation / air-handling infrastructure.
+- Level 144 / дъното е установено чрез контекста на S01E10 и съдържа значителна вентилационна / air-handling инфраструктура.
 - От Level 23, Level 26, Level 30, Level 55, Level 119 или Level 120 markers сами по себе си не се infer-ва special function.
 
 ### Exterior / architecture / energy — resolved core след S01E10
@@ -696,7 +696,7 @@ Observed direct anchors включват:
 - S02E05 survivor testimony също поставя critical pump на Level 144 в Silo 17; унищожаването ѝ по време на rebellion причинява flooding cascade, която в крайна сметка disable-ва main generator.
 - IT в Silo 17 запазва independent power path след normal generator failure и може да е способно да energize-ва recovery pump.
 - S02E07 независимо показва IT в Silo 18 да остава powered при general blackout, което силно подкрепя standardized IT continuity power поне в Silos 17 и 18.
-- Exact source equivalence остава unresolved: Silo 17 е описан с external/outside power; Silo 18 към момента доказва само functional redundancy/independence.
+- Точното съответствие на източника остава неустановено: Silo 17 е описан с външно захранване; Silo 18 към момента доказва само функционална резервираност/независимост.
 - Pact забранява mechanized vertical transport и high-magnification devices над определен threshold.
 
 ---
@@ -710,32 +710,32 @@ Observed direct anchors включват:
 | H2 | Зелената гледка за cleaners е обективно реална. | VL | Rejected |
 | H3 | Barren exterior е в значителна степен реален, а lush cleaner view е false overlay/simulation-like layer. | VH | Confirmed |
 | H4 | Cleaning поведението е engineered поне частично чрез false lush perception, показвана на cleaners. | VH | Strongly Strengthened |
-| H5 | Silo използва formally encoded covert reproductive control: `CODE SILO ORANGE` инструктира staff да запази birth control, като гарантира, че patient вярва, че е премахнат. | VH | Confirmed / Refactored |
-| H6 | Control architecture на Silo умишлено ограничава knowledge чрез public suppression, capability limits и **intra-authority compartmentalization**; Bernard може да скрива classified cleaning truth дори от Sims/control-room personnel. | VH | Strongly Strengthened / Refactored |
-| H7 | Официалният Rebellion-centered account за загубата на historical knowledge е умишлено false/misleading: Bernard казва, че Quinn нарочно е изтрил public historical continuity, а загубата е приписана на rebels. | VH | Strongly Strengthened / Refactored |
-| H8 | Covert surveillance architecture използва concealed mirror cameras, archived feeds и privileged live exterior video channel, свързан с Juliette; Sims има operational command върху ordinary surveillance, докато Bernard/IT има higher classified access. | VH | Confirmed / Refactored |
+| H5 | Silo използва формално кодиран скрит репродуктивен контрол: `CODE SILO ORANGE` инструктира персонала да запази контрацептивния имплант, като гарантира, че пациентът вярва, че е премахнат. | VH | Confirmed / Refactored |
+| H6 | Архитектурата за контрол на Silo умишлено ограничава знанието чрез публично потискане, ограничения на способностите и **compartmentalization между властови звена**; Bernard може да скрива класифицираната истина за cleaning дори от Sims/персонала в control room. | VH | Strongly Strengthened / Refactored |
+| H7 | Официалният разказ, центриран върху Rebellion, за загубата на историческото знание е умишлено неверен/подвеждащ: Bernard казва, че Quinn нарочно е изтрил публичната историческа приемственост, а загубата е приписана на бунтовниците. | VH | Strongly Strengthened / Refactored |
+| H8 | Скритата архитектура за наблюдение използва камери в огледалата, архивирани feeds и привилегирован live video канал от външната среда, свързан с Juliette; Sims има оперативно командване върху обикновеното наблюдение, докато Bernard/IT има по-висок класифициран достъп. | VH | Confirmed / Refactored |
 | H9 | George Wilkins може да е бил убит. | L | Active |
-| H10 | Multiple Silo installations образуват по-голяма system; Quinn и Silo 17 testimony дават 50, докато Bernard казва real count 51. | VH / H-VH | Confirmed / Refactored; counting model unresolved |
-| H11 | Classified lower tunnel води към undisclosed active lower/internal system; physical tunnel и context-aware contact са директно observed. | H-VH | Strongly Strengthened / Refactored |
-| H12 | Pact-forbidden tunnel system вероятно е същата структура или е пряко свързана с `CLASSIFIED` tunnel от HDD 18 и Quinn's bottom tunnel. | H | Strongly Strengthened; exact identity unproven |
-| H13 | George е достигнал hidden lower contact point при bottom/tunnel layer. | VH | Confirmed / Refactored |
-| H14 | Outside environmental hazard е independently real и е отделен от `the safeguard`; Silo 17 block на internal poison mechanism обяснява как population може да достигне exterior alive, докато local hazard variation продължава да влияе на survival outside. | VH | Strongly Strengthened / Refactored |
+| H10 | Множество Silo инсталации образуват по-голяма система; Quinn и свидетелството от Silo 17 дават 50, докато Bernard казва реален брой 51. | VH / H-VH | Confirmed / Refactored; counting model unresolved |
+| H11 | Класифицираният долен тунел води към неразкрита активна долна/вътрешна система; физическият тунел и контекстно осъзнатият контакт са директно наблюдавани. | H-VH | Strongly Strengthened / Refactored |
+| H12 | Забранената от Pact тунелна система вероятно е същата структура или е пряко свързана с `CLASSIFIED` тунела от HDD 18 и долния тунел на Quinn. | H | Strongly Strengthened; exact identity unproven |
+| H13 | George е достигнал скритата долна контактна точка при слоя дъно/тунел. | VH | Confirmed / Refactored |
+| H14 | Външната опасност в средата е независимо реална и е отделена от `the safeguard`; блокирането в Silo 17 на вътрешния механизъм за отрова обяснява как населението може да достигне живо до външната среда, докато локалните вариации на опасността продължават да влияят на оцеляването навън. | VH | Strongly Strengthened / Refactored |
 | H15 | Prior model: `SILO YEAR 96/97` и mayor journals използват един simple post-Rebellion calendar. S02E03 `116 A.R.` + ~200-year Jane statement на Bernard правят този mapping unsafe. | L | Weakened / Requires Refactor |
-| H16 | Current order използва concealed/hidden infrastructure и умишлено държи selected spaces/layers извън normal access. | H | Strengthened |
+| H16 | Текущият ред използва скрита инфраструктура и умишлено държи избрани пространства/слоеве извън нормалния достъп. | H | Strengthened |
 | H17 | Sims/Judicial-associated network има coercive/investigative capability, lethal enforcement, narrative control, privileged relic access и direct surveillance command. | VH | Strengthened |
 | H18 | Silo умишлено запазва slow human-powered vertical movement; това поддържа de facto social separation. | VH | Strengthened |
 | H19 | Suicide law отразява collective claim върху individual life/resource. | M | Active |
-| H20 | Communication control се моделира по-добре като selective access до channels/technology: institutional digital messaging съществува, physical couriers остават parallel layer, а radio може да бъде centrally cut от IT. | H | Strengthened / Refactored |
+| H20 | Контролът на комуникациите се моделира по-добре като избирателен достъп до канали/технологии: институционалното digital messaging съществува, физическите куриери остават паралелен слой, а радиото може да бъде централизирано прекъснато от IT. | H | Strengthened / Refactored |
 | H21 | Violence around Mayor/Sheriff leadership може да е свързано с appointment/control conflict около Juliette. | M | Strengthened |
 | H22 | Silo зависи от deeper legacy energy infrastructure, която current operators не разбират напълно. | H | Active |
 | H23 | Sheriff succession/staffing е institutional power contest; S01E08 показва coordinated coercive action на Mayor/Sims директно срещу Sheriff Juliette. | H | Strongly Strengthened |
 | H24 | Silo поддържа centralized circular resource economy с recycling/redistribution на durable goods. | H | Active |
-| H25 | Control/Judicial-associated actors могат да manipulate-ват evidence/events, да fabricate-ват culpability narratives или legal predicates и да използват institutional coercion или lethal violence за desired outcome; S02E04 добавя staged Meadows framing operation на Bernard. | VH | Strongly Strengthened / Refactored |
+| H25 | Свързани с Control/Judicial участници могат да манипулират evidence/събития, да фабрикуват разкази за виновност или правни предпоставки и да използват институционална принуда или смъртоносно насилие за желан резултат; S02E04 добавя инсценираната от Bernard операция за натопяване около Meadows. | VH | Strongly Strengthened / Refactored |
 | H26 | Bernard има higher classified IT access и може да отстранява/reassign-ва Sims между formal roles; Sims все още има substantial independent political/operational leverage. Hierarchy е overlapping, но Bernard demonstrably контролира access до shadow succession path. | VH | Strongly Strengthened / Refactored |
 | H27 | Pact ограничава physical capabilities за independent movement и observation/discovery, включително scientific/biomedical microscopy, а не само content. | H | Strongly Strengthened |
-| H28 | Investigation на George и path на Juliette към hidden history са свързани чрез intergenerational Flamekeeper network. | H | Strongly Strengthened / Refactored |
-| H29 | Georgia има повтаряща се pre-Silo significance: S01E06 Georgia relic + S02E10 Congressman from Georgia's 15th district. Това strengthen-ва geographic/narrative connection, но не locates Silo system в Georgia. | M | Strengthened / Candidate |
-| H30 | Silo разполага с pharmacological memory-suppression capability, а Quinn исторически използва prolonged waterborne dosing като част от deliberate public historical-memory reset; exact relation към current S02E03 forgetfulness drug остава unresolved. | VH | Strongly Strengthened / Refactored |
+| H28 | Разследването на George и пътят на Juliette към скритата история са свързани чрез междупоколенческа Flamekeeper мрежа. | H | Strongly Strengthened / Refactored |
+| H29 | Georgia има повтарящо се pre-Silo значение: S01E06 Georgia реликва + S02E10 конгресмен от 15-и конгресен окръг на Georgia. Това засилва географската/сюжетната връзка, но не локализира системата на Silos в Georgia. | M | Strengthened / Candidate |
+| H30 | Silo разполага с фармакологична способност за потискане на паметта, а Quinn исторически използва продължително дозиране чрез водата като част от умишлен reset на публичната историческа памет; точната връзка с текущото S02E03 лекарство за забравяне остава неустановена. | VH | Strongly Strengthened / Refactored |
 | H31 | Reproductive selection е използван за selective lineage suppression срещу Flamekeeper / knowledge-preserving family lines. | H | Active |
 | H32 | Flamekeeper knowledge/history оцелява чрез family/social networks и intergenerational transfer на relics. | H | Active |
 | H33 | Privileged hidden-control/read-in layer, centered on Bernard/IT, контролира classified knowledge и вече demonstrably включва communications-control capability; ролята `shadow` остава distinct succession/read-in path, отделен от public Judge office. | VH | Strongly Strengthened / Refactored |
