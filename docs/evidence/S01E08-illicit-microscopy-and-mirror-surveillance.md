@@ -4,11 +4,11 @@
 
 ## Evidence
 
-- Juliette’s mother built/used a homemade microscope-like magnification device.
-- She used it for independent medical/scientific investigation involving a rabbit with a heart problem presented as analogous to Jacob’s.
-- A restricted-access institutional record corroborates authority attention to magnification-device activity.
-- S01E07 already established concealed mirror cameras and centralized surveillance.
-- In S01E08 Juliette connects that mechanism to her mother and revises her earlier belief that her father necessarily informed authorities.
+- Майката на Juliette е построила/използвала homemade microscope-like magnification device.
+- Използвала го е за independent medical/scientific investigation със заек със сърдечен проблем, представен като аналогичен на този на Jacob.
+- Restricted-access institutional record corroborate-ва authority attention към magnification-device activity.
+- S01E07 вече установи concealed mirror cameras и centralized surveillance.
+- В S01E08 Juliette свързва този механизъм с майка си и ревизира по-ранното си убеждение, че баща ѝ непременно е информирал authorities.
 
 ## Evidence chain
 
@@ -19,12 +19,12 @@ Pact restricts high magnification
 mother builds independent optical tool
           │
           ▼
-biomedical investigation becomes possible
+biomedical investigation става възможно
           │
           ├──────────────► restricted institutional record
           │
           ▼
-mirror surveillance provides discovery mechanism
+mirror surveillance предоставя механизъм за откриване
 ```
 
 ## Impact
@@ -32,21 +32,21 @@ mirror surveillance provides discovery mechanism
 ### H27
 `M → H / Strongly Strengthened`
 
-The ban now has a concrete capability consequence: it can prevent residents from independently observing biological detail and pursuing biomedical questions.
+Забраната вече има concrete capability consequence: може да попречи на residents independently да наблюдават biological detail и да изследват biomedical questions.
 
 ### H6
-Remains `VH`, broadened from preservation/access control toward **knowledge-generation control**.
+Остава `VH`, broadened от preservation/access control към **knowledge-generation control**.
 
 ### E144 revision
-Juliette’s S01E07 father-betrayal belief is retained as historical character state, but S01E08 provides and foregrounds an independently established alternative mechanism. Father-as-informant is no longer necessary for the microscope discovery.
+S01E07 belief-ът на Juliette, че баща ѝ е предал майка ѝ, се запазва като historical character state, но S01E08 предоставя и foreground-ва independently established alternative mechanism. Father-as-informant вече не е необходим за откриването на microscope-а.
 
 ## Boundaries
 
-- no exact optical power is inferred;
-- no genetic/hereditary cause for Jacob’s heart problem is inferred;
-- no link to The Syndrome is inferred;
-- we do not claim the magnification ban was created specifically to stop biomedical research;
-- the restricted record is not over-transcribed where text is blurred.
+- не се извежда точна optical power;
+- не се извежда genetic/hereditary cause за сърдечния проблем на Jacob;
+- не се извежда връзка с The Syndrome;
+- не твърдим, че magnification ban е създадена конкретно за спиране на biomedical research;
+- restricted record не се over-transcribe-ва там, където текстът е замъглен.
 
 ## Visual evidence
 

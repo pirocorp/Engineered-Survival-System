@@ -4,17 +4,17 @@
 
 ## Flamekeepers
 
-S01E07 introduces Flamekeepers through historical testimony as a group that attempted to preserve history/knowledge against systematic erasure.
+S01E07 представя Flamekeepers чрез historical testimony като група, която се е опитвала да съхрани history/knowledge срещу systematic erasure.
 
-They preserved old objects/relics as physical carriers of memory.
+Те са запазвали стари objects/relics като физически carriers of memory.
 
-**Important:** our current evidence does not directly establish `Flamekeepers = Rebels`. Their relationship to the Rebellion remains open.
+**Важно:** текущият ни evidence не установява директно `Flamekeepers = Rebels`. Връзката им с Rebellion остава open.
 
 ## Relics
 
-Episode testimony explicitly connects preservation of relics with preservation of historical memory.
+Episode testimony изрично свързва preservation на relics с preservation на historical memory.
 
-This reframes relic control:
+Това refactor-ва relic control:
 
 ```text
 relic
@@ -26,21 +26,21 @@ names / geography / technology / culture
 historical continuity
 ```
 
-The claim that relics were prohibited in order to erase history is treated as **historical/character testimony**, not independent institutional documentation.
+Твърдението, че relics са били забранени с цел изтриване на history, се третира като **historical/character testimony**, а не като independent institutional documentation.
 
 ## Water / memory suppression
 
-Historical testimony states that something was added to the water to suppress/erase memories and that this practice predates the Rebellion.
+Historical testimony заявява, че във водата е било добавяно нещо за suppress/erase на memories и че тази практика предхожда Rebellion.
 
-### If accurate, this implies
+### Ако е точно, това означава
 
-- historical amnesia was engineered before the Rebellion;
-- the Rebellion cannot be the sole origin of historical discontinuity;
-- the official Rebellion-centered destruction narrative is incomplete.
+- historical amnesia е била engineered преди Rebellion;
+- Rebellion не може да е единственият origin на historical discontinuity;
+- official Rebellion-centered destruction narrative е непълна.
 
 ### Not independently established
 
-- substance identity;
+- identity на substance;
 - biological mechanism;
 - dosage;
 - population coverage;
@@ -50,15 +50,15 @@ Historical testimony states that something was added to the water to suppress/er
 
 ## H30 — NEW
 
-> **Intentional population memory suppression through the water system was a pre-Rebellion control mechanism.**
+> **Умишлено population memory suppression чрез water system е било pre-Rebellion control mechanism.**
 
 **Confidence:** M  
 **Status:** Active
 
-This remains testimony-driven until independently corroborated.
+Това остава testimony-driven, докато не бъде independently corroborated.
 
 ## H6 / H7 impact
 
-H6 remains VH but broadens from restricted knowledge access toward a multi-layer historical-erasure architecture.
+H6 остава VH, но се broaden-ва от restricted knowledge access към multi-layer historical-erasure architecture.
 
-H7 strengthens because the emerging account places organized erasure before the Rebellion, while the official story centers destruction on rebels.
+H7 се укрепва, защото emerging account поставя organized erasure преди Rebellion, докато official story центрира destruction върху rebels.

@@ -4,19 +4,19 @@
 
 ## Current direct evidence
 
-Bernard asks Sims what happened to personnel exposed to Juliette's classified broadcast.
+Bernard пита Sims какво се е случило с personnel, exposed на classified broadcast на Juliette.
 
-Sims reports that medication was administered, presented as sedatives.
+Sims съобщава, че е приложена medication, представена като sedatives.
 
-Later, Sims explicitly offers medication to another person **so that the person can forget**.
+По-късно Sims изрично предлага medication на друг човек **за да може човекът да forget-не**.
 
 ## H30 refactor
 
-Previous H30 relied primarily on historical testimony that memory suppression had once been delivered through the water system.
+Previous H30 разчиташе основно на historical testimony, че memory suppression някога е било доставяно чрез water system.
 
-S02E03 adds current institutional capability:
+S02E03 добавя current institutional capability:
 
-> authorities possess/use medication with an explicit forgetting purpose.
+> authorities притежават/използват medication с explicit forgetting purpose.
 
 **Confidence:** VH  
 **Status:** Strongly Strengthened / Refactored
@@ -25,9 +25,9 @@ S02E03 adds current institutional capability:
 
 Still unresolved:
 - exact drug;
-- whether it erases memories or suppresses recall;
+- дали изтрива memories или suppress-ва recall;
 - duration;
 - reversibility;
 - side effects;
-- whether the historical water-based mechanism used the same substance;
-- whether "sedative" is a cover label, partial truth, or different formulation.
+- дали historical water-based mechanism е използвал същото substance;
+- дали "sedative" е cover label, partial truth или different formulation.

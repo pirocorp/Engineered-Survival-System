@@ -1,37 +1,37 @@
-# S02E06 — institutional digital messaging and communication tiers
+# S02E06 — institutional digital messaging и communication tiers
 
 **Knowledge boundary:** `S02E06`
 
 ## Direct evidence
 
-A Sheriff Department terminal visibly includes `DIRECT MESSAGING`.
+Terminal в Sheriff Department видимо включва `DIRECT MESSAGING`.
 
-Its inbox contains departmental and named senders, including examples from:
+Inbox-ът съдържа departmental и named senders, включително примери от:
 - IT;
 - Office of HR;
 - Mechanical;
 - individual named users.
 
-A second frame shows a real two-way conversation with a named contact.
+Втори frame показва реален two-way conversation с named contact.
 
-This establishes a functioning digital messaging system for at least some institutional users.
+Това установява функционираща digital messaging system поне за част от institutional users.
 
 ## What this changes
 
-Earlier courier use can no longer be explained simply as "the Silo has no digital messaging".
+По-ранното използване на couriers вече не може да се обяснява просто с "the Silo has no digital messaging".
 
-The current model is instead:
+Текущият model е:
 
 ```text
 physical couriers
     ↳ broad/general delivery
     ↳ can carry physical material
-    ↳ access not dependent on terminal entitlement
+    ↳ access не зависи от terminal entitlement
 
 institutional digital messaging
     ↳ departments + named users
     ↳ interactive two-way messages
-    ↳ endpoint/access population still unknown
+    ↳ endpoint/access population остава неизвестна
 
 radio
     ↳ operational voice traffic
@@ -40,26 +40,26 @@ radio
 
 ## H20 refactor
 
-**Prior direction:** inter-level communication is constrained into controlled channels.
+**Prior direction:** inter-level communication е ограничена в controlled channels.
 
-**After S02E06:** the constraint is better modeled as **selective access to communication technologies**, not absence of those technologies.
+**След S02E06:** constraint-ът се моделира по-добре като **selective access to communication technologies**, а не като липса на тези technologies.
 
-Ordinary-resident digital access remains unproven.
+Digital access за ordinary residents остава unproven.
 
 ## H56
 
-**The Silo uses multiple parallel communication tiers with different access and controllability: physical couriers, institutional digital messaging and radio.**
+**Silo използва multiple parallel communication tiers с различни access и controllability: physical couriers, institutional digital messaging и radio.**
 
 **Confidence:** H  
-**Status:** Strongly Strengthened / Refactored from prior communication-control model.
+**Status:** Strongly Strengthened / Refactored спрямо prior communication-control model.
 
 ## Open boundaries
 
 Do not yet assume:
-- every resident has a digital account;
-- every department has equal access;
-- digital messages are private;
-- IT automatically reads all messages;
-- couriers exist specifically to evade surveillance.
+- всеки resident има digital account;
+- всеки department има equal access;
+- digital messages са private;
+- IT автоматично чете всички messages;
+- couriers съществуват специално за evade-ване на surveillance.
 
-Those remain testable hypotheses.
+Това остават testable hypotheses.

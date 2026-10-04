@@ -2,18 +2,18 @@
 
 **Knowledge boundary:** `S02E07`
 
-S02E07 provides independent cross-Silo corroboration of IT continuity power.
+S02E07 дава independent cross-Silo corroboration на IT continuity power.
 
 ## E328
 
-During a general Silo 18 power outage, IT remains visibly lit/powered.
+По време на general Silo 18 power outage IT остава видимо lit/powered.
 
 **Class:** Direct observation + scene context  
 **Confidence:** VH.
 
 ## E329
 
-Residents explicitly notice that IT remains lit and question why.
+Residents изрично забелязват, че IT остава lit, и питат защо.
 
 **Class:** Direct dialogue / public observation  
 **Confidence:** VH.
@@ -32,30 +32,30 @@ general power outage
 IT remains powered
 ```
 
-This is strong evidence that continuity power for secured IT infrastructure is not unique to Silo 17.
+Това е силен evidence, че continuity power за secured IT infrastructure не е unique за Silo 17.
 
 ## H54 update
 
-**IT/vault infrastructure has a standardized continuity-power capability across at least Silos 17 and 18, allowing IT to remain powered when normal Silo power is unavailable.**
+**IT/vault infrastructure има standardized continuity-power capability поне в Silos 17 и 18, което позволява на IT да остане powered, когато normal Silo power не е available.**
 
 **Confidence:** VH  
 **Status:** Strongly Strengthened / Refactored.
 
 Important distinction:
 
-Silo 17 survivor testimony describes IT power as coming from an **external/outside source**.
+Survivor testimony от Silo 17 описва IT power като идващ от **external/outside source**.
 
-Silo 18 currently proves only the **functional independence/redundancy** of IT power. It does not yet prove:
-- the same external source;
+Silo 18 към момента доказва само **functional independence/redundancy** на IT power. Все още не доказва:
+- същия external source;
 - identical architecture;
 - identical capacity;
 - identical routing.
 
 ## Social/governance impact
 
-The power asymmetry is no longer hidden during blackout: residents can visibly observe that IT remains powered while normal areas are dark.
+Power asymmetry вече не е hidden по време на blackout: residents могат видимо да наблюдават, че IT остава powered, докато normal areas са dark.
 
-That can materially reinforce existing public suspicion of IT, especially alongside the anti-IT leaflet.
+Това може materially да strengthen-не existing public suspicion към IT, особено заедно с anti-IT leaflet.
 
 ## Visual
 

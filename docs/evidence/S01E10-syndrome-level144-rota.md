@@ -4,49 +4,49 @@
 
 ## The Syndrome
 
-An official `THE SYNDROME` notice is directly visible.
+Директно се вижда official notice `THE SYNDROME`.
 
-The small text is partially blurred, so the repo records only conservative symptom-level information:
+Дребният текст е частично замъглен, затова repo записва само conservative symptom-level information:
 - involuntary twitching / shaking;
 - progressive motor/pain-spasm language;
 - balance/movement impairment;
-- later cognitive / nervous-system impairment.
+- по-късно cognitive / nervous-system impairment.
 
-This provides official institutional corroboration that The Syndrome is treated as a recognized progressive condition.
+Това предоставя official institutional corroboration, че The Syndrome се третира като recognized progressive condition.
 
-Cause, diagnosis, treatment and prevalence remain unknown.
+Cause, diagnosis, treatment и prevalence остават unknown.
 
 Visual:
 - [The Syndrome notice](../../assets/S01E10/screenshots/syndrome-sign.png)
 
 ## Level 144 / bottom
 
-Scene context identifies the bottom as **Level 144**.
+Scene context идентифицира дъното като **Level 144**.
 
-The selected frame contains:
+Избраният frame съдържа:
 - large axial fans;
 - vertical vent/duct structures;
-- major air-handling / ventilation machinery.
+- основна air-handling / ventilation machinery.
 
-This supports a substantial environmental-control function at the bottom but not its exact scope or airflow direction.
+Това подкрепя значима environmental-control function в долната част, но не и точния ѝ scope или airflow direction.
 
 Visual:
 - [Level 144 ventilation infrastructure](../../assets/S01E10/screenshots/level-144-ventilation-infrastructure.png)
 
 ## Janitorial ROTA
 
-A `ROTA` board in the Janitorial closet visibly includes:
-- day;
+`ROTA` board в Janitorial closet видимо включва:
+- ден;
 - `LEVEL NO.`;
 - multiple time slots;
 - assigned names/initials.
 
-This proves centralized level-by-level scheduling.
+Това доказва centralized level-by-level scheduling.
 
-It does not by itself prove:
-- levels are surveillance targets;
-- listed staff are surveillance operators;
-- Janitorial is only a cover organization.
+Само по себе си не доказва:
+- че levels са surveillance targets;
+- че listed staff са surveillance operators;
+- че Janitorial е само cover organization.
 
 Visual:
 - [Janitorial ROTA](../../assets/S01E10/screenshots/janitorial-closet-rota.png)

@@ -1,17 +1,17 @@
-# S02E05 — Sims, Judge office and Bernard's shadow succession
+# S02E05 — Sims, Judge office и shadow succession на Bernard
 
 **Knowledge boundary:** `S02E05`
 
 ## Direct institutional changes
 
 Bernard:
-- removes Sims as Head of Security;
-- explicitly tells Sims he will **not** be Bernard's shadow;
-- appoints Sims as the new Judge.
+- отстранява Sims като Head of Security;
+- изрично казва на Sims, че **няма** да бъде shadow на Bernard;
+- назначава Sims за новия Judge.
 
 ## Governance implication
 
-S02E05 separates the public Judicial office from the hidden IT succession/read-in track.
+S02E05 разделя public Judicial office от hidden IT succession/read-in track.
 
 ```text
 formal/public power:
@@ -24,6 +24,6 @@ shadow
    ✕ Sims
 ```
 
-This strongly supports a layered hierarchy in which being Judge does not equal being admitted to Bernard's deepest classified succession path.
+Това силно подкрепя layered hierarchy, при която да си Judge не е равнозначно на access до най-дълбокия classified succession path на Bernard.
 
-Do not overstate this as "Judge is always a puppet". Meadows retained independent knowledge, preferences and choices. The stronger supported claim is that Bernard has substantial influence over occupancy of the office and can keep shadow succession separate from Judicial authority.
+Не преувеличаваме това до "Judge is always a puppet". Meadows запазва independent knowledge, preferences и choices. По-силно подкрепеният claim е, че Bernard има substantial influence върху occupancy на office и може да държи shadow succession отделно от Judicial authority.

@@ -4,18 +4,18 @@
 
 ## Family links
 
-Episode testimony establishes:
+Episode testimony установява:
 
-- George’s mother was a Flamekeeper;
-- Juliette’s mother was a Flamekeeper;
-- the two mothers knew each other;
-- they had a common business/work relationship.
+- майката на George е била Flamekeeper;
+- майката на Juliette е била Flamekeeper;
+- двете майки са се познавали;
+- имали са общ business/work relationship.
 
-This creates a direct intergenerational bridge between George and Juliette independent of their own later relationship.
+Това създава директна intergenerational bridge между George и Juliette, независима от по-късната им собствена връзка.
 
 ## Georgia book provenance
 
-The pre-Silo Georgia travel guide from S01E06 receives a more specific provenance chain:
+Pre-Silo Georgia travel guide от S01E06 получава по-конкретна provenance chain:
 
 ```text
 Gloria
@@ -27,28 +27,28 @@ preserved relic history
 Juliette
 ```
 
-The book therefore has stronger historical-preservation significance.
+Следователно книгата има по-силно historical-preservation значение.
 
-It still does **not** establish that the Silo is physically in Georgia.
+Това все още **не** установява, че Silo физически се намира в Georgia.
 
 ## H28 update
 
-> **George’s investigation and Juliette’s path into hidden history are connected to an intergenerational Flamekeeper network, not merely George’s individual use of relationships/capabilities.**
+> **Разследването на George и пътят на Juliette към hidden history са свързани с intergenerational Flamekeeper network, а не само с индивидуалното използване от George на relationships/capabilities.**
 
 **Confidence:** H  
 **Status:** Strongly Strengthened / Refactored
 
 ## H32 — NEW
 
-> **Flamekeeper knowledge/history survived through family/social networks and intergenerational transfer of relics.**
+> **Flamekeeper knowledge/history е оцеляло чрез family/social networks и intergenerational transfer на relics.**
 
 **Confidence:** H  
 **Status:** Active
 
 ## Open questions
 
-- What exactly was the mothers’ business/work?
-- Was it connected to Flamekeeper preservation activity?
-- What was Gloria’s exact role?
-- How much did George inherit knowingly vs discover independently?
-- Was Juliette’s family specifically targeted because of Flamekeeper lineage?
+- Какъв точно е бил business/work-ът на двете майки?
+- Бил ли е свързан с Flamekeeper preservation activity?
+- Каква е била точната роля на Gloria?
+- Колко от знанието George е наследил съзнателно и колко е открил independently?
+- Било ли е семейството на Juliette конкретно targeted заради Flamekeeper lineage?

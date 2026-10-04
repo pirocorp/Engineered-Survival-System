@@ -1,49 +1,49 @@
-# S02E02 — IT vault architecture and privileged governance layer
+# S02E02 — IT vault architecture и privileged governance layer
 
 **Knowledge boundary:** `S02E02`
 
 ## Repeated secured-IT architecture
 
-S02E01 established a heavy secured/vault-like IT compartment in the second Silo.
+S02E01 установи heavy secured/vault-like IT compartment във втория Silo.
 
-S02E02 shows Bernard at a heavy secured/vault-like IT door in Juliette's original Silo.
+S02E02 показва Bernard при heavy secured/vault-like IT door в original Silo на Juliette.
 
-This creates a repeated architectural pattern across at least two Silos.
+Това създава repeated architectural pattern поне в два Silos.
 
 ## H38
 
-> IT is a standardized strategic/secured institutional layer across at least some Silos.
+> IT е standardized strategic/secured institutional layer поне в част от Silos.
 
 **Confidence:** H  
 **Status:** Strongly Strengthened
 
-The architectural parallel is strong.
+Architectural parallel е силен.
 
 Still unknown:
-- whether contents are identical;
-- whether access rules are identical;
-- whether each Silo has the same personnel hierarchy;
-- whether the rooms directly communicate.
+- дали contents са identical;
+- дали access rules са identical;
+- дали всеки Silo има същата personnel hierarchy;
+- дали rooms communicate-ват директно.
 
 ## Privileged governance layer
 
-Scene context associates Bernard's secured IT layer with:
+Scene context свързва secured IT layer на Bernard с:
 - live exterior surveillance;
 - cleaning secrets;
 - `THE ORDER`;
 - restricted institutional knowledge.
 
-Judge Meadows' knowledge of `THE ORDER` and the tape mechanism shows that this privileged knowledge is not exclusive to Bernard.
+Knowledge-ът на Judge Meadows за `THE ORDER` и tape mechanism показва, че това privileged knowledge не е exclusive за Bernard.
 
-This refactors the model from "Bernard personally knows the secrets" toward a **restricted read-in governance layer** with at least Bernard and Meadows having overlapping access.
+Това refactor-ва model от "Bernard personally knows the secrets" към **restricted read-in governance layer**, в който поне Bernard и Meadows имат overlapping access.
 
 ## Boundary
 
-This does not prove:
+Това не доказва:
 - formal Judge = Bernard equivalence;
-- that Sims lacks all knowledge of these systems;
-- that the second-Silo survivor held the same role;
-- a single central cross-Silo authority.
+- че Sims няма никакво knowledge за тези systems;
+- че survivor-ът от втория Silo е имал същата role;
+- single central cross-Silo authority.
 
 ## Visual evidence
 

@@ -1,33 +1,33 @@
 # S01E09 — Visual evidence manifest
 
-Target repo path: `assets/S01E09/screenshots/`
+Целеви repo path: `assets/S01E09/screenshots/`
 
-## Processing
+## Обработка
 
-Selected screenshots were processed with **perspective correction / rectification first**, then cropped to the TV picture plane.
+Selected screenshots са обработени първо с **perspective correction / rectification**, след което са cropped до TV picture plane.
 
-- no generative editing
-- no generative fill or reconstruction
-- no object removal
-- no content alteration
+- без generative editing
+- без generative fill или reconstruction
+- без object removal
+- без content alteration
 - JPEG quality: **95**
 - output: **1536×864**
 
 ## Selected screenshots
 
-| File | Evidence / context |
+| Файл | Evidence / context |
 |---|---|
-| `juliette-fall-level-23-bridge.jpeg` | Juliette's fall/escape sequence; the architecture shows the intermediate bridge/landing structure rather than an uninterrupted fall to the bottom. |
-| `level-23-marker.jpeg` | Direct visual Level 23 spatial anchor during the post-jump sequence. |
-| `bernard-number-18-device.jpeg` | Small illuminated numbered device/object marked `18`, associated by scene context with Bernard/acting mayor; function unknown. |
-| `contact-sheet.jpg` | Auxiliary review/navigation only; **not primary evidence**. |
+| `juliette-fall-level-23-bridge.jpeg` | Fall/escape sequence на Juliette; architecture показва междинна bridge/landing structure, а не непрекъснато падане до дъното. |
+| `level-23-marker.jpeg` | Direct visual spatial anchor за Level 23 по време на post-jump sequence. |
+| `bernard-number-18-device.jpeg` | Малък illuminated numbered device/object с маркировка `18`, свързан чрез scene context с Bernard/acting mayor; функцията е unknown. |
+| `contact-sheet.jpg` | Само auxiliary review/navigation; **не е primary evidence**. |
 
 ## Epistemic notes
 
-- Level 23 is direct visual evidence.
-- The bridge/landing sequence supports that Juliette survives the initial fall; exact mechanics/distance are not inferred from the still alone.
-- The object marked `18` is visually confirmed, but its function is **unknown**.
-- Do not infer that `18` is automatically the HDD number, an access level, tracker ID, key number, or other identifier without further episode evidence.
-- The episode-ending cleaning-file frame is **not included in this batch** because no source screenshot for that shot was supplied here.
+- Level 23 е direct visual evidence.
+- Bridge/landing sequence подкрепя, че Juliette оцелява при първоначалното падане; exact mechanics/distance не се извеждат само от still-а.
+- Обектът с маркировка `18` е visually confirmed, но функцията му е **unknown**.
+- Не извеждаме автоматично, че `18` е HDD number, access level, tracker ID, key number или друг identifier без допълнителен episode evidence.
+- Episode-ending cleaning-file frame **не е включен в този batch**, защото не е предоставен source screenshot за този shot.
 
 **Knowledge boundary:** S01E09 only.

@@ -4,49 +4,49 @@
 
 ## Direct evidence
 
-- Juliette’s helmet initially shows the same lush representation associated with `JANE CARMODY CLEANING`.
-- Juliette initially interprets this as proof that the internal public display is lying.
-- The lush view is directly revealed as a false/manipulated visual layer.
-- Barren terrain remains when that layer drops.
-- Bernard recognizes that Juliette understands the deception.
-- Juliette’s suit uses different tape/material from the standard cleaning configuration.
-- Bernard and Sims expect standard cleaner failure/death around the tree.
-- Juliette survives beyond that expected failure point.
+- Helmet-ът на Juliette първоначално показва същото lush representation, свързано с `JANE CARMODY CLEANING`.
+- Juliette първоначално интерпретира това като proof, че internal public display лъже.
+- Lush view директно е разкрита като false/manipulated visual layer.
+- Barren terrain остава, когато layer-ът отпада.
+- Bernard разпознава, че Juliette разбира deception-а.
+- Suit-ът на Juliette използва различен tape/material от standard cleaning configuration.
+- Bernard и Sims очакват standard cleaner failure/death около дървото.
+- Juliette оцелява отвъд този expected failure point.
 
 ## Model update
 
 ### H1
-Exterior visual-information manipulation → **VH / Confirmed / Refactored**.
+Манипулиране на exterior visual information → **VH / Confirmed / Refactored**.
 
 ### H2
-Lush cleaner exterior objectively real → **VL / Rejected**.
+Обективно реален lush cleaner exterior → **VL / Rejected**.
 
 ### H3
-Barren exterior substantially real + lush cleaner overlay → **VH / Confirmed**.
+По същество реален barren exterior + lush cleaner overlay → **VH / Confirmed**.
 
 ### H4
-Cleaner behavior engineered through perception → **VH / Strongly Strengthened**.
+Cleaner поведението е инженерно насочвано чрез perception → **VH / Strongly Strengthened**.
 
 ### H14
-Cleaner mortality materially depends on suit/helmet/seal configuration → **VH / Strongly Strengthened / Refactored**.
+Cleaner mortality съществено зависи от suit/helmet/seal configuration → **VH / Strongly Strengthened / Refactored**.
 
 ### H34
-Standard cleaning tape may be systematically or deliberately inferior while alternate tape preserves seal integrity → **H / Active**.
+Standard cleaning tape може да е системно или умишлено inferior, докато alternate tape запазва seal integrity → **H / Active**.
 
 ## Causal discipline
 
-The observed natural experiment is strong but not complete.
+Наблюдаваният natural experiment е силен, но не пълен.
 
 ```text
 different tape
     +
 survival beyond expected point
     ≠
-proof of exact toxic agent / exact chemical pathway
+доказателство за точния toxic agent / точния chemical pathway
 ```
 
-Still unresolved:
+Все още е unresolved:
 - atmosphere toxicity;
 - exact tape specification;
-- whether standard tape is intentionally sabotaged;
-- whether other suit components also differ.
+- дали standard tape е intentionally sabotaged;
+- дали други suit components също се различават.

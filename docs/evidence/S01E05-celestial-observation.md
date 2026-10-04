@@ -51,7 +51,7 @@ Night display-ът има repeatable/systematic temporal structure, достат
 - source authenticity;
 - orientation;
 - date/time;
-- repeatability across independent observations.
+- повторяемост при независими observations.
 
 ## H6 impact
 

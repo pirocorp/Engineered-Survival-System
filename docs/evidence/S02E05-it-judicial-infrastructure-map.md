@@ -1,25 +1,25 @@
-# S02E05 — Silo schematic and hidden IT/Judicial infrastructure
+# S02E05 — Silo schematic и hidden IT/Judicial infrastructure
 
 **Knowledge boundary:** `S02E05`
 
-A newly found Silo schematic shows lines/connections associated in scene context with both **IT** and **Judicial**.
+Новооткрита Silo schematic показва lines/connections, свързани в scene context едновременно с **IT** и **Judicial**.
 
 ## Direct evidence boundary
 
-The image is not sharp enough to establish:
+Изображението не е достатъчно sharp, за да установи:
 - line type;
 - direction;
 - source;
-- whether the connection carries electricity, data, communications, control, fluid/utility service or multiple services.
+- дали connection пренася electricity, data, communications, control, fluid/utility service или multiple services.
 
 ## H55
 
-**IT and Judicial may connect to a hidden privileged infrastructure backbone distinct from ordinary Silo distribution.**
+**IT и Judicial може да са свързани с hidden privileged infrastructure backbone, различен от ordinary Silo distribution.**
 
 **Confidence:** M–H  
 **Status:** Active
 
-The map is compatible with Silo 17 testimony about independent IT power, but it does not yet prove that the displayed lines are that power feed.
+Map-ът е compatible с testimony от Silo 17 за independent IT power, но все още не доказва, че показаните линии са този power feed.
 
 ## Visual
 

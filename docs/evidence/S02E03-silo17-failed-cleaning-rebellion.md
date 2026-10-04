@@ -1,10 +1,10 @@
-# S02E03 — Silo 17 failed cleaning and rebellion cascade
+# S02E03 — Failed cleaning в Silo 17 и rebellion cascade
 
 **Knowledge boundary:** `S02E03`
 
-Silo 17 provides the first concrete historical case that closely matches `THE ORDER` failed-cleaning contingency.
+Silo 17 дава първия конкретен historical case, който силно съвпада с failed-cleaning contingency в `THE ORDER`.
 
-## Historical sequence from survivor testimony
+## Historical sequence от survivor testimony
 
 ```text
 Ron exits for cleaning
@@ -15,24 +15,24 @@ writes/marks "LIES" on exterior sensor
         ↓
 moves away and is no longer seen
         ↓
-three days later "LIES" appears on cafeteria display
+три дни по-късно "LIES" се появява на cafeteria display
         ↓
 rebellion begins
         ↓
 population eventually exits
 ```
 
-The survivor additionally says people believed the outside was safe because they **did not see Ron die**.
+Survivor-ът допълнително казва, че хората са вярвали, че outside е безопасен, защото **не са видели Ron да умира**.
 
 ## H40 impact
 
-Visible cleaner death is now strongly supported as part of the ritual's deterrence/legitimacy function.
+Visible cleaner death вече е силно подкрепен като част от deterrence/legitimacy function на ritual-а.
 
-A failed cleaning can break two linked public expectations:
-- cleaner performs the ritual;
-- cleaner dies visibly afterward.
+Failed cleaning може да счупи две свързани public expectations:
+- cleaner изпълнява ritual-а;
+- cleaner умира видимо след това.
 
-When those expectations fail, the population can infer that the official outside narrative is false.
+Когато тези expectations се провалят, population може да infer-не, че official outside narrative е false.
 
 ## H41 impact
 
@@ -40,10 +40,10 @@ When those expectations fail, the population can infer that the official outside
 
 `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`
 
-Silo 17 historically corroborates the same failure pattern.
+Silo 17 historically corroborate-ва същия failure pattern.
 
-This does not prove:
-- Silo 17 was the case used to author `THE ORDER`;
+Това не доказва:
+- че Silo 17 е case-ът, използван за author-ване на `THE ORDER`;
 - Ron survived;
-- Ron authored the later internal `LIES` message;
-- every failed cleaning necessarily causes rebellion.
+- че Ron е author на по-късното internal `LIES` message;
+- че всеки failed cleaning непременно причинява rebellion.

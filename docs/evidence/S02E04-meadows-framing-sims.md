@@ -1,30 +1,30 @@
-# S02E04 — Meadows murder, Mechanical framing and Sims pressure
+# S02E04 — убийството на Meadows, framing на Mechanical и натискът на Sims
 
 **Knowledge boundary:** `S02E04`
 
 ## Bernard's operation
 
-Bernard poisons Judge Meadows.
+Bernard отравя Judge Meadows.
 
-Mechanical representatives arrive expecting to meet her. Bernard stages the situation so Mechanical can be blamed for her death and public anger can be redirected against them.
+Представители на Mechanical пристигат, очаквайки да се срещнат с нея. Bernard инсценира ситуацията така, че Mechanical да бъде обвинен за смъртта ѝ и public anger да бъде пренасочен срещу тях.
 
-This is direct current operational corroboration of the newly revealed Mechanical-scapegoating doctrine.
+Това е direct current operational corroboration на newly revealed Mechanical-scapegoating doctrine.
 
 ## Sims
 
 Bernard claims:
-- impeachment protests against Meadows forced him to act;
-- Sims is behind the impeachment pressure.
+- impeachment protests срещу Meadows са го принудили да действа;
+- Sims стои зад impeachment pressure.
 
-Separately, Sims is observed actively turning public sentiment against Mechanical.
+Отделно Sims е наблюдаван активно да насочва public sentiment срещу Mechanical.
 
 ## H51 / H52
 
-**H51:** hidden-control leadership is non-monolithic; Bernard and Sims possess partially independent political/operational leverage.
+**H51:** hidden-control leadership не е monolithic; Bernard и Sims имат частично independent political/operational leverage.
 
-**H52:** Bernard uses the Mechanical-scapegoating doctrine to convert a leadership crisis into controlled conflict against Mechanical.
+**H52:** Bernard използва Mechanical-scapegoating doctrine, за да превърне leadership crisis в controlled conflict срещу Mechanical.
 
-The claim that Sims caused the impeachment pressure remains Bernard's claim until independently corroborated.
+Твърдението, че Sims е причинил impeachment pressure, остава claim на Bernard, докато не бъде independently corroborated.
 
 ## Visual
 

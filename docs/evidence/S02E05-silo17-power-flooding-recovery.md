@@ -1,12 +1,12 @@
-# S02E05 — Silo 17 independent IT power, flooding and pump recovery
+# S02E05 — independent IT power, flooding и pump recovery в Silo 17
 
 **Knowledge boundary:** `S02E05`
 
 ## Independent IT power
 
-The Silo 17 survivor states that IT has its own independent power supply coming from an external/outside source rather than the normal Silo generator path.
+Survivor-ът от Silo 17 заявява, че IT има собствен independent power supply, идващ от external/outside source, а не от normal Silo generator path.
 
-This directly explains the previously observed residual IT power after Silo-wide collapse.
+Това директно обяснява по-рано наблюдавания residual IT power след Silo-wide collapse.
 
 ## Flooding failure chain
 
@@ -30,13 +30,13 @@ water continues rising into present
 
 ## Recovery plan
 
-The survivor wants Juliette to repair a pump that can stop/slow the rising water and power it from IT.
+Survivor-ът иска Juliette да ремонтира pump, която може да спре/забави покачващата се вода, и да я захрани от IT.
 
-Therefore IT's independent supply is not merely enough to keep a vault light on; it can potentially energize selected critical recovery infrastructure.
+Следователно independent supply на IT не е достатъчен само да държи светлина във vault; той потенциално може да energize-ва selected critical recovery infrastructure.
 
 ## H54
 
-**IT/vault infrastructure has an independent external power path robust enough to survive loss of normal Silo generation and potentially support emergency recovery loads.**
+**IT/vault infrastructure има independent external power path, достатъчно robust да преживее загуба на normal Silo generation и потенциално да поддържа emergency recovery loads.**
 
 **Confidence:** H  
 **Status:** Strongly Strengthened
@@ -46,5 +46,5 @@ Still unresolved:
 - generation technology;
 - capacity;
 - routing;
-- whether the architecture is standardized across Silos;
-- whether "external/outside" means physically outside the Silo or external to the normal internal power grid.
+- дали architecture е standardized across Silos;
+- дали "external/outside" означава физически outside Silo или external спрямо normal internal power grid.

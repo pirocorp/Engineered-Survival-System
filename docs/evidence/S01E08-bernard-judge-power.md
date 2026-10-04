@@ -4,39 +4,39 @@
 
 ## Evidence
 
-Bernard/IT states that **Judge Meadows is afraid of him**.
+Bernard/IT заявява, че **Judge Meadows се страхува от него**.
 
 **Epistemic class:** Character testimony / self-described power relation.
 
-The direct fact is that Bernard makes the claim. The objective relationship remains unresolved.
+Директният факт е, че Bernard прави това твърдение. Objective relationship остава unresolved.
 
 ## Relevant prior evidence
 
-S01E07 independently established that Judge Meadows is a surveillance subject.
+S01E07 independently established, че Judge Meadows е surveillance subject.
 
-That makes Bernard’s claim important, but does not prove:
-- Bernard controls the surveillance;
-- Judge is formally subordinate to Bernard;
-- IT is formally superior to Judicial;
-- Bernard is highest authority.
+Това прави твърдението на Bernard важно, но не доказва:
+- че Bernard controls surveillance;
+- че Judge е formally subordinate на Bernard;
+- че IT е formally superior на Judicial;
+- че Bernard е highest authority.
 
 ## H33 — Candidate
 
-> **Bernard/IT may hold hidden leverage over Judge Meadows and may sit above or outside the simple formal Judicial hierarchy.**
+> **Bernard/IT може да има hidden leverage спрямо Judge Meadows и да стои над или извън simple formal Judicial hierarchy.**
 
 **Confidence:** M  
 **Status:** Candidate
 
 ## What would strengthen H33
 
-- Judge visibly defers to Bernard against her formal role;
-- Bernard issues an order she follows;
-- documentary evidence of IT authority over Judicial;
-- evidence Bernard controls/authorizes Judge surveillance;
-- independent testimony corroborating fear/leverage.
+- Judge видимо се подчинява на Bernard въпреки formal role;
+- Bernard издава order, който тя изпълнява;
+- documentary evidence за IT authority над Judicial;
+- evidence, че Bernard controls/authorizes surveillance над Judge;
+- независимо testimony, corroborate-ващо fear/leverage.
 
 ## What would weaken H33
 
-- evidence Bernard is bluffing;
-- Judge acts independently against him without consequence;
-- another authority is shown to control both.
+- evidence, че Bernard bluff-ва;
+- Judge действа independently срещу него без consequence;
+- показана е друга authority, която controls и двамата.

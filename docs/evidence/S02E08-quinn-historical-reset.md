@@ -1,55 +1,55 @@
-# S02E08 — Salvador Quinn historical reset and recurring rebellions
+# S02E08 — Историческият reset на Salvador Quinn и повтарящите се бунтове
 
 **Knowledge boundary:** `S02E08`
 
-S02E08 provides a privileged alternative history for the last Rebellion and for the Silo's historical amnesia.
+S02E08 дава привилегирована алтернативна история за последния Rebellion и за историческата амнезия в Silo.
 
-## Official version
+## Официална версия
 
-The official account presents Salvador Quinn, Head of IT during the Rebellion, as a failure under whose watch the Silo's historical/server records were destroyed or lost during the rebellion.
+Официалният разказ представя Salvador Quinn, Head of IT по време на Rebellion, като човек, който се е провалил и е позволил историческите/server records на Silo да бъдат унищожени или изгубени по време на бунта.
 
-## Bernard's privileged version
+## Привилегированата версия на Bernard
 
-Bernard says this account is false.
+Bernard казва, че този разказ е неверен.
 
-According to him:
-- Quinn **saved the Silo**;
-- before Quinn, rebellions recurred roughly every twenty years;
-- each rebellion risked everyone in the Silo;
-- Quinn concluded that knowledge of prior rebellions helped reproduce the cycle;
-- Quinn deliberately broke public historical continuity;
-- server access was removed;
-- books were confiscated;
-- blame for historical destruction was placed on the rebels.
+Според него:
+- Quinn **е спасил Silo**;
+- преди Quinn бунтовете са се повтаряли приблизително на всеки двадесет години;
+- всеки бунт е излагал на риск всички в Silo;
+- Quinn е стигнал до извода, че знанието за предишните бунтове помага цикълът да се възпроизвежда;
+- Quinn умишлено е прекъснал публичната историческа приемственост;
+- достъпът до server records е бил премахнат;
+- книгите са били конфискувани;
+- вината за унищожаването на историческото знание е била прехвърлена върху бунтовниците.
 
 ## H61
 
-**Quinn implemented a deliberate historical-reset strategy intended to break a recurring ~20-year rebellion cycle by preventing the population from retaining/reconstructing the history of earlier rebellions.**
+**Quinn е приложил умишлена стратегия за исторически reset, предназначена да прекъсне повтарящ се приблизително 20-годишен цикъл на бунтове, като попречи на населението да запазва или реконструира историята на предишните бунтове.**
 
 **Confidence:** H–VH  
 **Status:** Active / Strongly Supported by Bernard's privileged testimony.
 
-## H7 update
+## Обновяване на H7
 
-The project previously tracked the Rebellion-centered story of historical knowledge loss as incomplete/misleading.
+Досега проектът третираше Rebellion-centered разказа за загубата на историческо знание като непълен или подвеждащ.
 
-S02E08 strongly upgrades that:
+S02E08 силно надгражда това:
 
-> Bernard explicitly says the public historical story is false and attributes the knowledge destruction to Quinn's deliberate intervention rather than rebel success.
+> Bernard изрично казва, че публичната историческа версия е невярна и приписва унищожаването на знанието на умишлена намеса на Quinn, а не на успех на бунтовниците.
 
-This remains privileged testimony rather than independent contemporaneous documentation.
+Това остава privileged testimony, а не независимо contemporaneous documentation.
 
-## Causality boundary
+## Граница на причинността
 
-Bernard also credits Quinn's intervention with ~140 years of peace.
+Bernard приписва на намесата на Quinn и приблизително 140 години мир.
 
-That proves Bernard's causal interpretation, not independently that historical knowledge alone caused the previous rebellions.
+Това доказва причинната интерпретация на Bernard, но не доказва независимо, че само историческото знание е причинявало предишните бунтове.
 
-Potential alternatives remain:
-- other Quinn-era reforms;
-- changed surveillance/governance;
-- demographic effects;
-- memory suppression itself;
-- unknown system changes.
+Възможни алтернативи остават:
+- други реформи от ерата на Quinn;
+- промени в surveillance/governance;
+- демографски ефекти;
+- самото memory suppression;
+- други неизвестни промени в системата.
 
-The episode supports a multi-mechanism intervention, not a clean causal experiment.
+Епизодът подкрепя модел с множество едновременно действащи механизми, а не чист причинен експеримент.

@@ -1,18 +1,18 @@
-# S02E06 — IT control of Silo radio communications
+# S02E06 — IT control върху radio communications в Silo
 
 **Knowledge boundary:** `S02E06`
 
-S02E06 establishes that Bernard/IT can interrupt **all radio communications in the Silo**.
+S02E06 установява, че Bernard/IT може да прекъсва **всички radio communications в Silo**.
 
 ## Direct evidence
 
-**E317 —** Bernard/IT has Silo-wide radio-cutoff capability.
+**E317 —** Bernard/IT има Silo-wide radio-cutoff capability.
 
 **Confidence:** VH.
 
 ## Infrastructure inference
 
-If IT can disable all radio traffic, the radio system must depend on a centrally controllable component or infrastructure path.
+Ако IT може да disable-не целия radio traffic, radio system трябва да зависи от centrally controllable component или infrastructure path.
 
 Possible architectures include:
 - central repeater/distribution system;
@@ -20,18 +20,18 @@ Possible architectures include:
 - central switching/gating;
 - another shared dependency.
 
-The episode does not yet identify which.
+Епизодът все още не идентифицира кое.
 
 ## H58
 
-**IT functions as a communications choke point: during crisis it can degrade or isolate operational coordination by cutting radio traffic.**
+**IT функционира като communications choke point: при криза може да degrade-не или isolate-не operational coordination чрез прекъсване на radio traffic.**
 
 **Confidence:** H  
 **Status:** Active / Strengthened.
 
 ## Governance impact
 
-This extends the known privileged IT layer:
+Това разширява познатия privileged IT layer:
 
 ```text
 classified archives / THE ORDER
@@ -41,11 +41,11 @@ continuity power
 radio communications control
 ```
 
-The strongest safe conclusion is control capability, not omniscient access to every message or every communication medium.
+Най-силният safe conclusion е control capability, а не omniscient access до всяко message или communication medium.
 
 Still unresolved:
 - selective vs all-or-nothing cutoff;
-- whether digital messaging remains available;
-- whether emergency/bypass radio channels exist;
-- whether Judicial shares this control;
-- whether radio traffic is logged or monitored centrally.
+- дали digital messaging остава available;
+- дали съществуват emergency/bypass radio channels;
+- дали Judicial споделя този control;
+- дали radio traffic се log-ва или monitor-ва centrally.

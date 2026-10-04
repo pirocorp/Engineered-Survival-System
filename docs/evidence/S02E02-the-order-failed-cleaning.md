@@ -1,49 +1,49 @@
-# S02E02 — THE ORDER and failed-cleaning contingency
+# S02E02 — THE ORDER и failed-cleaning contingency
 
 **Knowledge boundary:** `S02E02`
 
 ## Direct evidence
 
-Bernard consults a physical document titled `THE ORDER`.
+Bernard използва physical document, озаглавен `THE ORDER`.
 
-A section heading is directly legible:
+Section heading е директно четим:
 
 > `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`
 
-This is direct institutional evidence that failed cleaning is treated as a severe stability/security contingency.
+Това е direct institutional evidence, че failed cleaning се третира като severe stability/security contingency.
 
-Judge Meadows also knows about `THE ORDER`, so the document is not merely Bernard's private personal notebook or secret.
+Judge Meadows също знае за `THE ORDER`, следователно документът не е просто личен notebook или secret на Bernard.
 
 ## H39
 
-> `THE ORDER` is a privileged operational/governance doctrine distinct from the public Pact.
+> `THE ORDER` е privileged operational/governance doctrine, различна от public Pact.
 
 **Confidence:** H  
 **Status:** Strongly Strengthened
 
-The distinction is supported by scene context in which normal institutions work through the Pact while Bernard consults `THE ORDER`.
+Разграничението се подкрепя от scene context, в който normal institutions работят чрез Pact, докато Bernard използва `THE ORDER`.
 
-This does not yet establish legal supremacy of one text over the other.
+Това все още не установява legal supremacy на единия текст над другия.
 
 ## H41
 
-> `THE ORDER` encodes known Silo governance failure modes, including failed cleaning → war risk.
+> `THE ORDER` encode-ва познати Silo governance failure modes, включително failed cleaning → war risk.
 
 **Confidence:** H  
 **Status:** Active / Strengthened
 
-Possible explanations for how its authors knew this pattern include:
-- empirical knowledge from previous Silo failures;
-- deliberate behavioral/system modelling;
+Възможните обяснения как авторите са знаели този pattern включват:
+- empirical knowledge от previous Silo failures;
+- целенасочено behavioral/system modelling;
 - both.
 
-Neither explanation is yet direct-confirmed.
+Нито едно обяснение още не е direct-confirmed.
 
-## Bernard's current risk assessment
+## Текущият risk assessment на Bernard
 
-Bernard fears that the catastrophic outcome observed around the second Silo could happen in his own Silo.
+Bernard се страхува, че catastrophic outcome, наблюдаван около втория Silo, може да се случи и в неговия.
 
-This makes the failed-cleaning warning operationally relevant to the current crisis, but does not prove the second Silo was the historical source used to write `THE ORDER`.
+Това прави failed-cleaning warning operationally relevant към текущата криза, но не доказва, че вторият Silo е historical source, използван за написването на `THE ORDER`.
 
 ## Visual evidence
 

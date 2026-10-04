@@ -4,33 +4,33 @@
 
 ## Direct evidence
 
-Bernard/IT receives a live video feed associated with Juliette while she is outside.
+Bernard/IT получава live video feed, свързан с Juliette, докато тя е навън.
 
-The feed follows her exterior movement beyond her own Silo's immediate surface environment and is lost when she enters the second Silo.
+Feed-ът следва exterior movement на Juliette отвъд immediate surface environment на нейния Silo и се губи, когато тя влиза във втория Silo.
 
 ## Model update
 
-This adds an outbound cleaner/suit video channel to the known surveillance architecture.
+Това добавя outbound cleaner/suit video channel към познатата surveillance architecture.
 
-Known surveillance now includes:
+Познатият surveillance вече включва:
 - concealed internal mirror cameras;
 - archived internal feeds;
 - classified cleaning imagery;
-- live Juliette-associated exterior video.
+- live exterior video, свързано с Juliette.
 
 ## Historical cleaning files
 
-The earlier `JANE CARMODY CLEANING` file can now plausibly be interpreted as an archived product of the same broader cleaner video pipeline.
+По-ранният файл `JANE CARMODY CLEANING` вече plausibly може да се интерпретира като archived product на същия по-широк cleaner video pipeline.
 
-That remains a hypothesis because S02E02 does not establish whether the archive stores:
+Това остава hypothesis, защото S02E02 не установява дали archive съхранява:
 - raw exterior camera video;
-- the false rendered imagery shown to the wearer;
+- false rendered imagery, показвано на wearer-а;
 - a processed/composited output;
 - multiple parallel streams.
 
 ## Signal-loss boundary
 
-Loss of signal when Juliette enters the second Silo establishes a practical transmission boundary in this event.
+Загубата на signal, когато Juliette влиза във втория Silo, установява practical transmission boundary в този event.
 
 It does not establish:
 - deliberate jamming;
@@ -39,7 +39,7 @@ It does not establish:
 
 ## H8 impact
 
-The covert surveillance hypothesis remains confirmed/refactored and now includes a privileged live exterior channel accessible to Bernard/IT.
+Covert surveillance hypothesis остава confirmed/refactored и вече включва privileged live exterior channel, accessible за Bernard/IT.
 
 ## Visual evidence
 

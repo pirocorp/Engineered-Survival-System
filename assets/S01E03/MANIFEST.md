@@ -27,4 +27,4 @@
 
 ## Cleanup v2
 
-Conservative recrop from the original user-provided photos to reduce room/bezel and keep evidence details intact. No generative fill, object removal, AI reconstruction, or content editing.
+Консервативен recrop от original user-provided photos за намаляване на room/bezel и запазване на evidence details. Без generative fill, object removal, AI reconstruction или content editing.
