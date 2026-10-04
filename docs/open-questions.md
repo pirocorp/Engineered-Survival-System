@@ -586,14 +586,14 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 414. Russell Bernard-equivalent Head of IT ли е, another privileged role ли е, or something else? S02E04 confirms only that the survivor was a child during the rebellion and Russell had authority/access to place him in the vault.
 415. **REFRAMED in S02E04:** survivor-ът е бил дете, когато Russell го е поставил/затворил във vault-а. Защо е избрано точно това дете?
-416. **FURTHER NARROWED in S02E05:** Silo 17 secured IT layer also retains independent power after generator loss; какви people/systems/knowledge/power functions е intended да preserve-ва стандартно?
+416. **STRONGLY NARROWED in S02E07:** Silo 18 vault directly includes residential/living space + `Legacy` library, while Silos 17/18 both show IT continuity power. Exact standardized occupant capacity, supplies and full protected-system set remain open.
 417. Vault-ът съдържа ли `THE ORDER`, cross-Silo status information, communications or control systems?
 418. Key `18` unlock-ва само Server Room ли, или и inner vault access chain?
 419. Всеки Silo има ли physical key numbered by its Silo designation?
 
 ## S02E03 — Bernard cross-Silo knowledge
 
-420. От какъв source Bernard знае, че Silo 17 е dead?
+420. **PARTIALLY NARROWED in S02E07:** `Legacy` provides a concrete archive mechanism for Bernard's inherited historical knowledge, but whether his specific knowledge that Silo 17 is dead comes from Legacy, another status registry, or another source remains open.
 421. Има ли current status registry за всички Silos?
 422. Може ли Bernard да вижда current/lifetime status на други Silos, или knowledge-ът е inherited historical record?
 423. Кой е над Bernard, ако local IT custodian knowledge-ът е intentionally partial?
@@ -716,7 +716,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 501. Salvador Quinn's ~140-years-ago Rebellion anchor mapping-ва ли директно към current `A.R.` era?
 502. Ако `A.R.` наистина е post-Rebellion calendar, какъв е current A.R. year?
 503. Quinn's tenure може ли да anchor-не `SILO YEAR 96/97` спрямо Rebellion?
-504. Jane Carmody's ~200-year recording age и Quinn's ~140-year Rebellion date могат ли да establish-нат pre-Rebellion duration of the Silo?
+504. **SUBSTANTIALLY RESOLVED in S02E07:** Bernard says the Silo was built 352 years ago; combined with the ~140-years-ago Rebellion anchor, the Silo predates the Rebellion by roughly 212 years. Jane Carmody's ~200-year age places that recording roughly ~152 years after construction / ~60 years before Rebellion if the approximate anchors are taken at face value.
 
 ## S02E05 — Sims / Judge / shadow succession
 
@@ -734,8 +734,8 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 513. Какъв точно е external/outside source-ът на IT power в Silo 17?
 514. Physical outside the Silo ли е source-ът, or merely external to the normal internal grid?
 515. Как energy се доставя до IT — cable, buried feed, separate generator, battery/storage, or another system?
-516. IT independent power standard feature ли е за всички 50 Silos?
-517. Silo 18 IT има ли същия independent feed?
+516. **STRONGLY STRENGTHENED in S02E07:** functional continuity power is now evidenced in both Silo 17 and Silo 18. Standard across all 50 Silos remains unconfirmed.
+517. **FUNCTIONALLY RESOLVED / SOURCE STILL OPEN in S02E07:** Silo 18 IT remains powered during a general blackout, confirming an independent/redundant continuity path. Whether it is the same exact external source architecture described for Silo 17 remains unresolved.
 518. Каква capacity има IT continuity power и колко дълго може да работи след normal-grid collapse?
 519. Може ли IT power да захранва arbitrary loads, or only predefined emergency circuits?
 520. Judicial също има ли independent continuity power?
@@ -819,6 +819,57 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 577. Каква function/location context има Level 55?
 578. Каква function/location context има Level 120?
 579. Level 119 и Level 120 functional cluster ли са, or numbering adjacency only?
+
+## S02E07 — Legacy / vault continuity
+
+580. Какъв е exact catalog/scope на `Legacy`?
+581. `Legacy` съдържа ли pre-Silo history, construction records, technical manuals, governance doctrine, cross-Silo records, or all of these?
+582. Physical books ли са основният носител, има ли digital archive, or mixed media?
+583. Кой има право на direct access до `Legacy`?
+584. `Shadow` succession включва ли formal training/study в `Legacy`?
+585. Bernard's deep historical knowledge колко директно идва от `Legacy`?
+586. 352-year construction figure sourced ли е from `Legacy`?
+587. `THE ORDER` част ли е от `Legacy`, separate controlled doctrine ли е, or both?
+588. `Legacy` curated/censored ли е, and who controls additions/removals?
+589. Silo 17 има ли homologous `Legacy` archive?
+590. Silo 17 survivor's broad knowledge резултат ли е от years of access to a Legacy-like archive?
+591. Residential vault compartments за колко occupants са intended and for how long?
+592. Vault има ли independent food/water/air stores sufficient for long-duration continuity?
+593. Every Silo vault standardized ли е with the same habitation + Legacy + power package?
+
+## S02E07 — 352-year chronology anchor
+
+594. Bernard's **352 years** exact archival figure ли е or rounded conversational age?
+595. 352 years refers specifically to Silo 18 ли, to the whole Silo program, or to another shared construction event?
+596. Всички 50 Silos built simultaneously ли са?
+597. Какво се случва през приблизителните ~212 years между construction и Rebellion?
+598. Jane Carmody's ~200-year recording is therefore roughly ~152 years after construction — does later evidence confirm this placement?
+599. Quinn/Rebellion ~140-year anchor exact enough ли е to refine the ~212-year interval?
+600. `A.R.` literally означава ли post-Rebellion era, or does the 352-year anchor point to another epoch?
+601. Как `SILO YEAR 96/97` се fits into a system already ~352 years old?
+602. Има ли separate construction-era, pre-Rebellion, A.R. and local archive dating systems?
+
+## S02E07 — anti-IT physical counter-narrative
+
+603. Кой е написал anti-IT leaflet-а?
+604. Кой го разпространява?
+605. Official Mechanical messaging ли е, grassroots opposition ли е, or third-party provocation?
+606. Колко широко е разпространен leaflet-ът across levels?
+607. Physical notes deliberately ли се използват като bypass на radio/digital control?
+608. Как public reaction към Juliette and Meadows се променя след leaflet campaign?
+609. IT/Judicial може ли ефективно да suppress-не physical leaflet distribution?
+610. `Look and See` established slogan/code ли е, or wording specific to this leaflet?
+
+## S02E07 — Silo 18 continuity power / public visibility
+
+611. Какъв exact source захранва Silo 18 IT during general blackout?
+612. Same external source architecture ли е as Silo 17, or local generation/storage/alternate feed?
+613. Колко дълго може Silo 18 IT да остане powered without normal Silo power?
+614. Кои systems inside IT remain powered — lighting only, servers, vault, communications, life support, all critical systems?
+615. Judicial остава ли powered under the same blackout?
+616. Publicly visible IT power asymmetry ще increase-не ли anti-IT distrust or trigger direct demands for explanation?
+617. Can IT continuity power be routed to non-IT recovery systems in Silo 18 as proposed in Silo 17?
+618. Is the continuity-power topology connected to the hidden IT/Judicial lines shown in S02E05?
 
 ## Основен въпрос на проекта
 
