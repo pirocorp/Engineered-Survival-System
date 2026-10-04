@@ -1,20 +1,20 @@
-# S02E08 — Meadows, Quinn family and The Pact Between the Founders
+# S02E08 — Meadows, семейството на Quinn и The Pact Between the Founders
 
 **Knowledge boundary:** `S02E08`
 
-S02E08 gives concrete context to Meadows' earlier interest in Salvador Quinn.
+S02E08 дава конкретен контекст на по-ранния интерес на Meadows към Salvador Quinn.
 
-## Investigation
+## Разследването
 
-Before becoming Judge, while she was still Bernard's shadow, Meadows visited Quinn's relatives/descendants searching for surviving books and historical material.
+Преди да стане Judge, докато все още е shadow на Bernard, Meadows посещава роднини/потомци на Quinn и търси оцелели книги и исторически материали.
 
-This establishes independent historical investigation **inside** the privileged succession layer.
+Това установява независимо историческо разследване **вътре** в privileged succession layer.
 
-## Surviving Pact copy
+## Оцелялото копие на Pact
 
-A physical old copy is directly shown.
+Директно е показано старо физическо копие.
 
-Visible title:
+Видимото заглавие е:
 
 ```text
 THE PACT
@@ -22,42 +22,42 @@ BETWEEN
 THE FOUNDERS
 ```
 
-The handwritten name:
+Ръкописното име:
 
 ```text
 Salvador Quinn
 ```
 
-is directly visible on the copy.
+също се вижда директно върху копието.
 
-## Safe conclusions
+## Сигурни изводи
 
-The object directly associates Quinn with a surviving physical Pact copy from the suppressed historical layer.
+Предметът директно свързва Quinn с оцеляло физическо копие на Pact от потиснатия исторически слой.
 
-It does **not** establish:
-- Quinn wrote the Pact;
-- Quinn was one of the Founders;
-- the name is definitively a signature rather than ownership/identification;
-- this copy is a first edition;
-- this copy differs textually from the current Pact.
+Той **не** установява:
+- че Quinn е написал Pact;
+- че Quinn е един от Founders;
+- че името задължително е юридически подпис, а не ownership/identification mark;
+- че това е first edition;
+- че текстът на това копие се различава от текущия Pact.
 
 ## H65
 
-**Meadows' investigation into Quinn and surviving historical materials may have contributed to her abandonment of Bernard's shadow path.**
+**Разследването на Meadows за Quinn и оцелелите исторически материали може да е допринесло за решението ѝ да изостави shadow path на Bernard.**
 
 **Confidence:** M–H  
 **Status:** Active.
 
-Do not yet equate the Quinn-family visit with Meadows' known four-day disappearance unless later evidence explicitly connects them.
+Засега не приравняваме посещението при семейството на Quinn с известното четиридневно изчезване на Meadows, освен ако по-късен evidence не ги свърже изрично.
 
 ## H67
 
-**Quinn had direct association with surviving foundational Pact material.**
+**Quinn е бил пряко асоцииран с оцеляло foundational Pact material.**
 
 **Confidence:** H  
 **Status:** Active / Strengthened.
 
-The nature of that association remains open.
+Точният характер на тази връзка остава отворен.
 
 ## Visual
 
