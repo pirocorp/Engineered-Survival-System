@@ -17,7 +17,7 @@
 ```text
 real outside hazard
         +
-suit sealing / breathing-support integrity matters
+целостта на suit sealing / breathing support има значение
 ```
 
 Possible poor-seal pathways:
