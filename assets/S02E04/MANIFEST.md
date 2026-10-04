@@ -15,7 +15,7 @@
 - source subtitles, glare/reflections и visible scene content са запазени;
 - не са използвани external или future-episode sources.
 
-## Selected frames
+## Избрани кадри
 
 | Evidence | File | Bytes | Git blob SHA | Notes |
 |---|---|---:|---|---|
@@ -24,7 +24,7 @@
 | E285 | `screenshots/mechanical-arrives-meadows-framing-scene.jpeg` | 349352 | `66f7c3b2872261e7aed616b99f94618e8999f87d` | Представители на Mechanical пристигат на staged Meadows scene. Public framing narrative е established от surrounding events/dialogue, а не само от този frame. |
 | E289 | `screenshots/silo-stairwell-population-movement.jpeg` | 366058 | `b7a4241de0206dee3ca260ce8973dfa7b85058ca` | Wide vertical Silo circulation view с large-scale population movement при escalating unrest; cause/direction са contextual и не се извеждат само от frame-а. |
 
-## Evidence boundaries
+## Граници на доказателствата
 
 - E269 е само confirmed spatial anchor за Level 119; не се извежда special function от marker-а.
 - E279–E281: frame-ът директно подкрепя existence/use на immersive headset и Monteverde 2018 presentation. Claim-ът, че работи като cleaner-helmet imagery, идва от dialogue/context и не се извлича от самия image.
@@ -32,6 +32,6 @@
 - E289 директно подкрепя large-scale movement през vertical circulation space на Silo по време на unrest sequence; exact cause, destination и mobilizer са contextual.
 - Тук няма dedicated screenshots за THE ORDER instruction да се обвинява Mechanical, penal labor в mines, отравянето на Meadows от Bernard, historical letter на Salvador Quinn или anti-Mechanical agitation на Sims, освен ако по-късно не бъдат добавени отделно.
 
-## Contact sheet
+## Контактен лист
 
 `contact-sheet.jpg` е auxiliary navigation asset, а не primary evidence.
