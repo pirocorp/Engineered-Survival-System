@@ -238,35 +238,35 @@
 | E224 | Judge Meadows третира `good` tape като материално способна да подобри оцеляването навън спрямо стандартната cleaning лента. | Character inference / insider knowledge | H | Силно подкрепя материалното значение за оцеляването; точният път на теча остава неустановен. |
 
 | E225 | Оцелелият от Silo 17 заявява, че общо има 50 Silos. | Character testimony | H | VH, че твърдението е направено; точният системен брой очаква независимо потвърждение. |
-| E226 | Survivor-ът идентифицира location-а си като Silo 17. | Character testimony | VH | Установява stated designation на другия Silo. |
+| E226 | Оцелелият идентифицира местоположението си като Silo 17. | Character testimony | VH | Установява заявеното обозначение на другия Silo. |
 | E227 | Original Silo на Juliette е силно identified/inferred като Silo 18 от Silo 17 context плюс съществуващия evidence за `18`. | Strong contextual inference | H | Само по себе си не доказва, че key 18 или HDD 18 са numbered by Silo. |
-| E228 | Survivor-ът казва, че unprotected хора от Silo 17 са останали живи навън по-дълго от краткия expected cleaner-death window. | Character testimony | H | Weaken-ва constant immediate outside-death timer model. |
-| E229 | Survivor-ът описва exterior dust/poison като временно разсейващ се/вдигащ се. | Character testimony | H | Exact agent и physical process остават unknown. |
-| E230 | Той казва, че hazardous material по-късно се връща и убива exposed population. | Character testimony / historical causal account | H | Подкрепя mobile/time-varying airborne или dust-borne hazard. |
+| E228 | Оцелелият казва, че хора без защита от Silo 17 са останали живи навън по-дълго от краткия очакван прозорец за смърт на cleaner. | Character testimony | H | Отслабва модела за постоянен непосредствен таймер за смърт навън. |
+| E229 | Оцелелият описва външния прах/отрова като временно разсейващ се/вдигащ се. | Character testimony | H | Точният агент и физическият процес остават неизвестни. |
+| E230 | Той казва, че опасният материал по-късно се връща и убива изложеното население. | Character testimony / historical causal account | H | Подкрепя подвижна/променяща се във времето въздушна или прахова опасност. |
 | E231 | Ron излиза навън за cleaning и отказва да clean-не. | Character testimony | H | Първи concrete failed-cleaning case в историята на Silo 17. |
-| E232 | Ron изписва/маркира `LIES` върху exterior sensor, използвайки outside dust. | Character testimony | H | Exact physical method и surviving visual record остават unresolved. |
-| E233 | Survivor-ът идентифицира failed cleaning на Ron като event-а, след който започва кризата в Silo 17. | Historical causal testimony | H | Strong match към `THE ORDER` failed-cleaning contingency. |
+| E232 | Ron изписва/маркира `LIES` върху външния сензор, използвайки праха навън. | Character testimony | H | Точният физически метод и оцелелият визуален запис остават неустановени. |
+| E233 | Оцелелият идентифицира failed cleaning на Ron като събитието, след което започва кризата в Silo 17. | Historical causal testimony | H | Силно съответствие със сценария за failed cleaning в `THE ORDER`. |
 | E234 | Ron се отдалечава от sensor area и повече не е видян. | Character testimony | H | Не доказва, че е оцелял. |
-| E235 | Три дни по-късно `LIES` се появява на internal cafeteria display. | Character testimony | H | Author и technical mechanism остават unknown. |
-| E236 | S02E03 testimony идентифицира по-рано наблюдаваното internal `LIES` message в Silo 17 като част от post-Ron escalation sequence. | Cross-episode contextual refinement | H | Refine-ва E199, вместо да създава new visual claim. |
-| E237 | Survivor-ът заявява, че rebellion започва след тази sequence. | Historical causal testimony | H | Установява неговата causal reconstruction; не е independent historical documentation. |
+| E235 | Три дни по-късно `LIES` се появява на вътрешния cafeteria display. | Character testimony | H | Авторът и техническият механизъм остават неизвестни. |
+| E236 | Свидетелството в S02E03 идентифицира по-рано наблюдаваното вътрешно съобщение `LIES` в Silo 17 като част от поредицата на ескалация след Ron. | Cross-episode contextual refinement | H | Уточнява E199, вместо да създава ново визуално твърдение. |
+| E237 | Оцелелият заявява, че rebellion започва след тази поредица. | Historical causal testimony | H | Установява неговата причинна реконструкция; не е независима историческа документация. |
 | E238 | Survivor-ът от Silo 17 изрично нарича secured IT compartment vault. | Character terminology + prior visual evidence | VH | Upgrade-ва по-ранното descriptive language "vault-like" към in-world terminology. |
-| E239 | Survivor-ът казва, че Russell го е поставил във vault. | Character testimony | H | Установява claimed access/authority на Russell. |
+| E239 | Оцелелият казва, че Russell го е поставил във vault-а. | Character testimony | H | Установява заявения достъп/власт на Russell. |
 | E240 | Russell му е наредил никога да не допуска никого във vault. | Reported command | H | Силно подкрепя vault като protected objective по време на unrest. |
-| E241 | Survivor-ът казва, че хората излизат навън, защото не виждат Ron да умира и заключават, че exterior е безопасен. | Character testimony / historical causal account | H | Директно свързва missing visible cleaner death с mass-exit belief. |
+| E241 | Оцелелият казва, че хората излизат навън, защото не виждат Ron да умира и заключават, че външната среда е безопасна. | Character testimony / historical causal account | H | Директно свързва липсващата видима смърт на cleaner-а с убеждението, довело до масовото излизане. |
 | E242 | Failure да се наблюдава expected death на cleaner съществено допринася за mass-exit decision в Silo 17. | Causal inference grounded in testimony | H | Strengthen-ва visible-death deterrence model. |
-| E243 | Physical key на Bernard с маркировка `18` се използва за/access-ва `SERVER ROOM`. | Direct observation + cross-episode object match | VH | Resolve-ва previously unknown access target на key на този layer. |
+| E243 | Физическият ключ на Bernard с маркировка `18` се използва за достъп до `SERVER ROOM`. | Direct observation + cross-episode object match | VH | Разрешава по-рано неизвестната цел на достъпа за ключа на този слой. |
 | E244 | Heavy secured vault се намира вътре в Server Room. | Direct visual/spatial observation | VH | Установява nested restricted architecture. |
-| E245 | Restricted-access path на Bernard е `key 18 → SERVER ROOM → vault`. | Spatial/system inference from direct sequence | VH | Exact inner-vault unlocking mechanism остава separate. |
+| E245 | Пътят с ограничен достъп на Bernard е `key 18 → SERVER ROOM → vault`. | Spatial/system inference from direct sequence | VH | Точният механизъм за отключване на вътрешния vault остава отделен въпрос. |
 | E246 | Bernard казва, че cleaning recording-ът на Jane Carmody е на около 200 години. | Character testimony / privileged institutional knowledge | H | VH, че го казва; възрастта може да е закръглена. |
 | E247 | Cleaner visual/recording system, представена чрез Jane Carmody, е съществувала много преди настоящата криза и вероятно предхожда познатия post-Rebellion order. | Cross-episode inference | H | Exact chronology вече е изрично contested от E263–E264. |
 | E248 | Bernard знае, че Juliette е достигнала Silo 17. | Character statement / privileged knowledge | VH | Демонстрира cross-Silo situational knowledge. |
-| E249 | Bernard заявява, че Silo 17 е "dead" от дълго време. | Character testimony | H | Exact meaning на "dead" остава unresolved. |
+| E249 | Bernard заявява, че Silo 17 е `dead` („мъртъв“) от дълго време. | Character testimony | H | Точното значение на `dead` остава неустановено. |
 | E250 | Bernard казва, че е знаел, че Silo 17 е dead, преди Judge Meadows да стане негов shadow. | Character testimony / temporal anchor | VH | Показва, че това knowledge предхожда настоящата криза. |
-| E251 | В Silo 17 се появяват graffiti/messages, твърдящи, че cleaner-ът, отказал да clean-ва, е жив. | Public-belief expression / testimony-context evidence | H | Не доказва, че Ron е оцелял. |
+| E251 | В Silo 17 се появяват графити/съобщения, твърдящи, че cleaner-ът, отказал да почисти, е жив. | Public-belief expression / testimony-context evidence | H | Не доказва, че Ron е оцелял. |
 | E252 | Аналогична social narrative "cleaner survived" се появява в Silo 18 след cleaning-а на Juliette. | Repeated cross-Silo social pattern | H | Strengthen-ва repeatable legitimacy-failure cascade. |
 | E253 | Bernard пита Sims какво е станало с personnel, видял classified broadcast-а на Juliette. | Direct dialogue | VH | Показва active post-exposure containment concern. |
-| E254 | Sims казва, че тези witnesses са получили medication, представено като sedatives. | Character testimony / institutional action | VH | Exact drug и effect остават unresolved на този етап. |
+| E254 | Sims казва, че тези свидетели са получили лекарство, представено като успокоително. | Character testimony / institutional action | VH | Точното лекарство и ефектът остават неустановени на този етап. |
 | E255 | Medication се използва selective върху witnesses, exposed на forbidden visual information. | Scene-context inference | H | Подкрепя targeted information-containment use. |
 | E256 | Sims изрично предлага на друг човек medication, за да може човекът да забрави. | Direct dialogue / institutional capability | VH | Direct evidence за intended pharmacological forgetting. |
 | E257 | Текущите authorities разполагат или твърдят, че разполагат с pharmacological means за deliberate memory suppression. | Institutional capability inference | H | Силно corroborate-ва по-ранното historical memory-suppression testimony. |
@@ -274,30 +274,30 @@
 | E259 | Juliette вярва, че manipulated lush exterior image кара cleaners да clean-ват. | Character inference / direct dialogue | H | Силно corroborate-ва H4. |
 | E260 | Juliette осъзнава, че lush helmet view е false, защото съвпада със стария Jane Carmody cleaning recording. | Character inference grounded in repeated visual pattern | VH | Recognition-ът ѝ е основан на exact/repeated scene features. |
 | E261 | Juliette не знае обичайната дума/concept "birds", но разпознава, че летящите създания се движат по същия pattern като в Jane Carmody recording. | Direct dialogue + cross-scene comparison | VH | Подкрепя едновременно reused visual-template и cultural-knowledge-loss hypotheses. |
-| E262 | `CODE SILO ORANGE` изрично инструктира medical staff да не премахва birth control, като същевременно гарантира, че patient вярва, че е премахнат. | Direct visual / institutional instruction | VH | Formalize-ва вече confirmed reproductive-control deception mechanism. |
+| E262 | `CODE SILO ORANGE` изрично инструктира медицинския персонал да не премахва birth control, като същевременно гарантира, че пациентът вярва, че е премахнат. | Direct visual / institutional instruction | VH | Формализира вече потвърдения измамен механизъм за репродуктивен контрол. |
 | E263 | Същият medical record използва date notation `DOB 09/13/116 A.R.`. | Direct visual evidence | VH | Установява institutional `A.R.` dating; screenshot-ът не разгръща abbreviation-а. |
 | E264 | Evidence от S02E03 прави недостатъчен предишния simple single-calendar mapping за `SILO YEAR 96/97`, Rebellion-era dating, `A.R.` и stated age на Jane Carmody. | Analytical correction / model-history preservation | VH | H15 трябва да бъде weakened/refactored, а не silently overwritten. |
 
 | E265 | `THE ORDER` инструктира Mechanical да бъде обвинен в context на rebellion/crisis. | Institutional doctrine / direct textual or dialogue evidence | VH | Установява predefined crisis narrative target вместо evidence-driven culpability. |
-| E266 | Historical writing/markings в Mechanical карат героите да заключат, че Mechanical многократно е бил обвиняван независимо откъде реално е започнал unrest. | Physical historical evidence + character inference | H | Силно подкрепя repeated scapegoating pattern; exact number/dates на prior cases остават unresolved. |
-| E267 | Survivor-ът от Silo 17 е бил дете, когато е настъпил rebellion. | Character testimony | VH | Прецизира survivor timeline, established в S02E03. |
+| E266 | Исторически надписи/маркировки в Mechanical карат героите да заключат, че Mechanical многократно е бил обвиняван независимо откъде реално е започнало недоволството. | Physical historical evidence + character inference | H | Силно подкрепя повтарящ се модел на превръщане в изкупителна жертва; точният брой/дати на предишните случаи остават неустановени. |
+| E267 | Оцелелият от Silo 17 е бил дете, когато е настъпил rebellion. | Character testimony | VH | Прецизира хронологията на оцелелия, установена в S02E03. |
 | E268 | Survivor-ът от Silo 17 е бил поставен/заключен в IT vault още като дете по време на rebellion period. | Character testimony | H | Refactor-ва vault от simple guard position към continuity/survival refuge. |
 | E269 | Level marker `119` се вижда директно. | Direct visual evidence | VH | Само spatial anchor; не се извежда special function от номера. |
 | E270 | Mines добиват metal, който се използва в Silo. | Worldbuilding / character testimony | H | Установява raw-material extraction function. |
 | E271 | Mining е описан като dangerous, unpleasant и undesirable work. | Character/social testimony | H | Обяснява защо mining labor има low desirability. |
 | E272 | Penal assignment се използва за осигуряване на labor за mines. | Institutional/social practice | H | Подкрепя penal labor system, свързана с critical resource extraction. |
 | E273 | Bernard отравя Judge Meadows. | Direct observation | VH | Директно установява Bernard като причина за fatal poisoning-а ѝ. |
-| E274 | Преди да умре Meadows пита дали Bernard е унищожил hard drive, защото е съдържал material, свързан със Salvador Quinn. | Direct dialogue / character knowledge | VH | Exact drive identity остава unresolved; не се equate-ва автоматично с HDD 18. |
+| E274 | Преди да умре Meadows пита дали Bernard е унищожил hard drive, защото е съдържал материал, свързан със Salvador Quinn. | Direct dialogue / character knowledge | VH | Точната идентичност на диска остава неустановена; не се приравнява автоматично с HDD 18. |
 | E275 | Salvador Quinn е описан като Head of IT преди приблизително 140 години, по време на Rebellion. | Historical character testimony | H | Добавя privileged-IT figure и Rebellion-era chronology anchor. |
-| E276 | Salvador Quinn е написал letter, който е поне частично encoded. | Character testimony / historical-document claim | H | Contents, cipher и provenance остават unresolved. |
+| E276 | Salvador Quinn е написал писмо, което е поне частично кодирано. | Character testimony / historical-document claim | H | Съдържанието, шифърът и произходът остават неустановени. |
 | E277 | Meadows е престанала да бъде shadow на Bernard преди приблизително 25 години. | Character testimony / temporal anchor | VH | Установява timing-а на напускането ѝ на IT succession path. |
-| E278 | Около този transition Meadows е изчезнала за четири дни, преди да изостави shadow path. | Character testimony | VH | Purpose/location на четиридневното отсъствие остават unresolved. |
-| E279 | Bernard притежава/използва immersive headset, показващ pre-Silo natural environment, идентифициран in-scene като Monteverde cloud forest, 2018. | Direct visual evidence + scene text/context | VH | Демонстрира preserved immersive pre-Silo environment. |
-| E280 | Bernard обяснява, че immersive headset работи подобно на visual system, използвана в cleaner helmets. | Character technical explanation | H | VH, че дава explanation-а; exact hardware/software equivalence остава unresolved. |
+| E278 | Около този преход Meadows е изчезнала за четири дни, преди да изостави shadow path. | Character testimony | VH | Целта/местоположението на четиридневното отсъствие остават неустановени. |
+| E279 | Bernard притежава/използва immersive headset, показващ pre-Silo природна среда, идентифицирана в сцената като облачната гора Monteverde, 2018. | Direct visual evidence + scene text/context | VH | Демонстрира запазена immersive pre-Silo среда. |
+| E280 | Bernard обяснява, че immersive headset работи подобно на визуалната система, използвана в cleaner helmets. | Character technical explanation | H | VH, че дава това обяснение; точното хардуерно/софтуерно съответствие остава неустановено. |
 | E281 | Bernard дава immersive headset на Meadows преди смъртта ѝ. | Direct observation | VH | Установява use-а му във final scene; motive не се извежда като fact. |
 | E282 | Bernard подготвя trap около пристигането на представители на Mechanical, които очакват да се срещнат с Meadows. | Direct observation / operational setup | VH | Установява deliberate staging около death scene. |
 | E283 | Планът на Bernard е да представи Mechanical като отговорен за смъртта на Meadows. | Character plan / operational inference | H | Силно подкрепено от scene sequence и newly revealed scapegoating doctrine. |
-| E284 | Murder/framing-ът цели да насочи public anger срещу Mechanical. | Character plan / governance mechanism | H | Свързва staged killing с crisis-narrative management. |
+| E284 | Убийството/натопяването цели да насочи публичния гняв срещу Mechanical. | Character plan / governance mechanism | H | Свързва инсценираното убийство с управлението на кризисния разказ. |
 | E285 | Представители на Mechanical са директно показани да пристигат на staged Meadows scene. | Direct visual evidence + scene continuity | VH | Директно потвърждава placement-а им на scene; public narrative идва от surrounding context. |
 | E286 | Bernard твърди, че impeachment protests срещу Meadows са го принудили да действа. | Character justification | VH | Записва self-justification-а на Bernard, а не objective necessity. |
 | E287 | Bernard казва, че знае, че Sims стои зад impeachment pressure/protests срещу Meadows. | Character claim / privileged assessment | H | VH, че Bernard прави claim-а; independent corroboration остава open. |
