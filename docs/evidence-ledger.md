@@ -79,31 +79,31 @@
 | E073 | Juliette обвинява баща си за загубата на майка и брат и свързва разрива с преместването си в Mechanical. | Character testimony / motivation | H | Доказва гледната точка/мотива на Juliette, а не обективна вина на бащата. |
 | E074 | Judicial се противопоставя Juliette да стане Sheriff и предпочита друг кандидат. | Direct governance stance | H | Наследяването на Sheriff = институционална борба за власт. |
 | E075 | Deputy Sheriff Marnes умира при подозрителни обстоятелства. | Direct event | M | S01E05 по-късно третира смъртта като разследване на убийство. |
-| E076 | Juliette намира official file/dossier на George Wilkins. | Direct investigation event | H | Позволява comparison official record vs independent evidence. |
-| E077 | Public exterior display е показан в normal night state с dark exterior/tree/star-like points. | Direct visual evidence | H | Dynamic day/night state; не е live-feed proof. |
-| E078 | S01E04 spatial sequence укрепва model Level 1/Up-top Sheriff + airlock complex. | Visual/spatial inference | M | Strong model, не floor-plan confirmation. |
-| E079 | New-occupant notice насочва unwanted previous-tenant items към recycling за proper redistribution. | Direct screenshot evidence | VH | Circular reuse/redistribution; ownership regime е неизвестен. |
-| E080 | Juliette вижда, че institutional dossier съдържа content от разговора ѝ с Holston за watch. | Direct observation / dossier evidence | H | Strong content-level surveillance/reporting evidence; exact mechanism е неизвестен. |
-| E081 | Смъртта на Marnes се разследва като murder и Juliette трябва да я разследва като Sheriff. | Direct dialogue / investigation fact | H | Upgrade-ва S01E04 suspicious-death status. |
-| E082 | След Marnes Deputy, preferred/aligned с opposing institutional line, е назначен при Juliette. | Governance action / dialogue context | H | Strengthen-ва H23; не доказва murder motive. |
-| E083 | Sketch на Mayor липсва по време на investigation. | Direct investigation observation | H | Potential removed evidence/object. |
-| E084 | Sims директно обвинява Juliette за смъртта на Marnes. | Character accusation | H | Доказва stance/pressure, а не responsibility на Juliette. |
-| E085 | По-рано видяното indoor garden/green communal area се използва за funerals/memorial/burial ritual. | Direct observation | H | Добавя funerary function; няма biological recycling inference. |
-| E086 | Bernard заявява current Silo population **10,112 residents**. | Institutional/direct dialogue claim | H | Най-прецизният current official population figure досега. |
-| E087 | Level 27 marker е директно видим. | Screenshot evidence | VH | Само spatial anchor. |
-| E088 | Juliette споменава **The Syndrome** като in-world condition/term. | Direct dialogue | H | Nature, symptoms, cause и prevalence са неизвестни. |
-| E089 | Level 29 marker е директно видим. | Screenshot evidence | VH | Spatial anchor. |
-| E090 | За новия Deputy е казано/contextually established, че живее няколко levels под Level 29. | Dialogue/context | M | Exact home level е неизвестен; няма връзка с Level 27 marker. |
-| E091 | Rat poison и missing Mayor sketch са намерени при Patrick Kennedy. | Direct investigation evidence | H | Първоначално incriminating, по-късно reliability е compromised от E093. |
-| E092 | Judicial демонстрира capacity да води/участва в investigation паралелно на Sheriff's Department. | Direct governance/investigative behavior | H | Exact formal legal scope остава неизвестен. |
-| E093 | Juliette директно хваща Douglas Trumbull, Judicial-associated operative, да manipulate/plant-ва evidence. | Direct observation | VH | Direct proof за evidence manipulation в active case. |
-| E094 | След като е разкрит, Trumbull се опитва да убие Juliette, като я хвърли/бута от stairs. | Direct observation | VH | Демонстрира lethal operational behavior. |
-| E095 | Sims лично убива Trumbull. | Direct observation | VH | Critical command/cleanup datapoint. |
-| E096 | Investigative/institutional resolution на епизода идентифицира Trumbull като отговорен за убийствата на Mayor и Marnes и за framing на Patrick. | Character/institutional conclusion | M-H | Не е equivalent на independent confession/forensic proof; Trumbull не може да бъде questioned. |
-| E097 | Sims съзнателно представя смъртта на Trumbull като **suicide**, въпреки viewer-direct observation, че Sims го убива. | Direct observation + false institutional claim | VH | Първи confirmed case observed-event ≠ official-account. |
-| E098 | Judge formally затваря case след narrative за Trumbull. | Direct governance action | H | Демонстрира Judicial case-finalization power. |
-| E099 | Cafeteria observer вижда night-sky lights, но не знае/не ги идентифицира като stars. | Direct dialogue / knowledge-state evidence | H | Concrete lost-astronomy knowledge datapoint. |
-| E100 | Observer разпознава W/zig-zag-like pattern и записва movement/distance приблизително през 30-day intervals. | Direct observation + screenshot | VH | Systematic longitudinal observation. |
+| E076 | Juliette намира официално досие на George Wilkins. | Direct investigation event | H | Позволява сравнение между официалния запис и независимото evidence. |
+| E077 | Публичният exterior display е показан в нормално нощно състояние с тъмна външна среда/дърво/звездоподобни точки. | Direct visual evidence | H | Динамично дневно/нощно състояние; не е доказателство за live feed. |
+| E078 | Пространствената поредица в S01E04 укрепва модела Level 1/Up-top Sheriff + airlock complex. | Visual/spatial inference | M | Силен модел, но не потвърждение на план на етажа. |
+| E079 | Известие за нов обитател насочва нежеланите вещи на предишния обитател към рециклиране за правилно преразпределение. | Direct screenshot evidence | VH | Кръгово повторно използване/преразпределение; режимът на собственост е неизвестен. |
+| E080 | Juliette вижда, че институционалното досие съдържа информация от разговора ѝ с Holston за часовника. | Direct observation / dossier evidence | H | Силно evidence на ниво съдържание за наблюдение/докладване; точният механизъм е неизвестен. |
+| E081 | Смъртта на Marnes се разследва като убийство и Juliette трябва да я разследва като Sheriff. | Direct dialogue / investigation fact | H | Надгражда статуса на подозрителната смърт от S01E04. |
+| E082 | След Marnes при Juliette е назначен Deputy, предпочитан/свързан с противопоставящата се институционална линия. | Governance action / dialogue context | H | Засилва H23; не доказва мотив за убийство. |
+| E083 | Скицата на Mayor липсва по време на разследването. | Direct investigation observation | H | Потенциално премахнато доказателство/обект. |
+| E084 | Sims директно обвинява Juliette за смъртта на Marnes. | Character accusation | H | Доказва позиция/натиск, а не отговорност на Juliette. |
+| E085 | По-рано видяната вътрешна градина/зелена обща зона се използва за погребения/мемориали/погребален ритуал. | Direct observation | H | Добавя погребална функция; няма извод за биологично рециклиране. |
+| E086 | Bernard заявява текущо население на Silo от **10 112 жители**. | Institutional/direct dialogue claim | H | Най-прецизната текуща официална стойност за населението досега. |
+| E087 | Marker-ът за Level 27 е директно видим. | Screenshot evidence | VH | Само пространствен ориентир. |
+| E088 | Juliette споменава **The Syndrome** като in-world състояние/термин. | Direct dialogue | H | Естеството, симптомите, причината и разпространението са неизвестни. |
+| E089 | Marker-ът за Level 29 е директно видим. | Screenshot evidence | VH | Пространствен ориентир. |
+| E090 | За новия Deputy е казано/установено от контекста, че живее няколко нива под Level 29. | Dialogue/context | M | Точното домашно ниво е неизвестно; няма връзка с marker-а за Level 27. |
+| E091 | Отрова за плъхове и липсващата скица на Mayor са намерени при Patrick Kennedy. | Direct investigation evidence | H | Първоначално уличаващо, но по-късно надеждността е компрометирана от E093. |
+| E092 | Judicial демонстрира способност да води/участва в разследване паралелно със Sheriff's Department. | Direct governance/investigative behavior | H | Точният формален правен обхват остава неизвестен. |
+| E093 | Juliette директно хваща Douglas Trumbull, свързан с Judicial оперативен служител, да манипулира/подхвърля evidence. | Direct observation | VH | Директно доказателство за манипулация на evidence в активно дело. |
+| E094 | След като е разкрит, Trumbull се опитва да убие Juliette, като я хвърли/бута по стълбите. | Direct observation | VH | Демонстрира смъртоносно оперативно поведение. |
+| E095 | Sims лично убива Trumbull. | Direct observation | VH | Критична точка за командване/прикриване. |
+| E096 | Разследващото/институционалното заключение на епизода идентифицира Trumbull като отговорен за убийствата на Mayor и Marnes и за натопяването на Patrick. | Character/institutional conclusion | M-H | Не е еквивалент на независимо признание/съдебномедицинско доказателство; Trumbull не може да бъде разпитан. |
+| E097 | Sims съзнателно представя смъртта на Trumbull като **самоубийство**, въпреки прякото наблюдение на зрителя, че Sims го убива. | Direct observation + false institutional claim | VH | Първи потвърден случай наблюдавано събитие ≠ официален разказ. |
+| E098 | Judge формално затваря делото след разказа за Trumbull. | Direct governance action | H | Демонстрира властта на Judicial да финализира дела. |
+| E099 | Наблюдателят в cafeteria вижда светлини в нощното небе, но не знае/не ги идентифицира като звезди. | Direct dialogue / knowledge-state evidence | H | Конкретна точка за изгубено астрономическо знание. |
+| E100 | Наблюдателят разпознава W/зигзагообразен модел и записва движение/разстояние приблизително през 30-дневни интервали. | Direct observation + screenshot | VH | Систематично продължително наблюдение. |
 | E101 | Night public display съдържа достатъчно systematic time-dependent celestial behavior за repeated measurement. | Inference from repeated observation | H | Не различава live, processed, prerecorded или synthetic sky. |
 | E102 | Level 8 marker е директно видим. | Screenshot evidence | VH | Upper-level spatial anchor. |
 | E103 | Pact умишлено забранява mechanized movement/transport през Silo. | Character testimony about institutional rule | H | Потвърждава, че no-elevator condition е intentional policy/design constraint; reason е unknown. |
