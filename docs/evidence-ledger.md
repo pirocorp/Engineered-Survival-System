@@ -143,7 +143,7 @@
 | E135 | Historical testimony твърди, че reproductive control е използван срещу Flamekeepers/descendants, за да не продължат family lines и постепенно да изчезнат. | Character testimony / historical claim | H | Supports selective lineage-suppression model. |
 | E136 | Medical system е описан като използващ false implant-removal assurances при selected women. | Character testimony / historical mechanism | H | Mechanism receives direct independent corroboration in E137. |
 | E137 | Бащата на Juliette лично признава, че е лъгал female patients, че contraceptive implants са премахнати, докато всъщност ги е оставял на място. | Direct dialogue / admission | VH | Независимо corroborate-ва retained-implant evidence на Allison от S01E01; потвърждава covert medical-deception mechanism. |
-| E138 | George’s mother е identified through testimony as a Flamekeeper. | Character testimony / historical claim | H | Gives George direct family link to knowledge-preservation network. |
+| E138 | Майката на George е идентифицирана чрез свидетелски разказ като Flamekeeper. | Character testimony / historical claim | H | Дава на George пряка семейна връзка с мрежата за съхраняване на знания. |
 | E139 | Provenance на Georgia travel guide е описан като Gloria → майката на George, когато Gloria се е withdrawn/given up от този path. | Character testimony / object provenance | H | Прави книгата част от Flamekeeper relic-preservation chain; не locatе-ва Silo в Georgia. |
 | E140 | Следователно Georgia book има concrete Flamekeeper-preservation provenance, а не е random isolated relic. | Cross-evidence inference | H | Strengthen-ва historical significance, а не geographic-location confidence. |
 | E141 | Майката на Juliette и майката на George са се познавали и са имали обща business/work relationship. | Character testimony / historical claim | H | Създава intergenerational bridge между семействата на Juliette и George. |
@@ -467,11 +467,11 @@ Validated manual-upload assets:
 - [Level 26 marker](../assets/S01E07/screenshots/level-26-marker.jpeg)
 - [S01E07 visual evidence manifest](../assets/S01E07/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+`contact-sheet.jpg` е спомагателен навигационен asset и не е primary evidence.
 
 ## Визуални източници — S01E08
 
-Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Rabbit / heart-research context](../assets/S01E08/screenshots/juliette-mother-rabbit-heart-research.jpeg)
 - [Homemade microscope / magnification device](../assets/S01E08/screenshots/juliette-mother-illicit-microscope-device.jpeg)
@@ -481,24 +481,24 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [Level 30 marker](../assets/S01E08/screenshots/level-30-marker.jpeg)
 - [S01E08 visual evidence manifest](../assets/S01E08/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+`contact-sheet.jpg` е спомагателен навигационен asset и не е primary evidence.
 
 ## Визуални източници — S01E09
 
-Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Juliette fall / Level 23 bridge](../assets/S01E09/screenshots/juliette-fall-level-23-bridge.jpeg)
 - [Level 23 marker](../assets/S01E09/screenshots/level-23-marker.jpeg)
 - [Bernard / numbered device 18](../assets/S01E09/screenshots/bernard-number-18-device.jpeg)
 - [S01E09 visual evidence manifest](../assets/S01E09/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+`contact-sheet.jpg` е спомагателен навигационен asset и не е primary evidence.
 
-The episode-ending Jane Carmody cleaning-file frame is recorded as direct episode observation (E165) but is not part of the current screenshot batch.
+Кадърът от края на епизода с cleaning файла на Jane Carmody е записан като пряко наблюдение от епизода (E165), но не е част от текущия screenshot batch.
 
 ## Визуални източници — S01E10
 
-Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Bernard physical key `18`](../assets/S01E10/screenshots/bernard-key-18.jpeg)
 - [Barren exterior + distant skyline](../assets/S01E10/screenshots/exterior-barren-city-skyline.jpeg)
@@ -511,11 +511,11 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [Janitorial ROTA board](../assets/S01E10/screenshots/janitorial-closet-rota.png)
 - [S01E10 visual evidence manifest](../assets/S01E10/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+`contact-sheet.jpg` е спомагателен навигационен asset и не е primary evidence.
 
 ## Визуални източници — S02E01
 
-Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Agricultural levels — wide](../assets/S02E01/screenshots/silo-agricultural-levels-wide.jpeg)
 - [Anti-Founder graffiti](../assets/S02E01/screenshots/rebellion-anti-founders-graffiti.jpeg)
@@ -532,11 +532,11 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [Second-Silo IT vault survivor](../assets/S02E01/screenshots/other-silo-it-vault-survivor.jpeg)
 - [S02E01 visual evidence manifest](../assets/S02E01/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+`contact-sheet.jpg` е спомагателен навигационен asset и не е primary evidence.
 
 ## Визуални източници — S02E02
 
-Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Bernard / live Juliette-associated exterior feed](../assets/S02E02/screenshots/bernard-live-helmet-feed-second-silo.jpeg)
 - [Bernard reaction/context frame](../assets/S02E02/screenshots/bernard-reaction-to-second-silo-feed.jpeg)
@@ -546,21 +546,21 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [Circled rebellion-context graffiti symbol](../assets/S02E02/screenshots/rebellion-circled-symbol-graffiti.jpeg)
 - [S02E02 visual evidence manifest](../assets/S02E02/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+`contact-sheet.jpg` е спомагателен навигационен asset и не е primary evidence.
 
 ## Визуални източници — S02E03
 
-Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Bernard key 18 / Server Room access](../assets/S02E03/screenshots/bernard-key18-server-room-access.jpeg)
 - [Server Room / IT vault](../assets/S02E03/screenshots/server-room-it-vault.jpeg)
 - [CODE SILO ORANGE / A.R. medical record](../assets/S02E03/screenshots/silo-orange-birth-control-protocol.jpeg)
 - [S02E03 visual evidence manifest](../assets/S02E03/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+`contact-sheet.jpg` е спомагателен навигационен asset и не е primary evidence.
 ## Визуални източници — S02E04
 
-Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Level 119 marker](../assets/S02E04/screenshots/level-119-marker.jpeg)
 - [Bernard / Monteverde 2018 immersive headset](../assets/S02E04/screenshots/bernard-vr-monteverde-2018.jpeg)
@@ -568,22 +568,22 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [Population movement in Silo stairwell](../assets/S02E04/screenshots/silo-stairwell-population-movement.jpeg)
 - [S02E04 visual evidence manifest](../assets/S02E04/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+`contact-sheet.jpg` е спомагателен навигационен asset и не е primary evidence.
 
 ## Визуални източници — S02E05
 
-Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Level 26 marker — repeated](../assets/S02E05/screenshots/level-26-marker-repeat.jpeg)
 - [Multilevel green/common area](../assets/S02E05/screenshots/multilevel-green-common-area.jpeg)
 - [Silo schematic with IT/Judicial lines](../assets/S02E05/screenshots/monitor-silo-map-it-judicial-lines.jpeg)
 - [S02E05 visual evidence manifest](../assets/S02E05/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+`contact-sheet.jpg` е спомагателен навигационен asset и не е primary evidence.
 
 ## Визуални източници — S02E06
 
-Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Sheriff direct-messaging UI](../assets/S02E06/screenshots/sheriff-direct-messaging-ui.jpeg)
 - [Sheriff direct-messaging conversation](../assets/S02E06/screenshots/sheriff-direct-messaging-conversation.jpeg)
@@ -592,11 +592,11 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [Level 120 marker](../assets/S02E06/screenshots/level-120-marker.jpeg)
 - [S02E06 visual evidence manifest](../assets/S02E06/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+`contact-sheet.jpg` е спомагателен навигационен asset и не е primary evidence.
 
 ## Визуални източници — S02E07
 
-Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Vault residential compartments](../assets/S02E07/screenshots/vault-residential-compartments.jpeg)
 - [Legacy library](../assets/S02E07/screenshots/legacy-library.jpeg)
@@ -604,13 +604,13 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [Silo 18 blackout — IT remains powered](../assets/S02E07/screenshots/silo18-blackout-it-remains-powered.jpeg)
 - [S02E07 visual evidence manifest](../assets/S02E07/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+`contact-sheet.jpg` е спомагателен навигационен asset и не е primary evidence.
 
-E323–E324 are dialogue/chronology evidence; the current screenshot batch does not contain a frame with the explicit `352 years` line.
+E323–E324 са dialogue/chronology evidence; текущият screenshot batch не съдържа кадър с изричното `352 years` изказване.
 
 ## Визуални източници — S02E08
 
-Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Judge Sims / R. Ahundsen message](../assets/S02E08/screenshots/judge-sims-r-ahundsen-apple-tree-message.jpeg)
 - [Indoor orchard / apple-tree context](../assets/S02E08/screenshots/indoor-orchard-apple-tree-context.jpeg)
@@ -618,9 +618,9 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [Quinn decoded message — game is rigged](../assets/S02E08/screenshots/quinn-decoded-message-game-is-rigged.jpeg)
 - [S02E08 visual evidence manifest](../assets/S02E08/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+`contact-sheet.jpg` е спомагателен навигационен asset и не е primary evidence.
 
-E330–E341 and E348–E350 are primarily dialogue/privileged-history evidence. E356 directly confirms additional Silo 17 survivors, but no dedicated screenshot of that final reveal is included in the current visual package.
+E330–E341 и E348–E350 са предимно dialogue/privileged-history evidence. E356 директно потвърждава допълнителни оцелели от Silo 17, но в текущия visual package няма отделен screenshot на това финално разкритие.
 
 ## Фокусирани evidence бележки
 
