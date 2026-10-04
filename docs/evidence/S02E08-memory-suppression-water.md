@@ -2,34 +2,35 @@
 
 **Knowledge boundary:** `S02E08`
 
-S02E08 independently corroborates one of the most important historical claims from S01E07.
+S02E08 независимо corroborate-ва едно от най-важните исторически твърдения от S01E07.
 
 ## Evidence
 
-Bernard says Salvador Quinn placed a **chemical/drug in the water** that made people forget.
+Bernard казва, че Salvador Quinn е поставил **chemical/drug във водата**, който кара хората да забравят.
 
-He describes the effect as cumulative:
+Той описва ефекта като натрупващ се:
 
 ```text
-continued consumption
+продължителна консумация
       ↓
-week after week
+седмица след седмица
       ↓
-month after month
+месец след месец
       ↓
-year after year
+година след година
       ↓
-memories progressively fade
+спомените постепенно избледняват
 ```
 
-This is materially different from an instantaneous complete reset.
+Това е съществено различно от моментален пълен reset.
 
 ## Cross-episode corroboration
 
 ```text
 S01E07
 Flamekeeper historical testimony:
-something was put in the water to suppress/erase memory
+нещо е добавяно във водата,
+за да потиска/изтрива паметта
 
 S02E03
 current institutional drug:
@@ -37,25 +38,25 @@ offered explicitly "so you can forget"
 
 S02E08
 Bernard privileged history:
-Quinn deliberately used chronic waterborne dosing
-so memories faded over time
+Quinn умишлено използва chronic waterborne dosing
+и спомените избледняват с времето
 ```
 
-## H30 update
+## Update на H30
 
-**The Silo possesses pharmacological memory-suppression capability, and Quinn historically used prolonged waterborne dosing as part of a deliberate population-wide historical-memory reset.**
+**Silo разполага с pharmacological memory-suppression capability, а Quinn исторически използва продължително waterborne dosing като част от умишлен population-wide historical-memory reset.**
 
 **Confidence:** VH  
 **Status:** Strongly Strengthened / Refactored.
 
 ## Unresolved
 
-The episode does not establish:
+Епизодът не установява:
 - chemical identity;
 - dose;
 - exact cognitive mechanism;
 - reversibility;
 - side effects;
-- whether the current S02E03 forgetfulness drug is the same molecule;
-- whether privileged personnel were exempt;
-- how treatment of water was technically implemented or stopped.
+- дали current S02E03 forgetfulness drug е същата molecule;
+- дали privileged personnel са били exempt;
+- как technically е било реализирано или спряно treatment-ът на водата.
