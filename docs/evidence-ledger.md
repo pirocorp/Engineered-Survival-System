@@ -413,44 +413,44 @@
 | E396 | В Silo 17 родителите на оцелелия са блокирали тръбата на safeguard-а и са предотвратили нормалното подаване на отровата. | Character testimony | VH / H-VH | Силно evidence за практически път за блокиране. |
 | E397 | Тръбата на safeguard-а идва отвън и влиза в Silo при Level 14. | Direct system exposition / dialogue | VH | Установява външно подаване + пространствен интерфейс. |
 | E398 | Пътят за подаване на safeguard-а е поне частично външен спрямо локалната обвивка на Silo. | Strong system inference | H-VH | Източникът нагоре по веригата/контролиращият субект са неизвестни. |
-| E399 | Level 14 е strong candidate interface point между external safeguard infrastructure и internal Silo systems. | Spatial/system inference | H | Function beyond safeguard interface remains unresolved. |
-| E400 | Rebels sabotage/destroy част от main stair connections в Silo 18. | Direct action / scene observation | VH | Architecture becomes tactical terrain. |
-| E401 | Bernard's forces остават significantly cut off lower down, докато rebellion side retains upper positions. | Direct situational outcome / user-confirmed context | VH | Operational split. |
-| E402 | Stair sabotage превръща vertical Silo architecture в defensive barrier. | Strong inference | H-VH | Tactical consequence, not separate infrastructure claim. |
-| E403 | Exit/airlock access е в или непосредствено през Sheriff Department zone. | Direct scene/dialogue evidence | VH | Exact floor-plan boundary not established. |
-| E404 | Sheriff Department е на Level 1 и е непосредствено до cafeteria. | Direct spatial evidence | VH | Strengthens Up-top layout model. |
-| E405 | Juliette се връща до Silo 18 и показва `not safe / do not come out` към camera/display system. | Direct visual evidence | VH | Explicit exterior warning. |
-| E406 | Juliette intentionally предупреждава Silo 18 residents да не излизат, защото exterior остава dangerous. | Direct action / communication intent | VH | Does not prove every resident saw it. |
-| E407 | Exterior camera може да serve като information surface from outside чрез physical message shown to camera. | System inference | H-VH | Broadcast/filtering path remains unknown. |
-| E408 | Silo 18 exterior entrance/airlock hatch се отваря отвътре, докато Juliette е там. | Direct observation | VH | Entry is actively opened. |
-| E409 | Някой вътре initiates/permits Juliette's access. | Strong situational inference | H-VH | Specific actor established by next evidence. |
-| E410 | Bernard лично посреща Juliette при open Silo 18 entrance/airlock. | Direct scene context / user-confirmed character identity | VH | Personal participation, not only remote monitoring. |
-| E411 | Bernard физически участва в receiving/entry sequence-а. | Situational inference | H-VH | Само по себе си това не установява sole control authority. |
-| E412 | Bernard е в airlock/exit zone с protective suit/helmet. | Direct visual evidence | VH | Exact reason for suit remains contextual. |
-| E413 | Juliette казва на Bernard, че може би знае как да спре `the safeguard`. | Direct dialogue | VH | Supersedes earlier weaker live-note wording about merely knowing poison mechanism. |
-| E414 | След този exchange Bernard и Juliette влизат заедно през entry/airlock passage. | Direct observation / sequence | VH | Chronology anchor. |
-| E415 | Juliette демонстрира пред Bernard, че safeguard knowledge е breached beyond protected IT/lower-system layer. | Strong information-control inference | H-VH | Exact source of her stop method unresolved. |
-| E416 | След като Juliette и Bernard вече са влезли, burner/flame system се активира в entry/airlock zone. | Direct scene observation / corrected chronology | VH | Explicit correction of earlier live ambiguity. |
-| E417 | Decontamination/sterilization е plausible function за burner cycle, но exact function не е established и system-ът не се equate-ва със safeguard-а. | Technical hypothesis boundary | M-H | Keep separate systems. |
-| E418 | Narrative-ът преминава към Washington в direct pre-Silo period. | Direct scene / temporal-location transition | VH | First direct pre-Silo historical scene in project. |
-| E419 | Project knowledge вече включва contemporaneous pre-Silo reality, не само later relics/records/testimony. | Evidence-state inference | VH | Methodological boundary change. |
-| E420 | Преди entry човекът е checked с handheld radiation-measurement device. | Direct scene observation | VH | Radiological screening. |
-| E421 | Radiation device показва radiation symbol и status `NORMAL`. | Direct visual evidence | VH | Exact numeric readout not required for claim. |
-| E422 | Radiation screening е part of entry procedure за конкретното venue. | Direct contextual inference | H-VH | Scope beyond venue unknown. |
-| E423 | Screened destination-ът е bar. | Direct scene context | VH | Ordinary social-venue context. |
-| E424 | Central male character е Congressman from Georgia. | Direct dialogue / character background | VH | Political role/location anchor. |
-| E425 | Georgia се появява като second independent pre-Silo anchor след S01E06 travel-guide relic. | Cross-episode contextual correlation | H | Does not locate Silo by itself. |
-| E426 | Congressman-ът представлява Georgia's 15th congressional district. | Direct dialogue / character background | VH | Precise political-geographic anchor. |
-| E427 | In-world Georgia в този period има поне 15 congressional districts. | Direct institutional inference | VH | No external calendar inference used. |
-| E428 | Dialogue-ът реферира prior alleged radiological/dirty-bomb attack срещу САЩ; event-ът не е current during bar scene. | Direct dialogue / historical context | VH | Reality of attack separately questioned later. |
-| E429 | Alleged attack-ът е attributed to Iran в разговора. | Character/in-world attribution | VH | Attribution ≠ independent proof of perpetrator. |
-| E430 | Congressman-ът е попитан дали се планира retaliatory strike срещу Iran. | Direct dialogue | VH | Question does not establish approved/executed strike. |
-| E431 | Alleged radiological incident е part of political/national-security debate за possible U.S. retaliation. | Strong contextual inference | H-VH | Scope of actual policy unknown. |
-| E432 | Dialogue-ът explicitly допуска, че може изобщо да не е имало radiological attack срещу САЩ. | Direct dialogue | VH | Materially weakens attack-as-established-history model. |
-| E433 | Жената поставя под въпрос factual reality на alleged attack-а, не само attribution-а. | Direct character statement / implication | VH | Speaker claim; final truth unknown. |
-| E434 | Fabricated/manipulated-pretext model става legitimate candidate; strict false-flag model остава unproven. | Hypothesis-level inference | M | Requires future evidence for institutional authorship/staging. |
-| E435 | Congressman-ът подарява на жената packaged `PEZ Candy & Dispenser` с yellow-duck head. | Direct visual evidence / character interaction | VH | Clear consumer-object identity. |
-| E436 | PEZ-ът е personal gift и potential cross-era provenance marker; exact continuity към Silo-era relic остава unproven. | Contextual inference | H | Strong object-class bridge, not chain-of-custody proof. |
+| E399 | Level 14 е силен кандидат за интерфейсна точка между външната safeguard инфраструктура и вътрешните системи на Silo. | Spatial/system inference | H | Функцията извън интерфейса на safeguard-а остава неустановена. |
+| E400 | Бунтовниците саботират/унищожават част от основните връзки на стълбището в Silo 18. | Direct action / scene observation | VH | Архитектурата се превръща в тактически терен. |
+| E401 | Силите на Bernard остават значително отрязани по-надолу, докато страната на бунта задържа горните позиции. | Direct situational outcome / user-confirmed context | VH | Оперативно разделение. |
+| E402 | Саботажът на стълбището превръща вертикалната архитектура на Silo в отбранителна бариера. | Strong inference | H-VH | Тактическа последица, а не отделно твърдение за инфраструктурата. |
+| E403 | Достъпът до изхода/airlock-а е в или непосредствено през зоната на Sheriff Department. | Direct scene/dialogue evidence | VH | Точната граница в планировката не е установена. |
+| E404 | Sheriff Department е на Level 1 и е непосредствено до cafeteria. | Direct spatial evidence | VH | Засилва модела за разположението в Up-top. |
+| E405 | Juliette се връща до Silo 18 и показва `not safe / do not come out` („не е безопасно / не излизайте“) към camera/display системата. | Direct visual evidence | VH | Изрично предупреждение от външната страна. |
+| E406 | Juliette умишлено предупреждава жителите на Silo 18 да не излизат, защото външната среда остава опасна. | Direct action / communication intent | VH | Не доказва, че всеки жител го е видял. |
+| E407 | Външната камера може да служи като информационна повърхност отвън чрез физическо съобщение, показано на камерата. | System inference | H-VH | Пътят на излъчване/филтриране остава неизвестен. |
+| E408 | Външният вход/люкът на airlock-а на Silo 18 се отваря отвътре, докато Juliette е там. | Direct observation | VH | Входът е активно отворен. |
+| E409 | Някой вътре инициира/разрешава достъпа на Juliette. | Strong situational inference | H-VH | Конкретният участник е установен от следващото evidence. |
+| E410 | Bernard лично посреща Juliette при отворения вход/airlock на Silo 18. | Direct scene context / user-confirmed character identity | VH | Лично участие, а не само дистанционно наблюдение. |
+| E411 | Bernard физически участва в поредицата по посрещане/влизане. | Situational inference | H-VH | Само по себе си това не установява единствена контролираща власт. |
+| E412 | Bernard е в зоната на airlock-а/изхода със защитен костюм/шлем. | Direct visual evidence | VH | Точната причина за костюма остава контекстуална. |
+| E413 | Juliette казва на Bernard, че може би знае как да спре `the safeguard`. | Direct dialogue | VH | Заменя по-ранната по-слаба live формулировка, че тя само знае механизма на отровата. |
+| E414 | След този обмен Bernard и Juliette влизат заедно през входния/airlock проход. | Direct observation / sequence | VH | Хронологичен ориентир. |
+| E415 | Juliette демонстрира пред Bernard, че знанието за safeguard-а е проникнало отвъд защитения IT/долен системен слой. | Strong information-control inference | H-VH | Точният източник на нейния метод за спиране остава неустановен. |
+| E416 | След като Juliette и Bernard вече са влезли, системата с горелка/пламък се активира във входната/airlock зона. | Direct scene observation / corrected chronology | VH | Изрична корекция на по-ранната live неяснота. |
+| E417 | Деконтаминация/стерилизация е правдоподобна функция на цикъла с горелката, но точната функция не е установена и системата не се приравнява със safeguard-а. | Technical hypothesis boundary | M-H | Системите се държат отделно. |
+| E418 | Разказът преминава към Washington в директен pre-Silo период. | Direct scene / temporal-location transition | VH | Първата директна pre-Silo историческа сцена в проекта. |
+| E419 | Знанието на проекта вече включва непосредствена pre-Silo реалност от същия период, а не само по-късни реликви/записи/свидетелства. | Evidence-state inference | VH | Промяна в методологичната граница. |
+| E420 | Преди влизане човекът е проверен с ръчно устройство за измерване на радиация. | Direct scene observation | VH | Радиационен контрол. |
+| E421 | Устройството за радиация показва радиационен символ и статус `NORMAL` („НОРМАЛНО“). | Direct visual evidence | VH | За твърдението не е необходима точна цифрова стойност. |
+| E422 | Радиационният контрол е част от процедурата за влизане в конкретното заведение. | Direct contextual inference | H-VH | Обхватът извън това заведение е неизвестен. |
+| E423 | Проверената дестинация е бар. | Direct scene context | VH | Контекст на обикновено социално заведение. |
+| E424 | Централният мъжки персонаж е конгресмен от Georgia. | Direct dialogue / character background | VH | Политически ролеви/географски ориентир. |
+| E425 | Georgia се появява като втори независим pre-Silo ориентир след реликвата travel guide от S01E06. | Cross-episode contextual correlation | H | Само по себе си не локализира Silo. |
+| E426 | Конгресменът представлява 15-и конгресен окръг на Georgia. | Direct dialogue / character background | VH | Точен политико-географски ориентир. |
+| E427 | В показания свят Georgia в този период има поне 15 конгресни окръга. | Direct institutional inference | VH | Не е използван външен календарен извод. |
+| E428 | Диалогът се позовава на предходна предполагаема радиологична/„мръсна бомба“ атака срещу САЩ; събитието не е текущо по време на сцената в бара. | Direct dialogue / historical context | VH | Реалността на атаката по-късно е отделно поставена под въпрос. |
+| E429 | Предполагаемата атака е приписана на Iran в разговора. | Character/in-world attribution | VH | Приписване ≠ независимо доказателство за извършителя. |
+| E430 | Конгресменът е попитан дали се планира ответен удар срещу Iran. | Direct dialogue | VH | Въпросът не установява одобрен/изпълнен удар. |
+| E431 | Предполагаемият радиологичен инцидент е част от политическия/националносигурностния дебат за възможен ответен удар на САЩ. | Strong contextual inference | H-VH | Обхватът на действителната политика е неизвестен. |
+| E432 | Диалогът изрично допуска, че може изобщо да не е имало радиологична атака срещу САЩ. | Direct dialogue | VH | Съществено отслабва модела, в който атаката се приема като установена история. |
+| E433 | Жената поставя под въпрос фактическата реалност на предполагаемата атака, не само приписването ѝ. | Direct character statement / implication | VH | Твърдение на говорещия; окончателната истина е неизвестна. |
+| E434 | Моделът за фабрикуван/манипулиран претекст става легитимен кандидат; строгият модел `false flag` остава недоказан. | Hypothesis-level inference | M | Изисква бъдещо evidence за институционално авторство/инсцениране. |
+| E435 | Конгресменът подарява на жената пакетирано `PEZ Candy & Dispenser` с глава на жълто пате. | Direct visual evidence / character interaction | VH | Ясна идентичност на потребителския предмет. |
+| E436 | PEZ-ът е личен подарък и потенциален маркер за произход между епохите; точната приемственост към Silo-era реликвата остава недоказана. | Contextual inference | H | Силна връзка на ниво клас предмет, а не доказателство за верига на притежание. |
 
 ## Визуални източници — S02E10
 
