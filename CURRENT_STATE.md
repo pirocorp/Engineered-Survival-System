@@ -1,30 +1,88 @@
-# Текущо състояние — след S02E07
+# Текущо състояние — след S02E08
 
-**Knowledge boundary:** `S02E07`
+**Knowledge boundary:** `S02E08`
 
 ## Работен модел
 
-S02E07 turns the secured IT vault into a much more complete continuity system: it contains residential/living space, a protected knowledge archive called `Legacy`, and IT in Silo 18 remains powered during a general blackout. Bernard also supplies the strongest direct age anchor yet by stating that the Silo was built **352 years ago**.
+S02E08 provides the first coherent privileged explanation for **why the Silo deliberately destroyed its own public historical memory**.
 
-Най-големите промени спрямо S02E06 са:
+According to Bernard, Salvador Quinn did not fail during the last Rebellion. He deliberately broke public historical continuity after concluding that knowledge of earlier rebellions contributed to a recurring roughly 20-year rebellion cycle. The intervention combined server-access removal, book confiscation, false attribution of the historical loss to rebels, and prolonged memory-suppressing dosing through the water. Bernard credits the result with approximately **140 years of peace**.
 
-1. The secured IT vault includes residential/living compartments.
-2. A protected component inside the vault is called `Legacy`.
-3. `Legacy` is identified as a library / knowledge archive.
-4. This supplies a concrete mechanism for preservation and intergenerational transfer of privileged historical/technical knowledge to IT custodians.
-5. Bernard states that the Silo was built **352 years ago**.
-6. Combined with the ~140-years-ago Rebellion anchor, construction falls roughly **212 years before the Rebellion**.
-7. A handwritten physical leaflet accuses IT of lying, presents Mechanical as seeking truth, asks what happened to Juliette and how Meadows really died, and asks what IT is hiding.
-8. The leaflet proves a circulating anti-IT counter-narrative, but not who authored/distributed it.
-9. During a general Silo 18 blackout, IT remains visibly powered.
-10. Residents notice that IT still has power, making privileged continuity infrastructure publicly visible.
-11. IT continuity power is now independently demonstrated in at least Silos 17 and 18.
-12. Silo 18 still does not prove the same exact external source described for Silo 17.
+Най-големите промени спрямо S02E07 са:
 
-> **След S02E07 the IT vault is best modeled as a continuity bunker for people, power and privileged knowledge. `Legacy` gives the hidden leadership a concrete institutional-memory mechanism, while the 352-year age anchor shows the Silo predates the Rebellion by roughly two centuries. At the same time, IT's privileged power resilience becomes publicly visible and feeds a growing counter-narrative against IT.**
+1. The official story portrays Quinn as a failed Rebellion-era Head of IT under whose watch historical/server records were lost.
+2. Bernard explicitly says this official story is false and that Quinn instead saved the Silo.
+3. Bernard says pre-Quinn rebellions had recurred roughly every 20 years and each threatened everyone.
+4. Quinn concluded that awareness of prior rebellions contributed to the recurrence.
+5. Quinn deliberately removed public historical continuity: server access was cut and books were confiscated.
+6. The destruction/loss of history was attributed to the rebels.
+7. Bernard says Quinn placed a memory-suppressing chemical/drug in the water.
+8. Chronic exposure over weeks, months and years caused memories to fade progressively.
+9. This independently corroborates the older Flamekeeper water-memory testimony and strongly refactors H30.
+10. Bernard credits the intervention with roughly 140 years of peace, while the causal diagnosis itself remains Bernard/Quinn's interpretation rather than independently proven.
+11. Meadows' earlier independent investigation is now directly tied to Quinn's relatives and surviving historical books/materials.
+12. An old copy titled `The Pact Between the Founders` bears the handwritten name `Salvador Quinn`; this proves association, not authorship or Founder status.
+13. Quinn's decoded protected message begins to reveal its purpose: `If you've gotten this far, you already know the game is rigged.`
+14. Judge Sims receives a personal digital message from R. Ahundsen referring to a funeral and a `little apple tree`; a large indoor orchard provides a plausible literal referent, while coded intent remains unresolved.
+15. Silo 17 directly contains additional living people beyond Juliette and the previously known survivor.
+
+> **След S02E08 public historical amnesia is best modeled as an engineered stability intervention: information access was removed, physical historical carriers were confiscated, public blame was falsified, and memory was pharmacologically weakened over time. At the same time, privileged continuity systems such as Legacy preserved selected knowledge for leadership. The result is not total destruction of history, but a controlled monopoly over historical memory.**
 ---
 
 ## Наблюдения с висок confidence
+
+### S02E08 — Quinn historical reset / official-history reversal
+
+- The official historical version portrays Salvador Quinn as having failed while the Silo's historical/server records were destroyed or lost during the Rebellion.
+- Bernard explicitly says that version is false and that Quinn instead **saved the Silo**.
+- Bernard says rebellions before Quinn recurred roughly every **20 years** and each endangered everyone in the Silo.
+- According to Bernard, Quinn concluded that knowing about earlier rebellions helped reproduce the cycle.
+- Quinn deliberately broke public historical continuity.
+- Public access to historical server records was cut.
+- Books were confiscated.
+- The historical destruction/loss was blamed on the rebels rather than presented as Quinn's deliberate policy.
+- Bernard credits the intervention with roughly **140 years of peace**.
+- This establishes Bernard's privileged causal account; it does not independently prove Quinn's diagnosis of rebellion causation was correct.
+
+### S02E08 — chronic memory suppression through water
+
+- Bernard says Quinn put a chemical/drug into the water that made people forget.
+- The effect is described as cumulative rather than instantaneous.
+- Week after week, month after month and year after year, memories faded.
+- This independently corroborates the older S01E07 Flamekeeper testimony that something was placed in the water to suppress/erase memory.
+- S02E03 separately established a current institutional drug offered explicitly so a person can forget.
+- The historical waterborne substance and the current S02E03 drug are not yet proven to be the same molecule or formulation.
+
+### S02E08 — Meadows / Quinn family / old Pact
+
+- While still Bernard's shadow, Meadows visited relatives/descendants of Salvador Quinn looking for surviving books and historical materials.
+- An old physical copy titled `The Pact Between the Founders` is directly shown.
+- The copy bears the handwritten name `Salvador Quinn`.
+- This directly associates Quinn with surviving foundational Pact material from the suppressed historical layer.
+- It does **not** establish that Quinn wrote the Pact, was a Founder, or that this copy differs from the current Pact.
+- Meadows' investigation may relate to her later abandonment of the shadow path, but the exact connection — including to her known four-day disappearance — remains unresolved.
+
+### S02E08 — Quinn decoded protected message
+
+- A decoded portion of Quinn's final protected message reads: `If you've gotten this far, you already know the game is rigged.`
+- The wording assumes a future reader who has already penetrated beyond the official narrative.
+- The exact referent of `the game` is not yet established.
+- The protected ending is therefore now directly supported as a second-layer message for a future investigator/successor, rather than merely generic sensitive information.
+
+### S02E08 — Sims / R. Ahundsen / orchard
+
+- Judge Sims receives a digital message from `R. AHUNDSEN`.
+- The sender recalls Sims attending the sender's father's funeral.
+- The message asks how a `little apple tree` has grown.
+- A large indoor orchard/agricultural area is shown, providing a plausible literal referent.
+- The apple-tree wording may still be coded or dual-purpose, but no coded interpretation is accepted yet.
+
+### S02E08 — multiple Silo 17 survivors
+
+- Earlier in the episode, additional-survivor indications remain provisional.
+- By the end of the episode, additional living people are directly shown in Silo 17.
+- The previously known IT-vault survivor is therefore not the only living inhabitant.
+- Exact survivor count, generational history, habitat, supplies and relationship to the vault remain unresolved.
 
 ### S02E07 — vault habitation / Legacy
 
@@ -347,7 +405,7 @@ S02E07 turns the secured IT vault into a much more complete continuity system: i
 - Water has risen to within a few levels below IT, establishing massive internal flooding.
 - At least one living person remains inside a secured IT compartment.
 - The survivor threatens Juliette if she attempts to open the door.
-- The second Silo is therefore collapsed/largely depopulated, not proven completely uninhabited.
+- S02E08 directly confirms multiple living inhabitants in Silo 17; it is collapsed/largely depopulated but not limited to the previously known IT-vault survivor.
 
 ### S02E01 — agriculture / Juliette childhood
 
@@ -571,7 +629,7 @@ Observed direct anchors include:
 | H4 | Cleaning поведението е engineered поне частично чрез false lush perception shown to cleaners. | VH | Strongly Strengthened |
 | H5 | Silo използва formally encoded covert reproductive control: `CODE SILO ORANGE` instructs staff to retain birth control while ensuring the patient believes it was removed. | VH | Confirmed / Refactored |
 | H6 | Silo control architecture deliberately restricts knowledge through public suppression, capability limits and **intra-authority compartmentalization**; Bernard can withhold classified cleaning truth even from Sims/control-room personnel. | VH | Strongly Strengthened / Refactored |
-| H7 | Official Rebellion-centered account е incomplete or misleading about origin/mechanism of historical knowledge loss. | H | Strengthened |
+| H7 | The official Rebellion-centered account of historical knowledge loss is deliberately false/misleading: Bernard says Quinn intentionally erased public historical continuity and the loss was attributed to rebels. | VH | Strongly Strengthened / Refactored |
 | H8 | A covert surveillance architecture uses concealed mirror cameras, archived feeds and a privileged live Juliette-associated exterior video channel; Sims has operational command over ordinary surveillance while Bernard/IT has higher classified access. | VH | Confirmed / Refactored |
 | H9 | George Wilkins може да е бил убит. | L | Active |
 | H10 | Multiple Silo installations form a larger system; Silo 17 survivor testimony states an exact total of **50 Silos**. | VH | Confirmed / Refactored; exact count testimony-backed |
@@ -594,7 +652,7 @@ Observed direct anchors include:
 | H27 | Pact ограничава physical capabilities за independent movement и observation/discovery, including scientific/biomedical microscopy, не само content. | H | Strongly Strengthened |
 | H28 | George’s investigation and Juliette’s path into hidden history are connected to an intergenerational Flamekeeper network. | H | Strongly Strengthened / Refactored |
 | H29 | Silo има pre-Silo geographic connection с U.S. state of Georgia. | L | Candidate |
-| H30 | Silo authorities possess/use pharmacological memory suppression as an information-control capability; historical water-delivery testimony may represent an earlier/broader form of the same control family. | VH | Strongly Strengthened / Refactored |
+| H30 | The Silo possesses pharmacological memory-suppression capability, and Quinn historically used prolonged waterborne dosing as part of a deliberate public historical-memory reset; exact relation to the current S02E03 forgetfulness drug remains unresolved. | VH | Strongly Strengthened / Refactored |
 | H31 | Reproductive selection was used for selective lineage suppression against Flamekeeper / knowledge-preserving family lines. | H | Active |
 | H32 | Flamekeeper knowledge/history survived through family/social networks and intergenerational transfer of relics. | H | Active |
 | H33 | A privileged hidden-control/read-in layer centered on Bernard/IT controls classified knowledge and now demonstrably includes communications-control capability; the `shadow` role remains a distinct succession/read-in path separate from the public Judge office. | VH | Strongly Strengthened / Refactored |
@@ -611,10 +669,10 @@ Observed direct anchors include:
 | H44 | Bernard inherits limited but significant historical/cross-Silo knowledge; S02E07's Legacy library provides a concrete preservation/transfer mechanism for that institutional memory, without proving every fact he knows comes from Legacy. | VH | Strongly Strengthened / Refactored |
 | H45 | The Syndrome may be a systemic human reaction to long-term Silo life rather than a primary physiological disease. | M | Active |
 | H46 | Cleaner lush imagery belongs to a broader immersive stored/rendered visual technology family also demonstrated by Bernard's standalone pre-Silo environment headset. | VH | Strongly Strengthened / Refactored |
-| H47 | Historical/cultural knowledge suppression has removed ordinary pre-Silo natural-world vocabulary from at least some residents. | H | Active / Strengthened |
+| H47 | Historical/cultural knowledge loss is engineered through combined information removal and memory suppression: server access removal, book confiscation, chronic waterborne forgetting and continuing relic control can explain the disappearance of ordinary pre-Silo/historical knowledge. | VH | Strongly Strengthened / Refactored |
 | H48 | `A.R.` is a distinct institutional era notation; the 352-year construction age and ~140-year Rebellion anchor now strongly establish a long pre-Rebellion Silo history, while exact `A.R.` expansion and mapping to `SILO YEAR` remain unresolved. | H | Strongly Strengthened / Refactored |
 | H49 | Mechanical is a predefined institutional scapegoat during rebellion/crisis; blame is prescribed independently of where unrest actually begins. | VH | Strongly Strengthened |
-| H50 | Salvador Quinn is a key Rebellion-era privileged-IT figure whose archived handwritten letter contains a deliberately encoded final payload likely protecting sensitive historical information. | VH | Strongly Strengthened / Refactored |
+| H50 | Salvador Quinn is a key Rebellion-era privileged-IT figure whose encoded final payload directly contains a protected message to a future reader/investigator who has already recognized that the system/history is “rigged”. | VH | Strongly Strengthened / Refactored |
 | H51 | Hidden-control leadership is non-monolithic: Bernard and Sims have partially independent interests/power bases, while Bernard demonstrably retains authority over Sims' formal posting and shadow eligibility. | H | Strongly Strengthened / Refactored |
 | H52 | Bernard uses the Mechanical-scapegoating doctrine to convert a leadership crisis into controlled conflict by framing Mechanical for Meadows' death. | H | Strongly Strengthened |
 | H53 | Judge is a high public/formal office that Bernard can fill/reassign, while the `shadow` role is a separate privileged IT succession/read-in path. | H | Strongly Strengthened |
@@ -625,10 +683,17 @@ Observed direct anchors include:
 | H58 | IT is a central communications choke point capable of degrading or isolating operational coordination by cutting Silo-wide radio traffic. | H | Active / Strengthened |
 | H59 | IT vaults may include a standardized `Legacy` knowledge archive intended to preserve technical, historical and governance knowledge across succession or Silo-wide collapse; direct confirmation currently exists in Silo 18. | H | Active / Strengthened |
 | H60 | The crisis now contains competing public narratives: leadership/IT frames Mechanical as the threat while an anti-IT physical counter-narrative presents Mechanical as seeking truth and questions Juliette/Meadows official stories. | H | Active / Strengthened |
+| H61 | Quinn implemented a deliberate historical-reset strategy to break a recurring ~20-year rebellion cycle through information suppression, false public attribution and pharmacological memory weakening. | H | Active / Strongly Strengthened |
+| H62 | Modern relic/book/history prohibition functions as a maintenance layer of Quinn's reset by preventing reconstruction of the erased public past. | H | Active / Strongly Strengthened |
+| H63 | Silo 17 contains multiple living inhabitants; the previously known IT-vault survivor is not the only surviving resident shown. | VH | Confirmed / Refactored |
+| H64 | The R. Ahundsen `apple tree` wording may be covert signaling, literal personal reminiscence, or dual-purpose language. | M | Candidate |
+| H65 | Meadows' independent investigation into Quinn/family-held historical material may have contributed to her abandonment of Bernard's shadow path; exact relation to the four-day disappearance remains unresolved. | M-H | Active |
+| H67 | Salvador Quinn had direct association with surviving foundational Pact material; authorship, Founder status and textual differences from the current Pact remain unproven. | H | Active / Strengthened |
+| H69 | Quinn's encoded ending is deliberately structured as a protected second-layer message for a future reader who has already penetrated the official narrative. | H | Active / Strengthened |
 
 ---
 
-## Surveillance / privileged-control model after S02E07
+## Surveillance / privileged-control model after S02E08
 
 S02E02 expands the hidden-control model beyond ordinary internal surveillance.
 
@@ -667,6 +732,8 @@ S02E06 adds **communications infrastructure control** to Bernard/IT's demonstrat
 
 S02E07 adds a concrete **institutional-memory mechanism** and visible continuity privilege: the vault contains `Legacy`, while IT remains powered during a broader Silo 18 blackout. The privileged layer therefore preserves not only classified access and communications control but also knowledge and operational continuity.
 
+S02E08 clarifies the asymmetry: the public historical layer was deliberately broken under Quinn, while privileged knowledge survived sufficiently for Bernard to know the hidden Quinn account and for `Legacy` to preserve protected material. This supports a **controlled historical monopoly** rather than total destruction of history.
+
 It still does **not** establish:
 - the full membership of that layer;
 - whether Sims knows parts of `THE ORDER`;
@@ -676,7 +743,7 @@ It still does **not** establish:
 
 ---
 
-## IT continuity / Legacy model after S02E07
+## IT continuity / Legacy model after S02E08
 
 ```text
 SECURED IT VAULT
@@ -858,27 +925,66 @@ This is stronger than a false narrative after the fact: the disputed/false claim
 
 ---
 
-## Historical-erasure model after S02E03
+## Historical-erasure model after S02E08
 
 ```text
-PRE-SILO HISTORY
-      │
-      ├─ relics / books / objects
-      ├─ family memory
-      └─ technical/scientific knowledge
-      │
-      ▼
-CONTROL PRESSURES
-      ├─ relic restrictions
-      ├─ restricted institutional archives
-      ├─ testimony: memory suppression through water
-      └─ testimony: selective reproductive lineage suppression
-      │
-      ▼
-PUBLIC HISTORICAL DISCONTINUITY
+PRE-QUINN SILO
+recurring rebellions ~ every 20 years
+people retain knowledge of prior rebellions
+              │
+              ▼
+QUINN'S DIAGNOSIS
+historical continuity helps reproduce rebellion
+              │
+              ▼
+DELIBERATE RESET
+  ├─ historical server access removed
+  ├─ books confiscated
+  ├─ historical loss blamed on rebels
+  └─ memory-suppressing chemical in water
+              │
+              ▼
+CHRONIC EXPOSURE
+weeks → months → years
+              │
+              ▼
+memories fade / public continuity collapses
+              │
+              ▼
+MAINTENANCE LAYER
+relic restrictions + controlled archives
+              │
+              ▼
+~140 years of peace
+(Bernard's causal assessment)
 ```
 
-Important: the **historical water-delivery mechanism** and exact anti-Flamekeeper program remain testimony-backed, but S02E03 independently corroborates the broader capability class by showing current medication explicitly offered to make a person forget.
+Critical distinction:
+
+```text
+PUBLIC
+history access removed
+books/relics suppressed
+memory pharmacologically weakened
+
+        versus
+
+PRIVILEGED CONTINUITY
+Legacy / protected records
+Quinn truth survives
+Bernard retains hidden chronology/history
+```
+
+This is no longer best modeled as simple accidental historical loss. The strongest current model is **deliberate public historical reset + privileged preservation**.
+
+Still unresolved:
+- whether Quinn's diagnosis was correct;
+- exact waterborne drug;
+- whether S02E03's current forgetfulness medication is the same substance;
+- who was exempt from exposure;
+- when dosing stopped;
+- exact relationship between Quinn's reset and modern relic enforcement.
+
 
 ---
 
@@ -920,36 +1026,42 @@ Historical targeting purpose against Flamekeeper family lines remains testimony-
 
 ---
 
-## Immediate watch targets за S02E08
+## Immediate watch targets за S02E09
 
-- exact contents and scope of `Legacy`;
-- whether `Legacy` contains pre-Silo history, construction records, cross-Silo status, `THE ORDER`, technical manuals or curated/censored history;
-- who can access `Legacy`;
-- whether shadow succession includes systematic `Legacy` training;
-- whether Silo 17 has a homologous `Legacy` archive;
-- whether the Silo 17 survivor's knowledge comes from such an archive;
-- whether Bernard's 352-year figure comes directly from `Legacy`;
-- whether 352 years is exact or rounded;
-- whether the figure applies specifically to Silo 18 or to a wider synchronized Silo construction program;
-- exact mapping among construction age, Jane Carmody, Rebellion/Quinn, `A.R.` and `SILO YEAR 96/97`;
-- who authored/distributed the anti-IT leaflet;
-- whether the leaflet is official Mechanical messaging or grassroots opposition;
-- whether physical leaflets are deliberately used to bypass radio/digital control;
-- whether the anti-IT message spreads beyond Mechanical-linked groups;
-- how public opinion changes after people observe IT remaining powered during blackout;
-- exact source, capacity and duration of Silo 18 IT continuity power;
-- whether Silo 18 uses the same external source/architecture described for Silo 17;
-- whether Judicial also remains powered during the outage;
-- whether all 50 Silos have standardized continuity power + Legacy infrastructure;
-- all unresolved S02E06 communications questions remain active unless later evidence resolves them.
+- exact archival/documentary evidence behind Bernard's ~20-year recurring-rebellion account;
+- whether Quinn's reset plan is documented in `Legacy`, `THE ORDER`, another protected archive, or oral succession knowledge;
+- exact chemical/drug used in the water;
+- whether the historical waterborne substance and S02E03 forgetfulness medication are the same compound/family;
+- dose, duration, reversibility and cognitive scope of chronic memory suppression;
+- how privileged personnel/Legacy custodians preserved memory while the public was exposed;
+- when water dosing began and ended;
+- whether modern relic enforcement is explicitly documented as maintenance of Quinn's reset;
+- what private family-held books/materials survived confiscation;
+- exact relationship between Meadows' Quinn-family investigation, her four-day disappearance and abandonment of the shadow role;
+- whether `The Pact Between the Founders` differs textually from the current Pact;
+- provenance/function of the handwritten `Salvador Quinn` name;
+- whether Quinn annotated the old Pact copy;
+- full decoded Quinn payload beyond `the game is rigged`;
+- exact referent of `the game`;
+- intended reader/recipient of Quinn's message;
+- identity and role of R. Ahundsen;
+- whether the apple-tree phrase is literal, coded or dual-purpose;
+- exact location/function of the orchard;
+- exact number and identities of additional Silo 17 survivors;
+- whether Silo 17 survivors are original survivors, descendants, or both;
+- where they live and how they obtain food, water and power;
+- their relation to the IT-vault survivor;
+- whether they have access to a Legacy-like archive or another preserved knowledge source.
 
 Виж също:
 
+- `docs/episodes/S02E08.md`
+- `docs/evidence/S02E08-quinn-historical-reset.md`
+- `docs/evidence/S02E08-memory-suppression-water.md`
+- `docs/evidence/S02E08-meadows-quinn-pact.md`
+- `docs/evidence/S02E08-quinn-decoded-message.md`
+- `docs/evidence/S02E08-sims-ahundsen-message.md`
+- `docs/evidence/S02E08-silo17-multiple-survivors.md`
 - `docs/episodes/S02E07.md`
-- `docs/evidence/S02E07-legacy-vault.md`
-- `docs/evidence/S02E07-352-year-chronology.md`
-- `docs/evidence/S02E07-anti-it-counter-narrative.md`
-- `docs/evidence/S02E07-silo18-continuity-power.md`
-- `docs/episodes/S02E06.md`
 - `docs/evidence-ledger.md`
 - `docs/open-questions.md`
