@@ -2,22 +2,22 @@
 
 **Knowledge boundary:** `S02E03`
 
-S02E03 separates two mechanisms that were previously partially conflated.
+S02E03 разделя два механизма, които по-рано бяха partially conflated.
 
 ## Ordinary cleaner death
 
 Existing evidence shows:
-- standard cleaning tape is intentionally/systematically inferior;
-- Juliette's better tape materially extends survival;
-- ordinary cleaner death occurs inside a short expected window;
-- insider dialogue attributes Juliette's survival to the tape change.
+- standard cleaning tape е intentionally/systematically inferior;
+- better tape на Juliette materially удължава survival;
+- ordinary cleaner death настъпва в кратък expected window;
+- insider dialogue приписва оцеляването на Juliette на tape change.
 
 ## Silo 17 mass exit
 
 The survivor says:
-- the outside dust/poison temporarily dispersed;
-- unprotected people remained alive beyond the ordinary cleaner window;
-- the hazard later returned and killed them.
+- outside dust/poison временно се е разсеял;
+- unprotected хора остават живи отвъд ordinary cleaner window;
+- hazard-ът по-късно се връща и ги убива.
 
 ## Refactored model
 
@@ -30,12 +30,12 @@ mass-exit mortality
   = direct exposure to a real mobile airborne/dust-borne hazard
 ```
 
-The exact cleaner failure path remains unresolved:
+Exact cleaner failure path остава unresolved:
 - breathing-gas loss;
 - external contaminant ingress;
 - both.
 
-The exact outside agent also remains unresolved:
+Exact outside agent също остава unresolved:
 - chemical toxin;
 - aerosol/particulate;
 - bioaerosol/pathogen;
