@@ -16,7 +16,7 @@ Feed-ът следва exterior movement на Juliette отвъд immediate surf
 - concealed internal mirror cameras;
 - archived internal feeds;
 - classified cleaning imagery;
-- live Juliette-associated exterior video.
+- live exterior video, свързано с Juliette.
 
 ## Historical cleaning files
 
