@@ -24,7 +24,7 @@ Bernard
   ├─ prior classified knowledge
   ├─ surveillance/archive access
   ├─ sensitive display intervention
-  └─ direct command / compartmentalization of personnel + Sims
+  └─ пряко command / compartmentalization на personnel + Sims
 ```
 
 ### H8
