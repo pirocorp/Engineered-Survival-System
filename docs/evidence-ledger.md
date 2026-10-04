@@ -1,6 +1,6 @@
 # Evidence регистър
 
-Текуща **knowledge boundary:** **S02E02**
+Текуща **knowledge boundary:** **S02E10 — Season 2 finished**
 
 | ID | Evidence | Клас | Confidence | Бележки |
 |---|---|---|---:|---|
@@ -401,6 +401,77 @@
 | E384 | Salvador Quinn е достигнал hidden lower contact point. | Direct historical claim from lower contact | VH | Strengthens provenance на Quinn tunnel instruction. |
 | E385 | Bernard не е сред three previous visitors; това установява, че не е reached personally тази point, но не доказва ignorance за нейното existence. | Exhaustive-dialogue negative evidence | VH / M-H | Distinguishes physical visitation from knowledge. |
 | E386 | Lukas е предупреден, че disclosure на видяното/наученото в hidden lower zone ще доведе до activation на `the safeguard`. | Direct dialogue / threat-condition statement | VH | Mechanism, controller и physical effect не са established в S02E09. |
+| E387 | Level marker 123 е директно показан по време на confrontation. | Direct visual evidence | VH | New spatial anchor. |
+| E388 | Silo 17 survivor-ът казва, че е имало начин `the safeguard` да бъде спрян. | Character testimony | VH / H | VH stated; H за practical effectiveness преди further corroboration. |
+| E389 | Survivor-ът твърди, че родителите му са успели да спрат safeguard-а. | Character testimony | VH / H-VH | Historical account; later pipe/block description strengthens it. |
+| E390 | Survivor-ът свързва successful safeguard stop с това Silo 17 population да достигне mass exit живо вместо да бъде унищожено вътре. | Character causal claim / refactored interpretation | H | Separates internal safeguard from exterior deaths. |
+| E391 | Safeguard-ът materially променя casualty sequence-а на Silo 17 и трябва да се моделира отделно от outside hazard. | Strong inference | H | Основано на E389–E390 и последващото physical mechanism evidence. |
+| E392 | Parents на Silo 17 survivor-а са знаели practical interruption/blocking method. | Character testimony / derived fact | H-VH | Exact discovery method unknown. |
+| E393 | `The safeguard` включва physical pipe. | Direct system exposition / dialogue | VH | Mechanism becomes physical, not abstract. |
+| E394 | Stopping safeguard-а е compatible с physical interruption/blocking на flow през pipe-а. | Technical inference | H | Strengthened by E396. |
+| E395 | Safeguard pipe-ът може да достави poison в Silo, способен да kill-не whole local population. | Direct system exposition / character testimony | VH | Whole-Silo lethal scope stated. |
+| E396 | В Silo 17 parents на survivor-а са блокирали safeguard pipe-а и са prevented normal poison execution. | Character testimony | VH / H-VH | Strong evidence for practical block path. |
+| E397 | Safeguard pipe-ът идва отвън и влиза в Silo при Level 14. | Direct system exposition / dialogue | VH | Gives external supply + spatial interface. |
+| E398 | Safeguard supply path е поне частично external спрямо local Silo envelope. | Strong system inference | H-VH | Upstream source/controller unknown. |
+| E399 | Level 14 е strong candidate interface point между external safeguard infrastructure и internal Silo systems. | Spatial/system inference | H | Function beyond safeguard interface remains unresolved. |
+| E400 | Rebels sabotage/destroy част от main stair connections в Silo 18. | Direct action / scene observation | VH | Architecture becomes tactical terrain. |
+| E401 | Bernard's forces остават significantly cut off lower down, докато rebellion side retains upper positions. | Direct situational outcome / user-confirmed context | VH | Operational split. |
+| E402 | Stair sabotage превръща vertical Silo architecture в defensive barrier. | Strong inference | H-VH | Tactical consequence, not separate infrastructure claim. |
+| E403 | Exit/airlock access е в или непосредствено през Sheriff Department zone. | Direct scene/dialogue evidence | VH | Exact floor-plan boundary not established. |
+| E404 | Sheriff Department е на Level 1 и е непосредствено до cafeteria. | Direct spatial evidence | VH | Strengthens Up-top layout model. |
+| E405 | Juliette се връща до Silo 18 и показва `not safe / do not come out` към camera/display system. | Direct visual evidence | VH | Explicit exterior warning. |
+| E406 | Juliette intentionally предупреждава Silo 18 residents да не излизат, защото exterior остава dangerous. | Direct action / communication intent | VH | Does not prove every resident saw it. |
+| E407 | Exterior camera може да serve като information surface from outside чрез physical message shown to camera. | System inference | H-VH | Broadcast/filtering path remains unknown. |
+| E408 | Silo 18 exterior entrance/airlock hatch се отваря отвътре, докато Juliette е там. | Direct observation | VH | Entry is actively opened. |
+| E409 | Някой вътре initiates/permits Juliette's access. | Strong situational inference | H-VH | Specific actor established by next evidence. |
+| E410 | Bernard лично посреща Juliette при open Silo 18 entrance/airlock. | Direct scene context / user-confirmed character identity | VH | Personal participation, not only remote monitoring. |
+| E411 | Bernard физически участва в receiving/entry sequence-а. | Situational inference | H-VH | Само по себе си това не установява sole control authority. |
+| E412 | Bernard е в airlock/exit zone с protective suit/helmet. | Direct visual evidence | VH | Exact reason for suit remains contextual. |
+| E413 | Juliette казва на Bernard, че може би знае как да спре `the safeguard`. | Direct dialogue | VH | Supersedes earlier weaker live-note wording about merely knowing poison mechanism. |
+| E414 | След този exchange Bernard и Juliette влизат заедно през entry/airlock passage. | Direct observation / sequence | VH | Chronology anchor. |
+| E415 | Juliette демонстрира пред Bernard, че safeguard knowledge е breached beyond protected IT/lower-system layer. | Strong information-control inference | H-VH | Exact source of her stop method unresolved. |
+| E416 | След като Juliette и Bernard вече са влезли, burner/flame system се активира в entry/airlock zone. | Direct scene observation / corrected chronology | VH | Explicit correction of earlier live ambiguity. |
+| E417 | Decontamination/sterilization е plausible function за burner cycle, но exact function не е established и system-ът не се equate-ва със safeguard-а. | Technical hypothesis boundary | M-H | Keep separate systems. |
+| E418 | Narrative-ът преминава към Washington в direct pre-Silo period. | Direct scene / temporal-location transition | VH | First direct pre-Silo historical scene in project. |
+| E419 | Project knowledge вече включва contemporaneous pre-Silo reality, не само later relics/records/testimony. | Evidence-state inference | VH | Methodological boundary change. |
+| E420 | Преди entry човекът е checked с handheld radiation-measurement device. | Direct scene observation | VH | Radiological screening. |
+| E421 | Radiation device показва radiation symbol и status `NORMAL`. | Direct visual evidence | VH | Exact numeric readout not required for claim. |
+| E422 | Radiation screening е part of entry procedure за конкретното venue. | Direct contextual inference | H-VH | Scope beyond venue unknown. |
+| E423 | Screened destination-ът е bar. | Direct scene context | VH | Ordinary social-venue context. |
+| E424 | Central male character е Congressman from Georgia. | Direct dialogue / character background | VH | Political role/location anchor. |
+| E425 | Georgia се появява като second independent pre-Silo anchor след S01E06 travel-guide relic. | Cross-episode contextual correlation | H | Does not locate Silo by itself. |
+| E426 | Congressman-ът представлява Georgia's 15th congressional district. | Direct dialogue / character background | VH | Precise political-geographic anchor. |
+| E427 | In-world Georgia в този period има поне 15 congressional districts. | Direct institutional inference | VH | No external calendar inference used. |
+| E428 | Dialogue-ът реферира prior alleged radiological/dirty-bomb attack срещу САЩ; event-ът не е current during bar scene. | Direct dialogue / historical context | VH | Reality of attack separately questioned later. |
+| E429 | Alleged attack-ът е attributed to Iran в разговора. | Character/in-world attribution | VH | Attribution ≠ independent proof of perpetrator. |
+| E430 | Congressman-ът е попитан дали се планира retaliatory strike срещу Iran. | Direct dialogue | VH | Question does not establish approved/executed strike. |
+| E431 | Alleged radiological incident е part of political/national-security debate за possible U.S. retaliation. | Strong contextual inference | H-VH | Scope of actual policy unknown. |
+| E432 | Dialogue-ът explicitly допуска, че може изобщо да не е имало radiological attack срещу САЩ. | Direct dialogue | VH | Materially weakens attack-as-established-history model. |
+| E433 | Жената поставя под въпрос factual reality на alleged attack-а, не само attribution-а. | Direct character statement / implication | VH | Speaker claim; final truth unknown. |
+| E434 | Fabricated/manipulated-pretext model става legitimate candidate; strict false-flag model остава unproven. | Hypothesis-level inference | M | Requires future evidence for institutional authorship/staging. |
+| E435 | Congressman-ът подарява на жената packaged `PEZ Candy & Dispenser` с yellow-duck head. | Direct visual evidence / character interaction | VH | Clear consumer-object identity. |
+| E436 | PEZ-ът е personal gift и potential cross-era provenance marker; exact continuity към Silo-era relic остава unproven. | Contextual inference | H | Strong object-class bridge, not chain-of-custody proof. |
+
+## Визуални източници — S02E10
+
+Валидирани ръчно качени assets; Git blob SHA стойностите са проверени срещу локално подготвения visual package:
+
+- [Level 123 confrontation](../assets/S02E10/screenshots/level-123-confrontation.jpeg)
+- [Juliette warning — not safe / do not come out](../assets/S02E10/screenshots/juliette-warning-not-safe.jpeg)
+- [Bernard at airlock in protective suit](../assets/S02E10/screenshots/bernard-airlock-protective-suit.jpeg)
+- [Juliette / Bernard airlock corridor](../assets/S02E10/screenshots/juliette-bernard-airlock-corridor.jpeg)
+- [Pre-Silo radiation screening](../assets/S02E10/screenshots/presilo-radiation-screening.jpeg)
+- [Pre-Silo Washington bar](../assets/S02E10/screenshots/presilo-washington-bar.jpeg)
+- [Georgia 15th district congressman](../assets/S02E10/screenshots/georgia-15th-district-congressman.jpeg)
+- [Iran retaliatory-strike question](../assets/S02E10/screenshots/iran-retaliatory-strike-question.jpeg)
+- [Radiological-attack doubt](../assets/S02E10/screenshots/radiological-attack-doubt.jpeg)
+- [PEZ duck gift](../assets/S02E10/screenshots/pez-duck-gift.jpeg)
+- [Juliette returns to Silo 18](../assets/S02E10/screenshots/juliette-returns-to-silo18.jpeg)
+- [S02E10 visual evidence manifest](../assets/S02E10/MANIFEST.md)
+
+`contact-sheet.jpg` е спомагателен навигационен asset и не е primary evidence.
+
+E388–E399 и E403–E417 включват значимо dialogue/sequence evidence, за което не всеки individual claim има dedicated screenshot. Visual package се използва като selected corroborative evidence, а не като замяна на dialogue record.
 
 ## Визуални източници — S02E09
 
@@ -728,3 +799,11 @@ E330–E341 и E348–E350 са предимно dialogue/privileged-history evi
 - [S02E08 — Quinn decoded message: game is rigged](evidence/S02E08-quinn-decoded-message.md)
 - [S02E08 — R. Ahundsen message to Judge Sims and orchard context](evidence/S02E08-sims-ahundsen-message.md)
 - [S02E08 — Multiple living inhabitants in Silo 17](evidence/S02E08-silo17-multiple-survivors.md)
+- [S02E09 — Quinn: 50 Silos, `the safeguard` и tunnel instruction](evidence/S02E09-quinn-safeguard-tunnel.md)
+- [S02E09 — Hidden lower contact: Lukas, Quinn, Meadows и George](evidence/S02E09-hidden-lower-contact.md)
+- [S02E09 — Silo 17 vault knowledge-preservation environment](evidence/S02E09-silo17-vault-knowledge.md)
+- [S02E09 — Organized Silo 17 survivor group](evidence/S02E09-silo17-survivor-group.md)
+- [S02E09 — Coercive wife/camera digital message](evidence/S02E09-coercive-message.md)
+- [S02E10 — `the safeguard`: poison pipe, Level 14 и Silo 17 block](evidence/S02E10-safeguard-poison-system.md)
+- [S02E10 — Silo 18 rebellion, Juliette return и airlock sequence](evidence/S02E10-silo18-rebellion-return-airlock.md)
+- [S02E10 — pre-Silo Washington: radiation, Georgia, Iran и PEZ](evidence/S02E10-presilo-washington-georgia-iran-pez.md)

@@ -1,37 +1,80 @@
-# Текущо състояние — след S02E09
+# Текущо състояние — след S02E10 / край на Season 2
 
-**Knowledge boundary:** `S02E09`
+**Knowledge boundary:** `S02E10 — Season 2 finished`
 
 ## Работен модел
 
-S02E09 разкрива, че privileged knowledge architecture не приключва с Head of IT / shadow / `Legacy`. Под познатото дъно на Silo 18 има **active hidden lower layer**, към който Quinn умишлено е оставил physical verification path.
+S02E10 превръща `the safeguard` от неизвестен protected enforcement concept в **конкретна physical whole-Silo termination system**. Safeguard-ът използва pipe, която идва отвън, влиза при **Level 14** и може да достави poison, способен да убие всички в Silo. Silo 17 survivor-ът твърди, че родителите му са блокирали тази pipe, което показва practical interruption path.
 
-Decoded Quinn material твърди, че Founders са построили **50 Silos** и са създали `the safeguard`. Bernard отделно казва, че реалният брой е **51**, което налага counting discrepancy да се пази explicit, а не да се изглажда. Heads of IT и shadows знаят за другите Silos, но Bernard не е сред тримата previous visitors, достигали hidden lower contact point.
+Това налага ключов refactor: **outside hazard и safeguard са отделни lethal mechanisms**. Block-ът в Silo 17 позволява population да стигне до exterior alive; exterior environment остава independently dangerous.
 
-Най-големите промени спрямо S02E08 са:
+Silo 18 crisis също преминава в нов state: rebels използват destroyed stair connections като defensive barrier, Juliette се връща и показва `not safe / do not come out`, Bernard лично я посреща при airlock-а, а тя му казва, че може би знае как да спре safeguard-а. Corrected sequence е: Juliette's stopping claim → двамата влизат → burner/flame cycle се активира.
 
-1. Quinn's decoded payload вече съдържа concrete system claims, а не само `the game is rigged`.
-2. Quinn казва, че Founders са построили 50 Silos.
-3. Bernard казва, че реалният брой е 51; exact counting model остава unresolved.
-4. Heads of IT и shadows знаят за другите Silos.
-5. Quinn въвежда named concept `the safeguard`.
-6. Quinn оставя проверима инструкция: very bottom → tunnel → confirmation.
-7. На дъното водата в наблюдаваната зона е плитка/passable.
-8. Реален tunnel/opening действително е намерен.
-9. Hidden lower zone съдържа active, context-aware interlocutor/system.
-10. Само Quinn, Meadows и George са named като previous visitors преди Lukas.
-11. Това directly confirms George reached the hidden lower contact point и силно strengthen-ва Meadows↔forbidden-knowledge line.
-12. Bernard не е previous visitor; това не доказва, че не знае за layer-а.
-13. Lukas е предупреден, че disclosure на protected lower knowledge ще trigger-не `the safeguard`; mechanism/controller/effect остават unresolved.
-14. Silo 17 vault директно съдържа large preserved knowledge environment, функционално аналогична на `Legacy`.
-15. Additional Silo 17 survivors са вече не просто брой, а показана organized group с conflict/resource dynamics.
-16. Digital coercive message демонстрира wife/hostage leverage и camera/no-leave control condition.
-17. Shadow-ът на Bernard въвежда pump hypothesis за hidden hydraulic infrastructure под known bottom; това остава speculation.
+Финалът отваря direct pre-Silo history: Washington bar scene с radiation screening, Congressman from Georgia's 15th district, alleged radiological attack attributed to Iran, въпрос за possible retaliation и direct doubt дали attack-ът изобщо се е случил. Congressman-ът подарява yellow-duck PEZ dispenser, което създава strong candidate bridge към earlier Silo-era yellow-plastic/blue-handle PEZ relic.
 
-> **След S02E09 най-добрият layered model е: public Silo → privileged IT/Legacy continuity layer → hidden lower contact/control layer. Последният е физически reachable, active и protective/coercive, но exact authority, topology и safeguard mechanism все още не са установени.**
+Най-дълбокият current model след Season 2 е:
+
+```text
+PRE-SILO WORLD / political-security context
+        │
+        ▼
+multi-Silo engineered system
+        │
+        ├─ public habitation / governance
+        ├─ IT / shadow / Legacy continuity layer
+        └─ hidden lower contact/control layer
+                 │
+                 └─ safeguard infrastructure
+                      external supply
+                           ↓
+                      Level 14 pipe
+                           ↓
+                      poison delivery
+                           ↓
+                      whole-Silo kill capability
+                      (physically blockable)
+
+SEPARATE:
+outside environmental hazard remains independently lethal
+```
+
+> **Season 2 завършва с директно evidence, че Silo system не е само information-control architecture, а включва и външно захранвана fail-deadly physical termination infrastructure. Първата direct pre-Silo сцена едновременно въвежда спорен radiological-security narrative, който може да е свързан с origin-а на system-а, но causal връзка още не е установена.**
+
 ---
 
 ## Наблюдения с висок confidence
+
+### S02E10 — safeguard mechanism / Silo 17
+
+- `The safeguard` включва physical pipe.
+- Pipe-ът може да достави poison, способен да убие population на local Silo.
+- Silo 17 survivor-ът казва, че родителите му са успели да block-нат safeguard-а.
+- Safeguard supply идва отвън и влиза при Level 14.
+- Safeguard-ът следователно е отделен от independently real outside hazard.
+- Physical blocking показва, че mechanism-ът има practical interruption path.
+
+### S02E10 — Silo 18 crisis / Juliette return
+
+- Level 123 е direct-confirmed.
+- Rebels sabotage-ват main stair connections и operationally split-ват Bernard's forces.
+- Sheriff Department / exit access са в Level 1 Up-top zone, непосредствено до cafeteria.
+- Juliette се връща и показва `not safe / do not come out` към exterior camera.
+- Bernard лично я посреща при airlock-а в protective gear.
+- Juliette казва, че **може би знае как да спре safeguard-а**.
+- Коригираната chronology е: Juliette's statement → двамата влизат → burner/flame cycle.
+- Exact burner function остава unresolved.
+
+### S02E10 — direct pre-Silo Washington
+
+- Narrative-ът показва direct pre-Silo Washington scene.
+- Radiation screening е показан пред bar и meter status е `NORMAL`.
+- Central male character е Congressman from Georgia's 15th congressional district.
+- Alleged prior radiological attack срещу САЩ е attributed to Iran в разговора.
+- Congressman-ът е питан за possible retaliatory strike.
+- Dialogue-ът директно поставя под въпрос дали radiological attack изобщо е имало.
+- Fabricated/manipulated-pretext interpretation е candidate, не established fact.
+- Congressman-ът подарява packaged yellow-duck PEZ dispenser на жената.
+- PEZ gift-ът е strong candidate provenance bridge към earlier Silo-era yellow-plastic/blue-handle relic; exact same-object identity остава unproven.
 
 ### S02E09 — Quinn / 50–51 Silos / safeguard
 
@@ -622,7 +665,7 @@ Decoded Quinn material твърди, че Founders са построили **50 
 
 Observed direct anchors включват:
 
-`8 → 9 → 12 → 14 → 17 → 23 → 26 → 27 → 29 → 30 → 50 → 55 → 119 → 120 → 144`
+`8 → 9 → 12 → 14 → 17 → 23 → 26 → 27 → 29 → 30 → 50 → 55 → 119 → 120 → 123 → 144`
 
 - Level 14 е повторен отново в S01E07.
 - Level 26 е direct-confirmed в S01E07 и independently repeated в S02E05.
@@ -631,6 +674,7 @@ Observed direct anchors включват:
 - Level 55 е direct-confirmed в S02E06.
 - Level 119 е direct-confirmed в S02E04.
 - Level 120 е direct-confirmed в S02E06.
+- Level 123 е direct-confirmed в S02E10.
 - Level 144 / bottom е established чрез S01E10 scene context и съдържа major ventilation / air-handling infrastructure.
 - От Level 23, Level 26, Level 30, Level 55, Level 119 или Level 120 markers сами по себе си не се infer-ва special function.
 
@@ -675,7 +719,7 @@ Observed direct anchors включват:
 | H11 | Classified lower tunnel води към undisclosed active lower/internal system; physical tunnel и context-aware contact са директно observed. | H-VH | Strongly Strengthened / Refactored |
 | H12 | Pact-forbidden tunnel system вероятно е същата структура или е пряко свързана с `CLASSIFIED` tunnel от HDD 18 и Quinn's bottom tunnel. | H | Strongly Strengthened; exact identity unproven |
 | H13 | George е достигнал hidden lower contact point при bottom/tunnel layer. | VH | Confirmed / Refactored |
-| H14 | Cleaner mortality зависи materially от suit sealing/breathing-support integrity и е отделима от independently real outside hazard; residents на Silo 17 могат да оцелеят отвъд normal cleaner window, когато hazard временно се разсее. | VH | Strongly Strengthened / Refactored |
+| H14 | Outside environmental hazard е independently real и е отделен от `the safeguard`; Silo 17 block на internal poison mechanism обяснява как population може да достигне exterior alive, докато local hazard variation продължава да влияе на survival outside. | VH | Strongly Strengthened / Refactored |
 | H15 | Prior model: `SILO YEAR 96/97` и mayor journals използват един simple post-Rebellion calendar. S02E03 `116 A.R.` + ~200-year Jane statement на Bernard правят този mapping unsafe. | L | Weakened / Requires Refactor |
 | H16 | Current order използва concealed/hidden infrastructure и умишлено държи selected spaces/layers извън normal access. | H | Strengthened |
 | H17 | Sims/Judicial-associated network има coercive/investigative capability, lethal enforcement, narrative control, privileged relic access и direct surveillance command. | VH | Strengthened |
@@ -690,7 +734,7 @@ Observed direct anchors включват:
 | H26 | Bernard има higher classified IT access и може да отстранява/reassign-ва Sims между formal roles; Sims все още има substantial independent political/operational leverage. Hierarchy е overlapping, но Bernard demonstrably контролира access до shadow succession path. | VH | Strongly Strengthened / Refactored |
 | H27 | Pact ограничава physical capabilities за independent movement и observation/discovery, включително scientific/biomedical microscopy, а не само content. | H | Strongly Strengthened |
 | H28 | Investigation на George и path на Juliette към hidden history са свързани чрез intergenerational Flamekeeper network. | H | Strongly Strengthened / Refactored |
-| H29 | Silo има pre-Silo geographic connection с U.S. state of Georgia. | L | Candidate |
+| H29 | Georgia има повтаряща се pre-Silo significance: S01E06 Georgia relic + S02E10 Congressman from Georgia's 15th district. Това strengthen-ва geographic/narrative connection, но не locates Silo system в Georgia. | M | Strengthened / Candidate |
 | H30 | Silo разполага с pharmacological memory-suppression capability, а Quinn исторически използва prolonged waterborne dosing като част от deliberate public historical-memory reset; exact relation към current S02E03 forgetfulness drug остава unresolved. | VH | Strongly Strengthened / Refactored |
 | H31 | Reproductive selection е използван за selective lineage suppression срещу Flamekeeper / knowledge-preserving family lines. | H | Active |
 | H32 | Flamekeeper knowledge/history оцелява чрез family/social networks и intergenerational transfer на relics. | H | Active |
@@ -730,12 +774,17 @@ Observed direct anchors включват:
 | H67 | Salvador Quinn има direct association с оцеляло foundational Pact material; authorship, Founder status и textual differences спрямо current Pact остават unproven. | H | Active / Strengthened |
 | H69 | Encoded ending на Quinn е protected second-layer message за future reader, който вече е проникнал отвъд official narrative и е насочен към physical verification path. | VH | Strongly Strengthened / Refactored |
 | H70 | Под known/public bottom на Silo 18 има active hidden infrastructure layer; exact topology и relation към pumps/`CLASSIFIED` tunnel остават unresolved. | H-VH | Active / Strongly Supported |
-| H71 | `the safeguard` е conditional enforcement/containment mechanism, свързан с disclosure на protected lower-system knowledge; mechanism, controller и effect не са established в S02E09. | H | Active |
+| H71 | `the safeguard` е physical whole-Silo poison-delivery termination mechanism; protected disclosure е demonstrated activation condition, но controller и full trigger logic остават unresolved. | VH | Strongly Strengthened / Refactored |
 | H72 | Hidden lower system може да detect-ва/engage-ва visitors и да води context-aware two-way communication; identity на interlocutor-а остава unknown. | H-VH | Active / Strongly Supported |
+| H73 | Safeguard има practical interruption/blocking path; Silo 17 parents са stated successful example. | H-VH | New / Strongly Supported |
+| H74 | Safeguard supply path идва отвън и влиза при Level 14; exact upstream source, routing и controller остават unknown. | H-VH | New / Strongly Supported |
+| H75 | Founders' safeguard е fail-deadly whole-Silo termination architecture, предназначена да може да унищожи local population при определени conditions. | H-VH | New / Active |
+| H76 | Alleged Iranian radiological attack в pre-Silo political narrative може да е fabricated/manipulated pretext; reality, attribution и institutional authorship остават unresolved. | M | New / Candidate |
+| H77 | S02E10 yellow-duck PEZ gift може да е same-object/provenance ancestor candidate за earlier Silo-era yellow-plastic/blue-handle PEZ relic. | M-H | New / Candidate |
 
 ---
 
-## Hidden lower-system model after S02E09
+## Hidden lower-system model after S02E10
 
 ```text
 PUBLIC / ORDINARY SILO
@@ -755,19 +804,31 @@ active lower contact/system
         │    George
         │    Lukas
         │
-        └─ disclosure warning
-             → safeguard activation
+        ├─ disclosure warning
+        │    → safeguard activation
+        │
+        └─ physical safeguard architecture
+             external supply
+                  ↓
+             Level 14 pipe
+                  ↓
+             poison into Silo
+                  ↓
+             whole-population kill
+             (blockable: Silo 17 testimony)
 ```
 
 Граници:
-- exact identity на lower interlocutor-а е unknown;
-- exact relation между Quinn tunnel и HDD 18 `CLASSIFIED` tunnel остава inference;
-- safeguard mechanism/controller/effect не са разкрити в S02E09;
-- Bernard's absence from visitor list не доказва absence of knowledge.
+- exact identity на lower interlocutor-а остава unknown;
+- relation между lower contact и safeguard controller не е established;
+- exact relation Quinn tunnel ↔ HDD 18 `CLASSIFIED` tunnel остава strong inference, не direct identity proof;
+- poison agent, upstream source и activation command path са unknown;
+- Bernard's absence from previous-visitor list не доказва absence of knowledge;
+- outside environmental hazard е separate lethal mechanism.
 
 ---
 
-## Surveillance / privileged-control model after S02E09
+## Surveillance / privileged-control model after S02E10
 
 S02E02 разширява hidden-control model отвъд ordinary internal surveillance.
 
@@ -1100,34 +1161,42 @@ Historical targeting purpose срещу Flamekeeper family lines остава te
 
 ---
 
-## Immediate watch targets за S02E10
+## Season 2 close — unresolved targets
 
-Изведени само от knowledge state-а в края на S02E09:
+След края на S02E10 активните falsification / future-testing targets са:
 
 - защо Quinn/earlier testimony дават 50, а Bernard казва 51;
-- nature/function на possible 51st installation;
-- exact physical mechanism на `the safeguard`;
-- trigger conditions, controller и target scope на safeguard-а;
-- identity/location на hidden lower interlocutor/system;
-- как lower system detect-ва visitors и поддържа two-way communication;
-- дали Quinn, Meadows и George са контактували със същия system;
-- exact information, която всеки от three previous visitors е получил;
-- дали visit-ът на Meadows е known four-day disappearance;
-- extent на Bernard's knowledge за lower layer;
-- exact mapping Quinn tunnel ↔ HDD 18 `CLASSIFIED` tunnel ↔ Pact-forbidden lower system;
-- дали hidden pumps съществуват и дали обясняват water level;
-- дали Silo 17 knowledge room официално е `Legacy`;
-- organization/history на additional Silo 17 survivors;
-- reason зад „the killer“ accusation;
-- sender/recipient/purpose на coercive wife/camera message.
+- identity/function на possible 51st installation;
+- кой/какво стои зад hidden lower interlocutor/system;
+- relation между lower contact и safeguard control authority;
+- upstream source и exact poison agent на safeguard-а;
+- exact trigger logic отвъд disclosure condition;
+- как lower system detect-ва disclosure и visitors;
+- дали Level 14 safeguard interface е standardized във всички Silos;
+- как Silo 17 parents са открили и physically block-нали pipe-а;
+- дали block може да бъде remotely bypassed/reversed;
+- какъв stopping method Juliette има предвид;
+- exact function на burner/flame airlock cycle;
+- exact command/access path за Silo 18 hatch;
+- дали Juliette's exterior warning е достигнал residents unfiltered;
+- exact chronology/date на direct pre-Silo Washington scene;
+- identity/role и institutional access на жената в bar scene;
+- дали alleged radiological attack реално се е случила;
+- дали Iran attribution е factual, manipulated или false;
+- дали retaliatory strike е бил само обсъждан или operationally planned;
+- дали radiological-security environment е causal precursor към Silo project;
+- защо Georgia се повтаря като pre-Silo anchor;
+- дали Georgia има geographic relation към Silo installations или само към characters/material provenance;
+- дали S02E10 PEZ gift е exact same physical relic, който се появява в Silo era, и ако да — каква е chain of custody;
+- original purpose на Silos и exact cause на exterior catastrophe;
+- кой current/remote authority, ако има такъв, стои над local Head-of-IT layer.
 
 Виж също:
 
-- `docs/episodes/S02E09.md`
-- `docs/evidence/S02E09-quinn-safeguard-tunnel.md`
-- `docs/evidence/S02E09-hidden-lower-contact.md`
-- `docs/evidence/S02E09-silo17-vault-knowledge.md`
-- `docs/evidence/S02E09-silo17-survivor-group.md`
-- `docs/evidence/S02E09-coercive-message.md`
+- `docs/episodes/S02E10.md`
+- `docs/evidence/S02E10-safeguard-poison-system.md`
+- `docs/evidence/S02E10-silo18-rebellion-return-airlock.md`
+- `docs/evidence/S02E10-presilo-washington-georgia-iran-pez.md`
+- `assets/S02E10/MANIFEST.md`
 - `docs/evidence-ledger.md`
 - `docs/open-questions.md`
