@@ -333,6 +333,17 @@
 | E316 | Level marker `120` is directly visible. | Direct visual evidence | VH | New spatial anchor only; adjacency to Level 119 does not establish function. |
 | E317 | Bernard/IT can interrupt all radio communications across the Silo. | Direct dialogue / demonstrated institutional capability | VH | Establishes Silo-wide radio-cutoff capability. |
 | E318 | Silo radio communications therefore depend on a centralized control point or infrastructure path that IT can disable. | System inference | H | Exact architecture—repeater, switching, power, gating or another shared dependency—remains unresolved. |
+| E319 | The secured IT vault includes residential/living compartments. | Direct observation / scene context | VH | Refactors the vault toward a long-duration continuity/survival environment. |
+| E320 | A protected component/area inside the vault is called `Legacy`. | Direct dialogue / institutional terminology | VH | Establishes a named privileged knowledge-preservation component. |
+| E321 | `Legacy` is identified as a library / knowledge archive. | Direct scene/dialogue evidence | VH | Exact catalog, media types and curation remain unresolved. |
+| E322 | `Legacy` provides a concrete mechanism for intergenerational preservation and transfer of privileged historical/technical knowledge to IT custodians. | Strong system inference | H | Strongly explains Bernard's inherited knowledge without proving every fact he knows comes from Legacy. |
+| E323 | Bernard states that the Silo was built 352 years ago. | Character testimony / privileged historical knowledge | H-VH | VH that Bernard states it; exact historical precision may still be rounded. |
+| E324 | Combining the 352-year construction age with the earlier ~140-years-ago Rebellion anchor places construction roughly 212 years before the Rebellion. | Derived chronology inference | H | Approximate because the Rebellion anchor is itself approximate. |
+| E325 | A handwritten physical leaflet accuses IT of lying and states `Mechanical wants THE TRUTH`. | Direct visual / public-message evidence | VH | Establishes the circulating message, not author/distributor identity. |
+| E326 | The leaflet asks `What happened to Juliette?` and `How did Meadows really die?`, directly linking anti-IT suspicion to both unresolved public events. | Direct visual evidence | VH | Does not itself prove the implied claims. |
+| E327 | The leaflet asks `What is I.T. hiding?` and urges `Look and See.` | Direct visual evidence | VH | Shows an explicit investigation/truth-seeking counter-narrative. |
+| E328 | During a general Silo 18 power outage, IT remains visibly lit/powered. | Direct observation + scene context | VH | Establishes functional continuity/redundant power for IT in Silo 18; exact source remains unresolved. |
+| E329 | Residents explicitly notice that IT remains lit during the outage and question why. | Direct dialogue / public observation | VH | Makes the privileged power asymmetry publicly observable during crisis. |
 
 ## Визуални източници — S01E01
 
@@ -556,6 +567,20 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 
 `contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
 
+## Визуални източници — S02E07
+
+Validated manual-upload assets; Git blob SHA values match the locally prepared originals exactly:
+
+- [Vault residential compartments](../assets/S02E07/screenshots/vault-residential-compartments.jpeg)
+- [Legacy library](../assets/S02E07/screenshots/legacy-library.jpeg)
+- [Anti-IT / Mechanical truth leaflet](../assets/S02E07/screenshots/anti-it-mechanical-truth-leaflet.jpeg)
+- [Silo 18 blackout — IT remains powered](../assets/S02E07/screenshots/silo18-blackout-it-remains-powered.jpeg)
+- [S02E07 visual evidence manifest](../assets/S02E07/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset и не е primary evidence.
+
+E323–E324 are dialogue/chronology evidence; the current screenshot batch does not contain a frame with the explicit `352 years` line.
+
 ## Фокусирани evidence бележки
 
 - [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
@@ -611,3 +636,7 @@ Validated manual-upload assets; Git blob SHA values match the locally prepared o
 - [S02E06 — Institutional digital messaging and communication tiers](evidence/S02E06-institutional-messaging.md)
 - [S02E06 — Control-room digital field/HUMINT reporting](evidence/S02E06-control-room-humint.md)
 - [S02E06 — IT control of Silo radio communications](evidence/S02E06-radio-communications-control.md)
+- [S02E07 — IT vault habitation and the Legacy library](evidence/S02E07-legacy-vault.md)
+- [S02E07 — 352-year Silo age and chronology refactor](evidence/S02E07-352-year-chronology.md)
+- [S02E07 — Anti-IT physical counter-narrative](evidence/S02E07-anti-it-counter-narrative.md)
+- [S02E07 — Silo 18 IT continuity power](evidence/S02E07-silo18-continuity-power.md)
