@@ -1118,6 +1118,69 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 795. Juliette's actual outside experience public knowledge ли е, distorted rumor ли е, or classified?
 
 
+## S03E02 — memory retrieval / narrative conditioning
+
+796. Exact pharmacological mechanism на pre-Silo retrieval suppression какъв е?
+797. Same agent/formulation ли е използван при Juliette, или само functionally similar protocol?
+798. Как treatment-ът select-ва кои specific memories да restore-не и кои да omit-не?
+799. Как repeated autobiographical narrative се encoded/accepted като replacement account?
+800. Какво определя дали false narrative ще бъде accepted или rejected?
+801. Защо real memories могат да се върнат бързо и какви cues ускоряват това?
+802. Memory retrieval suppression reversible ли е напълно след stopping на drug-а?
+803. Juliette's original memories physically intact ли са по същия mechanism, или parallel-ът е only functional?
+804. Quinn-era water drug, Juliette `vitamins` и pre-Silo treatment една lineage/formulation ли са?
+
+## S03E02 — supervisory computer/system awareness
+
+805. Как system-ът знае за physical covert note-а?
+806. Direct visual reading на note-а ли има, or infers existence/content from behavior/context?
+807. Как system-ът знае, че Juliette е излъгала Mrs Sims?
+808. Какви sensors/feeds/data sources захранват semantic situational model-а?
+809. Human operator участва ли в това evaluation, или assessment-ът е autonomous?
+810. Какво exact означава system judgment `concerning` operationally?
+811. Може ли system-ът да miss-не или misunderstand-не covert human behavior?
+
+## S03E02 — Juliette utility/risk threshold
+
+812. Как се изчислява red risk line?
+813. Как се изчислява blue stabilizing-value line?
+814. Какъв exact crossing threshold прави Juliette `no longer useful`?
+815. Кой е defined objective/function, която system-ът оптимизира?
+816. Objective-ът local Silo survival ли е, multi-Silo program ли е, social stability ли е, or another long-term goal?
+817. Може ли objective/thresholds да бъдат modified от humans?
+818. Какво exact `removal` означава — office removal, isolation, memory reset, killing or another action?
+819. Кой би изпълнил removal order-а?
+820. Как system-ът estimates `catastrophic destabilization` и какви outcomes включва това?
+
+## S03E02 — population-scale `vitamins` / water supply
+
+821. Какъв exact agent се планира за water supply?
+822. Какъв dose и duration се планират?
+823. Whole Silo population ли е target-ът или selected zones/groups?
+824. Leadership/IT/Judicial имат ли exemption/protection?
+825. Exact target memory е Juliette ли, recent crisis ли, anti-system sentiment ли, or broader autobiographical memory?
+826. Къде physically `vitamins` would be introduced into water system?
+827. Same injection point ли е използван исторически от Quinn?
+828. Waterborne intervention already започнал ли е, or remains contingency only?
+829. Какви side effects/behavioral changes очаква system-ът?
+
+## S03E02 — covert notes
+
+830. Кой изпраща note #2 за Silo Council meeting?
+831. Кой изпраща note #3?
+832. Какъв е reliable full transcription на note #3?
+833. Каква exact action/instruction съдържа note #3?
+834. Same sender/network ли стои зад notes #1–#3?
+835. Computer/system-ът merely observes covert-note network-а, tolerates it deliberately, or uses/manipulates it?
+
+## S03E02 — pre-Silo continuity
+
+836. Кой е treating doctor-ът и към коя organization/program принадлежи?
+837. Кога pre-Silo selective-memory treatment е developed и защо?
+838. Sister-а на Daniel Keen е под treatment само за trauma/recovery ли, или има broader security/political purpose?
+839. Има ли direct organizational bridge между pre-Silo medical program и later Silo memory-control systems?
+840. Iran-operation anomaly causal-но свързан ли е с subsequent memory treatment or only precedes it narratively?
+
 ## Основен въпрос на проекта
 
 163. Авторитарният control в Silo основно real survival necessity ли е, institutional system надживяла original purpose, deliberate deception, или combination от трите?
