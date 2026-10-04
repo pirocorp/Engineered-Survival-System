@@ -13,7 +13,7 @@ S01E06 показва Juliette на remote video feed, докато се нам�
 - dedicated consoles;
 - active operators.
 
-## Established
+## Установено
 
 > **В Silo съществува centralized internal video-surveillance infrastructure, способна да наблюдава private residential space.**
 
