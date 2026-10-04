@@ -622,74 +622,74 @@ Observed direct anchors включват:
 
 | ID | Hypothesis | Confidence | Status |
 |---|---|---:|---|
-| H0 | Juliette’s Silo е проектирана survival/habitation unit within a larger multi-Silo system/complex. | VH | Strongly Strengthened / Refactored |
-| H1 | Exterior visual-information pipeline-ът се манипулира умишлено; cleaner helmet-ът presents a false lush visual layer. | VH | Confirmed / Refactored |
+| H0 | Silo на Juliette е проектиран като survival/habitation unit в по-голяма multi-Silo system/complex. | VH | Strongly Strengthened / Refactored |
+| H1 | Exterior visual-information pipeline се манипулира умишлено; cleaner helmet показва false lush visual layer. | VH | Confirmed / Refactored |
 | H2 | Зелената гледка за cleaners е обективно реална. | VL | Rejected |
-| H3 | Barren exterior е substantially real, а lush cleaner view е false overlay/simulation-like layer. | VH | Confirmed |
-| H4 | Cleaning поведението е engineered поне частично чрез false lush perception shown to cleaners. | VH | Strongly Strengthened |
-| H5 | Silo използва formally encoded covert reproductive control: `CODE SILO ORANGE` instructs staff to retain birth control while ensuring the patient believes it was removed. | VH | Confirmed / Refactored |
-| H6 | Silo control architecture deliberately restricts knowledge through public suppression, capability limits and **intra-authority compartmentalization**; Bernard can withhold classified cleaning truth even from Sims/control-room personnel. | VH | Strongly Strengthened / Refactored |
-| H7 | The official Rebellion-centered account of historical knowledge loss is deliberately false/misleading: Bernard says Quinn intentionally erased public historical continuity and the loss was attributed to rebels. | VH | Strongly Strengthened / Refactored |
-| H8 | A covert surveillance architecture uses concealed mirror cameras, archived feeds and a privileged live Juliette-associated exterior video channel; Sims has operational command over ordinary surveillance while Bernard/IT has higher classified access. | VH | Confirmed / Refactored |
+| H3 | Barren exterior е в значителна степен реален, а lush cleaner view е false overlay/simulation-like layer. | VH | Confirmed |
+| H4 | Cleaning поведението е engineered поне частично чрез false lush perception, показвана на cleaners. | VH | Strongly Strengthened |
+| H5 | Silo използва formally encoded covert reproductive control: `CODE SILO ORANGE` инструктира staff да запази birth control, като гарантира, че patient вярва, че е премахнат. | VH | Confirmed / Refactored |
+| H6 | Control architecture на Silo умишлено ограничава knowledge чрез public suppression, capability limits и **intra-authority compartmentalization**; Bernard може да скрива classified cleaning truth дори от Sims/control-room personnel. | VH | Strongly Strengthened / Refactored |
+| H7 | Официалният Rebellion-centered account за загубата на historical knowledge е умишлено false/misleading: Bernard казва, че Quinn нарочно е изтрил public historical continuity, а загубата е приписана на rebels. | VH | Strongly Strengthened / Refactored |
+| H8 | Covert surveillance architecture използва concealed mirror cameras, archived feeds и privileged live exterior video channel, свързан с Juliette; Sims има operational command върху ordinary surveillance, докато Bernard/IT има higher classified access. | VH | Confirmed / Refactored |
 | H9 | George Wilkins може да е бил убит. | L | Active |
-| H10 | Multiple Silo installations form a larger system; Silo 17 survivor testimony states an exact total of **50 Silos**. | VH | Confirmed / Refactored; exact count testimony-backed |
+| H10 | Multiple Silo installations образуват по-голяма system; survivor testimony от Silo 17 заявява exact total **50 Silos**. | VH | Confirmed / Refactored; exact count testimony-backed |
 | H11 | Classified lower tunnel води към undisclosed lower/internal system. | M | Strengthened |
-| H12 | Pact-forbidden tunnel system е същата или пряко свързана структура с `CLASSIFIED` tunnel-а от HDD 18. | H | Active |
+| H12 | Pact-forbidden tunnel system е същата структура или е пряко свързана с `CLASSIFIED` tunnel от HDD 18. | H | Active |
 | H13 | George е намерил door-а / входа към нея при flooded bottom. | H | Active |
-| H14 | Cleaner mortality materially depends on suit sealing/breathing-support integrity and is separable from the independently real outside hazard; Silo 17 residents can survive beyond the normal cleaner window when the hazard temporarily disperses. | VH | Strongly Strengthened / Refactored |
-| H15 | Prior model: `SILO YEAR 96/97` and mayor journals use one simple post-Rebellion calendar. S02E03 `116 A.R.` + Bernard's ~200-year Jane statement make that mapping unsafe. | L | Weakened / Requires Refactor |
-| H16 | Current order uses concealed/hidden infrastructure and deliberately keeps selected spaces/layers outside normal access. | H | Strengthened |
-| H17 | Sims/Judicial-associated network има coercive/investigative capability, lethal enforcement, narrative control, privileged relic access and direct surveillance command. | VH | Strengthened |
-| H18 | Silo deliberately запазва slow human-powered vertical movement; това поддържа de facto social separation. | VH | Strengthened |
+| H14 | Cleaner mortality зависи materially от suit sealing/breathing-support integrity и е отделима от independently real outside hazard; residents на Silo 17 могат да оцелеят отвъд normal cleaner window, когато hazard временно се разсее. | VH | Strongly Strengthened / Refactored |
+| H15 | Prior model: `SILO YEAR 96/97` и mayor journals използват един simple post-Rebellion calendar. S02E03 `116 A.R.` + ~200-year Jane statement на Bernard правят този mapping unsafe. | L | Weakened / Requires Refactor |
+| H16 | Current order използва concealed/hidden infrastructure и умишлено държи selected spaces/layers извън normal access. | H | Strengthened |
+| H17 | Sims/Judicial-associated network има coercive/investigative capability, lethal enforcement, narrative control, privileged relic access и direct surveillance command. | VH | Strengthened |
+| H18 | Silo умишлено запазва slow human-powered vertical movement; това поддържа de facto social separation. | VH | Strengthened |
 | H19 | Suicide law отразява collective claim върху individual life/resource. | M | Active |
-| H20 | Communication control is better modeled as selective access to channels/technology: institutional digital messaging exists, physical couriers remain a parallel layer, and radio can be centrally cut by IT. | H | Strengthened / Refactored |
+| H20 | Communication control се моделира по-добре като selective access до channels/technology: institutional digital messaging съществува, physical couriers остават parallel layer, а radio може да бъде centrally cut от IT. | H | Strengthened / Refactored |
 | H21 | Violence around Mayor/Sheriff leadership може да е свързано с appointment/control conflict около Juliette. | M | Strengthened |
 | H22 | Silo зависи от deeper legacy energy infrastructure, която current operators не разбират напълно. | H | Active |
-| H23 | Sheriff succession/staffing е institutional power contest; S01E08 shows Mayor/Sims coordinated coercive action directly against Sheriff Juliette. | H | Strongly Strengthened |
+| H23 | Sheriff succession/staffing е institutional power contest; S01E08 показва coordinated coercive action на Mayor/Sims директно срещу Sheriff Juliette. | H | Strongly Strengthened |
 | H24 | Silo поддържа centralized circular resource economy с recycling/redistribution на durable goods. | H | Active |
-| H25 | Control/Judicial-associated actors can manipulate evidence/events, fabricate culpability narratives or legal predicates, and use institutional coercion or lethal violence for a desired outcome; S02E04 adds Bernard's staged Meadows framing operation. | VH | Strongly Strengthened / Refactored |
-| H26 | Bernard has higher classified IT access and can remove/reassign Sims across formal roles; Sims still has substantial independent political/operational leverage. The hierarchy is overlapping but Bernard demonstrably controls access to the shadow succession path. | VH | Strongly Strengthened / Refactored |
-| H27 | Pact ограничава physical capabilities за independent movement и observation/discovery, including scientific/biomedical microscopy, не само content. | H | Strongly Strengthened |
-| H28 | George’s investigation and Juliette’s path into hidden history are connected to an intergenerational Flamekeeper network. | H | Strongly Strengthened / Refactored |
+| H25 | Control/Judicial-associated actors могат да manipulate-ват evidence/events, да fabricate-ват culpability narratives или legal predicates и да използват institutional coercion или lethal violence за desired outcome; S02E04 добавя staged Meadows framing operation на Bernard. | VH | Strongly Strengthened / Refactored |
+| H26 | Bernard има higher classified IT access и може да отстранява/reassign-ва Sims между formal roles; Sims все още има substantial independent political/operational leverage. Hierarchy е overlapping, но Bernard demonstrably контролира access до shadow succession path. | VH | Strongly Strengthened / Refactored |
+| H27 | Pact ограничава physical capabilities за independent movement и observation/discovery, включително scientific/biomedical microscopy, а не само content. | H | Strongly Strengthened |
+| H28 | Investigation на George и path на Juliette към hidden history са свързани чрез intergenerational Flamekeeper network. | H | Strongly Strengthened / Refactored |
 | H29 | Silo има pre-Silo geographic connection с U.S. state of Georgia. | L | Candidate |
-| H30 | The Silo possesses pharmacological memory-suppression capability, and Quinn historically used prolonged waterborne dosing as part of a deliberate public historical-memory reset; exact relation to the current S02E03 forgetfulness drug remains unresolved. | VH | Strongly Strengthened / Refactored |
-| H31 | Reproductive selection was used for selective lineage suppression against Flamekeeper / knowledge-preserving family lines. | H | Active |
-| H32 | Flamekeeper knowledge/history survived through family/social networks and intergenerational transfer of relics. | H | Active |
-| H33 | A privileged hidden-control/read-in layer centered on Bernard/IT controls classified knowledge and now demonstrably includes communications-control capability; the `shadow` role remains a distinct succession/read-in path separate from the public Judge office. | VH | Strongly Strengthened / Refactored |
-| H34 | Standard cleaning-suit tape is intentionally or systematically inferior, while the alternative "good" tape materially improves seal integrity/survival; possible failure pathways remain contaminant ingress, breathing-gas loss, or both. | VH | Strongly Strengthened / Refactored |
-| H35 | S02E01 historical rebellion sequence depicts the second Silo later entered by Juliette. | VH | Confirmed / Refactored |
-| H36 | Outside lethality is driven by a mobile airborne/dust-borne environmental hazard whose local concentration can temporarily fall/disperse and later return. | H | Strongly Strengthened / Refactored |
-| H37 | Concealed mirror-camera surveillance is part of a standardized multi-Silo control architecture across at least two Silos. | H | Strongly Strengthened |
-| H38 | IT is a standardized strategic/secured continuity layer across at least Silos 17 and 18, including protected vaults and continuity power in both; Silo 18 additionally reveals residential space and the Legacy knowledge archive. | VH | Strongly Strengthened / Refactored |
-| H39 | `THE ORDER` is a privileged operational/governance doctrine distinct from the public Pact and includes active crisis-narrative management such as directing blame toward Mechanical. | VH | Strongly Strengthened / Refactored |
-| H40 | Cleaning is an engineered public legitimacy/deterrence ritual: manipulated lush perception drives cleaning, while expected visible cleaner death reinforces outside danger; Silo 17 shows the destabilization cascade when that visible outcome fails. | VH | Strongly Strengthened / Refactored |
-| H41 | `THE ORDER` encodes known Silo governance failure modes, including failed cleaning → war risk; Silo 17 provides concrete historical corroboration of that pattern. | VH | Strongly Strengthened |
-| H42 | The IT vault/secured IT layer is a protected continuity environment preserving people, resilient power and privileged knowledge through crisis/collapse; S02E07 directly adds residential space and the Legacy library. | VH | Strongly Strengthened / Refactored |
-| H43 | Standard cleaning protection may be deliberately calibrated to fail within a short publicly observable window after enough time for the cleaner to clean. | H | Active |
-| H44 | Bernard inherits limited but significant historical/cross-Silo knowledge; S02E07's Legacy library provides a concrete preservation/transfer mechanism for that institutional memory, without proving every fact he knows comes from Legacy. | VH | Strongly Strengthened / Refactored |
-| H45 | The Syndrome may be a systemic human reaction to long-term Silo life rather than a primary physiological disease. | M | Active |
-| H46 | Cleaner lush imagery belongs to a broader immersive stored/rendered visual technology family also demonstrated by Bernard's standalone pre-Silo environment headset. | VH | Strongly Strengthened / Refactored |
-| H47 | Historical/cultural knowledge loss is engineered through combined information removal and memory suppression: server access removal, book confiscation, chronic waterborne forgetting and continuing relic control can explain the disappearance of ordinary pre-Silo/historical knowledge. | VH | Strongly Strengthened / Refactored |
-| H48 | `A.R.` is a distinct institutional era notation; the 352-year construction age and ~140-year Rebellion anchor now strongly establish a long pre-Rebellion Silo history, while exact `A.R.` expansion and mapping to `SILO YEAR` remain unresolved. | H | Strongly Strengthened / Refactored |
-| H49 | Mechanical is a predefined institutional scapegoat during rebellion/crisis; blame is prescribed independently of where unrest actually begins. | VH | Strongly Strengthened |
-| H50 | Salvador Quinn is a key Rebellion-era privileged-IT figure whose encoded final payload directly contains a protected message to a future reader/investigator who has already recognized that the system/history is “rigged”. | VH | Strongly Strengthened / Refactored |
-| H51 | Hidden-control leadership is non-monolithic: Bernard and Sims have partially independent interests/power bases, while Bernard demonstrably retains authority over Sims' formal posting and shadow eligibility. | H | Strongly Strengthened / Refactored |
-| H52 | Bernard uses the Mechanical-scapegoating doctrine to convert a leadership crisis into controlled conflict by framing Mechanical for Meadows' death. | H | Strongly Strengthened |
-| H53 | Judge is a high public/formal office that Bernard can fill/reassign, while the `shadow` role is a separate privileged IT succession/read-in path. | H | Strongly Strengthened |
-| H54 | IT/vault infrastructure has standardized continuity-power capability across at least Silos 17 and 18, allowing IT to remain powered when normal Silo power is unavailable; an external/outside source is specifically described only by Silo 17 survivor testimony, while Silo 18 source architecture remains unresolved. | VH | Strongly Strengthened / Refactored |
-| H55 | IT and Judicial may connect to a hidden privileged infrastructure backbone distinct from ordinary Silo distribution; exact service type remains unresolved. | M-H | Active |
-| H56 | The Silo uses multiple parallel communication tiers with different access/control properties: physical couriers, institutional digital messaging and radio. | H | Strongly Strengthened / Refactored |
-| H57 | The surveillance/control-room function aggregates human-source field reporting alongside technical surveillance inputs. | H | Active / Strengthened |
-| H58 | IT is a central communications choke point capable of degrading or isolating operational coordination by cutting Silo-wide radio traffic. | H | Active / Strengthened |
-| H59 | IT vaults may include a standardized `Legacy` knowledge archive intended to preserve technical, historical and governance knowledge across succession or Silo-wide collapse; direct confirmation currently exists in Silo 18. | H | Active / Strengthened |
-| H60 | The crisis now contains competing public narratives: leadership/IT frames Mechanical as the threat while an anti-IT physical counter-narrative presents Mechanical as seeking truth and questions Juliette/Meadows official stories. | H | Active / Strengthened |
-| H61 | Quinn implemented a deliberate historical-reset strategy to break a recurring ~20-year rebellion cycle through information suppression, false public attribution and pharmacological memory weakening. | H | Active / Strongly Supported |
-| H62 | Modern relic/book/history prohibition functions as a maintenance layer of Quinn's reset by preventing reconstruction of the erased public past. | H | Active / Strongly Supported |
-| H63 | Silo 17 contains multiple living inhabitants; the previously known IT-vault survivor is not the only surviving resident shown. | VH | Confirmed / Refactored |
-| H64 | The R. Ahundsen `apple tree` wording may be covert signaling, literal personal reminiscence, or dual-purpose language. | M | Candidate |
-| H65 | Meadows' independent investigation into Quinn/family-held historical material may have contributed to her abandonment of Bernard's shadow path; exact relation to the four-day disappearance remains unresolved. | M-H | Active |
-| H67 | Salvador Quinn had direct association with surviving foundational Pact material; authorship, Founder status and textual differences from the current Pact remain unproven. | H | Active / Strengthened |
-| H69 | Quinn's encoded ending is deliberately structured as a protected second-layer message for a future reader who has already penetrated the official narrative. | H | Active / Strengthened |
+| H30 | Silo разполага с pharmacological memory-suppression capability, а Quinn исторически използва prolonged waterborne dosing като част от deliberate public historical-memory reset; exact relation към current S02E03 forgetfulness drug остава unresolved. | VH | Strongly Strengthened / Refactored |
+| H31 | Reproductive selection е използван за selective lineage suppression срещу Flamekeeper / knowledge-preserving family lines. | H | Active |
+| H32 | Flamekeeper knowledge/history оцелява чрез family/social networks и intergenerational transfer на relics. | H | Active |
+| H33 | Privileged hidden-control/read-in layer, centered on Bernard/IT, контролира classified knowledge и вече demonstrably включва communications-control capability; ролята `shadow` остава distinct succession/read-in path, отделен от public Judge office. | VH | Strongly Strengthened / Refactored |
+| H34 | Standard cleaning-suit tape е intentionally или systematically inferior, докато alternative "good" tape materially подобрява seal integrity/survival; възможните failure pathways остават contaminant ingress, breathing-gas loss или и двете. | VH | Strongly Strengthened / Refactored |
+| H35 | Historical rebellion sequence в S02E01 изобразява втория Silo, в който по-късно влиза Juliette. | VH | Confirmed / Refactored |
+| H36 | Outside lethality се причинява от mobile airborne/dust-borne environmental hazard, чиято local concentration може временно да спадне/се разсее и по-късно да се върне. | H | Strongly Strengthened / Refactored |
+| H37 | Concealed mirror-camera surveillance е част от standardized multi-Silo control architecture поне в два Silos. | H | Strongly Strengthened |
+| H38 | IT е standardized strategic/secured continuity layer поне в Silos 17 и 18, включително protected vaults и continuity power и в двата; Silo 18 допълнително разкрива residential space и Legacy knowledge archive. | VH | Strongly Strengthened / Refactored |
+| H39 | `THE ORDER` е privileged operational/governance doctrine, различна от public Pact, и включва active crisis-narrative management като насочване на blame към Mechanical. | VH | Strongly Strengthened / Refactored |
+| H40 | Cleaning е engineered public legitimacy/deterrence ritual: manipulated lush perception drives cleaning, а expected visible cleaner death reinforces outside danger; Silo 17 показва destabilization cascade, когато този visible outcome се провали. | VH | Strongly Strengthened / Refactored |
+| H41 | `THE ORDER` encode-ва познати Silo governance failure modes, включително failed cleaning → war risk; Silo 17 дава concrete historical corroboration на този pattern. | VH | Strongly Strengthened |
+| H42 | IT vault/secured IT layer е protected continuity environment, който запазва хора, resilient power и privileged knowledge през crisis/collapse; S02E07 директно добавя residential space и Legacy library. | VH | Strongly Strengthened / Refactored |
+| H43 | Standard cleaning protection може да е deliberately calibrated да fail-не в кратък publicly observable window, след като cleaner има достатъчно време да clean-не. | H | Active |
+| H44 | Bernard наследява limited, но significant historical/cross-Silo knowledge; Legacy library от S02E07 дава concrete preservation/transfer mechanism за тази institutional memory, без да доказва, че всеки известен му факт идва от Legacy. | VH | Strongly Strengthened / Refactored |
+| H45 | The Syndrome може да е systemic human reaction към long-term Silo life, а не primary physiological disease. | M | Active |
+| H46 | Cleaner lush imagery принадлежи към по-широка immersive stored/rendered visual technology family, демонстрирана и от standalone pre-Silo environment headset на Bernard. | VH | Strongly Strengthened / Refactored |
+| H47 | Historical/cultural knowledge loss е engineered чрез комбинирани information removal и memory suppression: server access removal, book confiscation, chronic waterborne forgetting и continuing relic control могат да обяснят изчезването на ordinary pre-Silo/historical knowledge. | VH | Strongly Strengthened / Refactored |
+| H48 | `A.R.` е distinct institutional era notation; 352-year construction age и ~140-year Rebellion anchor вече силно установяват long pre-Rebellion Silo history, докато exact `A.R.` expansion и mapping към `SILO YEAR` остават unresolved. | H | Strongly Strengthened / Refactored |
+| H49 | Mechanical е predefined institutional scapegoat при rebellion/crisis; blame е prescribed независимо откъде реално започва unrest. | VH | Strongly Strengthened |
+| H50 | Salvador Quinn е ключова Rebellion-era privileged-IT фигура, чийто encoded final payload директно съдържа protected message към future reader/investigator, който вече е разпознал, че system/history е “rigged”. | VH | Strongly Strengthened / Refactored |
+| H51 | Hidden-control leadership не е monolithic: Bernard и Sims имат частично independent interests/power bases, докато Bernard demonstrably запазва authority върху formal posting на Sims и shadow eligibility. | H | Strongly Strengthened / Refactored |
+| H52 | Bernard използва Mechanical-scapegoating doctrine, за да превърне leadership crisis в controlled conflict чрез framing на Mechanical за смъртта на Meadows. | H | Strongly Strengthened |
+| H53 | Judge е high public/formal office, който Bernard може да fill/reassign-ва, докато ролята `shadow` е отделен privileged IT succession/read-in path. | H | Strongly Strengthened |
+| H54 | IT/vault infrastructure има standardized continuity-power capability поне в Silos 17 и 18, позволявайки IT да остава powered, когато normal Silo power не е available; external/outside source е описан конкретно само от survivor testimony в Silo 17, докато source architecture на Silo 18 остава unresolved. | VH | Strongly Strengthened / Refactored |
+| H55 | IT и Judicial може да са свързани с hidden privileged infrastructure backbone, различен от ordinary Silo distribution; exact service type остава unresolved. | M-H | Active |
+| H56 | Silo използва multiple parallel communication tiers с различни access/control properties: physical couriers, institutional digital messaging и radio. | H | Strongly Strengthened / Refactored |
+| H57 | Surveillance/control-room function агрегира human-source field reporting заедно с technical surveillance inputs. | H | Active / Strengthened |
+| H58 | IT е central communications choke point, способен да degrade-ва или isolate-ва operational coordination чрез прекъсване на Silo-wide radio traffic. | H | Active / Strengthened |
+| H59 | IT vaults може да включват standardized `Legacy` knowledge archive, предназначен да запазва technical, historical и governance knowledge през succession или Silo-wide collapse; direct confirmation към момента има в Silo 18. | H | Active / Strengthened |
+| H60 | Кризата вече съдържа competing public narratives: leadership/IT frame-ва Mechanical като threat, докато anti-IT physical counter-narrative представя Mechanical като търсещ truth и поставя под въпрос official stories за Juliette/Meadows. | H | Active / Strengthened |
+| H61 | Quinn прилага deliberate historical-reset strategy, за да прекъсне recurring ~20-year rebellion cycle чрез information suppression, false public attribution и pharmacological memory weakening. | H | Active / Strongly Supported |
+| H62 | Modern relic/book/history prohibition функционира като maintenance layer на reset-а на Quinn, предотвратявайки reconstruction на erased public past. | H | Active / Strongly Supported |
+| H63 | Silo 17 съдържа multiple living inhabitants; познатият по-рано IT-vault survivor не е единственият показан surviving resident. | VH | Confirmed / Refactored |
+| H64 | Wording-ът на R. Ahundsen за `apple tree` може да е covert signaling, literal personal reminiscence или dual-purpose language. | M | Candidate |
+| H65 | Independent investigation на Meadows върху Quinn/family-held historical material може да е допринесло за abandonment на shadow path на Bernard; exact relation към четиридневното изчезване остава unresolved. | M-H | Active |
+| H67 | Salvador Quinn има direct association с оцеляло foundational Pact material; authorship, Founder status и textual differences спрямо current Pact остават unproven. | H | Active / Strengthened |
+| H69 | Encoded ending на Quinn е умишлено структуриран като protected second-layer message за future reader, който вече е проникнал отвъд official narrative. | H | Active / Strengthened |
 
 ---
 
