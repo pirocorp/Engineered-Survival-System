@@ -811,9 +811,9 @@ radio infrastructure
 
 Това е layered-access model, а не proof, че всяко digital message се monitored-ва или че ordinary residents нямат никакъв electronic access.
 
-The crucial new distinction is:
+Ключовото ново разграничение е:
 
-> **Communication technology съществува; access и controllability са constrained variables.**
+> **Комуникационната технология съществува; достъпът и възможността за контрол са ограничени променливи.**
 
 ---
 
