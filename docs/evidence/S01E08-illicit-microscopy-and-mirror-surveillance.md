@@ -19,12 +19,12 @@ Pact restricts high magnification
 mother builds independent optical tool
           │
           ▼
-biomedical investigation becomes possible
+biomedical investigation става възможно
           │
           ├──────────────► restricted institutional record
           │
           ▼
-mirror surveillance provides discovery mechanism
+mirror surveillance предоставя механизъм за откриване
 ```
 
 ## Impact
