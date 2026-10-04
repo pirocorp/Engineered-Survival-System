@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S01E10`
 
-## Direct evidence
+## Директни доказателства
 
 - Helmet-ът на Juliette първоначално показва същото lush representation, свързано с `JANE CARMODY CLEANING`.
 - Juliette първоначално интерпретира това като proof, че internal public display лъже.
