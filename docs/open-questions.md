@@ -9,7 +9,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 ## Външен свят / cleaning / visual pipeline
 
 1. **RESOLVED in S01E10:** exterior-ът около Silo е barren/devastated; lush cleaner representation е false.
-2. **RESOLVED in S01E10:** barren representation е substantially closer to physical reality; lush helmet view is deception.
+2. **RESOLVED in S01E10:** barren representation е значително по-близко до физическата реалност; lush helmet view е deception.
 3. Cleaner helmet layer как точно се генерира — prerecorded asset, realtime render, composited overlay или друг mechanism?
 4. Public wall display direct live camera feed ли е или все още processed representation на substantially real barren exterior?
 5. Public display и cleaner helmet споделят ли един physical camera source или separate pipelines?
@@ -832,22 +832,22 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 587. `THE ORDER` част ли е от `Legacy`, separate controlled doctrine ли е, or both?
 588. `Legacy` curated/censored ли е, and who controls additions/removals?
 589. Silo 17 има ли homologous `Legacy` archive?
-590. Silo 17 survivor's broad knowledge резултат ли е от years of access to a Legacy-like archive?
-591. Residential vault compartments за колко occupants са intended and for how long?
-592. Vault има ли independent food/water/air stores sufficient for long-duration continuity?
-593. Every Silo vault standardized ли е with the same habitation + Legacy + power package?
+590. Широките познания на оцелелия от Silo 17 резултат ли са от години достъп до Legacy-like archive?
+591. За колко occupants са предназначени residential vault compartments и за какъв период?
+592. Vault разполага ли с независими запаси от food/water/air, достатъчни за long-duration continuity?
+593. Всеки Silo vault стандартизиран ли е със същия habitation + Legacy + power package?
 
 ## S02E07 — 352-year chronology anchor
 
-594. Bernard's **352 years** exact archival figure ли е or rounded conversational age?
-595. 352 years refers specifically to Silo 18 ли, to the whole Silo program, or to another shared construction event?
-596. Всички 50 Silos built simultaneously ли са?
+594. **352 years** на Bernard точна archival стойност ли е, или закръглена conversational age?
+595. **352 years** отнасят ли се конкретно за Silo 18, за цялата Silo program или за друго общо construction event?
+596. Всички 50 Silos построени ли са едновременно?
 597. **PARTIALLY NARROWED in S02E08:** Bernard казва, че multiple rebellions са се повтаряли приблизително на всеки 20 години преди final reset на Quinn. Exact start point, count, causes и placement в ~212-year pre-last-Rebellion period остават unresolved.
-598. Следователно ~200-year recording на Jane Carmody е приблизително ~152 години след construction — потвърждава ли later evidence това placement?
-599. Quinn/Rebellion ~140-year anchor exact enough ли е to refine the ~212-year interval?
-600. `A.R.` literally означава ли post-Rebellion era, or does the 352-year anchor point to another epoch?
-601. Как `SILO YEAR 96/97` се fits into a system already ~352 years old?
-602. Има ли separate construction-era, pre-Rebellion, A.R. and local archive dating systems?
+598. Следователно ~200-year recording на Jane Carmody е приблизително ~152 години след construction — потвърждава ли по-късно evidence това placement?
+599. Quinn/Rebellion ~140-year anchor достатъчно точен ли е, за да прецизира ~212-year interval?
+600. `A.R.` буквално означава ли post-Rebellion era, или 352-year anchor сочи към друга epoch?
+601. Как `SILO YEAR 96/97` се вписва в система, която вече е на ~352 години?
+602. Има ли отделни construction-era, pre-Rebellion, A.R. и local archive dating systems?
 
 ## S02E07 — anti-IT physical counter-narrative
 
