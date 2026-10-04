@@ -4,182 +4,182 @@
 
 ## Работен модел
 
-S02E08 provides the first coherent privileged explanation for **why the Silo deliberately destroyed its own public historical memory**.
+S02E08 дава първото coherent privileged explanation **защо Silo умишлено е унищожил собствената си публична историческа памет**.
 
-According to Bernard, Salvador Quinn did not fail during the last Rebellion. He deliberately broke public historical continuity after concluding that knowledge of earlier rebellions contributed to a recurring roughly 20-year rebellion cycle. The intervention combined server-access removal, book confiscation, false attribution of the historical loss to rebels, and prolonged memory-suppressing dosing through the water. Bernard credits the result with approximately **140 years of peace**.
+Според Bernard Salvador Quinn не се е провалил по време на последния Rebellion. Той умишлено прекъсва public historical continuity, след като заключава, че знанието за по-ранните rebellions допринася за повтарящ се приблизително 20-годишен rebellion cycle. Намесата комбинира премахване на server access, конфискуване на книги, невярно приписване на историческата загуба на rebels и продължително memory-suppressing dosing чрез водата. Bernard приписва резултата на приблизително **140 години мир**.
 
 Най-големите промени спрямо S02E07 са:
 
-1. The official story portrays Quinn as a failed Rebellion-era Head of IT under whose watch historical/server records were lost.
-2. Bernard explicitly says this official story is false and that Quinn instead saved the Silo.
-3. Bernard says pre-Quinn rebellions had recurred roughly every 20 years and each threatened everyone.
-4. Quinn concluded that awareness of prior rebellions contributed to the recurrence.
-5. Quinn deliberately removed public historical continuity: server access was cut and books were confiscated.
-6. The destruction/loss of history was attributed to the rebels.
-7. Bernard says Quinn placed a memory-suppressing chemical/drug in the water.
-8. Chronic exposure over weeks, months and years caused memories to fade progressively.
-9. This independently corroborates the older Flamekeeper water-memory testimony and strongly refactors H30.
-10. Bernard credits the intervention with roughly 140 years of peace, while the causal diagnosis itself remains Bernard/Quinn's interpretation rather than independently proven.
-11. Meadows' earlier independent investigation is now directly tied to Quinn's relatives and surviving historical books/materials.
-12. An old copy titled `The Pact Between the Founders` bears the handwritten name `Salvador Quinn`; this proves association, not authorship or Founder status.
-13. Quinn's decoded protected message begins to reveal its purpose: `If you've gotten this far, you already know the game is rigged.`
-14. Judge Sims receives a personal digital message from R. Ahundsen referring to a funeral and a `little apple tree`; a large indoor orchard provides a plausible literal referent, while coded intent remains unresolved.
-15. Silo 17 directly contains additional living people beyond Juliette and the previously known survivor.
+1. Официалната история представя Quinn като провалил се Rebellion-era Head of IT, по чието време historical/server records са загубени.
+2. Bernard изрично казва, че тази официална история е невярна и че Quinn всъщност е спасил Silo.
+3. Bernard казва, че pre-Quinn rebellions са се повтаряли приблизително на всеки 20 години и всеки е застрашавал всички.
+4. Quinn заключава, че знанието за предишните rebellions допринася за повторяемостта.
+5. Quinn умишлено премахва public historical continuity: server access е прекъснат, а книгите са конфискувани.
+6. Унищожаването/загубата на историята е приписано на rebels.
+7. Bernard казва, че Quinn е поставил memory-suppressing chemical/drug във водата.
+8. Chronic exposure в течение на седмици, месеци и години кара спомените постепенно да избледняват.
+9. Това независимо corroborate-ва по-старото Flamekeeper water-memory testimony и силно refactor-ва H30.
+10. Bernard приписва приблизително 140 години мир на intervention-а, докато самата causal diagnosis остава interpretation на Bernard/Quinn, а не independently proven.
+11. По-ранното independent investigation на Meadows вече е директно свързано с роднините на Quinn и оцелели historical books/materials.
+12. Старо копие със заглавие `The Pact Between the Founders` носи ръкописното име `Salvador Quinn`; това доказва association, а не authorship или Founder status.
+13. Decoded protected message на Quinn започва да разкрива предназначението си: `If you've gotten this far, you already know the game is rigged.`
+14. Judge Sims получава лично digital message от R. Ahundsen, което препраща към погребение и `little apple tree`; голям indoor orchard дава plausible literal referent, докато coded intent остава unresolved.
+15. Silo 17 директно съдържа и други живи хора освен Juliette и познатия досега survivor.
 
-> **След S02E08 public historical amnesia is best modeled as an engineered stability intervention: information access was removed, physical historical carriers were confiscated, public blame was falsified, and memory was pharmacologically weakened over time. At the same time, privileged continuity systems such as Legacy preserved selected knowledge for leadership. The result is not total destruction of history, but a controlled monopoly over historical memory.**
+> **След S02E08 public historical amnesia се моделира най-добре като engineered stability intervention: information access е премахнат, физическите historical carriers са конфискувани, public blame е фалшифициран, а memory е pharmacologically отслабвана с времето. В същото време privileged continuity systems като Legacy запазват selected knowledge за leadership. Резултатът не е total destruction of history, а контролиран монопол върху историческата памет.**
 ---
 
 ## Наблюдения с висок confidence
 
-### S02E08 — Quinn historical reset / official-history reversal
+### S02E08 — Quinn historical reset / обръщане на официалната история
 
-- The official historical version portrays Salvador Quinn as having failed while the Silo's historical/server records were destroyed or lost during the Rebellion.
-- Bernard explicitly says that version is false and that Quinn instead **saved the Silo**.
-- Bernard says rebellions before Quinn recurred roughly every **20 years** and each endangered everyone in the Silo.
-- According to Bernard, Quinn concluded that knowing about earlier rebellions helped reproduce the cycle.
-- Quinn deliberately broke public historical continuity.
-- Public access to historical server records was cut.
-- Books were confiscated.
-- The historical destruction/loss was blamed on the rebels rather than presented as Quinn's deliberate policy.
-- Bernard credits the intervention with roughly **140 years of peace**.
-- This establishes Bernard's privileged causal account; it does not independently prove Quinn's diagnosis of rebellion causation was correct.
+- Официалната историческа версия представя Salvador Quinn като провалил се, докато historical/server records на Silo са унищожени или загубени по време на Rebellion.
+- Bernard изрично казва, че тази версия е невярна и че Quinn всъщност **спасява Silo**.
+- Bernard казва, че rebellions преди Quinn са се повтаряли приблизително на всеки **20 години** и всеки е застрашавал всички в Silo.
+- Според Bernard Quinn заключава, че знанието за по-ранните rebellions помага cycle-ът да се възпроизвежда.
+- Quinn умишлено прекъсва public historical continuity.
+- Public access до historical server records е прекъснат.
+- Книгите са конфискувани.
+- Historical destruction/loss е приписано на rebels, вместо да бъде представено като deliberate policy на Quinn.
+- Bernard приписва на intervention-а приблизително **140 години мир**.
+- Това установява privileged causal account на Bernard; не доказва independently, че diagnosis на Quinn за причините за rebellion е била правилна.
 
-### S02E08 — chronic memory suppression through water
+### S02E08 — chronic memory suppression чрез водата
 
-- Bernard says Quinn put a chemical/drug into the water that made people forget.
-- The effect is described as cumulative rather than instantaneous.
-- Week after week, month after month and year after year, memories faded.
-- This independently corroborates the older S01E07 Flamekeeper testimony that something was placed in the water to suppress/erase memory.
-- S02E03 separately established a current institutional drug offered explicitly so a person can forget.
-- The historical waterborne substance and the current S02E03 drug are not yet proven to be the same molecule or formulation.
+- Bernard казва, че Quinn е сложил chemical/drug във водата, който кара хората да забравят.
+- Ефектът е описан като cumulative, а не instantaneous.
+- Седмица след седмица, месец след месец и година след година спомените избледняват.
+- Това независимо corroborate-ва по-старото S01E07 Flamekeeper testimony, че нещо е било поставяно във водата, за да suppress/erase-ва memory.
+- S02E03 отделно установява current institutional drug, предлаган изрично, за да може човек да забрави.
+- Historical waterborne substance и current S02E03 drug все още не са доказани като една и съща molecule или formulation.
 
-### S02E08 — Meadows / Quinn family / old Pact
+### S02E08 — Meadows / семейството на Quinn / старият Pact
 
-- While still Bernard's shadow, Meadows visited relatives/descendants of Salvador Quinn looking for surviving books and historical materials.
-- An old physical copy titled `The Pact Between the Founders` is directly shown.
-- The copy bears the handwritten name `Salvador Quinn`.
-- This directly associates Quinn with surviving foundational Pact material from the suppressed historical layer.
-- It does **not** establish that Quinn wrote the Pact, was a Founder, or that this copy differs from the current Pact.
-- Meadows' investigation may relate to her later abandonment of the shadow path, but the exact connection — including to her known four-day disappearance — remains unresolved.
+- Докато още е shadow на Bernard, Meadows посещава роднини/потомци на Salvador Quinn в търсене на оцелели книги и historical materials.
+- Директно е показано старо физическо копие със заглавие `The Pact Between the Founders`.
+- Копието носи ръкописното име `Salvador Quinn`.
+- Това директно асоциира Quinn с оцеляло foundational Pact material от suppressed historical layer.
+- Това **не** установява, че Quinn е написал Pact, че е бил Founder или че това копие се различава от current Pact.
+- Investigation-ът на Meadows може да е свързан с по-късното ѝ abandonment на shadow path, но exact connection — включително с известното четиридневно изчезване — остава unresolved.
 
-### S02E08 — Quinn decoded protected message
+### S02E08 — decoded protected message на Quinn
 
-- A decoded portion of Quinn's final protected message reads: `If you've gotten this far, you already know the game is rigged.`
-- The wording assumes a future reader who has already penetrated beyond the official narrative.
-- The exact referent of `the game` is not yet established.
-- The protected ending is therefore now directly supported as a second-layer message for a future investigator/successor, rather than merely generic sensitive information.
+- Decoded част от final protected message на Quinn гласи: `If you've gotten this far, you already know the game is rigged.`
+- Wording-ът предполага future reader, който вече е проникнал отвъд official narrative.
+- Exact referent на `the game` все още не е established.
+- Protected ending следователно вече е директно подкрепен като second-layer message за future investigator/successor, а не просто generic sensitive information.
 
 ### S02E08 — Sims / R. Ahundsen / orchard
 
-- Judge Sims receives a digital message from `R. AHUNDSEN`.
-- The sender recalls Sims attending the sender's father's funeral.
-- The message asks how a `little apple tree` has grown.
-- A large indoor orchard/agricultural area is shown, providing a plausible literal referent.
-- The apple-tree wording may still be coded or dual-purpose, but no coded interpretation is accepted yet.
+- Judge Sims получава digital message от `R. AHUNDSEN`.
+- Sender-ът припомня, че Sims е присъствал на погребението на баща му.
+- Message-ът пита как е пораснало `little apple tree`.
+- Показано е голямо indoor orchard/agricultural area, което дава plausible literal referent.
+- Apple-tree wording може все още да е coded или dual-purpose, но coded interpretation все още не се приема.
 
-### S02E08 — multiple Silo 17 survivors
+### S02E08 — multiple survivors в Silo 17
 
-- Earlier in the episode, additional-survivor indications remain provisional.
-- By the end of the episode, additional living people are directly shown in Silo 17.
-- The previously known IT-vault survivor is therefore not the only living inhabitant.
-- Exact survivor count, generational history, habitat, supplies and relationship to the vault remain unresolved.
+- По-рано в епизода indications за additional survivors остават provisional.
+- До края на епизода директно са показани additional living people в Silo 17.
+- Следователно познатият IT-vault survivor не е единственият living inhabitant.
+- Exact survivor count, generational history, habitat, supplies и relationship към vault остават unresolved.
 
-### S02E07 — vault habitation / Legacy
+### S02E07 — habitation във vault / Legacy
 
-- The secured IT vault includes residential/living compartments.
-- A protected component inside the vault is explicitly called `Legacy`.
-- `Legacy` is identified as a library / knowledge archive.
-- This provides a concrete preservation mechanism for privileged institutional memory across succession and crisis.
-- Bernard's deep historical/cross-Silo knowledge no longer needs to be modeled as vaguely inherited; `Legacy` is a direct candidate repository.
-- Silo 17 having an equivalent `Legacy` remains an inference, not a direct observation.
+- Secured IT vault включва residential/living compartments.
+- Protected component във vault изрично се нарича `Legacy`.
+- `Legacy` е идентифициран като library / knowledge archive.
+- Това дава concrete preservation mechanism за privileged institutional memory през succession и crisis.
+- Deep historical/cross-Silo knowledge на Bernard вече не трябва да се моделира като vaguely inherited; `Legacy` е direct candidate repository.
+- Silo 17 да има equivalent `Legacy` остава inference, а не direct observation.
 
-### S02E07 — 352-year Silo age
+### S02E07 — 352-годишна възраст на Silo
 
-- Bernard states that the Silo was built **352 years ago**.
-- Combined with the earlier ~140-years-ago Rebellion anchor, construction is approximately **212 years before the Rebellion**.
-- Combined with Bernard's ~200-year Jane Carmody estimate, the current rough sequence is construction → ~152 years → Jane Carmody → ~60 years → Rebellion → ~140 years → present.
-- Jane/Rebellion values are approximate testimony anchors; this is not an exact calendar conversion.
-- The Rebellion is therefore clearly not the beginning of Silo history.
-- `A.R.` expansion and `SILO YEAR 96/97` mapping remain unresolved.
+- Bernard заявява, че Silo е построен преди **352 години**.
+- Комбинирано с по-ранния ~140-years-ago Rebellion anchor, construction е приблизително **212 години преди Rebellion**.
+- Комбинирано с ~200-year estimate на Bernard за Jane Carmody, текущата rough sequence е construction → ~152 години → Jane Carmody → ~60 години → Rebellion → ~140 години → present.
+- Jane/Rebellion values са approximate testimony anchors; това не е exact calendar conversion.
+- Следователно Rebellion ясно не е началото на Silo history.
+- `A.R.` expansion и `SILO YEAR 96/97` mapping остават unresolved.
 
 ### S02E07 — anti-IT physical counter-narrative
 
-- A handwritten leaflet states: `I.T. Lies to us.`
-- It states: `Mechanical wants THE TRUTH.`
-- It asks what happened to Juliette, how Meadows really died, and what IT is hiding.
-- It ends with `Look and See.`
-- The note establishes a circulating anti-IT counter-narrative but does not establish its author or whether Mechanical leadership officially produced it.
-- Physical paper is a communication channel distinct from the centrally cuttable radio layer established in S02E06.
+- Handwritten leaflet гласи: `I.T. Lies to us.`
+- Той гласи: `Mechanical wants THE TRUTH.`
+- Пита какво се е случило с Juliette, как наистина е умряла Meadows и какво крие IT.
+- Завършва с `Look and See.`
+- Note-ът установява circulating anti-IT counter-narrative, но не установява author-а му или дали Mechanical leadership официално го е produced.
+- Physical paper е communication channel, различен от centrally cuttable radio layer, установен в S02E06.
 
-### S02E07 — Silo 18 continuity power
+### S02E07 — continuity power в Silo 18
 
-- During a general Silo 18 power outage, IT remains visibly lit/powered.
-- Residents explicitly notice and question why IT still has power.
-- This independently corroborates functional IT continuity/redundant power across at least Silos 17 and 18.
-- It does not yet prove that Silo 18 uses the same exact external source described by the Silo 17 survivor.
-- The power asymmetry is now publicly observable and can feed anti-IT distrust during crisis.
+- По време на general Silo 18 power outage IT остава видимо lit/powered.
+- Residents изрично забелязват и питат защо IT все още има power.
+- Това независимо corroborate-ва functional IT continuity/redundant power поне в Silos 17 и 18.
+- Все още не доказва, че Silo 18 използва същия exact external source, описан от survivor-а от Silo 17.
+- Power asymmetry вече е publicly observable и може да захранва anti-IT distrust по време на crisis.
 
 ### S02E06 — institutional digital messaging
 
-- A Sheriff Department terminal visibly includes `DIRECT MESSAGING`.
-- Its inbox contains both departmental and named senders, including IT, Office of HR, Mechanical and individual users.
-- A two-way direct text conversation is shown.
-- This proves institutional electronic messaging exists and supports person-addressable communication.
-- It does **not** establish universal digital access for ordinary residents.
-- The continued courier system must therefore be explained by access, endpoint availability, policy, privacy/audit considerations, physical delivery needs or another constraint rather than by absence of digital messaging technology alone.
+- Terminal в Sheriff Department видимо включва `DIRECT MESSAGING`.
+- Inbox-ът съдържа departmental и named senders, включително IT, Office of HR, Mechanical и individual users.
+- Показан е two-way direct text conversation.
+- Това доказва, че institutional electronic messaging съществува и поддържа person-addressable communication.
+- Това **не** установява universal digital access за ordinary residents.
+- Продължаващата courier system следователно трябва да се обясни чрез access, endpoint availability, policy, privacy/audit considerations, physical delivery needs или друг constraint, а не само чрез липса на digital messaging technology.
 
-### S02E06 — control-room field / HUMINT reporting
+### S02E06 — field / HUMINT reporting към control room
 
-- A control-room screen receives a current written report describing an armed group's movement, direction and equipment.
-- The report is routed to named operators with `ATTN: DOREEN` and `FOR: DIEGO`.
-- The control-room operational picture therefore includes human-source/field reporting in addition to camera/surveillance inputs.
-- Exact source device, intermediary path, network protocol and authentication remain unresolved.
+- Control-room screen получава current written report, описващ movement, direction и equipment на въоръжена група.
+- Report-ът е routed към named operators с `ATTN: DOREEN` и `FOR: DIEGO`.
+- Control-room operational picture следователно включва human-source/field reporting в допълнение към camera/surveillance inputs.
+- Exact source device, intermediary path, network protocol и authentication остават unresolved.
 
 ### S02E06 — IT radio control
 
-- Bernard/IT can interrupt all radio communications across the Silo.
-- This establishes a Silo-wide communications-control capability, not merely passive access to information.
-- The exact technical choke point remains unknown: central repeater, power dependency, switching/gating or another shared infrastructure element are still alternatives.
-- It is not yet established whether IT can selectively block channels/users or only perform broad shutdown.
+- Bernard/IT може да прекъсва всички radio communications в Silo.
+- Това установява Silo-wide communications-control capability, а не просто passive access до информация.
+- Exact technical choke point остава неизвестен: central repeater, power dependency, switching/gating или друг shared infrastructure element остават alternatives.
+- Все още не е established дали IT може selective да block-ва channels/users или само да извършва broad shutdown.
 
-### S02E06 — Levels 55 and 120
+### S02E06 — Levels 55 и 120
 
-- Level marker **55** is directly shown.
-- Level marker **120** is directly shown.
-- Both are added only as spatial anchors.
-- Level 120's adjacency in numbering to the already observed Level 119 does not by itself establish a shared function.
+- Level marker **55** е директно показан.
+- Level marker **120** е директно показан.
+- И двата се добавят само като spatial anchors.
+- Numbering adjacency на Level 120 към вече наблюдавания Level 119 не установява сама по себе си shared function.
 
 ### S02E05 — Sims / Judge / shadow
 
-- Bernard removes Sims as Head of Security.
-- Bernard explicitly tells Sims he will **not** become Bernard's shadow.
-- Bernard appoints Sims as the new Judge.
-- This separates the public Judicial office from Bernard's privileged succession/read-in path.
-- Bernard's ability to move Sims between formal roles is strong evidence of institutional leverage, but does not establish that every Judge is a passive puppet.
+- Bernard отстранява Sims като Head of Security.
+- Bernard изрично казва на Sims, че **няма** да стане shadow на Bernard.
+- Bernard назначава Sims за новия Judge.
+- Това разделя public Judicial office от privileged succession/read-in path на Bernard.
+- Способността на Bernard да мести Sims между formal roles е strong evidence за institutional leverage, но не установява, че всеки Judge е passive puppet.
 
-### S02E05 — Silo 17 independent IT power
+### S02E05 — independent IT power в Silo 17
 
-- The Silo 17 survivor says IT has its own independent power supply.
-- He describes its source as external/outside relative to the normal Silo generator path.
-- Exact physical source/location remains unresolved.
-- This directly explains why IT can remain powered after the main generator is lost.
+- Survivor-ът от Silo 17 казва, че IT има собствен independent power supply.
+- Той описва source-а като external/outside спрямо normal Silo generator path.
+- Exact physical source/location остава unresolved.
+- Това директно обяснява защо IT може да остане powered след загубата на main generator.
 
-### S02E05 — Silo 17 flooding failure chain
+### S02E05 — flooding failure chain в Silo 17
 
-- During the rebellion, a pump on Level 144 was blown/destroyed in an attempt to flood Mechanical.
-- Water continued rising.
-- Mechanical did not restore the generator before the water reached it.
-- The main generator failed because of flooding.
-- Water continues to rise gradually in the present.
-- The survivor wants Juliette to repair/restore a pump that can stop or slow the flooding.
-- The recovery plan is to power that pump from IT's independent supply.
-- IT power can therefore potentially be routed to selected non-IT critical recovery infrastructure.
+- По време на rebellion pump на Level 144 е взривена/унищожена в опит да бъде наводнен Mechanical.
+- Водата продължава да се покачва.
+- Mechanical не restore-ва generator-а, преди водата да го достигне.
+- Main generator спира заради flooding.
+- Водата продължава постепенно да се покачва и в present.
+- Survivor-ът иска Juliette да repair/restore-не pump, която може да спре или забави flooding.
+- Recovery plan е pump-ът да бъде захранен от independent supply на IT.
+- IT power следователно потенциално може да бъде routed към selected non-IT critical recovery infrastructure.
 
 ### S02E05 — Level 26 / common-area visuals
 
-- Level 26 is directly shown again; this is corroboration of an already known anchor.
-- A large multilevel common/circulation area with landscaped green space is directly shown.
-- No special function or level assignment is inferred from the common-area frame alone.
+- Level 26 отново е директно показан; това е corroboration на вече известен anchor.
+- Директно е показано голямо multilevel common/circulation area с landscaped green space.
+- От common-area frame сам по себе си не се infer-ва special function или level assignment.
 
 ### S02E05 — IT / Judicial infrastructure map
 
