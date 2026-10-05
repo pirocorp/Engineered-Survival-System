@@ -29,7 +29,7 @@ Pre-Silo Iran line също се стеснява: Keen описва recording-�
 ### S03E04 — Level 76 / concealed deep access
 
 - Level 76 е direct-confirmed и е свързан с pump station.
-- Ordinary access към abyss/deep digging area е sealed.
+- Обичайният достъп към abyss/deep digging area е sealed.
 - Hidden door разкрива alternate tunnel route.
 - Fixed rope/descent setup дава functional vertical access към deep excavation zone.
 - Juliette успешно стига до digger/deep-zone area.
@@ -37,17 +37,17 @@ Pre-Silo Iran line също се стеснява: Keen описва recording-�
 ### S03E04 — Bernard correction
 
 - Juliette намира Bernard жив в deep zone.
-- Prior Bernard death/burning account е falsified as current truth.
+- Предишният Bernard death/burning account е falsified като current truth.
 - S03E01 state се пази като historical accepted model, но е superseded.
 - Bernard изглежда injured/debilitated; exact cause и reason for concealment remain unresolved.
 
 ### S03E04 — pre-Silo investigation / pressure
 
 - Keen описва recording-а като aircraft no longer controlled by pilots; „hacked“ remains his analogy, not proven mechanism.
-- Recurring unidentified man claims others were bribed and demonstrates tailored inducements.
-- Journalist receives The Times job offer and accepts it.
-- Keen is offered continuation of his sister's treatment.
-- Pentagon contact reconnects after ~one week and reports an extraordinary discovery, exact content unresolved.
+- Recurring unidentified man твърди, че други са били bribed, и демонстрира tailored inducements.
+- Journalist-ът получава job offer от The Times и го приема.
+- На Keen е предложено продължаване на лечението на сестра му.
+- Pentagon contact-ът се свързва отново след ~една седмица и съобщава за extraordinary discovery; exact content остава unresolved.
 
 ### S03E03 — supervisory system / deception / lethal tasking
 
@@ -889,29 +889,29 @@ Observed direct anchors включват:
 | H79 | Computer/system-ът има current semantic situational awareness и operational influence, including dosage escalation, population-level memory-control planning, human-operative selection и lethal persuasion/tasking. | VH | Further Strengthened / Strongly Supported |
 | H80 | S03E01 computer/system и S02E09 hidden lower contact са interfaces към една underlying network/controller или към тясно свързани supervisory systems. | H | New / Strengthened Candidate |
 | H81 | `The Order` не е най-високият effective control layer; съществува supervisory layer, който може да оценява ситуацията като `beyond The Order`. | H | New / Strongly Supported |
-| H82 | Governance след public/apparent disappearance на Bernard запазва същата institutional/control architecture, но dominant visible roles са концентрирани около family Sims; S03E04 показва, че Bernard всъщност е alive. | H | Refactored / Active |
+| H82 | Governance след public/apparent disappearance на Bernard запазва същата institutional/control architecture, но dominant visible roles са концентрирани около family Sims; S03E04 показва, че Bernard всъщност е жив. | H | Refactored / Active |
 | H83 | Lukas' prior disappearance is resolved as to location: he is alive in the mines; relation между sealing, pursuit, hidden-lower knowledge и original mine intent remains unresolved. | H | Refactored / Partially Resolved |
-| H84 | Pre-Silo Iran operation включва common-mode anomaly с apparent loss of pilot control / takeover-like behavior според Keen's account of recording; launched missiles also affected, но exact mechanism/actor остават unknown. | H-VH | Refactored / Strongly Supported |
+| H84 | Pre-Silo Iran operation включва common-mode anomaly с apparent loss of pilot control / takeover-like behavior според разказа на Keen за recording-а; launched missiles също са засегнати, но exact mechanism/actor остават unknown. | H-VH | Refactored / Strongly Supported |
 | H85 | В Silo 18 съществува covert human physical communication path, способен да bypass-не ordinary/local communication controls; S03E02 показва, че supervisory computer/system nevertheless може да знае за activity-то. | H-VH | Refactored / Strongly Supported |
 | H86 | Pre-Silo и Silo-era memory-control systems share strong functional architecture: selective retrieval suppression + autobiographical narrative conditioning; exact drug/protocol lineage remains unproven. | H | New / Strongly Strengthened Candidate |
 | H87 | Supervisory computer/system explicitly models Juliette through population-stability utility vs protected-memory risk and acts on a threshold model. | H-VH | New / Strongly Supported |
 | H88 | Waterborne `Vitamin D+` is a population-scale memory-suppression contingency explicitly framed by the system as increasing Silo survival/stability before possible Juliette removal; exact target memories remain unresolved. | VH | Strengthened / Strongly Supported |
-| H89 | Juliette's original memories remain retrievable and recovery is materially aided by covert interruption/substitution of suppression medication; exact pharmacological identity remains unproven. | H-VH | Further Strengthened / Strongly Supported Candidate |
+| H89 | Original memories на Juliette остават retrievable, а recovery е materially aided от covert interruption/substitution на suppression medication; exact pharmacological identity остава unproven. | H-VH | Further Strengthened / Strongly Supported Candidate |
 | H90 | Supervisory system performs semantic behavioral assessment beyond raw feed monitoring, including evaluation of deception, covert behavior and suitability of human operatives. | VH | Strengthened / Strongly Supported |
 | H91 | Iran mission communications recording is a real surviving evidence object; the later disappearance/search suggests active suppression or retrieval by an unknown actor. | H | New / Strongly Supported Candidate |
 | H92 | Cross-Silo isolation is an explicit system safety rule enforced by immediate safeguard threat, not merely local policy/custom. | VH | New / Strongly Supported |
-| H93 | Supervisory computer/system has a human execution layer and can select people for coercive/lethal objectives, but S03E04 shows surrounding human institutions are not monolithic and can resist/sabotage control. | H-VH | Refactored / Strongly Supported |
+| H93 | Supervisory computer/system има human execution layer и може да select-ва хора за coercive/lethal objectives, но S03E04 показва, че surrounding human institutions не са monolithic и могат да resist/sabotage control. | H-VH | Refactored / Strongly Supported |
 | H94 | Deception is an institutional competency embedded in Head-of-IT role design, not simply Bernard's personal behavior. | H-VH | New / Strongly Supported |
 | H95 | Head-of-IT succession likely includes deliberate selection/training for deception as governance capability in addition to technical competence. | H | New / Candidate |
-| H96 | Deep-zone topology includes mine access around Level 70 plus a separate concealed functional route through hidden door → tunnel → fixed rope descent; exact interconnection with hidden lower system remains unresolved. | H-VH | Strengthened / Refactored |
+| H96 | Deep-zone topology включва mine access около Level 70 плюс отделен concealed functional route: hidden door → tunnel → fixed rope descent; exact interconnection с hidden lower system остава unresolved. | H-VH | Strengthened / Refactored |
 | H97 | Old Iran-mission communications were deliberately selected for a reason connected to operational/electronic environment; exact rationale remains unresolved. | M-H | Active / Candidate |
-| H98 | Unknown upstream actor deliberately disrupted Juliette's memory-suppression protocol through the medical nurse before Juliette's own non-compliance began. | VH | New / Strongly Supported |
-| H99 | Juliette is supported by a distributed covert human network spanning at least medical and Mechanical participants; centralized coordination is plausible but unproven. | H | New / Strongly Supported Candidate |
-| H100 | Level 76 pump station is an operational node in Juliette's covert escape/support route, but the route is at least partially compromised/observable by Sims-side pursuit. | H | New / Strongly Supported Candidate |
-| H101 | Pre-Silo suppression actor/network uses tailored co-optation and inducements to neutralize investigators; violence is not the only demonstrated method. | H-VH | New / Strongly Supported |
-| H102 | Concealed deep-zone route was intentionally equipped for repeated access to the abyss/digger area; exact builders, users and relation to hidden lower infrastructure remain unresolved. | H-VH | New / Strongly Supported |
-| H103 | Bernard's death/burning narrative was deliberately staged or materially falsified within Silo governance; exact organizer, participants and purpose remain unresolved. | H-VH | New / Strongly Supported |
-| H104 | Pentagon contact has found a material new fact about the Iran anomaly/operation, but content and significance remain unresolved at S03E04 boundary. | H | New / Strongly Supported Candidate |
+| H98 | Unknown upstream actor deliberate-но нарушава Juliette's memory-suppression protocol чрез medical nurse още преди Juliette's own non-compliance. | VH | New / Strongly Supported |
+| H99 | Juliette е подпомагана от distributed covert human network, включваща поне medical и Mechanical participants; centralized coordination е plausible, но unproven. | H | New / Strongly Supported Candidate |
+| H100 | Level 76 pump station е operational node в covert escape/support route-а на Juliette, но route-ът е поне частично compromised/observable за Sims-side pursuit. | H | New / Strongly Supported Candidate |
+| H101 | Pre-Silo suppression actor/network използва tailored co-optation и inducements, за да neutralize-ва investigators; violence не е единственият demonstrated method. | H-VH | New / Strongly Supported |
+| H102 | Concealed deep-zone route е intentional-но оборудван за repeated access към abyss/digger area; exact builders, users и relation to hidden lower infrastructure остават unresolved. | H-VH | New / Strongly Supported |
+| H103 | Bernard death/burning narrative е deliberately staged или materially falsified в Silo governance; exact organizer, participants и purpose остават unresolved. | H-VH | New / Strongly Supported |
+| H104 | Pentagon contact-ът е намерил material new fact за Iran anomaly/operation, но content и significance остават unresolved при S03E04 boundary. | H | New / Strongly Supported Candidate |
 
 ---
 
@@ -962,7 +962,7 @@ safeguard infrastructure
 - `beyond The Order` не доказва authorship на The Order или absolute authority над всички Silos.
 - ordinary/known deep access може да бъде sealed while concealed alternate access remains functional.
 - Lukas' location is resolved to the mines; original purpose and relation to concealed abyss route remain unresolved.
-- Bernard is alive in deep zone; exact route, role and reason for concealment remain unresolved.
+- Bernard е жив в deep zone; exact route, role и reason for concealment остават unresolved.
 - outside environmental hazard остава separate lethal mechanism.
 ---
 
