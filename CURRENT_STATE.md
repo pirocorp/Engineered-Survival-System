@@ -227,7 +227,7 @@ Cross-Silo communication model-ът получава concrete architecture: вс
 - Bernard лично я посреща при airlock-а в protective gear.
 - Juliette казва, че **може би знае как да спре safeguard-а**.
 - Коригираната chronology е: Juliette's statement → двамата влизат → burner/flame cycle.
-- Exact burner function остава unresolved.
+- S03E05 direct-confirm-ва burner/flame cycle-а като airlock sterilization/decontamination procedure с nominal 48-hour inner-door lockout.
 
 ### S02E10 — direct pre-Silo Washington
 
