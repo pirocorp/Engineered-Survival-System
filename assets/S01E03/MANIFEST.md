@@ -19,8 +19,8 @@
 | `level-50-neonatal-clinic.jpeg` | Worldbuilding / medical infrastructure | Неонатална/бебешка клиника в Level 50 / Mids. | `IMG_E9732AEF-8ECB-41F5-A761-F05E6B96FC47.jpeg` |
 | `indoor-garden-restaurant.jpeg` | Worldbuilding / communal space | Голяма вътрешна зелена зона с ресторант/обществено пространство. | `IMG_8E05EBB3-F4B6-43DC-8A21-4C68427E4761.jpeg` |
 | `mayor-orders-eight-hour-power-outage.jpeg` | Infrastructure / digital network | SILOMAIL notification: по заповед на кмета започва 8-часово спиране на тока в 22:00. | `IMG_F7988BAC-2E34-4525-ADCB-BD18F6953D13.jpeg` |
-| `generator-steam-source-unknown-from-below.jpeg` | Infrastructure / energy system | Схема и testimony: парата идва от дълбините; никой не знае точно откъде. | `IMG_B5632CC0-99F9-4F50-B0A4-BEFFA0FF9C9B.jpeg` |
-| `public-display-lush-flash-during-powerdown.jpeg` | Critical evidence / exterior visual pipeline | При power-down публичният display за момент показва зелена exterior сцена. | `IMG_7068FB8A-CFBD-4CD8-8E8C-138F1D2CF434.jpeg` |
+| `generator-steam-source-unknown-from-below.jpeg` | Infrastructure / energy system | Схема и свидетелство: парата идва от дълбините; никой не знае точно откъде. | `IMG_B5632CC0-99F9-4F50-B0A4-BEFFA0FF9C9B.jpeg` |
+| `public-display-lush-flash-during-powerdown.jpeg` | Critical evidence / exterior visual pipeline | При изключване на захранването публичният display за момент показва зелена сцена от външната среда. | `IMG_7068FB8A-CFBD-4CD8-8E8C-138F1D2CF434.jpeg` |
 | `power-outage-dark-silo.jpeg` | Worldbuilding / outage state | Silo при основно изключено осветление; хората използват локални/portable светлини. | `IMG_AD0DB767-4EB6-4B0B-8364-F45D801D6B44.jpeg` |
 | `silo-generator-scale-and-steam.jpeg` | Infrastructure / scale | Мащабът на turbine-generator assembly; хората отпред дават scale. | `IMG_7E5B48F0-06DF-4118-BD6A-6753B2CA7778.jpeg` |
 | `generator-open-internal-assembly.jpeg` | Infrastructure / technical structure | Отворен turbine/generator assembly с видими вътрешни секции и servicing structure. | `IMG_0ED3204E-F832-405D-8F9F-EC650709CE2C.jpeg` |
