@@ -655,11 +655,11 @@
 | E634 | Pentagon contact-ът пита Keen какво точно е чул на Iran recording-а. | Direct dialogue | VH | Leads to content characterization. |
 | E635 | Keen казва, че recording-ът показва aircraft, които вече не се управляват от pilots. | Direct character report of recording content | H-VH | Reported content, not raw recording available to repo. |
 | E636 | Keen описва това като „все едно някой им е хакнал самолетите“. | Character interpretation / analogy | H | Cyber mechanism not established. |
-| E637 | Iran anomaly model се refactor-ва от общо нарушение към привидна загуба на пилотски контрол / takeover-like behavior. | Cross-evidence refinement | H | Actor/mechanism unknown. |
+| E637 | Моделът за аномалията при Iran се преработва от общо нарушение към привидна загуба на пилотски контрол / поведение, наподобяващо поемане на контрол. | Cross-evidence refinement | H | Участникът/механизмът са неизвестни. |
 | E638 | Initial Pentagon meeting не дава immediate breakthrough. | Direct episode outcome | H-VH | Later overturned by E658–E660. |
 | E639 | Неидентифициран мъж, виждан repeatedly около Keen/journalist, отново се появява. | Direct recurring-character observation | VH | Identity unknown. |
 | E640 | Същият мъж заявява, че иска да говори с тях. | Direct episode action/dialogue | VH | Active approach. |
-| E641 | Repeated presence + direct approach правят accidental coincidence малко вероятно; мъжът вероятно целенасочено ги следи/търси. | Strong inference | H | Exact authority/organization unknown. |
+| E641 | Повтарящото се присъствие + директният подход правят случайното съвпадение малко вероятно; мъжът вероятно целенасочено ги следи/търси. | Strong inference | H | Точната власт/организация е неизвестна. |
 | E642 | Мъжът твърди, че other people who knew about the case са били bribed, not killed. | Direct character claim | VH | Self-serving and unverified. |
 | E643 | Bribery explanation не се приема като independently established fact. | Epistemic boundary | H | Claim requires corroboration. |
 | E644 | Мъжът предлага на journalist-а job в The Times. | Direct offer | VH | Tailored career inducement. |
@@ -668,25 +668,25 @@
 | E647 | Suppression strategy demonstrably uses inducement/personal leverage, not only violence. | Structural inference | H-VH | Does not exclude coercive methods. |
 | E648 | Journalist-ът приема career offer-а. | Direct episode outcome | VH | Co-optation succeeds in this case. |
 | E649 | Potential investigator can be neutralized/co-opted through career reward. | Structural inference | H-VH | Demonstrated by E644 + E648. |
-| E650 | Juliette и Mechanical friend намират hidden door към alternate deep-zone route. | Direct episode discovery | VH | Major spatial update. |
-| E651 | Deep-zone access не е fully blocked; concealed alternate route exists. | Direct spatial conclusion | VH | Refines E631. |
-| E652 | Sealed обичайният достъп can be bypassed through concealed infrastructure route. | Strong inference | H-VH | Lower topology more complex than public/known route. |
-| E653 | Behind hidden door има intact tunnel leading to rope-descent point above abyss/deep pit. | Direct visual evidence | VH | Visual + episode continuity. |
+| E650 | Juliette и приятелят от Mechanical намират скрита врата към алтернативен маршрут към дълбоката зона. | Direct episode discovery | VH | Значима пространствена актуализация. |
+| E651 | Достъпът до дълбоката зона не е напълно блокиран; съществува скрит алтернативен маршрут. | Direct spatial conclusion | VH | Прецизира E631. |
+| E652 | Запечатаният обичаен достъп може да бъде заобиколен чрез скрит инфраструктурен маршрут. | Strong inference | H-VH | Долната топология е по-сложна от публичния/познатия маршрут. |
+| E653 | Зад скритата врата има непокътнат тунел, водещ до точка за спускане с въже над пропаст/дълбока яма. | Direct visual evidence | VH | Визуално evidence + последователност на епизода. |
 | E654 | Abyss is reachable via controlled vertical descent using rope. | Direct structural conclusion | VH | Functional route. |
-| E655 | Concealed route connects Silo interior to deep excavation/digger zone beneath the Silo. | Strong inference | H-VH | Exact relation to hidden lower system unresolved. |
+| E655 | Скритият маршрут свързва вътрешността на Silo с дълбоката изкопна/digger зона под Silo. | Strong inference | H-VH | Точната връзка със скритата долна система остава неустановена. |
 | E656 | Fixed rope/descent setup is visibly installed at access point. | Direct visual evidence | VH | Dedicated hardware. |
 | E657 | Скритият достъп не е еднократно импровизиран; специално оборудване за спускане suggests умишлено/повтарящо се използване. | Strong structural inference | H | Age/users unknown. |
 | E658 | About one week later Pentagon contact reconnects with Keen. | Direct episode event | VH | Follow-up after initial dead end. |
 | E659 | Pentagon contact says he found something extraordinary / „не за вярване“. | Direct character statement | VH | Exact discovery withheld. |
 | E660 | Initial Pentagon dead-end is overturned; contact continued checking and found material information. | Strong inference | H-VH | Content unresolved. |
-| E661 | Juliette successfully uses concealed route and descends to digger/deep excavation area. | Direct episode event | VH | Route is operational. |
-| E662 | Hidden route is fully functional access path, not theoretical bypass. | Direct structural conclusion | VH | Demonstrated traversal. |
-| E663 | Juliette is inside дълбоката изкопна зона with possible onward access toward still-lower infrastructure. | Strong inference | H | Further descent not yet established. |
+| E661 | Juliette успешно използва скрития маршрут и се спуска до digger-а/дълбоката изкопна зона. | Direct episode event | VH | Маршрутът е функционален. |
+| E662 | Скритият маршрут е напълно функционален път за достъп, а не теоретичен обход. | Direct structural conclusion | VH | Преминаването е демонстрирано. |
+| E663 | Juliette е вътре в дълбоката изкопна зона с възможен последващ достъп към още по-ниска инфраструктура. | Strong inference | H | По-нататъшно спускане все още не е установено. |
 | E664 | Juliette finds Bernard alive in deep excavation/digger area. | Direct episode reveal | VH | MAJOR CORRECTION. |
-| E665 | Prior Sims/Bernard death-burning account is false or materially incomplete because Bernard is alive. | Cross-episode falsification | VH | Exact staging mechanism unresolved. |
+| E665 | Предишният разказ на Sims/Bernard за смъртта/изгарянето е невярен или съществено непълен, защото Bernard е жив. | Cross-episode falsification | VH | Точният механизъм на инсценировката остава неустановен. |
 | E666 | Bernard's предполагаемата смърт was part of a невярна/инсценирана/подвеждащо представена история inside Silo 18. | Strong structural conclusion | H-VH | Organizer/participants unknown. |
-| E667 | Bernard's presence creates direct link between former Head of IT and concealed lower-access area. | Structural inference | H | Why/how he is there unresolved. |
-| E668 | Visual evidence corroborates Bernard alive in deep zone after earlier reported death/burning. | Direct visual corroboration + episode context | VH | Supports E664–E666. |
+| E667 | Присъствието на Bernard създава пряка връзка между бившия Head of IT и скритата зона за долен достъп. | Structural inference | H | Защо/как е там остава неустановено. |
+| E668 | Визуалното evidence потвърждава, че Bernard е жив в дълбоката зона след по-рано съобщената смърт/изгаряне. | Direct visual corroboration + episode context | VH | Подкрепя E664–E666. |
 | E669 | Bernard appears physically injured/debilitated. | Direct visual observation + bounded inference | H | No diagnosis or cause inferred. |
 
 ## Визуални източници — S03E04
