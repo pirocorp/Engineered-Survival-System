@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S02E10 / края на Season 2 `the safeguard` вече е физически установена система за отравяне на целия Silo: външна тръба влиза при Level 14 и може да убие местното население, а свидетелството от Silo 17 показва, че този път може да бъде блокиран. Финалът също отваря директна pre-Silo линия във Washington с радиационен контрол, конгресмен от Georgia, оспорван разказ за радиологична атака и следа за произхода на PEZ реликвата.**
+> **След S03E03 supervisory computer/system-ът вече не е само assessment layer: той свързва memory suppression със survival/stability, налага explicit cross-Silo isolation чрез immediate safeguard, избира Camille Sims заради способността ѝ да лъже и я убеждава да убие Juliette. Паралелно Lukas е намерен жив в mine sector-а, а pre-Silo Iran line вече има реален surviving mission recording, след което holder-ът му изчезва и мястото е претърсено.**
 
 ## Език на проекта
 
@@ -30,17 +30,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S02E10 — Season 2 finished**
+**Текуща граница на знанието:** **S03E03**
 
-**Статус на гледане:** **Сезон 2 — завършен**
+**Статус на гледане:** **Season 3 — S03E03 завършен**
 
-Не се използва никаква информация след S02E10, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация след S03E03, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S02E10 / края на Season 2 най-силният работен модел е:
+След S03E03 най-силният работен модел е:
 
-> **Системата на Silo трябва да се моделира като многослойна архитектура за оцеляване и контрол: обществено обитаване → привилегирована IT/Legacy приемственост → скрит долен контакт/контрол → външно захранван път за отровата на safeguard-а. Външната опасност остава отделна физическа заплаха. Директната pre-Silo сцена във Washington вече добавя първия политически и свързан със сигурността контекст от епохата на произхода.**
+> **Silo system се моделира като layered survival/control architecture, в която supervisory computer/system не само наблюдава, а оценява, убеждава и task-ва human execution layer. Memory suppression е population-level stability actuator; cross-Silo contact е explicit immediate-safeguard violation; deception е embedded Head-of-IT competency; exact system identity/objective и long-term program goal остават unresolved.**
 
 Ключови установени линии:
 
@@ -51,7 +51,7 @@
 - S01E05 показва systematic/time-dependent star-like movement на night display-а;
 - observer в cafeteria не знае concept-а „stars“ и сам reconstruct-ва movement patterns;
 - Silo има **144 levels** и Bernard заявява **10 112 current residents**;
-- observed direct level anchors вече включват `8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 119, 120, 123, 144`;
+- observed direct level anchors вече включват `1, 8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 67, 70, 87, 119, 120, 123, 124, 144`;
 - Pact deliberately забранява mechanized transport през Silo;
 - Pact забранява magnifying devices над определен threshold;
 - досието на Juliette съдържа информация от разговора ѝ с Holston → силно доказателство за скрито наблюдение/докладване;
@@ -584,14 +584,14 @@ EXTERIOR
 SURFACE / CLEANING EXIT
         │
         ▼
-LEVEL 1 / UP-TOP ?
+LEVEL 1 / UP-TOP
         │
         ├─ Sheriff's Department / holding
         ├─ Cell 3
         └─ cleaning airlock opposite Cell 3
         │
         ▼
-LEVEL 8 → 9 → 12 → ~14 JUDICIAL → 17 → 23 → 26 → 27 → 29 → 30
+LEVEL 8 → 9 → 12 → ~14 JUDICIAL → 17 → 23 → 26 → 27 → 29 → 30 → 50 → 55 → 67 → 87
         │
         ▼
 LEVEL 50 / MIDS
@@ -655,6 +655,11 @@ episode/S02E05-analysis
 episode/S02E06-analysis
 episode/S02E07-analysis
 episode/S02E08-analysis
+analysis/S02E09-hidden-lower-system
+analysis/S02E10-safeguard-presilo-washington
+analysis/S03E01-memory-control-supervisory-system
+analysis/S03E02-memory-retrieval-population-control
+analysis/S03E03-safeguard-isolation-deception
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -664,4 +669,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S03E01`
+**Следваща knowledge boundary:** `S03E04`

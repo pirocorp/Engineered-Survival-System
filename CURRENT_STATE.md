@@ -1,48 +1,122 @@
-# Текущо състояние — след S02E10 / край на Season 2
+# Текущо състояние — след S03E03
 
-**Knowledge boundary:** `S02E10 — Season 2 finished`
+**Knowledge boundary:** `S03E03`
 
 ## Работен модел
 
-S02E10 превръща `the safeguard` от неизвестна защитена концепция за принудително прилагане в **конкретна физическа система за унищожаване на целия Silo**. Safeguard-ът използва тръба, която идва отвън, влиза при **Level 14** и може да достави отрова, способна да убие всички в Silo. Оцелелият от Silo 17 твърди, че родителите му са блокирали тази тръба, което показва практически път за прекъсване.
+S03E03 премества supervisory computer/system-а от **assessment + contingency planning** към demonstrated persuasion, institutional selection и lethal human-tasking. System-ът избира Camille Sims заради способността ѝ да лъже, заявява че deception е фундаментална част от Head of IT role-а и я убеждава, че Juliette трябва да бъде убита, за да бъде спасен Silo.
 
-Това налага ключова преработка: **външната опасност и safeguard-ът са отделни смъртоносни механизми**. Блокирането в Silo 17 позволява на населението да стигне живо до външната среда; външната среда остава независимо опасна.
+Memory-control architecture също се изяснява: `Vitamin D+` е contextual label за forgetting/memory-suppression chemistry, а system-ът иска population-level water deployment и го framing-ва като начин да се увеличи survival chance. Juliette meanwhile е хваната, че изплюва pills, което доказва active compliance monitoring и дава plausible contribution към memory recovery.
 
-Silo 18 crisis също преминава в нов state: rebels използват destroyed stair connections като defensive barrier, Juliette се връща и показва `not safe / do not come out`, Bernard лично я посреща при airlock-а, а тя му казва, че може би знае как да спре safeguard-а. Corrected sequence е: Juliette's stopping claim → двамата влизат → burner/flame cycle се активира.
+Safeguard logic вече има втори explicit trigger: освен protected lower-knowledge disclosure, **всеки contact с друг Silo е violation, водещ до immediate safeguard**. Това показва actively enforced inter-Silo isolation backed by whole-Silo lethal capability.
 
-Финалът отваря директна pre-Silo история: сцена в бар във Washington с радиационен контрол, конгресмен от 15-и конгресен окръг на Georgia, предполагаема радиологична атака, приписвана на Iran, въпрос за възможен ответен удар и пряко съмнение дали атаката изобщо се е случила. Конгресменът подарява PEZ дозатор с жълто пате, което създава силен кандидат за връзка по произход към по-ранната Silo-era жълта пластмасова реликва със синя дръжка.
+Lukas Kyle вече не е missing: той е намерен жив в mines, Juliette се reunite-ва с него там, а movement-ът му през mine sector-а е под active pursuit. Level 70 е tied to mine-sector access/start, Level 124 е нов direct anchor.
 
-Най-дълбокият текущ модел след Season 2 е:
+Pre-Silo Iran line също materially напредва: mission-wide old communications retrofit прави communications comparatively easy to record; Daniel Keen намира реален recording, прослушва го, а при връщането си holder-ът е изчезнал и мястото е претърсено.
 
-```text
-PRE-SILO WORLD / political-security context
-        │
-        ▼
-multi-Silo engineered system
-        │
-        ├─ public habitation / governance
-        ├─ IT / shadow / Legacy continuity layer
-        └─ hidden lower contact/control layer
-                 │
-                 └─ safeguard infrastructure
-                      external supply
-                           ↓
-                      Level 14 pipe
-                           ↓
-                      poison delivery
-                           ↓
-                      whole-Silo kill capability
-                      (physically blockable)
-
-SEPARATE:
-outside environmental hazard remains independently lethal
-```
-
-> **Season 2 завършва с директно evidence, че системата на Silo не е само архитектура за контрол на информацията, а включва и външно захранвана физическа инфраструктура за фатално унищожаване. Първата директна pre-Silo сцена едновременно въвежда спорен разказ за радиологична заплаха и сигурност, който може да е свързан с произхода на системата, но причинно-следствена връзка още не е установена.**
-
+> **След S03E03 най-силният model е: Silo control architecture използва memory suppression, enforced information isolation, institutionalized deception и human coercive/lethal execution като survival/stability actuators под context-aware supervisory computer/system. Exact system identity, optimization objective, original purpose на isolation и long-term program goal остават unresolved.**
 ---
 
 ## Наблюдения с висок confidence
+
+### S03E03 — supervisory system / deception / lethal tasking
+
+- Computer/system-ът казва на Camille Sims, че е selected заради ability to lie.
+- System-ът заявява, че deception е fundamental to Head of IT role.
+- System-ът убеждава Camille, че Juliette трябва да бъде killed, за да бъде saved Silo.
+- S03E02 ambiguous `removal` в Juliette case е narrowed: може да е literal killing.
+- Camille приема lethal objective-а; execution itself remains unresolved.
+
+### S03E03 — Vitamin D+ / safeguard / isolation
+
+- `Vitamin D+` е contextual-но memory-suppression / forgetting chemistry.
+- Water deployment е framed като increasing survival chance.
+- Juliette is caught spitting out pills; compliance monitoring is active.
+- Any contact with another Silo is stated to be a violation leading to immediate safeguard.
+- Cross-Silo isolation therefore has fail-deadly enforcement.
+
+### S03E03 — mines / Lukas / spatial anchors
+
+- Level 70 е direct-confirmed and tied to mine-sector access/start.
+- Level 124 е direct-confirmed.
+- Mine interior/tunnel network е directly shown.
+- Lukas Kyle is alive in the mines.
+- Juliette and Lukas reunite there.
+- Lukas is actively pursued under Camille's control; exact original mine purpose remains unresolved.
+
+### S03E03 — Iran mission recording
+
+- Mission aircraft had very old communication systems installed mission-wide.
+- Communications were comparatively easy to record/capture.
+- Daniel Keen finds and listens to a surviving mission recording.
+- On return, the holder is gone and the location has been searched.
+- Actor, fate of holder and fate/content of recording remain unresolved.
+
+### S03E02 — pre-Silo memory mechanism
+
+- Treating doctor direct-confirm-ва selective restore/omit capability за memories.
+- Recovery process включва repeated autobiographical narrative.
+- False autobiographical story може да бъде внушена.
+- False replacement narrative изисква time/effort.
+- Real memories се връщат бързо и остават налични, но temporarily inaccessible.
+- Best-fit mechanism е retrieval/access suppression + narrative conditioning, не proven destruction.
+
+### S03E02 — supervisory computer/system
+
+- System-ът знае за covert note activity и deception към Mrs Sims.
+- Deception decision е explicitly evaluated as concerning.
+- Juliette е modeled чрез red risk line и blue stabilizing-value line.
+- Crossing threshold означава, че Juliette вече не е useful.
+- Sudden removal е modeled като potentially catastrophically destabilizing.
+- System-ът wants `vitamins` deployed through water supply before removal becomes necessary.
+- This is population-scale contingency planning, not merely individual treatment monitoring.
+
+### S03E02 — covert notes
+
+- Note #2 насочва Juliette към first Silo Council meeting в cafeteria.
+- Note #3 е direct-confirmed, но exact transcription остава unresolved.
+- Adjacent-shot subtitles are excluded from note #3 transcription.
+- Physical covert channel persists, but is not proven invisible to supervisory system.
+
+### S03E01 — Juliette / post-return state
+
+- Current Silo 18 timeline е приблизително **3 месеца след завръщането на Juliette**.
+- Juliette е Mayor и е обратно вътре в Silo 18.
+- Level 1 / Up-top отново е показан; cafeteria и route към airlock/exterior са spatially re-confirmed.
+- Juliette остава под active surveillance; Sims лично наблюдава feed-а ѝ.
+- Juliette не помни Sims и има critical gaps около разговора си с Bernard и safeguard-stopping task-а.
+- На Juliette се дава memory-suppression medication; computer/system-ът знае protocol-а и иска doubled dose, когато спомените започват да се връщат.
+- На Juliette се подава false replacement narrative: cleaning → `bunker` → recovery → fire-resistant suit/helmet → return.
+
+### S03E01 — Bernard / governance / containment
+
+- Bernard е dead, но later reveal показва, че не е умрял просто от outside hazard или flame cycle — той е killed by other people.
+- Тялото му е carried около six hours от six porters към furnaces; reconstruction директно показва **Level 67**.
+- Sims твърди, че лично е изгорил Bernard.
+- Burning rationale е containment: да се унищожи possible outside-derived lethal contaminant; това substantially resolves burner-function question като decontamination/containment use.
+- Семейство Sims държи доминиращия control layer, докато institutional architecture остава recognizably същата.
+
+### S03E01 — computer/system / hidden lower layer
+
+- Computer/system-ът пита как е Mayor Juliette и знае memory-suppression treatment-а ѝ.
+- System-ът заявява, че current situation е `beyond The Order`.
+- System-ът реагира с `This concerns me`, когато Juliette започва да си спомня, и иска дозата да бъде удвоена.
+- Hidden lower tunnel е sealed; Lukas е missing.
+- Same-system/network model между този computer/system и S02E09 hidden lower contact е strongly strengthened candidate, не established identity.
+
+### S03E01 — social/spatial state
+
+- **Level 87** е direct-confirmed.
+- Anti-display / truth movement остава active; mural заявява `THIS IS THE TRUTH / THE DISPLAY IS LIE!`.
+- Covert physical communication може да bypass-ва surveillance: note е hidden in food, bowl orientation служи като acknowledgment, meeting point е marketplace on Level 2.
+
+### S03E01 — pre-Silo Washington / Iran operation
+
+- Congressman-ът от Georgia's 15th district е named **Daniel Keen**.
+- Сестрата на Keen участва в retaliatory operation срещу Iran, представена като response на alleged dirty-bomb/radiological attack.
+- При приблизително 15 000 m multiple aircraft и launched missiles са засегнати от common-mode anomalous disruption около cloud/region.
+- Сестрата на Keen survives.
+- Mechanism-ът на disruption-а остава unknown; не се приема автоматично EMP, chemical/radiological cloud, Iranian weapon или Silo technology.
 
 ### S02E10 — safeguard mechanism / Silo 17
 
@@ -665,7 +739,7 @@ outside environmental hazard remains independently lethal
 
 Observed direct anchors включват:
 
-`8 → 9 → 12 → 14 → 17 → 23 → 26 → 27 → 29 → 30 → 50 → 55 → 119 → 120 → 123 → 144`
+`1 → 8 → 9 → 12 → 14 → 17 → 23 → 26 → 27 → 29 → 30 → 50 → 55 → 67 → 87 → 119 → 120 → 123 → 144`
 
 - Level 14 е повторен отново в S01E07.
 - Level 26 е direct-confirmed в S01E07 и independently repeated в S02E05.
@@ -774,61 +848,107 @@ Observed direct anchors включват:
 | H67 | Salvador Quinn има пряка връзка с оцелял основополагащ материал на Pact; авторството, статусът на Основател и текстовите разлики спрямо текущия Pact остават недоказани. | H | Active / Strengthened |
 | H69 | Кодираният край на Quinn е защитено съобщение от втори слой за бъдещ читател, който вече е проникнал отвъд официалния разказ и е насочен към път за физическа проверка. | VH | Strongly Strengthened / Refactored |
 | H70 | Под известното/публично дъно на Silo 18 има активен скрит инфраструктурен слой; точната топология и връзката с помпите/`CLASSIFIED` тунела остават неустановени. | H-VH | Active / Strongly Supported |
-| H71 | `the safeguard` е физически механизъм за доставяне на отрова и унищожаване на целия Silo; разкриването на защитеното знание е демонстрирано условие за задействане, но контролиращият субект и пълната логика на trigger-а остават неустановени. | VH | Strongly Strengthened / Refactored |
+| H71 | `the safeguard` е physical whole-Silo poison-delivery termination mechanism; protected lower-knowledge disclosure и cross-Silo contact са demonstrated trigger conditions, но controller и full detection/activation logic остават unresolved. | VH | Strongly Strengthened / Refactored |
 | H72 | Скритата долна система може да открива/ангажира посетители и да води двупосочна комуникация, отчитаща контекста; самоличността на събеседника остава неизвестна. | H-VH | Active / Strongly Supported |
 | H73 | Safeguard има practical interruption/blocking path; Silo 17 parents са stated successful example. | H-VH | New / Strongly Supported |
 | H74 | Пътят за подаване на safeguard-а идва отвън и влиза при Level 14; точният източник нагоре по веригата, маршрутизацията и контролиращият субект остават неизвестни. | H-VH | New / Strongly Supported |
-| H75 | Safeguard-ът на Основателите е fail-deadly архитектура за унищожаване на целия Silo, предназначена да може да унищожи местното население при определени условия. | H-VH | New / Active |
+| H75 | Founders' safeguard е fail-deadly whole-Silo termination architecture, използвана и за actively enforced cross-Silo isolation при определени trigger conditions. | VH | Strengthened / Active |
 | H76 | Предполагаемата иранска радиологична атака в pre-Silo политическия разказ може да е фабрикуван/манипулиран претекст; реалността на събитието, приписването и институционалното авторство остават неустановени. | M | New / Candidate |
 | H77 | Подаръкът PEZ с жълто пате в S02E10 може да е кандидат за същия предмет/предшественик по произход на по-ранната Silo-era жълта пластмасова PEZ реликва със синя дръжка. | M-H | New / Candidate |
+| H78 | Juliette е под deliberate memory-control program: pharmacological retrieval suppression/blocking + false replacement narrative/conditioning + surveillance за recovery на protected memories. | VH | Refactored / Strongly Supported |
+| H79 | Computer/system-ът има current semantic situational awareness и operational influence, including dosage escalation, population-level memory-control planning, human-operative selection и lethal persuasion/tasking. | VH | Further Strengthened / Strongly Supported |
+| H80 | S03E01 computer/system и S02E09 hidden lower contact са interfaces към една underlying network/controller или към тясно свързани supervisory systems. | H | New / Strengthened Candidate |
+| H81 | `The Order` не е най-високият effective control layer; съществува supervisory layer, който може да оценява ситуацията като `beyond The Order`. | H | New / Strongly Supported |
+| H82 | Post-Bernard governance запазва същата institutional/control architecture, но доминиращите leadership roles са концентрирани около family Sims; exact formal role split остава unresolved. | H | New / Active |
+| H83 | Lukas' prior disappearance is resolved as to location: he is alive in the mines; relation между sealing, pursuit, hidden-lower knowledge и original mine intent remains unresolved. | H | Refactored / Partially Resolved |
+| H84 | Pre-Silo Iran operation е засегната от common-mode external disruption, който засяга multiple aircraft и launched missiles; mechanism и actor остават unknown. | H | New / Strongly Supported |
+| H85 | В Silo 18 съществува covert human physical communication path, способен да bypass-не ordinary/local communication controls; S03E02 показва, че supervisory computer/system nevertheless може да знае за activity-то. | H-VH | Refactored / Strongly Supported |
+| H86 | Pre-Silo и Silo-era memory-control systems share strong functional architecture: selective retrieval suppression + autobiographical narrative conditioning; exact drug/protocol lineage remains unproven. | H | New / Strongly Strengthened Candidate |
+| H87 | Supervisory computer/system explicitly models Juliette through population-stability utility vs protected-memory risk and acts on a threshold model. | H-VH | New / Strongly Supported |
+| H88 | Waterborne `Vitamin D+` is a population-scale memory-suppression contingency explicitly framed by the system as increasing Silo survival/stability before possible Juliette removal; exact target memories remain unresolved. | VH | Strengthened / Strongly Supported |
+| H89 | Juliette's original memories likely remain latent/retrievable rather than destroyed, consistent with pre-Silo mechanism; direct identity of mechanism remains unproven. | H | New / Strengthened Candidate |
+| H90 | Supervisory system performs semantic behavioral assessment beyond raw feed monitoring, including evaluation of deception, covert behavior and suitability of human operatives. | VH | Strengthened / Strongly Supported |
+| H91 | Iran mission communications recording is a real surviving evidence object; the later disappearance/search suggests active suppression or retrieval by an unknown actor. | H | New / Strongly Supported Candidate |
+| H92 | Cross-Silo isolation is an explicit system safety rule enforced by immediate safeguard threat, not merely local policy/custom. | VH | New / Strongly Supported |
+| H93 | Supervisory computer/system has a human execution layer and can select people based on behavioral traits for coercive/lethal objectives. | H-VH | New / Strongly Supported |
+| H94 | Deception is an institutional competency embedded in Head-of-IT role design, not simply Bernard's personal behavior. | H-VH | New / Strongly Supported |
+| H95 | Head-of-IT succession likely includes deliberate selection/training for deception as governance capability in addition to technical competence. | H | New / Candidate |
+| H96 | Level 70 is the mine-sector access/start anchor; mine topology may intersect deeper hidden infrastructure, but exact connection remains unresolved. | H | New / Strongly Supported Candidate |
+| H97 | Old Iran-mission communications were deliberately selected for a reason connected to operational/electronic environment; exact rationale remains unresolved. | M-H | New / Candidate |
 
 ---
 
-## Hidden lower-system model after S02E10
+## Hidden lower-system model after S03E03
 
 ```text
 PUBLIC / ORDINARY SILO
         │
         ▼
-privileged IT / shadow / Legacy layer
+privileged IT / surveillance / continuity layer
+        │
+        ├─ The Order
+        ├─ memory-control protocol
+        └─ local governance / enforcement
         │
         ▼
-very bottom / hidden tunnel
+SUPERVISORY COMPUTER/SYSTEM ?
+        │
+        ├─ knows Juliette treatment/status
+        ├─ evaluates state as `beyond The Order`
+        ├─ semantically evaluates deception/covert behavior
+        ├─ models Juliette risk vs stabilizing utility
+        ├─ requests dosage escalation
+        ├─ plans waterborne population-control contingency
+        ├─ enforces cross-Silo contact as safeguard violation
+        └─ selects/persuades human operatives for lethal action
         │
         ▼
-active lower contact/system
+very bottom / hidden tunnel / mine-adjacent deep zones
         │
-        ├─ previous visitors:
-        │    Quinn
-        │    Meadows
-        │    George
-        │    Lukas
+        ├─ tunnel now sealed
+        ├─ Lukas found alive in mines
+        └─ previous hidden contact/system
+               │
+               └─ possible same network/controller ?
         │
-        ├─ disclosure warning
-        │    → safeguard activation
-        │
-        └─ physical safeguard architecture
-             external supply
-                  ↓
-             Level 14 pipe
-                  ↓
-             poison into Silo
-                  ↓
-             whole-population kill
-             (blockable: Silo 17 testimony)
+        ▼
+safeguard infrastructure
+ external supply → Level 14 pipe → poison → whole-Silo kill
+                         │
+                         └─ physically blockable
 ```
 
 Граници:
-- точната самоличност на долния събеседник остава неизвестна;
-- връзката между долния контакт и контролиращия safeguard-а субект не е установена;
-- exact relation Quinn tunnel ↔ HDD 18 `CLASSIFIED` tunnel остава strong inference, не direct identity proof;
-- poison agent, upstream source и activation command path са unknown;
-- Bernard's absence from previous-visitor list не доказва absence of knowledge;
-- outside environmental hazard е separate lethal mechanism.
-
+- `computer/system = hidden lower contact` не е direct-confirmed; това е H80.
+- exact controller на safeguard-а остава unknown.
+- `beyond The Order` не доказва authorship на The Order или absolute authority над всички Silos.
+- official reason за sealing на tunnel-а е safety/anti-youth-access; knowledge-containment motive остава candidate.
+- Lukas' location is resolved to the mines; original purpose and relation to hidden lower route remain unresolved.
+- outside environmental hazard остава separate lethal mechanism.
 ---
 
-## Surveillance / privileged-control model after S02E10
+## Surveillance / privileged-control model after S03E03
+
+S03E03 further refactor-ва този model: supervisory computer/system вече не само interprets behavior и plans population intervention, а selects Camille as human operative, values deception as role competency and persuades lethal action against Juliette. Sims-family layer is therefore an active execution interface, while exact formal authority chain remains unresolved.
+
+```text
+Juliette / Mayor
+      │
+      ├─ surveillance feed → Sims / control room
+      ├─ retrieval-suppression medication
+      ├─ false `bunker` replacement narrative
+      └─ monitored for memory recovery
+                 │
+                 ▼
+         computer/system
+         ├─ knows treatment + covert behavior
+         ├─ semantic deception/risk assessment
+         ├─ `beyond The Order` assessment
+         ├─ Juliette utility-vs-risk threshold
+         ├─ water-supply `Vitamin D+` contingency
+         ├─ cross-Silo safeguard enforcement
+         └─ Camille selection / Juliette kill objective
+```
 
 S02E02 разширява модела за скрит контрол отвъд обикновеното вътрешно наблюдение.
 
