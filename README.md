@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S03E06 Silo 1 вече е direct-linked не само с централизирано radio monitoring, а и с external electrical feed към IT. Bernard отделя тази захранваща линия от safeguard path-а към Judicial. Juliette получава пряк достъп до „Гласът“ чрез Camille, но селективно скрива safeguard countermeasure knowledge; Camille междувременно operationally пуска Vitamin D+ във водата. В pre-Silo линията car takeover-ът е изрично свързан от героите с external takeover на Iran aircraft, а Iran attribution вече е поставено под силно съмнение.**
+> **След S03E07 supervisory layer-ът вече има demonstrated exterior-status reach, а Kyle/Kennedy mission-ът отваря strong candidate за external enforcement capability. Същевременно „Гласът“ не изглежда omniscient: Silo 17 safeguard defeat и истинската цел на Juliette се reconstruct-ват чрез inference, а по-късният radio transmission влиза в конфликт с `neutralized` report-а. Low-level console показва practical live-feed → static-loop substitution. В pre-Silo линията сестрата на Daniel Keen има fragmented recall под formal NDA/read-in control, а самият Silo construction field е локализиран в Georgia, близо до Atlanta.**
 
 ## Език на проекта
 
@@ -30,20 +30,29 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S03E06**
+**Текуща граница на знанието:** **S03E07**
 
-**Статус на гледане:** **Season 3 — S03E06 завършен**
+**Статус на гледане:** **Season 3 — S03E07 завършен**
 
-Не се използва никаква информация след S03E06, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация след S03E07, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S03E06 най-силният работен модел е:
+След S03E07 най-силният работен модел е:
 
-> **Silo system остава layered и compartmentalized survival/control architecture, но S03E06 свързва по-конкретно централната инфраструктура: Silo 1 следи radio frequencies и според Bernard подава external electrical power към IT. Отделен safeguard path е насочен към Judicial. Camille като Head of IT може да посредничи за пряк контакт с „Гласът“ и задейства Vitamin D+ във водата; Juliette използва този достъп, без да разкрива знанието си как да спре safeguard-а. Pre-Silo external-control линията вече има explicit car↔aircraft linkage и силно съмнение към Iran attribution, но actor-ът и точният technical mechanism остават unresolved.**
+> **Silo system остава layered и compartmentalized survival/control architecture, но S03E07 показва по-широк supervisory reach и едновременно bounded knowledge. „Гласът“ може да докладва exterior status и вероятно е свързан с external enforcement, но `neutralized` report-ът за Kyle/Kennedy по-късно е поставен под съмнение от radio transmission. Safeguard е practically blockable поне временно в Silo 17, докато claim-ът за „непреодолимост“ оставя redundancy/bluff alternatives. Juliette's selective disclosure остава частично успешно. Low-level console установява null/static-loop feed substitution, а pre-Silo линията вече дава fragmented-memory + NDA evidence за sister-treatment и concrete Silo construction geography край Atlanta, Georgia.**
 
 Ключови установени линии:
 
+- S03E07: Lukas Kyle и Patrick Kennedy излизат към Silo 17 с child-transfer mission и covert safeguard-countermeasure objective;
+- S03E07: exterior sequence е жужене → кратък weapon-like звук → later Voice report `neutralized`; exact neutralization mechanism остава unknown;
+- S03E07: radio transmission, представен като Kyle/Kennedy, влиза в conflict с Voice/Camille account-а и спира immediate Judicial/safeguard-pipe operation-а в Silo 18;
+- S03E07: „Гласът“ deduce-ва Silo 17 safeguard defeat от recording/outcomes и infer-ва Juliette intent, което подкрепя bounded rather than omniscient knowledge;
+- S03E07: claim-ът „safeguard is unbeatable“ е в напрежение с practical temporary defeat в Silo 17; redundancy/fallback остава hypothesis;
+- S03E07: console показва `Live feed replaced with null visual. Looping static image.`, direct-confirming feed substitution capability;
+- S03E07: реалното exterior night sky показва ясни звезди и дава comparison anchor за по-ранните public-display star patterns;
+- S03E07: сестрата на Daniel Keen има fragmented recall и supplied autobiographical narrative; тя вече е под NDA, а Keen трябва да подпише преди full briefing;
+- S03E07: Silo construction program-ът е директно показан в Georgia, близо до Atlanta, като massive multi-unit construction field;
 - cleaner lush view остава repeatable при Allison, Jane Carmody и Holston;
 - public display normally показва barren exterior;
 - S01E03 изключването на захранването показва зелено състояние на самия public display;
@@ -64,7 +73,7 @@
 - **няма established Syndrome ↔ magnification link** — това остава VL speculation/open question only;
 - централизиран control center за наблюдение с множество feeds наблюдава множество вътрешни места, включително Juliette в дома ѝ;
 - restricted Judicial relic database пази archival `PRE-SILO` records и Sims/Judicial има privileged access;
-- pre-Silo Georgia travel guide establishes concrete U.S.-Georgia geography, но не locates the Silo;
+- pre-Silo Georgia travel guide първоначално установява само U.S.-Georgia geography; **S03E07 supersedes location uncertainty**, като показва Silo construction field в Georgia, близо до Atlanta;
 - Sims operationally commands surveillance; Judge Meadows и medical center са monitored;
 - скритите камери са потвърдени зад/в огледалата, а достъпът до контролния център минава през скрит маршрут през janitorial closet;
 - Flamekeepers са описани като група, съхраняваща историята/relics; точната им връзка с Rebellion остава неустановена;
@@ -260,6 +269,17 @@
 - [`docs/episodes/S03E03.md`](docs/episodes/S03E03.md) — episode record за S03E03.
 - [`docs/episodes/S03E04.md`](docs/episodes/S03E04.md) — episode record за S03E04.
 - [`docs/episodes/S03E05.md`](docs/episodes/S03E05.md) — episode record за S03E05.
+- [`docs/episodes/S03E06.md`](docs/episodes/S03E06.md) — episode record за S03E06.
+- [`docs/episodes/S03E07.md`](docs/episodes/S03E07.md) — episode record за S03E07.
+- [`docs/evidence/S03E07-exterior-voice-safeguard.md`](docs/evidence/S03E07-exterior-voice-safeguard.md) — Kyle/Kennedy, exterior reach, safeguard contradiction и radio conflict.
+- [`docs/evidence/S03E07-presilo-georgia-memory.md`](docs/evidence/S03E07-presilo-georgia-memory.md) — sister fragmented memory, NDA/read-in и Georgia/Atlanta Silo construction.
+- [`docs/evidence/S03E07-console-feed-control.md`](docs/evidence/S03E07-console-feed-control.md) — low-level console, reboot и null-feed static loop.
+- [`assets/S03E07/MANIFEST.md`](assets/S03E07/MANIFEST.md) — S03E07 visual evidence manifest.
+- [`docs/evidence/S03E06-silo1-power-safeguard.md`](docs/evidence/S03E06-silo1-power-safeguard.md) — Silo 1 external IT power и separate safeguard route.
+- [`docs/evidence/S03E06-juliette-voice-memory.md`](docs/evidence/S03E06-juliette-voice-memory.md) — Juliette, Camille, „Гласът“ и selective disclosure.
+- [`docs/evidence/S03E06-vitamin-d-water.md`](docs/evidence/S03E06-vitamin-d-water.md) — active Vitamin D+ water deployment.
+- [`docs/evidence/S03E06-presilo-iran-takeover.md`](docs/evidence/S03E06-presilo-iran-takeover.md) — car↔aircraft external-control linkage и Iran attribution doubt.
+- [`assets/S03E06/MANIFEST.md`](assets/S03E06/MANIFEST.md) — S03E06 visual evidence manifest.
 - [`docs/evidence/S03E05-sims-voice-safeguard.md`](docs/evidence/S03E05-sims-voice-safeguard.md) — Camille/Robert, „Гласът“, safeguard hierarchy и lethal threat cluster.
 - [`docs/evidence/S03E05-bernard-fake-death-robert-network.md`](docs/evidence/S03E05-bernard-fake-death-robert-network.md) — Bernard fake death, Mechanical alliance и Robert counter-line.
 - [`docs/evidence/S03E05-memory-relic-radio.md`](docs/evidence/S03E05-memory-relic-radio.md) — relic-triggered memory retrieval, The Order policy, radio isolation и Silo 1 monitoring.
@@ -699,6 +719,8 @@ analysis/S03E02-memory-retrieval-population-control
 analysis/S03E03-safeguard-isolation-deception
 analysis/S03E04-covert-network-abyss-bernard
 analysis/S03E05-voice-safeguard-memory-control
+analysis/S03E06-silo1-power-voice-memory
+analysis/S03E07-exterior-enforcement-georgia
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -708,4 +730,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S03E06`
+**Следваща knowledge boundary:** `S03E07`
