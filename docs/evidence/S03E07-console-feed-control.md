@@ -18,25 +18,25 @@ S03E07 показва command-line/system console с low-level administrative op
 
 Тъй като кадърът е photographed TV frame и част от текста е леко soft, exact transcription се пази само за ясно четимите редове.
 
-## What this establishes
+## Какво установява това
 
-Directly established:
+Директно установено:
 - съществува command-line/system administrative interface;
 - security bypass при reboot е supported operation в показания context;
 - live feed може да бъде заменен с null/static visual;
 - static image може да бъде loop-нат.
 
-## What this does NOT establish
+## Какво НЕ установява това
 
 Не се приема автоматично, че:
 - operator-ът пише source code;
 - console-ът е интерфейсът на „Гласът“;
-- same null-feed path управлява cleaner helmet overlay;
+- същият null-feed path управлява cleaner helmet overlay;
 - cafeteria display lush flash използва същия subsystem;
 - всички visual feeds могат да бъдат manipulated по този начин.
 
-## Model impact
+## Влияние върху модела
 
 S03E07 дава първия concrete low-level operational mechanism в тази линия, чрез който live feed може да бъде substituted със static loop.
 
-Това е важен candidate bridge към broader visual-control architecture, но cross-system equivalence остава open.
+Това е важен candidate bridge към по-широка архитектура за визуален контрол, но cross-system equivalence остава open.
