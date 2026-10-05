@@ -2,54 +2,54 @@
 
 **Knowledge boundary:** `S03E04`
 
-## Threat response
+## Реакция на заплахата
 
-Daniel Keen and the journalist interpret the disappearance of the recording holder as potentially threatening to them.
+Daniel Keen и journalist-ът възприемат изчезването на recording holder-а като възможна непосредствена заплаха и за тях.
 
-They move into evasion behavior:
-- avoid normal routine;
-- arrange a 22:00 rendezvous;
-- use the home of the journalist's ex-partner;
-- Keen is told not to go home before the meeting.
+Те преминават към evasion behavior:
+- избягват normal routine;
+- уговарят rendezvous за 22:00;
+- използват дома на бившия партньор на journalist-а;
+- Keen е инструктиран да не се прибира у дома преди срещата.
 
-Their belief that the same actor is after them remains a character threat assessment until independently confirmed.
+Убеждението им, че същият actor е по следите им, остава character threat assessment, докато не бъде независимо потвърдено.
 
-## Recording content — Keen's account
+## Съдържание на recording-а — разказът на Keen
 
-Pentagon contact asks what Keen actually heard.
+Pentagon contact-ът пита какво точно е чул Keen.
 
-Keen describes aircraft that were no longer being controlled by their pilots and compares the event to someone having „hacked“ the aircraft.
+Keen описва aircraft, които вече не се управляват от собствените си pilots, и сравнява случилото се с това „сякаш някой ги е хакнал“.
 
-Safe conclusion:
-- recording content, as reported by Keen, indicates apparent loss of pilot control / external-takeover-like behavior.
+Безопасният извод е:
+- според разказа на Keen recording-ът сочи към apparent loss of pilot control / external-takeover-like behavior.
 
-Not established:
+Не е установено:
 - cyber intrusion;
 - remote-control mechanism;
 - electronic warfare;
 - EMP;
 - exact actor.
 
-## Recurring unidentified man
+## Неидентифицираният recurring man
 
-A man who has repeatedly appeared around Keen/journalist makes direct contact.
+Мъж, който вече многократно е бил забелязван около Keen/journalist, осъществява директен контакт.
 
-He claims that other people with knowledge of the case were bribed rather than killed.
+Той твърди, че други хора с информация по случая са били подкупени, а не убити.
 
-This is a direct character claim but remains self-serving and unverified.
+Това е директно character claim, но остава self-serving и непотвърдено.
 
-He then demonstrates tailored inducement:
-- journalist → job at **The Times**;
-- Keen → continuation of his sister's treatment.
+След това той демонстрира tailored inducement:
+- journalist → работа в **The Times**;
+- Keen → продължаване на лечението на сестра му.
 
-Journalist accepts the career offer.
+Journalist-ът приема career offer-а.
 
-This direct-demonstrates co-optation through personalized incentives as a suppression method.
+Това директно показва co-optation чрез персонализирани incentives като suppression method.
 
 ## Pentagon callback
 
-Initial Pentagon meeting does not produce an immediate breakthrough.
+Първоначалната Pentagon среща не дава immediate breakthrough.
 
-Approximately one week later the Pentagon contact reconnects with Keen and says he has found something extraordinary / „not to be believed“.
+Около една седмица по-късно Pentagon contact-ът отново се свързва с Keen и казва, че е намерил нещо extraordinary / „не е за вярване“.
 
-This is a real delayed breakthrough, but exact content remains unresolved at S03E04 boundary.
+Това е реален delayed breakthrough, но точното съдържание остава unresolved при knowledge boundary S03E04.
