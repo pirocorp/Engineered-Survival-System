@@ -31,7 +31,7 @@ S03E07 показва command-line/system console с low-level administrative op
 Не се приема автоматично, че:
 - operator-ът пише source code;
 - console-ът е интерфейсът на „Гласът“;
-- същият null-feed path управлява cleaner helmet overlay;
+- same null-feed path управлява cleaner helmet overlay;
 - cafeteria display lush flash използва същия subsystem;
 - всички visual feeds могат да бъдат manipulated по този начин.
 
