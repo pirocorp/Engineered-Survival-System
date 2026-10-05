@@ -2,14 +2,14 @@
 
 **Knowledge boundary:** `S03E05`
 
-## Pentagon contact reverses course
+## Pentagon contact променя решението си
 
-Pentagon contact-ът първоначално отказва да даде на Daniel Keen информация за sister/Iran line-а.
+Pentagon contact-ът първоначално отказва да даде на Daniel Keen информация по sister/Iran line-а.
 
 По-късно:
 - сам се обажда;
 - казва, че е размислил;
-- организира second meeting;
+- организира втора среща;
 - преминава от withholding към disclosure.
 
 ## AI / clinic / Iran convergence
@@ -27,18 +27,18 @@ Pentagon contact-ът първоначално отказва да даде на
 ## Sister-treatment hypothesis
 
 Candidate:
-sister's treatment може да включва memory suppression / retrieval blocking, за да не си спомни sensitive details от Iran event.
+sister's treatment може да включва memory suppression / retrieval blocking, за да не си спомни чувствителни details от Iran event.
 
-Supporting context:
+Подкрепящ context:
 - pre-Silo memory suppression technology вече е established;
-- clinic има direct link към actor с Iran-operation interest;
-- treatment е leverage point, използвано и в pressure/co-optation line-а.
+- clinic има direct link към actor с interest в Iran operation;
+- treatment е leverage point, използван и в pressure/co-optation line-а.
 
 Но S03E05 не direct-show-ва:
 - memory gaps при sister;
 - exact drug/protocol;
 - explicit instruction за memory suppression;
-- causal link между treatment и Iran-memory containment.
+- causal link между treatment и containment на Iran memories.
 
 Затова hypothesis остава candidate, не fact.
 
@@ -48,19 +48,19 @@ Supporting context:
 
 Това direct-demonstrates external/remote-control capability върху civilian vehicle.
 
-## Relation to Iran aircraft anomaly
+## Връзка с Iran aircraft anomaly
 
-Earlier recording characterization:
-- aircraft no longer controlled by pilots;
-- Keen analogizes it to being „hacked“.
+По-ранното characterization на recording-а:
+- aircraft вече не са controlled by pilots;
+- Keen го сравнява със ситуация, в която aircraft са „hacked“.
 
 S03E05:
 - Keen лично преживява external vehicle takeover.
 
 Това materially strengthens deliberate external-control hypothesis за Iran aircraft.
 
-Still not established:
-- same actor;
-- same technology;
+Все още не е установено:
+- дали actor-ът е същият;
+- дали technology е същата;
 - exact attack vector;
-- whether AI-linked actor directly controls either system.
+- дали AI-linked actor direct-но контролира някоя от двете systems.
