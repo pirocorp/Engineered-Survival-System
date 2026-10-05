@@ -6,31 +6,31 @@
 
 S03E05 превръща няколко големи неясноти в директно установена структура. Robert Sims не е убил Bernard: отказал се е в последния момент, включил е Mechanical в инсценировката на разказа за кремация и е скрил Bernard жив в deep zone. Паралелно Robert действа срещу lethal line-а на Camille, която вече е direct-confirmed като нов Head of IT.
 
-Привилегированият надзорен source вече има direct in-world label: **„Гласът“ / the Voice**. Camille има safeguard read-in и изрична забрана за disclosure; Robert има голяма operational power, но е demonstrably compartmentalized. Bernard казва, че „Гласът“ го иска мъртъв, Lukas е открил existential kill authority над Silo, а Juliette знае как да спре safeguard-а.
+Привилегированият надзорен layer вече има direct in-world label: **„Гласът“ / the Voice**. Camille има safeguard read-in и изрична забрана да разгласява тази информация; Robert има голяма operational power, но е demonstrably compartmentalized. Bernard казва, че „Гласът“ го иска мъртъв, Lukas е открил existential kill authority над Silo, а Juliette знае как да спре safeguard-а.
 
-Memory-control architecture също се изяснява: The Order изрично свързва pharmacological forgetting със скриването/премахването на relics, защото relics могат да задействат suppressed memories. PEZ dispenser-ът demonstrably задейства у Juliette recall за safeguard pipe-а.
+Memory-control architecture също се изяснява: The Order изрично свързва pharmacological forgetting със скриването/премахването на relics, защото relics могат да задействат връщане на suppressed memories. PEZ dispenser-ът demonstrably задейства у Juliette recall за safeguard pipe-а.
 
-Cross-Silo communication model-ът получава конкретна architecture: всеки Silo е на различен radio channel, а **Silo 1 следи всички active frequencies**. Pre-Silo линията свързва sister's clinic, влиятелен AI supporter и Iran operation, а external takeover на автомобила на Keen materially strengthens deliberate-control interpretation-а на aircraft anomaly.
+Cross-Silo communication model-ът получава конкретна architecture: всеки Silo е на различен radio channel, а **Silo 1 следи всички active frequencies**. Pre-Silo линията свързва клиниката на сестрата, влиятелен AI supporter и Iran operation, а external takeover на автомобила на Keen materially strengthens deliberate-control interpretation-а на aircraft anomaly.
 
-> **След S03E05 най-силният model е: Silo governance е hierarchical и силно compartmentalized, но не monolithic. „Гласът“ стои над local Head-of-IT layer-а като привилегирован instruction source; safeguard knowledge и whole-Silo kill authority са tightly controlled; Robert Sims води covert counter-line срещу lethal objective-а на Camille; memory control комбинира drugs + removal of retrieval cues; Silo 1 централизирано следи radio frequencies. Точната technical identity на „Гласът“, relation към Silo 1 и final safeguard command path остават unresolved.**
+> **След S03E05 най-силният model е: Silo governance е hierarchical и силно compartmentalized, но не monolithic. „Гласът“ стои над local Head-of-IT layer-а като привилегирован source на instructions; safeguard knowledge и whole-Silo kill authority са tightly controlled; Robert Sims води covert counter-line срещу lethal objective-а на Camille; memory control комбинира drugs + removal of retrieval cues; Silo 1 централизирано следи radio frequencies. Точната technical identity на „Гласът“, relation към Silo 1 и final safeguard command path остават unresolved.**
 ---
 
 ## Наблюдения с висок confidence
 
-### S03E05 — Robert / Bernard fake death
+### S03E05 — Robert / fake death на Bernard
 
-- Robert Sims direct-confirm-ва, че не е убил Bernard.
+- Robert Sims директно потвърждава, че не е убил Bernard.
 - Той се отказва от опита за убийство, включва Mechanical и инсценира apparent cremation/furnace story.
 - Bernard е скрит жив при digger/deep-zone area.
-- По-ранният body transport toward furnaces вече се reclassify-ва като част от fake-death operation, а не proof за cremation.
+- По-ранното пренасяне на apparent body към furnaces вече се reclassify-ва като част от fake-death operation, а не като proof за cremation.
 
 ### S03E05 — Camille / „Гласът“ / Head of IT
 
-- Camille Sims е direct-confirmed като нов Head of IT.
+- Camille Sims е директно потвърдена като нов Head of IT.
 - Robert е знаел, че Bernard получава instructions във vault-а, но не е знаел точната nature на source-а.
 - Direct in-world label е **„Гласът“ / the Voice**.
-- Camille има safeguard read-in и explicit no-disclosure restriction.
-- Juliette, Bernard и Lukas са identified като продължаващи threats; Robert разбира implication-а като possible killing.
+- Camille има safeguard read-in и изрична no-disclosure restriction.
+- Juliette, Bernard и Lukas са identified като продължаващи threats; Robert разбира implication-а като възможно убийство.
 - Bernard казва, че „Гласът“ го иска мъртъв.
 
 ### S03E05 — safeguard knowledge
@@ -38,45 +38,45 @@ Cross-Silo communication model-ът получава конкретна architec
 - Bernard казва, че по-високият layer може да ги убие „по всяко време“.
 - Lukas Kyle е човекът, който е открил това.
 - Juliette знае как да спре safeguard-а.
-- Local governance следователно не притежава ultimate survival sovereignty.
+- Local governance следователно не притежава ultimate survival sovereignty над Silo.
 
 ### S03E05 — Robert counter-line / защита на Juliette
 
 - Robert казва на Mechanical, че Camille иска Juliette да умре.
-- Robert търси Mechanical support срещу current lethal line.
+- Robert търси подкрепа от Mechanical срещу current lethal line.
 - Той организира/подпомага protests Juliette да стане Mayor.
-- Public legitimacy/stabilizing value се използва като temporary protective shield.
+- Public legitimacy/stabilizing value се използва като временно защитно прикритие.
 - Robert е strong candidate, но не direct-confirmed, за unknown actor-а зад nurse pill substitution-а.
 
 ### S03E05 — memory control / relics
 
 - The Order изрично свързва memory-suppression medication със скриване/премахване на relics.
-- Relics могат да trigger-нат suppressed memories.
+- Relics могат да trigger-нат връщане на suppressed memories.
 - Bernard, Robert Sims и Martha Walker потвърждават mechanism-а в разговор.
-- PEZ dispenser-ът direct-trigger-ва у Juliette recall за safeguard pipe-а.
-- Memory control комбинира pharmacological suppression + environmental removal of retrieval cues.
+- PEZ dispenser-ът директно trigger-ва у Juliette recall за safeguard pipe-а.
+- Memory control комбинира pharmacological suppression + премахване на retrieval cues от средата.
 
 ### S03E05 — radio isolation / Silo 1
 
 - Всеки Silo използва различен radio channel.
-- Ordinary Silo radio traffic по default не се чува cross-Silo.
+- Ordinary Silo radio traffic по default не се чува между Silos.
 - Silo 1 следи всички active frequencies.
-- Това дава plausible central detection path за unauthorized inter-Silo radio communication.
+- Това дава plausible central detection path за неразрешена inter-Silo radio communication.
 
 ### S03E05 — airlock / spatial / construction
 
-- Fire cycle-ът е direct-identify-нат като sterilization/decontamination procedure.
-- След sterilization има nominal 48-hour lockout преди reopening на inner airlock door.
+- Fire cycle-ът е директно идентифициран като sterilization/decontamination procedure.
+- След sterilization има nominal 48-hour lockout преди повторно отваряне на inner airlock door.
 - Level 95 е direct-confirmed.
-- Construction board показва `FRAME ASSEMBLY + RISER INSTALLATION` workflow; не се equate-ва автоматично със safeguard pipe.
+- Construction board показва workflow `FRAME ASSEMBLY + RISER INSTALLATION`; не се equate-ва автоматично със safeguard pipe.
 
 ### S03E05 — pre-Silo AI/Iran / vehicle control
 
-- Pentagon contact-ът преминава от withholding към disclosure.
-- Един actor е свързан едновременно със sister's clinic, prominent AI support и Iran operation.
-- Sister-memory-control interpretation остава hypothesis.
+- Pentagon contact-ът преминава от отказ/withholding към disclosure.
+- Един actor е свързан едновременно с клиниката на сестрата, prominent AI support и Iran operation.
+- Interpretation-ът за memory control върху сестрата остава hypothesis.
 - След като Keen споделя опасенията си с journalist-а, control над автомобила им е поет отвън.
-- Това materially strengthens deliberate external-control hypothesis за Iran aircraft anomaly.
+- Това materially strengthens deliberate external-control hypothesis-а за Iran aircraft anomaly.
 
 ### S03E04 — Juliette memory recovery / covert support
 
@@ -227,7 +227,7 @@ Cross-Silo communication model-ът получава конкретна architec
 - Bernard лично я посреща при airlock-а в protective gear.
 - Juliette казва, че **може би знае как да спре safeguard-а**.
 - Коригираната chronology е: Juliette's statement → двамата влизат → burner/flame cycle.
-- S03E05 direct-confirm-ва burner/flame cycle-а като airlock sterilization/decontamination procedure с nominal 48-hour inner-door lockout.
+- S03E05 директно потвърждава burner/flame cycle-а като airlock sterilization/decontamination procedure с nominal 48-hour inner-door lockout.
 
 ### S02E10 — direct pre-Silo Washington
 
@@ -986,7 +986,7 @@ Observed direct anchors включват:
 
 ---
 
-## Hidden lower-system / supervisory model after S03E05
+## Hidden lower-system / supervisory model след S03E05
 
 ```text
 PUBLIC / ORDINARY SILO
@@ -1008,8 +1008,8 @@ privileged IT / surveillance / continuity layer
         ├─ requests dosage escalation
         ├─ plans waterborne population-control contingency
         ├─ enforces cross-Silo contact as safeguard violation
-        ├─ provides privileged instructions/read-in to Head of IT
-        ├─ Bernard says it wants him dead
+        ├─ дава privileged instructions/read-in на Head of IT
+        ├─ Bernard казва, че го иска мъртъв
         └─ selects/persuades human operatives for lethal action
         │
         ▼
@@ -1017,7 +1017,7 @@ deep infrastructure / multiple access paths
         │
         ├─ mine sector around Level 70
         ├─ concealed route → hidden door → tunnel → rope descent → abyss/digger zone
-        ├─ Bernard hidden alive in deep zone via Robert/Mechanical fake-death operation
+        ├─ Bernard е скрит жив в deep zone чрез fake-death operation на Robert/Mechanical
         └─ previous hidden lower contact/system
                │
                └─ possible same network/controller ?
@@ -1031,17 +1031,17 @@ safeguard infrastructure
 
 Граници:
 - `computer/system = hidden lower contact` не е direct-confirmed; това е H80.
-- exact final controller/activation path на safeguard-а остава unknown; Bernard states Juliette knows how to stop it.
+- exact final controller/activation path на safeguard-а остава unknown; Bernard заявява, че Juliette знае как да го спре.
 - `beyond The Order` не доказва authorship на The Order или absolute authority над всички Silos.
 - ordinary/known deep access може да бъде sealed while concealed alternate access remains functional.
 - Lukas' location is resolved to the mines; original purpose and relation to concealed abyss route remain unresolved.
-- Bernard е жив в deep zone; route/concealment organizer е largely resolved to Robert + Mechanical, но why Robert reversed the killing remains unresolved.
+- Bernard е жив в deep zone; organizer-ът на route/concealment-а е largely resolved до Robert + Mechanical, но причината Robert да се откаже от убийството остава unresolved.
 - outside environmental hazard остава separate lethal mechanism.
 ---
 
-## Surveillance / privileged-control model after S03E05
+## Surveillance / privileged-control model след S03E05
 
-S03E05 показва още по-дълбок split: Camille е new Head of IT с privileged Voice/safeguard read-in, докато Robert е compartmentalized и covertly действа срещу lethal line-а ѝ. Nurse + Mechanical support и Robert's protection may overlap in one counter-network, but full coordination remains unresolved.
+S03E05 показва още по-дълбок split: Camille е нов Head of IT с privileged Voice/safeguard read-in, докато Robert е compartmentalized и covertly действа срещу lethal line-а ѝ. Подкрепата от nurse + Mechanical и защитната линия на Robert може да се припокриват в една counter-network, но пълната coordination остава unresolved.
 
 ```text
 Juliette / Mayor
