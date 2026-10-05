@@ -443,7 +443,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 312. Syndrome environmental, toxic, infectious, genetic, nutritional или other origin ли има?
 313. Има ли clustering by level/occupation?
 314. Какви legal/occupational restrictions следват от diagnosis?
-315. Control authorities знаят ли повече за cause-а от public medical messaging?
+315. Контролните власти знаят ли повече за причината от публичните медицински съобщения?
 
 ## S02E01 — second Silo / rebellion / Russell
 
@@ -498,10 +498,10 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S02E02 — live cleaner feed / archive pipeline
 
-352. Къде точно е camera source-ът за live exterior feed-а — helmet, suit или separate device?
-353. Как Juliette-associated feed-ът се предава извън Silo — radio, relay, cable-linked system или друг mechanism?
+352. Къде точно е източникът камера за live feed-а от външната среда — шлем, костюм или отделно устройство?
+353. Как feed-ът, свързан с Juliette, се предава извън Silo — радио, relay, кабелно свързана система или друг механизъм?
 354. Защо signal-ът се губи при влизането във втория Silo — shielding, range, architecture, deliberate blocking или друго?
-355. `JANE CARMODY CLEANING` и другите cleaning files записи от същата live pipeline ли са?
+355. `JANE CARMODY CLEANING` и другите cleaning файлове записи от същия live pipeline ли са?
 356. Archive-ът пази raw camera input, wearer-visible lush-rendered output, processed composite или parallel streams?
 357. Може ли Bernard/IT да записва всеки cleaner live и за колко време се пазят записите?
 358. Има ли live telemetry/biometrics отделно от video feed-а?
@@ -517,13 +517,13 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 365. `THE ORDER` legally supersede-ва ли Pact-а при crisis, или е covert operational guidance?
 366. Всеки Silo има ли собствено копие на `THE ORDER`?
 367. **СИЛНО ПОДКРЕПЕНО, но произходът не е потвърден в S02E03:** Silo 17 дава конкретен случай failed cleaning → rebellion; използван ли е този или по-ранни случаи за извеждане на doctrine-а?
-368. Ако да, колко previous failed-cleaning / rebellion cases са known to authors?
+368. Ако да, колко предишни случаи на failed cleaning / rebellion са били известни на авторите?
 369. Second-Silo collapse един от cases, върху които doctrine-ът е based, ли е?
 370. Има ли други trigger conditions в `THE ORDER`, които activate crisis protocols?
 
 ## S02E02 — tape mechanism / cleaning ritual
 
-371. Каква е exact material/spec difference между standard cleaning tape и "good" tape?
+371. Каква е точната разлика в материала/спецификацията между стандартната cleaning лента и „добрата“ лента?
 372. Кой deliberately selects/supplies standard tape for cleanings?
 373. S02E03 further strengthens this: standard tape/protection may fail in a short predictable window distinct from variable outside-hazard timing. Deliberately calibrated ли е?
 374. Ако има predictable window, deliberately calibrate-ната ли е така, че cleaner-ът да има време да почисти и после да умре **видимо пред sensor-а**?
@@ -536,7 +536,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 381. Bernard откъде знае expected standard-cleaner death timing?
 382. Cleaning protocol historically designed ли е като public legitimacy ritual, или този effect е emergent/institutionally exploited?
 383. Ако cleaner откаже да clean-не, как `THE ORDER` classify-ва това спрямо failed cleaning?
-384. Ако cleaner clean-не, но не умре, това ли е exact failed-cleaning condition?
+384. Ако cleaner-ът почисти, но не умре, това ли е точното условие за failed cleaning?
 
 ## S02E02 — secured IT / privileged read-in layer
 
