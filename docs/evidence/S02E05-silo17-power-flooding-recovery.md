@@ -4,7 +4,7 @@
 
 ## Independent IT power
 
-Survivor-ът от Silo 17 заявява, че IT има собствен independent power supply, идващ от external/outside source, а не от normal Silo generator path.
+Оцелелият от Silo 17 заявява, че IT има собствено независимо електрозахранване, идващо от външен източник, а не от нормалния път през генератора на Silo.
 
 Това директно обяснява по-рано наблюдавания residual IT power след Silo-wide collapse.
 
@@ -36,7 +36,7 @@ Survivor-ът иска Juliette да ремонтира pump, която мож�
 
 ## H54
 
-**IT/vault infrastructure има independent external power path, достатъчно robust да преживее загуба на normal Silo generation и потенциално да поддържа emergency recovery loads.**
+**IT/vault инфраструктурата има независим външен път за захранване, достатъчно устойчив да преживее загуба на нормалното генериране в Silo и потенциално да поддържа аварийни товари за възстановяване.**
 
 **Confidence:** H  
 **Status:** Strongly Strengthened
@@ -47,4 +47,4 @@ Still unresolved:
 - capacity;
 - routing;
 - дали architecture е standardized across Silos;
-- дали "external/outside" означава физически outside Silo или external спрямо normal internal power grid.
+- дали `external/outside` означава физически извън Silo или външно спрямо нормалната вътрешна електрическа мрежа.
