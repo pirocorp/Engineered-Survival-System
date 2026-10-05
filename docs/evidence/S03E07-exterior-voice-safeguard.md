@@ -27,7 +27,7 @@ Mission-ът има два слоя:
 Kyle + Kennedy = "neutralized"
 ```
 
-Това supports external-enforcement candidate, но exact mechanism остава unresolved.
+Това supports external-enforcement candidate, но точният механизъм остава unresolved.
 
 Не се lock-ват конкретни actuators без visual/physical evidence.
 
@@ -36,7 +36,7 @@ Kyle + Kennedy = "neutralized"
 „Гласът“ съобщава, че Kyle и Kennedy са `neutralized`.
 
 Това показва поне, че supervisory layer-ът:
-- получава/произвежда exterior status information;
+- получава/произвежда exterior информация за статуса;
 - може да докладва outcome за конкретно named personnel.
 
 По-силният claim, че „Гласът“ лично управлява weapon/device-а, остава inference.
@@ -64,8 +64,8 @@ safe exterior
 
 Competing explanations:
 1. safeguard architecture има redundancy/fallback, затова blocking на една pipe линия не е sufficient;
-2. Silo 17 е постигнал само temporary interruption;
-3. „Гласът“ използва coercive bluff/intimidation;
+2. Silo 17 е постигнал само временно прекъсване;
+3. „Гласът“ използва сплашващ bluff/intimidation;
 4. има друг mechanism, който още не е известен.
 
 Episode evidence не избира окончателно между тях.
@@ -78,7 +78,7 @@ Camille по-късно пита Juliette дали децата са били е
 
 Това е силна supervisory-knowledge boundary:
 - intent-ът на Juliette не е fully known;
-- той се reconstruct-ва;
+- той се реконструира;
 - S03E06 selective-disclosure strategy остава operationally relevant.
 
 ## Radio contradiction
@@ -92,12 +92,12 @@ Voice: "neutralized"
 Camille: не са стигнали Silo 17
               │
               ▼
-radio transmission от "Kyle/Kennedy"
+радиопредаване от "Kyle/Kennedy"
 ```
 
 Radio call-ът:
 - weakens certainty на neutralization report-а;
-- не proof-ва physical arrival;
+- не proof-ва физическо достигане;
 - може да е genuine, relay, recording или manipulation.
 
 Operational consequence:
@@ -105,4 +105,4 @@ Silo 18 прекратява immediate плановете за:
 - взривяване на Judicial;
 - намиране и физическо блокиране на safeguard pipe-а.
 
-Ако transmission-ът е false, това би било високоефективна deception operation. Засега това е conditional hypothesis.
+Ако transmission-ът е false, това би било високоефективна deception operation. Засега това е условна хипотеза.
