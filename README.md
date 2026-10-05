@@ -244,6 +244,10 @@
 - [`docs/episodes/S03E02.md`](docs/episodes/S03E02.md) — episode record за S03E02.
 - [`docs/episodes/S03E03.md`](docs/episodes/S03E03.md) — episode record за S03E03.
 - [`docs/episodes/S03E04.md`](docs/episodes/S03E04.md) — episode record за S03E04.
+- [`docs/evidence/S03E04-memory-escape-network.md`](docs/evidence/S03E04-memory-escape-network.md) — pill substitution, nurse intervention и covert escape/support chain.
+- [`docs/evidence/S03E04-presilo-cooptation-pentagon.md`](docs/evidence/S03E04-presilo-cooptation-pentagon.md) — Keen/journalist evasion, co-optation offers и Pentagon callback.
+- [`docs/evidence/S03E04-deep-route-bernard.md`](docs/evidence/S03E04-deep-route-bernard.md) — concealed abyss route и Bernard alive correction.
+- [`assets/S03E04/MANIFEST.md`](assets/S03E04/MANIFEST.md) — S03E04 visual evidence manifest.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
