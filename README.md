@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S03E05 Bernard fake-death mechanism е largely resolved: Robert Sims отказва да го убие, включва Mechanical и инсценира furnace/cremation story. Camille е новият Head of IT и има privileged safeguard read-in от „Гласът“. The Order direct-link-ва relic suppression с memory control, Silo 1 следи active radio frequencies, а pre-Silo AI/clinic/Iran convergence + vehicle takeover materially strengthen external-control hypothesis-а.**
+> **След S03E05 fake-death mechanism-ът на Bernard е largely resolved: Robert Sims отказва да го убие, включва Mechanical и инсценира furnace/cremation story. Camille е новият Head of IT и има privileged safeguard read-in от „Гласът“. The Order изрично свързва relic suppression с memory control, Silo 1 следи active radio frequencies, а pre-Silo AI/clinic/Iran convergence + vehicle takeover materially strengthen external-control hypothesis-а.**
 
 ## Език на проекта
 
@@ -219,15 +219,15 @@
 - S03E05 direct-confirm-ва Camille Sims като нов Head of IT и въвежда in-world label-а **„Гласът“ / the Voice** за privileged supervisory source;
 - Bernard казва, че Camille има safeguard read-in и explicit no-disclosure restriction;
 - Robert Sims direct-confirm-ва fake-death plan-а за Bernard: отказва се да го убие, включва Mechanical, инсценира furnace/cremation story и го скрива жив под Silo;
-- Juliette, Bernard и Lukas са framed като continuing threats; Bernard казва, че „Гласът“ го иска мъртъв;
+- Juliette, Bernard и Lukas са framed като продължаващи threats; Bernard казва, че „Гласът“ го иска мъртъв;
 - Lukas е открил existential kill authority над Silo, а Juliette знае как да спре safeguard-а;
-- The Order direct-link-ва memory-suppression drugs с concealment/removal на relics, защото relics могат да reactivate suppressed memories;
+- The Order изрично свързва memory-suppression drugs със скриване/премахване на relics, защото relics могат да reactivate suppressed memories;
 - PEZ dispenser-ът demonstrably trigger-ва у Juliette recall за safeguard pipe-а;
 - всеки Silo използва различен radio channel, а **Silo 1 следи всички active frequencies**;
-- Robert организира/подпомага protests за Juliette да стане Mayor, за да я направи временно по-трудна за убиване;
-- Level 95 е new direct spatial anchor;
+- Robert организира/подпомага protests Juliette да стане Mayor, за да я направи временно по-трудна за убиване;
+- Level 95 е нов direct spatial anchor;
 - airlock fire cycle е direct-identified като sterilization/decontamination procedure с nominal 48-hour inner-door lockout;
-- Pentagon disclosure свързва sister's clinic, prominent AI support и Iran-operation involvement през един influential actor;
+- Pentagon disclosure свързва sister's clinic, prominent AI support и involvement в Iran operation през един influential actor;
 - external takeover на автомобила на Keen/journalist materially strengthens deliberate-control hypothesis-а за Iran aircraft anomaly.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
