@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S03E03 supervisory computer/system-ът вече не е само assessment layer: той свързва memory suppression със survival/stability, налага explicit cross-Silo isolation чрез immediate safeguard, избира Camille Sims заради способността ѝ да лъже и я убеждава да убие Juliette. Паралелно Lukas е намерен жив в mine sector-а, а pre-Silo Iran line вече има реален surviving mission recording, след което holder-ът му изчезва и мястото е претърсено.**
+> **След S03E04 control architecture вече е demonstrably internally contested: unknown upstream actor използва medical nurse за covert substitution на Juliette's memory-suppression pills, nurse + Mechanical ally подпомагат escape route-а, а concealed deep access води Juliette до Bernard — жив. Това falsify-ва prior Bernard death/burning account. Pre-Silo линията meanwhile показва tailored co-optation и Pentagon callback с extraordinary discovery.**
 
 ## Език на проекта
 
@@ -29,17 +29,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S03E03**
+**Текуща граница на знанието:** **S03E04**
 
-**Статус на гледане:** **Season 3 — S03E03 завършен**
+**Статус на гледане:** **Season 3 — S03E04 завършен**
 
-Не се използва никаква информация след S03E03, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация след S03E04, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S03E03 най-силният работен модел е:
+След S03E04 най-силният работен модел е:
 
-> **Silo system се моделира като layered survival/control architecture, в която supervisory computer/system не само наблюдава, а оценява, убеждава и task-ва human execution layer. Memory suppression е population-level stability actuator; cross-Silo contact е explicit immediate-safeguard violation; deception е embedded Head-of-IT competency; exact system identity/objective и long-term program goal остават unresolved.**
+> **Silo system се моделира като layered survival/control architecture с powerful supervisory control, но не и с monolithic human execution layer. Memory suppression може да бъде covertly sabotaged отвътре; Juliette има multi-person support chain; deep-zone има concealed functional access; Bernard's apparent death е falsified; exact coordinators, control hierarchy и long-term objective остават unresolved.**
 
 Ключови установени линии:
 
@@ -50,7 +50,7 @@
 - S01E05 показва systematic/time-dependent star-like movement на night display-а;
 - observer в cafeteria не знае concept-а „stars“ и сам reconstruct-ва movement patterns;
 - Silo има **144 levels** и Bernard заявява **10 112 current residents**;
-- observed direct level anchors вече включват `1, 8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 67, 70, 87, 119, 120, 123, 124, 144`;
+- observed direct level anchors вече включват `1, 8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 67, 70, 76, 87, 119, 120, 123, 124, 144`;
 - Pact deliberately забранява mechanized transport през Silo;
 - Pact забранява magnifying devices над определен threshold;
 - Juliette dossier съдържа content от разговора ѝ с Holston → strong hidden-surveillance/reporting evidence;
@@ -206,6 +206,15 @@
 - possible retaliatory strike срещу Iran е част от политическия разговор, не established executed action;
 - Congressman-ът подарява yellow-duck PEZ dispenser; това е strong candidate provenance bridge към earlier Silo-era yellow-plastic/blue-handle relic, без exact same-object continuity да е proven.
 
+- S03E04 nurse-ът direct-confirm-ва, че Juliette's memory-suppression pills са били covertly substituted още преди Juliette сама да започне да ги изплюва;
+- unknown upstream actor е казал на nurse-а да започне substitution-а;
+- Level 76 pump station е new direct spatial/operational anchor по Juliette escape route-а;
+- hidden door → intact tunnel → fixed rope/descent setup дава functional concealed access към abyss/deep excavation zone;
+- Juliette намира Bernard **жив** в deep zone → prior death/burning account е superseded/falsified as current truth;
+- Keen характеризира Iran recording-а като aircraft no longer controlled by pilots; „hacked“ е analogy, не established cyber mechanism;
+- recurring pre-Silo man demonstrably използва tailored inducements: The Times offer за journalist-а и sister-treatment continuation за Keen;
+- Pentagon contact се връща след ~седмица с extraordinary discovery, exact content unresolved.
+
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
 ## Карта на repo-то
@@ -231,6 +240,14 @@
 - [`docs/episodes/S02E08.md`](docs/episodes/S02E08.md) — episode record за S02E08.
 - [`docs/episodes/S02E09.md`](docs/episodes/S02E09.md) — episode record за S02E09.
 - [`docs/episodes/S02E10.md`](docs/episodes/S02E10.md) — Season 2 finale record за S02E10.
+- [`docs/episodes/S03E01.md`](docs/episodes/S03E01.md) — episode record за S03E01.
+- [`docs/episodes/S03E02.md`](docs/episodes/S03E02.md) — episode record за S03E02.
+- [`docs/episodes/S03E03.md`](docs/episodes/S03E03.md) — episode record за S03E03.
+- [`docs/episodes/S03E04.md`](docs/episodes/S03E04.md) — episode record за S03E04.
+- [`docs/evidence/S03E04-memory-escape-network.md`](docs/evidence/S03E04-memory-escape-network.md) — pill substitution, nurse intervention и covert escape/support chain.
+- [`docs/evidence/S03E04-presilo-cooptation-pentagon.md`](docs/evidence/S03E04-presilo-cooptation-pentagon.md) — Keen/journalist evasion, co-optation offers и Pentagon callback.
+- [`docs/evidence/S03E04-deep-route-bernard.md`](docs/evidence/S03E04-deep-route-bernard.md) — concealed abyss route и Bernard alive correction.
+- [`assets/S03E04/MANIFEST.md`](assets/S03E04/MANIFEST.md) — S03E04 visual evidence manifest.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
@@ -659,6 +676,7 @@ analysis/S02E10-safeguard-presilo-washington
 analysis/S03E01-memory-control-supervisory-system
 analysis/S03E02-memory-retrieval-population-control
 analysis/S03E03-safeguard-isolation-deception
+analysis/S03E04-covert-network-abyss-bernard
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -668,4 +686,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S03E04`
+**Следваща knowledge boundary:** `S03E05`

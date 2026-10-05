@@ -1,6 +1,6 @@
 # Отворени въпроси
 
-**Knowledge boundary:** **S03E01**
+**Knowledge boundary:** **S03E04**
 
 Въпросите са само за knowledge state-а до края на S02E10. Не се използва информация след S02E10, книги, wiki, interviews, leaks или retrospective explanations.
 
@@ -1187,7 +1187,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 842. Decision-ът response ли е на known electronic threat, operational-security concern, availability constraint или друга причина?
 843. Кой е authorized retrofit-а?
 844. Кой е original recorder / recording infrastructure?
-845. Какво exact съдържа recording-ът от Iran mission?
+845. **PARTIALLY RESOLVED in S03E04:** Keen описва aircraft no longer controlled by pilots и използва „hacked“ analogy; exact raw recording content и mechanism остават unresolved.
 846. Recording-ът capture-ва ли anomaly-то в real time?
 847. Има ли повече от едно копие?
 848. Кой е holder-ът, когото Daniel Keen посещава?
@@ -1240,6 +1240,61 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 883. The Order explicitly ли instruct-ва Heads of IT to deceive, or is this higher-layer doctrine?
 884. Bernard selected ли е historically по same deception criterion?
 885. Sims family relationship to computer/system formal ли е, inherited ли е, or crisis-specific?
+
+## S03E04 — Juliette medication substitution / covert network
+
+886. Кой е unknown upstream actor, който казва на nurse-а да подменя Juliette's pills?
+887. Как upstream actor-ът знае exact treatment protocol-а и medication chain-а?
+888. Same actor ли стои зад earlier covert notes към Juliette?
+889. Nurse-ът доброволно ли участва, или е pressured/recruited?
+890. Колко дълго преди Juliette's own pill-spitting е започнала substitution-ът?
+891. Какво exact е давано вместо suppression pills?
+892. Substitution-ът fully прекъсва ли active drug, или само намалява effective dose?
+893. Medical staff има ли и други insiders?
+894. Computer/system-ът разбира ли, че medication protocol-ът е sabotaged?
+895. Juliette support network centralized ли е, или independent actors converge around same goal?
+
+## S03E04 — Level 76 / escape route
+
+896. Защо nurse-ът избира exactly Level 76 pump station?
+897. Кой контролира pump station-а и какво operational value има?
+898. Как Sims научава/предвижда Juliette's arrival на Level 76?
+899. Route-ът compromised ли е чрез surveillance, informant или prediction?
+900. Mechanical ally предварително instructed ли е да бъде там?
+901. Level 76 свързан ли е physically с concealed deep-zone route, или е само handoff point?
+
+## S03E04 — concealed abyss access
+
+902. Кой е построил hidden door и tunnel route-а?
+903. Fixed rope/descent setup original infrastructure ли е или later addition?
+904. Кой currently поддържа/използва concealed route-а?
+905. Route-ът известен ли е на Mechanical broadly или само на малък subset?
+906. Abyss/digger zone same physical system ли е as S02E09 hidden lower tunnel/contact?
+907. Concealed route intersects ли mine network-а from Level 70?
+908. Има ли additional hidden routes към same deep zone?
+
+## S03E04 — Bernard alive / false death
+
+909. Кой staged/misrepresented Bernard's death?
+910. Sims знае ли, че Bernard е жив?
+911. Ако Sims знае, защо разказва furnace/burning narrative?
+912. Ако Sims не знае, кой е подвел него?
+913. Bernard доброволно ли е участвал във fake-death arrangement?
+914. Кой/какво е carried от six porters към furnaces?
+915. Имало ли е substitute body, false visual reconstruction или entirely fabricated account?
+916. Как Bernard е стигнал до deep zone?
+917. Кой се грижи за injured/debilitated Bernard?
+918. Защо Bernard е държан/скрит exactly там?
+919. Има ли Bernard current access/contact с supervisory computer/system?
+920. Bernard знае ли кой/какво е orchestrated Juliette memory-control program след disappearance-а му?
+
+## S03E04 — pre-Silo co-optation / Pentagon breakthrough
+
+921. Кой е recurring unidentified man и на каква organization/authority служи?
+922. Може ли той реално да deliver-не The Times job и sister-treatment continuation, и как?
+923. Recording holder-ът също co-opted/bribed ли е, или fate-ът му е различен?
+924. Какво extraordinary information е намерил Pentagon contact-ът след една седмица?
+925. Discovery-то потвърждава ли external aircraft takeover, fabricated Iran attribution, broader covert program или друга explanation?
 
 ## Основен въпрос на проекта
 
