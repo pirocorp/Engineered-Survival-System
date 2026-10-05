@@ -1099,7 +1099,7 @@ E330–E341 и E348–E350 са предимно dialogue/privileged-history evi
 - [S02E07 — Anti-IT physical counter-narrative](evidence/S02E07-anti-it-counter-narrative.md)
 - [S02E07 — Silo 18 IT continuity power](evidence/S02E07-silo18-continuity-power.md)
 - [S02E08 — Salvador Quinn historical reset and recurring rebellions](evidence/S02E08-quinn-historical-reset.md)
-- [S02E08 — Chronic waterborne memory suppression](evidence/S02E08-memory-suppression-water.md)
+- [S02E08 — Хронично потискане на паметта чрез водата](evidence/S02E08-memory-suppression-water.md)
 - [S02E08 — Meadows, Quinn family and The Pact Between the Founders](evidence/S02E08-meadows-quinn-pact.md)
 - [S02E08 — Quinn decoded message: game is rigged](evidence/S02E08-quinn-decoded-message.md)
 - [S02E08 — R. Ahundsen message to Judge Sims and orchard context](evidence/S02E08-sims-ahundsen-message.md)
