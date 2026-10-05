@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S03E05 fake-death mechanism-ът на Bernard е largely resolved: Robert Sims отказва да го убие, включва Mechanical и инсценира furnace/cremation story. Camille е новият Head of IT и има privileged safeguard read-in от „Гласът“. The Order изрично свързва relic suppression с memory control, Silo 1 следи active radio frequencies, а pre-Silo convergence между AI, clinic и Iran operation + vehicle takeover materially strengthens external-control hypothesis-а.**
+> **След S03E06 Silo 1 вече е direct-linked не само с централизирано radio monitoring, а и с external electrical feed към IT. Bernard отделя тази захранваща линия от safeguard path-а към Judicial. Juliette получава пряк достъп до „Гласът“ чрез Camille, но селективно скрива safeguard countermeasure knowledge; Camille междувременно operationally пуска Vitamin D+ във водата. В pre-Silo линията car takeover-ът е изрично свързан от героите с external takeover на Iran aircraft, а Iran attribution вече е поставено под силно съмнение.**
 
 ## Език на проекта
 
@@ -30,17 +30,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S03E05**
+**Текуща граница на знанието:** **S03E06**
 
-**Статус на гледане:** **Season 3 — S03E05 завършен**
+**Статус на гледане:** **Season 3 — S03E06 завършен**
 
-Не се използва никаква информация след S03E05, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация след S03E06, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S03E05 най-силният работен модел е:
+След S03E06 най-силният работен модел е:
 
-> **Silo system се моделира като layered и compartmentalized survival/control architecture. „Гласът“ е privileged supervisory source на instructions над Head-of-IT layer-а; Camille е нов Head of IT, Robert води covert counter-line, safeguard остава whole-Silo kill mechanism с known countermeasure knowledge у Juliette, memory control комбинира drugs + removal of relic cues, а Silo 1 централизирано следи radio frequencies. Exact relation между „Гласът“ и Silo 1 и final safeguard authority остават unresolved.**
+> **Silo system остава layered и compartmentalized survival/control architecture, но S03E06 свързва по-конкретно централната инфраструктура: Silo 1 следи radio frequencies и според Bernard подава external electrical power към IT. Отделен safeguard path е насочен към Judicial. Camille като Head of IT може да посредничи за пряк контакт с „Гласът“ и задейства Vitamin D+ във водата; Juliette използва този достъп, без да разкрива знанието си как да спре safeguard-а. Pre-Silo external-control линията вече има explicit car↔aircraft linkage и силно съмнение към Iran attribution, но actor-ът и точният technical mechanism остават unresolved.**
 
 Ключови установени линии:
 
@@ -51,7 +51,7 @@
 - S01E05 показва systematic/time-dependent star-like movement на night display-а;
 - observer в cafeteria не знае concept-а „stars“ и сам reconstruct-ва movement patterns;
 - Silo има **144 levels** и Bernard заявява **10 112 current residents**;
-- директно наблюдаваните level anchors вече включват `1, 8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 67, 70, 76, 87, 95, 119, 120, 123, 124, 144`;
+- директно наблюдаваните level anchors вече включват `1, 8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 67, 70, 76, 87, 94, 95, 119, 120, 123, 124, 144`;
 - Pact deliberately забранява mechanized transport през Silo;
 - Pact забранява magnifying devices над определен threshold;
 - досието на Juliette съдържа информация от разговора ѝ с Holston → силно доказателство за скрито наблюдение/докладване;
