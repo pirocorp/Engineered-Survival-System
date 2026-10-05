@@ -791,6 +791,77 @@
 | E769 | Vehicle takeover materially strengthens hypothesis-а, че Iran aircraft anomaly може да включва deliberate external control, не само generic communications/electronic failure. | Cross-scene inference | H-VH | Не доказва same technology. |
 | E770 | Candidate: same actor/network или related control technology може да стои зад civilian vehicle takeover и military aircraft anomaly. | Hypothesis | H | Same actor/technology остава unproven. |
 
+## S03E06 — Silo 1 power, „Гласът“, Vitamin D+ и pre-Silo external control
+
+| ID | Наблюдение | Клас | Confidence | Бележка |
+|---|---|---|---|---|
+| E771 | S03E06 директно показва Level 94. | Direct visual evidence | VH | Нов spatial anchor. |
+| E772 | Level 94 е показан като активна вътрешна transit/stair зона с въоръжено присъствие в текущия operational context. | Direct visual/contextual observation | H-VH | Exact функцията на нивото остава unresolved. |
+| E773 | Bernard, Lukas, Juliette и Martha Walker се събират в работилницата на Walker. | Direct episode event | VH | Knowledge convergence point. |
+| E774 | Juliette казва на останалите, че си е спомнила safeguard pipe-а. | Direct dialogue | VH | Продължава PEZ-triggered recall от S03E05. |
+| E775 | Safeguard-pipe knowledge вече е споделено с Bernard, Lukas и Walker, а не остава само у Juliette. | Direct information-state change | VH | Разширява броя на informed actors. |
+| E776 | Camille научава, че групата е в работилницата на Walker, и се насочва натам. | Direct episode event | VH | Сближава Head-of-IT line-а с safeguard-knowledge cluster-а. |
+| E777 | Juliette, Bernard и Lukas — вече identified като threat cluster — са концентрирани на едно място при споделяне на safeguard information. | Structural convergence | H-VH | Не доказва immediate lethal action. |
+| E778 | Bernard казва, че external line, която стига до IT, е electrical и захранва IT. | Direct Bernard explanation | VH | Конкретизира independent IT power. |
+| E779 | Independent IT power има external feed, а не е необходимо да се обяснява само с local backup generation. | Architectural conclusion | H-VH | Derived от E778. |
+| E780 | Bernard казва, че electrical supply line-ът към IT идва от Silo 1. | Direct Bernard explanation | VH | Direct Silo 1 infrastructure link. |
+| E781 | Silo 1 вече е установен като node с поне две privileged функции: active-frequency monitoring и external IT power supply. | Cross-system structural conclusion | VH | Radio monitoring е установено в S03E05. |
+| E782 | По-ранното наблюдение, че IT може да запази power при local outage, вече има конкретен candidate mechanism: external feed от Silo 1. | Historical evidence reinterpretation | H-VH | Не изключва допълнителен local backup. |
+| E783 | Линията към Judicial е идентифицирана в разговора като safeguard path. | Structural conclusion from dialogue | H-VH | Exact upstream source остава unresolved. |
+| E784 | IT electrical feed и safeguard path са разграничени като две различни инфраструктурни линии с различни local endpoints: IT и Judicial. | Architectural conclusion | H-VH | Не се приема автоматично общ upstream source. |
+| E785 | Juliette доброволно се предава на Camille Sims. | Direct episode event | VH | Съзнателно търси контакт. |
+| E786 | Преди arrest-а Juliette настоява двете да говорят на място без камери. | Direct dialogue / operational request | VH | Surveillance avoidance е explicit concern. |
+| E787 | Juliette казва на Camille, че си е спомнила важна потисната информация. | Direct Juliette statement | VH | Последващият разговор показва selective disclosure. |
+| E788 | Последващият disclosure към Camille не може да се използва като пълен inventory на recovered memory, защото Juliette задържа safeguard knowledge. | Epistemic correction / information-state conclusion | H-VH | Коригира broad reading на E787. |
+| E789 | Candidate: Juliette иска чувствителният разговор да бъде извън обичайния surveillance layer на „Гласът“. | Hypothesis | H | Подсилено от E801–E802. |
+| E790 | Keen и спътникът му изрично свързват текущия external car takeover със случилото се със самолетите в Iran operation. | Direct dialogue / cross-event linkage | VH | Explicit character-level linkage. |
+| E791 | Те формулират, че и при самолетите някой е поел control отвън, а не че става дума само за generic technical failure. | Direct character conclusion | VH | Mechanism-ът остава unknown. |
+| E792 | Deliberate external-control interpretation за Iran aircraft anomaly става текущото strongest character-level explanation. | Cross-scene analytical upgrade | H-VH | Same technology/actor не е доказан. |
+| E793 | В разговора се поставя под съмнение, че actor-ът зад external takeover-а е Iran. | Direct dialogue / attribution doubt | VH | Significant attribution shift. |
+| E794 | Candidate: Iran attribution може да е false/manipulated/cover attribution, докато реалният actor е друга network/authority. | Hypothesis | H | Institutional identity остава unresolved. |
+| E795 | Juliette казва на Camille, че знае за „Гласът“. | Direct dialogue | VH | Camille вече знае, че Juliette е aware of privileged layer. |
+| E796 | Juliette разкрива на Camille, че е била в Silo 17. | Direct dialogue | VH | Explicit cross-Silo disclosure. |
+| E797 | Juliette казва, че иска да говори с „Гласът“, за да поиска децата от Silo 17 да бъдат доведени в Silo 18. | Direct stated objective | VH | Cross-Silo transfer request. |
+| E798 | Пред Camille Juliette представя Silo 17 / children line-а като възстановеното от паметта знание, което мотивира искането ѝ. | Direct dialogue | VH | Не е exhaustive disclosure. |
+| E799 | Juliette не разкрива на Camille, че е възстановила safeguard knowledge и знае practical countermeasure. | Direct information-state asymmetry | VH | Значим withheld leverage. |
+| E800 | Candidate: Juliette използва ограничен disclosure за Silo 17 и децата, за да получи access до „Гласът“, докато пази safeguard countermeasure knowledge. | Hypothesis | H-VH | Strategy е strongly supported, exact intent не е verbalized. |
+| E801 | Juliette пита Camille дали е сигурна, че на мястото няма камери. | Direct dialogue | VH | Explicit surveillance concern. |
+| E802 | Juliette казва, че има усещането, че „Гласът“ знае, че двете разговарят. | Direct Juliette statement / character inference | VH за statement; H за inference | Не доказва hidden sensor. |
+| E803 | Липсата на видими камери не е достатъчна да се приеме, че разговорът е извън supervisory awareness. | Analytical implication | H | Driven by E802. |
+| E804 | Candidate: „Гласът“ може да има monitoring/awareness channel отвъд известните camera feeds. | Hypothesis | M-H | Audio/sensor/other source не е direct-demonstrated. |
+| E805 | Camille Sims завежда Juliette при „Гласът“. | Direct episode event | VH | Direct mediated access. |
+| E806 | Head of IT има operational access path до „Гласът“ и може да доведе друг човек до този interface/contact. | Structural / access-control conclusion | VH | Надхвърля еднопосочно получаване на instructions. |
+| E807 | Достъпът до „Гласът“ допуска пряк контакт с outsider към privileged Head-of-IT layer-а, когато Camille посредничи. | Architectural conclusion | H-VH | Technical implementation остава unknown. |
+| E808 | „Гласът“ първоначално реагира отрицателно на предложението децата от Silo 17 да бъдат доведени в Silo 18. | Direct interaction | VH | Initial rejection/resistance. |
+| E809 | Juliette предлага самата тя отново да започне memory-suppression medication като част от сделката. | Direct Juliette proposal | VH | Bargaining concession. |
+| E810 | Juliette предлага и децата от Silo 17 да бъдат поставени на memory-suppression regime след transfer-а. | Direct Juliette proposal | VH | Extends control mechanism to incoming group. |
+| E811 | След memory-suppression предложението „Гласът“ вече не отхвърля веднага идеята и започва да я обмисля. | Direct behavioral response | H-VH | Exact decision остава pending. |
+| E812 | Memory suppression е показан като active risk-mitigation tool, който supervisory layer-ът може да използва при exceptional governance problem. | Structural conclusion | H-VH | Не доказва, че transfer ще бъде approved. |
+| E813 | Juliette използва preserved memory/knowledge като risk variable, който предлага да бъде контролиран, за да направи cross-Silo transfer-а приемлив. | Strategic inference | H | Exact internal strategy не е verbalized. |
+| E814 | Candidate: supervisory logic допуска negotiation/exception, ако perceived epistemic/control risk бъде достатъчно намален. | Hypothesis | M-H | Не доказва general rule engine. |
+| E815 | Показана е industrial/maintenance зона с тежка инфраструктура, floor guides/rails и отличителна кръгла емблема на стената. | Direct visual evidence | VH | Exact location/function/emblem identity остава unknown. |
+| E816 | Camille Sims пуска Vitamin D+ във водоснабдяването. | Direct episode event | VH | Operational activation. |
+| E817 | Waterborne memory-suppression protocol-ът преминава от известна procedure/contingency към реално изпълнение при Camille като Head of IT. | Operational confirmation | VH | Major state change. |
+| E818 | Central water supply е delivery path за Vitamin D+, което позволява population-scale exposure. | Structural conclusion | H-VH | Exact dose/scope/timing остават unresolved. |
+| E819 | Remote-controlled автомобилът отвежда Daniel Keen до неизвестна за него дестинация. | Direct episode event | VH | Takeover включва routing. |
+| E820 | External controller-ът демонстрира capability не само да поеме control, а и да определя route/destination. | Functional conclusion | H-VH | Actor identity unknown. |
+| E821 | Автомобилът отвежда Keen до летище, където има private aircraft. | Direct episode event | VH | Aviation handoff. |
+| E822 | Forced vehicle routing завършва в организиран aviation transport node. | Operational conclusion | H-VH | Показва предварително координирана destination. |
+| E823 | Candidate: actor/network зад car takeover-а има достъп до координирана наземна и авиационна логистика. | Hypothesis | H | Ownership/control chain остава unknown. |
+| E824 | Keen стига до среща с жена, свързана с political oversight/commission line-а по Iran operation; точната ѝ титла остава provisional. | Direct character/location continuity | H | Не lock-ваме „senator“ без explicit confirmation. |
+| E825 | Forced car takeover → airport → private aircraft води Keen към предварително организирана среща с високопоставена фигура, свързана с Iran oversight line-а. | Structural convergence | H-VH | Не доказва дали тя е controller, ally, target или intermediary. |
+
+## Визуални източници — S03E06
+
+Binary assets са качени отделно в `main` преди analysis PR-а и са валидирани byte-for-byte чрез Git blob SHA comparison:
+
+- [Level 94](../assets/S03E06/screenshots/level-94-primary.jpeg)
+- [Juliette / camera-free room concern](../assets/S03E06/screenshots/no-camera-room-object.jpeg)
+- [Industrial work area / emblem](../assets/S03E06/screenshots/industrial-work-area-emblem.jpeg)
+- [S03E06 visual evidence manifest](../assets/S03E06/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset, не primary evidence.
+
 ## Визуални източници — S03E05
 
 Binary assets са качени отделно в `main` преди analysis PR-а и са валидирани чрез Git blob SHA comparison:
