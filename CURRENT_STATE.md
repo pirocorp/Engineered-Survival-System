@@ -214,7 +214,7 @@ outside environmental hazard remains independently lethal
 
 - Екранът в control room получава текущ писмен доклад, описващ движение, посока и оборудване на въоръжена група.
 - Report-ът е routed към named operators с `ATTN: DOREEN` и `FOR: DIEGO`.
-- Control-room operational picture следователно включва human-source/field reporting в допълнение към camera/surveillance inputs.
+- Оперативната картина в control room следователно включва докладване от човешки източници/терена в допълнение към входовете от камери/наблюдение.
 - Exact source device, intermediary path, network protocol и authentication остават unresolved.
 
 ### S02E06 — IT radio control
@@ -236,7 +236,7 @@ outside environmental hazard remains independently lethal
 - Bernard отстранява Sims като Head of Security.
 - Bernard изрично казва на Sims, че **няма** да стане shadow на Bernard.
 - Bernard назначава Sims за новия Judge.
-- Това разделя public Judicial office от privileged succession/read-in path на Bernard.
+- Това разделя публичната длъжност в Judicial от привилегирования път за наследяване/read-in на Bernard.
 - Способността на Bernard да мести Sims между formal roles е strong evidence за institutional leverage, но не установява, че всеки Judge е passive puppet.
 
 ### S02E05 — independent IT power в Silo 17
@@ -268,7 +268,7 @@ outside environmental hazard remains independently lethal
 - Новооткрита Silo schematic показва marked/visible lines, свързани чрез scene context с IT.
 - Подобна line/connection е свързана с Judicial.
 - Screenshot-ът не установява дали тези линии са power, data, communications, control, utility или shared conduits.
-- Map-ът е compatible с hidden privileged infrastructure backbone и с independent-IT-power testimony от Silo 17, но сам по себе си не доказва, че линиите изобразяват този power feed.
+- Картата е съвместима със скрит привилегирован инфраструктурен backbone и със свидетелството от Silo 17 за независимо IT захранване, но самата тя не доказва, че линиите изобразяват този захранващ път.
 
 ### S02E05 — писмото на Salvador Quinn
 
@@ -320,7 +320,7 @@ outside environmental hazard remains independently lethal
 - Bernard притежава immersive headset, показващ pre-Silo natural environment, идентифициран in-scene като Monteverde cloud forest, 2018.
 - Bernard обяснява, че работи подобно на visual system в cleaner helmets.
 - Той дава headset-а на Meadows преди смъртта ѝ.
-- Това силно strengthens по-широка immersive stored/rendered visual technology family зад cleaner lush-view system.
+- Това силно засилва модела за по-широко семейство immersive технологии за съхранено/рендирано изображение зад зелената гледка за cleaner-а.
 
 ### S02E04 — framing на Meadows / натиск от Sims
 
@@ -347,7 +347,7 @@ outside environmental hazard remains independently lethal
 - Три дни по-късно `LIES` се появява на internal cafeteria display.
 - Survivor-ът казва, че след тази sequence започва rebellion.
 - Той допълва, че population в крайна сметка излиза навън, защото не е видяло Ron да умира и е заключило, че exterior е безопасен.
-- Silo 17 следователно дава concrete historical corroboration на `THE ORDER` failed-cleaning → war contingency.
+- Silo 17 следователно дава конкретно историческо потвърждение на сценария failed-cleaning → war в `THE ORDER`.
 
 ### S02E03 — exterior hazard vs cleaner timing
 
@@ -356,7 +356,7 @@ outside environmental hazard remains independently lethal
 - Hazard-ът по-късно се връща и ги убива.
 - Това разделя **реалната подвижна/променяща се във времето външна опасност** от краткия предвидим модел на смъртност при стандартните cleaning костюми.
 - Exact hazard chemistry остава unresolved.
-- Exact tape pathway също остава unresolved: breathing-gas loss, contaminant ingress или и двете.
+- Точният път на повредата при лентата също остава неустановен: загуба на дихателен газ, проникване на замърсител или и двете.
 
 ### S02E03 — Server Room / vault / Russell
 
@@ -412,7 +412,7 @@ outside environmental hazard remains independently lethal
 - Feed-ът продължава отвъд непосредствената surface зона на нейния Silo.
 - Signal-ът се губи, когато Juliette влиза във втория Silo.
 - Exact camera/transmitter/network architecture остава неизвестна.
-- По-ранните `... CLEANING` archive files може да принадлежат към същия по-широк pipeline, но raw feed vs wearer-visible rendered output остава unresolved.
+- По-ранните архивни файлове `... CLEANING` може да принадлежат към същия по-широк pipeline, но raw feed спрямо рендирания изход, видим за носещия шлема, остава неустановен.
 
 ### S02E02 — THE ORDER / failed-cleaning contingency
 
@@ -429,7 +429,7 @@ outside environmental hazard remains independently lethal
 - Bernard и Judge Meadows приписват неочакваното оцеляване на Juliette на замяната на normal cleaning tape.
 - Meadows казва, че рано или късно някой ще разбере tape mechanism.
 - По-късно Meadows поставя като условие за помощта си да бъде пусната навън след кризата с **good tape**.
-- Тези insider statements силно подкрепят известна material distinction между normal cleaning tape и по-добра sealing configuration.
+- Тези твърдения на вътрешни лица силно подкрепят материална разлика между стандартната cleaning лента и по-добра конфигурация на уплътняване.
 - Точният физически път на повредата остава неустановен: проникване на външен замърсител, загуба на дихателен газ или и двете.
 
 ### S02E02 — secured IT / privileged governance layer
@@ -483,7 +483,7 @@ outside environmental hazard remains independently lethal
 ### S02E01 — residual power / flooding / survivor
 
 - Fixed lighting остава active поне в agricultural area и IT bridge area.
-- Вторият Silo следователно не е напълно electrically dead; exact power source е неизвестен.
+- Вторият Silo следователно не е напълно без електрозахранване; точният източник на захранване е неизвестен.
 - Водата се е покачила до няколко levels под IT, установявайки massive internal flooding.
 - Поне един living person остава вътре в secured IT compartment.
 - Survivor-ът заплашва Juliette, ако тя се опита да отвори door-а.
@@ -498,7 +498,7 @@ outside environmental hazard remains independently lethal
 ### S01E10 — deception в cleaner helmet / exterior truth
 
 - Juliette първоначално вижда същата lush exterior representation, свързана с `JANE CARMODY CLEANING`.
-- Първоначално тя заключава, че internal public/cafeteria display е лъжата.
+- Първоначално тя заключава, че вътрешният публичен/cafeteria display е лъжата.
 - Lush helmet view след това е директно разкрит като false visual layer / overlay-like presentation.
 - Barren exterior остава видим, след като false layer изчезне.
 - Bernard разпознава момента, в който Juliette разбира deception-а, и казва в context, че **тя знае**.
@@ -506,7 +506,7 @@ outside environmental hazard remains independently lethal
 
 ### S01E10 — cleaning mortality / tape
 
-- Suit-ът на Juliette е sealed с различен tape/material от standard cleaning configuration.
+- Костюмът на Juliette е уплътнен с различна лента/материал от стандартната cleaning конфигурация.
 - Bernard и Sims очакват тя да fail-не/умре около дървото, третирайки outcome-а като predictable.
 - Juliette оцелява отвъд expected failure point.
 - Контрастът силно implicate-ва suit sealing/material quality в cleaner mortality.
@@ -515,10 +515,10 @@ outside environmental hazard remains independently lethal
 ### S01E10 — Bernard / surveillance / compartmentalization
 
 - Cleaning footage се broadcast-ва по multiple/all visible Silo monitors, преди Bernard да го спре.
-- Bernard нарежда на surveillance/control-room personnel да не гледа classified footage и да забрави видяното; Sims е включен в този command context.
-- Bernard лично въвежда Juliette в surveillance/control environment и selective показва archived incident footage.
+- Bernard нарежда на персонала по наблюдението/control room да не гледа класифицираното видео и да забрави видяното; Sims е включен в този команден контекст.
+- Bernard лично въвежда Juliette в средата за наблюдение/контрол и избирателно показва архивирано видео от инцидент.
 - Juliette казва, че те „never had a chance“; Bernard се съгласява.
-- Bernard следователно има privileged knowledge/access отвъд ordinary surveillance operators и може директно да constrain-ва Sims поне в този classified context.
+- Bernard следователно има привилегировано знание/достъп отвъд обикновените оператори по наблюдението и може директно да ограничава Sims поне в този класифициран контекст.
 - Това още не доказва, че Bernard е ultimate authority над целия Silo.
 
 ### S01E10 — physical key `18`
