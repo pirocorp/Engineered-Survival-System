@@ -2,21 +2,21 @@
 
 **Knowledge boundary:** `S03E04`
 
-## Known access vs concealed access
+## Known access срещу concealed access
 
-Juliette wants to reach the abyss / digger area.
+Juliette иска да стигне до abyss / digger area.
 
-Known/ordinary access is sealed.
+Known/ordinary access е sealed.
 
-Juliette and her Mechanical ally discover:
-- a hidden door;
-- an intact tunnel behind it;
-- a dedicated rope/descent setup;
-- a functional route down toward the deep excavation zone.
+Juliette и Mechanical ally откриват:
+- hidden door;
+- intact tunnel зад нея;
+- dedicated rope/descent setup;
+- functional route надолу към deep excavation zone.
 
-Juliette successfully uses the route.
+Juliette успешно използва route-а.
 
-Therefore the correct spatial model is:
+Следователно правилният spatial model е:
 
 ```text
 ordinary access
@@ -32,39 +32,39 @@ concealed access
    abyss / deep excavation
 ```
 
-The route is not merely theoretical or improvised; existing descent hardware indicates intentional access.
+Route-ът не е само theoretical или improvised; съществуващото descent hardware показва intentional access.
 
 ## Bernard reveal
 
-Juliette finds Bernard alive in the deep zone.
+Juliette намира Bernard жив в deep zone.
 
-This directly falsifies the previously accepted current-state account that Bernard was dead/burned.
+Това директно falsify-ва previously accepted current-state account-а, че Bernard е dead/burned.
 
 ### Historical correction chain
 
-S03E01 accepted state:
-- Bernard treated as dead;
-- Sims gives a burning/furnace account;
-- repo records that as then-current evidence/model.
+Приетото тогава състояние след S03E01:
+- Bernard е третиран като мъртъв;
+- Sims дава burning/furnace account;
+- repo-то записва това като тогавашния current evidence/model.
 
 S03E04:
-- Bernard is alive.
+- Bernard е жив.
 
-Historical S03E01 state is retained as prior model history, but marked superseded.
+Historical S03E01 state се пази като prior model history, но е marked superseded.
 
-Safe conclusion:
-> the Bernard death/burning narrative was false, staged, misrepresented or materially incomplete.
+Безопасният извод е:
+> Bernard death/burning narrative е false, staged, misrepresented или materially incomplete.
 
-Not yet established:
-- who designed the deception;
-- whether Bernard participated willingly;
-- whether another body was used;
-- what exactly happened after the airlock/burner sequence;
-- why Bernard is in deep zone;
-- who has access to him.
+Все още не е установено:
+- кой е организирал deception-а;
+- дали Bernard е участвал доброволно;
+- дали е използвано друго тяло;
+- какво точно е станало след airlock/burner sequence-а;
+- защо Bernard е в deep zone;
+- кой има достъп до него.
 
-## Physical condition
+## Физическо състояние
 
-Bernard appears injured/debilitated in the visual evidence.
+Bernard изглежда injured/debilitated във visual evidence.
 
-The image supports physical impairment but not a specific diagnosis, injury mechanism or timeline.
+Кадърът подкрепя physical impairment, но не конкретна diagnosis, injury mechanism или timeline.
