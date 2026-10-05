@@ -6,7 +6,7 @@
 
 Camille Sims пуска **Vitamin D+** във водоснабдяването.
 
-Това е operational confirmation, че waterborne memory-suppression architecture не е само doctrine, contingency или planned option.
+Това е operational confirmation, че waterborne memory-suppression architecture не е само doctrine, contingency или планирана възможност.
 
 ## Continuity с по-ранното evidence
 
