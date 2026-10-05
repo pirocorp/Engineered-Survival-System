@@ -409,7 +409,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 287. **ЧАСТИЧНО РАЗРЕШЕНО in S02E03:** survivor от Silo 17 заявява, че общо има **50 Silos**; independent corroboration остава open.
 288. Всички видими кръгли обекти обитаеми/активни Silos ли са? S02E01 показва, че поне един друг Silo може да е рухнал/до голяма степен обезлюден, но все пак да съдържа оцелял и остатъчно захранване.
 289. **ЧАСТИЧНО РАЗРЕШЕНО в S02E01:** поне два Silos споделят аналогични airlock, IT, земеделие и концепции за скрити камери в огледалата; точната идентичност на всички архитектурни/cleaning системи остава отворена.
-290. Има ли communication/coordination between Silos?
+290. **PARTIALLY RESOLVED in S03E05:** всеки Silo използва различен radio channel, а Silo 1 следи всички active frequencies. Authorized coordination paths beyond monitoring остават unresolved.
 291. Кой управлява multi-Silo system-а, ако има common authority?
 292. `SILO_COUNT` field от HDD към exact number **50** ли сочи, as now claimed by the Silo 17 survivor?
 293. Distant ruined/city-like skyline кой city е?
@@ -807,7 +807,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 568. Central repeater, switching/gating layer, controlled power feed, software authorization or another shared dependency ли е?
 569. IT може ли selective да block-ва specific channels, departments or radios, or only Silo-wide shutdown?
 570. Има ли emergency/bypass radio channels independent from IT?
-571. Radio traffic centrally monitored/recorded ли е?
+571. **PARTIALLY RESOLVED in S03E05:** Silo 1 следи всички active frequencies. Дали recording/retention се прави и как се използва traffic-ът остава open.
 572. Digital messaging остава ли available while radio is cut?
 573. Physical couriers intended resilience/fallback layer ли са exactly for communication outages?
 574. Judicial има ли independent authority/access да control-ва radio network-а?
@@ -1232,14 +1232,14 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 876. Как computer/system-ът е selected Camille и какви други candidates е evaluated?
 877. Какво exactly означава „избрана“ — formal succession, operative role, temporary interface or another status?
-878. Camille Head of IT candidate ли е, de facto replacement ли е, or separate human intermediary?
-879. Ще изпълни ли Camille Juliette kill objective-а?
+878. **RESOLVED in S03E05:** Camille Sims е direct-confirmed като нов Head of IT.
+879. **PARTIALLY RESOLVED in S03E05:** Camille still wants Juliette dead and frames Robert toward lethal removal, но execution remains unresolved.
 880. Какъв method/system expects for the killing?
-881. Does computer/system have authority to task enforcement directly, or must it persuade human intermediaries?
+881. **PARTIALLY NARROWED in S03E05:** „Гласът“ дава privileged instructions/read-in на Head of IT; Camille then attempts to task Robert. Direct Voice→enforcement command remains unproven.
 882. Deception formally tested/trained ли е при Head-of-IT succession?
 883. The Order explicitly ли instruct-ва Heads of IT to deceive, or is this higher-layer doctrine?
 884. Bernard selected ли е historically по same deception criterion?
-885. Sims family relationship to computer/system formal ли е, inherited ли е, or crisis-specific?
+885. **REFINED in S03E05:** Camille има formal Head-of-IT privileged access/read-in, докато Robert е compartmentalized. Family-wide inherited access therefore is not supported.
 
 ## S03E04 — Juliette medication substitution / covert network
 
