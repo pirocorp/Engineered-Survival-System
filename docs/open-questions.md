@@ -1,6 +1,6 @@
 # Отворени въпроси
 
-**Knowledge boundary:** **S03E01**
+**Knowledge boundary:** **S03E04**
 
 Въпросите са само за knowledge state-а до края на S02E10. Не се използва информация след S02E10, книги, wiki, interviews, leaks или retrospective explanations.
 
