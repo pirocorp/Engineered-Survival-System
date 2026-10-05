@@ -43,7 +43,7 @@ IT remains powered
 
 Important distinction:
 
-Survivor testimony от Silo 17 описва IT power като идващ от **external/outside source**.
+Свидетелството на оцелелия от Silo 17 описва IT захранването като идващо от **външен източник**.
 
 Silo 18 към момента доказва само **functional independence/redundancy** на IT power. Все още не доказва:
 - същия external source;
@@ -53,7 +53,7 @@ Silo 18 към момента доказва само **functional independence/
 
 ## Social/governance impact
 
-Power asymmetry вече не е hidden по време на blackout: residents могат видимо да наблюдават, че IT остава powered, докато normal areas са dark.
+Асиметрията в захранването вече не е скрита по време на blackout: жителите могат видимо да наблюдават, че IT остава захранен, докато нормалните зони са тъмни.
 
 Това може materially да strengthen-не existing public suspicion към IT, особено заедно с anti-IT leaflet.
 
