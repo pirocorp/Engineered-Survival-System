@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S03E07 supervisory layer-ът вече има demonstrated exterior-status reach, а Kyle/Kennedy mission-ът отваря силна хипотеза за external enforcement capability. Същевременно „Гласът“ не изглежда omniscient: Silo 17 safeguard defeat и истинската цел на Juliette се реконструират чрез inference, а по-късният радиопредаване влиза в конфликт с `neutralized` report-а. Low-level console показва practical live-feed → static-loop substitution. В pre-Silo линията сестрата на Daniel Keen има фрагментарен recall под formal NDA/read-in control, а самият Silo строителната площадка е локализиран в Georgia, близо до Atlanta.**
+> **След S03E07 supervisory layer-ът вече има demonstrated exterior-status reach, а Kyle/Kennedy mission-ът отваря силна хипотеза за external enforcement capability. Същевременно „Гласът“ не изглежда всезнаещ: Silo 17 safeguard defeat и истинската цел на Juliette се реконструират чрез inference, а по-късната радиовръзка влиза в конфликт с `neutralized` report-а. Low-level console показва practical live-feed → static-loop substitution. В pre-Silo линията сестрата на Daniel Keen има fragmented recall под formal NDA/read-in control, а самият Silo construction field е локализиран в Georgia, близо до Atlanta.**
 
 ## Език на проекта
 
@@ -40,25 +40,25 @@
 
 След S03E07 най-силният работен модел е:
 
-> **Silo system остава layered и compartmentalized survival/control architecture, но S03E07 показва по-широк supervisory reach и едновременно ограничено знание. „Гласът“ може да докладва exterior status и вероятно е свързан с external enforcement, но `neutralized` report-ът за Kyle/Kennedy по-късно е поставен под съмнение от радиопредаване. Safeguard е practically blockable поне временно в Silo 17, докато claim-ът за „непреодолимост“ оставя redundancy/bluff alternatives. Juliette's selective disclosure остава частично успешно. Low-level console установява null/static-loop feed substitution, а pre-Silo линията вече дава фрагментарна-памет + NDA evidence за sister-treatment и concrete Silo construction geography край Atlanta, Georgia.**
+> **Silo system остава layered и compartmentalized survival/control architecture, но S03E07 показва по-широк supervisory reach и едновременно ограничено знание. „Гласът“ може да докладва exterior status и вероятно е свързан с external enforcement, но `neutralized` report-ът за Kyle/Kennedy по-късно е поставен под съмнение от радиовръзка. Safeguard е practically blockable поне временно в Silo 17, докато claim-ът за „непреодолимост“ оставя redundancy/bluff alternatives. Juliette's selective disclosure остава частично успешно. Low-level console установява null/static-loop feed substitution, а pre-Silo линията вече дава fragmented-memory + NDA evidence за sister-treatment и concrete Silo construction geography край Atlanta, Georgia.**
 
 Ключови установени линии:
 
 - S03E07: Lukas Kyle и Patrick Kennedy излизат към Silo 17 с child-transfer mission и covert safeguard-countermeasure objective;
-- S03E07: exterior sequence е жужене → кратък наподобяващ оръжие звук → later Voice report `neutralized`; точният механизъм на neutralization остава unknown;
-- S03E07: радиопредаване, представен като Kyle/Kennedy, влиза в conflict с Voice/Camille account-а и спира immediate Judicial/safeguard-pipe operation-а в Silo 18;
-- S03E07: „Гласът“ прави inference Silo 17 safeguard defeat от recording/outcomes и infer-ва Juliette intent, което подкрепя bounded rather than omniscient knowledge;
-- S03E07: claim-ът „safeguard is unbeatable“ е в напрежение с practical временно преодоляване в Silo 17; redundancy/fallback остава hypothesis;
+- S03E07: exterior sequence е жужене → кратък звук, наподобяващ оръжие → later Voice report `neutralized`; точният neutralization mechanism остава unknown;
+- S03E07: радиовръзка, представена като Kyle/Kennedy, влиза в conflict с Voice/Camille account-а и спира immediate Judicial/safeguard-pipe operation-а в Silo 18;
+- S03E07: „Гласът“ заключава Silo 17 safeguard defeat от recording/outcomes и прави inference за Juliette intent, което подкрепя bounded rather than omniscient knowledge;
+- S03E07: claim-ът „safeguard is unbeatable“ е в напрежение с practical temporary defeat в Silo 17; redundancy/fallback остава hypothesis;
 - S03E07: console показва `Live feed replaced with null visual. Looping static image.`, direct-confirming feed substitution capability;
-- S03E07: реалното exterior night sky показва ясни звезди и дава отправна точка за сравнение за по-ранните public-display star patterns;
-- S03E07: сестрата на Daniel Keen има фрагментарен recall и подаден отвън автобиографичен разказ; тя вече е под NDA, а Keen трябва да подпише преди пълната информация;
-- S03E07: Silo строителната програма-ът е директно показан в Georgia, близо до Atlanta, като огромен multi-unit строителната площадка;
+- S03E07: реалното exterior night sky показва ясни звезди и дава comparison anchor за по-ранните public-display star patterns;
+- S03E07: сестрата на Daniel Keen има fragmented recall и supplied autobiographical narrative; тя вече е под NDA, а Keen трябва да подпише преди пълния briefing;
+- S03E07: Silo construction program-ът е директно показан в Georgia, близо до Atlanta, като massive multi-unit construction field;
 - cleaner lush view остава repeatable при Allison, Jane Carmody и Holston;
 - public display normally показва barren exterior;
 - S01E03 изключването на захранването показва зелено състояние на самия public display;
 - S01E04 показва normal night state;
 - S01E05 показва systematic/time-dependent star-like movement на night display-а;
-- observer в cafeteria не знае concept-а „stars“ и сам реконструира movement patterns;
+- observer в cafeteria не знае concept-а „stars“ и сам reconstruct-ва movement patterns;
 - Silo има **144 levels** и Bernard заявява **10 112 current residents**;
 - директно наблюдаваните level anchors вече включват `1, 8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 67, 70, 76, 87, 94, 95, 119, 120, 123, 124, 144`;
 - Pact deliberately забранява mechanized transport през Silo;
@@ -73,7 +73,7 @@
 - **няма established Syndrome ↔ magnification link** — това остава VL speculation/open question only;
 - централизиран control center за наблюдение с множество feeds наблюдава множество вътрешни места, включително Juliette в дома ѝ;
 - restricted Judicial relic database пази archival `PRE-SILO` records и Sims/Judicial има privileged access;
-- pre-Silo Georgia travel guide първоначално установява само U.S.-Georgia geography; **S03E07 supersedes location uncertainty**, като показва Silo строителната площадка в Georgia, близо до Atlanta;
+- pre-Silo Georgia travel guide първоначално установява само U.S.-Georgia geography; **S03E07 supersedes location uncertainty**, като показва Silo construction field в Georgia, близо до Atlanta;
 - Sims operationally commands surveillance; Judge Meadows и medical center са monitored;
 - скритите камери са потвърдени зад/в огледалата, а достъпът до контролния център минава през скрит маршрут през janitorial closet;
 - Flamekeepers са описани като група, съхраняваща историята/relics; точната им връзка с Rebellion остава неустановена;
@@ -237,7 +237,7 @@
 - Level 95 е нов direct spatial anchor;
 - airlock fire cycle е директно идентифициран като sterilization/decontamination procedure с nominal 48-hour inner-door lockout;
 - Pentagon disclosure свързва клиниката на сестрата, prominent AI support и involvement в Iran operation през един influential actor;
-- external takeover на автомобила на Keen и journalist-а съществено подсилватs deliberate-control hypothesis-а за Iran aircraft anomaly.
+- external takeover на автомобила на Keen и journalist-а materially strengthens deliberate-control hypothesis-а за Iran aircraft anomaly.
 
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
