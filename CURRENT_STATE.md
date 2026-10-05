@@ -882,7 +882,7 @@ Observed direct anchors включват:
 | H72 | Скритата долна система може да открива/ангажира посетители и да води двупосочна комуникация, отчитаща контекста; самоличността на събеседника остава неизвестна. | H-VH | Active / силно подкрепено |
 | H73 | Safeguard има практически път за прекъсване/блокиране; родителите в Silo 17 са заявен успешен пример. | H-VH | New / силно подкрепено |
 | H74 | Пътят за подаване на safeguard-а идва отвън и влиза при Level 14; точният източник нагоре по веригата, маршрутизацията и контролиращият субект остават неизвестни. | H-VH | New / силно подкрепено |
-| H75 | Safeguard-ът на Основателите е fail-deadly архитектура за унищожаване на целия Silo, използвана и за активно налагана cross-Silo изолация при определени условия за задействане. | VH | Strengthened / Active |
+| H75 | Safeguard-ът на Основателите е архитектура за унищожаване на целия Silo при отказ, използвана и за активно налагана cross-Silo изолация при определени условия за задействане. | VH | Strengthened / Active |
 | H76 | Предполагаемата иранска радиологична атака в pre-Silo политическия разказ може да е фабрикуван/манипулиран претекст; реалността на събитието, приписването и институционалното авторство остават неустановени. | M | New / Candidate |
 | H77 | Подаръкът PEZ с жълто пате в S02E10 може да е кандидат за същия предмет/предшественик по произход на по-ранната Silo-era жълта пластмасова PEZ реликва със синя дръжка. | M-H | New / Candidate |
 | H78 | Juliette е под умишлена програма за контрол на паметта: фармакологично потискане/блокиране на извличането + невярна заместваща история/обусловяване + наблюдение за възстановяване на защитени спомени. | VH | Refactored / силно подкрепено |
@@ -918,7 +918,7 @@ Observed direct anchors включват:
 ## Hidden lower-system model after S03E04
 
 ```text
-PUBLIC / ORDINARY SILO
+ПУБЛИЧНО НИВО / ORDINARY SILO
         │
         ▼
 privileged IT / surveillance / continuity layer
@@ -928,90 +928,90 @@ privileged IT / surveillance / continuity layer
         └─ local governance / enforcement
         │
         ▼
-SUPERVISORY COMPUTER/SYSTEM ?
+НАДЗОРЕН КОМПЮТЪР/СИСТЕМА ?
         │
-        ├─ knows Juliette treatment/status
-        ├─ evaluates state as `beyond The Order`
-        ├─ semantically evaluates deception/covert behavior
-        ├─ models Juliette risk vs stabilizing utility
-        ├─ requests dosage escalation
-        ├─ plans waterborne population-control contingency
-        ├─ enforces cross-Silo contact as safeguard violation
-        └─ selects/persuades human operatives for lethal action
+        ├─ знае лечението/състоянието на Juliette
+        ├─ оценява състоянието като `beyond The Order`
+        ├─ семантично оценява измама/скрито поведение
+        ├─ моделира риска от Juliette спрямо стабилизиращата ѝ стойност
+        ├─ изисква увеличаване на дозата
+        ├─ планира извънреден контрол на населението чрез водата
+        ├─ третира cross-Silo контакта като нарушение, задействащо safeguard-а
+        └─ подбира/убеждава човешки изпълнители за смъртоносни действия
         │
         ▼
-deep infrastructure / multiple access paths
+дълбока инфраструктура / множество пътища за достъп
         │
-        ├─ mine sector around Level 70
-        ├─ concealed route → hidden door → tunnel → rope descent → abyss/digger zone
-        ├─ Bernard found alive in deep zone
-        └─ previous hidden lower contact/system
+        ├─ минен сектор около Level 70
+        ├─ скрит маршрут → скрита врата → тунел → спускане с въже → пропаст/digger зона
+        ├─ Bernard е намерен жив в дълбоката зона
+        └─ предишният скрит долен контакт/система
                │
-               └─ possible same network/controller ?
+               └─ възможна същата мрежа/контролиращ субект ?
         │
         ▼
-safeguard infrastructure
- external supply → Level 14 pipe → poison → whole-Silo kill
+инфраструктура на safeguard-а
+ външно подаване → тръба при Level 14 → отрова → унищожаване на целия Silo
                          │
-                         └─ physically blockable
+                         └─ физически блокируема
 ```
 
 Граници:
-- `computer/system = hidden lower contact` не е direct-confirmed; това е H80.
-- exact controller на safeguard-а остава unknown.
-- `beyond The Order` не доказва authorship на The Order или absolute authority над всички Silos.
-- ordinary/known deep access може да бъде sealed while concealed alternate access remains functional.
-- Lukas' location is resolved to the mines; original purpose and relation to concealed abyss route остават неустановени.
-- Bernard е жив в deep zone; точният маршрут, role и reason for concealment остават unresolved.
-- outside environmental hazard остава separate lethal mechanism.
+- `computer/system = hidden lower contact` не е директно потвърдено; това е H80.
+- Точният контролиращ субект на safeguard-а остава неизвестен.
+- `beyond The Order` не доказва авторство на The Order или абсолютна власт над всички Silos.
+- Обичайният/познатият достъп до дълбоката зона може да бъде запечатан, докато скрит алтернативен достъп остава функционален.
+- Местоположението на Lukas е изяснено като мините; първоначалната цел и връзката със скрития маршрут към пропастта остават неустановени.
+- Bernard е жив в дълбоката зона; точният маршрут, ролята и причината да бъде скрит остават неустановени.
+- Външната опасност от средата остава отделен смъртоносен механизъм.
 ---
 
-## Surveillance / privileged-control model after S03E04
+## Модел на наблюдението / привилегирования контрол след S03E04
 
-S03E04 показва, че privileged-control environment не е monolithic: computer/system и Sims-side pursuit остават powerful, но nurse + Mechanical ally могат да sabotage treatment, facilitate escape и move Juliette through concealed routes. точната връзка between this covert human network and supervisory system остава неустановено.
+S03E04 показва, че средата на привилегирания контрол не е монолитна: компютърът/системата и преследването от страната на Sims остават мощни, но медицинската сестра + съюзникът от Mechanical могат да саботират лечението, да подпомогнат бягството и да придвижват Juliette през скрити маршрути. Точната връзка между тази скрита човешка мрежа и надзорната система остава неустановена.
 
 ```text
 Juliette / Mayor
       │
-      ├─ surveillance feed → Sims / control room
-      ├─ retrieval-suppression medication
-      ├─ false `bunker` replacement narrative
-      └─ monitored for memory recovery
+      ├─ feed от наблюдението → Sims / control room
+      ├─ лекарство за потискане на извличането на спомени
+      ├─ невярна заместваща история за `bunker`
+      └─ наблюдавана за възстановяване на паметта
                  │
                  ▼
-         computer/system
-         ├─ knows treatment + covert behavior
-         ├─ semantic deception/risk assessment
-         ├─ `beyond The Order` assessment
-         ├─ Juliette utility-vs-risk threshold
-         ├─ water-supply `Vitamin D+` contingency
-         ├─ cross-Silo safeguard enforcement
-         └─ Camille selection / Juliette kill objective
+         компютър/система
+         ├─ знае лечението + скритото поведение
+         ├─ семантична оценка на измамата/риска
+         ├─ оценка `beyond The Order`
+         ├─ праг полезност спрямо риск за Juliette
+         ├─ извънреден сценарий с `Vitamin D+` във водоснабдяването
+         ├─ налагане на safeguard-а при cross-Silo контакт
+         └─ подбор на Camille / цел за убийство на Juliette
 ```
 
 S02E02 разширява модела за скрит контрол отвъд обикновеното вътрешно наблюдение.
 
 ```text
-internal mirror cameras / archived feeds
+вътрешни камери в огледалата / архивирани feeds
                  │
                  ▼
-       Sims operational command
+       оперативно командване на Sims
                  │
                  ▼
-      day-to-day surveillance
+      ежедневно наблюдение
                  │
                  └──────────────┐
                                 │
-                 Bernard / secured IT layer
+                 Bernard / защитен IT слой
                  │              │
-                 ├─ classified cleaning truth
-                 ├─ live Juliette-associated exterior feed
+                 ├─ класифицираната истина за cleaning
+                 ├─ live външен feed, свързан с Juliette
                  ├─ THE ORDER
-                 ├─ privileged archive/display control
-                 └─ can compartmentalize Sims/personnel
+                 ├─ привилегирован контрол върху архиви/display
+                 └─ може да ограничава информацията за Sims/персонала
                                 │
                                 └─ Judge Meadows is read into
-                                   at least THE ORDER + tape secret
+                                   поне THE ORDER + тайната за лентата
 ```
 
 Това подкрепя **ограничен read-in управленски слой**, а не просто частно знание на един човек.
@@ -1239,45 +1239,45 @@ DELIBERATE RESET
               │
               ▼
 ХРОНИЧНО ИЗЛАГАНЕ
-weeks → months → years
+седмици → месеци → години
               │
               ▼
-спомените избледняват / обществената continuity се разпада
+спомените избледняват / обществената приемственост се разпада
               │
               ▼
-MAINTENANCE LAYER
-ограничения върху relics + контролирани archives
+ПОДДЪРЖАЩ СЛОЙ
+ограничения върху реликви + контролирани архиви
               │
               ▼
-~140 years of peace
-(Bernard's causal assessment)
+~140 години мир
+(причинната оценка на Bernard)
 ```
 
-Critical distinction:
+Критично разграничение:
 
 ```text
 PUBLIC
-history access removed
-books/relics suppressed
-memory pharmacologically weakened
+достъпът до историята е премахнат
+книгите/реликвите са потиснати
+паметта е фармакологично отслабена
 
         versus
 
-PRIVILEGED CONTINUITY
-Legacy / protected records
-Quinn truth survives
-Bernard запазва скрита chronology/history
+ПРИВИЛЕГИРОВАНА ПРИЕМСТВЕНОСТ
+Legacy / защитени записи
+истината на Quinn оцелява
+Bernard запазва скрита хронология/история
 ```
 
 Това вече не се моделира най-добре като проста случайна историческа загуба. Най-силният текущ модел е **умишлен публичен исторически reset + привилегировано съхраняване**.
 
-Still unresolved:
-- дали diagnosis на Quinn е била correct;
-- exact waterborne drug;
-- дали current forgetfulness medication от S02E03 е същото substance;
+Все още неустановено:
+- дали диагнозата на Quinn е била правилна;
+- точното лекарство, подавано чрез водата;
+- дали текущото лекарство за забравяне от S02E03 е същото вещество;
 - кой е бил освободен/защитен от излагането;
-- when dosing stopped;
-- точната връзка между reset-а на Quinn и modern relic enforcement.
+- кога е спряло дозирането;
+- точната връзка между историческото заличаване на Quinn и съвременното прилагане на ограниченията върху реликвите.
 
 
 ---
@@ -1332,7 +1332,7 @@ Historical targeting purpose срещу Flamekeeper family lines остава te
 - exact trigger logic отвъд disclosure condition;
 - как lower system detect-ва disclosure и visitors;
 - дали Level 14 safeguard interface е standardized във всички Silos;
-- как Silo 17 parents са открили и physically block-нали pipe-а;
+- как родителите в Silo 17 са открили и физически са блокирали тръбата;
 - дали block може да бъде remotely bypassed/reversed;
 - какъв stopping method Juliette има предвид;
 - exact function на burner/flame airlock cycle;
