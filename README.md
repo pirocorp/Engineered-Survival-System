@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S03E04 control architecture вече е demonstrably internally contested: unknown upstream actor използва medical nurse за covert substitution на Juliette's memory-suppression pills, nurse + Mechanical ally подпомагат escape route-а, а concealed deep access води Juliette до Bernard — жив. Това falsify-ва prior Bernard death/burning account. Pre-Silo линията meanwhile показва tailored co-optation и Pentagon callback с extraordinary discovery.**
+> **След S03E05 fake-death mechanism-ът на Bernard е largely resolved: Robert Sims отказва да го убие, включва Mechanical и инсценира furnace/cremation story. Camille е новият Head of IT и има privileged safeguard read-in от „Гласът“. The Order изрично свързва relic suppression с memory control, Silo 1 следи active radio frequencies, а pre-Silo convergence между AI, clinic и Iran operation + vehicle takeover materially strengthens external-control hypothesis-а.**
 
 ## Език на проекта
 
@@ -30,17 +30,17 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S03E04**
+**Текуща граница на знанието:** **S03E05**
 
-**Статус на гледане:** **Season 3 — S03E04 завършен**
+**Статус на гледане:** **Season 3 — S03E05 завършен**
 
-Не се използва никаква информация след S03E04, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация след S03E05, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S03E04 най-силният работен модел е:
+След S03E05 най-силният работен модел е:
 
-> **Silo system се моделира като layered survival/control architecture с powerful supervisory control, но не и с monolithic human execution layer. Memory suppression може да бъде covertly sabotaged отвътре; Juliette има multi-person support chain; deep-zone има concealed functional access; Bernard's apparent death е falsified; exact coordinators, control hierarchy и long-term objective остават unresolved.**
+> **Silo system се моделира като layered и compartmentalized survival/control architecture. „Гласът“ е privileged supervisory source на instructions над Head-of-IT layer-а; Camille е нов Head of IT, Robert води covert counter-line, safeguard остава whole-Silo kill mechanism с known countermeasure knowledge у Juliette, memory control комбинира drugs + removal of relic cues, а Silo 1 централизирано следи radio frequencies. Exact relation между „Гласът“ и Silo 1 и final safeguard authority остават unresolved.**
 
 Ключови установени линии:
 
@@ -51,7 +51,7 @@
 - S01E05 показва systematic/time-dependent star-like movement на night display-а;
 - observer в cafeteria не знае concept-а „stars“ и сам reconstruct-ва movement patterns;
 - Silo има **144 levels** и Bernard заявява **10 112 current residents**;
-- observed direct level anchors вече включват `1, 8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 67, 70, 76, 87, 119, 120, 123, 124, 144`;
+- директно наблюдаваните level anchors вече включват `1, 8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 67, 70, 76, 87, 95, 119, 120, 123, 124, 144`;
 - Pact deliberately забранява mechanized transport през Silo;
 - Pact забранява magnifying devices над определен threshold;
 - досието на Juliette съдържа информация от разговора ѝ с Holston → силно доказателство за скрито наблюдение/докладване;
@@ -216,6 +216,20 @@
 - recurring pre-Silo man demonstrably използва tailored inducements: The Times offer за journalist-а и sister-treatment continuation за Keen;
 - Pentagon contact се връща след ~седмица с extraordinary discovery, exact content unresolved.
 
+- S03E05 директно потвърждава Camille Sims като нов Head of IT и въвежда in-world label-а **„Гласът“ / the Voice** за privileged supervisory source;
+- Bernard казва, че Camille има safeguard read-in и изрична no-disclosure restriction;
+- Robert Sims директно потвърждава fake-death plan-а за Bernard: отказва се да го убие, включва Mechanical, инсценира furnace/cremation story и го скрива жив под Silo;
+- Juliette, Bernard и Lukas са framed като продължаващи threats; Bernard казва, че „Гласът“ го иска мъртъв;
+- Lukas е открил existential kill authority над Silo, а Juliette знае как да спре safeguard-а;
+- The Order изрично свързва memory-suppression drugs със скриване/премахване на relics, защото relics могат да reactivate-нат suppressed memories;
+- PEZ dispenser-ът demonstrably trigger-ва у Juliette recall за safeguard pipe-а;
+- всеки Silo използва различен radio channel, а **Silo 1 следи всички active frequencies**;
+- Robert организира/подпомага protests Juliette да стане Mayor, за да я направи временно по-трудна за убиване;
+- Level 95 е нов direct spatial anchor;
+- airlock fire cycle е директно идентифициран като sterilization/decontamination procedure с nominal 48-hour inner-door lockout;
+- Pentagon disclosure свързва клиниката на сестрата, prominent AI support и involvement в Iran operation през един influential actor;
+- external takeover на автомобила на Keen и journalist-а materially strengthens deliberate-control hypothesis-а за Iran aircraft anomaly.
+
 Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
 ## Карта на repo-то
@@ -245,6 +259,12 @@
 - [`docs/episodes/S03E02.md`](docs/episodes/S03E02.md) — episode record за S03E02.
 - [`docs/episodes/S03E03.md`](docs/episodes/S03E03.md) — episode record за S03E03.
 - [`docs/episodes/S03E04.md`](docs/episodes/S03E04.md) — episode record за S03E04.
+- [`docs/episodes/S03E05.md`](docs/episodes/S03E05.md) — episode record за S03E05.
+- [`docs/evidence/S03E05-sims-voice-safeguard.md`](docs/evidence/S03E05-sims-voice-safeguard.md) — Camille/Robert, „Гласът“, safeguard hierarchy и lethal threat cluster.
+- [`docs/evidence/S03E05-bernard-fake-death-robert-network.md`](docs/evidence/S03E05-bernard-fake-death-robert-network.md) — Bernard fake death, Mechanical alliance и Robert counter-line.
+- [`docs/evidence/S03E05-memory-relic-radio.md`](docs/evidence/S03E05-memory-relic-radio.md) — relic-triggered memory retrieval, The Order policy, radio isolation и Silo 1 monitoring.
+- [`docs/evidence/S03E05-presilo-ai-iran-vehicle.md`](docs/evidence/S03E05-presilo-ai-iran-vehicle.md) — AI/clinic/Iran convergence и vehicle takeover.
+- [`assets/S03E05/MANIFEST.md`](assets/S03E05/MANIFEST.md) — S03E05 visual evidence manifest.
 - [`docs/evidence/S03E04-memory-escape-network.md`](docs/evidence/S03E04-memory-escape-network.md) — pill substitution, nurse intervention и covert escape/support chain.
 - [`docs/evidence/S03E04-presilo-cooptation-pentagon.md`](docs/evidence/S03E04-presilo-cooptation-pentagon.md) — Keen/journalist evasion, co-optation offers и Pentagon callback.
 - [`docs/evidence/S03E04-deep-route-bernard.md`](docs/evidence/S03E04-deep-route-bernard.md) — concealed abyss route и Bernard alive correction.
@@ -678,6 +698,7 @@ analysis/S03E01-memory-control-supervisory-system
 analysis/S03E02-memory-retrieval-population-control
 analysis/S03E03-safeguard-isolation-deception
 analysis/S03E04-covert-network-abyss-bernard
+analysis/S03E05-voice-safeguard-memory-control
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -687,4 +708,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S03E05`
+**Следваща knowledge boundary:** `S03E06`

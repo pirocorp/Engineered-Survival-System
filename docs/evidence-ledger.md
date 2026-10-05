@@ -1,6 +1,6 @@
 # Evidence регистър
 
-Текуща **knowledge boundary:** **S03E01**
+Текуща **knowledge boundary:** **S03E05**
 
 | ID | Evidence | Клас | Confidence | Бележки |
 |---|---|---|---:|---|
@@ -688,6 +688,118 @@
 | E667 | Bernard's presence creates direct link between former Head of IT and concealed lower-access area. | Structural inference | H | Why/how he is there unresolved. |
 | E668 | Visual evidence corroborates Bernard alive in deep zone after earlier reported death/burning. | Direct visual corroboration + episode context | VH | Supports E664–E666. |
 | E669 | Bernard appears physically injured/debilitated. | Direct visual observation + bounded inference | H | No diagnosis or cause inferred. |
+
+| E670 | След fire/heat събитието съюзници на Juliette от Mechanical отварят скрития достъп и започват да я спускат надолу. | Direct episode event | VH | Начало на извеждането след пожара. |
+| E671 | Bernard е транспортиран заедно с Juliette по същия маршрут към medical sector / medical care. | Direct episode event | VH | Bernard вече е част от активната support chain. |
+| E672 | Mechanical активно извежда Bernard от deep zone и го включва в маршрута за медицинска помощ и подкрепа. | Structural inference | H-VH | Bernard вече не е просто укрит оцелял. |
+| E673 | Sheriff-ът заявява, че след fire sterilization по protocol минават 48 часа, преди вътрешната врата на airlock-а да може отново да се отвори. | Direct institutional/procedural statement | VH | Изричен post-sterilization lockout. |
+| E674 | Airlock-ът има вътрешна врата към Silo, външна врата към outside и sterilization chamber между тях. | Direct structural/procedural information | VH | Потвърждава архитектура с две врати и междинна камера. |
+| E675 | Burner/flame cycle-ът е директно идентифициран като sterilization/decontamination procedure. | Direct functional identification | VH | Отделен механизъм от safeguard-а. |
+| E676 | Silo 18 има nominal 48-hour post-sterilization lockout; наблюдаваното поведение в Silo 17 не изглежда съвместимо с този protocol. | Cross-Silo discrepancy | H | Причината за несъответствието остава open. |
+| E677 | Bernard разказва, че след fire/airlock sequence-а е останал жив и е бил отведен в deep zone под Silo. | Direct testimony | H-VH | По-късно е corroborated от Sims. |
+| E678 | Robert Sims директно заявява, че лично е завел Bernard под Silo, в digger/abyss area. | Direct Sims statement | VH | Директно разкрива organizer/participant. |
+| E679 | Sims е знаел, че Bernard е жив, и лично е участвал в concealment-а му. | Cross-episode conclusion | VH | Затваря основна неяснота от S03E04. |
+| E680 | Bernard death/burning narrative на Sims е deliberate deception, а не misunderstanding. | Cross-episode falsification | VH | По-късните сцени уточняват участниците и прикритието. |
+| E681 | Candidate: Robert вероятно е скрил от Camille факта, че Bernard е жив поне за определен период. | Hypothesis | H-VH | Camille по-късно знае, че Bernard е жив; кога е научила остава unresolved. |
+| E682 | Prior established state: supervisory system-ът отстранява Robert Sims и сина му от privileged vault interaction, докато Camille остава вътре. | Cross-episode context | VH | Релевантно за текущата compartmentalization. |
+| E683 | Robert паралелно е пазил важна тайна: Bernard е жив и укрит в deep zone. | Cross-episode structural conclusion | VH | Показва независима information line при Robert. |
+| E684 | Candidate: Robert може да е укрил Bernard и от supervisory system-а, не само от Camille. | Hypothesis | M-H | Няма direct confirmation. |
+| E685 | Camille казва на Robert, че не може да му разкрива какво се случва във vault-а. | Direct dialogue | VH | Изрична граница на секретност. |
+| E686 | Robert казва, че Bernard също никога не му е казвал какво точно прави във vault-а. | Direct dialogue | VH | Историческа compartmentalization. |
+| E687 | Robert е знаел само, че Bernard получава instructions във vault-а. | Direct dialogue / knowledge-boundary statement | VH | Robert няма пълен read-in. |
+| E688 | Robert не е знаел точната nature на underlying entity/source; in-world терминът е „Гласът“ / the Voice. | Direct terminology + knowledge-boundary reveal | VH | Неутралният analytical label остава supervisory computer/system. |
+| E689 | Robert Sims е operationally powerful, но е compartmentalized away от най-високия privileged information layer. | Structural conclusion | VH | Директно подкрепено от E685–E688. |
+| E690 | Camille има достъп до privileged information layer, до който Robert няма read-in, и е обвързана със secrecy. | Direct + structural conclusion | VH | Потвърждава access asymmetry. |
+| E691 | Terminology refinement: „Гласът“ е direct in-world label; supervisory computer/system е неутрален analytical label; AI не е confirmed identity на Silo-era entity. | Methodological refinement | VH | Предотвратява преждевременна technical identification. |
+| E692 | Camille казва на Robert, че Juliette и Bernard са се върнали обратно вътре в Silo. | Direct dialogue / current-state information | VH | Потвърждава текущото им състояние. |
+| E693 | Camille вече demonstrably знае, че Bernard е жив. | Direct knowledge-state conclusion | VH | Не установява кога е научила. |
+| E694 | Camille казва, че rebellion-ът фактически е приключил в момента, в който Juliette се е появила/върнала. | Direct character assessment | H-VH | Силно подкрепя stabilizing value на Juliette. |
+| E695 | Camille казва, че краят на rebellion-а не означава край на кризата: „това не е краят“. | Direct dialogue | VH | Продължаваща threat framing. |
+| E696 | Control problem-ът се е променил от active rebellion към post-rebellion unresolved threat/crisis. | Structural inference | H | Изведено от framing-а на Camille. |
+| E697 | Camille казва, че въпреки края на rebellion-а Silo все още е изправен пред сериозни опасности. | Direct dialogue | VH | Threat framing остава активен. |
+| E698 | Camille идентифицира Juliette, Bernard и Lukas като текущи threats / опасности за Silo. | Direct character assessment | VH | Изричен threat cluster. |
+| E699 | Threat model-ът на Camille съвпада с по-ранния framing на „Гласът“ за Juliette и за lower/cross-Silo knowledge като survival risk. | Cross-episode structural linkage | H-VH | Точната command wording не е показана. |
+| E700 | Candidate: „Гласът“ е разширил/подсилил threat perception-а на Camille от Juliette към Juliette + Bernard + Lukas. | Hypothesis | H-VH | Подсилено от по-късното изказване на Bernard. |
+| E701 | Robert директно пита Camille дали всъщност му казва да убие Juliette, Bernard и Lukas. | Direct dialogue | VH | Прави lethal implication-а изричен. |
+| E702 | Camille не казва изрично „да“, но не отхвърля killing interpretation-а и effectively го потвърждава в context. | Direct dialogue + contextual interpretation | H-VH | Точната wording остава bounded. |
+| E703 | Juliette + Bernard + Lukas вече са operationalized като potential lethal targets, не само като abstract threats. | Strong structural conclusion | H-VH | Изведено от E698–E702. |
+| E704 | Lethal framing-ът на Camille е consistent с по-ранната Voice-driven logic: threat to Silo survival → human operative → removal/killing. | Cross-episode structural linkage | H-VH | Не доказва direct order за тримата поотделно. |
+| E705 | Camille казва на Robert, че това не е първият случай, когато Head of IT го моли да „отстрани проблем“. | Direct dialogue | VH | Исторически enforcement pattern. |
+| E706 | В непосредствения lethal context „отстраняваш проблемите“ функционира като euphemistic framing за coercive/lethal removal на хора. | Contextual interpretation | H-VH | Context-bound извод. |
+| E707 | Head-of-IT layer исторически е използвал Robert Sims като operational problem-removal/enforcement asset. | Structural conclusion | H-VH | Pattern-ът е подкрепен от E705. |
+| E708 | Bernard заявява, че знае/вярва, че „Гласът“ го иска мъртъв. | Direct Bernard statement | VH | Желанието на „Гласът“ остава direct claim на Bernard, докато не бъде independently confirmed. |
+| E709 | Survival state-ът на Bernard го поставя в direct conflict с „Гласът“/supervisory layer. | Strong structural inference | H-VH | Подкрепено от convergence-а на threat lines. |
+| E710 | Claim-ът на Bernard independently converges с lethal framing-а на Camille за Bernard като threat. | Cross-scene convergence | H-VH | Две отделни evidence lines. |
+| E711 | Bernard казва на Robert: „Могат да ни убият по всяко време.“ | Direct Bernard statement | VH | По-високият actor е implied от context-а. |
+| E712 | Изказването на Bernard strongly implies, че higher layer може да terminate-не Silo 18 чрез safeguard / whole-Silo kill capability. | Contextual cross-episode inference | H-VH | Mechanism-ът е свързан чрез surrounding safeguard discussion. |
+| E713 | Head of IT, Sims/Judicial и local governance не притежават ultimate survival sovereignty над Silo. | Structural conclusion | H-VH | По-висок layer запазва existential leverage. |
+| E714 | Bernard казва, че Lukas Kyle е открил факта/информацията, че higher layer може да ги убие „по всяко време“. | Direct Bernard statement | VH | Приписва discovery-то на Lukas. |
+| E715 | Investigation-ът на Lukas в lower/deep system-а е довел до discovery за existential control над целия Silo, не само до spatial/cross-Silo knowledge. | Strong cross-episode conclusion | H-VH | Разширява ролята на Lukas. |
+| E716 | Bernard казва на Robert Sims, че Juliette знае как да спре safeguard-а. | Direct Bernard statement | VH | Изрично safeguard wording. |
+| E717 | Juliette притежава practical countermeasure knowledge срещу whole-Silo safeguard system. | Direct cross-episode conclusion | VH | Подсилва S02E10 claim-а на Juliette. |
+| E718 | Robert Sims тръгва с намерение да убие Bernard, но в последния момент се отказва. | Direct episode event | VH | Motive-ът за reversal остава unresolved. |
+| E719 | Bernard е преместен/влачен така, че да изглежда като мъртво тяло. | Direct episode event | VH | Част от staged-death operation. |
+| E720 | Вместо да убие Bernard, Sims го скрива жив под Silo в digger/deep excavation pit. | Direct episode reveal | VH | Директно resolves concealment destination. |
+| E721 | Bernard fake-death mechanism: intended killing → reversal → apparent-corpse transport → concealment alive below Silo. | Cross-episode resolution | VH | Допълнително refined от Mechanical/furnace plan-а. |
+| E722 | Robert Sims търси помощ от Mechanical срещу current IT lethal line и за concealment-а на Bernard. | Direct episode action | VH | Установява alliance. |
+| E723 | Robert казва на Mechanical, че Camille Sims е новият Head of IT. | Direct role confirmation | VH | Succession-ът е confirmed. |
+| E724 | Prior selection-ът на Camille от „Гласът“ е operationally реализиран като Head-of-IT succession. | Cross-episode resolution | VH | Затваря предишния candidate status. |
+| E725 | Robert казва на Mechanical, че Camille иска Juliette да умре. | Direct Robert statement about Camille objective | VH | Прави lethal objective-а изричен чрез Robert. |
+| E726 | Robert действа срещу lethal objective-а на новия Head of IT и търси alliance с Mechanical. | Strong structural conclusion | H-VH | Ясен internal split. |
+| E727 | Robert иска помощ от Mechanical, за да скрият Bernard жив. | Direct episode action/dialogue | VH | Mechanical е participant. |
+| E728 | Планът е Bernard да бъде укрит така, че останалите да вярват, че тялото му е изгорено във furnaces. | Direct stated plan | VH | Изричен fake-cremation cover story. |
+| E729 | Reported cremation на Bernard е deliberate staged cover story, организирана от Robert Sims с помощ от Mechanical. | Cross-episode resolution | VH | Основна S03E01 correction. |
+| E730 | По-ранният body transport toward furnaces се reclassify-ва като част от fake-death operation, не като proof за cremation. | Historical evidence reinterpretation | VH | Запазва history без silent overwrite. |
+| E731 | Robert Sims организира/подпомага protests, които настояват Juliette да стане Mayor. | Direct episode reveal | VH | Political protective maneuver. |
+| E732 | Целта е public elevation на Juliette да направи immediate killing-а ѝ политически/социално по-труден за Camille. | Direct motive/context + structural conclusion | H-VH | Temporary protection. |
+| E733 | Post-return mayoral position на Juliette е поне частично резултат от deliberate protective maneuver на Robert Sims. | Cross-episode resolution | H-VH | Не е задължително единствената причина. |
+| E734 | Robert използва public legitimacy/stabilizing value на Juliette като temporary shield срещу Head-of-IT lethal objective. | Strong structural inference | H-VH | Consistent с по-ранния utility model. |
+| E735 | S03E05 показва повтарящ се covert protective pattern при Robert: fake death на Bernard + Mechanical alliance + mayoral protests за Juliette. | Cross-scene behavioral pattern | VH | Прави Robert strong coordinator candidate. |
+| E736 | Candidate: Robert Sims може да е unknown upstream actor, който е инструктирал nurse-а да подменя memory-suppression medication на Juliette. | Hypothesis | H | Strong candidate, без direct confirmation. |
+| E737 | Bernard казва, че The Order свързва memory-suppression protocol-а с необходимостта relics/предмети от миналото да бъдат скривани. | Direct Bernard report of The Order | H-VH | По-късно direct-confirmed в разговор. |
+| E738 | Според Bernard relics могат да действат като memory cues и да предизвикват връщане на suppressed memories. | Direct Bernard report | H-VH | Mechanism-ът по-късно е demonstrated. |
+| E739 | Relic suppression е functional component на memory-control architecture. | Structural conclusion | VH | Direct-confirmed от E741–E742. |
+| E740 | Memory-control architecture комбинира pharmacological suppression и removal/concealment на memory-retrieval cues. | Cross-system conclusion | VH | Directly supported в S03E05. |
+| E741 | Bernard, Robert Sims и Martha Walker изрично потвърждават в разговор, че relics от миналото могат да trigger-нат връщане на suppressed memories. | Direct dialogue | VH | Direct confirmation на cue mechanism-а. |
+| E742 | The Order изисква relics да бъдат скривани/премахвани, защото могат да функционират като retrieval cues за memories, които pharmacological suppression цели да потисне. | Direct institutional-policy explanation | VH | Основно resolution на relic policy. |
+| E743 | Bernard обяснява на Martha Walker, че всеки Silo използва различен radio communication channel. | Direct Bernard explanation | VH | Изрично channel separation. |
+| E744 | Поради различните channels ordinary radio communications на един Silo не се чуват от другите Silos. | Direct technical explanation | VH | Обяснява normal isolation. |
+| E745 | Inter-Silo radio isolation е част от communication architecture, не само резултат от distance/social policy. | Structural conclusion | VH | Изведено от channel separation. |
+| E746 | Communication design-ът помага да се enforce-ва broader Silo-to-Silo isolation. | Cross-system inference | H-VH | Deliberate design purpose е strongly suggested. |
+| E747 | Bernard обяснява, че Silo 1 следи всички active radio frequencies на останалите Silos. | Direct Bernard explanation | VH | Central monitoring layer. |
+| E748 | Макар всеки Silo да използва различен channel, Silo 1 има visibility върху всички active frequencies. | Direct technical/architectural conclusion | VH | Central observability. |
+| E749 | All-frequency monitoring-ът на Silo 1 дава plausible mechanism за detect-ване на unauthorized inter-Silo radio contact. | Strong structural inference | H-VH | Automatic safeguard link не е proven. |
+| E750 | Bernard казва на Robert, че Camille е била информирана за safeguard-а. | Direct Bernard statement | VH | Head-of-IT read-in. |
+| E751 | На Camille изрично е забранено да говори с когото и да е за safeguard-а. | Direct Bernard statement | VH | Изрично no-disclosure rule. |
+| E752 | Secrecy-то на Camille към Robert е част от formal compartmentalization around safeguard knowledge, не само personal choice. | Cross-scene structural conclusion | H-VH | Подкрепено от E685 + E750–E751. |
+| E753 | S03E05 директно показва Level 95. | Direct visual evidence | VH | Нов spatial anchor. |
+| E754 | Level 95 е активно използван вътрешен transit/stairwell area в current post-rebellion Silo 18. | Direct visual/contextual observation | H-VH | По-специфична function отвъд transit не е established. |
+| E755 | Robert Sims връща PEZ dispenser-а на Juliette, след което тя си спомня за pipe-а. | Direct episode event | VH | Relic-ът непосредствено предхожда recall-а. |
+| E756 | PEZ relic-ът функционира като конкретен external memory-retrieval cue за Juliette. | Direct demonstrated mechanism | VH | Demonstrates rationale-а на The Order. |
+| E757 | Relic-triggered recall възстановява protected memory, свързана със safeguard infrastructure / pipe. | Direct contextual conclusion | VH | Safeguard-pipe memory. |
+| E758 | S03E05 показва construction board с `FRAME ASSEMBLY + RISER INSTALLATION` и checklist за welding, alignment, tread installation и cross braces. | Direct visual evidence | VH | Exact board text и visible workflow. |
+| E759 | Board-ът показва organized construction-stage workflow за vertical internal infrastructure assembly, не improvisational later repair. | Structural inference | H | Не се equate-ва автоматично със safeguard pipe. |
+| E760 | Daniel Keen отива на нова среща с Pentagon contact-а, след като contact-ът сам се свързва отново. | Direct episode event | VH | Callback-ът е реализиран. |
+| E761 | Pentagon contact-ът преди е отказвал да даде information по sister/Iran line-а, но сега казва, че е размислил. | Direct dialogue / decision reversal | VH | Преминава от withholding към disclosure. |
+| E762 | Pentagon line преминава от deliberate withholding към active disclosure. | Structural conclusion | H-VH | Значима промяна в source behavior. |
+| E763 | Pentagon disclosure свързва човек от sister's clinic с prominent support/backing на AI. | Direct disclosed information | VH | Exact title/role на actor-а ще се normalizes, ако по-късно бъде named. |
+| E764 | Същият actor има участие/влияние в Iran operation-а. | Direct disclosed information | VH | Създава multi-domain link. |
+| E765 | Iran operation, sister treatment и AI-linked actor се пресичат през един и същ човек. | Structural convergence | VH | Directly derived от E763–E764. |
+| E766 | Candidate: sister treatment може да включва memory suppression/retrieval blocking, за да предотврати recall на sensitive Iran information. | Hypothesis | H | Все още няма direct treatment/memory evidence. |
+| E767 | След като Keen споделя опасенията си с journalist-а, control над автомобила, в който се возят, е поет без тяхно съгласие. | Direct episode event | VH | External takeover е demonstrated. |
+| E768 | Keen и journalist-ът губят normal control върху автомобила; pre-Silo setting demonstrably има external/remote vehicle-control capability. | Direct functional conclusion | H-VH | Exact mechanism/actor остава unknown. |
+| E769 | Vehicle takeover materially strengthens hypothesis-а, че Iran aircraft anomaly може да включва deliberate external control, не само generic communications/electronic failure. | Cross-scene inference | H-VH | Не доказва same technology. |
+| E770 | Candidate: same actor/network или related control technology може да стои зад civilian vehicle takeover и military aircraft anomaly. | Hypothesis | H | Same actor/technology остава unproven. |
+
+## Визуални източници — S03E05
+
+Binary assets са качени отделно в `main` преди analysis PR-а и са валидирани чрез Git blob SHA comparison:
+
+- [Level 95](../assets/S03E05/screenshots/level-95.jpeg)
+- [Riser installation construction board](../assets/S03E05/screenshots/riser-installation-construction-board.jpeg)
+- [S03E05 visual evidence manifest](../assets/S03E05/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset, не primary evidence.
 
 ## Визуални източници — S03E04
 
