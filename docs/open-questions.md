@@ -94,7 +94,7 @@
 
 ## Geography / vertical movement
 
-69. Exact level ranges на Up-top, Mids и Down-deep какви са?
+69. Exact level обхватs на Up-top, Mids и Down-deep какви са?
 70. Formal administrative divisions ли са или cultural regions?
 71. Level 14 official Judicial level ли е?
 72. На кое level е indoor garden / funeral space?
@@ -106,7 +106,7 @@
 78. Как се организира веригата за доставки при 144 levels и умишлената забрана на механизиран транспорт?
 79. Porters имат ли специален достъп/правила?
 80. Каква е **причината** Pact да забранява механизиран транспорт?
-81. Safety/security rationale ли е, social-control rationale ли е, или combination?
+81. Safety/security rationale ли е, social-control rationale ли е, или комбинация?
 82. Original Silo design имал ли е capacity за elevators/mechanical transport, която е deliberately suppressed?
 
 ## Magnification / observation capability
@@ -259,7 +259,7 @@
 185. Каква е exact origin/history на Flamekeepers?
 186. Flamekeepers част от Rebellion ли са, предшественици ли са, allies ли са или отделна group?
 187. Кой исторически източник независимо потвърждава, че Flamekeepers са пазели история/реликви?
-188. **ЧАСТИЧНО СТЕСНЕНО в S02E08:** Quinn е confiscate-нал books като част от historical reset-а при последния Rebellion. Остава open дали той е authored и formal modern relic prohibition, или по-късно leadership го е institutionalized.
+188. **ЧАСТИЧНО СТЕСНЕНО в S02E08:** Quinn е confiscate-нал books като част от historical reset-а при последния Rebellion. Остава open дали той е authored и formal modern relic prohibition, или по-късно ръководството го е institutionalized.
 189. **СИЛНО ЗАСИЛЕНО в S02E08:** умишленият исторически reset на Quinn дава пряка привилегирована обосновка за потискането на носителите на историческа памет; остава отворено дали съвременната забрана на реликви е изрично документирана като поддържащ слой на тази политика.
 190. **ЧАСТИЧНО РАЗРЕШЕНО в S02E08:** Bernard описва химикал/лекарство във водата, което кара спомените да избледняват. Точното съединение/формула остава неизвестно.
 191. **СВИДЕТЕЛСТВОТО Е ПОТВЪРДЕНО в S02E08:** Bernard независимо потвърждава по-стария Flamekeeper разказ за потискане на паметта чрез водата. Физическите химически/медицински доказателства и инженерното изпълнение на доставянето остават отворени.
@@ -397,7 +397,7 @@
 278. Какъв материал/спецификация е alternate tape used for Juliette?
 279. **СИЛНО СТЕСНЕНО в S02E02:** вътрешните свидетелства силно подкрепят умишлено/системно по-лошата стандартна лента; точният замисъл/калибриране все още трябва да бъде установен технически.
 280. Кой обичайно доставя/избира standard tape?
-281. Кой arranged the alternate tape for Juliette and with what intent?
+281. Кой arобхватd the alternate tape for Juliette and with what intent?
 282. Повредата на уплътнението позволява ли external contaminant да проникне, дихателен газ да изтича, или и двете?
 283. Колко дълго стандартен cleaner може да survive при здраво спрямо повредено уплътнение?
 284. Bernard/Sims откъде знаят expected death point near the tree?
@@ -457,31 +457,31 @@
 323. Кой/как е прекъснал IT bridge-а и кога?
 324. Generator 15-minute message какво точно означава и свързан ли е с IT conflict-а?
 
-## S02E01 — outside hazard / suit breathing
+## S02E01 — външна опасност / дишане в костюма
 
-325. Какъв exact airborne/atmosphere-borne agent причинява exterior deaths?
-326. Chemical toxin, gas, aerosol/particulate, pathogen/bioaerosol или друг mechanism ли е?
+325. Какъв exact въздушен/атмосферен агент причинява смъртните случаи навън?
+326. Химически токсин, gas, аерозол/частици, патоген/биоаерозол или друг mechanism ли е?
 327. Колко бързо настъпват симптоми/смърт при излагане без защита, предвид свидетелството в S02E03, че интензитетът на опасността може временно да се разсее и по-късно да се върне?
-328. Каква е exact suit breathing architecture — stored gas, rebreather, filtered supply или друго?
-329. Standard tape позволява ли contaminant ingress, загуба на дихателен газ, или и двете? S02E02 strengthens both seal-failure pathways but does not technically distinguish them.
-330. Juliette's alternate tape колко materially удължава sealed survival?
+328. Каква е exact архитектурата за дишане в костюма — съхраняван газ, rebreather, филтрирано подаване или друго?
+329. Standard tape позволява ли проникване на замърсител, загуба на дихателен газ, или и двете? S02E02 strengthens both пътищата на отказ на уплътнението but does not technically distinguish them.
+330. Juliette's alternate tape колко съществено удължава оцеляването при запечатан костюм?
 331. Pure radiation има ли secondary role, включително airborne radioactive particulate, или може practically да се отхвърли?
 
 ## S02E01 — second-Silo infrastructure / survivor
 
-332. Кой е living survivor-ът в secured IT compartment и каква е ролята му?
+332. Кой е living оцелелият в secured IT compartment и каква е ролята му?
 333. От колко време е там и как е осигурявал food/water/air?
 334. Има ли други survivors в Silo-а?
 335. **СИЛНО ПОДКРЕПЕНО in S02E03:** analogous secured IT vaults съществуват в Silos 17 и 18; universal ли е това във всички Silos?
 336. **ЧАСТИЧНО РАЗРЕШЕНО в S02E05:** оцелелият от Silo 17 казва, че IT има собствено независимо захранване от външен източник; точната технология/местоположение на източника остава отворено.
 337. Кои systems продължават автоматично да работят без normal population/operations?
-338. **В ЗНАЧИТЕЛНА СТЕПЕН РАЗРЕШЕНО in S02E05:** Level 144 pump е destroyed по време на rebellion с цел flooding на Mechanical; water продължава да се покачва, достига generator-а преди repair и продължава да се покачва в present. Exact hydraulic path/timing остава open.
-339. S02E05 establishes Silo 17 flooding as a deliberate rebellion sabotage cascade. Common failure mode ли е elsewhere, or Silo-17-specific event?
+338. **В ЗНАЧИТЕЛНА СТЕПЕН РАЗРЕШЕНО in S02E05:** Level 144 помпата е унищожена по време на rebellion с цел наводняване на Mechanical; водата продължава да се покачва, достига генератора преди ремонта и продължава да се покачва в present. Точният хидравличен път/времеви ход остава open.
+339. S02E05 establishes Silo 17 flooding as a умишлена саботажна каскада по време на бунта. Общ режим на отказ ли е другаде, or събитие, специфично за Silo 17?
 340. Има ли structural connection между second-Silo flooding и known flooded-bottom/lower-tunnel evidence in Juliette's Silo?
 
 ## S02E01 — cross-Silo governance / surveillance
 
-341. Mirror-camera surveillance common original design ли е за всички Silos?
+341. Mirror-camera surveillance общ първоначален дизайн ли е за всички Silos?
 342. Surveillance feeds могат ли да се observe-ват извън individual Silo?
 343. Има ли one current central authority над Silos или only common inherited governance template?
 344. Всеки Silo има ли Bernard-equivalent privileged IT/control role?
@@ -496,11 +496,11 @@
 350. Young Juliette как е получила access до excavation machine?
 351. Има ли excavation machine връзка с класифицирания долен тунел/врата или с възможно строителство/свързаност между Silos?
 
-## S02E02 — live cleaner feed / archive pipeline
+## S02E02 — live feed за cleaner-а / архивен pipeline
 
 352. Къде точно е източникът камера за live feed-а от външната среда — шлем, костюм или отделно устройство?
 353. Как feed-ът, свързан с Juliette, се предава извън Silo — радио, relay, кабелно свързана система или друг механизъм?
-354. Защо signal-ът се губи при влизането във втория Silo — shielding, range, architecture, deliberate blocking или друго?
+354. Защо сигналът се губи при влизането във втория Silo — екраниране, обхват, architecture, умишлено блокиране или друго?
 355. `JANE CARMODY CLEANING` и другите cleaning файлове записи от същия live pipeline ли са?
 356. Archive-ът пази raw camera input, wearer-visible lush-rendered output, processed composite или parallel streams?
 357. Може ли Bernard/IT да записва всеки cleaner live и за колко време се пазят записите?
@@ -513,32 +513,32 @@
 361. Какви са access rules за `THE ORDER`?
 362. Judge Meadows знае ли целия документ или само части от doctrine-а?
 363. Sims знае ли за `THE ORDER`?
-364. Каква е formal relation `THE ORDER` ↔ Pact?
-365. `THE ORDER` legally supersede-ва ли Pact-а при crisis, или е covert operational guidance?
+364. Каква е формалната връзка `THE ORDER` ↔ Pact?
+365. `THE ORDER` правно отменя/заменя ли Pact-а при crisis, или е скрито оперативно ръководство?
 366. Всеки Silo има ли собствено копие на `THE ORDER`?
 367. **СИЛНО ПОДКРЕПЕНО, но произходът не е потвърден в S02E03:** Silo 17 дава конкретен случай failed cleaning → rebellion; използван ли е този или по-ранни случаи за извеждане на doctrine-а?
 368. Ако да, колко предишни случаи на failed cleaning / rebellion са били известни на авторите?
 369. Second-Silo collapse един от cases, върху които doctrine-ът е based, ли е?
 370. Има ли други trigger conditions в `THE ORDER`, които activate crisis protocols?
 
-## S02E02 — tape mechanism / cleaning ritual
+## S02E02 — механизъм на лентата / cleaning ритуал
 
 371. Каква е точната разлика в материала/спецификацията между стандартната cleaning лента и „добрата“ лента?
-372. Кой deliberately selects/supplies standard tape for cleanings?
-373. S02E03 further strengthens this: standard tape/protection may fail in a short predictable window distinct from variable outside-hazard timing. Deliberately calibrated ли е?
+372. Кой умишлено избира/доставя standard tape for cleanings?
+373. S02E03 допълнително засилва това: standard tape/protection may fail in a кратък предвидим прозорец distinct from променливото време на външната опасност. Умишлено калибрирана ли е?
 374. Ако има predictable window, deliberately calibrate-ната ли е така, че cleaner-ът да има време да почисти и после да умре **видимо пред sensor-а**?
-375. Основният failure mode contaminant ingress ли е?
-376. Основният failure mode загуба на дихателен газ ли е?
+375. Основният режим на отказ проникване на замърсител ли е?
+376. Основният режим на отказ загуба на дихателен газ ли е?
 377. Двата mechanisms едновременно ли действат?
-378. Има ли separate suit air supply и какъв е exact capacity/mechanism?
+378. Има ли отделно подаване на въздух в костюма и какъв е exact капацитет/механизъм?
 379. Какво точно е знаела жената, която сменя tape-а, за suit breathing system-а?
-380. Meadows откъде знае, че "good tape" materially improves exterior survival?
-381. Bernard откъде знае expected standard-cleaner death timing?
+380. Meadows откъде знае, че "good tape" съществено подобрява оцеляването навън?
+381. Bernard откъде знае expected standard-cleaner времето до смърт?
 382. Cleaning protocol historically designed ли е като public legitimacy ritual, или този effect е emergent/institutionally exploited?
-383. Ако cleaner откаже да clean-не, как `THE ORDER` classify-ва това спрямо failed cleaning?
+383. Ако cleaner откаже да clean-не, как `THE ORDER` класифицира това спрямо failed cleaning?
 384. Ако cleaner-ът почисти, но не умре, това ли е точното условие за failed cleaning?
 
-## S02E02 — secured IT / privileged read-in layer
+## S02E02 — secured IT / привилегирован read-in слой
 
 385. Какво точно има зад secured IT vault door в Juliette's Silo?
 386. Всички привилегировани системи — `THE ORDER`, live feed от външната среда, архивите — физически ли са зад този защитен слой?
@@ -546,9 +546,9 @@
 388. Кой има physical access до Juliette-Silo secured IT compartment?
 389. Judge Meadows има ли direct access или само shared knowledge?
 390. Кой друг senior actor е read-in за tape secret-а?
-391. Privileged read-in layer formal institution ли е или overlapping access между IT/Judicial leadership?
+391. Privileged read-in layer формална институция ли е или припокриващ се достъп между IT/Judicial ръководството?
 392. Има ли текуща власт над Bernard/Meadows, която контролира doctrine-а `THE ORDER`?
-393. Secured IT compartments между Silos direct communication/control nodes ли са?
+393. Защитените IT помещения между Silos директни комуникационни/контролни възли ли са?
 
 ## S02E02 — rebellion symbol
 
@@ -559,10 +559,10 @@
 
 ## S02E03 — 50 Silos / numbering
 
-398. Може ли твърдението за **50 Silos** да бъде независимо corroborate-нато чрез `SILO_COUNT`, map, `THE ORDER` или another institutional source?
+398. Може ли твърдението за **50 Silos** да бъде независимо corroborate-нато чрез `SILO_COUNT`, map, `THE ORDER` или друг институционален източник?
 399. Juliette's Silo formally designated ли е `Silo 18` в direct institutional text/dialogue?
-400. Key `18` numbered by **Silo identity** ли е, by access zone, or by another scheme?
-401. HDD 18 също Silo-18-specific object ли е, или number overlap остава coincidence?
+400. Key `18` номериран по **идентичността на Silo** ли е, по зона за достъп, or by друга схема?
+401. HDD 18 също предмет, специфичен за Silo 18 ли е, или съвпадението на номера остава coincidence?
 402. Как са spatially подредени 50-те Silos и Silo 17/18 adjacent ли са по numbering design?
 
 ## S02E03 — Ron / failed cleaning / rebellion
@@ -571,22 +571,22 @@
 404. Кой е написал `LIES` на internal cafeteria display три дни по-късно?
 405. Как technically е поставено/инжектирано `LIES` съобщението на display-а?
 406. Какъв е точният интервал между failed cleaning, вътрешното `LIES`, rebellion и масовото излизане?
-407. Какво конкретно превръща instability в organized rebellion — cleaner survival belief, hidden messages, faction leadership, или combination?
+407. Какво конкретно превръща instability в организиран бунт — убеждението за оцеляване на cleaner-а, скрити съобщения, faction ръководството, или комбинация?
 408. Silo 18 след Juliette следва ли същия repeatable social cascade като Silo 17?
 
-## S02E03 — outside dust/poison
+## S02E03 — външен прах/отрова
 
-409. Какво точно е dust/poison agent-ът?
+409. Какво точно е агентът на праха/отровата-ът?
 410. Weather/airflow ли причинява временното му dispersal, или има artificial/systemic source?
 411. Hazard-ът continuous background ли е с variable concentration, periodic plume ли е, или се release-ва event-driven?
 412. Колко дълго може човек да остане unprotected при temporarily low concentration?
-413. Cleaner suit death timing independent ли е от hazard concentration при standard tape failure?
+413. Cleaner suit времето до смърт independent ли е от концентрацията на опасността при повредата на стандартната лента?
 
 ## S02E03 — Russell / vault / Server Room
 
-414. Russell Bernard-equivalent Head of IT ли е, another privileged role ли е, or something else? S02E04 confirms only that the survivor was a child during the rebellion and Russell had власт/достъп to place him in the vault.
-415. **ПРЕФОРМУЛИРАНО in S02E04:** survivor-ът е бил дете, когато Russell го е поставил/затворил във vault-а. Защо е избрано точно това дете?
-416. **СИЛНО СТЕСНЕНО в S02E07:** vault-ът на Silo 18 директно включва жилищно/обитаемо пространство + библиотеката `Legacy`, докато Silos 17/18 показват IT continuity power. Точният стандартизиран капацитет за обитатели, запасите и пълният набор от защитени системи остават отворени въпроси.
+414. Russell еквивалент на Bernard като Head of IT ли е, друга привилегирована роля ли е, или нещо друго? S02E04 потвърждава само that the survivor was a child during the rebellion and Russell had власт/достъп to place him in the vault.
+415. **ПРЕФОРМУЛИРАНО in S02E04:** оцелелият е бил дете, когато Russell го е поставил/затворил във vault-а. Защо е избрано точно това дете?
+416. **СИЛНО СТЕСНЕНО в S02E07:** vault-ът на Silo 18 директно включва жилищно/обитаемо пространство + библиотеката `Legacy`, докато Silos 17/18 показват IT резервно захранване. Точният стандартизиран капацитет за обитатели, запасите и пълният набор от защитени системи остават отворени въпроси.
 417. Съдържа ли vault-ът `THE ORDER`, информация за състоянието на други Silos, комуникационни или контролни системи?
 418. Key `18` unlock-ва само Server Room ли, или и вътрешния vault access chain?
 419. Всеки Silo има ли physical key numbered by its Silo designation?
@@ -599,20 +599,20 @@
 423. Кой е над Bernard, ако local IT custodian knowledge-ът е intentionally partial?
 424. Колко други failed/dead Silos знае Bernard?
 
-## S02E03 — memory suppression
+## S02E03 — потискане на паметта
 
 425. Какъв е exact medication, който Sims предлага за forgetting?
 426. Complete erasure ли причинява, weakened recall, confusion, or selective amnesia?
 427. Колко дълго трае effect-ът и reversible ли е?
 428. Witnesses from Juliette broadcast действително ли са забравили видяното?
 429. **СИЛНО РЕЛЕВАНТНО след S02E08:** историческото потискане на паметта чрез водата е независимо потвърдено от Bernard, но идентичността му с текущото S02E03 лекарство за забравяне остава неустановена.
-430. Кой authorizes targeted memory suppression and как се документира?
+430. Кой разрешава целево потискане на паметта and как се документира?
 
 ## S02E03 — The Syndrome
 
 431. Meadows' reaction-to-Silo-life theory има ли medical evidence?
 432. Какъв mechanism би свързал Silo living conditions с observed motor/cognitive symptoms?
-433. The Syndrome реално disease entity ли е, stress/environment response ли е, or institutional label covering multiple causes?
+433. The Syndrome реално заболяване като самостоятелна единица ли е, реакция на стрес/среда ли е, or институционален етикет покриващ множество причини?
 
 ## S02E03 — cleaner visual asset / lost vocabulary
 
@@ -624,8 +624,8 @@
 ## S02E03 — CODE SILO ORANGE / репродуктивен контрол
 
 438. Кой assigns `CODE SILO ORANGE` на конкретен patient/procedure?
-439. Какви selection criteria trigger covert retention of birth control?
-440. Code Orange same protocol ли е across all Silos?
+439. Какви критерии за подбор задействат скритото запазване of birth control?
+440. Code Oобхват same protocol ли е across all Silos?
 441. Как medical staff са compelled/authorized да deceive patients and who audits compliance?
 
 ## S02E03 — chronology correction
@@ -648,35 +648,35 @@
 454. Scapegoating Mechanical цели ли да isolate-не хората, които контролират generator-а, преди те да се присъединят към unrest?
 455. Sims знае ли explicit `THE ORDER` Mechanical-blame doctrine-а, или неговата agitation е independent/convergent behavior?
 
-## S02E04 — mines / penal labor
+## S02E04 — мини / наказателен труд
 
 456. Къде physical се намират мините спрямо Level 144, excavation cavity и known lower structures?
 457. Какъв ore/metal се добива?
 458. Как metal extraction се връзва с refining, fabrication и Silo manufacturing chain?
 459. Какви offenses могат да доведат до penal mining assignment?
-460. Каква е typical sentence duration и има ли реален release/return mechanism?
+460. Каква е типичната продължителност на присъдата и има ли реален механизъм за освобождаване/връщане?
 461. Има ли voluntary miners, или workforce-ът е predominantly penal?
 462. Mining casualties/health effects как се управляват институционално?
 
 ## S02E04 — Silo 17 survivor / childhood vault timeline
 
-463. На колко години е бил survivor-ът, когато rebellion-ът започва?
-464. Каква е exact relation Russell ↔ child survivor?
-465. Emergency personal decision ли е било поставянето му във vault-а, или standardized continuity protocol?
-466. Как child survivor-ът е получавал food/water/air и е оцелял до adulthood?
+463. На колко години е бил оцелелият, когато rebellion-ът започва?
+464. Каква е точната връзка Russell ↔ child survivor?
+465. Спешно лично решение ли е било поставянето му във vault-а, или стандартизиран протокол за приемственост?
+466. Как child оцелелият е получавал food/water/air и е оцелял до adulthood?
 467. Имало ли е други хора първоначално във vault-а?
-468. Какво е знаел/научил survivor-ът за vault systems през годините?
+468. Какво е знаел/научил оцелелият за vault systems през годините?
 
 ## S02E04 — Salvador Quinn / hard drive / Meadows
 
 469. Кой точно hard drive има предвид Meadows — HDD 18 ли е или друг drive?
 470. Какво конкретно е съдържал drive-ът за Salvador Quinn?
 471. **ДОПЪЛНИТЕЛНО СТЕСНЕНО в S02E08:** вече е познат един декодиран финален ред — `If you've gotten this far, you already know the game is rigged.` („Ако си стигнал дотук, вече знаеш, че играта е нагласена.“) Пълният четим текст и останалото защитено съобщение остават неустановени.
-472. Какъв exact cipher/encoding използва final section на Quinn letter и защо?
+472. Какъв точният шифър/кодиране използва финалната част на Quinn letter и защо?
 473. **ЧАСТИЧНО СТЕСНЕНО в S02E08:** декодираната формулировка е изрично насочена към бъдещ читател, който вече е стигнал достатъчно далеч, за да знае, че системата е `rigged` („нагласена“); точният предвиден човек/група и причината за криптирането остават отворени.
 474. Meadows успяла ли е да decode-не letter-а?
 475. Какво е правила Meadows през четирите дни, когато е изчезнала преди ~25 години?
-476. Четиридневното изчезване свързано ли е с Quinn, encoded letter, hard drive or another forbidden archive?
+476. Четиридневното изчезване свързано ли е с Quinn, кодираното писмо, hard drive or друг забранен архив?
 477. Какво е научила Meadows, което я кара да abandon-не Bernard's shadow path?
 478. Bernard знае ли пълното съдържание на Quinn material-а?
 479. Защо Bernard би унищожил drive-а, ако Meadows' suspicion е вярно?
@@ -690,24 +690,24 @@
 484. Защо privileged IT запазва immersive pre-Silo natural-world environments?
 485. Кой освен Bernard има access до този headset/archive?
 486. Jane Carmody cleaner imagery и Monteverde headset content част от един и същ archive/catalog ли са?
-487. Immersive system има ли audio/other sensory channels, or only visual presentation?
+487. Immersive system има ли аудио/други сензорни канали, or само визуално представяне?
 
-## S02E04 — Meadows murder / Mechanical framing
+## S02E04 — убийството на Meadows / натопяването на Mechanical
 
 488. Как Bernard technically отравя Meadows и как death cause ще бъде представена официално?
 489. Какви fabricated/real evidence elements Bernard оставя, за да frame-не Mechanical?
 490. Mechanical representatives ще бъдат arrest-нати ли като suspects?
-491. Каква официалният разказ ще бъде публикувана за Meadows' death?
+491. Каква официалният разказ ще бъде публикувана за смъртта на Meadows?
 492. Успява ли Bernard да convince-не population-а, че Mechanical я е убил?
 493. Как frame-up-ът operationally следва exact `THE ORDER` crisis procedure?
 
 ## S02E04 — Sims / Bernard power conflict
 
-494. Bernard's claim, че Sims стои зад impeachment protests, ще получи ли независимо потвърждение?
+494. Bernard's claim, че Sims стои зад протестите за отстраняване, ще получи ли независимо потвърждение?
 495. Защо Sims иска pressure/impeachment срещу Meadows?
 496. Sims знае ли, че Bernard е отровил Meadows?
 497. Sims' anti-Mechanical agitation coordinated ли е с Bernard, or is he exploiting the same crisis independently?
-498. Sims цели ли собствено advancement/power shift, or different institutional objective?
+498. Sims цели ли собствено издигане/промяна на властта, or друга институционална цел?
 499. В кои domains Bernard може да command-ва Sims и в кои Sims действа независимо?
 500. **ЧАСТИЧНО РАЗРЕШЕНО в S02E05:** Bernard отстранява Sims като Head of Security, отказва му shadow succession и го назначава за Judge. Как това променя реалния формален/скрит баланс на властта на практика?
 
@@ -729,34 +729,34 @@
 511. Meadows като former shadow запазила ли е privileged access след отказването си?
 512. Bernard може ли едностранно да remove/replace Judge и други senior offices?
 
-## S02E05 — Silo 17 independent IT power
+## S02E05 — Silo 17 независимо IT захранване
 
 513. Какъв точно е външният източник на захранването на IT в Silo 17?
 514. Physical outside the Silo ли е source-ът, or merely external to the normal internal grid?
 515. Как energy се доставя до IT — cable, buried feed, separate generator, battery/storage, or another system?
-516. **СИЛНО ЗАСИЛЕНО в S02E07:** functional continuity power вече е evidenced и в Silo 17, и в Silo 18. Standard във всички 50 Silos остава unconfirmed.
+516. **СИЛНО ЗАСИЛЕНО в S02E07:** functional резервно захранване вече е evidenced и в Silo 17, и в Silo 18. Стандартно във всички 50 Silos остава unconfirmed.
 517. **ФУНКЦИОНАЛНО РАЗРЕШЕНО / ИЗТОЧНИКЪТ ОСТАВА ОТВОРЕН в S02E07:** IT в Silo 18 остава захранен по време на общия blackout, което потвърждава независим/резервен път за приемственост на захранването. Остава неустановено дали това е същата точна архитектура на външния източник, описана за Silo 17.
-518. Каква capacity има IT continuity power и колко дълго може да работи след normal-grid collapse?
+518. Каква capacity има IT резервно захранване и колко дълго може да работи след колапс на нормалната мрежа?
 519. Може ли IT power да захранва arbitrary loads, or only predefined emergency circuits?
-520. Judicial също има ли independent continuity power?
+520. Judicial също има ли independent резервно захранване?
 
-## S02E05 — Level 144 pump / flooding / recovery
+## S02E05 — помпа на Level 144 / наводняване / възстановяване
 
-521. Каква normal function има destroyed Level 144 pump — drainage, groundwater control, sump, circulation, or another hydraulic role?
+521. Каква нормалната функция има унищожената помпа на Level 144 — drainage, контрол на подпочвените води, sump, circulation, or друга хидравлична роля?
 522. Кой взривява pump-а и по чия заповед?
 523. Как точно destruction-ът flood-ва Mechanical?
-524. Колко време е имало Mechanical да repair-не generator-а преди water arrival?
+524. Колко време е имало Mechanical да ремонтира generator-а преди water arrival?
 525. Generator-ът physically на кое level/elevation е в Silo 17?
-526. Защо generator repair е бил необходим след pump sabotage — independent damage ли е имал?
-527. Коя pump иска survivor-ът Juliette да repair-не — същата Level 144 pump ли е или друга?
-528. Как ще се route-не IT power към recovery pump?
+526. Защо ремонтът на генератора е бил необходим след саботажа на помпата — независима повреда ли е имал?
+527. Коя pump иска оцелелият Juliette да ремонтира — същата Level 144 pump ли е или друга?
+528. Как ще се насочи IT захранването към помпата за възстановяване?
 529. Repair-ът може ли да lower-не already accumulated water или само да stop-не further rise?
 530. Какво ще стане с Silo 17 ако water достигне IT/vault level?
 
 ## S02E05 — IT / Judicial schematic lines
 
 531. Какъв service представляват lines, които достигат до IT и Judicial?
-532. Electrical power ли са, data/communications ли са, control network ли са, utility conduits ли са, or multi-service backbone?
+532. Електрозахранване ли са, данни/комуникации ли са, контролна мрежа ли са, utility канали ли са, or многофункционален backbone?
 533. Къде започват тези lines според full schematic-а?
 534. Излизат ли физически извън Silo structure?
 535. Има ли analogous lines към други privileged departments?
@@ -766,7 +766,7 @@
 
 ## S02E05 — Salvador Quinn letter
 
-539. Какво е exact transcription на readable handwritten body of Quinn letter?
+539. Какво е точната транскрипция на четливото ръкописно основно съдържание of Quinn letter?
 540. **ЧАСТИЧНО РАЗРЕШЕНО в S02E08:** декодираното съобщение включва `If you've gotten this far, you already know the game is rigged.` („Ако си стигнал дотук, вече знаеш, че играта е нагласена.“) Точният пълен кодиран блок и останалият декодиран текст остават отворени.
 541. Какъв cipher/key/method е използван?
 542. Има ли clue в readable body за decoding key?
@@ -774,13 +774,13 @@
 544. **ЧАСТИЧНО СТЕСНЕНО в S02E08:** формулировката е насочена към бъдещ читател/разследващ, който вече е проникнал в скритата система/история; точната предвидена самоличност или длъжност остава отворена.
 545. Кога е сканиран letter-ът и кой го е archived?
 546. Bernard виждал/чел ли е този exact archived scan?
-547. Meadows decoded ли е final section по време на four-day disappearance?
-548. Quinn letter директно ли е материалът, който Meadows свързва с questioned hard drive?
+547. Meadows decoded ли е финалната част по време на four-day disappearance?
+548. Quinn letter директно ли е материалът, който Meadows свързва с въпросния hard drive?
 549. **ЧАСТИЧНО СТЕСНЕНО в S02E08:** декодираният край заявява, че `the game is rigged` („играта е нагласена“); остава неустановено към коя система/област се отнася това и каква допълнителна информация следва.
 
 ## S02E06 — digital messaging / courier coexistence
 
-550. Ordinary residents имат ли personal digital accounts/terminals, or is access limited to institutional roles?
+550. Обикновените жители имат ли лични цифрови акаунти/терминали, or is достъпът е ограничен до институционални роли?
 551. Защо физическата куриерска мрежа остава необходима при работещо digital messaging — недостиг на крайни устройства, политика за достъп, доставка на физически предмети, избягване на проследяване/одит, устойчивост или комбинация от тези фактори?
 552. Sheriff `DIRECT MESSAGING` same backend ли е as earlier Medical → Martha Walker messaging?
 553. Departmental accounts shared mailboxes ли са, role accounts ли са, or individual-address aliases?
@@ -789,35 +789,35 @@
 556. Digital messaging usable ли е across all 144 levels or only through selected terminals/departments?
 557. Какво практически означава наблюдаваната по-рано услуга/канал `PRIVATE` спрямо `DIRECT MESSAGING` от S02E06?
 
-## S02E06 — control-room field / HUMINT reporting
+## S02E06 — полево / HUMINT докладване в control room
 
 558. Използва ли полевият доклад към control room същата инфраструктура за съобщения като Sheriff `DIRECT MESSAGING`?
 559. Как field informant-ът physically/digitally submits the report?
-560. Informant-ът има ли dedicated account/device, institutional terminal access, or sends through an intermediary?
-561. Как source identity/authenticity се проверява?
-562. Може ли field report да бъде spoofed, altered or fabricated inside the system?
+560. Informant-ът има ли специален акаунт/устройство, достъп до институционален терминал, or sends чрез посредник?
+561. Как самоличността/автентичността на източника се проверява?
+562. Може ли полевият доклад да бъде подправен, променен или фабрикуван inside the system?
 563. Какъв е typical latency from observation to control-room display?
-564. Reports automatically route-ват ли се by subject/sector or manually to named operators?
+564. Докладите автоматично се маршрутизират ли се по тема/сектор or ръчно към назовани оператори?
 565. Camera feeds и human-source reports combined ли са в unified operational record?
-566. Doreen и Diego какви exact roles имат в reporting/response chain?
+566. Doreen и Diego какви точните роли имат в веригата за докладване/реакция?
 
 ## S02E06 — IT radio cutoff
 
-567. Какъв technical choke point позволява на Bernard/IT да cut-не всички radio communications?
-568. Central repeater, switching/gating layer, controlled power feed, software authorization or another shared dependency ли е?
-569. IT може ли selective да block-ва specific channels, departments or radios, or only Silo-wide shutdown?
-570. Има ли emergency/bypass radio channels independent from IT?
+567. Какъв техническа ключова точка позволява на Bernard/IT да прекъсне всички радиокомуникации?
+568. Централен повторител, слой за превключване/филтриране, контролирано захранване, софтуерно разрешаване or another споделена зависимост ли е?
+569. IT може ли избирателно да блокира конкретни канали, departments or radios, or only прекъсване в целия Silo?
+570. Има ли аварийни/обходни радиоканали независими от IT?
 571. Radio traffic centrally monitored/recorded ли е?
 572. Digital messaging остава ли available while radio is cut?
-573. Physical couriers intended resilience/fallback layer ли са exactly for communication outages?
-574. Judicial има ли independent власт/достъп да control-ва radio network-а?
-575. Radio infrastructure part ли е от hidden IT/Judicial backbone suggested by the S02E05 schematic?
+573. Физическите куриери intended слой за устойчивост/резервен вариант ли са exactly for прекъсвания на комуникациите?
+574. Judicial има ли independent власт/достъп да контролира радиомрежата?
+575. Радиоинфраструктурата part ли е от скрития IT/Judicial backbone suggested by the S02E05 schematic?
 576. Radio cutoff може ли да isolate-не specific levels geographically, or only the whole Silo?
 
 ## S02E06 — пространствен ориентирs
 
-577. Каква function/location context има Level 55?
-578. Каква function/location context има Level 120?
+577. Каква функция/контекст на местоположението има Level 55?
+578. Каква функция/контекст на местоположението има Level 120?
 579. Level 119 и Level 120 functional cluster ли са, or numbering adjacency only?
 
 ## S02E07 — Legacy / vault continuity
@@ -860,7 +860,7 @@
 609. IT/Judicial може ли ефективно да suppress-не physical leaflet distribution?
 610. `Look and See` established slogan/code ли е, or wording specific to this leaflet?
 
-## S02E07 — Silo 18 continuity power / public visibility
+## S02E07 — Silo 18 резервно захранване / public visibility
 
 611. Какъв exact source захранва Silo 18 IT during general blackout?
 612. Same external source architecture ли е as Silo 17, or local generation/storage/alternate feed?
@@ -868,7 +868,7 @@
 614. Кои systems inside IT remain powered — lighting only, servers, vault, communications, life support, all critical systems?
 615. Judicial остава ли powered under the same blackout?
 616. Publicly visible IT power asymmetry ще increase-не ли anti-IT distrust or trigger direct demands for explanation?
-617. Може ли IT continuity power да бъде routed към non-IT recovery systems в Silo 18, както е предложено в Silo 17?
+617. Може ли IT резервно захранване да бъде routed към non-IT recovery systems в Silo 18, както е предложено в Silo 17?
 618. Свързана ли е continuity-power topology с hidden IT/Judicial lines, показани в S02E05?
 
 ## S02E08 — историческото заличаване на Quinn / повтарящите се бунтове
@@ -940,7 +940,7 @@
 668. Original Rebellion-era survivors ли са, descendants ли са, or mixed population?
 669. Къде са living spaces-ите им?
 670. Как са survived food/water/air requirements over generations/decades?
-671. Имат ли access to IT continuity power?
+671. Имат ли access to IT резервно захранване?
 672. Какво знаят за mass exit, Ron, Russell and the original rebellion?
 673. Каква е връзката им с previously known IT-vault survivor?
 674. Защо са останали hidden from Juliette толкова дълго?
@@ -1105,7 +1105,7 @@
 
 786. Кой е sender-ът на note-а?
 787. Кой има access до Juliette's food/tray chain?
-788. Covert sender/group знае ли, че Juliette е under memory suppression?
+788. Covert sender/group знае ли, че Juliette е under потискане на паметта?
 789. Какво exact `truth` обещава note-ът?
 790. Кой/какво чака Juliette на marketplace на Level 2?
 791. Marketplace direct-confirm-ва ли permanent function на Level 2?
@@ -1215,7 +1215,7 @@
 864. Каква memory domain цели mass dosing-ът — Juliette, recent crisis, cross-Silo knowledge, rebellion memory or broader autobiographical access?
 865. За колко време трябва да действа?
 866. System-ът очаква ли behavioral pacification, selective forgetting or both?
-867. Как system-ът quantifies claimed survival benefit from memory suppression?
+867. Как system-ът quantifies claimed survival benefit from потискане на паметта?
 868. Water deployment actually започва ли след S03E03 или остава plan?
 
 ## S03E03 — mines / Lukas
@@ -1279,7 +1279,7 @@
 910. Sims знае ли, че Bernard е жив?
 911. Ако Sims знае, защо разказва furnace/burning narrative?
 912. Ако Sims не знае, кой е подвел него?
-913. Bernard доброволно ли е участвал във fake-death arrangement?
+913. Bernard доброволно ли е участвал във fake-death arобхватment?
 914. Кой/какво е carried от six porters към furnaces?
 915. Имало ли е substitute body, false visual reconstruction или entirely fabricated account?
 916. Как Bernard е стигнал до deep zone?
