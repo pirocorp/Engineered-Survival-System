@@ -230,14 +230,14 @@ Pre-Silo Iran line също се стеснява: Keen описва recording-�
 - Bernard приписва на intervention-а приблизително **140 години мир**.
 - Това установява privileged causal account на Bernard; не доказва independently, че diagnosis на Quinn за причините за rebellion е била правилна.
 
-### S02E08 — chronic memory suppression чрез водата
+### S02E08 — хронично потискане на паметта чрез водата
 
-- Bernard казва, че Quinn е сложил chemical/drug във водата, който кара хората да забравят.
-- Ефектът е описан като cumulative, а не instantaneous.
+- Bernard казва, че Quinn е сложил химикал/лекарство във водата, което кара хората да забравят.
+- Ефектът е описан като натрупващ се, а не моментален.
 - Седмица след седмица, месец след месец и година след година спомените избледняват.
-- Това независимо corroborate-ва по-старото S01E07 Flamekeeper testimony, че нещо е било поставяно във водата, за да suppress/erase-ва memory.
-- S02E03 отделно установява current institutional drug, предлаган изрично, за да може човек да забрави.
-- Historical waterborne substance и current S02E03 drug все още не са доказани като една и съща molecule или formulation.
+- Това независимо потвърждава по-старото Flamekeeper свидетелство от S01E07, че нещо е било поставяно във водата, за да потиска/заличава паметта.
+- S02E03 отделно установява текущо институционално лекарство, предлагано изрично, за да може човек да забрави.
+- Историческото вещество, подавано чрез водата, и текущото лекарство от S02E03 все още не са доказани като една и съща молекула или формула.
 
 ### S02E08 — Meadows / семейството на Quinn / старият Pact
 
@@ -1235,10 +1235,10 @@ DELIBERATE RESET
   ├─ historical server access removed
   ├─ books confiscated
   ├─ historical loss blamed on rebels
-  └─ memory-suppressing chemical in water
+  └─ химикал, потискащ паметта, във водата
               │
               ▼
-CHRONIC EXPOSURE
+ХРОНИЧНО ИЗЛАГАНЕ
 weeks → months → years
               │
               ▼
@@ -1275,7 +1275,7 @@ Still unresolved:
 - дали diagnosis на Quinn е била correct;
 - exact waterborne drug;
 - дали current forgetfulness medication от S02E03 е същото substance;
-- кой е бил exempt от exposure;
+- кой е бил освободен/защитен от излагането;
 - when dosing stopped;
 - exact relationship между reset-а на Quinn и modern relic enforcement.
 
