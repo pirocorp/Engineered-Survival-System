@@ -1296,12 +1296,12 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 924. **PARTIALLY RESOLVED in S03E05:** открива convergence между actor, свързан със sister's clinic, prominent AI support и involvement в Iran operation. По-дълбоката causal role остава open.
 925. **PARTIALLY NARROWED in S03E05:** по-късният vehicle takeover подсилва deliberate external-control model-а; clinic/AI/Iran връзката подкрепя broader-program candidate, но точната explanation остава unresolved.
 
-## S03E05 — airlock sterilization / Silo 17 discrepancy
+## S03E05 — airlock sterilization / несъответствие със Silo 17
 
 926. Защо Silo 17 не показва очевидно същия 48-hour lockout на вътрешната врата след sterilization?
-927. Airlock protocol-ът в Silo 17 disabled, sabotaged, degraded заради power loss или bypassed ли е?
+927. Airlock protocol-ът в Silo 17 disabled, sabotaged, degraded заради загуба на power или bypassed ли е?
 928. 48-hour lockout physical interlock ли е, software rule, Head-of-IT override или комбинация?
-929. Кой има authority да override-не restriction-а за повторно отваряне на вътрешната airlock door?
+929. Кой има authority да override-не ограничението за повторно отваряне на вътрешната airlock door?
 
 ## S03E05 — Robert / Camille / „Гласът“
 
@@ -1311,7 +1311,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 933. Защо Robert се отказва в последния момент да убие Bernard?
 934. Bernard убеждава ли Robert чрез knowledge за safeguard-а, Lukas и Juliette?
 935. Counter-line-ът на Robert spontaneous moral reversal ли е, strategic calculation или pre-existing opposition?
-936. Camille има ли direct order от „Гласът“ за Bernard и Lukas, или extrapolate-ва от broader threat logic?
+936. Camille има ли direct order от „Гласът“ за Bernard и Lukas, или extrapolate-ва от по-широка threat logic?
 937. Какво точно означава historically Head-of-IT instruction „отстрани проблема“ — detention, disappearance, killing или case-dependent removal?
 938. Колко предишни „problem removals“ е извършвал Robert за Heads of IT?
 939. Camille знае ли, че Robert организира protests за Juliette?
@@ -1324,7 +1324,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 943. „Гласът“ physical system, distributed software, remote human interface или друга architecture ли е?
 944. „Гласът“ physically located ли е в Silo 1, в local vault infrastructure или другаде?
 945. Същата entity ли е като S02E09 hidden lower interlocutor?
-946. Bernard direct-source ли има за claim-а, че „Гласът“ го иска мъртъв?
+946. Bernard има ли direct source за claim-а, че „Гласът“ го иска мъртъв?
 947. Higher layer може ли да activate-не safeguard-а at will, или само при encoded trigger conditions?
 948. Как Lukas е открил existential kill authority над Silo?
 949. Какво точно е намерил/видял Lukas?
@@ -1361,7 +1361,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S03E05 — pre-Silo AI / clinic / Iran / vehicle takeover
 
-971. Кой точно е influential actor-ът, свързан едновременно със sister's clinic, AI support и Iran operation?
+971. Кой точно е influential actor-ът, свързан едновременно с клиниката на сестрата, AI support и Iran operation?
 972. Каква formal role има той в clinic-а?
 973. Каква formal role има в planning/execution на Iran operation?
 974. Treatment-ът на сестрата съдържа ли memory suppression / retrieval blocking?
