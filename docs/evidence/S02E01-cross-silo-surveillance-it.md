@@ -11,11 +11,11 @@ Original Silo на Juliette вече установи:
 - centralized surveillance;
 - privileged access hierarchy.
 
-Наблюдението във втория Silo превръща mirror-camera surveillance от feature на един Silo в **repeated cross-Silo design pattern**.
+Наблюдението във втория Silo превръща наблюдението чрез камери в огледалата от характеристика на един Silo в **повтарящ се cross-Silo дизайнерски модел**.
 
 ## H37
 
-> Concealed mirror-camera surveillance е част от standardized multi-Silo control architecture поне в два Silos.
+> Скритото наблюдение чрез камери в огледалата е част от стандартизирана multi-Silo архитектура за контрол поне в два Silos.
 
 **Confidence:** H  
 **Status:** Strongly Strengthened
