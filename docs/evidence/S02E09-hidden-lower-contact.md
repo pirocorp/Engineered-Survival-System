@@ -6,13 +6,13 @@ S02E09 превръща lower-tunnel line от architectural mystery в active c
 
 ## Директно evidence
 
-В hidden lower zone неизвестен interlocutor/system:
+В скритата долна зона неизвестен събеседник/система:
 - реагира на присъствието на Lukas;
 - задава contextual questions;
 - води intelligible two-way conversation;
 - разпознава/приема reference към Salvador Quinn.
 
-Това установява active communication/monitoring function, но не identity на source-а.
+Това установява активна функция за комуникация/наблюдение, но не самоличността на източника.
 
 ## Previous visitors
 
@@ -23,7 +23,7 @@ Lukas научава, че преди него само трима души са
 3. George Wilkins.
 
 Следствия:
-- George действително е достигнал hidden lower contact point;
+- George действително е достигнал скритата долна контактна точка;
 - Meadows е достигнала същия protected layer;
 - Quinn е писал tunnel instruction от позиция на човек, достигнал мястото;
 - Bernard не е сред previous visitors.
