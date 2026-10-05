@@ -65,7 +65,7 @@ Cleaner helmet-ът показва реалния външен свят, а publ
 
 Public feed-ът е по-близо до реалността, а lush cleaner view е overlay/simulation.
 
-**Status:** strengthened, защото public feed правилно локализира Allison като physical object.
+**Status:** strengthened, защото public feed правилно локализира Allison като физически обект.
 
 ### Model C — neither is fully authentic
 

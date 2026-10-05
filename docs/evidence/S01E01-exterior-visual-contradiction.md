@@ -41,7 +41,7 @@ HDD #18 съдържа по-стар файл с име `JANE CARMODY CLEANING`.
 
 - че изображението на Jane Carmody е live;
 - че зеленото представяне е обективно реално;
-- че записът е непроменен camera feed, а не overlay, simulation или processed image.
+- че записът е непроменен camera feed, а не overlay, симулация или обработено изображение.
 
 ---
 

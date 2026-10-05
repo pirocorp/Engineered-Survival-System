@@ -12,7 +12,7 @@ Sims съобщава, че е приложена medication, представе
 
 ## H30 refactor
 
-Previous H30 разчиташе основно на historical testimony, че memory suppression някога е било доставяно чрез water system.
+Предишната H30 разчиташе основно на историческо свидетелство, че потискането на паметта някога е било доставяно чрез водната система.
 
 S02E03 добавя current institutional capability:
 

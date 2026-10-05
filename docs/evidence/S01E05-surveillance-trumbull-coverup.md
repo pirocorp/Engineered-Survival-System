@@ -2,13 +2,13 @@
 
 **Knowledge boundary:** `S01E05`
 
-## Evidence chain
+## Верига на доказателствата
 
 ### Juliette dossier
 
 Juliette вижда, че institutional dossier съдържа съдържанието на разговора ѝ с Holston за часовника.
 
-Това е strong evidence за hidden content-level surveillance/reporting, но exact technical mechanism и data owner остават unknown.
+Това е силно evidence за скрито наблюдение/докладване на ниво съдържание, но точният технически механизъм и собственикът на данните остават неизвестни.
 
 ### Patrick Kennedy evidence
 
@@ -32,7 +32,7 @@ Trumbull след това се опитва да убие Juliette чрез с�
 
 Sims лично убива Trumbull.
 
-След това Sims представя Trumbull death като **suicide**, въпреки че viewer knowledge директно противоречи на този official narrative.
+След това Sims представя смъртта на Trumbull като **самоубийство**, въпреки че знанието на зрителя директно противоречи на този официален разказ.
 
 Judge впоследствие приключва случая.
 
@@ -60,7 +60,7 @@ S01E05 оставя три различни роли, които не трябв
 - управлява Trumbull, но получава orders от по-висока authority;
 - реагира след unauthorized/failed operation.
 
-## Hypothesis impact
+## Въздействие върху хипотезите
 
 - H8 → `H / Strengthened + Refactored`
 - H17 → `VH / Strengthened`

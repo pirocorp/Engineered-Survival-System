@@ -4,7 +4,7 @@
 
 S02E06 установява, че Bernard/IT може да прекъсва **всички radio communications в Silo**.
 
-## Direct evidence
+## Директни доказателства
 
 **E317 —** Bernard/IT има Silo-wide radio-cutoff capability.
 

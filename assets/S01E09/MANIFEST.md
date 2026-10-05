@@ -19,10 +19,10 @@ Selected screenshots са обработени първо с **perspective corre
 |---|---|
 | `juliette-fall-level-23-bridge.jpeg` | Fall/escape sequence на Juliette; architecture показва междинна bridge/landing structure, а не непрекъснато падане до дъното. |
 | `level-23-marker.jpeg` | Direct visual spatial anchor за Level 23 по време на post-jump sequence. |
-| `bernard-number-18-device.jpeg` | Малък illuminated numbered device/object с маркировка `18`, свързан чрез scene context с Bernard/acting mayor; функцията е unknown. |
+| `bernard-number-18-device.jpeg` | Малък осветен номериран обект/устройство с маркировка `18`, свързан чрез контекста на сцената с Bernard/acting mayor; функцията е неизвестна. |
 | `contact-sheet.jpg` | Само auxiliary review/navigation; **не е primary evidence**. |
 
-## Epistemic notes
+## Епистемични бележки
 
 - Level 23 е direct visual evidence.
 - Bridge/landing sequence подкрепя, че Juliette оцелява при първоначалното падане; exact mechanics/distance не се извеждат само от still-а.

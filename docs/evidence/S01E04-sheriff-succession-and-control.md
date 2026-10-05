@@ -14,7 +14,7 @@ S01E04 показва, че изборът на Sheriff не е routine personne
 - Judicial предпочита собствен/preferred кандидат.
 - Deputy Sheriff умира при apparent suspicious circumstances.
 
-## Strong inference
+## Силен извод
 
 Sheriff’s Department има достатъчно institutional value, за да бъде предмет на конкуренция между power centers.
 

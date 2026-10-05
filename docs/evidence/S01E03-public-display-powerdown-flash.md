@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S01E03 only`
 
-Тази бележка изолира един от най-важните exterior-system datapoints до момента: при planned power-down public display за кратък момент показва lush exterior imagery.
+Тази бележка изолира една от най-важните точки за системата на външните изображения до момента: при планирано изключване на захранването public display за кратък момент показва зелено изображение на външната среда.
 
 ![Public display lush flash](../../assets/S01E03/screenshots/public-display-lush-flash-during-powerdown.jpeg)
 
@@ -14,10 +14,10 @@
 
 ## Какво доказва
 
-- public-display pipeline има достъп до повече от едно exterior visual state;
+- public-display pipeline има достъп до повече от едно визуално състояние на външната среда;
 - lush imagery не е ограничено само до cleaner helmet-а;
-- public display не може да се моделира като прост transparent monitor на един unprocessed source;
-- между physical source и displayed image вероятно има processing/state layer.
+- public display не може да се моделира като прост прозрачен монитор на един необработен източник;
+- между физическия източник и показваното изображение вероятно има слой за обработка/състояние.
 
 ## Какво не доказва
 
@@ -25,7 +25,7 @@
 - дали lush state е live feed;
 - дали barren state е live feed;
 - дали lush state е overlay, cached frame, fallback, test image или друг artifact;
-- дали cleaner helmet и public display използват един и същ exact source.
+- дали cleaner helmet и public display използват един и същ точен източник.
 
 ## Relation към предишния evidence
 
@@ -42,11 +42,11 @@ S01E02:
 
 S01E03:
 
-- при shutdown **самият public display** за момент показва lush image.
+- при изключването **самият public display** за момент показва зелено изображение.
 
 Така exterior contradiction вече не е само conflict между два устройства. Имаме evidence, че **един и същ public presentation endpoint може да покаже radically different exterior representations**.
 
-## Hypothesis impact
+## Въздействие върху хипотезите
 
 ### H1 — deliberate/manipulated exterior visual pipeline
 

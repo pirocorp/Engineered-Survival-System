@@ -19,7 +19,7 @@ Wide exterior shots показват повтарящи се circular surface in
 **Confidence:** VH  
 **Status:** Confirmed / Refactored
 
-По-ранната `SILO_COUNT` clue вече е съвместима с directly observed world structure, вместо да стои самостоятелно като weak textual speculation.
+По-ранната следа `SILO_COUNT` вече е съвместима с директно наблюдаваната структура на света, вместо да стои самостоятелно като слаба текстова спекулация.
 
 ## Distant skyline
 

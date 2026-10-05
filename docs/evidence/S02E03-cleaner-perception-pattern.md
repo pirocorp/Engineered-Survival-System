@@ -6,7 +6,7 @@
 
 Juliette изрично заключава, че manipulated lush exterior view е това, което кара cleaners да clean-ват.
 
-Тя разпознава image-а като false, защото съвпада със стария `JANE CARMODY CLEANING` recording.
+Тя разпознава изображението като невярно, защото съвпада със стария запис `JANE CARMODY CLEANING`.
 
 Особено силен cue е repeated movement pattern на flying creatures.
 
@@ -23,7 +23,7 @@ Juliette не знае обикновената дума/concept **birds**, но
 
 ## H47
 
-Загубата на думата/concept "birds" е evidence, че historical/cultural knowledge suppression се простира отвъд formal history и към ordinary natural-world vocabulary поне за част от residents.
+Загубата на думата/концепцията `birds` („птици“) е evidence, че потискането на историческото/културното знание се простира отвъд формалната история и към обикновената лексика за природния свят поне при част от жителите.
 
 **Confidence:** H  
 **Status:** Active / Strengthened

@@ -14,7 +14,7 @@ S01E07 разширява surveillance reveal от S01E06:
 
 ## H8 update
 
-> **H8 — Sims директно командва/използва covert centralized internal video-surveillance network с concealed mirror cameras, покриваща residential, institutional, medical и high-level official spaces.**
+> **H8 — Sims директно командва/използва скрита централизирана вътрешна мрежа за видео наблюдение със скрити камери в огледалата, покриваща жилищни, институционални, медицински пространства и високопоставени служители.**
 
 **Confidence:** VH  
 **Status:** Confirmed / Refactored
@@ -23,7 +23,7 @@ S01E07 разширява surveillance reveal от S01E06:
 
 Фактът, че Sims наблюдава Judge Meadows, прави simple assumed hierarchy `Judge > Sims` ненадеждна.
 
-> **H26 — Sims има значителна autonomous operational authority в hidden control layer, но S01E07 все още не установява дали той е highest authority.**
+> **H26 — Sims има значителна автономна оперативна власт в скрития слой за контрол, но S01E07 все още не установява дали той е най-висшата власт.**
 
 **Confidence:** VH  
 **Status:** Strengthened / Refactored
@@ -42,4 +42,4 @@ S01E07 разширява surveillance reveal от S01E06:
 
 Janitorial-closet route демонстрира concealed infrastructure вътре в inhabited Silo, а не само под structural bottom.
 
-Това дава supporting evidence за H16, без да доказва, че всички hidden spaces споделят един design/authority.
+Това дава подкрепящо evidence за H16, без да доказва, че всички скрити пространства споделят един дизайн/власт.

@@ -32,7 +32,7 @@
 | E204-E205 | `screenshots/other-silo-it-severed-bridge.jpeg` | 271190 | `854df217a0d738d2d140574a58de56795212fd2e` | Present-day IT bridge/chokepoint: locally illuminated и physically severed. |
 | E208-E209 | `screenshots/other-silo-it-vault-survivor.jpeg` | 447612 | `133a8c6a8974acbcb157c6b05d622d7686b146ec` | Жив човек се вижда зад secured vault-like door в IT area на другия Silo. |
 
-## Contact sheet
+## Контактен лист
 
 - `contact-sheet.jpg`
 - Bytes: 487995
@@ -40,13 +40,13 @@
 
 ## Important evidence boundaries
 
-- `E188` се запазва само като superseded inference: първоначалната interpretation, че attack-ът е насочен към Engineering/generator control, е коригирана от по-късен scene evidence, идентифициращ IT като attacked/defended location.
+- `E188` се запазва само като заменен извод: първоначалната интерпретация, че атаката е насочена към Engineering/контрола на генератора, е коригирана от по-късно scene evidence, идентифициращо IT като атакувано/защитавано място.
 - Другият Silo е confirmed като отделен Silo, изследван от Juliette, но номерът му не е established.
 - `key 18`, `HDD 18` и hypothetical `Silo 18` не се свързват само заради повторения номер.
-- Mass exterior deaths установяват real lethal outside hazard при наблюдаваните conditions; exact agent остава unresolved.
-- Текущият best-fit hazard model е airborne/atmosphere-borne exposure; toxin/chemical/aerosol и pathogen остават alternatives. Pure external radiation е weakened, но не absolutely excluded.
-- Concealed mirror-camera surveillance във втория Silo подкрепя standardized cross-Silo surveillance/control design, но все още не доказва, че една live central authority контролира всеки Silo.
-- Electrical lighting остава active в повече от една area на abandoned second Silo; source и scope на power остават unknown.
+- Масовите смъртни случаи навън установяват реална смъртоносна външна опасност при наблюдаваните условия; точният агент остава неустановен.
+- Текущият най-подходящ модел на опасността е въздушно/атмосферно излагане; токсин/химикал/аерозол и патоген остават алтернативи. Чистата външна радиация е отслабена като обяснение, но не е абсолютно изключена.
+- Скритото наблюдение чрез камери в огледалата във втория Silo подкрепя стандартизиран cross-Silo дизайн за наблюдение/контрол, но все още не доказва, че една активна централна власт контролира всеки Silo.
+- Електрическото осветление остава активно в повече от една зона на изоставения втори Silo; източникът и обхватът на захранването остават неизвестни.
 
 ## Evidence, което не е представено от selected screenshot
 

@@ -4,7 +4,7 @@
 
 ## Evidence
 
-Bernard притежава immersive visual headset, показващ pre-Silo natural environment, идентифициран in-scene като **Monteverde cloud forest, 2018**.
+Bernard притежава immersive визуален headset, показващ pre-Silo природна среда, идентифицирана в сцената като **облачната гора Monteverde, 2018**.
 
 Bernard обяснява, че работи подобно на visual system, използвана от cleaner helmets.
 
@@ -12,7 +12,7 @@ Bernard обяснява, че работи подобно на visual system, �
 
 ## H46 refactor
 
-Cleaner lush view вече се моделира най-добре като част от по-широка **immersive visual-display technology family**, способна да показва stored/rendered natural environments.
+Зелената гледка за cleaner-а вече се моделира най-добре като част от по-широко **семейство immersive технологии за визуално показване**, способно да показва съхранени/рендирани природни среди.
 
 Това силно strengthens H46 отвъд simple repeated imagery.
 

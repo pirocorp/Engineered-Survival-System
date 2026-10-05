@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S02E06`
 
-Екран в control room получава written report, описващ current field activity.
+Екран в control room получава писмен доклад, описващ текущата дейност на терен.
 
 Видимият report включва:
 - въоръжена група, движеща се към barricade;
@@ -37,7 +37,7 @@ operational response
 
 ## H57
 
-**Surveillance/control-room function агрегира human-source reporting заедно с technical surveillance inputs.**
+**Функцията за наблюдение/control room агрегира докладване от човешки източници заедно с техническите входове от наблюдението.**
 
 **Confidence:** H  
 **Status:** Active / Strengthened.
@@ -49,4 +49,4 @@ Screenshot-ът не разкрива:
 - дали source въвежда директно или чрез intermediary;
 - network protocol;
 - source authentication;
-- дали report-ът използва точно същата system като Sheriff `DIRECT MESSAGING`.
+- дали докладът използва точно същата система като Sheriff `DIRECT MESSAGING`.

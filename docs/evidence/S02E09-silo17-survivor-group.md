@@ -4,7 +4,7 @@
 
 S02E08 потвърждава multiple living inhabitants в Silo 17. S02E09 започва да характеризира поне една от тези groups.
 
-## Direct evidence
+## Директни доказателства
 
 Групата:
 - съществува като организирано social unit;

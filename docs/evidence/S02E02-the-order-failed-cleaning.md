@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S02E02`
 
-## Direct evidence
+## Директни доказателства
 
 Bernard използва physical document, озаглавен `THE ORDER`.
 
@@ -10,7 +10,7 @@ Section heading е директно четим:
 
 > `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`
 
-Това е direct institutional evidence, че failed cleaning се третира като severe stability/security contingency.
+Това е директно институционално evidence, че failed cleaning се третира като тежък сценарий за стабилност/сигурност.
 
 Judge Meadows също знае за `THE ORDER`, следователно документът не е просто личен notebook или secret на Bernard.
 
@@ -43,7 +43,7 @@ Judge Meadows също знае за `THE ORDER`, следователно до�
 
 Bernard се страхува, че catastrophic outcome, наблюдаван около втория Silo, може да се случи и в неговия.
 
-Това прави failed-cleaning warning operationally relevant към текущата криза, но не доказва, че вторият Silo е historical source, използван за написването на `THE ORDER`.
+Това прави предупреждението за failed cleaning оперативно релевантно към текущата криза, но не доказва, че вторият Silo е историческият източник, използван за написването на `THE ORDER`.
 
 ## Visual evidence
 

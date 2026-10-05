@@ -4,453 +4,453 @@
 
 | ID | Evidence | Клас | Confidence | Бележки |
 |---|---|---|---:|---|
-| E001 | Населението открито не знае защо Силозът съществува, защо човечеството живее под земята и какво се е случило навън. | Character / institutional context | H | Установява сериозна празнина в historical knowledge, но не причината. |
-| E002 | Официалният разказ приписва унищожаването на archives, books и hard drives на Rebellion отпреди приблизително 140 години. | Institutional claim | H | Истинността не е independently confirmed. |
-| E003 | Pact функционира като основополагаща система от закони/правила. | Direct observation | H | Core institutional framework. |
-| E004 | Reproduction изисква permission и се използват contraceptive implants. | Direct observation | H | Engineered population management. |
-| E005 | Allison физически премахва implant, който според нея вече е трябвало да бъде отстранен. | Direct observation + testimony | H | Силен evidence за поне една covert reproductive intervention. |
-| E006 | Relics / предмети от стария свят и historical inquiry са restricted. | Direct observation / institutional rule | H | Strong information-control indicator. |
-| E007 | Изричното заявяване „искам да изляза“ задейства cleaning/outside process. | Direct observation | VH | Allison и Holston третират wording-а като legal trigger. |
-| E008 | Residents виждат barren/gray exterior на public display. | Direct observation + screenshot | VH | Representation е established; authenticity не е. |
-| E009 | Allison helmet показва lush green exterior. | Direct observation | VH | Feed authenticity unknown. |
-| E010 | Allison cleans след lush view. | Direct observation | H | Perception → cleaning behavioral link. |
-| E011 | Allison collapses близо до дървото след излизане. | Direct observation | VH | Cause unknown. |
-| E012 | HDD 18 е извън normal inventory/accountability и съдържа recoverable deleted material. | Direct observation | H | Origin unknown. |
-| E013 | Archive screens показват `SILO YEAR 96/97`. | Screenshot evidence | VH | Later mayor journals independently reference Year 97. |
-| E014 | `JANE CARMODY CLEANING` съдържа същия тип lush exterior imagery. | Screenshot evidence | VH | Repeatable system clue. |
-| E015 | Blueprint material показва lower tunnel и `CLASSIFIED`. | Screenshot evidence | VH | Exact destination/status unknown. |
-| E016 | File listings съдържат planning/development/implementation material и `SILO_COUNT`. | Screenshot evidence | H | Не доказва multiple Silos. |
-| E017 | Cross-sections подкрепят very deep vertical structure с Mechanical near bottom. | Screenshot evidence | H | S01E02 уточнява 144 levels. |
-| E018 | Deleted-file recovery knowledge е removed/restricted под IT control. | Direct observation | H | Intentional technical-information control. |
-| E019 | Juliette оспорва official account за George death. | Character testimony | H | Raises, but does not prove murder. |
-| E020 | Exterior displays има на multiple public locations, включително communal/dining space. | Direct observation + screenshot | H | Broad public information infrastructure. |
-| E021 | Holston вижда lush exterior през cleaner helmet. | Direct observation + screenshot | VH | Third independent lush-view datapoint. |
-| E022 | Simultaneously public feed показва barren exterior. | Direct observation + screenshot | VH | Incompatible simultaneous representations. |
-| E023 | Public feed показва Allison body близо до tree; Holston later physically reaches same place. | Direct observation + screenshot | VH | Geometry/object-position correspondence. |
-| E024 | Holston вижда lush scene и след това почиства sensor/camera. | Repeated observation | H | Повтаря pattern perception → cleaning. |
-| E025 | Holston показва distress, сваля helmet-а и умира до Allison. | Direct observation + screenshot | VH | Отваря hypothesis за suit/helmet/life-support. |
-| E026 | Диалогът изрично заявява 144 levels. | Character testimony + screenshot | VH | Architectural baseline. |
-| E027 | `Up-top`, `Mids`, `Down-deep` са вътрешни regional labels. | Repeated usage | H | Social/spatial categories. |
-| E028 | Porters поддържат vertical logistics. | Direct observation / dialogue | H | Human logistics в среда без elevator. |
-| E029 | Присъствието на Sims/Judicial предизвиква видимо напрежение/страх. | Direct observation + screenshot | H | Подкрепя coercive role. |
-| E030 | Formal relationships/partnerships изглеждат subject to approval. | Character / institutional testimony | M | Exact scope е неизвестен. |
-| E031 | Mines са споменати като punitive destination/labor. | Character / institutional testimony | M | Punishment отвъд cleaning. |
-| E032 | Holston номинира Juliette за successor Sheriff и оставя badge. | Direct action / testimony | H | Мотивът остава inference. |
-| E033 | Mayor journals са организирани по year; Mayor достига '97. | Character testimony + screenshot | VH | Independent chronology link. |
-| E034 | Mayor описва ~140 години мир след Rebellion. | Character testimony + screenshot | H | Current era ≈140 години след Rebellion. |
-| E035 | Съществува institutional/historical discontinuity през границата на Rebellion. | Testimony / inference | H | Причината е неизвестна. |
-| E036 | Pact изрично забранява навлизането в lower restricted zone. | Direct visual evidence | VH | Physical access control е encoded във foundational law. |
-| E037 | Restricted zone има hidden/nonstandard wall opening. | Direct visual evidence | H | Non-routine access. |
-| E038 | Tunnel system зад opening е описана от Juliette като pre-Rebellion. | Visual + testimony | H | Origin не е independently dated. |
-| E039 | Tunnel system води вертикално под inhabited Silo. | Direct observation | VH | Down-deep не е physical bottom. |
-| E040 | Под Silo има огромна construction cavity с massive abandoned machine. | Direct visual evidence | VH | Character theory: excavation machine. |
-| E041 | Над cavity има massive structural cap/boundary. | Screenshot evidence | H | Exact thickness/material не е independently measured. |
-| E042 | Най-ниската видима zone около machine е flooded. | Direct visual evidence | VH | Physical barrier; Juliette се страхува от water. |
-| E043 | George поддържа hidden workspace/cache в sub-Silo construction layer. | Direct observation + screenshot | H | Systematic use на forbidden space. |
-| E044 | Cache на George съдържа portable relic video camera. | Direct visual evidence | VH | Contents/function са неизвестни. |
-| E045 | Cache на George съдържа HDD 18 + printed deleted-file recovery material. | Direct observation + screenshot | VH | Директно свързва George с HDD/recovery line. |
-| E046 | Holston идентифицира handwriting върху recovery document като на Allison. | Character identification + screenshot | H | Provenance chain Allison → George/cache. |
-| E047 | George и Juliette са били във relationship. | Character fact / dialogue | H | Personal stake е established. |
-| E048 | George оставя PEZ relic и breadcrumbs/notes, насочващи Juliette. | Direct observation | H | Intentional trail. |
-| E049 | George търси door, показан на drawing, в края на short tunnel в lower construction zone. | Character testimony | H | Вероятна blueprint relation; identity не е direct-confirmed. |
-| E050 | George оставя message, че е намерил това, което търси. | Character message | H | Подкрепя door-found hypothesis, но не passage/opening. |
-| E051 | Juliette премълчава пред law enforcement, че George е казал, че го е намерил. | Direct action | H | Selective information withholding. |
-| E052 | Juliette се страхува от water; reported door area е свързана с flooded lower zone. | Character fact + environment | H | Обяснява barrier. |
-| E053 | Juliette напуска flooded bottom, без лично да verify-не reported door. | Direct observation | H | H13 остава unverified. |
-| E054 | Level 9 и Level 12 са директно показани. | Visual evidence | VH | Upper-level anchors. |
-| E055 | Judicial entrance се появява в adjacent sequence с Level 14 marker. | Visual sequence / inference | H | Силно подкрепя Judicial на/около 14. |
-| E056 | Level 50 е в Mids. | Direct visual / dialogue | H | Spatial anchor. |
-| E057 | Level 50 съдържа medical/neonatal infrastructure; бащата на Juliette е doctor там. | Direct observation / character fact | H | Mids family background. |
-| E058 | Почти 100 levels separation прави посещенията father↔Mechanical практически невъзможни в рамките на един day off. | Character testimony / consequence | H | Direct social-separation evidence. |
-| E059 | Съществува голям indoor green communal area с restaurant/seating. | Direct visual evidence | H | Не е само industrial bunker. |
-| E060 | Bernard/IT се противопоставя Juliette да стане Sheriff и посочва insulation-tape theft. | Direct stance | H | Не е доказано formal veto. |
-| E061 | Suicide се третира като сериозно crime срещу Silo. | Institutional rule / dialogue | H | Отваря collective-life question. |
-| E062 | Homemade/unauthorized radio е строго забранено от Pact. | Institutional rule / dialogue | H | Independent communication restriction. |
-| E063 | Population е описано приблизително като 10,000. | Character / institutional testimony | H | Superseded по precision от E086, без contradiction. |
-| E064 | `SILOMAIL` показва Mayor-ordered planned 8-hour outage, започващ в 22:00. | Screenshot evidence | VH | Central messaging + mayoral operational authority. |
-| E065 | Energy chain е steam from below → turbine → generator → electricity. | Technical observation / dialogue | H | Operational chain е ясна. |
-| E066 | Mechanical personnel казват, че никой не знае exact origin на primary steam source. | Character testimony | H | Upstream infrastructure е извън knowledge на current operators. |
-| E067 | Generator/turbine е огромна centralized multi-level machine, отваряна за maintenance. | Direct visual evidence | VH | Critical infrastructure scale. |
-| E068 | По време на planned blackout normal lighting до голяма степен изчезва. | Direct visual evidence | H | Infrastructure dependency. |
-| E069 | По време на power-down public display за кратко показва lush exterior imagery. | Direct visual + screenshot | VH | Multiple visual states; reality не е authenticated. |
-| E070 | Mayor подкрепя/назначава Juliette въпреки opposition от Bernard. | Direct governance action | H | Formal succession step. |
-| E071 | Mayor умира след apparent deliberate attack/poisoning. | Direct event | H | Perpetrator/motive са неизвестни при S01E03 boundary. |
-| E072 | Майката на Juliette е била medical professional/worker; Juliette е имала брат. | Family-history evidence | H | Exact maternal medical role е unspecified. |
-| E073 | Juliette обвинява баща си за загубата на майка и брат и свързва rupture с преместването си в Mechanical. | Character testimony / motivation | H | Доказва perspective/motive на Juliette, а не objective guilt на бащата. |
-| E074 | Judicial се противопоставя Juliette да стане Sheriff и предпочита друг/preferred candidate. | Direct governance stance | H | Sheriff succession = institutional power contest. |
-| E075 | Deputy Sheriff Marnes умира при suspicious circumstances. | Direct event | M | S01E05 по-късно третира death като murder investigation. |
-| E076 | Juliette намира official file/dossier на George Wilkins. | Direct investigation event | H | Позволява comparison official record vs independent evidence. |
-| E077 | Public exterior display е показан в normal night state с dark exterior/tree/star-like points. | Direct visual evidence | H | Dynamic day/night state; не е live-feed proof. |
-| E078 | S01E04 spatial sequence укрепва model Level 1/Up-top Sheriff + airlock complex. | Visual/spatial inference | M | Strong model, не floor-plan confirmation. |
-| E079 | New-occupant notice насочва unwanted previous-tenant items към recycling за proper redistribution. | Direct screenshot evidence | VH | Circular reuse/redistribution; ownership regime е неизвестен. |
-| E080 | Juliette вижда, че institutional dossier съдържа content от разговора ѝ с Holston за watch. | Direct observation / dossier evidence | H | Strong content-level surveillance/reporting evidence; exact mechanism е неизвестен. |
-| E081 | Смъртта на Marnes се разследва като murder и Juliette трябва да я разследва като Sheriff. | Direct dialogue / investigation fact | H | Upgrade-ва S01E04 suspicious-death status. |
-| E082 | След Marnes Deputy, preferred/aligned с opposing institutional line, е назначен при Juliette. | Governance action / dialogue context | H | Strengthen-ва H23; не доказва murder motive. |
-| E083 | Sketch на Mayor липсва по време на investigation. | Direct investigation observation | H | Potential removed evidence/object. |
-| E084 | Sims директно обвинява Juliette за смъртта на Marnes. | Character accusation | H | Доказва stance/pressure, а не responsibility на Juliette. |
-| E085 | По-рано видяното indoor garden/green communal area се използва за funerals/memorial/burial ritual. | Direct observation | H | Добавя funerary function; няма biological recycling inference. |
-| E086 | Bernard заявява current Silo population **10,112 residents**. | Institutional/direct dialogue claim | H | Най-прецизният current official population figure досега. |
-| E087 | Level 27 marker е директно видим. | Screenshot evidence | VH | Само spatial anchor. |
-| E088 | Juliette споменава **The Syndrome** като in-world condition/term. | Direct dialogue | H | Nature, symptoms, cause и prevalence са неизвестни. |
-| E089 | Level 29 marker е директно видим. | Screenshot evidence | VH | Spatial anchor. |
-| E090 | За новия Deputy е казано/contextually established, че живее няколко levels под Level 29. | Dialogue/context | M | Exact home level е неизвестен; няма връзка с Level 27 marker. |
-| E091 | Rat poison и missing Mayor sketch са намерени при Patrick Kennedy. | Direct investigation evidence | H | Първоначално incriminating, по-късно reliability е compromised от E093. |
-| E092 | Judicial демонстрира capacity да води/участва в investigation паралелно на Sheriff's Department. | Direct governance/investigative behavior | H | Exact formal legal scope остава неизвестен. |
-| E093 | Juliette директно хваща Douglas Trumbull, Judicial-associated operative, да manipulate/plant-ва evidence. | Direct observation | VH | Direct proof за evidence manipulation в active case. |
-| E094 | След като е разкрит, Trumbull се опитва да убие Juliette, като я хвърли/бута от stairs. | Direct observation | VH | Демонстрира lethal operational behavior. |
-| E095 | Sims лично убива Trumbull. | Direct observation | VH | Critical command/cleanup datapoint. |
-| E096 | Investigative/institutional resolution на епизода идентифицира Trumbull като отговорен за убийствата на Mayor и Marnes и за framing на Patrick. | Character/institutional conclusion | M-H | Не е equivalent на independent confession/forensic proof; Trumbull не може да бъде questioned. |
-| E097 | Sims съзнателно представя смъртта на Trumbull като **suicide**, въпреки viewer-direct observation, че Sims го убива. | Direct observation + false institutional claim | VH | Първи confirmed case observed-event ≠ official-account. |
-| E098 | Judge formally затваря case след narrative за Trumbull. | Direct governance action | H | Демонстрира Judicial case-finalization power. |
-| E099 | Cafeteria observer вижда night-sky lights, но не знае/не ги идентифицира като stars. | Direct dialogue / knowledge-state evidence | H | Concrete lost-astronomy knowledge datapoint. |
-| E100 | Observer разпознава W/zig-zag-like pattern и записва movement/distance приблизително през 30-day intervals. | Direct observation + screenshot | VH | Systematic longitudinal observation. |
-| E101 | Night public display съдържа достатъчно systematic time-dependent celestial behavior за repeated measurement. | Inference from repeated observation | H | Не различава live, processed, prerecorded или synthetic sky. |
-| E102 | Level 8 marker е директно видим. | Screenshot evidence | VH | Upper-level spatial anchor. |
-| E103 | Pact умишлено забранява mechanized movement/transport през Silo. | Character testimony about institutional rule | H | Потвърждава, че no-elevator condition е intentional policy/design constraint; reason е unknown. |
-| E104 | Pact забранява magnifying devices над specified/limited threshold. | Character testimony about institutional rule | H | Ограничава observation capability; target/rationale са unknown. |
-| E105 | Juliette умишлено търси bait/evidence/pretext за reopening на затворения George case. | Direct investigation motive / dialogue | H | Използва new Sheriff authority към formal reopening. |
-| E106 | Това търсене на reopening hook мотивира Juliette да се върне в hidden sub-Silo construction/excavation area. | Direct action + motive context | H | Свързва official investigation с hidden layer. |
-| E107 | В края на епизода Juliette взема George-associated PEZ dispenser relic като evidence hook/bait. | Direct observation | VH | Само по себе си не доказва murder на George. |
+| E001 | Населението открито не знае защо Silo съществува, защо човечеството живее под земята и какво се е случило навън. | Character / institutional context | H | Установява сериозна празнина в историческото знание, но не и причината. |
+| E002 | Официалният разказ приписва унищожаването на архиви, книги и hard drives на Rebellion отпреди приблизително 140 години. | Institutional claim | H | Истинността не е независимо потвърдена. |
+| E003 | Pact функционира като основополагаща система от закони/правила. | Direct observation | H | Основна институционална рамка. |
+| E004 | Репродукцията изисква разрешение и се използват контрацептивни импланти. | Direct observation | H | Проектирано управление на населението. |
+| E005 | Allison физически премахва имплант, който според нея вече е трябвало да бъде отстранен. | Direct observation + testimony | H | Силно evidence за поне една скрита репродуктивна намеса. |
+| E006 | Реликвите / предметите от стария свят и историческите проучвания са ограничени. | Direct observation / institutional rule | H | Силен индикатор за контрол на информацията. |
+| E007 | Изричното заявяване „искам да изляза“ задейства cleaning/outside процеса. | Direct observation | VH | Allison и Holston третират формулировката като правен trigger. |
+| E008 | Жителите виждат безплодна/сива външна среда на public display. | Direct observation + screenshot | VH | Представянето е установено; автентичността не е. |
+| E009 | Шлемът на Allison показва зелена и буйна външна среда. | Direct observation | VH | Автентичността на feed-а е неизвестна. |
+| E010 | Allison почиства след зелената гледка. | Direct observation | H | Връзка възприятие → cleaning поведение. |
+| E011 | Allison припада близо до дървото след излизане. | Direct observation | VH | Причината е неизвестна. |
+| E012 | HDD 18 е извън нормалния инвентар/отчетност и съдържа възстановим изтрит материал. | Direct observation | H | Произходът е неизвестен. |
+| E013 | Архивните екрани показват `SILO YEAR 96/97`. | Screenshot evidence | VH | По-късните дневници на Mayor независимо посочват Year 97. |
+| E014 | `JANE CARMODY CLEANING` съдържа същия тип зелено изображение на външната среда. | Screenshot evidence | VH | Повтаряема системна следа. |
+| E015 | Blueprint материалът показва долен тунел и `CLASSIFIED`. | Screenshot evidence | VH | Точната дестинация/статус са неизвестни. |
+| E016 | Списъците с файлове съдържат материали за планиране/разработка/внедряване и `SILO_COUNT`. | Screenshot evidence | H | Не доказва наличието на множество Silos. |
+| E017 | Напречните сечения подкрепят много дълбока вертикална структура с Mechanical близо до дъното. | Screenshot evidence | H | S01E02 уточнява 144 нива. |
+| E018 | Знанието за възстановяване на изтрити файлове е премахнато/ограничено под контрола на IT. | Direct observation | H | Умишлен контрол върху техническата информация. |
+| E019 | Juliette оспорва официалния разказ за смъртта на George. | Character testimony | H | Повдига подозрение, но не доказва убийство. |
+| E020 | Exterior displays има на множество обществени места, включително обща/трапезарна зона. | Direct observation + screenshot | H | Широка публична информационна инфраструктура. |
+| E021 | Holston вижда зелена външна среда през шлема на cleaner-а. | Direct observation + screenshot | VH | Трета независима точка с такава зелена гледка. |
+| E022 | Едновременно с това public feed показва безплодна външна среда. | Direct observation + screenshot | VH | Несъвместими едновременни представяния. |
+| E023 | Public feed показва тялото на Allison близо до дървото; по-късно Holston физически достига същото място. | Direct observation + screenshot | VH | Съответствие в геометрията/позицията на обектите. |
+| E024 | Holston вижда зелената сцена и след това почиства сензора/камерата. | Repeated observation | H | Повтаря модела възприятие → cleaning. |
+| E025 | Holston показва силно физическо неразположение, сваля шлема и умира до Allison. | Direct observation + screenshot | VH | Отваря hypothesis за костюма/шлема/животоподдържането. |
+| E026 | Диалогът изрично заявява 144 нива. | Character testimony + screenshot | VH | Архитектурна базова стойност. |
+| E027 | `Up-top`, `Mids`, `Down-deep` са вътрешни регионални обозначения. | Repeated usage | H | Социални/пространствени категории. |
+| E028 | Porters поддържат вертикалната логистика. | Direct observation / dialogue | H | Човешка логистика в среда без асансьор. |
+| E029 | Присъствието на Sims/Judicial предизвиква видимо напрежение/страх. | Direct observation + screenshot | H | Подкрепя принудителна/сплашваща роля. |
+| E030 | Формалните връзки/партньорства изглеждат подлежащи на одобрение. | Character / institutional testimony | M | Точният обхват е неизвестен. |
+| E031 | Мините са споменати като наказателна дестинация/труд. | Character / institutional testimony | M | Наказание отвъд cleaning. |
+| E032 | Holston номинира Juliette за следващ Sheriff и оставя значката. | Direct action / testimony | H | Мотивът остава извод. |
+| E033 | Дневниците на Mayor са организирани по години; Mayor достига '97. | Character testimony + screenshot | VH | Независима хронологична връзка. |
+| E034 | Mayor описва ~140 години мир след Rebellion. | Character testimony + screenshot | H | Текущата ера е приблизително 140 години след Rebellion. |
+| E035 | Съществува институционално/историческо прекъсване през границата на Rebellion. | Testimony / inference | H | Причината е неизвестна. |
+| E036 | Pact изрично забранява навлизането в долната ограничена зона. | Direct visual evidence | VH | Физическият контрол на достъпа е кодиран в основополагащия закон. |
+| E037 | Ограничената зона има скрит/нестандартен отвор в стената. | Direct visual evidence | H | Нестандартен достъп. |
+| E038 | Тунелната система зад отвора е описана от Juliette като pre-Rebellion. | Visual + testimony | H | Произходът не е независимо датиран. |
+| E039 | Тунелната система води вертикално под обитаемия Silo. | Direct observation | VH | Down-deep не е физическото дъно. |
+| E040 | Под Silo има огромна строителна кухина с масивна изоставена машина. | Direct visual evidence | VH | Теория на персонажите: excavation machine. |
+| E041 | Над кухината има масивна структурна преграда/граница. | Screenshot evidence | H | Точната дебелина/материал не са независимо измерени. |
+| E042 | Най-ниската видима зона около машината е наводнена. | Direct visual evidence | VH | Физическа бариера; Juliette се страхува от вода. |
+| E043 | George поддържа скрито работно място/cache в строителния слой под Silo. | Direct observation + screenshot | H | Системно използване на забранено пространство. |
+| E044 | Cache-ът на George съдържа преносима relic видеокамера. | Direct visual evidence | VH | Съдържанието/функцията са неизвестни. |
+| E045 | Cache-ът на George съдържа HDD 18 + отпечатан материал за възстановяване на изтрити файлове. | Direct observation + screenshot | VH | Директно свързва George с линията HDD/възстановяване. |
+| E046 | Holston идентифицира почерка върху документа за възстановяване като на Allison. | Character identification + screenshot | H | Верига на произход Allison → George/cache. |
+| E047 | George и Juliette са били във връзка. | Character fact / dialogue | H | Личният залог е установен. |
+| E048 | George оставя PEZ реликва и следи/бележки, насочващи Juliette. | Direct observation | H | Умишлена следа. |
+| E049 | George търси врата, показана на рисунка, в края на къс тунел в долната строителна зона. | Character testimony | H | Вероятна връзка с blueprint-а; идентичността не е директно потвърдена. |
+| E050 | George оставя съобщение, че е намерил това, което търси. | Character message | H | Подкрепя hypothesis, че вратата е намерена, но не доказва проход/отваряне. |
+| E051 | Juliette премълчава пред органите на реда, че George е казал, че го е намерил. | Direct action | H | Избирателно задържане на информация. |
+| E052 | Juliette се страхува от вода; зоната на описаната врата е свързана с наводнената долна зона. | Character fact + environment | H | Обяснява бариерата. |
+| E053 | Juliette напуска наводненото дъно, без лично да провери описаната врата. | Direct observation | H | H13 остава непотвърдена. |
+| E054 | Level 9 и Level 12 са директно показани. | Visual evidence | VH | Ориентири в горните нива. |
+| E055 | Входът на Judicial се появява в съседна поредица с marker за Level 14. | Visual sequence / inference | H | Силно подкрепя Judicial на/около 14. |
+| E056 | Level 50 е в Mids. | Direct visual / dialogue | H | Пространствен ориентир. |
+| E057 | Level 50 съдържа медицинска/неонатална инфраструктура; бащата на Juliette е лекар там. | Direct observation / character fact | H | Семеен контекст на Juliette в Mids. |
+| E058 | Разстоянието от почти 100 нива прави посещенията баща↔Mechanical практически невъзможни в рамките на един почивен ден. | Character testimony / consequence | H | Директно evidence за социално разделение. |
+| E059 | Съществува голяма вътрешна зелена обща зона с ресторант/места за сядане. | Direct visual evidence | H | Не е само индустриален бункер. |
+| E060 | Bernard/IT се противопоставя Juliette да стане Sheriff и посочва кражбата на изолационна лента. | Direct stance | H | Не е доказано формално вето. |
+| E061 | Самоубийството се третира като сериозно престъпление срещу Silo. | Institutional rule / dialogue | H | Отваря въпрос за колективната стойност на живота. |
+| E062 | Самоделното/неразрешено радио е строго забранено от Pact. | Institutional rule / dialogue | H | Ограничение върху независимата комуникация. |
+| E063 | Населението е описано приблизително като 10 000. | Character / institutional testimony | H | Заменено по точност от E086, без противоречие. |
+| E064 | `SILOMAIL` показва планирано 8-часово прекъсване, наредено от Mayor и започващо в 22:00. | Screenshot evidence | VH | Централизирани съобщения + оперативна власт на Mayor. |
+| E065 | Енергийната верига е пара отдолу → турбина → генератор → електричество. | Technical observation / dialogue | H | Оперативната верига е ясна. |
+| E066 | Персоналът на Mechanical казва, че никой не знае точния произход на основния източник на пара. | Character testimony | H | Инфраструктурата нагоре по веригата е извън знанието на текущите оператори. |
+| E067 | Генераторът/турбината е огромна централизирана многоетажна машина, отваряна за поддръжка. | Direct visual evidence | VH | Мащаб на критична инфраструктура. |
+| E068 | По време на планирания blackout нормалното осветление до голяма степен изчезва. | Direct visual evidence | H | Зависимост от инфраструктурата. |
+| E069 | По време на изключването на захранването public display за кратко показва зелено изображение на външната среда. | Direct visual + screenshot | VH | Множество визуални състояния; реалността не е удостоверена. |
+| E070 | Mayor подкрепя/назначава Juliette въпреки противопоставянето на Bernard. | Direct governance action | H | Формална стъпка в наследяването на длъжността. |
+| E071 | Mayor умира след очевидна умишлена атака/отравяне. | Direct event | H | Извършителят/мотивът са неизвестни при S01E03 boundary. |
+| E072 | Майката на Juliette е била медицински специалист/служител; Juliette е имала брат. | Family-history evidence | H | Точната медицинска роля на майката не е уточнена. |
+| E073 | Juliette обвинява баща си за загубата на майка и брат и свързва разрива с преместването си в Mechanical. | Character testimony / motivation | H | Доказва гледната точка/мотива на Juliette, а не обективна вина на бащата. |
+| E074 | Judicial се противопоставя Juliette да стане Sheriff и предпочита друг кандидат. | Direct governance stance | H | Наследяването на Sheriff = институционална борба за власт. |
+| E075 | Deputy Sheriff Marnes умира при подозрителни обстоятелства. | Direct event | M | S01E05 по-късно третира смъртта като разследване на убийство. |
+| E076 | Juliette намира официално досие на George Wilkins. | Direct investigation event | H | Позволява сравнение между официалния запис и независимото evidence. |
+| E077 | Публичният display на външната среда е показан в нормално нощно състояние с тъмна външна среда/дърво/звездоподобни точки. | Direct visual evidence | H | Динамично дневно/нощно състояние; не е доказателство за live feed. |
+| E078 | Пространствената поредица в S01E04 укрепва модела Level 1/Up-top Sheriff + airlock complex. | Visual/spatial inference | M | Силен модел, но не потвърждение на план на етажа. |
+| E079 | Известие за нов обитател насочва нежеланите вещи на предишния обитател към рециклиране за правилно преразпределение. | Direct screenshot evidence | VH | Кръгово повторно използване/преразпределение; режимът на собственост е неизвестен. |
+| E080 | Juliette вижда, че институционалното досие съдържа информация от разговора ѝ с Holston за часовника. | Direct observation / dossier evidence | H | Силно evidence на ниво съдържание за наблюдение/докладване; точният механизъм е неизвестен. |
+| E081 | Смъртта на Marnes се разследва като убийство и Juliette трябва да я разследва като Sheriff. | Direct dialogue / investigation fact | H | Надгражда статуса на подозрителната смърт от S01E04. |
+| E082 | След Marnes при Juliette е назначен Deputy, предпочитан/свързан с противопоставящата се институционална линия. | Governance action / dialogue context | H | Засилва H23; не доказва мотив за убийство. |
+| E083 | Скицата на Mayor липсва по време на разследването. | Direct investigation observation | H | Потенциално премахнато доказателство/обект. |
+| E084 | Sims директно обвинява Juliette за смъртта на Marnes. | Character accusation | H | Доказва позиция/натиск, а не отговорност на Juliette. |
+| E085 | По-рано видяната вътрешна градина/зелена обща зона се използва за погребения/мемориали/погребален ритуал. | Direct observation | H | Добавя погребална функция; няма извод за биологично рециклиране. |
+| E086 | Bernard заявява текущо население на Silo от **10 112 жители**. | Institutional/direct dialogue claim | H | Най-прецизната текуща официална стойност за населението досега. |
+| E087 | Marker-ът за Level 27 е директно видим. | Screenshot evidence | VH | Само пространствен ориентир. |
+| E088 | Juliette споменава **The Syndrome** като in-world състояние/термин. | Direct dialogue | H | Естеството, симптомите, причината и разпространението са неизвестни. |
+| E089 | Marker-ът за Level 29 е директно видим. | Screenshot evidence | VH | Пространствен ориентир. |
+| E090 | За новия Deputy е казано/установено от контекста, че живее няколко нива под Level 29. | Dialogue/context | M | Точното домашно ниво е неизвестно; няма връзка с marker-а за Level 27. |
+| E091 | Отрова за плъхове и липсващата скица на Mayor са намерени при Patrick Kennedy. | Direct investigation evidence | H | Първоначално уличаващо, но по-късно надеждността е компрометирана от E093. |
+| E092 | Judicial демонстрира способност да води/участва в разследване паралелно със Sheriff's Department. | Direct governance/investigative behavior | H | Точният формален правен обхват остава неизвестен. |
+| E093 | Juliette директно хваща Douglas Trumbull, свързан с Judicial оперативен служител, да манипулира/подхвърля evidence. | Direct observation | VH | Директно доказателство за манипулация на evidence в активно дело. |
+| E094 | След като е разкрит, Trumbull се опитва да убие Juliette, като я хвърли/бута по стълбите. | Direct observation | VH | Демонстрира смъртоносно оперативно поведение. |
+| E095 | Sims лично убива Trumbull. | Direct observation | VH | Критична точка за командване/прикриване. |
+| E096 | Разследващото/институционалното заключение на епизода идентифицира Trumbull като отговорен за убийствата на Mayor и Marnes и за натопяването на Patrick. | Character/institutional conclusion | M-H | Не е еквивалент на независимо признание/съдебномедицинско доказателство; Trumbull не може да бъде разпитан. |
+| E097 | Sims съзнателно представя смъртта на Trumbull като **самоубийство**, въпреки прякото наблюдение на зрителя, че Sims го убива. | Direct observation + false institutional claim | VH | Първи потвърден случай наблюдавано събитие ≠ официален разказ. |
+| E098 | Judge формално затваря делото след разказа за Trumbull. | Direct governance action | H | Демонстрира властта на Judicial да финализира дела. |
+| E099 | Наблюдателят в cafeteria вижда светлини в нощното небе, но не знае/не ги идентифицира като звезди. | Direct dialogue / knowledge-state evidence | H | Конкретна точка за изгубено астрономическо знание. |
+| E100 | Наблюдателят разпознава W/зигзагообразен модел и записва движение/разстояние приблизително през 30-дневни интервали. | Direct observation + screenshot | VH | Систематично продължително наблюдение. |
+| E101 | Нощният public display съдържа достатъчно систематично, зависимо от времето небесно поведение за повтарящо се измерване. | Inference from repeated observation | H | Не различава live, обработено, предварително записано или синтетично небе. |
+| E102 | Marker-ът за Level 8 е директно видим. | Screenshot evidence | VH | Пространствен ориентир в горните нива. |
+| E103 | Pact умишлено забранява механизираното придвижване/транспорт през Silo. | Character testimony about institutional rule | H | Потвърждава, че липсата на асансьори е умишлено политическо/дизайнерско ограничение; причината е неизвестна. |
+| E104 | Pact забранява увеличителни устройства над определен/ограничен праг. | Character testimony about institutional rule | H | Ограничава способността за наблюдение; целта/обосновката са неизвестни. |
+| E105 | Juliette умишлено търси примамка/evidence/претекст за повторно отваряне на затвореното дело за George. | Direct investigation motive / dialogue | H | Използва новата си власт като Sheriff за формално повторно отваряне. |
+| E106 | Това търсене на основание за повторно отваряне мотивира Juliette да се върне в скритата строителна/изкопна зона под Silo. | Direct action + motive context | H | Свързва официалното разследване със скрития слой. |
+| E107 | В края на епизода Juliette взема свързаната с George PEZ реликва като evidence основание/примамка. | Direct observation | VH | Само по себе си не доказва убийството на George. |
 
-| E108 | Намереният PEZ-like relic влиза в official Sheriff/law-enforcement handling flow след като е намерен от new Deputy. | Direct observation / investigation event | H | Strongly supports intended bait effect; exact placement action остава inference. |
-| E109 | Sheriff object-search interface няма known object name и описва relic-а физически като `YELLOW, PLASTIC, BLUE HANDLE`. | Direct visual evidence | VH | Показва липса на normal object identity/name в ordinary law-enforcement lookup context. |
-| E110 | Съществува restricted `RELIC DATABASE` / `RELIC/SEIZED OBJECTS INVENTORY` с label `JUDICIARY PERSONNEL ONLY`. | Direct visual evidence | VH | Direct evidence за privileged institutional relic records. |
-| E111 | Relic DB screen показва `ACCESS PERMISSIONS: ALL` и `SEARCH AUTHORIZATION: ACCESS ALL RECORDS/OBJECT LOGS` в context `JUDICIAL: SIMS`. | Direct visual evidence | VH | Establishes privileged Sims/Judicial authorization; не доказва кой physically executes всяко search действие. |
-| E112 | Relic DB връща `OBJECT 1175`, `ORIGIN: PRE-SILO`, `LEDGER REF D55-M`, `LOCATION FOUND: UNKNOWN` и description `SMALL PLASTIC CONTAINER`, плюс archival image. | Direct visual evidence | VH | Direct evidence за preserved pre-Silo object classification/records. |
-| E113 | Level 14 е показано отново; dialogue маркира `Forgiveness Holiday` като ден за близки, семейство и приятели. | Direct visual + dialogue evidence | H | Repeated spatial anchor + new social/cultural datapoint; origin/function на holiday unknown. |
-| E114 | George’s former partner разпознава часовника, носен от Juliette, като свързан с George. | Character identification / physical provenance | H | Създава George → watch → Juliette provenance chain. |
-| E115 | George’s former partner го описва като човек, който използва хората за целите си и търси отговори на „големите въпроси“. | Character testimony | M | Supports instrumental-investigator model; не доказва, че всяка relationship е била purely instrumental. |
-| E116 | New Deputy има `The Syndrome`. | Character/medical fact | H | First concrete known character with the condition; cause/symptoms/institutional consequences still unknown. |
-| E117 | Level 17 е директно показано чрез level marker. | Direct visual evidence | VH | New spatial/worldbuilding anchor; no special function established. |
-| E118 | Juliette получава pre-Silo relic `Amazing Adventures in Georgia — a travel guide for kids`. | Direct visual/context evidence | VH | Concrete pre-Silo geographic material. |
-| E119 | Travel guide pages съдържат Chattahoochee, Tybee Island/Georgia coast, North-American wildlife и U.S. flag imagery. | Direct visual evidence | VH | Reliably identifies `Georgia` as the U.S. state; does not locate the Silo by itself. |
-| E120 | Remote video feed показва Juliette вътре в личното ѝ жилище. | Direct visual evidence | VH | Directly establishes residential-surveillance capability. |
-| E121 | Wide shot показва dedicated centralized surveillance control center с множество monitoring stations и operator consoles. | Direct visual evidence | VH | Surveillance infrastructure is organized and persistent, not a single ad-hoc feed. |
-| E122 | Control center показва множество simultaneous feeds от различни Silo locations и active operators; Juliette’s home feed е част от тази wall. | Direct visual evidence | VH | Establishes multi-location centralized monitoring. |
-| E123 | Selected pre-Silo knowledge е preserved в privileged institutional records, докато residents demonstrably lack basic historical/object knowledge. | Cross-evidence inference | VH | Refactors H6 from simple knowledge loss toward asymmetric preservation + restricted access. |
+| E108 | Намерената PEZ-подобна реликва влиза в официалния процес на Sheriff/органите на реда, след като е намерена от новия Deputy. | Direct observation / investigation event | H | Силно подкрепя предвидения ефект на примамката; точното действие по поставянето остава извод. |
+| E109 | Интерфейсът за търсене на обекти на Sheriff няма известно име на предмета и описва реликвата физически като `YELLOW, PLASTIC, BLUE HANDLE`. | Direct visual evidence | VH | Показва липса на нормална идентичност/име на предмета в обикновения контекст на търсене от органите на реда. |
+| E110 | Съществува ограничена `RELIC DATABASE` / `RELIC/SEIZED OBJECTS INVENTORY` с обозначение `JUDICIARY PERSONNEL ONLY`. | Direct visual evidence | VH | Директно evidence за привилегировани институционални записи за реликви. |
+| E111 | Екранът на Relic DB показва `ACCESS PERMISSIONS: ALL` и `SEARCH AUTHORIZATION: ACCESS ALL RECORDS/OBJECT LOGS` в контекст `JUDICIAL: SIMS`. | Direct visual evidence | VH | Установява привилегирано разрешение за Sims/Judicial; не доказва кой физически изпълнява всяко действие по търсене. |
+| E112 | Relic DB връща `OBJECT 1175`, `ORIGIN: PRE-SILO`, `LEDGER REF D55-M`, `LOCATION FOUND: UNKNOWN` и описание `SMALL PLASTIC CONTAINER`, плюс архивно изображение. | Direct visual evidence | VH | Директно evidence за запазена pre-Silo класификация/записи на предмета. |
+| E113 | Level 14 е показано отново; диалогът определя `Forgiveness Holiday` като ден за близки, семейство и приятели. | Direct visual + dialogue evidence | H | Повторен пространствен ориентир + нова социална/културна точка; произходът/функцията на празника са неизвестни. |
+| E114 | Бившата партньорка на George разпознава часовника, носен от Juliette, като свързан с George. | Character identification / physical provenance | H | Създава верига на произход George → часовник → Juliette. |
+| E115 | Бившата партньорка на George го описва като човек, който използва хората за целите си и търси отговори на „големите въпроси“. | Character testimony | M | Подкрепя модела за инструментален разследващ; не доказва, че всяка връзка е била изцяло инструментална. |
+| E116 | Новият Deputy има `The Syndrome`. | Character/medical fact | H | Първият конкретно известен персонаж със състоянието; причината/симптомите/институционалните последствия остават неизвестни. |
+| E117 | Level 17 е директно показано чрез marker за ниво. | Direct visual evidence | VH | Нов пространствен/worldbuilding ориентир; не е установена специална функция. |
+| E118 | Juliette получава pre-Silo реликвата `Amazing Adventures in Georgia — a travel guide for kids`. | Direct visual/context evidence | VH | Конкретен pre-Silo географски материал. |
+| E119 | Страниците на travel guide-а съдържат Chattahoochee, Tybee Island/крайбрежието на Georgia, северноамериканска дива природа и изображения на флага на САЩ. | Direct visual evidence | VH | Надеждно идентифицира `Georgia` като американския щат; само по себе си не локализира Silo. |
+| E120 | Дистанционен video feed показва Juliette вътре в личното ѝ жилище. | Direct visual evidence | VH | Директно установява способност за наблюдение на жилища. |
+| E121 | Широк кадър показва специализиран централизиран център за наблюдение с множество станции за мониторинг и операторски конзоли. | Direct visual evidence | VH | Инфраструктурата за наблюдение е организирана и постоянна, а не единичен ad-hoc feed. |
+| E122 | Control center-ът показва множество едновременни feeds от различни места в Silo и активни оператори; feed-ът от дома на Juliette е част от тази стена. | Direct visual evidence | VH | Установява централизирано наблюдение на множество места. |
+| E123 | Избрано pre-Silo знание е запазено в привилегировани институционални записи, докато жителите доказано нямат базово историческо/предметно знание. | Cross-evidence inference | VH | Преработва H6 от проста загуба на знание към асиметрично съхраняване + ограничен достъп. |
 
-| E124 | Sims знае за centralized surveillance system и operationally ръководи/дава указания на surveillance personnel. | Direct observation / dialogue | VH | Resolves E06 uncertainty at operational-command level; does not prove Sims is highest authority. |
-| E125 | Level 14 е показано отново в S01E07. | Direct visual evidence | VH | Repeated spatial anchor; screenshot validated. |
-| E126 | Sims има access до surveillance feed, който включва Judge Meadows. | Direct visual evidence | VH | Judge is a surveillance subject; hierarchy Judge ↔ Sims remains unresolved. |
-| E127 | Centralized surveillance network наблюдава и medical center / clinical space. | Direct visual evidence | VH | Expands confirmed coverage beyond residence/public spaces. |
-| E128 | Входът към surveillance control center е concealed през/зад janitorial closet. | Direct observation | VH | Demonstrates physically hidden institutional infrastructure inside inhabited Silo. |
-| E129 | Flamekeepers са named historical group, описана като опитваща се да запази history/knowledge срещу заличаването му. | Character testimony / historical claim | H | Objective historical account still needs independent corroboration. |
-| E130 | Според historical testimony нещо е добавяно във водата с цел suppression/erasure на memories. | Character testimony / historical claim | M | First concrete proposed active-memory-control mechanism. |
-| E131 | Същият account поставя memory-suppression practice преди Rebellion. | Character testimony / historical claim | M | If accurate, Rebellion is not origin point of historical amnesia. |
-| E132 | Flamekeepers са отделно named в testimony; exact relation Flamekeepers ↔ Rebels/Rebellion не е direct-established. | Epistemic constraint / character-history context | H | Prevents premature equation of Flamekeepers with rebels. |
-| E133 | Flamekeepers са пазели old objects/relics именно като начин да съхранят historical memory. | Character testimony / historical claim | H | Relics become explicit physical memory carriers. |
-| E134 | Според testimony relic restrictions служат на deliberate historical erasure. | Character testimony about institutional purpose | H | Strongly supports H6; motive remains testimony-based rather than institutional documentation. |
-| E135 | Historical testimony твърди, че reproductive control е използван срещу Flamekeepers/descendants, за да не продължат family lines и постепенно да изчезнат. | Character testimony / historical claim | H | Supports selective lineage-suppression model. |
-| E136 | Medical system е описан като използващ false implant-removal assurances при selected women. | Character testimony / historical mechanism | H | Mechanism receives direct independent corroboration in E137. |
-| E137 | Бащата на Juliette лично признава, че е лъгал female patients, че contraceptive implants са премахнати, докато всъщност ги е оставял на място. | Direct dialogue / admission | VH | Независимо corroborate-ва retained-implant evidence на Allison от S01E01; потвърждава covert medical-deception mechanism. |
+| E124 | Sims знае за централизираната система за наблюдение и оперативно ръководи/дава указания на персонала за наблюдение. | Direct observation / dialogue | VH | Разрешава неяснотата от E06 на ниво оперативно командване; не доказва, че Sims е най-висшата власт. |
+| E125 | Level 14 е показано отново в S01E07. | Direct visual evidence | VH | Повторен пространствен ориентир; screenshot-ът е валидиран. |
+| E126 | Sims има достъп до surveillance feed, който включва Judge Meadows. | Direct visual evidence | VH | Judge е обект на наблюдение; йерархията Judge ↔ Sims остава неустановена. |
+| E127 | Централизираната мрежа за наблюдение обхваща и medical center / клинично пространство. | Direct visual evidence | VH | Разширява потвърденото покритие отвъд жилищни/публични пространства. |
+| E128 | Входът към центъра за surveillance/control е скрит през/зад janitorial closet. | Direct observation | VH | Демонстрира физически скрита институционална инфраструктура вътре в обитаемия Silo. |
+| E129 | Flamekeepers са назована историческа група, описана като опитваща се да запази история/знание срещу заличаването му. | Character testimony / historical claim | H | Обективният исторически разказ все още изисква независимо потвърждение. |
+| E130 | Според историческото свидетелство нещо е добавяно във водата с цел потискане/заличаване на спомени. | Character testimony / historical claim | M | Първият конкретно предложен активен механизъм за контрол на паметта. |
+| E131 | Същият разказ поставя практиката за потискане на паметта преди Rebellion. | Character testimony / historical claim | M | Ако е точен, Rebellion не е началната точка на историческата амнезия. |
+| E132 | Flamekeepers са отделно назовани в свидетелството; точната връзка Flamekeepers ↔ Rebels/Rebellion не е директно установена. | Epistemic constraint / character-history context | H | Предотвратява преждевременно приравняване на Flamekeepers с бунтовниците. |
+| E133 | Flamekeepers са пазели стари предмети/реликви именно като начин да съхранят историческата памет. | Character testimony / historical claim | H | Реликвите стават явни физически носители на паметта. |
+| E134 | Според свидетелството ограниченията върху реликвите служат за умишлено историческо заличаване. | Character testimony about institutional purpose | H | Силно подкрепя H6; мотивът остава основан на свидетелство, а не на институционална документация. |
+| E135 | Историческото свидетелство твърди, че репродуктивният контрол е използван срещу Flamekeepers/потомците им, за да не продължат семейните линии и постепенно да изчезнат. | Character testimony / historical claim | H | Подкрепя модел за избирателно потискане на родови линии. |
+| E136 | Медицинската система е описана като използваща неверни уверения за премахване на импланта при избрани жени. | Character testimony / historical mechanism | H | Механизмът получава директно независимо потвърждение в E137. |
+| E137 | Бащата на Juliette лично признава, че е лъгал пациентките, че контрацептивните импланти са премахнати, докато всъщност ги е оставял на място. | Direct dialogue / admission | VH | Независимо потвърждава evidence-а за оставения имплант на Allison от S01E01; потвърждава скрит медицински измамен механизъм. |
 | E138 | Майката на George е идентифицирана чрез свидетелски разказ като Flamekeeper. | Character testimony / historical claim | H | Дава на George пряка семейна връзка с мрежата за съхраняване на знания. |
-| E139 | Provenance на Georgia travel guide е описан като Gloria → майката на George, когато Gloria се е withdrawn/given up от този path. | Character testimony / object provenance | H | Прави книгата част от Flamekeeper relic-preservation chain; не locatе-ва Silo в Georgia. |
-| E140 | Следователно Georgia book има concrete Flamekeeper-preservation provenance, а не е random isolated relic. | Cross-evidence inference | H | Strengthen-ва historical significance, а не geographic-location confidence. |
-| E141 | Майката на Juliette и майката на George са се познавали и са имали обща business/work relationship. | Character testimony / historical claim | H | Създава intergenerational bridge между семействата на Juliette и George. |
-| E142 | Майката на Juliette е идентифицирана чрез testimony като Flamekeeper. | Character testimony / historical claim | H | Прави Juliette descendant на knowledge-preserving family line. |
-| E143 | Бащата на Juliette оправдава участието си в implant deception с твърдението, че не е имал избор. | Character testimony / self-justification | VH | Установява stated justification; objective coercion остава unresolved. |
-| E144 | Juliette вярва/обвинява баща си, че е предал майка ѝ. | Character belief / accusation | VH | Historical character belief при S01E07 boundary; S01E08 E153 materially revise-ва това обяснение. |
-| E145 | Juliette подозира, че residents са наблюдавани чрез mirrors. | Character hypothesis | H | Първоначално character inference; E146 независимо corroborate-ва mechanism. |
-| E146 | Sims/context и surveillance feed corroborate-ват concealed cameras зад/в mirror structures. | Direct observation + dialogue/context corroboration | VH | Потвърждава physical capture mechanism; не доказва, че всеки mirror е instrumented. |
-| E147 | Juliette намира/retrieve-ва hard drive, свързан с investigation на George. | Direct observation | VH | Реактивира HDD evidence line; exact `HDD 18` identifier не се reassert-ва, освен ако не е shown/spoken in-scene. |
-| E148 | Level 26 е директно показан чрез level marker. | Direct visual evidence | VH | Нов spatial/worldbuilding anchor; screenshot е validated. |
-| E149 | Confirmed surveillance coverage вече обхваща residence, high-level official, medical/institutional space и multiple internal locations. | Cross-evidence inference | VH | Прави systemic, а не ad-hoc monitoring все по-plausible; total coverage остава unproven. |
+| E139 | Произходът на Georgia travel guide е описан като Gloria → майката на George, когато Gloria се е оттеглила/отказала от този път. | Character testimony / object provenance | H | Прави книгата част от Flamekeeper веригата за съхраняване на реликви; не локализира Silo в Georgia. |
+| E140 | Следователно книгата за Georgia има конкретен произход от Flamekeeper-съхраняване, а не е случайна изолирана реликва. | Cross-evidence inference | H | Засилва историческото значение, а не увереността за географското местоположение. |
+| E141 | Майката на Juliette и майката на George са се познавали и са имали обща професионална/работна връзка. | Character testimony / historical claim | H | Създава междупоколенчески мост между семействата на Juliette и George. |
+| E142 | Майката на Juliette е идентифицирана чрез свидетелство като Flamekeeper. | Character testimony / historical claim | H | Прави Juliette потомък на семейна линия, съхраняваща знание. |
+| E143 | Бащата на Juliette оправдава участието си в измамата с импланта с твърдението, че не е имал избор. | Character testimony / self-justification | VH | Установява заявеното оправдание; обективната принуда остава неустановена. |
+| E144 | Juliette вярва/обвинява баща си, че е предал майка ѝ. | Character belief / accusation | VH | Историческо убеждение на персонажа при S01E07 boundary; S01E08 E153 съществено преработва това обяснение. |
+| E145 | Juliette подозира, че жителите са наблюдавани чрез огледала. | Character hypothesis | H | Първоначално извод на персонажа; E146 независимо потвърждава механизма. |
+| E146 | Sims/контекстът и surveillance feed-ът потвърждават скрити камери зад/в конструкции с огледала. | Direct observation + dialogue/context corroboration | VH | Потвърждава физическия механизъм за заснемане; не доказва, че всяко огледало е оборудвано. |
+| E147 | Juliette намира/взема hard drive, свързан с разследването на George. | Direct observation | VH | Реактивира HDD evidence линията; точният идентификатор `HDD 18` не се приема повторно, освен ако не е показан/изговорен в сцената. |
+| E148 | Level 26 е директно показан чрез marker за ниво. | Direct visual evidence | VH | Нов пространствен/worldbuilding ориентир; screenshot-ът е валидиран. |
+| E149 | Потвърденото покритие на наблюдението вече обхваща жилище, висш служител, медицинско/институционално пространство и множество вътрешни места. | Cross-evidence inference | VH | Прави наблюдението все по-системно, а не ad-hoc; пълното покритие остава недоказано. |
 
 
-| E150 | Майката на Juliette е построила/притежавала homemade microscope-like magnification apparatus. | Direct visual + dialogue/context evidence | VH | Concrete independent-observation capability под Pact magnification restriction; exact optical power е unknown. |
-| E151 | Apparatus се използва в medical/scientific investigation с rabbit с heart problem, представен като analogous на condition на Jacob. | Direct observation + dialogue/context | H | Показва biomedical discovery motive; не установява genetic cause или exact diagnosis. |
-| E152 | Restricted-access institutional record документира attention от authorities към майката на Juliette във връзка с relic/magnification-device activity. | Direct visual/documentary evidence | H | Existence/category на record е ясно; small blurred text не се over-transcribe-ва. |
-| E153 | Juliette осъзнава, че mirror-camera surveillance дава direct mechanism authorities да са научили за microscope на майка ѝ, revise-вайки по-ранното ѝ father-as-informant belief. | Character realization + cross-evidence corroboration | VH | Father-as-informant вече не е необходим за този event; не доказва, че той никога не е споделял друга информация. |
-| E154 | Priority internal message до Martha Walker от Medical / Dr Pete Nichols гласи: `RUNAWAY HEADING TO YOU, URGENT. ETA 6PM.` | Direct visual/documentary evidence | VH | Потвърждава structured interdepartmental digital messaging; screenshot text сам по себе си казва само `RUNAWAY`, identity идва от scene context. |
-| E155 | Level 30 е директно показан чрез level marker. | Direct visual evidence | VH | Нов spatial/worldbuilding anchor; не е established special function. |
-| E156 | Mayor и Sims координират trap срещу Juliette. | Direct observation | VH | Демонстрира direct operational coordination; само по себе си не установява hierarchy. |
-| E157 | Mayor и Sims твърдят, че Juliette е казала, че иска да излезе навън; в сцената не е established independent witness и claim-ът противоречи на observed interaction. | Direct observation + false/disputed institutional claim | VH | Показва, че cleaning-rule predicate може да бъде fabricated/weaponized, когато officials контролират testimony. |
-| E158 | Bernard/IT заявява, че Judge Meadows се страхува от него. | Character testimony / self-described power relation | VH | Установява claim-а на Bernard; objective hierarchy/leverage остава unresolved. |
-| E159 | Juliette е арестувана на основата на claim-а, че е казала, че иска да излезе навън. | Direct observation + institutional action | VH | False/disputed testimony води до immediate coercive legal consequence. |
-| E160 | В края на епизода Juliette преминава през central-stair railing в escape/evasion context; outcome не е показан преди cut. | Direct observation | VH | Не се класифицира като suicide attempt; outcome остава unknown при S01E08 boundary. |
+| E150 | Майката на Juliette е построила/притежавала самоделен увеличителен апарат, подобен на микроскоп. | Direct visual + dialogue/context evidence | VH | Конкретна способност за независимо наблюдение под ограничението на Pact за увеличителни устройства; точната оптична мощност е неизвестна. |
+| E151 | Апаратът се използва в медицинско/научно изследване със заек със сърдечен проблем, представен като аналогичен на състоянието на Jacob. | Direct observation + dialogue/context | H | Показва биомедицински мотив за откритие; не установява генетична причина или точна диагноза. |
+| E152 | Институционален запис с ограничен достъп документира внимание от властите към майката на Juliette във връзка с дейност около реликви/увеличително устройство. | Direct visual/documentary evidence | H | Съществуването/категорията на записа са ясни; дребният замъглен текст не се транскрибира прекомерно. |
+| E153 | Juliette осъзнава, че наблюдението чрез камери в огледалата дава директен механизъм властите да са научили за микроскопа на майка ѝ, преработвайки по-ранното ѝ убеждение за бащата като информатор. | Character realization + cross-evidence corroboration | VH | Моделът „бащата е информатор“ вече не е необходим за това събитие; не доказва, че той никога не е споделял друга информация. |
+| E154 | Приоритетно вътрешно съобщение до Martha Walker от Medical / Dr Pete Nichols гласи: `RUNAWAY HEADING TO YOU, URGENT. ETA 6PM.` („Беглецът идва към теб, спешно. Очаквано пристигане 18:00.“) | Direct visual/documentary evidence | VH | Потвърждава структурирано междуотделно digital messaging; текстът на screenshot-а сам по себе си казва само `RUNAWAY`, а самоличността идва от контекста на сцената. |
+| E155 | Level 30 е директно показан чрез marker за ниво. | Direct visual evidence | VH | Нов пространствен/worldbuilding ориентир; не е установена специална функция. |
+| E156 | Mayor и Sims координират капан срещу Juliette. | Direct observation | VH | Демонстрира пряка оперативна координация; само по себе си не установява йерархия. |
+| E157 | Mayor и Sims твърдят, че Juliette е казала, че иска да излезе навън; в сцената не е установен независим свидетел и твърдението противоречи на наблюдаваното взаимодействие. | Direct observation + false/disputed institutional claim | VH | Показва, че предпоставката по cleaning правилото може да бъде фабрикувана/използвана като оръжие, когато служители контролират свидетелството. |
+| E158 | Bernard/IT заявява, че Judge Meadows се страхува от него. | Character testimony / self-described power relation | VH | Установява твърдението на Bernard; обективната йерархия/влияние остава неустановена. |
+| E159 | Juliette е арестувана на основата на твърдението, че е казала, че иска да излезе навън. | Direct observation + institutional action | VH | Невярно/оспорвано свидетелство води до непосредствена принудителна правна последица. |
+| E160 | В края на епизода Juliette преминава през парапета на централното стълбище в контекст на бягство/избягване; резултатът не е показан преди прекъсването. | Direct observation | VH | Не се класифицира като опит за самоубийство; резултатът остава неизвестен при S01E08 boundary. |
 
 
-| E161 | Juliette оцелява след initial railing jump, като се приземява върху / е уловена от intermediate bridge structure. | Direct observation | VH | Resolve-ва S01E08 immediate-outcome uncertainty; event остава escape/evasion, а не suicide attempt. |
-| E162 | Level 23 е директно показан по време на post-jump escape sequence на Juliette. | Direct visual evidence | VH | Нов spatial/worldbuilding anchor; не е established special function. |
-| E163 | Директно е показан малък осветен object/device с маркировка `18`. | Direct visual evidence | VH | Number е clear; function е unknown. |
-| E164 | Scene context свързва осветения object/device `18` с Bernard / acting mayor. | Direct observation / context-linked visual evidence | H | Не установява какво прави device или relation към HDD 18. |
-| E165 | В края на S01E09 Juliette отваря познатия `JANE CARMODY CLEANING` file от hard-drive evidence chain. | Direct observation + cross-episode file match | VH | Свързва Juliette директно с E014 lush-cleaning footage; не resolve-ва дали lush exterior е real или synthetic. |
+| E161 | Juliette оцелява след първоначалния скок през парапета, като се приземява върху / е уловена от междинна мостова конструкция. | Direct observation | VH | Разрешава непосредствената неяснота от S01E08; събитието остава бягство/избягване, а не опит за самоубийство. |
+| E162 | Level 23 е директно показан по време на поредицата на бягството след скока на Juliette. | Direct visual evidence | VH | Нов пространствен/worldbuilding ориентир; не е установена специална функция. |
+| E163 | Директно е показан малък осветен обект/устройство с маркировка `18`. | Direct visual evidence | VH | Числото е ясно; функцията е неизвестна. |
+| E164 | Контекстът на сцената свързва осветения обект/устройство `18` с Bernard / acting mayor. | Direct observation / context-linked visual evidence | H | Не установява какво прави устройството или връзката му с HDD 18. |
+| E165 | В края на S01E09 Juliette отваря познатия файл `JANE CARMODY CLEANING` от evidence веригата на hard drive-а. | Direct observation + cross-episode file match | VH | Свързва Juliette директно с E014 зеленото cleaning видео; не разрешава дали зелената външна среда е реална или синтетична. |
 
 
-| E166 | `JANE CARMODY CLEANING` imagery се broadcast-ва по multiple/all visible Silo monitors, преди Bernard да спре transmission. | Direct observation | VH | Демонстрира, че secret cleaning imagery може да влезе в broader display infrastructure. |
-| E167 | Bernard спира sensitive cleaning-image broadcast. | Direct observation | VH | Показва direct intervention/control в display event; exact technical path не е established. |
-| E168 | Bernard нарежда на control-room personnel да не гледа classified imagery и да забрави видяното; Sims е включен в command context. | Direct dialogue / command | VH | Direct evidence за intra-authority information compartmentalization и command authority на Bernard в този context. |
-| E169 | Bernard лично въвежда Juliette в surveillance/control environment и selective показва archived incident footage. | Direct observation | VH | Потвърждава, че Bernard има privileged access до stored surveillance material. |
-| E170 | След преглед на archived evidence Juliette казва, че „never had a chance“, а Bernard се съгласява. | Direct dialogue / shared character assessment | VH | Установява shared assessment, а не objective universal fact за цялата system. |
-| E171 | Cleaning suit на Juliette е sealed с различен tape/material от standard cleaning configuration. | Direct observation | VH | Concrete controlled variation в suit sealing. |
-| E172 | Cleaning airlock entrance е spatially opposite на Cell 3 в Sheriff/holding area. | Direct visual/spatial observation | VH | Refine-ва detention → airlock → exterior route. |
-| E173 | Helmet на Juliette показва същата lush representation, свързана с Jane Carmody cleaning footage; тя първоначално заключава, че internal public display е лъжата. | Direct visual observation + character inference | VH | Нейният conclusion по-късно е superseded от helmet-layer reveal. |
-| E174 | Bernard и Sims очакват Juliette да fail-не/умре около дървото и третират timing/location като predictable. | Direct dialogue / insider expectation | VH | Strong evidence, че normal cleaner mortality е expected system outcome; mechanism остава отделен. |
-| E175 | Lush cleaner-helmet scene е директно разкрита като false/manipulated visual layer; barren terrain остава, когато layer-ът падне. | Direct visual-system reveal | VH | Exact technology е unknown; “hologram-like” описва appearance, а не mechanism. |
-| E176 | Bernard казва в context, че Juliette „knows“, разпознавайки, че тя е разбрала helmet-view deception. | Direct dialogue + scene-context interpretation | VH | Също потвърждава prior knowledge на Bernard за deception-а. |
-| E177 | Juliette оцелява отвъд expected cleaner-failure point, докато използва alternate tape/material configuration. | Direct observation + comparative evidence | VH | Силно implicate-ва suit sealing/tape, но само по себе си не доказва exact lethal pathway. |
-| E178 | Close visual evidence идентифицира осветения object `18` като physical key, държан от Bernard. | Direct visual evidence | VH | Supersede-ва uncertainty за object class; lock/function остава unknown. |
+| E166 | Изображението от `JANE CARMODY CLEANING` се излъчва по множество/всички видими монитори в Silo, преди Bernard да спре предаването. | Direct observation | VH | Демонстрира, че тайното cleaning изображение може да влезе в по-широката display инфраструктура. |
+| E167 | Bernard спира чувствителното излъчване на cleaning изображението. | Direct observation | VH | Показва пряка намеса/контрол в display събитието; точният технически път не е установен. |
+| E168 | Bernard нарежда на персонала в control room да не гледа класифицираното изображение и да забрави видяното; Sims е включен в контекста на заповедта. | Direct dialogue / command | VH | Директно evidence за compartmentalization на информацията между властови звена и командната власт на Bernard в този контекст. |
+| E169 | Bernard лично въвежда Juliette в средата за наблюдение/контрол и избирателно показва архивирано видео от инцидент. | Direct observation | VH | Потвърждава, че Bernard има привилегирован достъп до съхранен материал от наблюдението. |
+| E170 | След преглед на архивираното evidence Juliette казва, че `never had a chance` („никога не е имала шанс“), а Bernard се съгласява. | Direct dialogue / shared character assessment | VH | Установява споделена оценка на персонажите, а не обективен универсален факт за цялата система. |
+| E171 | Cleaning костюмът на Juliette е уплътнен с различна лента/материал от стандартната cleaning конфигурация. | Direct observation | VH | Конкретна контролирана вариация в уплътняването на костюма. |
+| E172 | Входът към cleaning airlock е пространствено срещу Cell 3 в Sheriff/holding зоната. | Direct visual/spatial observation | VH | Уточнява маршрута задържане → airlock → външна среда. |
+| E173 | Шлемът на Juliette показва същото зелено представяне, свързано с cleaning видеото на Jane Carmody; тя първоначално заключава, че вътрешният public display е лъжата. | Direct visual observation + character inference | VH | Нейното заключение по-късно е заменено от разкриването на слоя в шлема. |
+| E174 | Bernard и Sims очакват Juliette да се провали/умре около дървото и третират времето/мястото като предвидими. | Direct dialogue / insider expectation | VH | Силно evidence, че нормалната смъртност на cleaner е очакван системен резултат; механизмът остава отделен. |
+| E175 | Зелената сцена в cleaner helmet е директно разкрита като неверен/манипулиран визуален слой; безплодният терен остава, когато слоят падне. | Direct visual-system reveal | VH | Точната технология е неизвестна; „hologram-like“ описва външен вид, а не механизъм. |
+| E176 | Bernard казва в контекста, че Juliette `knows` („знае“), разпознавайки, че тя е разбрала измамата с гледката в шлема. | Direct dialogue + scene-context interpretation | VH | Също потвърждава предварителното знание на Bernard за измамата. |
+| E177 | Juliette оцелява отвъд очакваната точка на провал на cleaner-а, докато използва алтернативна конфигурация на лента/материал. | Direct observation + comparative evidence | VH | Силно посочва уплътняването на костюма/лентата, но само по себе си не доказва точния смъртоносен път. |
+| E178 | Близко визуално evidence идентифицира осветения обект `18` като физически ключ, държан от Bernard. | Direct visual evidence | VH | Заменя неяснотата за класа на обекта; ключалката/функцията остават неизвестни. |
 | E179 | След като false lush helmet layer изчезва, Juliette вижда директно barren exterior landscape. | Direct visual observation | VH | Силно установява barren exterior като substantially real. |
-| E180 | Wide exterior views разкриват multiple repeated circular surface installations, consistent с neighboring Silo sites. | Direct visual observation + structural inference | VH | Потвърждава multi-Silo landscape; exact count/operational status са unknown. |
-| E181 | Distant ruined/city-like skyline се вижда отвъд Silo field. | Direct visual observation | H | Не се infer-ва city identity или geographic location. |
-| E182 | Официална табела `THE SYNDROME` съдържа progressive symptom list, включително частично четими twitching/shaking и по-късно motor/cognitive/nervous-system impairment. | Direct visual / institutional medical information | H | Small text е blurred; exact wording не се over-transcribe-ва. |
-| E183 | Scene context идентифицира bottom като Level 144; area съдържа large axial fans и ventilation / air-handling infrastructure. | Direct observation + scene-context spatial identification | H | `144` не е visibly printed в selected frame. |
+| E180 | Широките външни кадри разкриват множество повтарящи се кръгли повърхностни инсталации, съвместими със съседни Silo обекти. | Direct visual observation + structural inference | VH | Потвърждава multi-Silo ландшафт; точният брой/оперативен статус са неизвестни. |
+| E181 | Далечен разрушен/подобен на град skyline се вижда отвъд полето със Silos. | Direct visual observation | H | Не се извежда идентичност на града или географско местоположение. |
+| E182 | Официална табела `THE SYNDROME` съдържа прогресивен списък със симптоми, включително частично четими потрепване/треперене и по-късно двигателно/когнитивно/нервно-системно нарушение. | Direct visual / institutional medical information | H | Дребният текст е замъглен; точната формулировка не се транскрибира прекомерно. |
+| E183 | Контекстът на сцената идентифицира дъното като Level 144; зоната съдържа големи аксиални вентилатори и вентилационна / air-handling инфраструктура. | Direct observation + scene-context spatial identification | H | `144` не е видимо изписано в избрания кадър. |
 | E184 | `ROTA` board в Janitorial closet е организиран по day, `LEVEL NO.`, time slots и assigned names/initials. | Direct visual evidence | VH | Доказва structured level-by-level scheduling; purpose отвъд scheduling остава unresolved. |
-| E185 | S02E01 показва голяма internal agricultural/growing zone, интегрирана между Silo levels, с dense crop rows и irrigation/misting infrastructure. | Direct visual evidence | VH | Установява agriculture като major habitation subsystem; crop species и self-sufficiency са unknown. |
-| E186 | Rebellion-era walls във втория Silo съдържат explicit anti-Founder / anti-deception graffiti, включително `LIARS`. | Direct visual evidence + scene-context temporal identification | VH | Установява historical hostility към Founders; exact grievance и truth на accusations остават unresolved. |
-| E187 | Handwritten message дава generator-related 15-minute warning по време на historical conflict във втория Silo. | Direct written evidence + scene context | H | Exact author/addressee и relation към IT assault са unresolved. |
-| E188 | В началото на sequence атаката provisional е интерпретирана като насочена към Engineering с цел seize-ване на generator control. | Inference — **SUPERSEDED** | VL | По-късен scene evidence идентифицира IT като attacked/defended location. Запазва се като correction history; generator note остава separate clue. |
-| E189 | По време на historical sequence Sheriff-led group атакува/напредва към IT, докато друга група защитава IT. | Direct observation + scene-context institutional identification | VH | Exact formal faction labels остават unresolved. |
-| E190 | Sheriff заявява, че Russell ги е излъгал. | Character testimony | VH | VH, че claim-ът е направен; truth, role на Russell и exact lie остават unknown. |
+| E185 | S02E01 показва голяма вътрешна земеделска/отглеждаща зона, интегрирана между нивата на Silo, с гъсти редове култури и инфраструктура за напояване/оросяване. | Direct visual evidence | VH | Установява земеделието като значима подсистема за обитаване; видовете култури и самодостатъчността са неизвестни. |
+| E186 | Стените от ерата на Rebellion във втория Silo съдържат явни anti-Founder / anti-deception графити, включително `LIARS`. | Direct visual evidence + scene-context temporal identification | VH | Установява историческа враждебност към Основателите; точната причина и истинността на обвиненията остават неустановени. |
+| E187 | Ръкописно съобщение дава 15-минутно предупреждение, свързано с генератора, по време на историческия конфликт във втория Silo. | Direct written evidence + scene context | H | Точният автор/адресат и връзката с атаката срещу IT остават неустановени. |
+| E188 | В началото на поредицата атаката временно е интерпретирана като насочена към Engineering с цел завземане на контрола върху генератора. | Inference — **SUPERSEDED** | VL | По-късно scene evidence идентифицира IT като атакувано/защитавано място. Запазва се като история на корекцията; бележката за генератора остава отделна следа. |
+| E189 | По време на историческата поредица група, водена от Sheriff, атакува/напредва към IT, докато друга група защитава IT. | Direct observation + scene-context institutional identification | VH | Точните формални обозначения на фракциите остават неустановени. |
+| E190 | Sheriff заявява, че Russell ги е излъгал. | Character testimony | VH | VH, че твърдението е направено; истината, ролята на Russell и точната лъжа остават неизвестни. |
 | E191 | Sheriff води групата към airlock с intention да излезе навън. | Direct observation + character-stated intent | VH | Установява organized exterior-exit objective. |
-| E192 | Sheriff успешно отваря airlock за групата. | Direct observation | VH | Operational access е achieved; access mechanism/authority са unknown. |
+| E192 | Sheriff успешно отваря airlock-а за групата. | Direct observation | VH | Оперативният достъп е постигнат; механизмът/властта за достъп са неизвестни. |
 | E193 | Sheriff-led group излиза от Silo навън. | Direct observation + scene continuity | VH | Потвърждава actual exit, а не само intent. |
-| E194 | Present-day remains/flag evidence около втория Silo визуално свързва historical exit sequence със Silo, до който по-късно достига Juliette. | Cross-scene visual continuity | H | Strong continuity evidence; exact identity на всяко body не е established individually. |
-| E195 | Historical exterior exit завършва фатално за поне голям брой participants. | Inference from cross-scene continuity + physical remains | H | Подкрепя real lethal exterior hazard; exact cause остава unresolved. |
+| E194 | Evidence-ът от останките/знамето в настоящето около втория Silo визуално свързва историческата поредица на излизането със Silo, до който по-късно достига Juliette. | Cross-scene visual continuity | H | Силно evidence за приемственост; точната идентичност на всяко тяло не е установена поотделно. |
+| E195 | Историческото излизане навън завършва фатално за поне голям брой участници. | Inference from cross-scene continuity + physical remains | H | Подкрепя реална смъртоносна външна опасност; точната причина остава неустановена. |
 | E196 | Juliette достига exterior hatch/approach area на Silo, отделен от original Silo. | Direct observation + spatial continuity | VH | Direct exploration на втори Silo site. |
 | E197 | Голямо поле с човешки останки обгражда exterior hatch/approach area на втория Silo. | Direct visual evidence | VH | Mass fatality field; не доказва, че всеки resident е излязъл или умрял. |
 | E198 | Juliette влиза във втория Silo през airlock и го затваря след себе си. | Direct observation | VH | Потвърждава physical interior access до друг Silo. |
-| E199 | В Silo 17 голямо `LIES` message е видимо върху internal cafeteria/display surface. | Direct visual evidence, **REFINED in S02E03** | VH | Първоначално е logged generic като graffiti; S02E03 survivor testimony идентифицира internal `LIES` message като появило се три дни след failed cleaning на Ron. Author остава unknown. |
-| E200 | Във втория Silo Juliette развива acute breathing distress, докато остава sealed в suit/helmet environment. | Direct observation | VH | Показва failure/depletion на suit breathing environment; exact technology/cause са unknown. |
+| E199 | В Silo 17 голямо съобщение `LIES` е видимо върху вътрешна cafeteria/display повърхност. | Direct visual evidence, **REFINED in S02E03** | VH | Първоначално е записано общо като графит; свидетелството на оцелелия в S02E03 идентифицира вътрешното `LIES` съобщение като появило се три дни след failed cleaning на Ron. Авторът остава неизвестен. |
+| E200 | Във втория Silo Juliette развива остър дихателен дистрес, докато остава запечатана в средата на костюма/шлема. | Direct observation | VH | Показва повреда/изчерпване на дихателната среда в костюма; точната технология/причина са неизвестни. |
 | E201 | След счупване/отваряне на helmet-а Juliette отново може да диша interior atmosphere на втория Silo. | Direct observation | VH | Установява immediately breathable interior air и силно refine-ва suit breathing/seal model. |
-| E202 | Вторият Silo съдържа concealed camera зад/в mirror structure, съвпадаща със surveillance concept в Silo на Juliette. | Direct visual evidence + repeated cross-Silo observation | VH | Демонстрира, че mirror-camera surveillance не е unique за един Silo. |
-| E203 | Fixed overhead lights остават operational в agricultural area на abandoned/collapsed втори Silo. | Direct visual evidence | VH | Потвърждава residual electrical power; source/scope са unknown. |
-| E204 | Present-day IT bridge/chokepoint във втория Silo остава локално illuminated. | Direct observation + cross-scene spatial continuity | H | Подкрепя residual power в IT; exact circuit/source е unknown. |
-| E205 | IT access bridge във втория Silo е physical severed, създавайки defensive/isolation geometry около IT. | Direct visual evidence + cross-scene spatial continuity | VH | Само по себе си не доказва коя faction е унищожила bridge. |
-| E206 | Вторият Silo е massively flooded, като water достига до няколко levels под IT. | Direct observation + scene-context spatial identification | VH | Cause/timeline на flooding е unknown; няма automatic equivalence с flooded bottom в Silo на Juliette. |
+| E202 | Вторият Silo съдържа скрита камера зад/в конструкция с огледало, съвпадаща с концепцията за наблюдение в Silo на Juliette. | Direct visual evidence + repeated cross-Silo observation | VH | Демонстрира, че наблюдението чрез камери в огледалата не е уникално за един Silo. |
+| E203 | Фиксирани таванни светлини остават работещи в земеделска зона на изоставения/разрушен втори Silo. | Direct visual evidence | VH | Потвърждава остатъчно електрозахранване; източникът/обхватът са неизвестни. |
+| E204 | IT мостът/chokepoint-ът в настоящето във втория Silo остава локално осветен. | Direct observation + cross-scene spatial continuity | H | Подкрепя остатъчно захранване в IT; точната верига/източник са неизвестни. |
+| E205 | Мостът за достъп до IT във втория Silo е физически прекъснат, създавайки отбранителна/изолираща геометрия около IT. | Direct visual evidence + cross-scene spatial continuity | VH | Само по себе си не доказва коя фракция е унищожила моста. |
+| E206 | Вторият Silo е масивно наводнен, като водата достига до няколко нива под IT. | Direct observation + scene-context spatial identification | VH | Причината/хронологията на наводняването са неизвестни; няма автоматично приравняване с наводненото дъно в Silo на Juliette. |
 | E207 | Childhood flashback показва young Juliette, която посещава excavation machine в своя Silo с приятел. | Direct observation / character-history scene | VH | Установява early personal familiarity с deep legacy infrastructure; не е доказана lower-tunnel connection. |
 | E208 | Living person се намира зад heavy secured/vault-like door в IT area на втория Silo. | Direct observation | VH | Falsify-ва всеки model, според който вторият Silo е напълно uninhabited. |
 | E209 | IT survivor-ът във втория Silo заплашва Juliette с lethal force, ако се опита да отвори secured door. | Character statement / threat | VH | Установява threat; willingness/ability да го изпълни остава отделен въпрос. |
-| E210 | Bernard/IT получава live video feed, свързан с Juliette, докато тя е навън. | Direct observation | VH | Установява live outbound exterior video channel, accessible за Bernard/IT; exact camera/transmitter source е unknown. |
-| E211 | Live feed, свързан с Juliette, продължава отвъд immediate surface area на нейния Silo и се губи, когато тя влиза във втория Silo. | Direct observation + scene continuity | VH | Установява practical transmission boundary в този event; не доказва deliberate blocking или липса на inter-Silo communications. |
-| E212 | Bernard използва physical document, озаглавен `THE ORDER`. | Direct visual evidence | VH | Различен е от public Pact в scene context; authorship, access rules и formal authority са unknown. |
-| E213 | `THE ORDER` съдържа ясно четим heading `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`. | Direct visual / institutional evidence | VH | Директно установява failed cleaning като severe contingency, anticipated от hidden doctrine; smaller body text не се over-transcribe-ва. |
+| E210 | Bernard/IT получава live video feed, свързан с Juliette, докато тя е навън. | Direct observation | VH | Установява live изходящ видео канал от външната среда, достъпен за Bernard/IT; точният източник камера/предавател е неизвестен. |
+| E211 | Live feed-ът, свързан с Juliette, продължава отвъд непосредствената повърхностна зона на нейния Silo и се губи, когато тя влиза във втория Silo. | Direct observation + scene continuity | VH | Установява практическа граница на предаването в това събитие; не доказва умишлено блокиране или липса на inter-Silo комуникации. |
+| E212 | Bernard използва физически документ, озаглавен `THE ORDER`. | Direct visual evidence | VH | Различен е от публичния Pact в контекста на сцената; авторството, правилата за достъп и формалната власт са неизвестни. |
+| E213 | `THE ORDER` съдържа ясно четимо заглавие `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR` („В случай на неуспешно cleaning, подгответе се за война“). | Direct visual / institutional evidence | VH | Директно установява failed cleaning като тежък сценарий, предвиден от скритата doctrine; по-дребният основен текст не се транскрибира прекомерно. |
 | E214 | Bernard access-ва heavy secured/vault-like IT door в original Silo на Juliette. | Direct visual evidence | VH | Установява restricted IT compartment/layer в нейния Silo. |
-| E215 | Privileged surveillance/control materials, включително `THE ORDER` и classified live monitoring, са свързани чрез scene context със secured IT layer в Silo на Juliette. | Scene-context inference | H | Strong association, но не всяка hidden function е доказана като физически разположена зад door. |
+| E215 | Привилегированите материали за наблюдение/контрол, включително `THE ORDER` и класифицираното live наблюдение, са свързани чрез контекста на сцената със защитения IT слой в Silo на Juliette. | Scene-context inference | H | Силна връзка, но не всяка скрита функция е доказана като физически разположена зад вратата. |
 | E216 | Silo на Juliette и вторият Silo съдържат analogous secured/vault-like IT compartments. | Repeated observation / cross-Silo structural inference | H | Подкрепя standardized secured-IT architecture; identical contents/functions остават unconfirmed. |
-| E217 | Жената, участвала в замяната на tape на Juliette, вярва, че Juliette в крайна сметка е умряла, защото suit-ът е останал без breathable air. | Character testimony / inference | VH | VH, че тя прави assessment-а; exact technical mechanism остава unconfirmed. |
-| E218 | Bernard и Judge Meadows приписват unexpected exterior survival на Juliette на замяната на normal cleaning tape. | Character testimony / insider assessment | VH | Strong insider causal attribution към tape/seal configuration. |
-| E219 | Judge Meadows заявява, че рано или късно някой е щял да разбере tape mechanism. | Character testimony | VH | Силно implies hidden, но discoverable known mechanism, а не accidental one-off defect. |
+| E217 | Жената, участвала в замяната на лентата на Juliette, вярва, че Juliette в крайна сметка е умряла, защото костюмът е останал без въздух за дишане. | Character testimony / inference | VH | VH, че тя прави тази оценка; точният технически механизъм остава непотвърден. |
+| E218 | Bernard и Judge Meadows приписват неочакваното оцеляване на Juliette навън на замяната на стандартната cleaning лента. | Character testimony / insider assessment | VH | Силно причинно приписване от вътрешни лица към конфигурацията на лентата/уплътнението. |
+| E219 | Judge Meadows заявява, че рано или късно някой е щял да разбере механизма с лентата. | Character testimony | VH | Силно предполага скрит, но откриваем известен механизъм, а не случаен еднократен дефект. |
 | E220 | Judge Meadows знае за `THE ORDER`. | Character knowledge / institutional testimony | VH | Показва, че doctrine се споделя отвъд Bernard поне в част от privileged senior knowledge layer. |
-| E221 | Bernard изрично се страхува/assess-ва, че catastrophic fate около втория Silo може да се случи и с неговия Silo. | Character statement / institutional risk assessment | VH | Свързва second-Silo collapse с current failed-cleaning/stability risk; не доказва, че `THE ORDER` е написан от конкретно този case. |
-| E222 | Distinct circled painted symbol/emblem се появява в rebellion-context imagery. | Direct visual evidence | VH | Exact meaning, name и faction identity остават unresolved. |
+| E221 | Bernard изрично се страхува/оценява, че катастрофалната съдба около втория Silo може да се случи и с неговия Silo. | Character statement / institutional risk assessment | VH | Свързва колапса на втория Silo с текущия риск за стабилността при failed cleaning; не доказва, че `THE ORDER` е написан въз основа на конкретно този случай. |
+| E222 | Отличителен ограден нарисуван символ/емблема се появява в изображенията от контекста на бунта. | Direct visual evidence | VH | Точното значение, име и идентичност на фракцията остават неустановени. |
 | E223 | Judge Meadows предлага да помогне на Bernard през кризата при условие, че след това той ѝ позволи да излезе навън и ѝ даде "good" tape. | Direct dialogue / negotiated condition | VH | Директно установява, че Meadows различава и изисква better tape configuration за собствения си exterior exit. |
-| E224 | Judge Meadows третира "good" tape като materially capable да подобри exterior survival спрямо standard cleaning tape. | Character inference / insider knowledge | H | Силно подкрепя material survival relevance; exact leak pathway остава unresolved. |
+| E224 | Judge Meadows третира `good` tape като материално способна да подобри оцеляването навън спрямо стандартната cleaning лента. | Character inference / insider knowledge | H | Силно подкрепя материалното значение за оцеляването; точният път на теча остава неустановен. |
 
-| E225 | Survivor-ът от Silo 17 заявява, че общо има 50 Silos. | Character testimony | H | VH, че statement е направено; exact system count очаква independent corroboration. |
-| E226 | Survivor-ът идентифицира location-а си като Silo 17. | Character testimony | VH | Установява stated designation на другия Silo. |
+| E225 | Оцелелият от Silo 17 заявява, че общо има 50 Silos. | Character testimony | H | VH, че твърдението е направено; точният системен брой очаква независимо потвърждение. |
+| E226 | Оцелелият идентифицира местоположението си като Silo 17. | Character testimony | VH | Установява заявеното обозначение на другия Silo. |
 | E227 | Original Silo на Juliette е силно identified/inferred като Silo 18 от Silo 17 context плюс съществуващия evidence за `18`. | Strong contextual inference | H | Само по себе си не доказва, че key 18 или HDD 18 са numbered by Silo. |
-| E228 | Survivor-ът казва, че unprotected хора от Silo 17 са останали живи навън по-дълго от краткия expected cleaner-death window. | Character testimony | H | Weaken-ва constant immediate outside-death timer model. |
-| E229 | Survivor-ът описва exterior dust/poison като временно разсейващ се/вдигащ се. | Character testimony | H | Exact agent и physical process остават unknown. |
-| E230 | Той казва, че hazardous material по-късно се връща и убива exposed population. | Character testimony / historical causal account | H | Подкрепя mobile/time-varying airborne или dust-borne hazard. |
-| E231 | Ron излиза навън за cleaning и отказва да clean-не. | Character testimony | H | Първи concrete failed-cleaning case в историята на Silo 17. |
-| E232 | Ron изписва/маркира `LIES` върху exterior sensor, използвайки outside dust. | Character testimony | H | Exact physical method и surviving visual record остават unresolved. |
-| E233 | Survivor-ът идентифицира failed cleaning на Ron като event-а, след който започва кризата в Silo 17. | Historical causal testimony | H | Strong match към `THE ORDER` failed-cleaning contingency. |
+| E228 | Оцелелият казва, че хора без защита от Silo 17 са останали живи навън по-дълго от краткия очакван прозорец за смърт на cleaner. | Character testimony | H | Отслабва модела за постоянен непосредствен таймер за смърт навън. |
+| E229 | Оцелелият описва външния прах/отрова като временно разсейващ се/вдигащ се. | Character testimony | H | Точният агент и физическият процес остават неизвестни. |
+| E230 | Той казва, че опасният материал по-късно се връща и убива изложеното население. | Character testimony / historical causal account | H | Подкрепя подвижна/променяща се във времето въздушна или прахова опасност. |
+| E231 | Ron излиза навън за cleaning и отказва да почисти. | Character testimony | H | Първи конкретен случай на failed cleaning в историята на Silo 17. |
+| E232 | Ron изписва/маркира `LIES` върху външния сензор, използвайки праха навън. | Character testimony | H | Точният физически метод и оцелелият визуален запис остават неустановени. |
+| E233 | Оцелелият идентифицира failed cleaning на Ron като събитието, след което започва кризата в Silo 17. | Historical causal testimony | H | Силно съответствие със сценария за failed cleaning в `THE ORDER`. |
 | E234 | Ron се отдалечава от sensor area и повече не е видян. | Character testimony | H | Не доказва, че е оцелял. |
-| E235 | Три дни по-късно `LIES` се появява на internal cafeteria display. | Character testimony | H | Author и technical mechanism остават unknown. |
-| E236 | S02E03 testimony идентифицира по-рано наблюдаваното internal `LIES` message в Silo 17 като част от post-Ron escalation sequence. | Cross-episode contextual refinement | H | Refine-ва E199, вместо да създава new visual claim. |
-| E237 | Survivor-ът заявява, че rebellion започва след тази sequence. | Historical causal testimony | H | Установява неговата causal reconstruction; не е independent historical documentation. |
+| E235 | Три дни по-късно `LIES` се появява на вътрешния cafeteria display. | Character testimony | H | Авторът и техническият механизъм остават неизвестни. |
+| E236 | Свидетелството в S02E03 идентифицира по-рано наблюдаваното вътрешно съобщение `LIES` в Silo 17 като част от поредицата на ескалация след Ron. | Cross-episode contextual refinement | H | Уточнява E199, вместо да създава ново визуално твърдение. |
+| E237 | Оцелелият заявява, че rebellion започва след тази поредица. | Historical causal testimony | H | Установява неговата причинна реконструкция; не е независима историческа документация. |
 | E238 | Survivor-ът от Silo 17 изрично нарича secured IT compartment vault. | Character terminology + prior visual evidence | VH | Upgrade-ва по-ранното descriptive language "vault-like" към in-world terminology. |
-| E239 | Survivor-ът казва, че Russell го е поставил във vault. | Character testimony | H | Установява claimed access/authority на Russell. |
+| E239 | Оцелелият казва, че Russell го е поставил във vault-а. | Character testimony | H | Установява заявения достъп/власт на Russell. |
 | E240 | Russell му е наредил никога да не допуска никого във vault. | Reported command | H | Силно подкрепя vault като protected objective по време на unrest. |
-| E241 | Survivor-ът казва, че хората излизат навън, защото не виждат Ron да умира и заключават, че exterior е безопасен. | Character testimony / historical causal account | H | Директно свързва missing visible cleaner death с mass-exit belief. |
+| E241 | Оцелелият казва, че хората излизат навън, защото не виждат Ron да умира и заключават, че външната среда е безопасна. | Character testimony / historical causal account | H | Директно свързва липсващата видима смърт на cleaner-а с убеждението, довело до масовото излизане. |
 | E242 | Failure да се наблюдава expected death на cleaner съществено допринася за mass-exit decision в Silo 17. | Causal inference grounded in testimony | H | Strengthen-ва visible-death deterrence model. |
-| E243 | Physical key на Bernard с маркировка `18` се използва за/access-ва `SERVER ROOM`. | Direct observation + cross-episode object match | VH | Resolve-ва previously unknown access target на key на този layer. |
-| E244 | Heavy secured vault се намира вътре в Server Room. | Direct visual/spatial observation | VH | Установява nested restricted architecture. |
-| E245 | Restricted-access path на Bernard е `key 18 → SERVER ROOM → vault`. | Spatial/system inference from direct sequence | VH | Exact inner-vault unlocking mechanism остава separate. |
+| E243 | Физическият ключ на Bernard с маркировка `18` се използва за достъп до `SERVER ROOM`. | Direct observation + cross-episode object match | VH | Разрешава по-рано неизвестната цел на достъпа за ключа на този слой. |
+| E244 | Тежък защитен vault се намира вътре в Server Room. | Direct visual/spatial observation | VH | Установява вложена архитектура с ограничен достъп. |
+| E245 | Пътят с ограничен достъп на Bernard е `key 18 → SERVER ROOM → vault`. | Spatial/system inference from direct sequence | VH | Точният механизъм за отключване на вътрешния vault остава отделен въпрос. |
 | E246 | Bernard казва, че cleaning recording-ът на Jane Carmody е на около 200 години. | Character testimony / privileged institutional knowledge | H | VH, че го казва; възрастта може да е закръглена. |
-| E247 | Cleaner visual/recording system, представена чрез Jane Carmody, е съществувала много преди настоящата криза и вероятно предхожда познатия post-Rebellion order. | Cross-episode inference | H | Exact chronology вече е изрично contested от E263–E264. |
+| E247 | Визуалната/записваща система за cleaner-а, представена чрез Jane Carmody, е съществувала много преди настоящата криза и вероятно предхожда познатия ред след Rebellion. | Cross-episode inference | H | Точната хронология вече е изрично оспорена от E263–E264. |
 | E248 | Bernard знае, че Juliette е достигнала Silo 17. | Character statement / privileged knowledge | VH | Демонстрира cross-Silo situational knowledge. |
-| E249 | Bernard заявява, че Silo 17 е "dead" от дълго време. | Character testimony | H | Exact meaning на "dead" остава unresolved. |
+| E249 | Bernard заявява, че Silo 17 е `dead` („мъртъв“) от дълго време. | Character testimony | H | Точното значение на `dead` остава неустановено. |
 | E250 | Bernard казва, че е знаел, че Silo 17 е dead, преди Judge Meadows да стане негов shadow. | Character testimony / temporal anchor | VH | Показва, че това knowledge предхожда настоящата криза. |
-| E251 | В Silo 17 се появяват graffiti/messages, твърдящи, че cleaner-ът, отказал да clean-ва, е жив. | Public-belief expression / testimony-context evidence | H | Не доказва, че Ron е оцелял. |
+| E251 | В Silo 17 се появяват графити/съобщения, твърдящи, че cleaner-ът, отказал да почисти, е жив. | Public-belief expression / testimony-context evidence | H | Не доказва, че Ron е оцелял. |
 | E252 | Аналогична social narrative "cleaner survived" се появява в Silo 18 след cleaning-а на Juliette. | Repeated cross-Silo social pattern | H | Strengthen-ва repeatable legitimacy-failure cascade. |
 | E253 | Bernard пита Sims какво е станало с personnel, видял classified broadcast-а на Juliette. | Direct dialogue | VH | Показва active post-exposure containment concern. |
-| E254 | Sims казва, че тези witnesses са получили medication, представено като sedatives. | Character testimony / institutional action | VH | Exact drug и effect остават unresolved на този етап. |
-| E255 | Medication се използва selective върху witnesses, exposed на forbidden visual information. | Scene-context inference | H | Подкрепя targeted information-containment use. |
+| E254 | Sims казва, че тези свидетели са получили лекарство, представено като успокоително. | Character testimony / institutional action | VH | Точното лекарство и ефектът остават неустановени на този етап. |
+| E255 | Лекарството се използва избирателно върху свидетели, изложени на забранена визуална информация. | Scene-context inference | H | Подкрепя целева употреба за ограничаване на информацията. |
 | E256 | Sims изрично предлага на друг човек medication, за да може човекът да забрави. | Direct dialogue / institutional capability | VH | Direct evidence за intended pharmacological forgetting. |
 | E257 | Текущите authorities разполагат или твърдят, че разполагат с pharmacological means за deliberate memory suppression. | Institutional capability inference | H | Силно corroborate-ва по-ранното historical memory-suppression testimony. |
 | E258 | Judge Meadows представя theory, че The Syndrome е реакция към живота в Silo, а не primary physiological disease. | Character theory/testimony | M | VH, че theory е stated; truth остава unconfirmed. |
 | E259 | Juliette вярва, че manipulated lush exterior image кара cleaners да clean-ват. | Character inference / direct dialogue | H | Силно corroborate-ва H4. |
-| E260 | Juliette осъзнава, че lush helmet view е false, защото съвпада със стария Jane Carmody cleaning recording. | Character inference grounded in repeated visual pattern | VH | Recognition-ът ѝ е основан на exact/repeated scene features. |
-| E261 | Juliette не знае обичайната дума/concept "birds", но разпознава, че летящите създания се движат по същия pattern като в Jane Carmody recording. | Direct dialogue + cross-scene comparison | VH | Подкрепя едновременно reused visual-template и cultural-knowledge-loss hypotheses. |
-| E262 | `CODE SILO ORANGE` изрично инструктира medical staff да не премахва birth control, като същевременно гарантира, че patient вярва, че е премахнат. | Direct visual / institutional instruction | VH | Formalize-ва вече confirmed reproductive-control deception mechanism. |
+| E260 | Juliette осъзнава, че зелената гледка в шлема е невярна, защото съвпада със стария cleaning запис на Jane Carmody. | Character inference grounded in repeated visual pattern | VH | Разпознаването ѝ е основано на точни/повтарящи се характеристики на сцената. |
+| E261 | Juliette не знае обичайната дума/концепция `birds` („птици“), но разпознава, че летящите създания се движат по същия модел като в записа на Jane Carmody. | Direct dialogue + cross-scene comparison | VH | Подкрепя едновременно hypotheses за повторно използван визуален шаблон и загуба на културно знание. |
+| E262 | `CODE SILO ORANGE` изрично инструктира медицинския персонал да не премахва birth control, като същевременно гарантира, че пациентът вярва, че е премахнат. | Direct visual / institutional instruction | VH | Формализира вече потвърдения измамен механизъм за репродуктивен контрол. |
 | E263 | Същият medical record използва date notation `DOB 09/13/116 A.R.`. | Direct visual evidence | VH | Установява institutional `A.R.` dating; screenshot-ът не разгръща abbreviation-а. |
 | E264 | Evidence от S02E03 прави недостатъчен предишния simple single-calendar mapping за `SILO YEAR 96/97`, Rebellion-era dating, `A.R.` и stated age на Jane Carmody. | Analytical correction / model-history preservation | VH | H15 трябва да бъде weakened/refactored, а не silently overwritten. |
 
 | E265 | `THE ORDER` инструктира Mechanical да бъде обвинен в context на rebellion/crisis. | Institutional doctrine / direct textual or dialogue evidence | VH | Установява predefined crisis narrative target вместо evidence-driven culpability. |
-| E266 | Historical writing/markings в Mechanical карат героите да заключат, че Mechanical многократно е бил обвиняван независимо откъде реално е започнал unrest. | Physical historical evidence + character inference | H | Силно подкрепя repeated scapegoating pattern; exact number/dates на prior cases остават unresolved. |
-| E267 | Survivor-ът от Silo 17 е бил дете, когато е настъпил rebellion. | Character testimony | VH | Прецизира survivor timeline, established в S02E03. |
+| E266 | Исторически надписи/маркировки в Mechanical карат героите да заключат, че Mechanical многократно е бил обвиняван независимо откъде реално е започнало недоволството. | Physical historical evidence + character inference | H | Силно подкрепя повтарящ се модел на превръщане в изкупителна жертва; точният брой/дати на предишните случаи остават неустановени. |
+| E267 | Оцелелият от Silo 17 е бил дете, когато е настъпил rebellion. | Character testimony | VH | Прецизира хронологията на оцелелия, установена в S02E03. |
 | E268 | Survivor-ът от Silo 17 е бил поставен/заключен в IT vault още като дете по време на rebellion period. | Character testimony | H | Refactor-ва vault от simple guard position към continuity/survival refuge. |
 | E269 | Level marker `119` се вижда директно. | Direct visual evidence | VH | Само spatial anchor; не се извежда special function от номера. |
 | E270 | Mines добиват metal, който се използва в Silo. | Worldbuilding / character testimony | H | Установява raw-material extraction function. |
 | E271 | Mining е описан като dangerous, unpleasant и undesirable work. | Character/social testimony | H | Обяснява защо mining labor има low desirability. |
 | E272 | Penal assignment се използва за осигуряване на labor за mines. | Institutional/social practice | H | Подкрепя penal labor system, свързана с critical resource extraction. |
 | E273 | Bernard отравя Judge Meadows. | Direct observation | VH | Директно установява Bernard като причина за fatal poisoning-а ѝ. |
-| E274 | Преди да умре Meadows пита дали Bernard е унищожил hard drive, защото е съдържал material, свързан със Salvador Quinn. | Direct dialogue / character knowledge | VH | Exact drive identity остава unresolved; не се equate-ва автоматично с HDD 18. |
+| E274 | Преди да умре Meadows пита дали Bernard е унищожил hard drive, защото е съдържал материал, свързан със Salvador Quinn. | Direct dialogue / character knowledge | VH | Точната идентичност на диска остава неустановена; не се приравнява автоматично с HDD 18. |
 | E275 | Salvador Quinn е описан като Head of IT преди приблизително 140 години, по време на Rebellion. | Historical character testimony | H | Добавя privileged-IT figure и Rebellion-era chronology anchor. |
-| E276 | Salvador Quinn е написал letter, който е поне частично encoded. | Character testimony / historical-document claim | H | Contents, cipher и provenance остават unresolved. |
+| E276 | Salvador Quinn е написал писмо, което е поне частично кодирано. | Character testimony / historical-document claim | H | Съдържанието, шифърът и произходът остават неустановени. |
 | E277 | Meadows е престанала да бъде shadow на Bernard преди приблизително 25 години. | Character testimony / temporal anchor | VH | Установява timing-а на напускането ѝ на IT succession path. |
-| E278 | Около този transition Meadows е изчезнала за четири дни, преди да изостави shadow path. | Character testimony | VH | Purpose/location на четиридневното отсъствие остават unresolved. |
-| E279 | Bernard притежава/използва immersive headset, показващ pre-Silo natural environment, идентифициран in-scene като Monteverde cloud forest, 2018. | Direct visual evidence + scene text/context | VH | Демонстрира preserved immersive pre-Silo environment. |
-| E280 | Bernard обяснява, че immersive headset работи подобно на visual system, използвана в cleaner helmets. | Character technical explanation | H | VH, че дава explanation-а; exact hardware/software equivalence остава unresolved. |
+| E278 | Около този преход Meadows е изчезнала за четири дни, преди да изостави shadow path. | Character testimony | VH | Целта/местоположението на четиридневното отсъствие остават неустановени. |
+| E279 | Bernard притежава/използва immersive headset, показващ pre-Silo природна среда, идентифицирана в сцената като облачната гора Monteverde, 2018. | Direct visual evidence + scene text/context | VH | Демонстрира запазена immersive pre-Silo среда. |
+| E280 | Bernard обяснява, че immersive headset работи подобно на визуалната система, използвана в cleaner helmets. | Character technical explanation | H | VH, че дава това обяснение; точното хардуерно/софтуерно съответствие остава неустановено. |
 | E281 | Bernard дава immersive headset на Meadows преди смъртта ѝ. | Direct observation | VH | Установява use-а му във final scene; motive не се извежда като fact. |
 | E282 | Bernard подготвя trap около пристигането на представители на Mechanical, които очакват да се срещнат с Meadows. | Direct observation / operational setup | VH | Установява deliberate staging около death scene. |
 | E283 | Планът на Bernard е да представи Mechanical като отговорен за смъртта на Meadows. | Character plan / operational inference | H | Силно подкрепено от scene sequence и newly revealed scapegoating doctrine. |
-| E284 | Murder/framing-ът цели да насочи public anger срещу Mechanical. | Character plan / governance mechanism | H | Свързва staged killing с crisis-narrative management. |
-| E285 | Представители на Mechanical са директно показани да пристигат на staged Meadows scene. | Direct visual evidence + scene continuity | VH | Директно потвърждава placement-а им на scene; public narrative идва от surrounding context. |
+| E284 | Убийството/натопяването цели да насочи публичния гняв срещу Mechanical. | Character plan / governance mechanism | H | Свързва инсценираното убийство с управлението на кризисния разказ. |
+| E285 | Представители на Mechanical са директно показани да пристигат на инсценираната сцена с Meadows. | Direct visual evidence + scene continuity | VH | Директно потвърждава поставянето им на мястото; публичният разказ идва от околния контекст. |
 | E286 | Bernard твърди, че impeachment protests срещу Meadows са го принудили да действа. | Character justification | VH | Записва self-justification-а на Bernard, а не objective necessity. |
 | E287 | Bernard казва, че знае, че Sims стои зад impeachment pressure/protests срещу Meadows. | Character claim / privileged assessment | H | VH, че Bernard прави claim-а; independent corroboration остава open. |
-| E288 | Sims активно agitates public sentiment срещу Mechanical. | Direct political/operational action | VH | Демонстрира independent narrative-shaping power и директно развива Mechanical blame campaign. |
-| E289 | Large-scale population movement през vertical circulation system на Silo е показано по време на escalating unrest. | Direct visual / contextual evidence | H | Movement/scale са directly visible; exact cause, destination и organizer са contextual. |
+| E288 | Sims активно насочва публичните нагласи срещу Mechanical. | Direct political/operational action | VH | Демонстрира независима способност за оформяне на разказа и директно развива кампанията за обвиняване на Mechanical. |
+| E289 | Мащабно движение на населението през вертикалната циркулационна система на Silo е показано по време на ескалиращо напрежение. | Direct visual / contextual evidence | H | Движението/мащабът са директно видими; точната причина, дестинация и организатор се извеждат от контекста. |
 
 | E290 | Level marker `26` отново се вижда директно. | Direct visual evidence | VH | Repeated corroboration на вече познат spatial anchor; не се извежда new function. |
-| E291 | Bernard отстранява Sims от position-а Head of Security. | Direct dialogue / institutional action | VH | Демонстрира authority на Bernard да reshapes formal role на Sims. |
+| E291 | Bernard отстранява Sims от длъжността Head of Security. | Direct dialogue / institutional action | VH | Демонстрира властта на Bernard да променя формалната роля на Sims. |
 | E292 | Bernard изрично казва на Sims, че Sims няма да стане негов shadow. | Direct dialogue / succession decision | VH | Отделя Sims от privileged IT succession/read-in path. |
 | E293 | Bernard назначава Sims за new Judge. | Direct institutional action | VH | Показва, че Judge office и shadow succession са distinct tracks; не доказва, че всеки Judge е puppet. |
-| E294 | Survivor-ът от Silo 17 казва, че IT има собствен independent power supply. | Character testimony / infrastructure claim | H | Силно обяснява residual IT power след main-generator failure. |
-| E295 | Survivor-ът казва, че IT power идва от external/outside source, а не от normal Silo generator/distribution path. | Character testimony | H | Exact physical source/location остава unresolved. |
-| E296 | По време на rebellion в Silo 17 pump на Level 144 е blown/destroyed в опит да бъде flooded Mechanical. | Character testimony / historical infrastructure account | H | Добавя deliberate sabotage origin за flooding-а. |
-| E297 | Унищоженият Level 144 pump води до продължаващо покачване на water в lower Silo. | Character testimony + present-state corroboration | H | Силно consistent с directly observed flooding в S02E01. |
-| E298 | Mechanical не успява да възстанови generator-а, преди rising water да го достигне. | Historical testimony | H | Установява failed repair window преди generator loss. |
+| E294 | Оцелелият от Silo 17 казва, че IT има собствено независимо електрозахранване. | Character testimony / infrastructure claim | H | Силно обяснява остатъчното захранване на IT след повредата на основния генератор. |
+| E295 | Оцелелият казва, че захранването на IT идва от външен източник, а не от нормалния генератор/разпределителен път на Silo. | Character testimony | H | Точният физически източник/местоположение остава неустановено. |
+| E296 | По време на rebellion в Silo 17 помпа на Level 144 е взривена/унищожена в опит Mechanical да бъде наводнен. | Character testimony / historical infrastructure account | H | Добавя умишлен саботаж като произход на наводняването. |
+| E297 | Унищожената помпа на Level 144 води до продължаващо покачване на водата в долната част на Silo. | Character testimony + present-state corroboration | H | Силно съвместимо с директно наблюдаваното наводняване в S02E01. |
+| E298 | Mechanical не успява да възстанови генератора, преди покачващата се вода да го достигне. | Historical testimony | H | Установява неуспешен прозорец за ремонт преди загубата на генератора. |
 | E299 | Normal generator на Silo 17 впоследствие отказва заради flooding-а. | Historical causal testimony | H | Обяснява loss на normal Silo power. |
 | E300 | Water в Silo 17 продължава постепенно да се покачва и в настоящето. | Character testimony + environmental corroboration | H | Прави flooding ongoing active failure process, а не static post-collapse condition. |
-| E301 | Survivor-ът от Silo 17 иска Juliette да repair/restore-не pump, capable да спре или забави rising water. | Character request / infrastructure claim | H | VH за requested objective; exact hydraulic architecture остава unresolved. |
+| E301 | Оцелелият от Silo 17 иска Juliette да ремонтира/възстанови помпата, способна да спре или забави покачващата се вода. | Character request / infrastructure claim | H | VH за поисканата цел; точната хидравлична архитектура остава неустановена. |
 | E302 | Планът е този pump да бъде powered от independent power supply на IT. | Character technical plan | H | Директно свързва continuity power с attempted infrastructure recovery. |
-| E303 | Следователно IT power потенциално може да бъде routed към non-IT critical recovery infrastructure. | Technical inference from stated plan | H | Capacity/routing limits остават unknown. |
+| E303 | Следователно IT захранването потенциално може да бъде насочено към критична инфраструктура за възстановяване извън IT. | Technical inference from stated plan | H | Ограниченията на капацитета/маршрутизацията остават неизвестни. |
 | E304 | Директно е показана голяма multilevel internal common/circulation area с landscaped green space. | Direct visual evidence | VH | Само architectural/contextual observation; не се извежда level или special function. |
-| E305 | Newly found Silo schematic/map показва marked/visible infrastructure lines, свързани чрез scene context с IT. | Direct visual + dialogue-supported evidence | H | Line type, direction и source остават unresolved. |
-| E306 | Подобна line/connection на schematic е свързана с Judicial. | Direct visual + dialogue-supported evidence | H | Подкрепя possible shared privileged infrastructure backbone; не доказва power routing. |
-| E307 | В archive е намерен scanned handwritten letter, attributed на Salvador Quinn. | Direct archived-document evidence | VH | Independently corroborate-ва S02E04 testimony, че Quinn е оставил letter. |
-| E308 | Handwritten letter на Salvador Quinn завършва с encoded/ciphered passage. | Direct visual / archived-document evidence | VH | Прецизира по-ранното описание "partly encoded": protected payload е в края. |
+| E305 | Новооткрита схема/карта на Silo показва маркирани/видими инфраструктурни линии, свързани чрез контекста на сцената с IT. | Direct visual + dialogue-supported evidence | H | Типът, посоката и източникът на линиите остават неустановени. |
+| E306 | Подобна линия/връзка на схемата е свързана с Judicial. | Direct visual + dialogue-supported evidence | H | Подкрепя възможен споделен привилегирован инфраструктурен backbone; не доказва маршрутизация на захранването. |
+| E307 | В архива е намерено сканирано ръкописно писмо, приписано на Salvador Quinn. | Direct archived-document evidence | VH | Независимо потвърждава свидетелството от S02E04, че Quinn е оставил писмо. |
+| E308 | Ръкописното писмо на Salvador Quinn завършва с кодирана/шифрована част. | Direct visual / archived-document evidence | VH | Прецизира по-ранното описание `partly encoded` („частично кодирано“): защитеното съдържание е в края. |
 | E309 | Sheriff Department terminal има explicit function `DIRECT MESSAGING`. | Direct visual evidence | VH | Установява institutional electronic messaging на observed terminal. |
-| E310 | Inbox-ът на Sheriff terminal показва departmental и named senders, включително IT, Office of HR, Mechanical и individual users. | Direct visual evidence | VH | Демонстрира cross-department/person-addressable messaging; не доказва universal resident access. |
+| E310 | Inbox-ът на терминала на Sheriff показва податели от отдели и по име, включително IT, Office of HR, Mechanical и отделни потребители. | Direct visual evidence | VH | Демонстрира cross-department/адресирано към конкретни лица съобщаване; не доказва универсален достъп за жителите. |
 | E311 | Two-way person-to-person text conversation е показан на Sheriff Department terminal. | Direct visual evidence | VH | Установява interactive direct messaging, а не само one-way notices. |
 | E312 | Level marker `55` се вижда директно. | Direct visual evidence | VH | Само new spatial anchor; не се извежда special function. |
-| E313 | Control-room screen получава written field report, описващ current movement, direction и equipment на armed group. | Direct visual evidence | VH | Подкрепя near-real-time operational field reporting. |
-| E314 | Control-room field report е routed към named recipients/operators, видимо включително `ATTN: DOREEN` и `FOR: DIEGO`. | Direct visual evidence | VH | Демонстрира structured digital routing към named operators. |
-| E315 | Control-room operational picture включва digital human-source / field-reporting channel в допълнение към technical surveillance inputs. | Strong system inference | H | Exact source device, input path и protocol не са показани. |
+| E313 | Екранът в control room получава писмен полеви доклад, описващ текущото движение, посока и оборудване на въоръжена група. | Direct visual evidence | VH | Подкрепя оперативно полево докладване почти в реално време. |
+| E314 | Полевият доклад в control room е маршрутизиран към назовани получатели/оператори, видимо включително `ATTN: DOREEN` и `FOR: DIEGO`. | Direct visual evidence | VH | Демонстрира структурирана digital маршрутизация към назовани оператори. |
+| E315 | Оперативната картина в control room включва digital канал за човешки източници / полево докладване в допълнение към техническите входове от наблюдението. | Strong system inference | H | Точното изходно устройство, входният път и протоколът не са показани. |
 | E316 | Level marker `120` се вижда директно. | Direct visual evidence | VH | Само new spatial anchor; adjacency към Level 119 не установява function. |
 | E317 | Bernard/IT може да прекъсне всички radio communications в Silo. | Direct dialogue / demonstrated institutional capability | VH | Установява Silo-wide radio-cutoff capability. |
-| E318 | Следователно Silo radio communications зависят от centralized control point или infrastructure path, който IT може да disable-не. | System inference | H | Exact architecture—repeater, switching, power, gating или друга shared dependency—остава unresolved. |
-| E319 | Secured IT vault включва residential/living compartments. | Direct observation / scene context | VH | Refactor-ва vault към long-duration continuity/survival environment. |
+| E318 | Следователно радио комуникациите в Silo зависят от централизирана контролна точка или инфраструктурен път, който IT може да изключи. | System inference | H | Точната архитектура — ретранслатор, превключване, захранване, gating или друга споделена зависимост — остава неустановена. |
+| E319 | Защитеният IT vault включва жилищни/обитаеми помещения. | Direct observation / scene context | VH | Преработва модела на vault-а към среда за дългосрочна приемственост/оцеляване. |
 | E320 | Protected component/area във vault се нарича `Legacy`. | Direct dialogue / institutional terminology | VH | Установява named privileged knowledge-preservation component. |
-| E321 | `Legacy` е идентифицирана като library / knowledge archive. | Direct scene/dialogue evidence | VH | Exact catalog, media types и curation остават unresolved. |
-| E322 | `Legacy` предоставя concrete mechanism за intergenerational preservation и transfer на privileged historical/technical knowledge към IT custodians. | Strong system inference | H | Силно обяснява inherited knowledge на Bernard, без да доказва, че всеки факт, който знае, идва от Legacy. |
-| E323 | Bernard заявява, че Silo е построен преди 352 години. | Character testimony / privileged historical knowledge | H-VH | VH, че Bernard го заявява; exact historical precision може да е rounded. |
+| E321 | `Legacy` е идентифицирана като библиотека / архив на знания. | Direct scene/dialogue evidence | VH | Точният каталог, типовете носители и подборът остават неустановени. |
+| E322 | `Legacy` предоставя конкретен механизъм за междупоколенческо съхраняване и предаване на привилегировано историческо/техническо знание към IT пазителите. | Strong system inference | H | Силно обяснява наследеното знание на Bernard, без да доказва, че всеки факт, който знае, идва от Legacy. |
+| E323 | Bernard заявява, че Silo е построен преди 352 години. | Character testimony / privileged historical knowledge | H-VH | VH, че Bernard го заявява; точната историческа стойност може да е закръглена. |
 | E324 | Комбинирането на 352-year construction age с по-ранния ~140-years-ago Rebellion anchor поставя construction приблизително 212 години преди Rebellion. | Derived chronology inference | H | Approximate, защото Rebellion anchor сам по себе си е approximate. |
-| E325 | Handwritten physical leaflet обвинява IT в лъжа и заявява `Mechanical wants THE TRUTH`. | Direct visual / public-message evidence | VH | Установява circulating message, а не author/distributor identity. |
-| E326 | Leaflet-ът пита `What happened to Juliette?` и `How did Meadows really die?`, директно свързвайки anti-IT suspicion с двете unresolved public events. | Direct visual evidence | VH | Сам по себе си не доказва implied claims. |
+| E325 | Ръкописна физическа листовка обвинява IT в лъжа и заявява `Mechanical wants THE TRUTH` („Mechanical иска ИСТИНАТА“). | Direct visual / public-message evidence | VH | Установява разпространявано съобщение, а не самоличността на автора/разпространителя. |
+| E326 | Листовката пита `What happened to Juliette?` („Какво се случи с Juliette?“) и `How did Meadows really die?` („Как наистина умря Meadows?“), директно свързвайки anti-IT подозрението с двете неразрешени публични събития. | Direct visual evidence | VH | Само по себе си не доказва подразбираните твърдения. |
 | E327 | Leaflet-ът пита `What is I.T. hiding?` и призовава `Look and See.` | Direct visual evidence | VH | Показва explicit investigation/truth-seeking counter-narrative. |
-| E328 | По време на general power outage в Silo 18 IT остава visibly lit/powered. | Direct observation + scene context | VH | Установява functional continuity/redundant power за IT в Silo 18; exact source остава unresolved. |
-| E329 | Residents изрично забелязват, че IT остава lit по време на outage, и питат защо. | Direct dialogue / public observation | VH | Прави privileged power asymmetry publicly observable по време на crisis. |
-| E330 | Official historical version представя Salvador Quinn като провалил се, докато historical/server records са били destroyed или lost по време на Rebellion. | Institutional historical claim | VH | Установява official version, а не нейната truth. |
-| E331 | Bernard казва, че official version е false и че Quinn вместо това е спасил Silo. | Privileged character testimony | H-VH | VH, че Bernard го заявява; historical truth остава privileged testimony. |
+| E328 | По време на общо прекъсване на захранването в Silo 18 IT остава видимо осветен/захранен. | Direct observation + scene context | VH | Установява функционално резервно/continuity power за IT в Silo 18; точният източник остава неустановен. |
+| E329 | Жителите изрично забелязват, че IT остава осветен по време на прекъсването, и питат защо. | Direct dialogue / public observation | VH | Прави привилегированата асиметрия в захранването публично наблюдаема по време на кризата. |
+| E330 | Официалната историческа версия представя Salvador Quinn като провалил се, докато историческите/server записи са били унищожени или изгубени по време на Rebellion. | Institutional historical claim | VH | Установява официалната версия, а не нейната истинност. |
+| E331 | Bernard казва, че официалната версия е невярна и че Quinn вместо това е спасил Silo. | Privileged character testimony | H-VH | VH, че Bernard го заявява; историческата истина остава привилегировано свидетелство. |
 | E332 | Bernard казва, че rebellions преди Quinn са се повтаряли приблизително на всеки 20 години и всяко е застрашавало всички в Silo. | Privileged historical testimony | H-VH | Recurrence interval остава account на Bernard. |
 | E333 | Bernard казва, че Quinn е заключил, че knowledge за previous rebellions е допринасяло за new rebellions. | Bernard's account of Quinn's reasoning | H | Установява attributed diagnosis на Quinn, а не independent causality. |
-| E334 | Quinn deliberate избира да изтрие public historical continuity, за да прекъсне rebellion cycle. | Privileged historical testimony | H-VH | Core Quinn historical-reset claim. |
-| E335 | Quinn прекъсва public access до historical server records. | Privileged historical testimony | H-VH | Mechanism за information removal. |
-| E336 | Quinn confiscate-ва books като част от reset-а. | Privileged historical testimony | H-VH | Силно свързва physical historical carriers със suppression policy. |
-| E337 | Historical destruction/loss е publicly attributed на rebels, а не на deliberate policy на Quinn. | Privileged historical testimony / manufactured official history | H-VH | Директно strengthen-ва false-official-history model. |
-| E338 | Bernard казва, че Quinn е поставил chemical/drug във водата, който е карал хората да забравят. | Privileged historical testimony | H-VH | Independently corroborate-ва по-ранното Flamekeeper water-memory testimony. |
-| E339 | Bernard описва chronic exposure в продължение на седмици, месеци и години, което кара memories постепенно да избледняват. | Privileged technical/historical testimony | H-VH | Прецизира mechanism-а далеч от instantaneous memory reset. |
-| E340 | Bernard приписва последвалите ~140 години peace на intervention-а на Quinn. | Character causal assessment | H | VH, че Bernard прави claim-а; causality остава interpretive. |
-| E341 | Modern relic/book/history suppression е strongly consistent с поддържането на reset-а на Quinn чрез предотвратяване на reconstruction на erased past. | Strong system inference | H-VH | Fits observed relic enforcement; explicit direct policy linkage остава да бъде показан. |
-| E342 | По-ранни сцени от S02E08 подсказват, че Silo 17 може да съдържа additional survivors. | Provisional scene observation | M | Superseded от direct confirmation в E356. |
-| E343 | Judge Sims получава digital message от `R. AHUNDSEN`. | Direct visual evidence | VH | Разширява institutional person-addressable messaging към Judicial role на Sims. |
-| E344 | Message-ът споменава, че Sims е присъствал на funeral-а на бащата на sender-а. | Direct textual evidence | VH | Message claim; factual history остава unverified. |
-| E345 | Message-ът пита как е пораснало `little apple tree`. | Direct textual evidence | VH | Може да е literal, coded или и двете. |
-| E346 | Директно е показана голяма indoor orchard/agricultural area. | Direct visual evidence | VH | Установява plausible literal agricultural context. |
-| E347 | Orchard-ът дава plausible literal referent за apple-tree wording. | Contextual inference | M-H | Не разрешава дали message-ът носи и coded meaning. |
-| E348 | Докато все още е shadow на Bernard, Meadows посещава relatives/descendants на Salvador Quinn. | Historical character testimony | H-VH | Strengthen-ва Meadows↔Quinn investigation line. |
-| E349 | Meadows търси surviving books и historical materials, свързани с Quinn. | Historical character testimony | H-VH | Показва independent historical investigation в succession layer. |
-| E350 | Family на Quinn предоставя или отвежда Meadows до old Pact copy, свързано с Quinn. | Historical testimony + object context | H-VH | Exact chain of custody остава scene/testimony based. |
-| E351 | Старото physical copy е озаглавено `The Pact Between the Founders`. | Direct visual evidence | VH | Само по себе си не установява edition chronology или textual difference спрямо current Pact. |
-| E352 | Copy-то носи handwritten name `Salvador Quinn`. | Direct visual evidence | VH | Direct association; authorship/signature function остава unresolved. |
-| E353 | Investigation-ът на Meadows директно свързва Quinn със surviving physical Pact material от suppressed historical layer. | Object association + historical context | H-VH | Не установява Quinn като author или Founder. |
-| E354 | Decoded portion от protected final message на Quinn гласи: `If you've gotten this far, you already know the game is rigged.` | Direct decoded-document evidence | VH | Exact referent на `the game` остава unresolved. |
-| E355 | Wording-ът на Quinn предполага future reader, който вече е проникнал отвъд official narrative, преди да достигне protected message. | Strong textual inference | H | Подкрепя second-layer protected-message model. |
-| E356 | Директно са показани additional living people в Silo 17 освен Juliette и previously known survivor. | Direct observation | VH | Потвърждава multiple living inhabitants; total count и survival history остават unresolved. |
-| E357 | В Silo 17 има организирана група от additional survivors, визуално изглеждащи предимно млади. | Direct observation | VH / H | VH за group existence; H за приблизителна age assessment по appearance. |
-| E358 | Групата нарича known IT-vault survivor „the killer“. | Direct dialogue | VH | Установява label/belief, не причината или factual truth зад accusation-а. |
-| E359 | Групата задържа survivor-а и го използва като leverage за food. | Direct action / dialogue | VH | Показва organized coercive behavior и resource pressure. |
-| E360 | Audrey показва най-силна наблюдавана склонност към violence/escalation в сцената. | Character behavior / dialogue | H | Behavioral characterization, не stable personality diagnosis. |
-| E361 | Decoded Quinn text гласи: `The founders didn't build a single silo. They built fifty.` | Direct decoded-document evidence | VH | Independent documentary support за 50-built claim. |
-| E362 | Bernard уточнява, че реалният брой е 51. | Privileged character testimony | H-VH | VH, че го заявява; exact counting model остава unresolved заради 50/51 discrepancy. |
-| E363 | Heads of IT и техните shadows знаят за другите Silos. | Privileged institutional knowledge / dialogue | VH | Cross-Silo awareness е част от privileged succession/read-in layer. |
-| E364 | Броят Silos не е представен като най-важната protected част от Quinn material-а. | Dialogue / decoded-message context | VH | Насочва attention към по-дълбок claim. |
-| E365 | Quinn пише: `And they created the safeguard.` | Direct decoded-document evidence | VH | Въвежда named protected concept; mechanism unknown в S02E09. |
-| E366 | Quinn инструктира future reader да отиде на `the very bottom`, да намери `the tunnel` и да получи `confirmation there`. | Direct decoded-document evidence | VH | Physical verification path. |
-| E367 | Quinn представя tunnel-а като място, където предходният protected claim може да бъде physically verified. | Strong textual inference | H-VH | Exact scope на „confirmation“ остава unresolved. |
-| E368 | Quinn tunnel може да е същата структура или директно свързана с по-рано tracked hidden lower door / `CLASSIFIED` tunnel. | Cross-episode working inference | M-H | Exact identity не е директно доказана. |
-| E369 | Level marker 14 отново се вижда директно. | Direct visual evidence | VH | Corroboration only в S02E09; не се присвоява нова function. |
-| E370 | Digital message изисква plan information, camera-та да остане включена, recipient-ът да не напуска и използва wife като coercive leverage. | Direct visual / textual evidence | VH | Sender/recipient identity не се извежда само от кадъра. |
-| E371 | Shadow-ът на Bernard спекулира, че под known bottom може да има pumps, неизвестни на Mechanical, които поддържат water level стабилно. | Character speculation / technical inference | M | VH, че speculation-ът е изказан; M за actual existence/function. |
-| E372 | Silo 17 vault показва голямо помещение с книги, документи, изображения, модели и preserved objects. | Direct visual evidence | VH | Директно установява knowledge-rich environment. |
-| E373 | Vault environment включва ясно educational/scientific material и голям astronomical/planetary model. | Direct visual evidence | VH | Подкрепя preserved knowledge function. |
-| E374 | Silo 17 има директно наблюдавана knowledge-preservation function, функционално аналогична на `Legacy` в Silo 18. | Strong cross-Silo inference | H-VH | Official `Legacy` label не е директно потвърден за Silo 17. |
-| E375 | В наблюдаваната bottom zone на Silo 18 водата е плитка и route-ът е passable on foot. | Direct observation | VH | Не установява uniform depth за цялото дъно. |
-| E376 | Quinn instruction за bottom/tunnel е physically executable без задължително diving поне по наблюдавания route. | Spatial inference | H | Ограничено до показаната зона. |
-| E377 | На дъното на Silo 18 действително съществува physical tunnel/opening. | Direct observation | VH | Core physical discovery. |
-| E378 | Откриването на tunnel-а materially validates physical-check instruction на Quinn. | Direct confirmation of prior clue | VH | Не разрешава автоматично full meaning на message-а. |
-| E379 | В hidden lower zone Lukas получава intelligible, contextual response от unknown interlocutor/system. | Direct observation / dialogue | VH | Establishes active two-way contact; source identity unknown. |
-| E380 | Tunnel-ът води към active monitored/controlled infrastructure, а не само към passive abandoned passage. | Strong system inference | H | Supported by context-aware interaction. |
-| E381 | Lukas научава, че преди него само Salvador Quinn, Mary Meadows и George Wilkins са стигали до тази point. | Direct dialogue | VH | Exhaustive previous-visitor claim в сцената. |
-| E382 | George Wilkins е достигнал hidden lower contact point. | Direct historical claim from lower contact | VH | Strongly resolves old George-door reach hypothesis. |
-| E383 | Mary Meadows е достигнала hidden lower contact point. | Direct historical claim from lower contact | VH | Strongly links Meadows to protected lower layer. |
-| E384 | Salvador Quinn е достигнал hidden lower contact point. | Direct historical claim from lower contact | VH | Strengthens provenance на Quinn tunnel instruction. |
-| E385 | Bernard не е сред three previous visitors; това установява, че не е reached personally тази point, но не доказва ignorance за нейното existence. | Exhaustive-dialogue negative evidence | VH / M-H | Distinguishes physical visitation from knowledge. |
-| E386 | Lukas е предупреден, че disclosure на видяното/наученото в hidden lower zone ще доведе до activation на `the safeguard`. | Direct dialogue / threat-condition statement | VH | Mechanism, controller и physical effect не са established в S02E09. |
-| E387 | Level marker 123 е директно показан по време на confrontation. | Direct visual evidence | VH | New spatial anchor. |
-| E388 | Silo 17 survivor-ът казва, че е имало начин `the safeguard` да бъде спрян. | Character testimony | VH / H | VH stated; H за practical effectiveness преди further corroboration. |
-| E389 | Survivor-ът твърди, че родителите му са успели да спрат safeguard-а. | Character testimony | VH / H-VH | Historical account; later pipe/block description strengthens it. |
-| E390 | Survivor-ът свързва successful safeguard stop с това Silo 17 population да достигне mass exit живо вместо да бъде унищожено вътре. | Character causal claim / refactored interpretation | H | Separates internal safeguard from exterior deaths. |
-| E391 | Safeguard-ът materially променя casualty sequence-а на Silo 17 и трябва да се моделира отделно от outside hazard. | Strong inference | H | Основано на E389–E390 и последващото physical mechanism evidence. |
-| E392 | Parents на Silo 17 survivor-а са знаели practical interruption/blocking method. | Character testimony / derived fact | H-VH | Exact discovery method unknown. |
-| E393 | `The safeguard` включва physical pipe. | Direct system exposition / dialogue | VH | Mechanism becomes physical, not abstract. |
-| E394 | Stopping safeguard-а е compatible с physical interruption/blocking на flow през pipe-а. | Technical inference | H | Strengthened by E396. |
-| E395 | Safeguard pipe-ът може да достави poison в Silo, способен да kill-не whole local population. | Direct system exposition / character testimony | VH | Whole-Silo lethal scope stated. |
-| E396 | В Silo 17 parents на survivor-а са блокирали safeguard pipe-а и са prevented normal poison execution. | Character testimony | VH / H-VH | Strong evidence for practical block path. |
-| E397 | Safeguard pipe-ът идва отвън и влиза в Silo при Level 14. | Direct system exposition / dialogue | VH | Gives external supply + spatial interface. |
-| E398 | Safeguard supply path е поне частично external спрямо local Silo envelope. | Strong system inference | H-VH | Upstream source/controller unknown. |
-| E399 | Level 14 е strong candidate interface point между external safeguard infrastructure и internal Silo systems. | Spatial/system inference | H | Function beyond safeguard interface remains unresolved. |
-| E400 | Rebels sabotage/destroy част от main stair connections в Silo 18. | Direct action / scene observation | VH | Architecture becomes tactical terrain. |
-| E401 | Bernard's forces остават significantly cut off lower down, докато rebellion side retains upper positions. | Direct situational outcome / user-confirmed context | VH | Operational split. |
-| E402 | Stair sabotage превръща vertical Silo architecture в defensive barrier. | Strong inference | H-VH | Tactical consequence, not separate infrastructure claim. |
-| E403 | Exit/airlock access е в или непосредствено през Sheriff Department zone. | Direct scene/dialogue evidence | VH | Exact floor-plan boundary not established. |
-| E404 | Sheriff Department е на Level 1 и е непосредствено до cafeteria. | Direct spatial evidence | VH | Strengthens Up-top layout model. |
-| E405 | Juliette се връща до Silo 18 и показва `not safe / do not come out` към camera/display system. | Direct visual evidence | VH | Explicit exterior warning. |
-| E406 | Juliette intentionally предупреждава Silo 18 residents да не излизат, защото exterior остава dangerous. | Direct action / communication intent | VH | Does not prove every resident saw it. |
-| E407 | Exterior camera може да serve като information surface from outside чрез physical message shown to camera. | System inference | H-VH | Broadcast/filtering path remains unknown. |
-| E408 | Silo 18 exterior entrance/airlock hatch се отваря отвътре, докато Juliette е там. | Direct observation | VH | Entry is actively opened. |
-| E409 | Някой вътре initiates/permits Juliette's access. | Strong situational inference | H-VH | Specific actor established by next evidence. |
-| E410 | Bernard лично посреща Juliette при open Silo 18 entrance/airlock. | Direct scene context / user-confirmed character identity | VH | Personal participation, not only remote monitoring. |
-| E411 | Bernard физически участва в receiving/entry sequence-а. | Situational inference | H-VH | Само по себе си това не установява sole control authority. |
-| E412 | Bernard е в airlock/exit zone с protective suit/helmet. | Direct visual evidence | VH | Exact reason for suit remains contextual. |
-| E413 | Juliette казва на Bernard, че може би знае как да спре `the safeguard`. | Direct dialogue | VH | Supersedes earlier weaker live-note wording about merely knowing poison mechanism. |
-| E414 | След този exchange Bernard и Juliette влизат заедно през entry/airlock passage. | Direct observation / sequence | VH | Chronology anchor. |
-| E415 | Juliette демонстрира пред Bernard, че safeguard knowledge е breached beyond protected IT/lower-system layer. | Strong information-control inference | H-VH | Exact source of her stop method unresolved. |
-| E416 | След като Juliette и Bernard вече са влезли, burner/flame system се активира в entry/airlock zone. | Direct scene observation / corrected chronology | VH | Explicit correction of earlier live ambiguity. |
-| E417 | Decontamination/sterilization е plausible function за burner cycle, но exact function не е established и system-ът не се equate-ва със safeguard-а. | Technical hypothesis boundary | M-H | Keep separate systems. |
-| E418 | Narrative-ът преминава към Washington в direct pre-Silo period. | Direct scene / temporal-location transition | VH | First direct pre-Silo historical scene in project. |
-| E419 | Project knowledge вече включва contemporaneous pre-Silo reality, не само later relics/records/testimony. | Evidence-state inference | VH | Methodological boundary change. |
-| E420 | Преди entry човекът е checked с handheld radiation-measurement device. | Direct scene observation | VH | Radiological screening. |
-| E421 | Radiation device показва radiation symbol и status `NORMAL`. | Direct visual evidence | VH | Exact numeric readout not required for claim. |
-| E422 | Radiation screening е part of entry procedure за конкретното venue. | Direct contextual inference | H-VH | Scope beyond venue unknown. |
-| E423 | Screened destination-ът е bar. | Direct scene context | VH | Ordinary social-venue context. |
-| E424 | Central male character е Congressman from Georgia. | Direct dialogue / character background | VH | Political role/location anchor. |
-| E425 | Georgia се появява като second independent pre-Silo anchor след S01E06 travel-guide relic. | Cross-episode contextual correlation | H | Does not locate Silo by itself. |
-| E426 | Congressman-ът представлява Georgia's 15th congressional district. | Direct dialogue / character background | VH | Precise political-geographic anchor. |
-| E427 | In-world Georgia в този period има поне 15 congressional districts. | Direct institutional inference | VH | No external calendar inference used. |
-| E428 | Dialogue-ът реферира prior alleged radiological/dirty-bomb attack срещу САЩ; event-ът не е current during bar scene. | Direct dialogue / historical context | VH | Reality of attack separately questioned later. |
-| E429 | Alleged attack-ът е attributed to Iran в разговора. | Character/in-world attribution | VH | Attribution ≠ independent proof of perpetrator. |
-| E430 | Congressman-ът е попитан дали се планира retaliatory strike срещу Iran. | Direct dialogue | VH | Question does not establish approved/executed strike. |
-| E431 | Alleged radiological incident е part of political/national-security debate за possible U.S. retaliation. | Strong contextual inference | H-VH | Scope of actual policy unknown. |
-| E432 | Dialogue-ът explicitly допуска, че може изобщо да не е имало radiological attack срещу САЩ. | Direct dialogue | VH | Materially weakens attack-as-established-history model. |
-| E433 | Жената поставя под въпрос factual reality на alleged attack-а, не само attribution-а. | Direct character statement / implication | VH | Speaker claim; final truth unknown. |
-| E434 | Fabricated/manipulated-pretext model става legitimate candidate; strict false-flag model остава unproven. | Hypothesis-level inference | M | Requires future evidence for institutional authorship/staging. |
-| E435 | Congressman-ът подарява на жената packaged `PEZ Candy & Dispenser` с yellow-duck head. | Direct visual evidence / character interaction | VH | Clear consumer-object identity. |
-| E436 | PEZ-ът е personal gift и potential cross-era provenance marker; exact continuity към Silo-era relic остава unproven. | Contextual inference | H | Strong object-class bridge, not chain-of-custody proof. |
+| E334 | Quinn умишлено избира да изтрие публичната историческа приемственост, за да прекъсне цикъла на бунтовете. | Privileged historical testimony | H-VH | Основното твърдение за историческия reset на Quinn. |
+| E335 | Quinn прекъсва публичния достъп до историческите server записи. | Privileged historical testimony | H-VH | Механизъм за премахване на информация. |
+| E336 | Quinn конфискува книги като част от reset-а. | Privileged historical testimony | H-VH | Силно свързва физическите исторически носители с политиката на потискане. |
+| E337 | Историческото унищожаване/загуба е публично приписано на бунтовниците, а не на умишлена политика на Quinn. | Privileged historical testimony / manufactured official history | H-VH | Директно засилва модела за невярна официална история. |
+| E338 | Bernard казва, че Quinn е поставил химикал/лекарство във водата, което е карало хората да забравят. | Privileged historical testimony | H-VH | Независимо потвърждава по-ранното Flamekeeper свидетелство за паметта и водата. |
+| E339 | Bernard описва хронично излагане в продължение на седмици, месеци и години, което кара спомените постепенно да избледняват. | Privileged technical/historical testimony | H-VH | Прецизира механизма далеч от моментален reset на паметта. |
+| E340 | Bernard приписва последвалите ~140 години мир на намесата на Quinn. | Character causal assessment | H | VH, че Bernard прави твърдението; причинността остава интерпретативна. |
+| E341 | Съвременното потискане на реликви/книги/история е силно съвместимо с поддържането на reset-а на Quinn чрез предотвратяване на реконструкцията на заличеното минало. | Strong system inference | H-VH | Съответства на наблюдаваното прилагане на ограниченията върху реликвите; пряката изрична политическа връзка остава да бъде показана. |
+| E342 | По-ранни сцени от S02E08 подсказват, че Silo 17 може да съдържа допълнителни оцелели. | Provisional scene observation | M | Заменено от директното потвърждение в E356. |
+| E343 | Judge Sims получава digital съобщение от `R. AHUNDSEN`. | Direct visual evidence | VH | Разширява институционалното адресирано към конкретни лица съобщаване към ролята на Sims в Judicial. |
+| E344 | Съобщението споменава, че Sims е присъствал на погребението на бащата на подателя. | Direct textual evidence | VH | Твърдение в съобщението; фактическата история остава непроверена. |
+| E345 | Съобщението пита как е пораснало `little apple tree` („малкото ябълково дръвче“). | Direct textual evidence | VH | Може да е буквално, кодирано или и двете. |
+| E346 | Директно е показана голяма вътрешна овощна/земеделска зона. | Direct visual evidence | VH | Установява правдоподобен буквален земеделски контекст. |
+| E347 | Овощната градина дава правдоподобен буквален референт за формулировката с ябълковото дръвче. | Contextual inference | M-H | Не разрешава дали съобщението носи и кодирано значение. |
+| E348 | Докато все още е `shadow` на Bernard, Meadows посещава роднини/потомци на Salvador Quinn. | Historical character testimony | H-VH | Засилва линията на разследването Meadows↔Quinn. |
+| E349 | Meadows търси оцелели книги и исторически материали, свързани с Quinn. | Historical character testimony | H-VH | Показва независимо историческо разследване в слоя на наследяването. |
+| E350 | Семейството на Quinn предоставя или отвежда Meadows до старо копие на Pact, свързано с Quinn. | Historical testimony + object context | H-VH | Точната верига на притежание остава основана на сцената/свидетелството. |
+| E351 | Старото физическо копие е озаглавено `The Pact Between the Founders`. | Direct visual evidence | VH | Само по себе си не установява хронология на изданието или текстова разлика спрямо текущия Pact. |
+| E352 | Копието носи ръкописното име `Salvador Quinn`. | Direct visual evidence | VH | Пряка връзка; функцията му като авторство/подпис остава неустановена. |
+| E353 | Разследването на Meadows директно свързва Quinn с оцелял физически материал на Pact от потиснат исторически слой. | Object association + historical context | H-VH | Не установява Quinn като автор или Основател. |
+| E354 | Декодирана част от защитеното финално съобщение на Quinn гласи: `If you've gotten this far, you already know the game is rigged.` („Ако си стигнал дотук, вече знаеш, че играта е нагласена.“) | Direct decoded-document evidence | VH | Точният референт на `the game` остава неустановен. |
+| E355 | Формулировката на Quinn предполага бъдещ читател, който вече е проникнал отвъд официалния разказ, преди да достигне защитеното съобщение. | Strong textual inference | H | Подкрепя модела за защитено съобщение от втори слой. |
+| E356 | Директно са показани допълнителни живи хора в Silo 17 освен Juliette и по-рано известния оцелял. | Direct observation | VH | Потвърждава множество живи обитатели; общият брой и историята на оцеляването остават неустановени. |
+| E357 | В Silo 17 има организирана група от допълнителни оцелели, визуално изглеждащи предимно млади. | Direct observation | VH / H | VH за съществуването на групата; H за приблизителната оценка на възрастта по външен вид. |
+| E358 | Групата нарича познатия оцелял от IT vault-а `the killer` („убиецът“). | Direct dialogue | VH | Установява обозначение/убеждение, а не причината или фактическата истина зад обвинението. |
+| E359 | Групата задържа оцелелия и го използва като средство за натиск за храна. | Direct action / dialogue | VH | Показва организирано принудително поведение и натиск върху ресурсите. |
+| E360 | Audrey показва най-силна наблюдавана склонност към насилие/ескалация в сцената. | Character behavior / dialogue | H | Поведенческа характеристика, а не стабилна диагноза на личността. |
+| E361 | Декодираният текст на Quinn гласи: `The founders didn't build a single silo. They built fifty.` („Основателите не са построили един-единствен Silo. Построили са петдесет.“) | Direct decoded-document evidence | VH | Независима документална подкрепа за твърдението за построени 50 Silos. |
+| E362 | Bernard уточнява, че реалният брой е 51. | Privileged character testimony | H-VH | VH, че го заявява; точният модел на броене остава неустановен заради несъответствието 50/51. |
+| E363 | Heads of IT и техните `shadows` знаят за другите Silos. | Privileged institutional knowledge / dialogue | VH | Cross-Silo знанието е част от привилегирования слой за наследяване/read-in. |
+| E364 | Броят Silos не е представен като най-важната защитена част от материала на Quinn. | Dialogue / decoded-message context | VH | Насочва вниманието към по-дълбоко твърдение. |
+| E365 | Quinn пише: `And they created the safeguard.` („И те създадоха safeguard-а.“) | Direct decoded-document evidence | VH | Въвежда назована защитена концепция; механизмът е неизвестен в S02E09. |
+| E366 | Quinn инструктира бъдещия читател да отиде до `the very bottom` („самото дъно“), да намери `the tunnel` („тунела“) и да получи `confirmation there` („потвърждение там“). | Direct decoded-document evidence | VH | Път за физическа проверка. |
+| E367 | Quinn представя тунела като място, където предходното защитено твърдение може да бъде физически проверено. | Strong textual inference | H-VH | Точният обхват на `confirmation` („потвърждение“) остава неустановен. |
+| E368 | Тунелът на Quinn може да е същата структура или директно свързан с по-рано проследяваната скрита долна врата / `CLASSIFIED` тунел. | Cross-episode working inference | M-H | Точната идентичност не е директно доказана. |
+| E369 | Marker-ът за Level 14 отново се вижда директно. | Direct visual evidence | VH | Само потвърждение в S02E09; не се присвоява нова функция. |
+| E370 | Digital съобщение изисква информация за плана, камерата да остане включена, получателят да не напуска и използва съпругата като средство за принуда. | Direct visual / textual evidence | VH | Самоличността на подателя/получателя не се извежда само от кадъра. |
+| E371 | `Shadow`-ът на Bernard спекулира, че под известното дъно може да има помпи, неизвестни на Mechanical, които поддържат нивото на водата стабилно. | Character speculation / technical inference | M | VH, че спекулацията е изказана; M за действителното съществуване/функция. |
+| E372 | Vault-ът на Silo 17 показва голямо помещение с книги, документи, изображения, модели и запазени предмети. | Direct visual evidence | VH | Директно установява среда, богата на знание. |
+| E373 | Средата във vault-а включва ясно образователен/научен материал и голям астрономически/планетарен модел. | Direct visual evidence | VH | Подкрепя функция за съхраняване на знание. |
+| E374 | Silo 17 има директно наблюдавана функция за съхраняване на знание, функционално аналогична на `Legacy` в Silo 18. | Strong cross-Silo inference | H-VH | Официалното обозначение `Legacy` не е директно потвърдено за Silo 17. |
+| E375 | В наблюдаваната зона на дъното на Silo 18 водата е плитка и маршрутът е проходим пеша. | Direct observation | VH | Не установява еднаква дълбочина за цялото дъно. |
+| E376 | Инструкцията на Quinn за дъното/тунела е физически изпълнима без задължително гмуркане поне по наблюдавания маршрут. | Spatial inference | H | Ограничено до показаната зона. |
+| E377 | На дъното на Silo 18 действително съществува физически тунел/отвор. | Direct observation | VH | Основно физическо откритие. |
+| E378 | Откриването на тунела практически потвърждава физически проверимата инструкция на Quinn. | Direct confirmation of prior clue | VH | Не разрешава автоматично пълното значение на съобщението. |
+| E379 | В скритата долна зона Lukas получава разбираем, контекстуален отговор от неизвестен събеседник/система. | Direct observation / dialogue | VH | Установява активен двупосочен контакт; самоличността на източника е неизвестна. |
+| E380 | Тунелът води към активна наблюдавана/контролирана инфраструктура, а не само към пасивен изоставен проход. | Strong system inference | H | Подкрепено от взаимодействието, отчитащо контекста. |
+| E381 | Lukas научава, че преди него само Salvador Quinn, Mary Meadows и George Wilkins са стигали до тази точка. | Direct dialogue | VH | Изчерпателно твърдение в сцената за предишните посетители. |
+| E382 | George Wilkins е достигнал скритата долна контактна точка. | Direct historical claim from lower contact | VH | Силно разрешава старата hypothesis, че George е достигнал вратата. |
+| E383 | Mary Meadows е достигнала скритата долна контактна точка. | Direct historical claim from lower contact | VH | Силно свързва Meadows със защитения долен слой. |
+| E384 | Salvador Quinn е достигнал скритата долна контактна точка. | Direct historical claim from lower contact | VH | Засилва произхода/достоверността на инструкцията на Quinn за тунела. |
+| E385 | Bernard не е сред тримата предишни посетители; това установява, че не е достигал лично тази точка, но не доказва незнание за нейното съществуване. | Exhaustive-dialogue negative evidence | VH / M-H | Разграничава физическото посещение от знанието. |
+| E386 | Lukas е предупреден, че разкриването на видяното/наученото в скритата долна зона ще доведе до задействане на `the safeguard`. | Direct dialogue / threat-condition statement | VH | Механизмът, контролиращият субект и физическият ефект не са установени в S02E09. |
+| E387 | Marker-ът за Level 123 е директно показан по време на конфронтацията. | Direct visual evidence | VH | Нов пространствен ориентир. |
+| E388 | Оцелелият от Silo 17 казва, че е имало начин `the safeguard` да бъде спрян. | Character testimony | VH / H | VH, че твърдението е направено; H за практическата ефективност преди допълнително потвърждение. |
+| E389 | Оцелелият твърди, че родителите му са успели да спрат safeguard-а. | Character testimony | VH / H-VH | Исторически разказ; по-късното описание на тръбата/блокирането го засилва. |
+| E390 | Оцелелият свързва успешното спиране на safeguard-а с това населението на Silo 17 да достигне живо до масовото излизане, вместо да бъде унищожено вътре. | Character causal claim / refactored interpretation | H | Разделя вътрешния safeguard от смъртните случаи навън. |
+| E391 | Safeguard-ът съществено променя поредицата на жертвите в Silo 17 и трябва да се моделира отделно от външната опасност. | Strong inference | H | Основано на E389–E390 и последващото evidence за физическия механизъм. |
+| E392 | Родителите на оцелелия от Silo 17 са знаели практичен метод за прекъсване/блокиране. | Character testimony / derived fact | H-VH | Точният метод на откриване е неизвестен. |
+| E393 | `The safeguard` включва физическа тръба. | Direct system exposition / dialogue | VH | Механизмът става физически, а не абстрактен. |
+| E394 | Спирането на safeguard-а е съвместимо с физическо прекъсване/блокиране на потока през тръбата. | Technical inference | H | Засилено от E396. |
+| E395 | Тръбата на safeguard-а може да достави отрова в Silo, способна да унищожи цялото местно население. | Direct system exposition / character testimony | VH | Заявен е смъртоносен обхват върху целия Silo. |
+| E396 | В Silo 17 родителите на оцелелия са блокирали тръбата на safeguard-а и са предотвратили нормалното подаване на отровата. | Character testimony | VH / H-VH | Силно evidence за практически път за блокиране. |
+| E397 | Тръбата на safeguard-а идва отвън и влиза в Silo при Level 14. | Direct system exposition / dialogue | VH | Установява външно подаване + пространствен интерфейс. |
+| E398 | Пътят за подаване на safeguard-а е поне частично външен спрямо локалната обвивка на Silo. | Strong system inference | H-VH | Източникът нагоре по веригата/контролиращият субект са неизвестни. |
+| E399 | Level 14 е силен кандидат за интерфейсна точка между външната safeguard инфраструктура и вътрешните системи на Silo. | Spatial/system inference | H | Функцията извън интерфейса на safeguard-а остава неустановена. |
+| E400 | Бунтовниците саботират/унищожават част от основните връзки на стълбището в Silo 18. | Direct action / scene observation | VH | Архитектурата се превръща в тактически терен. |
+| E401 | Силите на Bernard остават значително отрязани по-надолу, докато страната на бунта задържа горните позиции. | Direct situational outcome / user-confirmed context | VH | Оперативно разделение. |
+| E402 | Саботажът на стълбището превръща вертикалната архитектура на Silo в отбранителна бариера. | Strong inference | H-VH | Тактическа последица, а не отделно твърдение за инфраструктурата. |
+| E403 | Достъпът до изхода/airlock-а е в или непосредствено през зоната на Sheriff Department. | Direct scene/dialogue evidence | VH | Точната граница в планировката не е установена. |
+| E404 | Sheriff Department е на Level 1 и е непосредствено до cafeteria. | Direct spatial evidence | VH | Засилва модела за разположението в Up-top. |
+| E405 | Juliette се връща до Silo 18 и показва `not safe / do not come out` („не е безопасно / не излизайте“) към camera/display системата. | Direct visual evidence | VH | Изрично предупреждение от външната страна. |
+| E406 | Juliette умишлено предупреждава жителите на Silo 18 да не излизат, защото външната среда остава опасна. | Direct action / communication intent | VH | Не доказва, че всеки жител го е видял. |
+| E407 | Външната камера може да служи като информационна повърхност отвън чрез физическо съобщение, показано на камерата. | System inference | H-VH | Пътят на излъчване/филтриране остава неизвестен. |
+| E408 | Външният вход/люкът на airlock-а на Silo 18 се отваря отвътре, докато Juliette е там. | Direct observation | VH | Входът е активно отворен. |
+| E409 | Някой вътре инициира/разрешава достъпа на Juliette. | Strong situational inference | H-VH | Конкретният участник е установен от следващото evidence. |
+| E410 | Bernard лично посреща Juliette при отворения вход/airlock на Silo 18. | Direct scene context / user-confirmed character identity | VH | Лично участие, а не само дистанционно наблюдение. |
+| E411 | Bernard физически участва в поредицата по посрещане/влизане. | Situational inference | H-VH | Само по себе си това не установява единствена контролираща власт. |
+| E412 | Bernard е в зоната на airlock-а/изхода със защитен костюм/шлем. | Direct visual evidence | VH | Точната причина за костюма остава контекстуална. |
+| E413 | Juliette казва на Bernard, че може би знае как да спре `the safeguard`. | Direct dialogue | VH | Заменя по-ранната по-слаба live формулировка, че тя само знае механизма на отровата. |
+| E414 | След този обмен Bernard и Juliette влизат заедно през входния/airlock проход. | Direct observation / sequence | VH | Хронологичен ориентир. |
+| E415 | Juliette демонстрира пред Bernard, че знанието за safeguard-а е проникнало отвъд защитения IT/долен системен слой. | Strong information-control inference | H-VH | Точният източник на нейния метод за спиране остава неустановен. |
+| E416 | След като Juliette и Bernard вече са влезли, системата с горелка/пламък се активира във входната/airlock зона. | Direct scene observation / corrected chronology | VH | Изрична корекция на по-ранната live неяснота. |
+| E417 | Деконтаминация/стерилизация е правдоподобна функция на цикъла с горелката, но точната функция не е установена и системата не се приравнява със safeguard-а. | Technical hypothesis boundary | M-H | Системите се държат отделно. |
+| E418 | Разказът преминава към Washington в директен pre-Silo период. | Direct scene / temporal-location transition | VH | Първата директна pre-Silo историческа сцена в проекта. |
+| E419 | Знанието на проекта вече включва непосредствена pre-Silo реалност от същия период, а не само по-късни реликви/записи/свидетелства. | Evidence-state inference | VH | Промяна в методологичната граница. |
+| E420 | Преди влизане човекът е проверен с ръчно устройство за измерване на радиация. | Direct scene observation | VH | Радиационен контрол. |
+| E421 | Устройството за радиация показва радиационен символ и статус `NORMAL` („НОРМАЛНО“). | Direct visual evidence | VH | За твърдението не е необходима точна цифрова стойност. |
+| E422 | Радиационният контрол е част от процедурата за влизане в конкретното заведение. | Direct contextual inference | H-VH | Обхватът извън това заведение е неизвестен. |
+| E423 | Проверената дестинация е бар. | Direct scene context | VH | Контекст на обикновено социално заведение. |
+| E424 | Централният мъжки персонаж е конгресмен от Georgia. | Direct dialogue / character background | VH | Политически ролеви/географски ориентир. |
+| E425 | Georgia се появява като втори независим pre-Silo ориентир след реликвата travel guide от S01E06. | Cross-episode contextual correlation | H | Само по себе си не локализира Silo. |
+| E426 | Конгресменът представлява 15-и конгресен окръг на Georgia. | Direct dialogue / character background | VH | Точен политико-географски ориентир. |
+| E427 | В показания свят Georgia в този период има поне 15 конгресни окръга. | Direct institutional inference | VH | Не е използван външен календарен извод. |
+| E428 | Диалогът се позовава на предходна предполагаема радиологична/„мръсна бомба“ атака срещу САЩ; събитието не е текущо по време на сцената в бара. | Direct dialogue / historical context | VH | Реалността на атаката по-късно е отделно поставена под въпрос. |
+| E429 | Предполагаемата атака е приписана на Iran в разговора. | Character/in-world attribution | VH | Приписване ≠ независимо доказателство за извършителя. |
+| E430 | Конгресменът е попитан дали се планира ответен удар срещу Iran. | Direct dialogue | VH | Въпросът не установява одобрен/изпълнен удар. |
+| E431 | Предполагаемият радиологичен инцидент е част от политическия/националносигурностния дебат за възможен ответен удар на САЩ. | Strong contextual inference | H-VH | Обхватът на действителната политика е неизвестен. |
+| E432 | Диалогът изрично допуска, че може изобщо да не е имало радиологична атака срещу САЩ. | Direct dialogue | VH | Съществено отслабва модела, в който атаката се приема като установена история. |
+| E433 | Жената поставя под въпрос фактическата реалност на предполагаемата атака, не само приписването ѝ. | Direct character statement / implication | VH | Твърдение на говорещия; окончателната истина е неизвестна. |
+| E434 | Моделът за фабрикуван/манипулиран претекст става легитимен кандидат; строгият модел `false flag` остава недоказан. | Hypothesis-level inference | M | Изисква бъдещо evidence за институционално авторство/инсцениране. |
+| E435 | Конгресменът подарява на жената пакетирано `PEZ Candy & Dispenser` с глава на жълто пате. | Direct visual evidence / character interaction | VH | Ясна идентичност на потребителския предмет. |
+| E436 | PEZ-ът е личен подарък и потенциален маркер за произход между епохите; точната приемственост към Silo-era реликвата остава недоказана. | Contextual inference | H | Силна връзка на ниво клас предмет, а не доказателство за верига на притежание. |
 
 | E437 | Opening state показва Juliette като Mayor в Silo 18. | Direct scene / user-confirmed context | H-VH | Formal role е established от episode context; exact appointment mechanism остава unresolved. |
 | E438 | Juliette е обратно вътре в Silo 18 след S02E10 return/airlock sequence. | Direct continuity | VH | Потвърждава survival и successful re-entry. |
@@ -776,7 +776,7 @@ Binary assets са качени отделно в `main` преди analysis PR-
 
 `contact-sheet.jpg` е спомагателен навигационен asset и не е primary evidence.
 
-E388–E399 и E403–E417 включват значимо dialogue/sequence evidence, за което не всеки individual claim има dedicated screenshot. Visual package се използва като selected corroborative evidence, а не като замяна на dialogue record.
+E388–E399 и E403–E417 включват значимо evidence от диалог/поредица, за което не всяко отделно твърдение има собствен screenshot. Визуалният пакет се използва като избрано потвърждаващо evidence, а не като замяна на записа на диалога.
 
 ## Визуални източници — S02E09
 

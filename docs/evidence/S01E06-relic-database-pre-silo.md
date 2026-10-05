@@ -41,7 +41,7 @@ Database result:
 - `SMALL PLASTIC CONTAINER`;
 - archival image.
 
-## Model impact
+## Въздействие върху модела
 
 Това доказва asymmetric knowledge distribution:
 
@@ -55,7 +55,7 @@ privileged institutional layer
 pre-Silo classification + archive + ledger records
 ```
 
-Следователно H6 се refactor-ва: historical knowledge не е просто absent; selected knowledge е **preserved but access-restricted**.
+Следователно H6 се преработва: историческото знание не е просто липсващо; избрано знание е **запазено, но с ограничен достъп**.
 
 ## Visual evidence
 

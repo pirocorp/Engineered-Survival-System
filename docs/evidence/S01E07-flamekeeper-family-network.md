@@ -45,7 +45,7 @@ Juliette
 **Confidence:** H  
 **Status:** Active
 
-## Open questions
+## Отворен въпросs
 
 - Какъв точно е бил business/work-ът на двете майки?
 - Бил ли е свързан с Flamekeeper preservation activity?

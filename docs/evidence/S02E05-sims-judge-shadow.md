@@ -11,7 +11,7 @@ Bernard:
 
 ## Governance implication
 
-S02E05 разделя public Judicial office от hidden IT succession/read-in track.
+S02E05 разделя публичната длъжност в Judicial от скрития IT път за наследяване/read-in.
 
 ```text
 formal/public power:
@@ -26,4 +26,4 @@ shadow
 
 Това силно подкрепя layered hierarchy, при която да си Judge не е равнозначно на access до най-дълбокия classified succession path на Bernard.
 
-Не преувеличаваме това до "Judge is always a puppet". Meadows запазва independent knowledge, preferences и choices. По-силно подкрепеният claim е, че Bernard има substantial influence върху occupancy на office и може да държи shadow succession отделно от Judicial authority.
+Не преувеличаваме това до `Judge is always a puppet` („Judge винаги е марионетка“). Meadows запазва независимо знание, предпочитания и избори. По-силно подкрепеното твърдение е, че Bernard има значително влияние върху заемането на длъжността и може да държи `shadow` наследяването отделно от властта на Judicial.

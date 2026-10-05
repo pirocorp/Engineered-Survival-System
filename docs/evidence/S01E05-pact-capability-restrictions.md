@@ -23,7 +23,7 @@ Observed social effect остава:
 
 `large vertical distance → high travel cost/time → de facto social separation`
 
-Но причината за забраната остава unknown. Не заключваме automatic social-control motive.
+Но причината за забраната остава неизвестна. Не заключваме автоматично мотив за социален контрол.
 
 ## Magnification
 

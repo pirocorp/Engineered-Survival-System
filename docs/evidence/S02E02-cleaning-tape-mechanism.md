@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S02E02`
 
-## Evidence chain
+## Верига на доказателствата
 
 S01E10/S02E01 already established:
 - Juliette получава различен tape от normal cleaning configuration;
@@ -18,7 +18,7 @@ S02E02 adds insider testimony:
 
 ## H34
 
-> Standard cleaning tape е intentionally/systematically inferior, докато alternative "good" tape materially подобрява seal integrity и exterior survival.
+> Стандартната cleaning лента е умишлено/системно по-лоша, докато алтернативната „добра“ лента съществено подобрява целостта на уплътнението и оцеляването навън.
 
 **Confidence:** VH  
 **Status:** Strongly Strengthened / Refactored
@@ -59,4 +59,4 @@ visible cleaner death
 
 Exterior наистина е lethal, следователно това не е model, при който death се причинява само от sabotage в otherwise safe world.
 
-Unresolved въпросът е дали standard tape е deliberately calibrated да осигурява точно достатъчно време за cleaning преди failure, или е просто deliberately/systematically inadequate.
+Остава неустановен въпросът дали стандартната лента е умишлено калибрирана да осигурява точно достатъчно време за cleaning преди повреда, или е просто умишлено/системно недостатъчна.

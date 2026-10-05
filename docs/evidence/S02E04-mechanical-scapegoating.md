@@ -32,4 +32,4 @@ conflict managed around a chosen target
 **Confidence:** VH  
 **Status:** Strongly Strengthened
 
-Exact reason за избора на Mechanical остава unresolved. Най-силният текущ candidate е контролът му върху generator/critical infrastructure, но social/geographic separation също може да има значение.
+Точната причина за избора на Mechanical остава неустановена. Най-силният текущ кандидат е контролът му върху генератора/критичната инфраструктура, но социалното/географското разделение също може да има значение.

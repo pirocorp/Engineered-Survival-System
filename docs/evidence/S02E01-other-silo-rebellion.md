@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S02E01`
 
-## Evidence chain
+## Верига на доказателствата
 
 - видимо е rebellion-era anti-Founder / anti-deception graffiti;
 - появява се 15-minute generator-related written warning;

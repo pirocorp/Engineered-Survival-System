@@ -33,7 +33,7 @@ Scene context свързва secured IT layer на Bernard с:
 - `THE ORDER`;
 - restricted institutional knowledge.
 
-Knowledge-ът на Judge Meadows за `THE ORDER` и tape mechanism показва, че това privileged knowledge не е exclusive за Bernard.
+Знанието на Judge Meadows за `THE ORDER` и механизма с лентата показва, че това привилегировано знание не е изключително за Bernard.
 
 Това refactor-ва model от "Bernard personally knows the secrets" към **restricted read-in governance layer**, в който поне Bernard и Meadows имат overlapping access.
 

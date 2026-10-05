@@ -1,6 +1,6 @@
 # S02E10 Visual Evidence Manifest
 
-Processing: perspective correction of the photographed TV plane, crop/warp to 16:9, 1536×864 output, JPEG quality 95. No generative fill, reconstruction, object removal, subtitle removal, or content alteration.
+Обработка: перспективна корекция на заснетата равнина на телевизора, crop/warp до 16:9, изход 1536×864, JPEG quality 95. Не са използвани generative fill, reconstruction, object removal, subtitle removal или друга промяна на съдържанието.
 
 | File | Evidence / context | SHA-1 |
 |---|---|---|

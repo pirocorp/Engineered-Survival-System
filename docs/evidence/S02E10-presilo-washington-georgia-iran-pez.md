@@ -2,13 +2,13 @@
 
 **Knowledge boundary:** `S02E10 — Season 2 finished`
 
-S02E10 за първи път показва direct pre-Silo historical scene. Това е качествена промяна спрямо предишния evidence model, където pre-Silo world беше достъпен чрез relics, records, recordings, `Legacy` и later testimony.
+S02E10 за първи път показва директна pre-Silo историческа сцена. Това е качествена промяна спрямо предишния evidence модел, където pre-Silo светът беше достъпен чрез реликви, записи, recordings, `Legacy` и по-късни свидетелства.
 
 ## Radiation screening в ordinary social venue
 
 Преди entry в Washington bar човек е проверен с handheld radiation meter. UI показва radiation symbol и status `NORMAL`.
 
-Тъй като destination-ът е bar, screening-ът не се моделира като evidence за restricted military/government facility. Той показва radiological-security practice в ordinary social setting.
+Тъй като дестинацията е бар, screening-ът не се моделира като evidence за ограничено военно/правителствено съоръжение. Той показва практика за радиологична сигурност в обикновена социална среда.
 
 Visuals:
 - [Radiation screening](../../assets/S02E10/screenshots/presilo-radiation-screening.jpeg)
@@ -71,4 +71,4 @@ possible object/provenance continuity
 Silo-era yellow-plastic / blue-handle relic
 ```
 
-Exact same-object identity и chain of custody през вековете **не са доказани**. Това остава H77 candidate, но е един от най-силните потенциални material bridges между direct pre-Silo scene и earlier Silo-era relic evidence.
+Точната идентичност като един и същ предмет и веригата на притежание през вековете **не са доказани**. Това остава H77 candidate, но е един от най-силните потенциални материални мостове между директната pre-Silo сцена и по-ранното evidence за Silo-era реликвата.

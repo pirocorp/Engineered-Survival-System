@@ -4,7 +4,7 @@
 
 S02E07 съществено refactor-ва secured IT vault.
 
-## Direct evidence
+## Директни доказателства
 
 The vault includes:
 - residential/living compartments;
@@ -30,18 +30,18 @@ IT vault
   successor / IT custodian
 ```
 
-Това дава конкретен механизъм institutional memory да оцелява през generations, дори когато public historical knowledge е силно restricted.
+Това дава конкретен механизъм институционалната памет да оцелява през поколенията, дори когато публичното историческо знание е силно ограничено.
 
 ## H42 update
 
-**IT vault е protected continuity environment, предназначен да запазва хора, power, privileged systems и protected knowledge през crisis/collapse.**
+**IT vault е защитена среда за приемственост, предназначена да запазва хора, захранване, привилегировани системи и защитено знание през криза/колапс.**
 
 **Confidence:** H → VH-ish  
 **Status:** Strongly Strengthened / Refactored.
 
 ## H44 update
 
-Deep historical/cross-Silo knowledge на Bernard вече не изисква vague "inherited institutional knowledge" mechanism.
+Дълбокото историческо/cross-Silo знание на Bernard вече не изисква неясен механизъм „наследено институционално знание“.
 
 `Legacy` дава concrete candidate repository, чрез който това knowledge може да бъде preserved и transferred.
 
@@ -50,7 +50,7 @@ Deep historical/cross-Silo knowledge на Bernard вече не изисква v
 
 ## H59
 
-**IT vaults може да съдържат standardized `Legacy` archive, предназначен да запазва technical, historical и governance knowledge през succession или Silo-wide collapse.**
+**IT vault-овете може да съдържат стандартизиран `Legacy` архив, предназначен да запазва техническо, историческо и управленско знание през наследяване или колапс на целия Silo.**
 
 **Confidence:** H  
 **Status:** Active / Strongly Supported в Silo 18.

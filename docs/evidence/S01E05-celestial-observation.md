@@ -37,7 +37,7 @@ Night display-ът има repeatable/systematic temporal structure, достат
 
 ## What this does NOT establish
 
-Не доказва, че display-ът е live camera feed.
+Не доказва, че display-ът е live feed от камера.
 
 Същото behavior е compatible с:
 

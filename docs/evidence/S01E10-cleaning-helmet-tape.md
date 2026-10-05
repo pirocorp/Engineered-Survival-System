@@ -2,14 +2,14 @@
 
 **Knowledge boundary:** `S01E10`
 
-## Direct evidence
+## Директни доказателства
 
 - Helmet-ът на Juliette първоначално показва същото lush representation, свързано с `JANE CARMODY CLEANING`.
-- Juliette първоначално интерпретира това като proof, че internal public display лъже.
+- Juliette първоначално интерпретира това като доказателство, че вътрешният public display лъже.
 - Lush view директно е разкрита като false/manipulated visual layer.
 - Barren terrain остава, когато layer-ът отпада.
 - Bernard разпознава, че Juliette разбира deception-а.
-- Suit-ът на Juliette използва различен tape/material от standard cleaning configuration.
+- Костюмът на Juliette използва различна лента/материал от стандартната cleaning конфигурация.
 - Bernard и Sims очакват standard cleaner failure/death около дървото.
 - Juliette оцелява отвъд този expected failure point.
 
@@ -31,7 +31,7 @@ Cleaner поведението е инженерно насочвано чрез
 Cleaner mortality съществено зависи от suit/helmet/seal configuration → **VH / Strongly Strengthened / Refactored**.
 
 ### H34
-Standard cleaning tape може да е системно или умишлено inferior, докато alternate tape запазва seal integrity → **H / Active**.
+Стандартната cleaning лента може да е системно или умишлено по-лоша, докато алтернативната лента запазва целостта на уплътнението → **H / Active**.
 
 ## Causal discipline
 

@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S02E05`
 
-S02E05 превръща Quinn letter от historical testimony в direct archived-document evidence.
+S02E05 превръща писмото на Quinn от историческо свидетелство в директно evidence от архивиран документ.
 
 ## E307
 
@@ -26,7 +26,7 @@ deliberately protected payload
 
 ## H50 update
 
-Salvador Quinn вече е силно подкрепен като ключова Rebellion-era privileged-IT фигура, която умишлено е запазила written message с protected final payload.
+Salvador Quinn вече е силно подкрепен като ключова привилегирована IT фигура от ерата на Rebellion, която умишлено е запазила писмено съобщение със защитено финално съдържание.
 
 **Confidence:** VH-ish  
 **Status:** Strongly Strengthened

@@ -4,7 +4,7 @@
 
 Новооткрита Silo schematic показва lines/connections, свързани в scene context едновременно с **IT** и **Judicial**.
 
-## Direct evidence boundary
+## Директни доказателства boundary
 
 Изображението не е достатъчно sharp, за да установи:
 - line type;
@@ -19,7 +19,7 @@
 **Confidence:** M–H  
 **Status:** Active
 
-Map-ът е compatible с testimony от Silo 17 за independent IT power, но все още не доказва, че показаните линии са този power feed.
+Картата е съвместима със свидетелството от Silo 17 за независимо IT захранване, но все още не доказва, че показаните линии са този захранващ път.
 
 ## Visual
 

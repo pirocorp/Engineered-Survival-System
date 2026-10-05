@@ -1,4 +1,4 @@
-# S01E02 — Hidden construction layer under the Silo
+# S01E02 — Скрит строителен слой под Silo
 
 **Knowledge boundary:** `S01E02 only`
 
@@ -113,4 +113,4 @@ SEALED CONSTRUCTION CAVITY
 
 > **Down-deep е социалното и обитаемо дъно на Силоза, но не и физическото дъно на комплекса.**
 
-S01E02 establishes a hidden original construction layer beneath the inhabited Silo. Причината той да бъде юридически забранен и какво има зад reported lower door остават централни open questions.
+S01E02 установява скрит първоначален строителен слой под обитаемия Silo. Причината той да бъде юридически забранен и какво има зад описаната долна врата остават централни отворени въпроси.
