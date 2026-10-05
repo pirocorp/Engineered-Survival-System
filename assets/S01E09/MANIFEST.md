@@ -24,7 +24,7 @@ Selected screenshots са обработени първо с **perspective corre
 
 ## Епистемични бележки
 
-- Level 23 е direct visual evidence.
+- Level 23 е Пряко визуално доказателство.
 - Bridge/landing sequence подкрепя, че Juliette оцелява при първоначалното падане; exact mechanics/distance не се извеждат само от still-а.
 - Обектът с маркировка `18` е visually confirmed, но функцията му е **unknown**.
 - Не извеждаме автоматично, че `18` е HDD number, access level, tracker ID, key number или друг identifier без допълнителен episode evidence.
