@@ -856,8 +856,8 @@
 Binary assets са качени отделно в `main` преди analysis PR-а и са валидирани byte-for-byte чрез Git blob SHA comparison:
 
 - [Level 94](../assets/S03E06/screenshots/level-94-primary.jpeg)
-- [Juliette / camera-free room concern](../assets/S03E06/screenshots/no-camera-room-object.jpeg)
-- [Industrial work area / emblem](../assets/S03E06/screenshots/industrial-work-area-emblem.jpeg)
+- [Juliette / съмнение за наблюдение без камери](../assets/S03E06/screenshots/no-camera-room-object.jpeg)
+- [Индустриална работна зона / емблема](../assets/S03E06/screenshots/industrial-work-area-emblem.jpeg)
 - [S03E06 visual evidence manifest](../assets/S03E06/MANIFEST.md)
 
 `contact-sheet.jpg` е auxiliary/navigation asset, не primary evidence.
