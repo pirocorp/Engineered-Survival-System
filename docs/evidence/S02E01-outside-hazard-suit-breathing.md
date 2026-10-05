@@ -22,7 +22,7 @@ real outside hazard
 
 Possible poor-seal pathways:
 
-1. external hazardous material влиза през failed seal;
+1. външен опасен материал влиза през повредено уплътнение;
 2. breathing gas изтича по-бързо и supply се изчерпва;
 3. и двата механизма работят едновременно.
 
@@ -60,7 +60,7 @@ Current candidates include:
 - biological/pathogen exposure;
 - other atmosphere-borne agent.
 
-Pure external radiation като sole immediate killer е weakened, защото seal/breathing evidence съответства по-добре на ingress/exposure model. Airborne radioactive particulate остава physically possible, но unsupported.
+Чистата външна радиация като единствен непосредствен убиец е отслабена като обяснение, защото evidence-ът за уплътнението/дишането съответства по-добре на модел за проникване/излагане. Радиоактивни частици във въздуха остават физически възможни, но неподкрепени.
 
 ## Граници
 
