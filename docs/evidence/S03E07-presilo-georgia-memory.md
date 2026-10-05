@@ -4,12 +4,12 @@
 
 ## Daniel Keen / сестрата
 
-Daniel Keen отново е с сестра си.
+Daniel Keen отново е със сестра си.
 
 Тя е физически възстановена, но memory state-ът ѝ не е intact:
 - има откъслечни/фрагментарни спомени;
-- значителна част от autobiographical account-а ѝ е това, което други са ѝ казали;
-- разполага и със sensitive information, което не може свободно да disclose-не.
+- значителна част от autobiographical account-а ѝ е онова, което други са ѝ казали;
+- разполага и с чувствителна информация, която не може свободно да disclose-не.
 
 Това разделя два различни control слоя:
 
@@ -31,9 +31,9 @@ S03E05 E766 беше candidate:
 
 > sister treatment може да включва memory suppression / retrieval blocking.
 
-В началото на S03E07 физическото възстановяване и наличието на някакви спомени временно може да изглеждат като weakening.
+В началото на S03E07 физическото възстановяване и наличието на някакви спомени временно могат да изглеждат като weakening.
 
-По-късната direct информация за **фрагментарен recall** + dependence върху подаден отвън разказ връща hypothesis-а към съществено подсилватed state.
+По-късната direct информация за **фрагментарен recall** + dependence върху подаден отвън разказ отново съществено подсилва hypothesis-а.
 
 Това е consistent с pre-Silo memory mechanism от S03E02:
 - real memories могат да останат налични, но трудно accessible;
@@ -49,28 +49,28 @@ Daniel Keen още не е read-in и трябва да подпише собс�
 
 Това показва формално разграничаване на достъпа:
 - knowledge може да е налично;
-- disclosure е role/access dependent;
-- legal/бариера за секретен достъп предхожда пълната информация.
+- disclosure зависи от access/read-in;
+- legal/secrecy gate предхожда пълното разкриване.
 
 ## Georgia / Atlanta
 
-Keen е доведен в Georgia, близо до Atlanta, до Silo строителната площадка.
+Keen е доведен в Georgia, близо до Atlanta, до площадка за строеж на Silos.
 
-Visual evidence показва огромен civil-engineering site с множество паралелни circular excavation/build zones.
+Visual evidence показва огромен civil-engineering site с множество паралелни кръгови excavation/build zones.
 
 Най-силният текущ прочит е:
-- Silos са planned като multi-unit field;
-- construction-ът е coordinated от самото начало;
+- Silos са планирани като multi-unit field;
+- construction-ът е координиран от самото начало;
 - показаният Silo complex има geographic anchor в района на Atlanta, Georgia.
 
-Точната site coordinate и numbering на отделните Silos не са установени.
+Точните coordinates и numbering на отделните Silos не са установени.
 
 ## Scale implication
 
-Construction frame-ът показва program, който изисква:
+Кадърът показва програма, която изисква:
 - massive earthmoving;
 - heavy cranes;
 - parallel civil works;
 - long-term industrial/logistics coordination.
 
-Това е inconsistent с малък isolated prototype и силно подкрепятs a centrally planned large-scale program.
+Това не прилича на малък isolated prototype и силно подкрепя centrally planned large-scale program.
