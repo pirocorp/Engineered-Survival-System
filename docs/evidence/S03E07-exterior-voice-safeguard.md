@@ -10,45 +10,45 @@ Mission-ът има два слоя:
 - явна/оперативна цел: децата от Silo 17;
 - covert цел: да се установи practical начинът, по който safeguard pipe-ът е бил блокиран.
 
-Това прави child-transfer mission-а едновременно humanitarian/transfer operation и cover за safeguard-countermeasure reconnaissance.
+Така child-transfer mission-ът е едновременно реална transfer операция и прикритие за safeguard-countermeasure reconnaissance.
 
 ## Exterior acoustic sequence
 
 Навън sequence-ът е:
 
 ```text
-ясно жужене / humming
+ясно жужене
         ↓
 кратък приглушен crack/pop
         ↓
-героите казват, че звучи като оръжие
+героите казват, че звучи като от оръжие
         ↓
 по-късно Voice report:
 Kyle + Kennedy = "neutralized"
 ```
 
-Това supports external-enforcement candidate, но точният механизъм остава unresolved.
+Това подкрепя хипотеза за външна принудителна capability, но точният механизъм остава unresolved.
 
-Не се lock-ват конкретни actuators без visual/physical evidence.
+Не се фиксира конкретен actuator без visual/physical evidence.
 
 ## Voice report и knowledge
 
 „Гласът“ съобщава, че Kyle и Kennedy са `neutralized`.
 
 Това показва поне, че supervisory layer-ът:
-- получава/произвежда exterior информация за статуса;
+- получава/произвежда информация за статуса им извън Silo;
 - може да докладва outcome за конкретно named personnel.
 
 По-силният claim, че „Гласът“ лично управлява weapon/device-а, остава inference.
 
 ## Silo 17 safeguard defeat
 
-„Гласът“ използва Juliette recording-а и mass-casualty evidence около Silo 17, за да заключи, че safeguard-ът там е бил overcome/blocked поне временно.
+„Гласът“ използва записа на Juliette и mass-casualty evidence около Silo 17, за да заключи, че safeguard-ът там е бил преодолян/блокиран поне временно.
 
-Това strengthens historical model-а:
+Това подсилва historical model-а:
 - safeguard defeat в Silo 17 е practical, не theoretical;
-- defeat-ът е бил достатъчен да позволи mass exit;
-- external hazard остава separate и може да убие след exit.
+- прекъсването е било достатъчно да позволи mass exit;
+- external hazard остава отделен и може да убие след exit.
 
 ```text
 blocked safeguard
@@ -56,17 +56,17 @@ blocked safeguard
 safe exterior
 ```
 
-## "Непреодолим" safeguard
+## „Непреодолим“ safeguard
 
 „Гласът“ казва на Camille, че safeguard-ът е непреодолим.
 
 Това се записва като **Voice claim**.
 
 Competing explanations:
-1. safeguard architecture има redundancy/fallback, затова blocking на една pipe линия не е sufficient;
+1. safeguard architecture има redundancy/fallback и блокирането на една pipe линия не е достатъчно;
 2. Silo 17 е постигнал само временно прекъсване;
-3. „Гласът“ използва сплашващ bluff/intimidation;
-4. има друг mechanism, който още не е известен.
+3. „Гласът“ използва intimidation/bluff;
+4. съществува друг механизъм, който още не е известен.
 
 Episode evidence не избира окончателно между тях.
 
@@ -76,7 +76,7 @@ Camille и „Гласът“ спекулират, че Juliette може да 
 
 Camille по-късно пита Juliette дали децата са били единствената причина за mission-а.
 
-Това е силна supervisory-knowledge boundary:
+Това е важна supervisory-knowledge boundary:
 - intent-ът на Juliette не е fully known;
 - той се реконструира;
 - S03E06 selective-disclosure strategy остава operationally relevant.
@@ -92,17 +92,16 @@ Voice: "neutralized"
 Camille: не са стигнали Silo 17
               │
               ▼
-радиопредаване от "Kyle/Kennedy"
+radio transmission от "Kyle/Kennedy"
 ```
 
 Radio call-ът:
-- weakens certainty на neutralization report-а;
-- не proof-ва физическо достигане;
+- отслабва certainty на neutralization report-а;
+- не доказва физическо достигане;
 - може да е genuine, relay, recording или manipulation.
 
-Operational consequence:
-Silo 18 прекратява immediate плановете за:
+Оперативният резултат е, че Silo 18 прекратява immediate плановете за:
 - взривяване на Judicial;
 - намиране и физическо блокиране на safeguard pipe-а.
 
-Ако transmission-ът е false, това би било високоефективна deception operation. Засега това е условна хипотеза.
+Ако transmission-ът е false, това би било много ефективна deception operation. Засега това е условна хипотеза.
