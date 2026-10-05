@@ -851,6 +851,89 @@
 | E824 | Keen стига до среща с жена, свързана с political oversight/commission line-а по Iran operation; точната ѝ титла остава provisional. | Direct character/location continuity | H | Не lock-ваме „senator“ без explicit confirmation. |
 | E825 | Forced car takeover → airport → private aircraft води Keen към предварително организирана среща с високопоставена фигура, свързана с Iran oversight line-а. | Structural convergence | H-VH | Не доказва дали тя е controller, ally, target или intermediary. |
 
+
+## S03E07 — exterior enforcement, safeguard contradiction, sister memory и Georgia construction
+
+| ID | Наблюдение | Клас | Confidence | Бележка |
+|---|---|---|---|---|
+| E826 | Lukas Kyle и Patrick Kennedy излизат от Silo 18 и се насочват към Silo 17. | Direct episode event | VH | Patrick е идентифициран по-късно по име. |
+| E827 | Явната mission objective е да достигнат Silo 17 и да доведат децата в Silo 18. | Direct stated objective | VH | Child-transfer line. |
+| E828 | Covert objective на мисията е да се установи practical начинът, по който safeguard pipe-ът е бил блокиран. | Direct operational objective | VH | Countermeasure reconnaissance. |
+| E829 | Child-transfer mission-ът едновременно прикрива safeguard-countermeasure reconnaissance. | Structural inference | H-VH | Не променя genuine interest-а към децата. |
+| E830 | Показан е command-line/system console, през който се подават low-level administrative/system commands. | Direct visual evidence | VH | Не е proof за писане на source code. |
+| E831 | Console-ът показва simulation cycle с 5000 iterations и status output. | Direct visual evidence | H-VH | Част от текста е soft. |
+| E832 | Показана е reboot команда с `--bypass-security --confirm`. | Direct visual evidence | VH | Administrative bypass operation. |
+| E833 | Console-ът показва `SYSTEM REBOOT IN PROGRESS...`. | Direct visual evidence | VH | Reboot execution state. |
+| E834 | Показан е control override, свързан с `--null_feed --loop`. | Direct visual evidence | H-VH | Exact prefix на command-а е по-слабо четим. |
+| E835 | Ясно се вижда warning: `Live feed replaced with null visual. Looping static image.` | Direct visual evidence | VH | Direct feed-substitution mechanism. |
+| E836 | Показана е forced reboot команда с delay `00:30`. | Direct visual evidence | H-VH | Exact formatting е visual transcription. |
+| E837 | Kyle и Kennedy са директно показани извън Silo през нощта. | Direct episode/visual event | VH | Exterior night anchor. |
+| E838 | Реалното exterior night sky показва ясни звезди. | Direct visual evidence | VH | Physical comparison anchor. |
+| E839 | Exterior star field дава direct comparison anchor за по-ранните cafeteria/public-display star patterns. | Cross-scene inference | H-VH | Не доказва geometric match. |
+| E840 | Докато са навън, Kyle и Kennedy чуват ясно жужене/humming от неизвестен източник. | Direct auditory episode event | VH | Source unknown. |
+| E841 | Exterior environment съдържа активен източник на mechanical/electrical-like sound. | Environmental inference | H | Exact classification остава uncertain. |
+| E842 | Candidate: жуженето идва от active external infrastructure, свързана с multi-Silo system-а. | Hypothesis | M | Competing causes остават open. |
+| E843 | След жуженето се чува кратък приглушен crack/pop. | Direct auditory episode event | H-VH | Source unknown. |
+| E844 | Самите герои казват, че звукът е прозвучал като от оръжие. | Direct character statement | VH | Доказва interpretation-а им, не exact weapon mechanism. |
+| E845 | Sequence-ът е: жужене → кратък weapon-like звук. | Cross-sensory event sequence | H-VH | Temporal association, не proof за common source. |
+| E846 | „Гласът“ съобщава, че Lukas Kyle и Patrick Kennedy са `neutralized` след излизането им. | Direct Voice statement | VH | Status claim, не direct visual proof. |
+| E847 | „Гласът“ demonstrably има поне status/situational information за хора извън Silo. | Structural conclusion | H-VH | Later radio contradiction ограничава certainty за accuracy. |
+| E848 | Acoustic sequence + Voice report strongly support candidate external-enforcement capability. | Cross-scene inference | H | Exact actor/actuator остава unknown. |
+| E849 | Exact neutralization mechanism остава unresolved. | Epistemic boundary | VH | Не се lock-ват projectile, drone, toxin или друг specific mechanism. |
+| E850 | „Гласът“ заключава от Juliette recording-а и множеството трупове около Silo 17, че хората там са успели да overcome/block-нат safeguard-а поне временно. | Direct Voice conclusion | VH | Historical reconstruction. |
+| E851 | Evidence basis на това заключение е downstream outcome: recording + mass-exit/death field. | Direct reasoning basis | H-VH | Показва inferential reconstruction. |
+| E852 | Safeguard mechanism-ът в Silo 17 е бил practically interrupted/defeated поне за определен период. | Historical mechanism conclusion | VH | Не означава safe exterior. |
+| E853 | „Гласът“ не е показан като perfect real-time knower на exact Silo 17 sabotage method; той deduce-ва от outcomes. | Supervisory-knowledge boundary | H | Не доказва липса на други sensors. |
+| E854 | „Гласът“ казва на Camille, че safeguard-ът е непреодолим. | Direct Voice statement | VH | Claim, не independently established fact. |
+| E855 | Claim-ът за непреодолим safeguard е в напрежение със Silo 17 evidence-а за temporary defeat. | Evidence conflict | VH | Central S03E07 contradiction. |
+| E856 | Candidate: safeguard architecture може да има redundancy, multiple delivery paths, fallback routes или secondary kill mechanism. | Hypothesis | M-H | Зависи от truthfulness на E854. |
+| E857 | Познатият poison pipe остава direct-confirmed component на safeguard architecture-а, но S03E07 не доказва, че е единствен delivery path. | Model refinement | H-VH | Предпазва от single-pipe overclaim. |
+| E858 | Camille и „Гласът“ обсъждат hypothesis-а, че истинската цел на Juliette може да е блокиране на safeguard-а. | Direct dialogue / shared hypothesis | VH | Intent reconstruction. |
+| E859 | Juliette safeguard objective не е представен като confirmed knowledge на „Гласът“, а като inference. | Supervisory-knowledge boundary | H-VH | Strengthens selective-disclosure model. |
+| E860 | Supervisory layer-ът има strong awareness, но critical Juliette intent все още се infer-ва, а не се знае omnisciently. | Model refinement | H | Bounded knowledge. |
+| E861 | Camille казва на Juliette, че Kyle и Kennedy не са стигнали Silo 17. | Direct Camille statement | VH | Later radio call creates conflict. |
+| E862 | Според Camille/Voice account-а neutralization-ът е настъпил преди arrival в Silo 17. | Derived account state | H-VH | Не е independently observed. |
+| E863 | Camille пита Juliette дали децата са били единствената причина за mission-а или е имало и друга. | Direct interrogation | VH | Explicit suspicion. |
+| E864 | Camille активно подозира secondary covert objective зад Silo 17 mission-а. | Information-state change | VH | Съвместимо със safeguard hypothesis. |
+| E865 | Daniel Keen се среща със сестра си; тя изглежда физически възстановена/здрава. | Direct episode event | VH | Physical state only. |
+| E866 | Сестрата запазва някои memories, но later evidence в същия episode показва, че recall-ът не е intact. | Direct character-state evidence | H-VH | Constrained/superseded by E874–E875. |
+| E867 | Сестрата разполага със sensitive information, което към този момент не може да сподели с Keen. | Direct dialogue | VH | Secrecy layer. |
+| E868 | Ограничението върху disclosure-а е formal/compartmentalized, а не просто липса на information. | Structural inference | H-VH | Strengthened by NDA evidence. |
+| E869 | Keen трябва първо да подпише NDA, преди да получи full sensitive briefing. | Direct episode process | VH | Formal secrecy gate. |
+| E870 | След NDA signing Keen и сестра му трябва да се качат на private aircraft, където ще получат full briefing. | Direct stated process | VH | Destination/briefing chain. |
+| E871 | Pre-Silo network използва institutionalized compartmentalized access преди disclosure. | Structural conclusion | H-VH | NDA/read-in architecture. |
+| E872 | Сестрата на Keen вече е подписала NDA преди тази сцена. | Direct dialogue / prior state | VH | Тя вече е bound. |
+| E873 | Keen е този, който още не е read-in и трябва да подпише собствен NDA. | Direct access-control state | VH | Asymmetric read-in. |
+| E874 | Сестрата има откъслечни/fragmented memories за случилото се. | Direct character-state evidence | VH | Corrects any intact-memory reading. |
+| E875 | Значителна част от това, което сестрата приема като история за периода, идва от онова, което други са ѝ казали. | Direct dialogue / memory-state evidence | H-VH | Supplied autobiographical narrative. |
+| E876 | По радиото се получава transmission, представен като идващ от Kyle и Kennedy след предполагаемото им neutralization. | Direct episode event | VH | Source authenticity unresolved. |
+| E877 | Radio transmission-ът влиза в пряк конфликт с Voice report-а `neutralized` и Camille statement-а, че не са стигнали Silo 17. | Evidence conflict | VH | Major unresolved contradiction. |
+| E878 | Radio transmission-ът materially weakens certainty, че Kyle и Kennedy са били успешно neutralized. | Model update | H-VH | Не доказва, че Voice е излъгал. |
+| E879 | Самият radio contact не establish-ва физическо присъствие в Silo 17. | Epistemic boundary | VH | Genuine voice/location остават separate questions. |
+| E880 | След radio contact-а групата в Silo 18 се отказва от плана да взриви Judicial. | Direct operational decision | VH | Immediate strategy change. |
+| E881 | Групата прекратява и immediate plan-а да търси safeguard/poison pipe-а с цел физическо блокиране. | Direct operational decision | VH | Countermeasure effort stopped. |
+| E882 | Radio transmission-ът causal-но променя поведението на Silo 18 и спира текущата safeguard-countermeasure operation. | Operational consequence | VH | Независимо от authenticity. |
+| E883 | Ако transmission-ът е false/manipulated, той би представлявал highly effective deception operation. | Conditional hypothesis | H | Не е established deception. |
+| E884 | Keen е доведен в Georgia, близо до Atlanta, до site, където се изграждат Silos. | Direct episode location/context | VH | Geographic anchor. |
+| E885 | Construction frame-ът показва множество huge circular excavation/build zones и поне една напреднала central cylindrical structure. | Direct visual evidence | VH | Multi-unit site. |
+| E886 | Site-ът е large-scale multi-Silo construction program с паралелни build zones, не small isolated prototype. | Structural inference | H-VH | Strong visual scale evidence. |
+| E887 | Pre-Silo линията достига direct construction phase на Silo system-а. | Timeline anchor | VH | Major origin-state transition. |
+| E888 | Silo project-ът изисква massive coordinated civil-engineering, logistics и industrial footprint. | Scale inference | H-VH | Derived from visible site. |
+| E889 | Показаният Georgia site е construction field на Silo program-а, а не само unrelated industrial site. | Direct contextual conclusion | VH | Derived от scene framing + visual. |
+| E890 | Known Silo field получава geographic anchor в района на Atlanta, Georgia; exact coordinates и per-Silo numbering остават unknown. | Geographic model update | H-VH | Не се overclaim-ва точен site. |
+
+## Визуални източници — S03E07
+
+Binary assets са качени отделно в `main` преди analysis PR-а и са валидирани byte-for-byte чрез Git blob SHA comparison:
+
+- [System console / null-feed loop](../assets/S03E07/screenshots/system-console-reboot-null-feed.jpeg)
+- [Exterior night](../assets/S03E07/screenshots/exterior-night.jpeg)
+- [Exterior night / stars](../assets/S03E07/screenshots/exterior-night-stars.jpeg)
+- [Pre-Silo Georgia construction site](../assets/S03E07/screenshots/pre-silo-georgia-construction-site.jpeg)
+- [S03E07 visual evidence manifest](../assets/S03E07/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset, не primary evidence.
+
 ## Визуални източници — S03E06
 
 Binary assets са качени отделно в `main` преди analysis PR-а и са валидирани byte-for-byte чрез Git blob SHA comparison:
