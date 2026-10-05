@@ -382,95 +382,95 @@ Pre-Silo линията за Iran също се стеснява: Keen опис�
 - Най-сигурната формулировка следователно е: четливо ръкописно основно съдържание + защитено кодирано финално съобщение.
 - Точната транскрипция, шифърът, предвиденият получател и дали Meadows го е декодирала остават неустановени.
 
-### S02E04 — doctrine за scapegoating на Mechanical
+### S02E04 — доктрина за натопяване на Mechanical
 
-- `THE ORDER` инструктира Mechanical да бъде обвиняван при rebellion/crisis.
-- Historical wall markings в Mechanical се интерпретират като знак за repeated blame срещу Mechanical независимо откъде реално е започвал unrest.
-- Това прави Mechanical predefined crisis narrative target, а не evidence-driven suspect.
-- Най-силното текущо обяснение *защо Mechanical* е контролът му върху generator/critical infrastructure, но това остава hypothesis, а не established fact.
+- `THE ORDER` инструктира Mechanical да бъде обвиняван при бунт/криза.
+- Историческите надписи по стените в Mechanical се интерпретират като знак за повтарящо се обвиняване на Mechanical независимо откъде реално е започвало недоволството.
+- Това прави Mechanical предварително определена мишена на кризисния разказ, а не заподозрян, избран на база evidence.
+- Най-силното текущо обяснение *защо Mechanical* е контролът му върху генератора/критичната инфраструктура, но това остава hypothesis, а не установен факт.
 
-### S02E04 — mines / penal labor
+### S02E04 — мините / наказателен труд
 
-- Mines извличат metal, използван в Silo.
-- Mining е опасна, неприятна и нежелана работа.
-- Penal assignment осигурява поне част от mining workforce.
-- Best-fit term: **penal labor system**, а не penal colony.
+- Мините добиват метал, използван в Silo.
+- Минният труд е опасна, неприятна и нежелана работа.
+- Наказателното назначение осигурява поне част от работната сила в мините.
+- Най-подходящият термин е **система за наказателен труд**, а не наказателна колония.
 
-### S02E04 — survivor от Silo 17 / vault continuity
+### S02E04 — оцелелият от Silo 17 / приемственост във vault-а
 
-- Survivor-ът от Silo 17 е бил дете, когато се случва rebellion.
-- Бил е поставен/заключен в IT vault още от детството през този crisis period.
-- Vault следователно не може да се моделира само като guard post; способен е да служи като protected continuity/survival refuge.
-- Защо Russell избира това дете остава unresolved.
+- Оцелелият от Silo 17 е бил дете, когато се случва бунтът.
+- Бил е поставен/заключен в IT vault още от детството през този кризисен период.
+- Vault-ът следователно не може да се моделира само като охранителен пост; способен е да служи като защитено убежище за приемственост/оцеляване.
+- Защо Russell избира това дете остава неустановено.
 
 ### S02E04 — Level 119
 
 - Level marker **119** е директно показан.
-- Добавя се само като spatial anchor; само от номера не се infer-ва special function.
+- Добавя се само като пространствен ориентир; само от номера не се извежда специална функция.
 
-### S02E04 — Meadows / Salvador Quinn / IT история от Rebellion-era
+### S02E04 — Meadows / Salvador Quinn / IT история от ерата на Rebellion
 
 - Bernard отравя Judge Meadows.
-- Преди да умре Meadows пита дали Bernard е унищожил hard drive, защото е съдържал материал, свързан със Salvador Quinn.
-- Drive-ът не се приравнява автоматично с HDD 18.
+- Преди да умре Meadows пита дали Bernard е унищожил hard drive-а, защото е съдържал материал, свързан със Salvador Quinn.
+- Дискът не се приравнява автоматично с HDD 18.
 - Salvador Quinn е описан като Head of IT преди приблизително 140 години, по време на Rebellion.
-- Quinn е оставил писмо, което е поне частично encoded.
-- Meadows спира да бъде shadow на Bernard преди около 25 години.
-- Около този transition тя изчезва за четири дни, преди да изостави shadow path.
+- Quinn е оставил писмо, което е поне частично кодирано.
+- Meadows спира да бъде `shadow` на Bernard преди около 25 години.
+- Около този преход тя изчезва за четири дни, преди да изостави `shadow` пътя.
 - Връзката между четиридневното изчезване, Quinn и забраненото историческо знание остава неустановена.
 
-### S02E04 — immersive headset / cleaner technology
+### S02E04 — immersive headset / технологията на cleaner-а
 
-- Bernard притежава immersive headset, показващ pre-Silo natural environment, идентифициран in-scene като Monteverde cloud forest, 2018.
-- Bernard обяснява, че работи подобно на visual system в cleaner helmets.
+- Bernard притежава immersive headset, показващ Pre-Silo природна среда, идентифицирана в сцената като облачната гора Monteverde, 2018.
+- Bernard обяснява, че работи подобно на визуалната система в шлемовете на cleaner-ите.
 - Той дава headset-а на Meadows преди смъртта ѝ.
 - Това силно засилва модела за по-широко семейство immersive технологии за съхранено/рендирано изображение зад зелената гледка за cleaner-а.
 
-### S02E04 — framing на Meadows / натиск от Sims
+### S02E04 — натопяването на Meadows / натискът от Sims
 
-- Bernard подготвя trap около представители на Mechanical, които идват да се срещнат с Meadows.
+- Bernard подготвя капан около представители на Mechanical, които идват да се срещнат с Meadows.
 - Целта му е Mechanical да бъде обвинен за смъртта на Meadows.
-- Framing-ът е designed да пренасочи public anger към Mechanical.
-- Представители на Mechanical са директно показани да пристигат на staged scene.
-- Bernard твърди, че impeachment protests срещу Meadows са го принудили да действа.
-- Bernard казва, че знае, че Sims стои зад този impeachment pressure.
-- Отделно Sims активно насочва public sentiment срещу Mechanical.
-- Следователно Bernard и Sims имат частично independent political/operational leverage, а не simple one-directional hierarchy.
+- Натопяването е замислено да пренасочи общественото недоволство към Mechanical.
+- Представители на Mechanical са директно показани да пристигат на инсценираната сцена.
+- Bernard твърди, че протестите за отстраняване на Meadows са го принудили да действа.
+- Bernard казва, че знае, че Sims стои зад този натиск за отстраняване.
+- Отделно Sims активно насочва обществените нагласи срещу Mechanical.
+- Следователно Bernard и Sims имат частично независимо политическо/оперативно влияние, а не проста еднопосочна йерархия.
 
-### S02E04 — movement по време на unrest
+### S02E04 — движение по време на размириците
 
-- Показано е large-scale population movement през vertical circulation system на Silo по време на escalating unrest.
+- Показано е мащабно движение на населението през вертикалната комуникационна система на Silo по време на нарастващи размирици.
 - Кадърът установява движение/мащаб; точната причина и дестинация идват от контекста на сцената.
 
-### S02E03 — Silo count / numbering / collapse на Silo 17
+### S02E03 — брой Silos / номерация / колапсът на Silo 17
 
-- Survivor-ът от Silo 17 заявява, че общо има **50 Silos**.
-- Той идентифицира collapsed Silo, в който влиза Juliette, като **Silo 17**.
-- Original Silo на Juliette вече е силно identified/inferred като **Silo 18**, макар точният бройing relation към key `18` и HDD 18 да остава само partially resolved.
-- Ron излиза навън за cleaning, отказва да clean-не, изписва/маркира `LIES` върху exterior sensor и след това излиза от view.
-- Три дни по-късно `LIES` се появява на internal cafeteria display.
-- Survivor-ът казва, че след тази sequence започва rebellion.
-- Той допълва, че population в крайна сметка излиза навън, защото не е видяло Ron да умира и е заключило, че exterior е безопасен.
+- Оцелелият от Silo 17 заявява, че общо има **50 Silos**.
+- Той идентифицира разрушения Silo, в който влиза Juliette, като **Silo 17**.
+- Първоначалният Silo на Juliette вече е силно идентифициран/изведен като **Silo 18**, макар точната връзка на номерацията с key `18` и HDD 18 да остава само частично разрешена.
+- Ron излиза навън за cleaning, отказва да почисти, изписва/маркира `LIES` върху външния сензор и след това излиза от полезрението.
+- Три дни по-късно `LIES` се появява на вътрешния екран в cafeteria.
+- Оцелелият казва, че след тази последователност започва бунт.
+- Той допълва, че населението в крайна сметка излиза навън, защото не е видяло Ron да умира и е заключило, че външната среда е безопасна.
 - Silo 17 следователно дава конкретно историческо потвърждение на сценария failed-cleaning → war в `THE ORDER`.
 
-### S02E03 — външна опасност vs cleaner timing
+### S02E03 — външна опасност спрямо времевия прозорец на cleaner-а
 
-- Survivor-ът казва, че exterior dust/poison временно се е разсеял.
-- Unprotected residents остават живи навън отвъд ordinary short cleaner-death window.
-- Hazard-ът по-късно се връща и ги убива.
+- Оцелелият казва, че външният прах/отрова временно се е разсеял.
+- Жители без защита остават живи навън отвъд обичайния кратък времеви прозорец за смърт на cleaner-а.
+- Опасността по-късно се връща и ги убива.
 - Това разделя **реалната подвижна/променяща се във времето външна опасност** от краткия предвидим модел на смъртност при стандартните cleaning костюми.
-- Exact hazard chemistry остава unresolved.
+- Точната химия на опасността остава неустановена.
 - Точният път на повредата при лентата също остава неустановен: загуба на дихателен газ, проникване на замърсител или и двете.
 
 ### S02E03 — Server Room / vault / Russell
 
-- Survivor-ът от Silo 17 изрично нарича secured IT compartment **vault**.
+- Оцелелият от Silo 17 изрично нарича защитеното IT помещение **vault**.
 - Той казва, че Russell го е поставил вътре и му е наредил никога да не допуска никого.
-- Physical key `18` на Bernard се използва за/access-ва **SERVER ROOM** в Silo 18.
-- Heavy secured vault се намира вътре в този Server Room.
-- Текущ restricted path: `key 18 → Server Room → vault`.
-- Това силно засилва standardized protected IT-vault architecture в Silos 17 и 18.
-- Exact vault contents и дали key numbering съответства на Silo numbering остават unresolved.
+- Физическият key `18` на Bernard се използва за достъп до **SERVER ROOM** в Silo 18.
+- Тежък защитен vault се намира вътре в този Server Room.
+- Текущият ограничен път е: `key 18 → Server Room → vault`.
+- Това силно засилва модела за стандартизирана защитена IT-vault архитектура в Silos 17 и 18.
+- Точното съдържание на vault-а и дали номерацията на key-а съответства на номерацията на Silo остават неустановени.
 
 ### S02E03 — cross-Silo knowledge на Bernard / age на Jane Carmody
 
