@@ -29,7 +29,7 @@
 | `pre-silo-georgia-wildlife-guide.jpeg` | Pre-Silo environment / wildlife | Страници от Georgia guide с wildlife и outdoor activity content. | `IMG_F611E72F-1481-4C58-95EF-7B303B8E68D1.jpeg` |
 | `pre-silo-georgia-coast-tybee-island.jpeg` | Pre-Silo geography / coast | Страница за Georgia coast / Tybee Island и U.S. imagery. | `IMG_C7E57FA9-78DB-4078-8DF3-06E93898D158.jpeg` |
 | `juliette-home-surveillance-feed.jpeg` | Surveillance / privacy | Дистанционен video feed, показващ Juliette в дома ѝ. | `IMG_8F98AC9F-CAAA-4D35-920D-812047589C3C.jpeg` |
-| `centralized-surveillance-control-center-wide.jpeg` | Surveillance / infrastructure | Wide overview на centralized multi-feed surveillance control center. | `IMG_37235F36-DFE1-4DC6-8FC5-4DBE85436F05.jpeg` |
+| `centralized-surveillance-control-center-wide.jpeg` | Surveillance / infrastructure | Wide overview на centralized multi-feed surveillance център за управление. | `IMG_37235F36-DFE1-4DC6-8FC5-4DBE85436F05.jpeg` |
 
 ## Auxiliary
 
