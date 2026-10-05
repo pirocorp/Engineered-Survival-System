@@ -587,32 +587,32 @@
 | E567 | Архитектурата на множество Silos включва активно налагана изолация на контактите/информацията, подкрепена от смъртоносната способност на safeguard-а. | Strong inference | H | Точната логика за откриване остава неустановена. |
 | E568 | S03E03 directly shows Level 124. | Direct visual evidence | VH | New пространствен ориентир. |
 | E569 | S03E03 directly shows Level 70. | Direct visual evidence | VH | New пространствен ориентир. |
-| E570 | Episode directly shows an underground mine/tunnel environment with hazardous-work visual context. | Direct visual evidence | H-VH | Mine sector is physically real/navigable. |
+| E570 | Епизодът директно показва подземна минна/тунелна среда с визуален контекст на опасен труд. | Direct visual evidence | H-VH | Минният сектор е физически реален/проходим. |
 | E571 | Контекстът на епизода свързва Level 70 с началото/достъпа на минния сектор. | Direct contextual/spatial information | H-VH | Точната топология на картата остава неустановена. |
 | E572 | Работен пространствен модел: mine access begins at/from Level 70. | Spatial inference | H | Strongly supported by E569–E571. |
 | E573 | S03E03 directly shows the вътрешността на мините / тунелната мрежа. | Direct visual evidence | VH | Confirms mine environment. |
 | E574 | Минната зона се състои от изкопани скални тунели с индустриално осветление/окабеляване и силно запрашена/аерозолна среда. | Direct visual evidence | H-VH | Функционалните детайли отвъд показаната среда остават отворени. |
-| E575 | Direct mine visuals strengthen the Level-70-to-mine-access model. | Cross-scene support | H | Does not independently prove full vertical extent. |
-| E576 | Lukas Kyle is alive and located in the mines. | Direct episode reveal | VH | Resolves prior missing-location uncertainty. |
+| E575 | Директните кадри от мините засилват модела за достъп до мините от Level 70. | Cross-scene support | H | Не доказва независимо пълния вертикален обхват. |
+| E576 | Lukas Kyle е жив и се намира в мините. | Direct episode reveal | VH | Разрешава предишната несигурност за местоположението му. |
 | E577 | Juliette and Lukas reunite in the минния сектор. | Direct episode event | VH | Direct continuity. |
 | E578 | По-ранната hypothesis, че Lukas е отишъл в мините, е потвърдена по отношение на местоположението; точната цел, включително евентуален cross-Silo замисъл, остава неустановена. | Hypothesis refinement | H-VH | Запазва разграничението между местоположение и мотив. |
-| E579 | Camille Sims sends/dispatches people after Lukas following concern about his activity/location. | Direct episode action + context | H-VH | Exact order wording may be indirect; pursuit itself is established. |
+| E579 | Camille Sims изпраща хора след Lukas след притеснение за неговата дейност/местоположение. | Direct episode action + context | H-VH | Точната формулировка на заповедта може да е непряка; самото преследване е установено. |
 | E580 | Lukas moves into/through the минния сектор under active pursuit rather than as an unconstrained exploration. | Direct sequence / causal inference | H-VH | Original reason for entering remains separable from later flight. |
-| E581 | Juliette meets Lukas in the mines after the pursuit sequence. | Direct continuity | VH | Confirms sequence relation. |
+| E581 | Juliette среща Lukas в мините след поредицата на преследването. | Direct continuity | VH | Потвърждава връзката в последователността. |
 | E582 | Daniel Keen finds a person who possesses a recording of Iran комуникациите на мисията. | Direct episode event | VH | Confirms E552 candidate. |
 | E583 | Keen лично прослушва записа. | Direct episode event | VH | Recording existence is established. |
 | E584 | Keen по-късно се връща, за да вземе записа, но притежателят го няма. | Direct episode event | VH | Изчезването е установено; причината е неизвестна. |
-| E585 | The location has been searched/disturbed between Keen's visits. | Direct visual/narrative evidence | H-VH | Indicates intervention by another actor. |
+| E585 | Мястото е било претърсено/разместено между посещенията на Keen. | Direct visual/narrative evidence | H-VH | Показва намеса от друг участник. |
 | E586 | Изглежда, че някой друг е реагирал на записа, неговия притежател или и двете. | Strong inference | H | Участникът и целта остават неустановени. |
-| E587 | Candidate: holder may have been removed/intimidated/silenced and recording seized because its content was sensitive. | Hypothesis | M-H | Multiple alternatives remain viable. |
+| E587 | Кандидат: притежателят може да е бил отстранен/сплашен/заглушен, а записът иззет заради чувствителното му съдържание. | Hypothesis | M-H | Остават жизнеспособни множество алтернативи. |
 | E588 | След събитията в минния сектор Juliette отново е в болница / под медицински грижи. | Direct episode state | H-VH | Точната верига на нараняванията не е напълно реконструирана тук. |
 | E589 | Computer/system-ът tells Camille Sims that she was selected because of her ability to lie. | Direct system dialogue | VH | Explicit selection criterion. |
-| E590 | Camille is selected as a human operational asset specifically because deception is a useful competency. | Strong inference | H-VH | Not merely incidental character trait. |
+| E590 | Camille е избрана като човешки оперативен изпълнител конкретно защото измамата е полезна компетентност. | Strong inference | H-VH | Не е просто случайна черта на персонажа. |
 | E591 | Computer/system-ът directs/persuades Camille that Juliette must be killed in order to save the Silo. | Direct dialogue / persuasion context | VH | Lethal objective is explicit. |
 | E592 | Надзорната система има човешки изпълнителен слой: може да избира изпълнител по поведенческа черта и да насочва този човек към принудително/смъртоносно действие. | Structural conclusion | H-VH | Точната формална командна власт остава неустановена. |
-| E593 | In Juliette's case, S03E02 `removal` can escalate to literal killing, not merely removal from office/isolation. | Cross-episode resolution | H-VH | Does not make every future use of `removal` synonymous with death. |
+| E593 | В случая на Juliette `removal` („премахване“) от S03E02 може да ескалира до буквално убийство, а не само отстраняване от длъжност/изолация. | Cross-episode resolution | H-VH | Не прави всяка бъдеща употреба на `removal` синоним на смърт. |
 | E594 | Computer/system-ът states that deception is fundamental to the Head of IT role. | Direct system dialogue / role description | VH | Institutional-role clue. |
-| E595 | Deception is therefore structural to Head-of-IT role design, not only a personal tactic of Bernard. | Strong institutional inference | H-VH | Exact training/selection process remains open. |
+| E595 | Следователно измамата е структурна за дизайна на ролята Head of IT, а не само лична тактика на Bernard. | Strong institutional inference | H-VH | Точният процес на обучение/подбор остава отворен. |
 | E596 | Кандидат: наследяването/подборът за Head of IT включва умишлена подготовка за измама като управленска компетентност, а не само техническа компетентност. | Hypothesis | H | Директен процес на обучение все още не е показан. |
 | E597 | Computer/system-ът successfully persuades Camille that Juliette must be killed to save the Silo. | Direct dialogue / persuasion outcome | H-VH | Shows persuasion, not only instruction. |
 | E598 | Camille приема смъртоносната цел against Juliette and is no longer only a пасивен получател на насоки от системата. | Direct behavioral/dialogue conclusion | H-VH | Whether she will execute it remains unresolved. |
@@ -631,11 +631,11 @@
 | E610 | Nurse-ът казва, че още преди Juliette да започне сама да изплюва pills, тя вече е подменяла memory-suppression лекарство-а. | Direct dialogue | VH | Major timing correction. |
 | E611 | Nurse-ът казва, че е започнала substitution-а, защото неизвестен човек ѝ е казал/наредил да го направи. | Direct testimony | VH | Upstream actor unknown. |
 | E612 | Според медицинската сестра ранната подмяна на хапчетата е помогнала на Juliette да започне да си спомня. | Direct causal testimony | H-VH | Подкрепя причинна роля; точната фармакология остава неустановена. |
-| E613 | Някой извън ordinary treatment chain е проникнал в medical-control process-а и covertly е sabotaged memory-suppression protocol-а. | Strong inference | H-VH | Derived from E610–E612. |
+| E613 | Някой извън обичайната верига на лечение е проникнал в медицинския контролен процес и тайно е саботирал протокола за потискане на паметта. | Strong inference | H-VH | Изведено от E610–E612. |
 | E614 | Медицинската сестра е част от по-широка скрита верига за намеса с неизвестен участник нагоре по веригата. | Strong inference | H | Топологията на мрежата остава неустановена. |
 | E615 | Медицинската сестра инструктира Juliette да отиде до помпената станция на Level 76. | Direct dialogue / destination instruction | VH | Нов оперативен възел. |
 | E616 | Level 76 е директно потвърден пространствен ориентир и съдържа/е свързан с помпена станция. | Direct spatial evidence | VH | Нов ориентир по ниво. |
-| E617 | Помпената станция на Level 76 е next operational node по скрития маршрут за подкрепа-а. | Strong inference | H-VH | Purpose beyond handoff unresolved. |
+| E617 | Помпената станция на Level 76 е следващият оперативен възел по скрития маршрут за подкрепа. | Strong inference | H-VH | Целта отвъд предаването остава неустановена. |
 | E618 | Keen и journalist-ът се укриват/срещат в дома на бившия partner на journalist-а. | Direct episode location | VH | Rendezvous location. |
 | E619 | 22:00 address-ът е residence, свързан с ex-partner на journalist-а. | Direct contextual clarification | H-VH | Confirms alternate-location choice. |
 | E620 | Избран е location извън normal residences/routines, consistent с evasion/counter-surveillance. | Strong inference | H | Does not prove active tail at that moment. |
@@ -665,29 +665,29 @@
 | E644 | Мъжът предлага на journalist-а job в The Times. | Direct offer | VH | Tailored career inducement. |
 | E645 | На Keen предлага continuation of his sister's treatment. | Direct offer | VH | Personalized medical leverage/benefit. |
 | E646 | Offers са individually tailored към career ambition и sister treatment. | Strong inference | H-VH | Demonstrated personalization. |
-| E647 | Suppression strategy demonstrably uses inducement/personal leverage, not only violence. | Structural inference | H-VH | Does not exclude coercive methods. |
+| E647 | Стратегията за потискане видимо използва стимули/личен натиск, а не само насилие. | Structural inference | H-VH | Не изключва принудителни методи. |
 | E648 | Journalist-ът приема career offer-а. | Direct episode outcome | VH | Co-optation succeeds in this case. |
-| E649 | Potential investigator can be neutralized/co-opted through career reward. | Structural inference | H-VH | Demonstrated by E644 + E648. |
+| E649 | Потенциален разследващ може да бъде неутрализиран/привлечен чрез кариерна награда. | Structural inference | H-VH | Демонстрирано от E644 + E648. |
 | E650 | Juliette и приятелят от Mechanical намират скрита врата към алтернативен маршрут към дълбоката зона. | Direct episode discovery | VH | Значима пространствена актуализация. |
 | E651 | Достъпът до дълбоката зона не е напълно блокиран; съществува скрит алтернативен маршрут. | Direct spatial conclusion | VH | Прецизира E631. |
 | E652 | Запечатаният обичаен достъп може да бъде заобиколен чрез скрит инфраструктурен маршрут. | Strong inference | H-VH | Долната топология е по-сложна от публичния/познатия маршрут. |
 | E653 | Зад скритата врата има непокътнат тунел, водещ до точка за спускане с въже над пропаст/дълбока яма. | Direct visual evidence | VH | Визуално evidence + последователност на епизода. |
-| E654 | Abyss is reachable via controlled vertical descent using rope. | Direct structural conclusion | VH | Functional route. |
+| E654 | Пропастта е достижима чрез контролирано вертикално спускане с въже. | Direct structural conclusion | VH | Функционален маршрут. |
 | E655 | Скритият маршрут свързва вътрешността на Silo с дълбоката изкопна/digger зона под Silo. | Strong inference | H-VH | Точната връзка със скритата долна система остава неустановена. |
-| E656 | Fixed rope/descent setup is visibly installed at access point. | Direct visual evidence | VH | Dedicated hardware. |
+| E656 | Фиксирана система с въже за спускане е видимо инсталирана в точката за достъп. | Direct visual evidence | VH | Специализирано оборудване. |
 | E657 | Скритият достъп не е еднократно импровизиран; специално оборудване за спускане suggests умишлено/повтарящо се използване. | Strong structural inference | H | Age/users unknown. |
-| E658 | About one week later Pentagon contact reconnects with Keen. | Direct episode event | VH | Follow-up after initial dead end. |
+| E658 | Около една седмица по-късно контактът в Пентагона отново се свързва с Keen. | Direct episode event | VH | Последващ контакт след първоначалната задънена улица. |
 | E659 | Pentagon contact says he found something extraordinary / „не за вярване“. | Direct character statement | VH | Exact discovery withheld. |
-| E660 | Initial Pentagon dead-end is overturned; contact continued checking and found material information. | Strong inference | H-VH | Content unresolved. |
+| E660 | Първоначалната задънена улица в Пентагона е преодоляна; контактът е продължил проверката и е намерил съществена информация. | Strong inference | H-VH | Съдържанието остава неустановено. |
 | E661 | Juliette успешно използва скрития маршрут и се спуска до digger-а/дълбоката изкопна зона. | Direct episode event | VH | Маршрутът е функционален. |
 | E662 | Скритият маршрут е напълно функционален път за достъп, а не теоретичен обход. | Direct structural conclusion | VH | Преминаването е демонстрирано. |
 | E663 | Juliette е вътре в дълбоката изкопна зона с възможен последващ достъп към още по-ниска инфраструктура. | Strong inference | H | По-нататъшно спускане все още не е установено. |
-| E664 | Juliette finds Bernard alive in deep excavation/digger area. | Direct episode reveal | VH | MAJOR CORRECTION. |
+| E664 | Juliette намира Bernard жив в дълбоката изкопна/digger зона. | Direct episode reveal | VH | ГОЛЯМА КОРЕКЦИЯ. |
 | E665 | Предишният разказ на Sims/Bernard за смъртта/изгарянето е невярен или съществено непълен, защото Bernard е жив. | Cross-episode falsification | VH | Точният механизъм на инсценировката остава неустановен. |
 | E666 | Bernard's предполагаемата смърт was part of a невярна/инсценирана/подвеждащо представена история inside Silo 18. | Strong structural conclusion | H-VH | Organizer/participants unknown. |
 | E667 | Присъствието на Bernard създава пряка връзка между бившия Head of IT и скритата зона за долен достъп. | Structural inference | H | Защо/как е там остава неустановено. |
 | E668 | Визуалното evidence потвърждава, че Bernard е жив в дълбоката зона след по-рано съобщената смърт/изгаряне. | Direct visual corroboration + episode context | VH | Подкрепя E664–E666. |
-| E669 | Bernard appears physically injured/debilitated. | Direct visual observation + bounded inference | H | No diagnosis or cause inferred. |
+| E669 | Bernard изглежда физически ранен/силно отслабен. | Direct visual observation + bounded inference | H | Не се извежда диагноза или причина. |
 
 ## Визуални източници — S03E04
 
