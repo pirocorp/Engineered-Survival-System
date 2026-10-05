@@ -1148,13 +1148,13 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 815. Кой е defined objective/function, която system-ът оптимизира?
 816. Objective-ът local Silo survival ли е, multi-Silo program ли е, social stability ли е, or another long-term goal?
 817. Може ли objective/thresholds да бъдат modified от humans?
-818. Какво exact `removal` означава — office removal, isolation, memory reset, killing or another action?
-819. Кой би изпълнил removal order-а?
+818. **PARTIALLY RESOLVED in S03E03:** в Juliette case `removal` може да ескалира до literal killing; дали term-ът винаги означава death остава unresolved.
+819. **PARTIALLY RESOLVED in S03E03:** Camille Sims е selected/persuaded като human operative за Juliette kill objective; broader execution chain остава unresolved.
 820. Как system-ът estimates `catastrophic destabilization` и какви outcomes включва това?
 
 ## S03E02 — population-scale `vitamins` / water supply
 
-821. Какъв exact agent се планира за water supply?
+821. **PARTIALLY RESOLVED in S03E03:** planned agent е обозначен като `Vitamin D+` и е contextual-но memory-suppression/forgetting chemistry; exact formulation/molecule остава unknown.
 822. Какъв dose и duration се планират?
 823. Whole Silo population ли е target-ът или selected zones/groups?
 824. Leadership/IT/Judicial имат ли exemption/protection?
@@ -1180,6 +1180,66 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 838. Sister-а на Daniel Keen е под treatment само за trauma/recovery ли, или има broader security/political purpose?
 839. Има ли direct organizational bridge между pre-Silo medical program и later Silo memory-control systems?
 840. Iran-operation anomaly causal-но свързан ли е с subsequent memory treatment or only precedes it narratively?
+
+## S03E03 — Iran mission recording
+
+841. Защо mission planners са заменили communications на всички aircraft с толкова стари systems?
+842. Decision-ът response ли е на known electronic threat, operational-security concern, availability constraint или друга причина?
+843. Кой е authorized retrofit-а?
+844. Кой е original recorder / recording infrastructure?
+845. Какво exact съдържа recording-ът от Iran mission?
+846. Recording-ът capture-ва ли anomaly-то в real time?
+847. Има ли повече от едно копие?
+848. Кой е holder-ът, когото Daniel Keen посещава?
+849. Кой е претърсил мястото след първото посещение?
+850. Holder-ът killed, detained, intimidated, relocated или self-hidden ли е?
+851. Recording-ът seized, copied, destroyed или все още съществува ли?
+852. Keen е бил observed/tracked ли по време на първото посещение?
+
+## S03E03 — cross-Silo safeguard isolation
+
+853. Как system-ът дефинира `contact` с друг Silo — physical proximity, radio/data exchange, human meeting, visual signal или any information transfer?
+854. Как contact violation се detect-ва?
+855. Safeguard activation fully automatic ли е след contact detection, or requires adjudication?
+856. Why is cross-Silo contact treated as whole-population termination-level violation?
+857. Allowed ли е някакъв authorized inter-Silo contact at privileged level?
+858. Heads of IT могат ли да communicate cross-Silo without triggering safeguard?
+859. Silo 17 historical exit/contact events trigger-нали ли са safeguard по same rule?
+860. 50/51 Silo architecture intentionally ли е designed as isolated cells to prevent information propagation?
+861. Cross-Silo rule encoded ли е в The Order, higher supervisory logic or both?
+
+## S03E03 — Vitamin D+ / population memory control
+
+862. `Vitamin D+` same exact formulation ли е as Juliette pills, Quinn-era water drug и pre-Silo treatment?
+863. Какъв population dose се планира?
+864. Каква memory domain цели mass dosing-ът — Juliette, recent crisis, cross-Silo knowledge, rebellion memory or broader autobiographical access?
+865. За колко време трябва да действа?
+866. System-ът очаква ли behavioral pacification, selective forgetting or both?
+867. Как system-ът quantifies claimed survival benefit from memory suppression?
+868. Water deployment actually започва ли след S03E03 или остава plan?
+
+## S03E03 — mines / Lukas
+
+869. Exact spatial extent на mine sector-а под/от Level 70 какъв е?
+870. Има ли physical routes from mines към another Silo?
+871. Lukas originally влязъл ли е в mines, за да търси cross-Silo route, или е driven there primarily by pursuit?
+872. Как Lukas е оцелял/скрил се в mine sector-а?
+873. Кои groups/personnel работят постоянно в mines?
+874. Level 124 каква exact function има?
+875. Mine tunnels overlap-ват ли hidden lower infrastructure/tunnel system?
+
+## S03E03 — Camille / deception / lethal tasking
+
+876. Как computer/system-ът е selected Camille и какви други candidates е evaluated?
+877. Какво exactly означава „избрана“ — formal succession, operative role, temporary interface or another status?
+878. Camille Head of IT candidate ли е, de facto replacement ли е, or separate human intermediary?
+879. Ще изпълни ли Camille Juliette kill objective-а?
+880. Какъв method/system expects for the killing?
+881. Does computer/system have authority to task enforcement directly, or must it persuade human intermediaries?
+882. Deception formally tested/trained ли е при Head-of-IT succession?
+883. The Order explicitly ли instruct-ва Heads of IT to deceive, or is this higher-layer doctrine?
+884. Bernard selected ли е historically по same deception criterion?
+885. Sims family relationship to computer/system formal ли е, inherited ли е, or crisis-specific?
 
 ## Основен въпрос на проекта
 
