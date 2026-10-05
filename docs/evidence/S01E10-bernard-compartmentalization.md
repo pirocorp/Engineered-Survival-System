@@ -8,7 +8,7 @@
 - Bernard спира broadcast-а.
 - Bernard нарежда на control-room personnel да не гледа/запазва classified imagery.
 - Sims е включен в command context.
-- Bernard лично отвежда Juliette в surveillance/control environment.
+- Bernard лично отвежда Juliette в средата за наблюдение/контрол.
 - Bernard селективно показва archived incident footage.
 - Juliette казва “never had a chance”; Bernard се съгласява.
 - Bernard вече разбира helmet deception и разпознава момента, в който Juliette го разбира.
