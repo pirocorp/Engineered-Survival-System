@@ -57,7 +57,7 @@ Bernard + Juliette enter
 burner / flame cycle
 ```
 
-Това е deliberate correction на earlier live-note ambiguity. Flame system-ът **не** се идентифицира със safeguard-а.
+Това е умишлена корекция на по-ранната live-note неяснота. Системата с пламъка **не** се идентифицира със safeguard-а.
 
 Visuals:
 - [Bernard at airlock](../../assets/S02E10/screenshots/bernard-airlock-protective-suit.jpeg)
