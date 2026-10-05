@@ -39,7 +39,7 @@ Pre-Silo линията също се стеснява: Keen и спътникъ
 
 - Camille operationally пуска Vitamin D+ във водоснабдяването.
 - Population-scale memory-suppression protocol-ът следователно вече е показан като изпълняван, не само планиран.
-- Exact dose, exposure duration, target memories и whether-all-residents scope остават unresolved.
+- Точната доза, продължителността на излагането, целевите спомени и дали обхватът е целият Silo остават unresolved.
 
 ### S03E06 — pre-Silo external control / Iran attribution
 
@@ -144,36 +144,36 @@ Pre-Silo линията също се стеснява: Keen и спътникъ
 
 ### S03E03 — supervisory system / deception / lethal tasking
 
-- Computer/system-ът казва на Camille Sims, че е selected заради ability to lie.
-- System-ът заявява, че deception е fundamental to Head of IT role.
-- System-ът убеждава Camille, че Juliette трябва да бъде killed, за да бъде saved Silo.
-- S03E02 ambiguous `removal` в Juliette case е narrowed: може да е literal killing.
-- Camille приема lethal objective-а; execution itself remains unresolved.
+- Computer/system-ът казва на Camille Sims, че е избрана заради способността си да лъже.
+- System-ът заявява, че измамата е фундаментална част от ролята Head of IT.
+- System-ът убеждава Camille, че Juliette трябва да бъде убита, за да бъде спасен Silo.
+- Нееднозначното S03E02 `removal` спрямо Juliette е стеснено: може да означава буквално убийство.
+- Camille приема смъртоносната цел; самото изпълнение остава unresolved.
 
 ### S03E03 — Vitamin D+ / safeguard / isolation
 
 - `Vitamin D+` е contextual-но memory-suppression / forgetting chemistry.
-- Water deployment е framed като increasing survival chance.
-- Juliette is caught spitting out pills; compliance monitoring is active.
-- Any contact with another Silo is stated to be a violation leading to immediate safeguard.
-- Cross-Silo isolation therefore has fail-deadly enforcement.
+- Подаването чрез водата е представено като действие, което увеличава шанса Silo да оцелее.
+- Juliette е заловена да изплюва хапчетата; active compliance monitoring е налице.
+- Всеки контакт с друг Silo е заявен като нарушение, което води до незабавно задействане на safeguard.
+- Следователно cross-Silo isolation има fail-deadly enforcement механизъм.
 
 ### S03E03 — mines / Lukas / spatial anchors
 
-- Level 70 е direct-confirmed and tied to mine-sector access/start.
+- Level 70 е direct-confirmed и е свързан с достъпа/началото на mine sector-а.
 - Level 124 е direct-confirmed.
-- Mine interior/tunnel network е directly shown.
-- Lukas Kyle is alive in the mines.
-- Juliette and Lukas reunite there.
-- Lukas is actively pursued under Camille's control; exact original mine purpose remains unresolved.
+- Интериорът и tunnel network-ът на мините са директно показани.
+- Lukas Kyle е жив в мините.
+- Juliette и Lukas се срещат отново там.
+- Lukas е активно преследван под контрола на Camille; първоначалната exact функция на мините остава unresolved.
 
 ### S03E03 — Iran mission recording
 
-- Mission aircraft had very old communication systems installed mission-wide.
-- Communications were comparatively easy to record/capture.
-- Daniel Keen finds and listens to a surviving mission recording.
-- On return, the holder is gone and the location has been searched.
-- Actor, fate of holder and fate/content of recording remain unresolved.
+- На всички aircraft в мисията са били инсталирани много стари комуникационни системи.
+- Комуникациите са били сравнително лесни за записване/прихващане.
+- Daniel Keen намира и прослушва оцелял запис от мисията.
+- При завръщането му притежателят на записа е изчезнал, а мястото е претърсено.
+- Actor-ът, съдбата на притежателя и съдбата/съдържанието на записа остават unresolved.
 
 ### S03E02 — pre-Silo memory mechanism
 
@@ -182,7 +182,7 @@ Pre-Silo линията също се стеснява: Keen и спътникъ
 - False autobiographical story може да бъде внушена.
 - False replacement narrative изисква time/effort.
 - Real memories се връщат бързо и остават налични, но temporarily inaccessible.
-- Best-fit mechanism е retrieval/access suppression + narrative conditioning, не proven destruction.
+- Най-добрият текущ mechanism е потискане на retrieval/access + narrative conditioning, а не доказано унищожаване на спомените.
 
 ### S03E02 — supervisory computer/system
 
@@ -191,15 +191,15 @@ Pre-Silo линията също се стеснява: Keen и спътникъ
 - Juliette е modeled чрез red risk line и blue stabilizing-value line.
 - Crossing threshold означава, че Juliette вече не е useful.
 - Sudden removal е modeled като potentially catastrophically destabilizing.
-- System-ът wants `vitamins` deployed through water supply before removal becomes necessary.
-- This is population-scale contingency planning, not merely individual treatment monitoring.
+- System-ът иска `vitamins` да бъдат пуснати във водоснабдяването, преди removal да стане необходимо.
+- Това е contingency planning на population scale, а не просто monitoring на индивидуално лечение.
 
 ### S03E02 — covert notes
 
 - Note #2 насочва Juliette към first Silo Council meeting в cafeteria.
 - Note #3 е direct-confirmed, но exact transcription остава unresolved.
-- Adjacent-shot subtitles are excluded from note #3 transcription.
-- Physical covert channel persists, but is not proven invisible to supervisory system.
+- Субтитрите от съседни кадри са изключени от transcription-а на note #3.
+- Physical covert channel продължава да съществува, но не е доказано невидим за supervisory system-а.
 
 ### S03E01 — Juliette / post-return state
 
@@ -225,7 +225,7 @@ Pre-Silo линията също се стеснява: Keen и спътникъ
 - System-ът заявява, че current situation е `beyond The Order`.
 - System-ът реагира с `This concerns me`, когато Juliette започва да си спомня, и иска дозата да бъде удвоена.
 - Hidden lower tunnel е sealed; Lukas е missing.
-- Same-system/network model между този computer/system и S02E09 hidden lower contact е strongly strengthened candidate, не established identity.
+- Моделът за same-system/network връзка между този computer/system и S02E09 hidden lower contact е силно подсилен candidate, но не established identity.
 
 ### S03E01 — social/spatial state
 
