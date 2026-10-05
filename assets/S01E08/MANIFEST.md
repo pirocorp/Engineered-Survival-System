@@ -18,7 +18,7 @@ Selected screenshots са обработени първо с **perspective corre
 | Файл | Evidence / context |
 |---|---|
 | `juliette-mother-rabbit-heart-research.jpeg` | Flashback/context: майката на Juliette използва заека като част от опит да разбере сърдечен проблем, аналогичен на този на Jacob. |
-| `juliette-mother-illicit-microscope-device.jpeg` | Direct visual evidence за homemade magnification/microscope apparatus. |
+| `juliette-mother-illicit-microscope-device.jpeg` | Пряко визуално доказателство за homemade magnification/microscope apparatus. |
 | `juliette-mother-restricted-access-magnification-record.jpeg` | Институционален запис с ограничен достъп за майката на Juliette и дейност около увеличително устройство. |
 | `juliette-mirror-surveillance-realization.jpeg` | Сцена, подкрепяща осъзнаването на Juliette, че mirror surveillance може да обясни как authorities са научили за microscope-а на майка ѝ. |
 | `pete-nichols-priority-message-to-martha-walker.jpeg` | Priority digital message от Medical / Dr Pete Nichols до Martha Walker: “RUNAWAY HEADING TO YOU, URGENT. ETA 6PM.” |
