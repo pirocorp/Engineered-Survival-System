@@ -4,83 +4,83 @@
 
 ## Работен модел
 
-S03E04 показва, че control architecture не е monolithic. Medical nurse-ът covertly е подменяла Juliette's потискане на паметта pills още преди Juliette сама да започне да ги изплюва, след instruction от unknown upstream actor. Същата nurse помага за hospital escape-а, а Mechanical ally продължава route-а през Level 76 и към concealed deep-zone access.
+S03E04 показва, че архитектурата за контрол не е монолитна. Медицинска сестра тайно е подменяла хапчетата на Juliette за потискане на паметта още преди Juliette сама да започне да ги изплюва, след указание от неизвестен участник нагоре по веригата. Същата медицинска сестра помага за бягството от болницата, а съюзник от Mechanical продължава маршрута през Level 76 към скрит достъп до дълбоката зона.
 
-Deep-zone topology materially се разширява: ordinary access към abyss/digger area е sealed, но зад hidden door има intact tunnel и dedicated rope-descent setup. Juliette използва route-а успешно и стига до deep excavation zone.
+Топологията на дълбоката зона се разширява съществено: обичайният достъп към пропастта/зоната на копаене е запечатан, но зад скрита врата има непокътнат тунел и специално изградена система с въже за спускане. Juliette използва маршрута успешно и стига до дълбоката изкопна зона.
 
-Най-големият correction е Bernard: Juliette го намира **жив** в deep zone. Следователно S03E01/Sims death-burning account е false, staged, misrepresented или materially incomplete. Historical accepted state се пази като history, но current model вече третира Bernard като alive; exact staging mechanism and motive остават неустановени.
+Най-голямата корекция е Bernard: Juliette го намира **жив** в дълбоката зона. Следователно разказът на Sims от S03E01 за смъртта/изгарянето на Bernard е невярен, инсцениран, представен подвеждащо или съществено непълен. Приетото тогава състояние се пази като историческо, но текущият модел вече третира Bernard като жив; точният механизъм на инсценировката и мотивът остават неустановени.
 
-Pre-Silo Iran line също се стеснява: Keen описва recording-а като aircraft, които вече не се управляват от pilots, „все едно някой ги е хакнал“. Това е takeover-like characterization, не доказан cyber mechanism. Unidentified recurring man demonstrably използва tailored inducements/co-optation, а Pentagon contact една седмица по-късно съобщава, че е намерил extraordinary information.
+Pre-Silo линията за Iran също се стеснява: Keen описва записа като самолети, които вече не се управляват от пилоти, „все едно някой ги е хакнал“. Това е описание, наподобяващо поемане на контрол, а не доказан кибер механизъм. Повтарящият се неидентифициран мъж видимо използва персонализирани стимули/привличане, а контактът в Пентагона една седмица по-късно съобщава, че е открил извънредна информация.
 
-> **След S03E04 най-силният model е: supervisory control layer има powerful coercive tools, но human institutions around it are penetrable and internally contested. Juliette е подпомагана от covert multi-person chain; deep-zone access има concealed functional route; Bernard's death narrative е falsified; а pre-Silo suppression използва personalized co-optation alongside possible intimidation. Exact coordinators, system objective и deep-zone architecture остават неустановени.**
+> **След S03E04 най-силният модел е: надзорният слой за контрол разполага с мощни принудителни инструменти, но човешките институции около него могат да бъдат прониквани и са вътрешно оспорвани. Juliette е подпомагана от скрита верига от няколко души; до дълбоката зона има скрит функционален маршрут; разказът за смъртта на Bernard е опроверган; а Pre-Silo потискането използва персонализирано привличане наред с възможно сплашване. Точните координатори, целта на системата и архитектурата на дълбоката зона остават неустановени.**
 ---
 
 ## Наблюдения с висок confidence
 
-### S03E04 — Juliette memory recovery / covert support
+### S03E04 — възстановяване на паметта на Juliette / скрита подкрепа
 
-- Nurse-ът direct-confirm-ва covert substitution на потискане на паметта pills още преди Juliette's own pill-spitting.
-- Unknown upstream actor е казал на nurse-а да започне substitution-а.
-- Nurse-ът свързва substitution-а с началото на memory recovery.
-- Nurse-ът помага на Juliette да escape-не от hospital-а.
-- Sims-side започва active pursuit.
-- Mechanical ally помага на Juliette да escape-не от Level 76 encounter-а.
+- Медицинската сестра директно потвърждава тайна подмяна на хапчетата за потискане на паметта още преди Juliette сама да започне да ги изплюва.
+- Неизвестен участник нагоре по веригата е казал на медицинската сестра да започне подмяната.
+- Медицинската сестра свързва подмяната с началото на възстановяването на паметта.
+- Медицинската сестра помага на Juliette да избяга от болницата.
+- Страната на Sims започва активно преследване.
+- Съюзник от Mechanical помага на Juliette да се измъкне от срещата на Level 76.
 
-### S03E04 — Level 76 / concealed deep access
+### S03E04 — Level 76 / скрит достъп до дълбоката зона
 
-- Level 76 е direct-confirmed и е свързан с pump station.
-- Обичайният достъп към abyss/deep digging area е sealed.
-- Hidden door разкрива alternate tunnel route.
-- Fixed rope/descent setup дава functional vertical access към deep excavation zone.
-- Juliette успешно стига до digger/deep-zone area.
+- Level 76 е директно потвърден и е свързан с помпена станция.
+- Обичайният достъп към пропастта/дълбоката зона за копаене е запечатан.
+- Скрита врата разкрива алтернативен тунелен маршрут.
+- Фиксирана система с въже за спускане осигурява функционален вертикален достъп към дълбоката изкопна зона.
+- Juliette успешно стига до digger-а/дълбоката зона.
 
-### S03E04 — Bernard correction
+### S03E04 — корекцията за Bernard
 
-- Juliette намира Bernard жив в deep zone.
-- Предишният Bernard death/burning account е falsified като current truth.
-- S03E01 state се пази като historical accepted model, но е superseded.
-- Bernard изглежда injured/debilitated; exact cause и reason for concealment остават неустановени.
+- Juliette намира Bernard жив в дълбоката зона.
+- Предишният разказ за смъртта/изгарянето на Bernard е опроверган като текуща истина.
+- Състоянието от S03E01 се пази като исторически приет модел, но е заменено.
+- Bernard изглежда ранен/силно отслабен; точната причина и причината да бъде скрит остават неустановени.
 
-### S03E04 — pre-Silo investigation / pressure
+### S03E04 — Pre-Silo разследване / натиск
 
-- Keen описва recording-а като aircraft no longer controlled by pilots; „hacked“ remains his analogy, не е доказано mechanism.
-- Recurring unidentified man твърди, че други са били bribed, и демонстрира tailored inducements.
-- Journalist-ът получава job offer от The Times и го приема.
+- Keen описва записа като самолети, които вече не се управляват от пилоти; „hacked“ („хакнати“) остава негова аналогия, а не доказан механизъм.
+- Повтарящият се неидентифициран мъж твърди, че други са били подкупени, и демонстрира персонализирани стимули.
+- Журналистката получава предложение за работа от The Times и го приема.
 - На Keen е предложено продължаване на лечението на сестра му.
-- Pentagon contact-ът се свързва отново след ~една седмица и съобщава за extraordinary discovery; exact content остава unresolved.
+- Контактът в Пентагона се свързва отново след ~една седмица и съобщава за извънредно откритие; точното съдържание остава неустановено.
 
-### S03E03 — supervisory system / deception / lethal tasking
+### S03E03 — надзорна система / измама / смъртоносна задача
 
-- Computer/system-ът казва на Camille Sims, че е selected заради ability to lie.
-- System-ът заявява, че deception е fundamental to Head of IT role.
-- System-ът убеждава Camille, че Juliette трябва да бъде killed, за да бъде saved Silo.
-- S03E02 ambiguous `removal` в Juliette case е narrowed: може да е literal killing.
-- Camille приема lethal objective-а; execution itself остава неустановено.
+- Компютърът/системата казва на Camille Sims, че е избрана заради способността си да лъже.
+- Системата заявява, че измамата е основополагаща за ролята Head of IT.
+- Системата убеждава Camille, че Juliette трябва да бъде убита, за да бъде спасен Silo.
+- Неясното `removal` („премахване“) от S03E02 в случая на Juliette е стеснено: може да означава буквално убийство.
+- Camille приема смъртоносната цел; самото изпълнение остава неустановено.
 
-### S03E03 — Vitamin D+ / safeguard / isolation
+### S03E03 — Vitamin D+ / safeguard / изолация
 
-- `Vitamin D+` е contextual-но потискане на паметта / forgetting chemistry.
-- Water deployment е framed като increasing survival chance.
-- Juliette is caught spitting out pills; compliance monitoring is active.
-- Any contact with another Silo is stated to be a violation leading to immediate safeguard.
-- Cross-Silo isolation therefore has fail-deadly enforcement.
+- `Vitamin D+` контекстуално е химия за потискане на паметта/предизвикване на забравяне.
+- Прилагането чрез водата е представено като увеличаване на шанса за оцеляване.
+- Juliette е хваната да изплюва хапчетата; контролът върху спазването на режима е активен.
+- Всеки контакт с друг Silo е заявен като нарушение, водещо до незабавно задействане на safeguard-а.
+- Следователно cross-Silo изолацията има прилагане с фатален резултат при нарушение.
 
-### S03E03 — mines / Lukas / spatial anchors
+### S03E03 — мините / Lukas / пространствени ориентири
 
-- Level 70 е direct-confirmed and tied to mine-sector access/start.
-- Level 124 е direct-confirmed.
-- Mine interior/tunnel network е directly shown.
-- Lukas Kyle is alive in the mines.
-- Juliette and Lukas reunite there.
-- Lukas is actively pursued under Camille's control; exact original mine purpose остава неустановено.
+- Level 70 е директно потвърден и е свързан с достъпа/началото на минния сектор.
+- Level 124 е директно потвърден.
+- Вътрешността на мините/тунелната мрежа е директно показана.
+- Lukas Kyle е жив в мините.
+- Juliette и Lukas се срещат отново там.
+- Lukas е активно преследван под контрола на Camille; точната първоначална цел на изпращането му в мините остава неустановена.
 
-### S03E03 — Iran mission recording
+### S03E03 — записът от мисията срещу Iran
 
-- Mission aircraft had very old communication systems installed mission-wide.
-- Communications were comparatively easy to record/capture.
-- Daniel Keen finds and listens to a surviving mission recording.
-- On return, the holder is gone and the location has been searched.
-- Actor, fate of holder and fate/content of recording остават неустановени.
+- На самолетите от мисията са били инсталирани много стари комуникационни системи за цялата операция.
+- Комуникациите са били сравнително лесни за записване/прихващане.
+- Daniel Keen намира и прослушва оцелял запис от мисията.
+- Когато се връща, притежателят на записа е изчезнал, а мястото е претърсено.
+- Извършителят, съдбата на притежателя и съдбата/съдържанието на записа остават неустановени.
 
 ### S03E02 — pre-Silo memory mechanism
 
