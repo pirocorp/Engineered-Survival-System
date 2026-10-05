@@ -35,7 +35,7 @@ Exact cleaner failure path остава unresolved:
 - external contaminant ingress;
 - both.
 
-Exact outside agent също остава unresolved:
+Точният външен агент също остава неустановен:
 - chemical toxin;
 - aerosol/particulate;
 - bioaerosol/pathogen;
