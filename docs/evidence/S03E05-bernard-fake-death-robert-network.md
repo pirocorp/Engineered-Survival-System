@@ -32,13 +32,13 @@ Robert казва на Mechanical:
 Функцията на mayoral move-а:
 - увеличава public legitimacy;
 - прави immediate killing на Juliette политически/социално по-скъпо;
-- използва stabilizing/public value на Juliette като temporary protective shield.
+- използва stabilizing/public value на Juliette като временно защитно прикритие.
 
 ## Unknown nurse upstream actor
 
 S03E04 установява, че unknown actor е казал на nurse-а да подменя memory-suppression medication.
 
-S03E05 показва повтарящ се Robert pattern:
+S03E05 показва повтарящ се pattern при Robert:
 - covertly спасява Bernard;
 - привлича Mechanical;
 - инсценира death narrative;
