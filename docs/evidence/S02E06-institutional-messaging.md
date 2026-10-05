@@ -48,7 +48,7 @@ Digital access за ordinary residents остава unproven.
 
 ## H56
 
-**Silo използва multiple parallel communication tiers с различни access и controllability: physical couriers, institutional digital messaging и radio.**
+**Silo използва множество паралелни комуникационни нива с различни свойства за достъп и контролируемост: физически куриери, институционално digital messaging и радио.**
 
 **Confidence:** H  
 **Status:** Strongly Strengthened / Refactored спрямо prior communication-control model.
