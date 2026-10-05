@@ -168,16 +168,16 @@
 - по време на general Silo 18 blackout IT остава видимо powered и жителите изрично забелязват изключението;
 - захранването за приемственост следователно е независимо демонстрирано поне в Silos 17 и 18, докато точното съответствие на източника остава неустановено.
 - S02E08 разкрива привилегирована алтернативна история според Bernard: Quinn не се е провалил по време на Rebellion, а умишлено е прекъснал публичната историческа приемственост;
-- Bernard казва, че pre-Quinn rebellions са се повтаряли приблизително на всеки 20 години и всеки е застрашавал целия Silo;
-- Quinn премахва public server access, конфискува книги и позволява/причинява историческата загуба да бъде приписана на rebels;
-- Bernard казва, че Quinn поставя memory-suppressing chemical/drug във водата; chronic exposure в течение на седмици, месеци и години кара спомените да избледняват;
-- това независимо corroborate-ва по-ранното Flamekeeper water-memory testimony и силно strengthens pharmacological memory-suppression model;
-- Bernard приписва приблизително 140 години мир на intervention-а на Quinn, докато тази causal diagnosis остава privileged interpretation, а не independent proof;
-- по-ранното Quinn investigation на Meadows вече е свързано с роднините на Quinn и оцелели books/materials;
-- старо копие със заглавие `The Pact Between the Founders` носи ръкописното име `Salvador Quinn`; association е direct, но authorship/Founder status не са;
+- Bernard казва, че бунтовете преди Quinn са се повтаряли приблизително на всеки 20 години и всеки е застрашавал целия Silo;
+- Quinn премахва публичния достъп до server записите, конфискува книги и позволява/причинява историческата загуба да бъде приписана на бунтовниците;
+- Bernard казва, че Quinn поставя химикал/лекарство, потискащо паметта, във водата; хроничното излагане в течение на седмици, месеци и години кара спомените да избледняват;
+- това независимо потвърждава по-ранното Flamekeeper свидетелство за паметта и водата и силно засилва модела за фармакологично потискане на паметта;
+- Bernard приписва приблизително 140 години мир на намесата на Quinn, докато тази причинна диагноза остава привилегирована интерпретация, а не независимо доказателство;
+- по-ранното разследване на Quinn от Meadows вече е свързано с роднините на Quinn и оцелели книги/материали;
+- старо копие със заглавие `The Pact Between the Founders` носи ръкописното име `Salvador Quinn`; връзката е пряка, но авторството/статусът на Основател не са установени;
 - декодираното съобщение на Quinn гласи: `If you've gotten this far, you already know the game is rigged.` („Ако си стигнал дотук, вече знаеш, че играта е нагласена.“);
 - Judge Sims получава лично съобщение от R. Ahundsen, в което се споменават погребение и `little apple tree`; голяма овощна градина дава правдоподобен буквален референт, но евентуален кодиран замисъл остава неустановен;
-- Silo 17 директно съдържа множество живи обитатели, не само познатия досега IT-vault survivor.
+- Silo 17 директно съдържа множество живи обитатели, не само познатия досега оцелял от IT vault-а.
 - S02E09 показва организирана additional-survivor group в Silo 17; group-ът нарича IT-vault survivor-а „the killer“ и го използва като leverage за food;
 - vault-ът на Silo 17 директно съдържа голяма среда от книги, архиви и научно знание, функционално аналогична на `Legacy` в Silo 18, без официалното обозначение `Legacy` да е потвърдено;
 - decoded Quinn material казва: `The founders didn't build a single silo. They built fifty.` и `And they created the safeguard.`;
@@ -307,9 +307,9 @@
 - [`docs/evidence/S02E07-352-year-chronology.md`](docs/evidence/S02E07-352-year-chronology.md) — 352-годишна възраст от construction и pre-Rebellion chronology refactor.
 - [`docs/evidence/S02E07-anti-it-counter-narrative.md`](docs/evidence/S02E07-anti-it-counter-narrative.md) — handwritten anti-IT leaflet и competing crisis narrative.
 - [`docs/evidence/S02E07-silo18-continuity-power.md`](docs/evidence/S02E07-silo18-continuity-power.md) — blackout-resilient IT power в Silo 18 и cross-Silo corroboration.
-- [`docs/evidence/S02E08-quinn-historical-reset.md`](docs/evidence/S02E08-quinn-historical-reset.md) — historical reset на Quinn, recurring rebellions и reversal на official history.
-- [`docs/evidence/S02E08-memory-suppression-water.md`](docs/evidence/S02E08-memory-suppression-water.md) — chronic waterborne memory suppression и cross-episode corroboration.
-- [`docs/evidence/S02E08-meadows-quinn-pact.md`](docs/evidence/S02E08-meadows-quinn-pact.md) — разследването на Meadows за Quinn family и старо копие на `Pact Between the Founders`.
+- [`docs/evidence/S02E08-quinn-historical-reset.md`](docs/evidence/S02E08-quinn-historical-reset.md) — историческото заличаване на Quinn, повтарящите се бунтове и обръщането на официалната история.
+- [`docs/evidence/S02E08-memory-suppression-water.md`](docs/evidence/S02E08-memory-suppression-water.md) — хронично потискане на паметта чрез водата и потвърждение между епизоди.
+- [`docs/evidence/S02E08-meadows-quinn-pact.md`](docs/evidence/S02E08-meadows-quinn-pact.md) — разследването на Meadows за семейството на Quinn и старо копие на `Pact Between the Founders`.
 - [`docs/evidence/S02E08-quinn-decoded-message.md`](docs/evidence/S02E08-quinn-decoded-message.md) — декодираното съобщение на Quinn и формулировката `game is rigged` („играта е нагласена“).
 - [`docs/evidence/S02E08-sims-ahundsen-message.md`](docs/evidence/S02E08-sims-ahundsen-message.md) — съобщението на R. Ahundsen до Judge Sims и контекстът с овощната градина.
 - [`docs/evidence/S02E08-silo17-multiple-survivors.md`](docs/evidence/S02E08-silo17-multiple-survivors.md)
@@ -390,7 +390,7 @@ S01E05 дава direct-confirmed example: Sims kills Trumbull → official narra
 
 S01E07 съдържа както директно потвърдени механизми, така и исторически свидетелства. Например:
 - retained-implant deception е independently corroborated чрез Allison physical evidence + Juliette’s father confession;
-- water-based memory suppression и anti-Flamekeeper lineage targeting остават historical claims до independent corroboration;
+- потискането на паметта чрез водата и насочването срещу семейните линии на Flamekeepers остават исторически твърдения до независимо потвърждение;
 - Flamekeepers не се приравняват автоматично с Rebels, докато episode evidence не establish-не връзката.
 
 ### Допълнително правило след S01E08
