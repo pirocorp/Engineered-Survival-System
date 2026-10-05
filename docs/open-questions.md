@@ -1,8 +1,8 @@
 # Отворени въпроси
 
-**Knowledge boundary:** **S03E05**
+**Knowledge boundary:** **S03E06**
 
-Въпросите са само за knowledge state-а до края на S02E10. Не се използва информация след S02E10, книги, wiki, interviews, leaks или retrospective explanations.
+Въпросите са само за knowledge state-а до края на S03E06. Не се използва информация след S03E06, книги, wiki, interviews, leaks или retrospective explanations.
 
 Resolved/partially resolved questions от по-ранни епизоди са премахнати или refactor-нати вместо да се пазят като вече неверни watch targets.
 
@@ -1330,14 +1330,14 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 949. Какво точно е намерил/видял Lukas?
 950. Как Juliette знае practical method-а за спиране на safeguard-а?
 951. Method-ът на Juliette physical pipe blocking ли е, control override, source interruption или комбинация?
-952. „Гласът“ знае ли, че Juliette има safeguard countermeasure knowledge?
+952. **PARTIALLY NARROWED in S03E06:** Juliette съзнателно не разкрива safeguard countermeasure knowledge пред Camille/„Гласът“. Дали „Гласът“ го знае по друг monitoring/inference path остава open.
 
 ## S03E05 — relics / memory retrieval
 
 953. Кои категории relics са най-силни retrieval cues — personal objects, images, texts, maps, sounds?
 954. PEZ recall-ът specific autobiographical association ли активира или broader suppressed-memory state?
 955. Колко durable е relic-triggered recall след премахване на cue-а?
-956. Pharmacological suppression може ли отново да block-не вече recovered memory?
+956. **STRENGTHENED QUESTION in S03E06:** Juliette предлага доброволно да се върне на memory-suppression medication, но ефектът върху вече recovered memories остава direct-untested.
 957. The Order предписва ли destruction, concealment или selective controlled access за relics?
 958. Primary motive на relic policy memory-control ли е, или едновременно information censorship + recall suppression?
 959. PEZ същият object ли е като pre-Silo yellow-duck PEZ gift, или provenance bridge остава candidate?
@@ -1349,7 +1349,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 962. Silo 1 passive monitor ли е или може active-но да transmit-ва към всички Silos?
 963. Silo 1 автоматично ли detect-ва cross-Silo communication?
 964. Silo 1 monitoring direct input ли е към safeguard trigger logic?
-965. Silo 1 = „Гласът“ ли е, или separate supervisory/monitoring node?
+965. **STRONGLY NARROWED in S03E06:** Silo 1 вече има direct radio-monitoring + IT-power infrastructure role, а „Гласът“ има direct interaction path през Camille. Дали са една entity/system, colocated layers или separate nodes остава unresolved.
 966. Heads of IT имат ли authorized hidden channel към Silo 1?
 967. Silo 1 следи ли само radio или и wired/data/other cross-Silo communication?
 
@@ -1367,14 +1367,72 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 974. Treatment-ът на сестрата съдържа ли memory suppression / retrieval blocking?
 975. Сестрата показва ли memory gaps за Iran event-а?
 976. Същият pre-Silo memory-control protocol ли се използва в clinic treatment-а?
-977. Кой поема control над автомобила на Keen и journalist-а?
+977. **PARTIALLY NARROWED in S03E06:** actor-ът остава unidentified, но takeover-ът demonstrably route-ва Keen до летище/private aircraft и организирана среща.
 978. Vehicle takeover извършен ли е чрез manufacturer infrastructure, network exploit, privileged backdoor или AI control layer?
-979. Същият actor/network ли е зад vehicle takeover и Iran aircraft anomaly?
-980. Същият technical control mechanism ли е използван при civilian car и military aircraft?
-981. Vehicle takeover intimidation/abduction attempt ли е, или има друга immediate objective?
-982. AI-linked actor direct participant ли е в remote-control event-а?
-983. Iran aircraft control-loss deliberately engineered ли е от същата emerging program?
+979. **STRONGLY NARROWED in S03E06:** Keen и спътникът му explicit свързват двата events като external takeover pattern; same actor/network остава недоказан.
+980. **STRONGLY NARROWED in S03E06:** character-level interpretation е common external-control pattern, но technical mechanism equivalence остава unresolved.
+981. **LARGELY RESOLVED in S03E06:** immediate objective е forced routing на Keen до летище/private aircraft и предварително организирана среща; broader purpose на срещата остава open.
+982. **STILL OPEN after S03E06:** explicit car↔aircraft linkage и doubt към Iran attribution strengthen broader-program model-а, но AI-linked actor не е direct-identified като controller.
+983. **STRONGLY STRENGTHENED in S03E06:** героите direct-characterize aircraft event-а като external takeover и поставят Iran attribution под съмнение; program/actor identity остава unresolved.
 984. Old communications retrofit intended ли е да preserve recording/evidence срещу control-system takeover, или reason-ът е различен?
+
+## S03E06 — Silo 1 / IT power / safeguard infrastructure
+
+985. Как физически е routed external electrical feed-ът от Silo 1 до IT на Silo 18?
+986. Silo 1 захранва ли IT на всички Silos, или само определени/активни инсталации?
+987. Какво става с IT, ако external Silo 1 feed бъде прекъснат?
+988. Има ли local backup power паралелно с external feed-а от Silo 1?
+989. Safeguard line-ът към Judicial физически pipe ли е, control/data line ли е, или combined utility path?
+990. Защо safeguard path-ът има local endpoint/route през Judicial?
+991. Може ли safeguard-ът practically да бъде прекъснат при Judicial, или countermeasure point-ът е другаде?
+992. Safeguard source-ът също ли е в Silo 1, или origin-ът му е отделен?
+
+## S03E06 — Juliette / „Гласът“ / selective disclosure
+
+993. „Гласът“ знае ли, че Juliette съзнателно е скрила safeguard countermeasure knowledge?
+994. Camille разбира ли, че Juliette ѝ дава selective, а не exhaustive disclosure?
+995. Защо Camille допуска Juliette до direct contact с „Гласът“?
+996. Physical location/interface-ът на „Гласът“ local ли е, remote terminal ли е, или distributed system?
+997. Как „Гласът“ може да има awareness за разговор на място без видими камери, ако Juliette suspicion-ът е верен?
+998. Има ли скрити microphones/sensors, които не са част от известната mirror-camera network?
+999. Juliette искрено ли е готова да се върне на memory-suppression medication, или предложението е tactical bargaining move?
+1000. Ще приеме ли „Гласът“ transfer на децата от Silo 17?
+1001. Кой operationally би извел децата от Silo 17 и би ги прехвърлил в Silo 18?
+1002. Cross-Silo transfer нарушава ли safeguard trigger rules, ако е authorized от supervisory layer-а?
+1003. „Гласът“ може ли formal-но да прави exceptions от rules, когато control risk бъде намален?
+1004. Какво точно смята „Гласът“ за опасно в remembered knowledge на децата от Silo 17?
+
+## S03E06 — Vitamin D+ active deployment
+
+1005. Каква exact доза Vitamin D+ Camille пуска във водата?
+1006. Колко време е необходимо за meaningful memory-suppression effect?
+1007. Целият Silo 18 ли е exposure target, или dosing-ът може да е sector-specific?
+1008. Как се контролира concentration-ът по water-distribution network-а?
+1009. Кои memories/knowledge classes protocol-ът цели да suppress-не в текущата криза?
+1010. Camille действа ли по direct instruction от „Гласът“, по The Order, или по собствена interpretation?
+1011. Може ли вече recovered safeguard memory на Juliette отново да бъде suppressed?
+1012. Има ли residents/roles, които са exempt от Vitamin D+ water dosing?
+
+## S03E06 — Level 94 / industrial visual
+
+1013. Каква е exact функцията на Level 94?
+1014. Къде се намира industrial/maintenance зоната с кръглата емблема?
+1015. Какво означава емблемата и има ли relation към Silo construction, maintenance или pre-Silo organization?
+1016. Floor guides/rails в industrial зоната за transport, assembly или друга heavy-infrastructure функция ли са?
+
+## S03E06 — pre-Silo forced routing / Iran oversight
+
+1017. Кой точно remote-control-ва автомобила на Keen?
+1018. Какъв technical path позволява forced routing на автомобила?
+1019. Кой е организирал private aircraft handoff-а?
+1020. Каква е exact identity/title на жената, при която Keen е доведен?
+1021. Каква formal роля има тя в Iran commission/oversight process-а?
+1022. Тя controller, ally, intermediary или target ли е в forced-routing operation-а?
+1023. Къде трябва да отведе Keen private aircraft-ът?
+1024. Същият actor/network ли е поел control над aircraft по време на Iran operation?
+1025. Ако Iran attribution е false/manipulated, кой има capability и motive да го произведе?
+1026. Как AI-linked clinic/Iran actor-ът се свързва с remote-control capability и political oversight network-а?
+1027. Sister-treatment line-ът част от същия coercion/information-control architecture ли е?
 
 ## Основен въпрос на проекта
 
