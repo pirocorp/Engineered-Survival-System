@@ -1,21 +1,71 @@
-# Текущо състояние — след S03E06
+# Текущо състояние — след S03E07
 
-**Knowledge boundary:** `S03E06`
+**Knowledge boundary:** `S03E07`
 
 ## Работен модел
 
-S03E06 свързва няколко досега отделни инфраструктурни линии. Bernard казва, че external electrical line от **Silo 1** стига до IT и го захранва. Това дава конкретен candidate mechanism за вече известното independent IT power. Отделно safeguard path-ът е разграничен като линия към Judicial; не се приема автоматично, че и тя произхожда от Silo 1.
+S03E07 показва, че supervisory layer-ът има reach отвъд вътрешността на Silo, но едновременно разкрива граници в knowledge-а му. Lukas Kyle и Patrick Kennedy излизат към Silo 17 с явна цел да доведат децата и covert задача да разберат как е блокиран safeguard pipe-ът. Навън чуват жужене, последвано от кратък приглушен звук, който самите герои оприличават на оръжие. „Гласът“ по-късно съобщава, че двамата са `neutralized`. Това създава силна хипотеза за външно въздействие, но точният механизъм и дори точността на report-а остават unresolved, защото по-късно идва радиовръзка, представена като Kyle/Kennedy.
 
-Juliette възстановява safeguard-pipe memory, но пред Camille използва селективно disclosure: признава знание за „Гласът“, Silo 17 и децата там, и иска директен разговор с „Гласът“, без да разкрива, че знае за safeguard-а и practical countermeasure-а. Camille действително я завежда при „Гласът“. Предложението за transfer на децата първоначално е неприемливо, но става обсъждаемо, след като Juliette предлага memory-suppression medication за себе си и децата.
+S03E07 също стеснява границата на знанието на „Гласът“. Той заключава от записа на Juliette и множеството трупове около Silo 17, че safeguard-ът там е бил преодолян поне временно; Camille и „Гласът“ отделно спекулират, че истинската цел на Juliette може да е блокиране на safeguard-а. Това е силна situational awareness, но не всезнание. Juliette's selective disclosure от S03E06 следователно остава operationally meaningful.
 
-Camille operationally пуска **Vitamin D+** във водата, превръщайки population-scale memory-suppression protocol-а от contingency в изпълнено действие. Juliette същевременно подозира, че „Гласът“ може да знае за разговор и на място без видими камери; това отваря, но не доказва, допълнителен monitoring channel.
+Safeguard architecture вече има явен вътрешен конфликт: „Гласът“ твърди пред Camille, че защитата е непреодолима, но Silo 17 outcome показва practical temporary defeat. Познатият poison pipe остава direct-confirmed component, но не се приема автоматично за единствения delivery path. Redundancy, резервен route или bluff остават competing explanations.
 
-Pre-Silo линията също се стеснява: Keen и спътникът му изрично свързват remote takeover-а на автомобила с external takeover на Iran aircraft и поставят Iran attribution под съмнение. Колата не просто губи local control, а отвежда Keen до летище/private aircraft и предварително организирана среща с високопоставена фигура, свързана с Iran oversight line-а.
+Low-level console кадърът добавя concrete feed-control capability: системен interface може да замени live feed с `null visual` и да loop-не static image. Това не се generalize-ва автоматично към cleaner helmet overlay или всички public displays, но за първи път има direct operational mechanism за live-feed substitution.
 
-> **След S03E06 най-силният model е: Silo 1 има поне две директно установени privileged инфраструктурни функции — radio monitoring и external power feed към IT. „Гласът“ остава supervisory layer с mediated direct access през Head of IT, но техническата му identity и relation към Silo 1 са unresolved. Memory suppression е активно използван governance/control инструмент, а Juliette запазва safeguard countermeasure knowledge като скрит leverage. В pre-Silo линията external vehicle/aircraft control вече е explicit linked на character level, докато реалният actor и причината за Iran attribution остават отворени.**
+Pre-Silo линията прави две големи крачки. Сестрата на Daniel Keen е физически възстановена, но има fragmented recall и разчита частично на подаден отвън автобиографичен разказ; това отново подсилва candidate-а за memory retrieval manipulation в clinic line-а. Отделно Keen е доведен в Georgia, близо до Atlanta, до massive multi-Silo construction site. Показаният Silo field вече има concrete geographic anchor в района на Atlanta, макар точните coordinates и numbering на отделните Silos да остават unknown.
+
+> **След S03E07 най-силният model е: Silo system има privileged supervisory layer с вътрешен control, exterior-status reach и вероятна връзка с external enforcement, но този layer не е показан като всезнаещ и неговите reports могат да влязат в конфликт с последващ evidence. Safeguard е practically blockable поне временно, докато claim-ът за „непреодолимост“ отваря redundancy/bluff alternatives. Juliette's selective disclosure продължава да работи частично. Pre-Silo линията вече свързва fragmented-memory treatment и formal NDA/read-in control със самата large-scale Silo construction program край Atlanta, Georgia.**
 ---
 
 ## Наблюдения с висок confidence
+
+### S03E07 — Kyle/Kennedy / exterior / „Гласът“
+
+- Lukas Kyle и Patrick Kennedy излизат от Silo 18 към Silo 17.
+- Явната цел е transfer на децата; covert objective е safeguard-countermeasure reconnaissance.
+- Навън се чува ясно жужене и след него кратък приглушен звук, който героите оприличават на оръжие.
+- „Гласът“ съобщава, че Kyle и Kennedy са `neutralized`; това е твърдение за статуса им, не direct visual proof за death.
+- По-късно радиовръзка, представена като идваща от тях, влиза в пряк конфликт с neutralization report-а и Camille statement-а, че не са стигнали Silo 17.
+- Самата радиовръзка не доказва физическо достигане до Silo 17.
+- Радиоконтактът кара групата в Silo 18 да прекрати плана за взривяване на Judicial и търсене/запушване на safeguard pipe-а.
+
+### S03E07 — safeguard / knowledge boundary
+
+- „Гласът“ заключава от записа на Juliette и mass-casualty field-а, че Silo 17 е успял да блокира safeguard-а поне временно.
+- Това потвърждава practical safeguard defeat, без да прави exterior-а безопасен.
+- „Гласът“ твърди пред Camille, че safeguard-ът е непреодолим; claim-ът е в напрежение със Silo 17 outcome-а.
+- Познатият poison pipe остава confirmed component, но не се приема автоматично като единствен delivery path.
+- Camille и „Гласът“ правят inference, че Juliette може да цели блокиране на safeguard-а; това показва, че не знаят пълния ѝ intent.
+- Camille пита Juliette дали децата са били единствената причина за Silo 17 mission-а.
+
+### S03E07 — console / visual feed control
+
+- Показан е low-level command-line/system interface с reboot и security-bypass operations.
+- Console warning-ът директно казва: `Live feed replaced with null visual. Looping static image.`
+- Следователно в показания subsystem има practical live-feed → static-loop substitution.
+- Relation към cleaner lush overlay, cafeteria display и други visual pipelines остава unresolved.
+
+### S03E07 — exterior night / stars
+
+- Kyle и Kennedy са директно показани навън през нощта.
+- Реалното exterior sky показва ясни звезди.
+- Това дава comparison anchor за по-ранните public-display star patterns, без да доказва geometric identity.
+
+### S03E07 — sister memory / NDA
+
+- Сестрата на Daniel Keen е физически възстановена, но има fragmented memories.
+- Значителна част от autobiographical account-а ѝ идва от това, което други са ѝ казали.
+- Тя вече е подписала NDA и има sensitive information, което не може да disclose-не на Keen преди неговия read-in.
+- Keen трябва да подпише собствен NDA, след което двамата трябва да се качат на private aircraft за full briefing.
+- Fragmented recall + подаден отвън разказ съществено подсилват clinic memory-control candidate-а, но exact treatment substance/protocol остава unknown.
+
+### S03E07 — Georgia / Atlanta Silo construction
+
+- Keen е доведен в Georgia, близо до Atlanta, до Silo construction site.
+- Visual frame-ът показва massive multi-unit construction field с множество circular excavation/build zones и поне една напреднала cylindrical structure.
+- Silo program-ът е large-scale coordinated civil-engineering project, а не small isolated prototype.
+- Показаният Silo field получава geographic anchor в района на Atlanta, Georgia; exact site coordinates и unit numbering остават unresolved.
+
 
 ### S03E06 — Silo 1 / IT power / safeguard routing
 
@@ -1013,15 +1063,24 @@ Observed direct anchors включват:
 | H110 | Relic-control policy и pharmacological memory suppression са умишлено свързани: drugs намаляват retrieval, а relic removal премахва external recall cues. | VH | New / Confirmed |
 | H111 | External relic cue може реално да reactivate suppressed/protected memory; PEZ → Juliette recall за safeguard pipe е директна демонстрация. | VH | New / Confirmed |
 | H112 | По-високият supervisory layer запазва existential kill leverage над Silo; Juliette притежава safeguard countermeasure knowledge и S03E06 демонстративно не го разкрива на Camille/„Гласът“. | H-VH | Further Strengthened / Strongly Supported |
-| H113 | Pre-Silo clinic/AI/Iran convergence може да е част от coordinated information-control или technology program; точната institutional structure остава unresolved. | H | New / Candidate |
+| H113 | Pre-Silo clinic/AI/Iran convergence може да е част от coordinated information-control или technology program; S03E07 добавя fragmented-memory + supplied-narrative evidence при сестрата и formal NDA/read-in control. Точната institutional structure остава unresolved. | H-VH | Further Strengthened / Candidate |
 | H114 | Civilian vehicle takeover и Iran aircraft-control anomaly са explicit linked от героите като external-control pattern; same actor/technology остава unproven, но hypothesis-ът е materially strengthened. | H-VH | Further Strengthened / Candidate |
 | H115 | External electrical feed от Silo 1 е practical mechanism за independent IT power и прави Silo 1 upstream infrastructure dependency за local IT continuity. | H-VH | New / Strongly Supported |
 | H116 | Safeguard path-ът е distinct от IT electrical feed-а и е routed към Judicial; exact source, substance route и activation hardware остават unresolved. | H-VH | New / Strongly Supported |
-| H117 | Juliette използва selective disclosure, за да получи access до „Гласът“, като запазва safeguard countermeasure knowledge извън разговора. | H | New / Strongly Supported |
-| H118 | „Гласът“ може да има awareness/monitoring channel отвъд известните видими камери; S03E06 дава само Juliette suspicion, не direct sensor proof. | M-H | New / Candidate |
+| H117 | Juliette използва selective disclosure, за да получи access до „Гласът“, като запазва safeguard countermeasure knowledge извън разговора; S03E07 Camille/„Гласът“ все още правят inference за real safeguard objective-а ѝ. | H-VH | Further Strengthened / Strongly Supported |
+| H118 | „Гласът“ има awareness/status reach отвъд известните вътрешни camera feeds, включително exterior-status reporting; exact sensors/channels и accuracy остават unresolved, а S03E07 radio contradiction показва, че report ≠ infallible truth. | H | Refactored / Strengthened |
 | H119 | Memory suppression е active risk-control mechanism, който може да направи otherwise unacceptable cross-Silo exception обсъждаем за supervisory layer-а. | H-VH | New / Strongly Supported |
 | H120 | Camille като Head of IT operationally изпълнява population-scale Vitamin D+ water-dosing protocol. | VH | New / Confirmed |
 | H121 | Pre-Silo external-control actor/network има capability поне за forced vehicle routing към организиран aviation handoff; relation към AI-clinic-Iran actor-а остава unresolved. | H | New / Candidate |
+| H122 | Supervisory layer-ът има поне exterior-status reach и може да е свързан с active external enforcement; Voice report-ът `neutralized` + exterior acoustic sequence подкрепят това, но exact actuator/actor остава unresolved. | H | New / Candidate |
+| H123 | „Гласът“ има bounded, inferential knowledge rather than demonstrated omniscience: Silo 17 safeguard defeat и Juliette intent се реконструират от evidence/behavior. | H-VH | New / Strongly Supported |
+| H124 | Safeguard architecture може да има redundant/fallback delivery paths, ако Voice claim-ът за „непреодолимост“ е technically accurate; Silo 17 temporary defeat не позволява single-path certainty. | M-H | New / Candidate |
+| H125 | Radio transmission-ът materially weakens literal reading-а на Kyle/Kennedy `neutralized` report-а; authenticity, origin и physical location на transmitters остават unresolved. | H-VH | New / Strongly Supported |
+| H126 | Ако Kyle/Kennedy radio transmission-ът е manipulated, supervisory/adversarial actor има deception capability, достатъчна да прекрати safeguard-countermeasure operation в Silo 18. | M | New / Conditional Candidate |
+| H127 | Sister clinic treatment включва или причинява memory-retrieval disruption, съвместимо с fragmented recall + supplied autobiographical narrative; exact mechanism остава unresolved. | H-VH | New / Strongly Supported |
+| H128 | Показаният Silo construction program е планиран като coordinated multi-unit field в района на Atlanta, Georgia. | H-VH | New / Strongly Supported |
+| H129 | Low-level system architecture поддържа intentional live-feed substitution чрез null/static loop. | VH | New / Confirmed Capability |
+| H130 | Null-feed substitution може да е technical building block за broader visual deception/control architecture, но equivalence с cleaner/public-display pipelines не е установена. | M-H | New / Candidate |
 
 ---
 
