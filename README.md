@@ -46,7 +46,7 @@
 
 - cleaner lush view остава repeatable при Allison, Jane Carmody и Holston;
 - public display normally показва barren exterior;
-- S01E03 power-down показва lush state на самия public display;
+- S01E03 изключването на захранването показва зелено състояние на самия public display;
 - S01E04 показва normal night state;
 - S01E05 показва systematic/time-dependent star-like movement на night display-а;
 - observer в cafeteria не знае concept-а „stars“ и сам reconstruct-ва movement patterns;
@@ -62,7 +62,7 @@
 - Juliette търси formal hook за reopening на George case-а и взема PEZ relic-а от sub-Silo area;
 - `The Syndrome` е explicit in-world term; S01E06 establishes new Deputy като concrete affected character, но nature/cause остават unknown;
 - **няма established Syndrome ↔ magnification link** — това остава VL speculation/open question only;
-- centralized multi-feed surveillance control center наблюдава множество internal locations, включително Juliette в дома ѝ;
+- централизиран control center за наблюдение с множество feeds наблюдава множество вътрешни места, включително Juliette в дома ѝ;
 - restricted Judicial relic database пази archival `PRE-SILO` records и Sims/Judicial има privileged access;
 - pre-Silo Georgia travel guide establishes concrete U.S.-Georgia geography, но не locates the Silo;
 - Sims operationally commands surveillance; Judge Meadows и medical center са monitored;
@@ -80,10 +80,10 @@
 - S01E08 завършва с Juliette, която преминава през парапета в контекст на escape/evasion;
 - S01E09 разрешава непосредствения outcome: тя оцелява след първоначалното падане върху междинен bridge на **Level 23**;
 - показан е малък осветен object/device с маркировка **`18`** в контекст с Bernard/acting mayor; функцията е неизвестна и не се приема автоматична връзка с HDD 18;
-- Juliette отваря познатия файл **`JANE CARMODY CLEANING`** от hard-drive evidence chain, което прави alternate lush cleaning imagery част от собственото ѝ knowledge;
-- S01E10 разкрива, че lush cleaner/helmet view е **false visual layer**; първоначалното убеждение на Juliette, че public display лъже, е superseded от директното разкритие;
+- Juliette отваря познатия файл **`JANE CARMODY CLEANING`** от evidence веригата на hard drive-а, което прави алтернативното зелено cleaning изображение част от собственото ѝ знание;
+- S01E10 разкрива, че зелената гледка за cleaner-а/шлема е **неверен визуален слой**; първоначалното убеждение на Juliette, че public display лъже, е заменено от директното разкритие;
 - barren exterior остава видим след отпадането на false layer и следователно е в значителна степен реален;
-- Bernard разпознава, че Juliette е разбрала helmet deception, и демонстрира privileged access/control върху classified cleaning и surveillance информация;
+- Bernard разпознава, че Juliette е разбрала измамата с шлема, и демонстрира привилегирован достъп/контрол върху класифицираната cleaning информация и наблюдението;
 - Bernard може да спре sensitive broadcast и да нареди на control-room personnel, включително Sims, да не гледат/запазват видяното;
 - suit-ът на Juliette използва различен tape/material и тя оцелява отвъд момента, в който Bernard/Sims очакват cleaner да умре, което силно implicate-ва suit sealing;
 - осветеният object `18` е директно показан като **physical key**; какво отключва и дали е свързан с HDD 18 остават неизвестни;
@@ -96,7 +96,7 @@
 - в present-day сцените Juliette намира голямо поле от човешки останки около hatch-а на втория Silo, което силно потвърждава real lethal exterior hazard;
 - Juliette изпитва acute breathing distress, докато е sealed в suit-а си вътре във втория Silo, а след отваряне/разбиване на helmet-а отново може да диша; exact breathing technology остава неизвестна;
 - текущият най-подходящ клас за външната опасност е **въздушно / атмосферно излагане**; токсин/химикал/аерозол и патоген остават конкуриращи се възможности;
-- вторият Silo съдържа същия concealed mirror-camera concept, което силно подкрепя standardized cross-Silo surveillance/control design;
+- вторият Silo съдържа същата концепция за скрити камери в огледалата, което силно подкрепя стандартизиран cross-Silo дизайн за наблюдение/контрол;
 - IT във втория Silo е defended/secured strategic area със severed access, local lighting и vault-like compartment;
 - вторият Silo е масивно наводнен до няколко нива под IT, но не е напълно electrically dead;
 - поне един жив човек остава вътре в secured IT compartment;
@@ -108,8 +108,8 @@
 - Judge Meadows знае за `THE ORDER`, следователно тази hidden doctrine не е лична тайна на Bernard;
 - Bernard изрично се страхува, че катастрофалната съдба на втория Silo може да се повтори и в неговия;
 - Bernard и Meadows приписват оцеляването на Juliette на замяната на normal cleaning tape;
-- Meadows казва, че някой рано или късно ще разбере tape mechanism, а по-късно изисква **good tape**, преди да се съгласи да излезе навън;
-- standard cleaning tape следователно е силно подкрепен като умишлено/системно inferior, макар contaminant ingress vs breathing-gas loss vs both да остава unresolved;
+- Meadows казва, че някой рано или късно ще разбере механизма с лентата, а по-късно изисква **добра лента**, преди да се съгласи да излезе навън;
+- стандартната cleaning лента следователно е силно подкрепена като умишлено/системно по-лоша, макар проникване на замърсител спрямо загуба на дихателен газ спрямо комбинация от двете да остава неустановено;
 - Silo на Bernard съдържа secured/vault-like IT layer, аналогичен на secured IT compartment във втория Silo;
 - появява се отличителен ограден символ/емблема в контекста на бунта; точното му значение остава неизвестно.
 - свидетелството на оцелелия в S02E03 идентифицира другата инсталация като **Silo 17** и заявява **50 Silos**; материалът на Quinn в S02E09 независимо казва, че Основателите са построили **50**, но Bernard уточнява, че реалният брой е **51**; причината за несъответствието остава неустановена, а оригиналният Silo на Juliette е силно идентифициран/изводим като **Silo 18**;
@@ -141,7 +141,7 @@
 - Sims активно насочва public sentiment срещу Mechanical, демонстрирайки meaningful independent political/operational leverage;
 - S02E04 завършва с large-scale population movement по време на escalating unrest.
 - S02E05 показва как Bernard отстранява Sims като Head of Security, изрично му отказва ролята `shadow` и го назначава за Judge;
-- това разделя public Judicial office от privileged IT succession/read-in path на Bernard, без да доказва, че всеки Judge е просто puppet;
+- това разделя публичната длъжност в Judicial от привилегирования IT път за наследяване/read-in на Bernard, без да доказва, че всеки Judge е просто марионетка;
 - оцелелият от Silo 17 казва, че IT има собствено независимо електрозахранване от външен източник спрямо нормалния път през генератора;
 - pump на Level 144 е унищожена по време на rebellion в Silo 17, за да бъде наводнен Mechanical; покачващата се вода в крайна сметка изключва main generator и продължава да се покачва;
 - survivor-ът иска Juliette да ремонтира pump и да я захрани от IT, което предполага, че continuity power може потенциално да поддържа избрани non-IT recovery loads;
@@ -156,7 +156,7 @@
 - control room получава routed written field intelligence за движение и оборудване на въоръжена група;
 - точното изходно устройство/входен път, използван от информаторите на терен, остава неустановено;
 - Bernard/IT може да прекъсва всички radio communications в Silo, установявайки centralized communications-control capability;
-- най-силният communication model вече съдържа поне три паралелни tiers: physical couriers, institutional digital messaging и centrally controllable radio;
+- най-силният комуникационен модел вече съдържа поне три паралелни нива: физически куриери, институционално digital messaging и централизирано контролируемо радио;
 - Level 55 и Level 120 стават нови direct spatial anchors.
 - S02E07 разкрива residential/living compartments вътре в secured IT vault;
 - protected vault component, наречен `Legacy`, е идентифициран като library / knowledge archive;
@@ -241,7 +241,7 @@
 - [`docs/evidence/S01E05-surveillance-trumbull-coverup.md`](docs/evidence/S01E05-surveillance-trumbull-coverup.md) — surveillance, framing, Trumbull и false suicide narrative.
 - [`docs/evidence/S01E05-celestial-observation.md`](docs/evidence/S01E05-celestial-observation.md) — star-like temporal behavior и lost astronomical knowledge.
 - [`docs/evidence/S01E05-pact-capability-restrictions.md`](docs/evidence/S01E05-pact-capability-restrictions.md) — mechanized-transport и magnification restrictions.
-- [`docs/evidence/S01E06-centralized-surveillance.md`](docs/evidence/S01E06-centralized-surveillance.md) — директно потвърдено centralized internal surveillance.
+- [`docs/evidence/S01E06-centralized-surveillance.md`](docs/evidence/S01E06-centralized-surveillance.md) — директно потвърдено централизирано вътрешно наблюдение.
 - [`docs/evidence/S01E06-relic-database-pre-silo.md`](docs/evidence/S01E06-relic-database-pre-silo.md) — PEZ lookup, Judicial relic DB и preserved pre-Silo knowledge.
 - [`docs/evidence/S01E06-georgia-relic.md`](docs/evidence/S01E06-georgia-relic.md) — pre-Silo geographic clue за Georgia, USA.
 - [`docs/evidence/S01E07-surveillance-command-and-mirrors.md`](docs/evidence/S01E07-surveillance-command-and-mirrors.md) — Sims command, mirror cameras и concealed surveillance architecture.
@@ -253,7 +253,7 @@
 - [`docs/evidence/S01E08-bernard-judge-power.md`](docs/evidence/S01E08-bernard-judge-power.md) — Bernard’s claim за Judge Meadows и hidden hierarchy candidate.
 - [`docs/evidence/S01E09-level23-escape.md`](docs/evidence/S01E09-level23-escape.md) — приземяване върху bridge на Level 23 и резултат от escape-а.
 - [`docs/evidence/S01E09-number18-device.md`](docs/evidence/S01E09-number18-device.md) — illuminated object/device с маркировка `18`, с неизвестна функция.
-- [`docs/evidence/S01E09-jane-carmody-cleaning.md`](docs/evidence/S01E09-jane-carmody-cleaning.md) — Juliette отваря познатия Jane Carmody cleaning footage.
+- [`docs/evidence/S01E09-jane-carmody-cleaning.md`](docs/evidence/S01E09-jane-carmody-cleaning.md) — Juliette отваря познатото cleaning видео на Jane Carmody.
 - [`docs/evidence/S01E10-cleaning-helmet-tape.md`](docs/evidence/S01E10-cleaning-helmet-tape.md) — false helmet layer, tape variation и cleaner-survival mechanism.
 - [`docs/evidence/S01E10-bernard-compartmentalization.md`](docs/evidence/S01E10-bernard-compartmentalization.md) — privileged access/control на Bernard и compartmentalization на Sims.
 - [`docs/evidence/S01E10-multiple-silos-exterior.md`](docs/evidence/S01E10-multiple-silos-exterior.md) — barren reality, multi-Silo field и distant skyline.
@@ -261,7 +261,7 @@
 - [`docs/evidence/S01E10-syndrome-level144-rota.md`](docs/evidence/S01E10-syndrome-level144-rota.md) — Syndrome sign, Level 144 infrastructure и Janitorial ROTA.
 - [`docs/evidence/S02E01-other-silo-rebellion.md`](docs/evidence/S02E01-other-silo-rebellion.md) — rebellion във втория Silo, IT assault и mass exit.
 - [`docs/evidence/S02E01-outside-hazard-suit-breathing.md`](docs/evidence/S02E01-outside-hazard-suit-breathing.md) — outside hazard, suit seal и breathing-support model.
-- [`docs/evidence/S02E01-cross-silo-surveillance-it.md`](docs/evidence/S02E01-cross-silo-surveillance-it.md) — повторено mirror-camera surveillance и IT standardization.
+- [`docs/evidence/S02E01-cross-silo-surveillance-it.md`](docs/evidence/S02E01-cross-silo-surveillance-it.md) — повторено наблюдение чрез камери в огледалата и стандартизация на IT.
 - [`docs/evidence/S02E01-power-flooding-survivor.md`](docs/evidence/S02E01-power-flooding-survivor.md) — residual power, flooding и surviving occupant.
 - [`docs/evidence/S02E02-the-order-failed-cleaning.md`](docs/evidence/S02E02-the-order-failed-cleaning.md) — `THE ORDER`, failed-cleaning contingency и war-risk doctrine.
 - [`docs/evidence/S02E02-live-cleaner-feed.md`](docs/evidence/S02E02-live-cleaner-feed.md) — live feed от външната среда, свързан с Juliette, и границата на предаването.
@@ -280,7 +280,7 @@
 - [`docs/evidence/S02E04-meadows-framing-sims.md`](docs/evidence/S02E04-meadows-framing-sims.md) — убийството на Meadows, framing на Mechanical и натискът на Sims.
 - [`docs/evidence/S02E04-silo17-child-vault.md`](docs/evidence/S02E04-silo17-child-vault.md) — survivor-ът от Silo 17 като дете и vault continuity-refuge model.
 - [`docs/evidence/S02E05-sims-judge-shadow.md`](docs/evidence/S02E05-sims-judge-shadow.md) — reassignment на Sims, Judge office и отделен shadow succession path.
-- [`docs/evidence/S02E05-silo17-power-flooding-recovery.md`](docs/evidence/S02E05-silo17-power-flooding-recovery.md) — independent IT power, саботаж на Level 144 pump, flooding и recovery plan.
+- [`docs/evidence/S02E05-silo17-power-flooding-recovery.md`](docs/evidence/S02E05-silo17-power-flooding-recovery.md) — независимо IT захранване, саботаж на помпата на Level 144, наводняване и план за възстановяване.
 - [`docs/evidence/S02E05-it-judicial-infrastructure-map.md`](docs/evidence/S02E05-it-judicial-infrastructure-map.md) — schematic lines, свързани с IT/Judicial, и hidden-backbone hypothesis.
 - [`docs/evidence/S02E05-salvador-quinn-letter.md`](docs/evidence/S02E05-salvador-quinn-letter.md) — сканирано Quinn letter и encoded final payload.
 - [`docs/evidence/S02E06-institutional-messaging.md`](docs/evidence/S02E06-institutional-messaging.md) — direct messaging, coexistence с courier и layered communication access.
@@ -298,7 +298,7 @@
 - [`docs/evidence/S02E08-silo17-multiple-survivors.md`](docs/evidence/S02E08-silo17-multiple-survivors.md)
 - [`docs/evidence/S02E09-quinn-safeguard-tunnel.md`](docs/evidence/S02E09-quinn-safeguard-tunnel.md) — Quinn: 50/51 Silos, safeguard и bottom-tunnel verification path.
 - [`docs/evidence/S02E09-hidden-lower-contact.md`](docs/evidence/S02E09-hidden-lower-contact.md) — Active lower contact и previous visitors Quinn/Meadows/George.
-- [`docs/evidence/S02E09-silo17-vault-knowledge.md`](docs/evidence/S02E09-silo17-vault-knowledge.md) — Knowledge-preservation среда във vault-а на Silo 17.
+- [`docs/evidence/S02E09-silo17-vault-knowledge.md`](docs/evidence/S02E09-silo17-vault-knowledge.md) — среда за съхраняване на знание във vault-а на Silo 17.
 - [`docs/evidence/S02E09-silo17-survivor-group.md`](docs/evidence/S02E09-silo17-survivor-group.md) — Organized survivor group и “the killer” accusation.
 - [`docs/evidence/S02E09-coercive-message.md`](docs/evidence/S02E09-coercive-message.md) — Wife/camera coercive digital message.
 - [`docs/evidence/S02E10-safeguard-poison-system.md`](docs/evidence/S02E10-safeguard-poison-system.md) — safeguard poison pipe, Level 14 и Silo 17 block.
