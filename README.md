@@ -48,7 +48,7 @@
 - публичният екран обичайно показва безплодна външна среда;
 - S01E03 изключването на захранването показва зелено състояние на самия public display;
 - S01E04 показва normal night state;
-- S01E05 показва systematic/time-dependent star-like movement на night display-а;
+- S01E05 показва систематично, зависещо от времето движение на звездоподобни светлини върху нощния екран;
 - наблюдателят в cafeteria не познава понятието „звезди“ и сам реконструира модели на движение;
 - Silo има **144 levels** и Bernard заявява **10 112 current residents**;
 - директно наблюдаваните ориентири по нива вече включват `1, 8, 9, 12, 14, 17, 23, 26, 27, 29, 30, 50, 55, 67, 70, 76, 87, 119, 120, 123, 124, 144`;
@@ -61,7 +61,7 @@
 - следователно официалният институционален запис не може автоматично да се третира като независимо установена истина;
 - Juliette търси формално основание за повторно отваряне на случая George и взема PEZ реликвата от зоната под Silo;
 - `The Syndrome` е изричен термин в света на сериала; S01E06 установява новия Deputy като конкретно засегнат персонаж, но естеството/причината остават неизвестни;
-- **няма established Syndrome ↔ magnification link** — това остава VL speculation/open question only;
+- **няма установена връзка Syndrome ↔ увеличение** — това остава само VL спекулация/отворен въпрос;
 - централизиран control center за наблюдение с множество feeds наблюдава множество вътрешни места, включително Juliette в дома ѝ;
 - ограничената Judicial база данни за реликви пази архивни `PRE-SILO` записи, а Sims/Judicial има привилегирован достъп;
 - Pre-Silo пътеводителят за Georgia установява конкретна география в САЩ/Georgia, но не локализира Silo;
@@ -253,7 +253,7 @@
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
 - [`docs/evidence/S01E02-sub-silo-construction-layer.md`](docs/evidence/S01E02-sub-silo-construction-layer.md) — hidden construction layer под Silo.
-- [`docs/evidence/S01E03-public-display-powerdown-flash.md`](docs/evidence/S01E03-public-display-powerdown-flash.md) — lush state на public display при power-down.
+- [`docs/evidence/S01E03-public-display-powerdown-flash.md`](docs/evidence/S01E03-public-display-powerdown-flash.md) — зеленото състояние на публичния екран при изключване на захранването.
 - [`docs/evidence/S01E04-sheriff-succession-and-control.md`](docs/evidence/S01E04-sheriff-succession-and-control.md) — Judicial/IT opposition и Sheriff succession conflict.
 - [`docs/evidence/S01E05-surveillance-trumbull-coverup.md`](docs/evidence/S01E05-surveillance-trumbull-coverup.md) — наблюдението, натопяването на Trumbull и невярният разказ за самоубийство.
 - [`docs/evidence/S01E05-celestial-observation.md`](docs/evidence/S01E05-celestial-observation.md) — star-like temporal behavior и lost astronomical knowledge.
@@ -484,7 +484,7 @@ Population, reproduction, profession, level structure, social mobility, trust, f
 
 Ownership, assignment, recycling, redistribution, scarcity и closed-loop use на durable goods.
 
-### Survival system
+### Система за оцеляване
 
 Разделяме правилата, които реално може да са необходими за оцеляване, от правилата, които може да служат за институционален контрол.
 
@@ -579,11 +579,11 @@ Confidence не е математическа вероятност и не за�
 5. Juliette директно достига и влиза във **втори Silo**.
 6. Голямо поле от масови човешки останки около този Silo потвърждава реална смъртоносна външна опасност при наблюдаваните условия.
 7. Текущият най-подходящ клас на опасността е **подвижна въздушна/прахова опасност**, чиято локална концентрация може временно да се разсее и после да се върне; точният механизъм токсин/патоген/частици остава неустановен.
-8. Suit sealing и breathing-support integrity влияят съществено върху survival.
+8. Уплътняването на костюма и целостта на системата за дишане влияят съществено върху оцеляването.
 9. Insider dialogue силно свързва оцеляването на Juliette със замяната на normal cleaning tape с по-добър seal.
 10. Bernard/IT получава live exterior video, свързано с Juliette, докато тя е навън.
 11. Silo 17 показва, че ако expected death на cleaner не бъде наблюдавана, може да възникне belief „outside is safe“ и mass-exit cascade.
-12. Juliette изрично идентифицира repeated lush visual sequence като cleaning-behavior trigger.
+12. Juliette изрично идентифицира повтарящата се зелена визуална последователност като поведенчески trigger за cleaning.
 13. Bernard демонстрира standalone immersive headset с preserved pre-Silo natural environment и обяснява, че работи подобно на cleaner-helmet imagery.
 14. S02E08 директно потвърждава множество живи обитатели в Silo 17 отвъд познатия досега оцелял от IT vault-а.
 
