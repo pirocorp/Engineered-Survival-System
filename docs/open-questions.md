@@ -31,7 +31,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 18. Какво точно измерва 30-дневният запис на движението — целия модел, един ярък обект или относителна позиция?
 19. Има ли repeatable daily/seasonal/monthly celestial motion?
 20. Можем ли да установим ориентацията на display-а без външно/бъдещо знание?
-21. Ако source authenticity се establish-не, може ли celestial motion да constrain latitude/location?
+21. Ако автентичността на източника се establish-не, може ли celestial motion да constrain latitude/location?
 22. Защо basic concept/vocabulary за stars е изгубен?
 23. Astronomy умишлено ли е excluded от education, или knowledge loss е broader unintended consequence?
 
@@ -862,7 +862,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S02E07 — Silo 18 continuity power / public visibility
 
-611. Какъв exact source захранва Silo 18 IT during general blackout?
+611. Какъв точният източник захранва Silo 18 IT during general blackout?
 612. Same external source architecture ли е as Silo 17, or local generation/storage/alternate feed?
 613. Колко дълго може Silo 18 IT да остане powered without normal Silo power?
 614. Кои systems inside IT remain powered — lighting only, servers, vault, communications, life support, all critical systems?
@@ -1225,7 +1225,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 871. Lukas originally влязъл ли е в mines, за да търси cross-Silo route, или е driven there primarily by pursuit?
 872. Как Lukas е оцелял/скрил се в mine sector-а?
 873. Кои groups/personnel работят постоянно в mines?
-874. Level 124 каква exact function има?
+874. Level 124 каква точната функция има?
 875. Mine tunnels overlap-ват ли hidden lower infrastructure/tunnel system?
 
 ## S03E03 — Camille / deception / lethal tasking
@@ -1243,7 +1243,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S03E04 — Juliette medication substitution / covert network
 
-886. **PARTIALLY NARROWED in S03E05:** Robert Sims е strong candidate за unknown upstream actor-а зад nurse substitution-а, но липсва direct identification.
+886. **PARTIALLY NARROWED in S03E05:** Robert Sims е силна хипотеза за unknown upstream actor-а зад nurse substitution-а, но липсва direct identification.
 887. Как upstream actor-ът знае exact treatment protocol-а и medication chain-а?
 888. Same actor ли стои зад earlier covert notes към Juliette?
 889. Nurse-ът доброволно ли участва, или е pressured/recruited?
@@ -1365,11 +1365,11 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 972. Каква formal role има той в clinic-а?
 973. Каква formal role има в planning/execution на Iran operation?
 974. Treatment-ът на сестрата съдържа ли memory suppression / retrieval blocking?
-975. **RESOLVED in S03E07:** сестрата показва fragmented recall; значителна част от autobiographical account-а ѝ идва от това, което други са ѝ казали.
-976. **STRONGLY STRENGTHENED in S03E07:** clinic treatment-ът вече има direct fragmented-memory evidence, но дали използва същото substance/protocol като Silo-era memory control остава unresolved.
+975. **RESOLVED in S03E07:** сестрата показва фрагментарен recall; значителна част от autobiographical account-а ѝ идва от това, което други са ѝ казали.
+976. **STRONGLY STRENGTHENED in S03E07:** clinic treatment-ът вече има direct фрагментарна-памет evidence, но дали използва същото substance/protocol като Silo-era memory control остава unresolved.
 977. **PARTIALLY NARROWED in S03E06:** actor-ът остава unidentified, но takeover-ът demonstrably route-ва Keen до летище/private aircraft и организирана среща.
 978. Vehicle takeover извършен ли е чрез manufacturer infrastructure, network exploit, privileged backdoor или AI control layer?
-979. **STRONGLY NARROWED in S03E06:** Keen и спътникът му explicit свързват двата events като external takeover pattern; same actor/network остава недоказан.
+979. **STRONGLY NARROWED in S03E06:** Keen и спътникът му explicit свързват двата events като external takeover pattern; същият actor/network остава недоказан.
 980. **STRONGLY NARROWED in S03E06:** character-level interpretation е common external-control pattern, но technical mechanism equivalence остава unresolved.
 981. **LARGELY RESOLVED in S03E06:** immediate objective е forced routing на Keen до летище/private aircraft и предварително организирана среща; broader purpose на срещата остава open.
 982. **STILL OPEN after S03E06:** explicit car↔aircraft linkage и doubt към Iran attribution strengthen broader-program model-а, но AI-linked actor не е direct-identified като controller.
@@ -1432,26 +1432,26 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 1024. Същият actor/network ли е поел control над aircraft по време на Iran operation?
 1025. Ако Iran attribution е false/manipulated, кой има capability и motive да го произведе?
 1026. Как AI-linked clinic/Iran actor-ът се свързва с remote-control capability и political oversight network-а?
-1027. **STRONGLY STRENGTHENED in S03E07:** sister-treatment line-ът включва fragmented recall + supplied narrative + NDA compartmentalization; relation към broader AI/Iran/Silo program остава unresolved.
+1027. **STRONGLY STRENGTHENED in S03E07:** sister-treatment line-ът включва фрагментарен recall + подаден отвън разказ + NDA compartmentalization; relation към broader AI/Iran/Silo program остава unresolved.
 
 
 ## S03E07 — exterior enforcement / Kyle–Kennedy mission
 
-1028. Какъв е exact source-ът на жуженето, чуто от Kyle и Kennedy навън?
+1028. Какъв е точният източник-ът на жуженето, чуто от Kyle и Kennedy навън?
 1029. Weapon-like crack/pop реално изстрел ли е, или друг exterior mechanism?
 1030. Какво точно означава `neutralized` в Voice report-а — killed, incapacitated, communications loss, mission denial или друго?
 1031. „Гласът“ само получава exterior status ли, или може active-но да command-ва external enforcement?
 1032. Какви sensors/relays дават на supervisory layer-а awareness за хора между Silos?
 1033. Voice report-ът за Kyle/Kennedy accurate ли е, incomplete ли е, или deliberate deception?
-1034. Radio transmission-ът genuine live contact от Kyle/Kennedy ли е?
+1034. Радиопредаването-ът genuine връзка на живо от Kyle/Kennedy ли е?
 1035. Ако transmission-ът е genuine, откъде точно transmit-ват?
 1036. Ако transmission-ът е manipulated, кой го е произвел и как е възпроизвел identity/voice/context достатъчно убедително?
 1037. Какво конкретно в radio call-а убеждава Silo 18 да прекрати Judicial/safeguard operation-а?
 
 ## S03E07 — safeguard architecture
 
-1038. Защо „Гласът“ твърди, че safeguard-ът е непреодолим, след като сам deduce-ва, че Silo 17 го е блокирал поне временно?
-1039. Safeguard има ли redundant poison delivery paths?
+1038. Защо „Гласът“ твърди, че safeguard-ът е непреодолим, след като сам прави inference, че Silo 17 го е блокирал поне временно?
+1039. Safeguard има ли redundant poison пътища за подаване?
 1040. Може ли blocked pipe да бъде remotely bypassed, rerouted или reactivated през secondary route?
 1041. Познатата line към Judicial единственият local delivery path ли е?
 1042. Silo 17 block-ът спрял ли е entire safeguard system или само primary route?
@@ -1463,8 +1463,8 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 1046. Как точно „Гласът“ получава Juliette exterior recording-а?
 1047. Какви additional observations използва, за да реконструира Silo 17 safeguard defeat?
-1048. Има ли „Гласът“ direct telemetry за safeguard state, или разчита на outcome inference?
-1049. Защо Camille и „Гласът“ трябва да infer-ват Juliette objective, ако supervisory surveillance е толкова дълбоко?
+1048. Има ли „Гласът“ direct telemetry за safeguard state, или разчита на извод от резултата?
+1049. Защо Camille и „Гласът“ трябва да правят inference за Juliette objective, ако supervisory surveillance е толкова дълбоко?
 1050. Кои blind spots позволяват safeguard-countermeasure planning да остане частично скрито?
 
 ## S03E07 — low-level console / visual control
@@ -1479,24 +1479,24 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S03E07 — sister memory / NDA / pre-Silo read-in
 
-1058. Какви specific memories сестрата на Keen пази директно и кои знае само от supplied narrative?
-1059. Clinic treatment-ът целенасочено ли е причинил fragmented recall?
+1058. Какви specific memories сестрата на Keen пази директно и кои знае само от подаден отвън разказ?
+1059. Clinic treatment-ът целенасочено ли е причинил фрагментарен recall?
 1060. Кой е предоставил replacement/supplementary autobiographical narrative на сестрата?
 1061. Каква information class вече знае сестрата под NDA?
-1062. Коя organization е страна по NDA и контролира full briefing-а?
-1063. Какъв е exact purpose/destination на aircraft след NDA signing?
+1062. Коя organization е страна по NDA и контролира пълната информация-а?
+1063. Какъв е точната цел/destination на aircraft след NDA signing?
 1064. Relation-ът между clinic memory treatment и formal NDA/read-in architecture intentional unified control design ли е?
 
 ## S03E07 — Georgia / Atlanta Silo construction
 
-1065. Каква е exact location на Silo construction field-а спрямо Atlanta?
-1066. Показаният construction field съдържа ли всичките known Silos или само subset?
+1065. Каква е точното местоположение на Silo строителната площадка-а спрямо Atlanta?
+1066. Показаният строителната площадка съдържа ли всичките known Silos или само subset?
 1067. Може ли visual evidence да establish-не точния брой едновременно изграждани Silos?
-1068. Къде в construction field-а е Silo 1?
+1068. Къде в строителната площадка-а е Silo 1?
 1069. Silo numbering определен ли е още на construction stage?
 1070. Какъв е construction order-ът и едновременно ли се строят всички units?
-1071. Как pre-Silo Georgia construction program се свързва институционално с AI/clinic/Iran actor network-а?
-1072. Exact catastrophe/trigger, заради който construction program-ът става operational survival system, вече планиран ли е на този stage?
+1071. Как pre-Silo Georgia строителната програма се свързва институционално с AI/clinic/Iran actor network-а?
+1072. Exact catastrophe/trigger, заради който строителната програма-ът става operational survival system, вече планиран ли е на този stage?
 
 ## Основен въпрос на проекта
 
