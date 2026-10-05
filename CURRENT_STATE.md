@@ -1,21 +1,53 @@
-# Текущо състояние — след S03E05
+# Текущо състояние — след S03E06
 
-**Knowledge boundary:** `S03E05`
+**Knowledge boundary:** `S03E06`
 
 ## Работен модел
 
-S03E05 превръща няколко големи неясноти в директно установена структура. Robert Sims не е убил Bernard: отказал се е в последния момент, включил е Mechanical в инсценировката на разказа за кремация и е скрил Bernard жив в deep zone. Паралелно Robert действа срещу lethal line-а на Camille, която вече е direct-confirmed като нов Head of IT.
+S03E06 свързва няколко досега отделни инфраструктурни линии. Bernard казва, че external electrical line от **Silo 1** стига до IT и го захранва. Това дава конкретен candidate mechanism за вече известното independent IT power. Отделно safeguard path-ът е разграничен като линия към Judicial; не се приема автоматично, че и тя произхожда от Silo 1.
 
-Привилегированият надзорен layer вече има direct in-world label: **„Гласът“ / the Voice**. Camille има safeguard read-in и изрична забрана да разгласява тази информация; Robert има голяма operational power, но е demonstrably compartmentalized. Bernard казва, че „Гласът“ го иска мъртъв, Lukas е открил existential kill authority над Silo, а Juliette знае как да спре safeguard-а.
+Juliette възстановява safeguard-pipe memory, но пред Camille използва селективно disclosure: признава знание за „Гласът“, Silo 17 и децата там, и иска директен разговор с „Гласът“, без да разкрива, че знае за safeguard-а и practical countermeasure-а. Camille действително я завежда при „Гласът“. Предложението за transfer на децата първоначално е неприемливо, но става обсъждаемо, след като Juliette предлага memory-suppression medication за себе си и децата.
 
-Memory-control architecture също се изяснява: The Order изрично свързва pharmacological forgetting със скриването/премахването на relics, защото relics могат да задействат връщане на suppressed memories. PEZ dispenser-ът demonstrably задейства у Juliette recall за safeguard pipe-а.
+Camille operationally пуска **Vitamin D+** във водата, превръщайки population-scale memory-suppression protocol-а от contingency в изпълнено действие. Juliette същевременно подозира, че „Гласът“ може да знае за разговор и на място без видими камери; това отваря, но не доказва, допълнителен monitoring channel.
 
-Cross-Silo communication model-ът получава конкретна architecture: всеки Silo е на различен radio channel, а **Silo 1 следи всички active frequencies**. Pre-Silo линията свързва клиниката на сестрата, влиятелен AI supporter и Iran operation, а external takeover на автомобила на Keen materially strengthens deliberate-control interpretation-а на aircraft anomaly.
+Pre-Silo линията също се стеснява: Keen и спътникът му изрично свързват remote takeover-а на автомобила с external takeover на Iran aircraft и поставят Iran attribution под съмнение. Колата не просто губи local control, а отвежда Keen до летище/private aircraft и предварително организирана среща с високопоставена фигура, свързана с Iran oversight line-а.
 
-> **След S03E05 най-силният model е: Silo governance е hierarchical и силно compartmentalized, но не monolithic. „Гласът“ стои над local Head-of-IT layer-а като привилегирован source на instructions; safeguard knowledge и whole-Silo kill authority са tightly controlled; Robert Sims води covert counter-line срещу lethal objective-а на Camille; memory control комбинира drugs + removal of retrieval cues; Silo 1 централизирано следи radio frequencies. Точната technical identity на „Гласът“, relation към Silo 1 и final safeguard command path остават unresolved.**
+> **След S03E06 най-силният model е: Silo 1 има поне две директно установени privileged инфраструктурни функции — radio monitoring и external power feed към IT. „Гласът“ остава supervisory layer с mediated direct access през Head of IT, но техническата му identity и relation към Silo 1 са unresolved. Memory suppression е активно използван governance/control инструмент, а Juliette запазва safeguard countermeasure knowledge като скрит leverage. В pre-Silo линията external vehicle/aircraft control вече е explicit linked на character level, докато реалният actor и причината за Iran attribution остават отворени.**
 ---
 
 ## Наблюдения с висок confidence
+
+### S03E06 — Silo 1 / IT power / safeguard routing
+
+- Bernard казва, че external electrical line от Silo 1 стига до IT и го захранва.
+- Това предлага конкретно обяснение за вече наблюдаваното independent IT power.
+- Safeguard path-ът е разграничен като отделна линия към Judicial.
+- Двете линии не се сливат методологично: Silo 1 origin е direct-stated за IT electrical feed-а, но не и автоматично за safeguard line-а.
+- Level 94 е direct-confirmed като нов spatial anchor.
+
+### S03E06 — Juliette / Camille / „Гласът“
+
+- Juliette доброволно се предава на Camille и настоява за разговор без камери.
+- Тя казва, че знае за „Гласът“ и че е била в Silo 17.
+- Иска „Гласът“ да позволи децата от Silo 17 да бъдат доведени в Silo 18.
+- Juliette не разкрива на Camille знанието си за safeguard-а и как може да бъде спрян.
+- Camille я завежда при „Гласът“, демонстрирайки mediated access path през Head of IT.
+- „Гласът“ първоначално не приема transfer идеята; Juliette предлага memory-suppression medication за себе си и децата и предложението започва да се разглежда.
+- Juliette подозира, че „Гласът“ знае за разговора дори без видими камери; допълнителният monitoring mechanism остава hypothesis.
+
+### S03E06 — Vitamin D+ / active memory control
+
+- Camille operationally пуска Vitamin D+ във водоснабдяването.
+- Population-scale memory-suppression protocol-ът следователно вече е показан като изпълняван, не само планиран.
+- Точната доза, продължителността на излагането, целевите спомени и дали обхватът е целият Silo остават unresolved.
+
+### S03E06 — pre-Silo external control / Iran attribution
+
+- Keen и спътникът му explicit свързват текущия car takeover с external takeover на Iran aircraft.
+- Те поставят под съмнение, че реалният actor е Iran.
+- Автомобилът отвежда Keen до летище и private aircraft.
+- Там той е насочен към среща с жена, свързана с Iran oversight/commission line-а; точната ѝ title/identity остава provisional до explicit confirmation.
+- Това демонстрира целенасочено routing + организирана наземна/авиационна логистика, но не доказва same actor зад всички takeover events.
 
 ### S03E05 — Robert / fake death на Bernard
 
@@ -112,36 +144,36 @@ Cross-Silo communication model-ът получава конкретна architec
 
 ### S03E03 — supervisory system / deception / lethal tasking
 
-- Computer/system-ът казва на Camille Sims, че е selected заради ability to lie.
-- System-ът заявява, че deception е fundamental to Head of IT role.
-- System-ът убеждава Camille, че Juliette трябва да бъде killed, за да бъде saved Silo.
-- S03E02 ambiguous `removal` в Juliette case е narrowed: може да е literal killing.
-- Camille приема lethal objective-а; execution itself remains unresolved.
+- Computer/system-ът казва на Camille Sims, че е избрана заради способността си да лъже.
+- System-ът заявява, че измамата е фундаментална част от ролята Head of IT.
+- System-ът убеждава Camille, че Juliette трябва да бъде убита, за да бъде спасен Silo.
+- Нееднозначното S03E02 `removal` спрямо Juliette е стеснено: може да означава буквално убийство.
+- Camille приема смъртоносната цел; самото изпълнение остава unresolved.
 
 ### S03E03 — Vitamin D+ / safeguard / isolation
 
 - `Vitamin D+` е contextual-но memory-suppression / forgetting chemistry.
-- Water deployment е framed като increasing survival chance.
-- Juliette is caught spitting out pills; compliance monitoring is active.
-- Any contact with another Silo is stated to be a violation leading to immediate safeguard.
-- Cross-Silo isolation therefore has fail-deadly enforcement.
+- Подаването чрез водата е представено като действие, което увеличава шанса Silo да оцелее.
+- Juliette е заловена да изплюва хапчетата; active compliance monitoring е налице.
+- Всеки контакт с друг Silo е заявен като нарушение, което води до незабавно задействане на safeguard.
+- Следователно cross-Silo isolation има fail-deadly enforcement механизъм.
 
 ### S03E03 — mines / Lukas / spatial anchors
 
-- Level 70 е direct-confirmed and tied to mine-sector access/start.
+- Level 70 е direct-confirmed и е свързан с достъпа/началото на mine sector-а.
 - Level 124 е direct-confirmed.
-- Mine interior/tunnel network е directly shown.
-- Lukas Kyle is alive in the mines.
-- Juliette and Lukas reunite there.
-- Lukas is actively pursued under Camille's control; exact original mine purpose remains unresolved.
+- Интериорът и tunnel network-ът на мините са директно показани.
+- Lukas Kyle е жив в мините.
+- Juliette и Lukas се срещат отново там.
+- Lukas е активно преследван под контрола на Camille; първоначалната exact функция на мините остава unresolved.
 
 ### S03E03 — Iran mission recording
 
-- Mission aircraft had very old communication systems installed mission-wide.
-- Communications were comparatively easy to record/capture.
-- Daniel Keen finds and listens to a surviving mission recording.
-- On return, the holder is gone and the location has been searched.
-- Actor, fate of holder and fate/content of recording remain unresolved.
+- На всички aircraft в мисията са били инсталирани много стари комуникационни системи.
+- Комуникациите са били сравнително лесни за записване/прихващане.
+- Daniel Keen намира и прослушва оцелял запис от мисията.
+- При завръщането му притежателят на записа е изчезнал, а мястото е претърсено.
+- Actor-ът, съдбата на притежателя и съдбата/съдържанието на записа остават unresolved.
 
 ### S03E02 — pre-Silo memory mechanism
 
@@ -150,7 +182,7 @@ Cross-Silo communication model-ът получава конкретна architec
 - False autobiographical story може да бъде внушена.
 - False replacement narrative изисква time/effort.
 - Real memories се връщат бързо и остават налични, но temporarily inaccessible.
-- Best-fit mechanism е retrieval/access suppression + narrative conditioning, не proven destruction.
+- Най-добрият текущ mechanism е потискане на retrieval/access + narrative conditioning, а не доказано унищожаване на спомените.
 
 ### S03E02 — supervisory computer/system
 
@@ -159,15 +191,15 @@ Cross-Silo communication model-ът получава конкретна architec
 - Juliette е modeled чрез red risk line и blue stabilizing-value line.
 - Crossing threshold означава, че Juliette вече не е useful.
 - Sudden removal е modeled като potentially catastrophically destabilizing.
-- System-ът wants `vitamins` deployed through water supply before removal becomes necessary.
-- This is population-scale contingency planning, not merely individual treatment monitoring.
+- System-ът иска `vitamins` да бъдат пуснати във водоснабдяването, преди removal да стане необходимо.
+- Това е contingency planning на population scale, а не просто monitoring на индивидуално лечение.
 
 ### S03E02 — covert notes
 
 - Note #2 насочва Juliette към first Silo Council meeting в cafeteria.
 - Note #3 е direct-confirmed, но exact transcription остава unresolved.
-- Adjacent-shot subtitles are excluded from note #3 transcription.
-- Physical covert channel persists, but is not proven invisible to supervisory system.
+- Субтитрите от съседни кадри са изключени от transcription-а на note #3.
+- Physical covert channel продължава да съществува, но не е доказано невидим за supervisory system-а.
 
 ### S03E01 — Juliette / post-return state
 
@@ -193,7 +225,7 @@ Cross-Silo communication model-ът получава конкретна architec
 - System-ът заявява, че current situation е `beyond The Order`.
 - System-ът реагира с `This concerns me`, когато Juliette започва да си спомня, и иска дозата да бъде удвоена.
 - Hidden lower tunnel е sealed; Lukas е missing.
-- Same-system/network model между този computer/system и S02E09 hidden lower contact е strongly strengthened candidate, не established identity.
+- Моделът за same-system/network връзка между този computer/system и S02E09 hidden lower contact е силно подсилен candidate, но не established identity.
 
 ### S03E01 — social/spatial state
 
@@ -952,12 +984,12 @@ Observed direct anchors включват:
 | H81 | `The Order` не е най-високият effective control layer; privileged supervisory source, наричан in-world „Гласът“, дава instructions на Head of IT и стои над ordinary local governance. | H-VH | Strengthened / Strongly Supported |
 | H82 | Post-Bernard visible governance е концентрирана около family Sims, но S03E05 direct-demonstrates internal split: Camille е Head of IT / Voice-aligned privileged layer, докато Robert covertly пази Bernard и защитава Juliette. | VH | Refactored / Strongly Supported |
 | H83 | Lukas' prior disappearance is resolved as to location: he is alive in the mines; relation между sealing, pursuit, hidden-lower knowledge и original mine intent remains unresolved. | H | Refactored / Partially Resolved |
-| H84 | Pre-Silo Iran operation включва apparent loss of pilot control / takeover-like behavior; S03E05 external takeover на автомобила на Keen materially strengthens deliberate-control interpretation-а, но same mechanism/actor остава unproven. | H-VH | Further Strengthened / Refactored |
+| H84 | Pre-Silo Iran operation включва external-takeover interpretation на aircraft; S03E06 героите explicit свързват този pattern с remote car takeover-а и поставят Iran attribution под съмнение. Same actor/mechanism остава недоказан. | H-VH | Further Strengthened / Refactored |
 | H85 | В Silo 18 съществува covert human physical communication path, способен да bypass-не ordinary/local communication controls; S03E02 показва, че supervisory computer/system nevertheless може да знае за activity-то. | H-VH | Refactored / Strongly Supported |
 | H86 | Pre-Silo и Silo-era memory-control systems share strong functional architecture: selective retrieval suppression + autobiographical narrative conditioning; exact drug/protocol lineage remains unproven. | H | New / Strongly Strengthened Candidate |
 | H87 | Supervisory computer/system explicitly models Juliette through population-stability utility vs protected-memory risk and acts on a threshold model. | H-VH | New / Strongly Supported |
-| H88 | Waterborne `Vitamin D+` is a population-scale memory-suppression contingency explicitly framed by the system as increasing Silo survival/stability before possible Juliette removal; exact target memories remain unresolved. | VH | Strengthened / Strongly Supported |
-| H89 | Original memories на Juliette остават retrievable; recovery е aided от medication substitution, а PEZ relic direct-demonstrates external retrieval-cue reactivation на safeguard memory. | VH | Further Strengthened / Strongly Supported |
+| H88 | Waterborne `Vitamin D+` е population-scale memory-suppression mechanism; S03E06 Camille operationally го пуска във водата. Exact dose, duration и target memories остават unresolved. | VH | Further Strengthened / Operationally Confirmed |
+| H89 | Original memories на Juliette остават retrievable; PEZ задейства safeguard-pipe recall, а S03E06 показва, че тя може селективно да разкрива recovered memory, докато пази safeguard countermeasure knowledge. | VH | Further Strengthened / Strongly Supported |
 | H90 | Supervisory system performs semantic behavioral assessment beyond raw feed monitoring, including evaluation of deception, covert behavior and suitability of human operatives. | VH | Strengthened / Strongly Supported |
 | H91 | Iran mission communications recording is a real surviving evidence object; the later disappearance/search suggests active suppression or retrieval by an unknown actor. | H | New / Strongly Supported Candidate |
 | H92 | Cross-Silo isolation е explicit safety rule с immediate safeguard threat; различните radio channels + Silo 1 all-frequency monitoring показват architectural isolation и plausible central detection layer. | VH | Further Strengthened / Refactored |
@@ -973,16 +1005,23 @@ Observed direct anchors включват:
 | H102 | Concealed deep-zone route е умишлено оборудван за repeated access към abyss/digger area; точните builders, users и relation към hidden lower infrastructure остават unresolved. | H-VH | New / Strongly Supported |
 | H103 | Bernard death/burning narrative е deliberate staged cover story, организирана от Robert Sims с Mechanical assistance; Bernard е скрит жив в deep zone. | VH | Resolved / Confirmed |
 | H104 | Pentagon callback discovery е частично resolved като convergence между sister's clinic, prominent AI-supporting actor и involvement в Iran operation; точната causal role остава unresolved. | VH | Refactored / Partially Resolved |
-| H105 | „Гласът“ е привилегирован supervisory instruction source над local Head-of-IT layer-а; точната technical identity и physical location остават unknown. | H-VH | New / Strongly Supported |
+| H105 | „Гласът“ е привилегирован supervisory instruction source над local Head-of-IT layer-а; S03E06 Camille осигурява mediated direct contact на Juliette с него. Точната technical identity и physical location остават unknown. | H-VH | Further Strengthened / Strongly Supported |
 | H106 | Safeguard knowledge е formal-но compartmentalized: Head of IT може да получи read-in, докато дори powerful operational insiders като Robert могат да останат excluded. | VH | New / Strongly Supported |
-| H107 | Silo 1 функционира като central radio-monitoring layer с visibility върху active Silo frequencies; точната response/automation authority остава unresolved. | VH | New / Strongly Supported |
+| H107 | Silo 1 функционира като privileged central infrastructure node: следи active Silo radio frequencies и според Bernard подава external electrical power към IT. Точната response/automation authority остава unresolved. | VH | Further Strengthened / Strongly Supported |
 | H108 | Robert Sims води covert counter-line срещу lethal objectives на Camille/Voice-aligned layer чрез Bernard concealment, Mechanical alliance и political protection на Juliette. | VH | New / Strongly Supported |
 | H109 | Robert Sims е strong candidate за unknown actor-а, инструктирал nurse-а да подменя pills на Juliette. | H | New / Candidate |
 | H110 | Relic-control policy и pharmacological memory suppression са умишлено свързани: drugs намаляват retrieval, а relic removal премахва external recall cues. | VH | New / Confirmed |
 | H111 | External relic cue може реално да reactivate suppressed/protected memory; PEZ → Juliette recall за safeguard pipe е директна демонстрация. | VH | New / Confirmed |
-| H112 | По-високият supervisory layer запазва existential kill leverage над Silo; Lukas открива този control fact, а Juliette притежава safeguard countermeasure knowledge. | H-VH | New / Strongly Supported |
+| H112 | По-високият supervisory layer запазва existential kill leverage над Silo; Juliette притежава safeguard countermeasure knowledge и S03E06 демонстративно не го разкрива на Camille/„Гласът“. | H-VH | Further Strengthened / Strongly Supported |
 | H113 | Pre-Silo clinic/AI/Iran convergence може да е част от coordinated information-control или technology program; точната institutional structure остава unresolved. | H | New / Candidate |
-| H114 | Demonstrated civilian vehicle takeover и Iran aircraft-control anomaly може да споделят related remote-control capability или actor/network, но identity/technology equivalence не е доказана. | H | New / Strengthened Candidate |
+| H114 | Civilian vehicle takeover и Iran aircraft-control anomaly са explicit linked от героите като external-control pattern; same actor/technology остава unproven, но hypothesis-ът е materially strengthened. | H-VH | Further Strengthened / Candidate |
+| H115 | External electrical feed от Silo 1 е practical mechanism за independent IT power и прави Silo 1 upstream infrastructure dependency за local IT continuity. | H-VH | New / Strongly Supported |
+| H116 | Safeguard path-ът е distinct от IT electrical feed-а и е routed към Judicial; exact source, substance route и activation hardware остават unresolved. | H-VH | New / Strongly Supported |
+| H117 | Juliette използва selective disclosure, за да получи access до „Гласът“, като запазва safeguard countermeasure knowledge извън разговора. | H | New / Strongly Supported |
+| H118 | „Гласът“ може да има awareness/monitoring channel отвъд известните видими камери; S03E06 дава само Juliette suspicion, не direct sensor proof. | M-H | New / Candidate |
+| H119 | Memory suppression е active risk-control mechanism, който може да направи otherwise unacceptable cross-Silo exception обсъждаем за supervisory layer-а. | H-VH | New / Strongly Supported |
+| H120 | Camille като Head of IT operationally изпълнява population-scale Vitamin D+ water-dosing protocol. | VH | New / Confirmed |
+| H121 | Pre-Silo external-control actor/network има capability поне за forced vehicle routing към организиран aviation handoff; relation към AI-clinic-Iran actor-а остава unresolved. | H | New / Candidate |
 
 ---
 
