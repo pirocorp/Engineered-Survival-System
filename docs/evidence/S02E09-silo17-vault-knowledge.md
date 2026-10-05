@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S02E09`
 
-S02E09 дава първото пряко визуално evidence, че Silo 17 vault съдържа large-scale preserved knowledge environment.
+S02E09 дава първото пряко визуално evidence, че vault-ът на Silo 17 съдържа мащабна запазена среда от знания.
 
 ## Direct visual evidence
 
