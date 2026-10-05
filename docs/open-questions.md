@@ -1,6 +1,6 @@
 # Отворени въпроси
 
-**Knowledge boundary:** **S03E04**
+**Knowledge boundary:** **S03E05**
 
 Въпросите са само за knowledge state-а до края на S02E10. Не се използва информация след S02E10, книги, wiki, interviews, leaks или retrospective explanations.
 
@@ -1243,7 +1243,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S03E04 — Juliette medication substitution / covert network
 
-886. Кой е unknown upstream actor, който казва на nurse-а да подменя Juliette's pills?
+886. **PARTIALLY NARROWED in S03E05:** Robert Sims е strong candidate за unknown upstream actor-а зад nurse substitution-а, но direct identification липсва.
 887. Как upstream actor-ът знае exact treatment protocol-а и medication chain-а?
 888. Same actor ли стои зад earlier covert notes към Juliette?
 889. Nurse-ът доброволно ли участва, или е pressured/recruited?
@@ -1275,16 +1275,16 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S03E04 — Bernard alive / false death
 
-909. Кой staged/misrepresented Bernard's death?
-910. Sims знае ли, че Bernard е жив?
-911. Ако Sims знае, защо разказва furnace/burning narrative?
-912. Ако Sims не знае, кой е подвел него?
+909. **RESOLVED in S03E05:** Robert Sims организира fake-death operation-а с помощ от Mechanical.
+910. **RESOLVED in S03E05:** да; Robert personally се отказва да убие Bernard и го отвежда/скрива жив под Silo.
+911. **RESOLVED in S03E05:** furnace/burning story е deliberate cover story, за да изглежда Bernard мъртъв.
+912. **CLOSED / SUPERSEDED in S03E05:** premise-ът е false; Robert знае, че Bernard е жив.
 913. Bernard доброволно ли е участвал във fake-death arrangement?
-914. Кой/какво е carried от six porters към furnaces?
-915. Имало ли е substitute body, false visual reconstruction или entirely fabricated account?
-916. Как Bernard е стигнал до deep zone?
+914. **PARTIALLY RESOLVED in S03E05:** current best direct reconstruction е Bernard himself, presented as apparent corpse within fake-death operation; exact full porter route remains to be mapped.
+915. **LARGELY RESOLVED in S03E05:** substitute body вече не е required; Bernard е moved as apparent corpse and cremation narrative е staged. Exact detail на every reconstruction shot остава secondary.
+916. **RESOLVED in S03E05:** Robert Sims го отвежда/скрива под Silo с Mechanical assistance.
 917. Кой се грижи за injured/debilitated Bernard?
-918. Защо Bernard е държан/скрит exactly там?
+918. **PARTIALLY RESOLVED in S03E05:** location serves concealment after Robert refuses to kill him; exact reason за choice of digger/deep zone and long-term plan remains open.
 919. Има ли Bernard current access/contact с supervisory computer/system?
 920. Bernard знае ли кой/какво е orchestrated Juliette memory-control program след disappearance-а му?
 
@@ -1293,8 +1293,88 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 921. Кой е recurring unidentified man и на каква organization/authority служи?
 922. Може ли той реално да deliver-не The Times job и sister-treatment continuation, и как?
 923. Recording holder-ът също co-opted/bribed ли е, или fate-ът му е различен?
-924. Какво extraordinary information е намерил Pentagon contact-ът след една седмица?
-925. Discovery-то потвърждава ли external aircraft takeover, fabricated Iran attribution, broader covert program или друга explanation?
+924. **PARTIALLY RESOLVED in S03E05:** открива convergence между actor, свързан със sister's clinic, prominent AI support и Iran-operation involvement. Exact deeper causal role remains open.
+925. **PARTIALLY NARROWED in S03E05:** later vehicle takeover strengthens deliberate external-control model; clinic/AI/Iran link supports broader-program candidate, но exact explanation remains unresolved.
+
+## S03E05 — airlock sterilization / Silo 17 discrepancy
+
+926. Защо Silo 17 не показва очевидно същия 48-hour post-sterilization inner-door lockout?
+927. Airlock protocol-ът в Silo 17 disabled, sabotaged, power-degraded или bypassed ли е?
+928. 48-hour lockout physical interlock ли е, software rule, Head-of-IT override или combination?
+929. Кой има authority да override-не inner airlock reopening restriction?
+
+## S03E05 — Robert / Camille / „Гласът“
+
+930. Кога exactly Camille научава, че Bernard е жив?
+931. Robert първоначално укрива ли Bernard от Camille, от „Гласът“, или и от двамата?
+932. „Гласът“ знае ли, че Robert е fake-нал death-а на Bernard?
+933. Защо Robert се отказва в последния момент да убие Bernard?
+934. Bernard убеждава ли Robert чрез safeguard/Lukas/Juliette knowledge?
+935. Robert's counter-line spontaneous moral reversal ли е, strategic calculation или pre-existing opposition?
+936. Camille има ли direct order от „Гласът“ за Bernard и Lukas, или extrapolate-ва от broader threat logic?
+937. Какво exact означава Head-of-IT instruction „отстрани проблема“ historically — detention, disappearance, killing или case-dependent removal?
+938. Robert колко предишни „problem removals“ е извършвал за Heads of IT?
+939. Camille знае ли, че Robert организира protests за Juliette?
+940. Как Juliette's mayoral elevation formal-но се осъществява след protests?
+941. Robert ли е unknown upstream actor-ът зад nurse pill substitution-а?
+942. Robert има ли direct connection към earlier physical covert-note network-а?
+
+## S03E05 — „Гласът“ / safeguard hierarchy
+
+943. „Гласът“ physical system, distributed software, remote human interface или друга architecture ли е?
+944. „Гласът“ physically located ли е в Silo 1, local vault infrastructure или elsewhere?
+945. Same entity ли е as S02E09 hidden lower interlocutor?
+946. Bernard direct-source ли има за claim-а, че „Гласът“ го иска мъртъв?
+947. Higher layer може ли да activate-не safeguard at will, или само при encoded trigger conditions?
+948. Как Lukas е открил existential kill authority?
+949. Какво exactly е намерил/видял Lukas?
+950. Как Juliette знае practical method-а за спиране на safeguard-а?
+951. Juliette's method physical pipe blocking ли е, control override, source interruption или combination?
+952. The Voice знае ли, че Juliette има safeguard countermeasure knowledge?
+
+## S03E05 — relics / memory retrieval
+
+953. Кои categories relics са най-силни retrieval cues — personal objects, images, texts, maps, sounds?
+954. PEZ recall-а specific autobiographical association ли активира или broader suppressed-memory state?
+955. Колко durable е relic-triggered recall след cue removal?
+956. Pharmacological suppression може ли отново да block-не recovered memory?
+957. The Order specifies ли destruction, concealment или selective controlled access за relics?
+958. Relic policy primary motive memory-control ли е, или simultaneously information censorship + recall suppression?
+959. PEZ same object ли е as pre-Silo yellow-duck PEZ gift, или provenance bridge remains candidate?
+
+## S03E05 — radio isolation / Silo 1
+
+960. Как radio channels са partitioned между Silos — fixed frequency, hopping pattern, encryption profile или combination?
+961. Ordinary Silo radios technically retunable ли са към channel на друг Silo?
+962. Silo 1 passive monitor ли е или може active-но да transmit-ва към всички Silos?
+963. Silo 1 автоматично ли detect-ва cross-Silo communication?
+964. Silo 1 monitoring direct input ли е към safeguard trigger logic?
+965. Silo 1 = „Гласът“ ли е, или separate supervisory/monitoring node?
+966. Heads of IT имат ли authorized hidden channel към Silo 1?
+967. Silo 1 следи ли само radio или и wired/data/other cross-Silo communication?
+
+## S03E05 — construction / spatial evidence
+
+968. Каква exact функция има Level 95?
+969. `FRAME ASSEMBLY + RISER INSTALLATION` board-ът от original construction ли е, training/archival visualization ли е, или another reconstruction context?
+970. Riser assembly-ът има ли relation към central stair structure, utilities, safeguard pipe или друга vertical infrastructure?
+
+## S03E05 — pre-Silo AI / clinic / Iran / vehicle takeover
+
+971. Кой точно е influential actor-ът, свързан едновременно със sister's clinic, AI support и Iran operation?
+972. Каква formal role има той в clinic-а?
+973. Каква formal role има в Iran operation planning/execution?
+974. Sister's treatment съдържа ли memory suppression / retrieval blocking?
+975. Сестрата показва ли memory gaps за Iran event-а?
+976. Same pre-Silo memory-control protocol ли се използва в clinic treatment-а?
+977. Кой поема control над автомобила на Keen/journalist?
+978. Vehicle takeover извършен ли е чрез manufacturer infrastructure, network exploit, privileged backdoor или AI control layer?
+979. Same actor/network ли е зад vehicle takeover и Iran aircraft anomaly?
+980. Same technical control mechanism ли е използван при civilian car и military aircraft?
+981. Vehicle takeover intimidation/abduction attempt ли е, или има друга immediate objective?
+982. AI-linked actor direct participant ли е в remote-control event-а?
+983. Iran aircraft control-loss deliberately engineered ли е by same emerging program?
+984. Old communications retrofit intended ли е да preserve recording/evidence срещу control-system takeover, или reason-ът е различен?
 
 ## Основен въпрос на проекта
 
