@@ -898,24 +898,24 @@ Observed direct anchors включват:
 | H88 | `Vitamin D+`, подаван чрез водата, е извънреден сценарий за потискане на паметта на ниво население, изрично представен от системата като увеличаващ оцеляването/стабилността на Silo преди възможно премахване на Juliette; точните целеви спомени остават неустановени. | VH | Strengthened / силно подкрепено |
 | H89 | Оригиналните спомени на Juliette остават възстановими, а възстановяването е съществено подпомогнато от скрито прекъсване/подмяна на лекарството за потискане; точната фармакологична идентичност остава недоказана. | H-VH | Further Strengthened / силно подкрепено Candidate |
 | H90 | Надзорната система извършва семантична поведенческа оценка отвъд наблюдението на суровия feed, включително оценка на измамата, скритото поведение и пригодността на човешки изпълнители. | VH | Strengthened / силно подкрепено |
-| H91 | Iran mission communications recording is a real surviving evidence object; the later disappearance/search suggests active suppression or retrieval by an unknown actor. | H | New / силно подкрепено Candidate |
-| H92 | Cross-Silo isolation is an explicit system safety rule enforced by immediate safeguard threat, not merely local policy/custom. | VH | New / силно подкрепено |
+| H91 | Записът на комуникациите от мисията срещу Iran е реално оцеляло evidence; последвалото изчезване/претърсване предполага активно потискане или изземване от неизвестен участник. | H | New / силно подкрепено Candidate |
+| H92 | Cross-Silo изолацията е изрично правило за безопасност на системата, налагано чрез непосредствена заплаха от safeguard-а, а не просто местна политика/обичай. | VH | New / силно подкрепено |
 | H93 | Надзорният компютър/система има човешки изпълнителен слой и може да подбира хора за принудителни/смъртоносни цели, но S03E04 показва, че околните човешки институции не са монолитни и могат да се противопоставят/саботират контрола. | H-VH | Refactored / силно подкрепено |
 | H94 | Deception is an institutional competency embedded in Head-of-IT role design, not simply Bernard's personal behavior. | H-VH | New / силно подкрепено |
-| H95 | Head-of-IT succession likely includes deliberate selection/training for deception as governance capability in addition to technical competence. | H | New / Candidate |
-| H96 | Deep-zone topology включва mine access около Level 70 плюс отделен concealed functional route: hidden door → tunnel → fixed rope descent; exact interconnection с hidden lower system остава unresolved. | H-VH | Strengthened / Refactored |
-| H97 | Old Iran-mission communications were deliberately selected for a reason connected to operational/electronic environment; exact rationale остава неустановено. | M-H | Active / Candidate |
+| H95 | Наследяването на ролята Head of IT вероятно включва умишлен подбор/обучение за измама като управленска способност наред с техническата компетентност. | H | New / Candidate |
+| H96 | Топологията на дълбоката зона включва достъп до мините около Level 70 плюс отделен скрит функционален маршрут: скрита врата → тунел → фиксирано спускане с въже; точната връзка със скритата долна система остава неустановена. | H-VH | Strengthened / Refactored |
+| H97 | Старите комуникационни системи за мисията срещу Iran са били умишлено избрани по причина, свързана с оперативната/електронната среда; точната обосновка остава неустановена. | M-H | Active / Candidate |
 | H98 | Unknown upstream actor deliberate-но нарушава Juliette's потискане на паметта protocol чрез medical nurse още преди Juliette's own non-compliance. | VH | New / силно подкрепено |
-| H99 | Juliette е подпомагана от distributed covert human network, включваща поне medical и Mechanical participants; centralized coordination е plausible, но unproven. | H | New / силно подкрепено Candidate |
+| H99 | Juliette е подпомагана от разпределена скрита човешка мрежа, включваща поне участници от medical и Mechanical; централизираната координация е правдоподобна, но недоказана. | H | New / силно подкрепено Candidate |
 | H100 | Помпената станция на Level 76 е оперативен възел в скрития маршрут за бягство/подкрепа на Juliette, но маршрутът е поне частично компрометиран/наблюдаем за преследването от страната на Sims. | H | New / силно подкрепено Candidate |
-| H101 | Pre-Silo suppression actor/network използва tailored co-optation и inducements, за да neutralize-ва investigators; violence не е единственият demonstrated method. | H-VH | New / силно подкрепено |
-| H102 | Concealed deep-zone route е intentional-но оборудван за repeated access към abyss/digger area; exact builders, users и relation to hidden lower infrastructure остават unresolved. | H-VH | New / силно подкрепено |
-| H103 | Bernard death/burning narrative е deliberately staged или materially falsified в Silo governance; exact organizer, participants и purpose остават unresolved. | H-VH | New / силно подкрепено |
-| H104 | Pentagon contact-ът е намерил material new fact за Iran anomaly/operation, но content и significance остават unresolved при S03E04 boundary. | H | New / силно подкрепено Candidate |
+| H101 | Pre-Silo участникът/мрежата за потискане използва персонализирано привличане и стимули, за да неутрализира разследващите; насилието не е единственият демонстриран метод. | H-VH | New / силно подкрепено |
+| H102 | Скритият маршрут към дълбоката зона е умишлено оборудван за многократен достъп до пропастта/digger зоната; точните строители, потребители и връзката със скритата долна инфраструктура остават неустановени. | H-VH | New / силно подкрепено |
+| H103 | Разказът за смъртта/изгарянето на Bernard е умишлено инсцениран или съществено фалшифициран в управлението на Silo; точният организатор, участниците и целта остават неустановени. | H-VH | New / силно подкрепено |
+| H104 | Контактът в Пентагона е намерил съществен нов факт за аномалията/операцията срещу Iran, но съдържанието и значението остават неустановени при knowledge boundary S03E04. | H | New / силно подкрепено Candidate |
 
 ---
 
-## Hidden lower-system model after S03E04
+## Модел на скритата долна система след S03E04
 
 ```text
 ПУБЛИЧНО НИВО / ORDINARY SILO
@@ -1018,7 +1018,7 @@ S02E02 разширява модела за скрит контрол отвъд
 
 S02E03 добавя, че привилегированият слой на Bernard включва и отдавнашно знание за failed/dead статуса на Silo 17, докато Sims демонстрира целева фармакологична способност за ограничаване на информацията. Знанието на Bernard остава частично, а не приемано за всезнаещо.
 
-S02E04 допълнително показва, че този layer **не е politically monolithic**: Bernard приписва impeachment pressure срещу Meadows на Sims, докато Sims активно mobilize-ва sentiment срещу Mechanical. Едновременно с това Bernard използва `THE ORDER`, за да shape-не отделна scapegoating operation.
+S02E04 допълнително показва, че този слой **не е политически монолитен**: Bernard приписва натиска за отстраняване на Meadows на Sims, докато Sims активно мобилизира нагласите срещу Mechanical. Едновременно с това Bernard използва `THE ORDER`, за да оформи отделна операция по натопяване.
 
 S02E05 прави йерархията по-конкретна: Bernard отстранява Sims от Security, отказва му `shadow` пътя за наследяване и го назначава за Judge. Публичната власт на Judicial и привилегированото IT наследяване следователно са отделни слоеве, докато независимото политическо влияние на Sims все още не позволява простия модел „Bernard контролира всичко“.
 
@@ -1028,7 +1028,7 @@ S02E07 добавя конкретен **механизъм за институ�
 
 S02E08 изяснява асиметрията: публичният исторически слой е умишлено прекъснат при Quinn, докато привилегированото знание оцелява достатъчно, за да може Bernard да знае скрития разказ за Quinn, а `Legacy` да запази защитен материал. Това подкрепя **контролиран исторически монопол**, а не пълно унищожаване на историята.
 
-It still does **not** establish:
+Това все още **не** установява:
 - пълния membership на този layer;
 - дали Sims знае части от `THE ORDER`;
 - who authored `THE ORDER`;
@@ -1037,7 +1037,7 @@ It still does **not** establish:
 
 ---
 
-## IT continuity / Legacy model after S02E08
+## Модел на IT приемствеността / Legacy след S02E08
 
 ```text
 SECURED IT VAULT
@@ -1070,7 +1070,7 @@ vault + residential space + Legacy + blackout-resilient IT power
 
 ---
 
-## Communications architecture after S02E06
+## Комуникационна архитектура след S02E06
 
 ```text
 GENERAL / PHYSICAL LAYER
@@ -1111,7 +1111,7 @@ radio infrastructure
 
 ---
 
-## Continuity-power / flooding model за Silo 17 след S02E05
+## Модел на резервното захранване / наводняването за Silo 17 след S02E05
 
 ```text
 normal Silo power
@@ -1142,13 +1142,13 @@ SEPARATE CONTINUITY PATH
              stop / slow flooding
 ```
 
-Това силно upgrade-ва IT от privileged information compartment към hardened **continuity infrastructure layer**.
+Това силно надгражда IT от привилегировано информационно помещение към укрепен **инфраструктурен слой за приемственост**.
 
-Exact external source, generation technology, capacity и routing остават unresolved.
+Точният външен източник, технологията за генериране, капацитетът и маршрутизацията остават неустановени.
 
 ---
 
-## Competing crisis narratives after S02E07
+## Конкуриращи се кризисни разкази след S02E07
 
 ```text
 BERNARD / IT NARRATIVE
@@ -1168,11 +1168,11 @@ PHYSICAL COUNTER-NARRATIVE
 
 Бележката доказва конкуриращи се послания, а не истинността на всяко твърдение или официално авторство от Mechanical.
 
-Blackout-ът добавя visible asymmetry: normal areas губят power, докато IT остава lit, което дава на residents direct evidence, че IT притежава privileged infrastructure.
+Blackout-ът добавя видима асиметрия: нормалните зони губят захранване, докато IT остава осветен, което дава на жителите директно evidence, че IT притежава привилегирована инфраструктура.
 
 ---
 
-## Crisis-shaping chain after S02E04
+## Верига за оформяне на кризата след S02E04
 
 ```text
 leadership / rebellion risk
@@ -1200,7 +1200,7 @@ population polarization / unrest
 
 ---
 
-## Institutional coercion chain after S01E10
+## Институционална верига на принуда след S01E10
 
 ```text
 Mayor + Sims coordinated trap
@@ -1219,7 +1219,7 @@ no independent witness established
 
 ---
 
-## Historical-erasure model after S02E08
+## Модел на историческото заличаване след S02E08
 
 ```text
 PRE-QUINN SILO
@@ -1320,7 +1320,7 @@ Historical targeting purpose срещу Flamekeeper family lines остава te
 
 ---
 
-## Season 2 close — unresolved targets
+## Край на Season 2 — неустановени цели
 
 След края на S02E10 активните falsification / future-testing targets са:
 
@@ -1328,15 +1328,15 @@ Historical targeting purpose срещу Flamekeeper family lines остава te
 - identity/function на possible 51st installation;
 - кой/какво стои зад скрития долен събеседник/система;
 - relation между lower contact и safeguard control authority;
-- upstream source и exact poison agent на safeguard-а;
-- exact trigger logic отвъд disclosure condition;
+- източникът нагоре по веригата и точният отровен агент на safeguard-а;
+- точната логика за задействане отвъд условието за разкриване;
 - как lower system detect-ва disclosure и visitors;
 - дали Level 14 safeguard interface е standardized във всички Silos;
 - как родителите в Silo 17 са открили и физически са блокирали тръбата;
 - дали block може да бъде remotely bypassed/reversed;
 - какъв stopping method Juliette има предвид;
-- exact function на burner/flame airlock cycle;
-- exact command/access path за Silo 18 hatch;
+- точната функция на цикъла на горелката/пламъка в airlock-а;
+- точният команден/достъпен път за люка на Silo 18;
 - дали Juliette's exterior warning е достигнал residents unfiltered;
 - точната хронология/date на direct pre-Silo Washington scene;
 - самоличността/ролята и институционалният достъп на жената в сцената в бара;
