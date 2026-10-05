@@ -11,7 +11,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 1. **РАЗРЕШЕНО in S01E10:** exterior-ът около Silo е barren/devastated; lush cleaner representation е false.
 2. **РАЗРЕШЕНО in S01E10:** barren representation е значително по-близко до физическата реалност; lush helmet view е deception.
 3. Cleaner helmet layer как точно се генерира — prerecorded asset, realtime render, composited overlay или друг mechanism?
-4. Публичният wall display директен live camera feed ли е или все още обработено представяне на до голяма степен реалната безплодна външна среда?
+4. Публичният wall display директен live feed от камера ли е или все още обработено представяне на до голяма степен реалната безплодна външна среда?
 5. Публичният display и шлемът на cleaner-а споделят ли един физически източник на камерата или използват отделни канали?
 6. Какъв е exact intended behavioral purpose на lush deception и защо исторически cleaners clean-ват?
 7. **ЧАСТИЧНО РАЗРЕШЕНО в S02E01:** външната опасност е реална; точният агент/механизъм, който убива стандартните cleaners, остава неизвестен.
@@ -19,7 +19,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 9. **ЧАСТИЧНО РАЗРЕШЕНО в S02E01:** масовите смъртни случаи навън без защита силно установяват реална външна опасност; точният въздушен/атмосферен агент и ролята на повредата на костюма остават неустановени.
 10. Какво вижда cleaner при helmet-layer failure/removal и има ли automatic fallback?
 11. Скрива ли lush layer bodies, neighboring Silos, terrain features или други objects deliberately?
-12. Защо public display показва lush imagery при S01E03 power-down?
+12. Защо public display показва зелено изображение при изключването на захранването в S01E03?
 13. S01E03 lush flash same asset/pipeline ли е като cleaner helmet overlay?
 14. Bernard/друг authority знаел ли е за power-down lush flash и има ли incident logs?
 15. Има ли diagnostic/log evidence за visual-state switching и cleaning-overlay delivery?
@@ -142,15 +142,15 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 102. Кой formally owns centralized surveillance infrastructure beyond Sims's confirmed operational command: Judicial, IT или separate hidden authority?
 103. Колко широко е покритието на мрежата — насочено наблюдение на определени жители, широко жилищно покритие или почти пълно вътрешно наблюдение?
 104. Как се избират targets и кой authorizes monitoring?
-105. Sheriff има ли access до surveillance data, или Juliette вижда само selected institutional material?
-106. Residents знаят ли scope-а на surveillance и има ли official/legal cover за него?
+105. Sheriff има ли достъп до данните от наблюдението, или Juliette вижда само избран институционален материал?
+106. Жителите знаят ли обхвата на наблюдението и има ли официално/правно прикритие за него?
 
 ## Judicial / Sims / command chain
 
 107. Какво е exact division of power между Mayor, Sheriff, Judicial и IT?
-108. Judicial formal investigative authority ли има, или observed parallel investigation е exceptional?
+108. Има ли Judicial формална разследваща власт, или наблюдаваното паралелно разследване е извънредно?
 109. Каква е exact authority на Judge да close cases?
-110. Каква е formal authority на Sims спрямо confirmed operational command над surveillance и covert enforcement?
+110. Каква е формалната власт на Sims спрямо потвърденото оперативно командване над наблюдението и скритото прилагане?
 111. На кого report-ва Sims?
 112. Има ли authority above Sims, която orders covert operations?
 113. Sims ли е поръчал Trumbull actions, или управлява cleanup след orders от друг layer?
@@ -323,7 +323,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S01E08 — internal communication / Level 30
 
-233. **ЧАСТИЧНО СТЕСНЕНО in S02E06:** Sheriff Department terminal directly shows `DIRECT MESSAGING`, departmental senders and named users. Кой exactly има account/terminal access beyond observed institutional users?
+233. **ЧАСТИЧНО СТЕСНЕНО в S02E06:** терминалът на Sheriff Department директно показва `DIRECT MESSAGING`, податели от отдели и назовани потребители. Кой точно има достъп до акаунт/терминал отвъд наблюдаваните институционални потребители?
 234. S02E06 увеличава значението на този въпрос: институционалното директно съобщаване е потвърдено, но достъпът на IT/Judicial до архивиране/търсене/наблюдение остава неустановен.
 235. `PRIVATE` service/channel какво означава practically?
 236. Level 30 има ли special institutional/social function или е само spatial anchor?
@@ -401,7 +401,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 282. Seal failure позволява ли external contaminant да проникне, breathing gas да изтича, или и двете?
 283. Колко дълго standard cleaner може да survive при intact vs failed seal?
 284. Bernard/Sims откъде знаят expected death point near the tree?
-285. **ЧАСТИЧНО РАЗРЕШЕНО in S02E02:** Bernard/IT получава live exterior video feed, свързан с Juliette; separate telemetry/biometrics остават unknown.
+285. **ЧАСТИЧНО РАЗРЕШЕНО в S02E02:** Bernard/IT получава live video feed от външната среда, свързан с Juliette; отделната телеметрия/биометрия остават неизвестни.
 286. Външната atmosphere сама по себе си lethal ли е при fully sealed suit?
 
 ## S01E10 — multiple Silos / exterior geography
