@@ -20,14 +20,14 @@ Pentagon contact-ът първоначално отказва да даде на
 - има роля/влияние в Iran operation-а.
 
 Това direct-confirm-ва structural convergence между:
-- sister treatment;
+- treatment-а на сестрата;
 - AI ecosystem;
 - Iran operation.
 
 ## Sister-treatment hypothesis
 
 Candidate:
-sister's treatment може да включва memory suppression / retrieval blocking, за да не си спомни чувствителни details от Iran event.
+treatment-ът на сестрата може да включва memory suppression / retrieval blocking, за да не си спомни чувствителни details от Iran event.
 
 Подкрепящ context:
 - pre-Silo memory suppression technology вече е established;
@@ -35,7 +35,7 @@ sister's treatment може да включва memory suppression / retrieval b
 - treatment е leverage point, използван и в pressure/co-optation line-а.
 
 Но S03E05 не direct-show-ва:
-- memory gaps при sister;
+- memory gaps при сестрата;
 - exact drug/protocol;
 - explicit instruction за memory suppression;
 - causal link между treatment и containment на Iran memories.
