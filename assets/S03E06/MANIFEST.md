@@ -10,10 +10,10 @@ Binary assets са качени директно в `main` с commit:
 
 | File | Git blob SHA | Role |
 |---|---|---|
-| `screenshots/level-94-primary.jpeg` | `65bfbdd8f82e5d600226ad98b64835dd5ee96f35` | Primary evidence — Level 94 spatial anchor |
-| `screenshots/no-camera-room-object.jpeg` | `ee7fee50993ae312ecc9912fe8eb49c1d167c323` | Primary evidence — Juliette / no-camera conversation concern |
-| `screenshots/industrial-work-area-emblem.jpeg` | `4dd6c0d25548e4bcfc8eaffe88dc956bf7fc0650` | Primary evidence — industrial/maintenance area and emblem |
-| `contact-sheet.jpg` | `9f25b5a89b4d202154e2dc60bd8852b5b9434281` | Auxiliary navigation asset |
+| `screenshots/level-94-primary.jpeg` | `65bfbdd8f82e5d600226ad98b64835dd5ee96f35` | Primary evidence — spatial anchor за Level 94 |
+| `screenshots/no-camera-room-object.jpeg` | `ee7fee50993ae312ecc9912fe8eb49c1d167c323` | Primary evidence — Juliette / съмнение за наблюдение без камери |
+| `screenshots/industrial-work-area-emblem.jpeg` | `4dd6c0d25548e4bcfc8eaffe88dc956bf7fc0650` | Primary evidence — индустриална/maintenance зона и емблема |
+| `contact-sheet.jpg` | `9f25b5a89b4d202154e2dc60bd8852b5b9434281` | Спомагателен navigation asset |
 
 ## Visual handling
 
