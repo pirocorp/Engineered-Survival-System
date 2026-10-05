@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S02E03`
 
-Silo 17 дава първия конкретен historical case, който силно съвпада с failed-cleaning contingency в `THE ORDER`.
+Silo 17 дава първия конкретен исторически случай, който силно съвпада със сценария за failed cleaning в `THE ORDER`.
 
 ## Historical sequence от survivor testimony
 
@@ -28,11 +28,11 @@ Survivor-ът допълнително казва, че хората са вяр
 
 Visible cleaner death вече е силно подкрепен като част от deterrence/legitimacy function на ritual-а.
 
-Failed cleaning може да счупи две свързани public expectations:
+Failed cleaning може да счупи две свързани публични очаквания:
 - cleaner изпълнява ritual-а;
 - cleaner умира видимо след това.
 
-Когато тези expectations се провалят, population може да infer-не, че official outside narrative е false.
+Когато тези очаквания се провалят, населението може да заключи, че официалният разказ за външната среда е неверен.
 
 ## H41 impact
 
