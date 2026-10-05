@@ -22,10 +22,10 @@
 | E361,E365 | `screenshots/quinn-fifty-silos-safeguard.jpeg` | 315536 | `c3e5653cef2a9fb77a10f01d74bb2d36cc1c5022` | Декодираният текст на Quinn съдържа твърдението, че Founders са построили fifty silos и са създали 'the safeguard'. |
 | E366-E368 | `screenshots/quinn-bottom-tunnel-confirmation.jpeg` | 406125 | `ff3f3f938c48fc5564522a103fc065f62942cb69` | Декодирана инструкция на Quinn: читателят да отиде на дъното на Silo, да намери tunnel и там да получи confirmation. |
 | E370 | `screenshots/coercive-camera-wife-message.jpeg` | 357270 | `d5af661e176e2d8e54f6db10a4403db93c37725a` | Digital message изисква camera-та да остане включена, получателят да не напуска и използва жена му като coercive leverage. |
-| E372-E374 | `screenshots/silo17-vault-knowledge-archive.jpeg` | 414718 | `907bcdabeb8076dfb545ada1fe8b4bb19b74e0b7` | Vault knowledge environment в Silo 17: книги, запазени материали и голям астрономически/планетарен модел. Функционално подкрепя cross-Silo knowledge-preservation слоя. |
+| E372-E374 | `screenshots/silo17-vault-knowledge-archive.jpeg` | 414718 | `907bcdabeb8076dfb545ada1fe8b4bb19b74e0b7` | Среда за съхраняване на знание във vault-а на Silo 17: книги, запазени материали и голям астрономически/планетарен модел. Функционално подкрепя cross-Silo слоя за съхраняване на знание. |
 | E375-E378 | `screenshots/silo18-bottom-tunnel.jpeg` | 479958 | `4447de7373c34cd943ddc936d02d82f529e67700` | На дъното на Silo 18 е видим реален tunnel/opening; това директно валидира буквалната насока на Quinn да се намери тунелът. |
-| E379-E380 | `screenshots/lukas-hidden-contact-quinn-reference.jpeg` | 376715 | `8bfc4a8f71a49d8a9527d0b4fc3f2bc39afa2cd8` | Lukas води двупосочен разговор с неизвестен hidden interlocutor/system в долната зона и посочва Salvador Quinn като източник. |
-| E381-E385 | `screenshots/prior-visitors-quinn-meadows-george.jpeg` | 371026 | `926849371bb52a703e98cc810a401178c2898880` | Субтитрите изреждат Salvador Quinn, Mary Meadows и George Wilkins като тримата предишни посетители, достигнали до hidden lower contact point. |
+| E379-E380 | `screenshots/lukas-hidden-contact-quinn-reference.jpeg` | 376715 | `8bfc4a8f71a49d8a9527d0b4fc3f2bc39afa2cd8` | Lukas води двупосочен разговор с неизвестен скрит събеседник/система в долната зона и посочва Salvador Quinn като източник. |
+| E381-E385 | `screenshots/prior-visitors-quinn-meadows-george.jpeg` | 371026 | `926849371bb52a703e98cc810a401178c2898880` | Субтитрите изреждат Salvador Quinn, Mary Meadows и George Wilkins като тримата предишни посетители, достигнали до скритата долна контактна точка. |
 
 ## Evidence граници
 
@@ -36,7 +36,7 @@
 - E370 документира coercive digital message; не се приема автоматично кой е sender-ът или дали threat-ът е изпълним.
 - E372–E374 показват knowledge-rich vault environment в Silo 17. Функционалната аналогия с `Legacy` в Silo 18 е силна, но помещението в Silo 17 още не е директно назовано `Legacy`.
 - E375–E378 показват, че наблюдаваната вода на дъното е плитка в конкретната зона и че реален tunnel/opening съществува.
-- E379–E380 установяват active two-way contact в hidden lower zone; кадрите не доказват дали interlocutor-ът е човек, автоматизирана система или remote operator.
+- E379–E380 установяват активен двупосочен контакт в скритата долна зона; кадрите не доказват дали събеседникът е човек, автоматизирана система или дистанционен оператор.
 - E381–E385 установяват имената Salvador Quinn, Mary Meadows и George Wilkins като тримата предишни посетители, достигнали до тази точка. Bernard не е сред тях; това не доказва само по себе си, че не е знаел за съществуването на мястото.
 - E386 (warning that disclosure will trigger `the safeguard`) е dialogue evidence; в текущия пакет няма отделен screenshot за тази реплика.
 
