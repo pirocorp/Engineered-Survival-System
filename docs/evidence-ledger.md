@@ -564,90 +564,90 @@
 | E545 | Целенасоченото лечение на паметта на Juliette и контролът на паметта на ниво население чрез водата are оперативно свързани by the same `vitamins` framing. | Cross-episode structural conclusion | H-VH | Точната химическа идентичност не е доказана. |
 | E546 | Кандидат: `vitamins`, подавани чрез водата, са предназначени да намалят дестабилизацията около бъдещо премахване на Juliette, вероятно чрез широко потискане на паметта/привързаността, свързано със скорошната криза. | Strong inference / candidate | H | Точните целеви спомени не са заявени; това не трябва да се свежда до потвърдено „забравете Juliette“. |
 
-| E547 | На всички aircraft в Iran mission-а communication systems са предварително заменени с много стари systems. | Direct dialogue / mission-history information | H-VH | Mission-wide deliberate configuration; exact reason unresolved. |
+| E547 | На всички самолети в мисията срещу Iran комуникационните системи са предварително заменени с много стари системи. | Direct dialogue / mission-history information | H-VH | Умишлена конфигурация за цялата мисия; точната причина остава неустановена. |
 | E548 | Replacement-ът е mission-level configuration, а не modification само на aircraft-а на Keen's sister. | Structural inference | H | Supported by all-aircraft wording/context. |
-| E549 | Candidate: old communications may have been selected because planners expected vulnerability/dependency in contemporary communications/electronics. | Hypothesis | M-H | Do not infer analog/EMP immunity without evidence. |
-| E550 | Старите комуникационни системи make комуникациите на мисията сравнително лесни за записване/прихващане despite encryption. | Direct dialogue / mission-history information | H-VH | Exact encryption standard and recorder remain unknown. |
-| E551 | Mission communications were therefore practically archivable/capturable by a third party or monitoring infrastructure. | Strong inference | H | Existence later confirmed by E582–E583. |
+| E549 | Кандидат: старите комуникационни системи може да са избрани, защото планиращите са очаквали уязвимост/зависимост в съвременните комуникации/електроника. | Hypothesis | M-H | Не се извежда аналогова/EMP устойчивост без evidence. |
+| E550 | Старите комуникационни системи правят комуникациите на мисията сравнително лесни за записване/прихващане въпреки криптирането. | Direct dialogue / mission-history information | H-VH | Точният стандарт за криптиране и записващото устройство остават неизвестни. |
+| E551 | Следователно комуникациите на мисията са били практически архивируеми/прихващаеми от трета страна или инфраструктура за наблюдение. | Strong inference | H | Съществуването по-късно е потвърдено от E582–E583. |
 | E552 | Candidate state: a surviving recording of Iran комуникациите на мисията may exist. | Historical hypothesis state | M | RESOLVED/CONFIRMED by E582–E583; retained as prior state. |
 | E553 | Медицинският персонал активно наблюдава дали Juliette поглъща предписаните ѝ хапчета за потискане на паметта. | Direct observed behavior | VH | Compliance monitoring is part of treatment. |
 | E554 | Nurse catches Juliette spitting the pills out instead of swallowing them. | Direct observed behavior | VH | Direct non-compliance. |
-| E555 | Memory-control protocol includes ingestion/compliance monitoring, not just prescription/delivery. | Strong inference | H-VH | Human execution layer around treatment. |
-| E556 | Juliette's returning memories can plausibly be aided by interrupted/reduced dosing. | Strong inference | H | Not established as sole cause of recovery. |
-| E557 | Computer/system-ът states that putting `Vitamin D+` into the water increases the chance of survival. | Direct system dialogue | VH | Population intervention is survival-framed. |
-| E558 | System-ът frames current Silo state as dangerously close to safeguard activation. | Direct dialogue/context | H-VH | Exact threshold remains unknown. |
+| E555 | Протоколът за контрол на паметта включва наблюдение на приемането/спазването, а не само предписване/доставка. | Strong inference | H-VH | Човешки изпълнителен слой около лечението. |
+| E556 | Връщащите се спомени на Juliette могат правдоподобно да бъдат подпомогнати от прекъснато/намалено дозиране. | Strong inference | H | Не е установено като единствена причина за възстановяването. |
+| E557 | Компютърът/системата заявява, че пускането на `Vitamin D+` във водата увеличава шанса за оцеляване. | Direct system dialogue | VH | Намесата на ниво население е представена като мярка за оцеляване. |
+| E558 | Системата представя текущото състояние на Silo като опасно близко до активиране на safeguard-а. | Direct dialogue/context | H-VH | Точният праг остава неизвестен. |
 | E559 | Water-supply intervention is presented as a survival/stability measure, not only as medical treatment. | Strong inference | H-VH | Function clarified further by E562–E563. |
 | E560 | Системата обосновава принудителното дозиране на населението чрез рамка за колективно оцеляване. | Strong inference | H | Descriptive control-model inference, not motive attribution beyond shown framing. |
 | E561 | Early candidate: `Vitamin D+` might have separate survival + memory/behavior roles. | Historical hypothesis state | M-H | SUPERSEDED by E562: contextual identification is memory-suppression/forgetting chemistry. |
 | E562 | `Vitamin D+` is identified in episode context as memory-suppression / forgetting chemistry. | Direct contextual identification | VH | Terminology clarified. |
-| E563 | System-ът therefore presents потискането на паметта на цялото население as a means to increase Silo survival probability. | Direct dialogue + established chemical function | VH | Exact target memories still unstated. |
-| E564 | Character hypothesis: Lukas may be in the mines and trying to reach/contact another Silo. | Character hypothesis | M | Location later confirmed; purpose remains unresolved. |
+| E563 | Следователно системата представя потискането на паметта на цялото население като средство за увеличаване на вероятността Silo да оцелее. | Direct dialogue + established chemical function | VH | Точните целеви спомени все още не са заявени. |
+| E564 | Hypothesis на персонаж: Lukas може да е в мините и да се опитва да достигне/контактува друг Silo. | Character hypothesis | M | Местоположението по-късно е потвърдено; целта остава неустановена. |
 | E565 | Computer/system-ът states that any contact with another Silo is a violation leading to immediate safeguard. | Direct system statement | VH | Explicit cross-Silo-contact trigger. |
 | E566 | Cross-Silo контактът е изрично условие за задействане на safeguard-а, separate from protected-lower-knowledge disclosure. | Cross-episode structural conclusion | H-VH | Expands known trigger set. |
-| E567 | Multi-Silo architecture includes actively enforced contact/information isolation backed by lethal safeguard capability. | Strong inference | H | Exact detection logic unresolved. |
+| E567 | Архитектурата на множество Silos включва активно налагана изолация на контактите/информацията, подкрепена от смъртоносната способност на safeguard-а. | Strong inference | H | Точната логика за откриване остава неустановена. |
 | E568 | S03E03 directly shows Level 124. | Direct visual evidence | VH | New пространствен ориентир. |
 | E569 | S03E03 directly shows Level 70. | Direct visual evidence | VH | New пространствен ориентир. |
 | E570 | Episode directly shows an underground mine/tunnel environment with hazardous-work visual context. | Direct visual evidence | H-VH | Mine sector is physically real/navigable. |
-| E571 | Episode context ties Level 70 to the start/access of the минния сектор. | Direct contextual/spatial information | H-VH | Exact map topology remains unresolved. |
+| E571 | Контекстът на епизода свързва Level 70 с началото/достъпа на минния сектор. | Direct contextual/spatial information | H-VH | Точната топология на картата остава неустановена. |
 | E572 | Работен пространствен модел: mine access begins at/from Level 70. | Spatial inference | H | Strongly supported by E569–E571. |
 | E573 | S03E03 directly shows the вътрешността на мините / тунелната мрежа. | Direct visual evidence | VH | Confirms mine environment. |
-| E574 | Mine zone consists of excavated rock tunnels with industrial lighting/cabling and heavy dust/aerosol context. | Direct visual evidence | H-VH | Functional details beyond shown environment remain open. |
+| E574 | Минната зона се състои от изкопани скални тунели с индустриално осветление/окабеляване и силно запрашена/аерозолна среда. | Direct visual evidence | H-VH | Функционалните детайли отвъд показаната среда остават отворени. |
 | E575 | Direct mine visuals strengthen the Level-70-to-mine-access model. | Cross-scene support | H | Does not independently prove full vertical extent. |
 | E576 | Lukas Kyle is alive and located in the mines. | Direct episode reveal | VH | Resolves prior missing-location uncertainty. |
 | E577 | Juliette and Lukas reunite in the минния сектор. | Direct episode event | VH | Direct continuity. |
-| E578 | Earlier hypothesis that Lukas had gone into the mines is confirmed as to location; exact purpose, including cross-Silo intent, remains unresolved. | Hypothesis refinement | H-VH | Preserves distinction between location and motive. |
+| E578 | По-ранната hypothesis, че Lukas е отишъл в мините, е потвърдена по отношение на местоположението; точната цел, включително евентуален cross-Silo замисъл, остава неустановена. | Hypothesis refinement | H-VH | Запазва разграничението между местоположение и мотив. |
 | E579 | Camille Sims sends/dispatches people after Lukas following concern about his activity/location. | Direct episode action + context | H-VH | Exact order wording may be indirect; pursuit itself is established. |
 | E580 | Lukas moves into/through the минния сектор under active pursuit rather than as an unconstrained exploration. | Direct sequence / causal inference | H-VH | Original reason for entering remains separable from later flight. |
 | E581 | Juliette meets Lukas in the mines after the pursuit sequence. | Direct continuity | VH | Confirms sequence relation. |
 | E582 | Daniel Keen finds a person who possesses a recording of Iran комуникациите на мисията. | Direct episode event | VH | Confirms E552 candidate. |
 | E583 | Keen лично прослушва записа. | Direct episode event | VH | Recording existence is established. |
-| E584 | Keen later returns to obtain the recording, but the holder is gone. | Direct episode event | VH | Disappearance established; cause unknown. |
+| E584 | Keen по-късно се връща, за да вземе записа, но притежателят го няма. | Direct episode event | VH | Изчезването е установено; причината е неизвестна. |
 | E585 | The location has been searched/disturbed between Keen's visits. | Direct visual/narrative evidence | H-VH | Indicates intervention by another actor. |
-| E586 | Someone else appears to have reacted to the recording, its holder, or both. | Strong inference | H | Actor and purpose unresolved. |
+| E586 | Изглежда, че някой друг е реагирал на записа, неговия притежател или и двете. | Strong inference | H | Участникът и целта остават неустановени. |
 | E587 | Candidate: holder may have been removed/intimidated/silenced and recording seized because its content was sensitive. | Hypothesis | M-H | Multiple alternatives remain viable. |
-| E588 | After the mine-sector events, Juliette is again in hospital / medical care. | Direct episode state | H-VH | Exact injury chain not fully reconstructed here. |
+| E588 | След събитията в минния сектор Juliette отново е в болница / под медицински грижи. | Direct episode state | H-VH | Точната верига на нараняванията не е напълно реконструирана тук. |
 | E589 | Computer/system-ът tells Camille Sims that she was selected because of her ability to lie. | Direct system dialogue | VH | Explicit selection criterion. |
 | E590 | Camille is selected as a human operational asset specifically because deception is a useful competency. | Strong inference | H-VH | Not merely incidental character trait. |
 | E591 | Computer/system-ът directs/persuades Camille that Juliette must be killed in order to save the Silo. | Direct dialogue / persuasion context | VH | Lethal objective is explicit. |
-| E592 | Supervisory system has a човешки изпълнителен слой: it can select an operative by поведенческа черта and steer that operative toward принудително/смъртоносно действие. | Structural conclusion | H-VH | Exact formal command authority remains unresolved. |
+| E592 | Надзорната система има човешки изпълнителен слой: може да избира изпълнител по поведенческа черта и да насочва този човек към принудително/смъртоносно действие. | Structural conclusion | H-VH | Точната формална командна власт остава неустановена. |
 | E593 | In Juliette's case, S03E02 `removal` can escalate to literal killing, not merely removal from office/isolation. | Cross-episode resolution | H-VH | Does not make every future use of `removal` synonymous with death. |
 | E594 | Computer/system-ът states that deception is fundamental to the Head of IT role. | Direct system dialogue / role description | VH | Institutional-role clue. |
 | E595 | Deception is therefore structural to Head-of-IT role design, not only a personal tactic of Bernard. | Strong institutional inference | H-VH | Exact training/selection process remains open. |
-| E596 | Candidate: Head-of-IT succession/selection includes deliberate preparation for deception as governance competency, not only technical competence. | Hypothesis | H | Direct training process not yet shown. |
+| E596 | Кандидат: наследяването/подборът за Head of IT включва умишлена подготовка за измама като управленска компетентност, а не само техническа компетентност. | Hypothesis | H | Директен процес на обучение все още не е показан. |
 | E597 | Computer/system-ът successfully persuades Camille that Juliette must be killed to save the Silo. | Direct dialogue / persuasion outcome | H-VH | Shows persuasion, not only instruction. |
 | E598 | Camille приема смъртоносната цел against Juliette and is no longer only a пасивен получател на насоки от системата. | Direct behavioral/dialogue conclusion | H-VH | Whether she will execute it remains unresolved. |
 
-| E599 | Същата medical nurse, която наблюдава memory-suppression pills на Juliette, ѝ помага да escape-не от hospital-а. | Direct episode event | VH | Nurse role changes from treatment compliance to активна помощ. |
+| E599 | Същата медицинска сестра, която наблюдава хапчетата на Juliette за потискане на паметта, ѝ помага да избяга от болницата. | Direct episode event | VH | Ролята на медицинската сестра се променя от контрол на спазването на лечението към активна помощ. |
 | E600 | Escape/rescue-ът се случва, докато Camille Sims е при computer/system-а във връзка с lethal objective-а срещу Juliette. | Direct temporal/sequence context | H-VH | Establishes concurrent control vs escape tracks. |
-| E601 | Medical-control layer-ът не е напълно loyal/monolithic; поне един insider активно помага на Juliette срещу impending Sims/system action. | Structural inference | H | Scope of insider network unresolved. |
+| E601 | Медицинският контролен слой не е напълно лоялен/монолитен; поне един вътрешен човек активно помага на Juliette срещу предстоящо действие на Sims/системата. | Structural inference | H | Обхватът на мрежата от вътрешни лица остава неустановен. |
 | E602 | Daniel Keen и journalist-ът променят routine-а си, защото смятат, че actor-ът зад recording-holder disappearance може да е threat и за тях. | Direct character decision + threat assessment | VH | Their attribution remains belief, not established fact. |
 | E603 | „Същият actor е след нас“ остава character threat assessment. | Epistemic boundary | H | No independent confirmation yet. |
 | E604 | Journalist-ът дава на Keen конкретен rendezvous address за 22:00. | Direct dialogue / operational instruction | VH | Evasion plan. |
 | E605 | Keen е инструктиран до срещата да не се прибира у дома и да избягва normal routine. | Direct operational instruction | VH | Counter-surveillance/evasion behavior. |
 | E606 | Keen/journalist преминават от investigation към active evasion behavior. | Strong inference | H-VH | Live-threat perception. |
-| E607 | След hospital escape-а Juliette е активно издирвана. | Direct episode state | VH | Sims-side pursuit begins. |
+| E607 | След бягството от болницата Juliette е активно издирвана. | Direct episode state | VH | Започва преследване от страната на Sims. |
 | E608 | Mechanical friend на Juliette чува Sims да говори/дава информация, че Juliette се издирва. | Direct overheard dialogue/event | H-VH | Search status becomes known to ally. |
-| E609 | Hospital escape-ът води до активно преследване/търсене от страната на Sims. | Direct causal sequence | H-VH | Exact command chain unresolved. |
+| E609 | Бягството от болницата води до активно преследване/търсене от страната на Sims. | Direct causal sequence | H-VH | Точната командна верига остава неустановена. |
 | E610 | Nurse-ът казва, че още преди Juliette да започне сама да изплюва pills, тя вече е подменяла memory-suppression лекарство-а. | Direct dialogue | VH | Major timing correction. |
 | E611 | Nurse-ът казва, че е започнала substitution-а, защото неизвестен човек ѝ е казал/наредил да го направи. | Direct testimony | VH | Upstream actor unknown. |
-| E612 | Според nurse-а early pill substitution е помогнала на Juliette да започне да си спомня. | Direct causal testimony | H-VH | Supports causal role; exact pharmacology unresolved. |
+| E612 | Според медицинската сестра ранната подмяна на хапчетата е помогнала на Juliette да започне да си спомня. | Direct causal testimony | H-VH | Подкрепя причинна роля; точната фармакология остава неустановена. |
 | E613 | Някой извън ordinary treatment chain е проникнал в medical-control process-а и covertly е sabotaged memory-suppression protocol-а. | Strong inference | H-VH | Derived from E610–E612. |
-| E614 | Nurse-ът е част от broader covert intervention chain с unknown upstream actor. | Strong inference | H | Network topology unresolved. |
-| E615 | Nurse-ът инструктира Juliette да отиде до pump station на Level 76. | Direct dialogue / destination instruction | VH | New operational node. |
-| E616 | Level 76 е direct-confirmed пространствен ориентир и съдържа/е свързан с pump station. | Direct spatial evidence | VH | New level anchor. |
+| E614 | Медицинската сестра е част от по-широка скрита верига за намеса с неизвестен участник нагоре по веригата. | Strong inference | H | Топологията на мрежата остава неустановена. |
+| E615 | Медицинската сестра инструктира Juliette да отиде до помпената станция на Level 76. | Direct dialogue / destination instruction | VH | Нов оперативен възел. |
+| E616 | Level 76 е директно потвърден пространствен ориентир и съдържа/е свързан с помпена станция. | Direct spatial evidence | VH | Нов ориентир по ниво. |
 | E617 | Помпената станция на Level 76 е next operational node по скрития маршрут за подкрепа-а. | Strong inference | H-VH | Purpose beyond handoff unresolved. |
 | E618 | Keen и journalist-ът се укриват/срещат в дома на бившия partner на journalist-а. | Direct episode location | VH | Rendezvous location. |
 | E619 | 22:00 address-ът е residence, свързан с ex-partner на journalist-а. | Direct contextual clarification | H-VH | Confirms alternate-location choice. |
 | E620 | Избран е location извън normal residences/routines, consistent с evasion/counter-surveillance. | Strong inference | H | Does not prove active tail at that moment. |
 | E621 | Keen успява да организира среща с Pentagon contact. | Direct episode event | VH | Defense-establishment access. |
-| E622 | Keen прехвърля investigation-а към internal military/defense source. | Strong inference | H-VH | Exact rank/access unknown. |
-| E623 | Juliette стига до pump station на Level 76 и там я чака Sims. | Direct episode event | VH | Interception/contact point. |
-| E624 | Level 76 pump station е contested contact point с Sims-side presence. | Strong inference | H-VH | Exact reason Sims knew route unresolved. |
-| E625 | Candidate set: route compromised, Sims anticipated movement, or pump station was intended intercept/meeting point. | Structured hypothesis set | M-H | No single explanation established. |
-| E626 | Mechanical friend на Juliette също е present в pump station по време на Sims encounter-а. | Direct episode event | VH | Support node confirmed. |
-| E627 | Mechanical friend активно помага на Juliette да escape-не от Sims. | Direct episode action | VH | Direct ally intervention. |
-| E628 | Level 76 pump station е част от активна мрежа за подкрепа/бягство, не случайна destination. | Strong inference | H | Coordination scope unresolved. |
-| E629 | Sims-side pursuit has sufficient situational awareness to intercept Juliette at a support node, но Mechanical ally disrupt-ва interception-а. | Strong inference | H | Exact surveillance source unresolved. |
+| E622 | Keen прехвърля разследването към вътрешен военен/отбранителен източник. | Strong inference | H-VH | Точният ранг/достъп е неизвестен. |
+| E623 | Juliette стига до помпената станция на Level 76 и там я чака Sims. | Direct episode event | VH | Точка на пресрещане/контакт. |
+| E624 | Помпената станция на Level 76 е оспорвана контактна точка с присъствие на страната на Sims. | Strong inference | H-VH | Точната причина Sims да знае маршрута остава неустановена. |
+| E625 | Набор от кандидати: маршрутът е компрометиран, Sims е предвидил движението или помпената станция е била планирана точка за пресрещане/среща. | Structured hypothesis set | M-H | Нито едно обяснение не е установено. |
+| E626 | Приятелят на Juliette от Mechanical също присъства в помпената станция по време на срещата със Sims. | Direct episode event | VH | Точката за подкрепа е потвърдена. |
+| E627 | Приятелят от Mechanical активно помага на Juliette да избяга от Sims. | Direct episode action | VH | Директна намеса на съюзник. |
+| E628 | Помпената станция на Level 76 е част от активна мрежа за подкрепа/бягство, а не случайна дестинация. | Strong inference | H | Обхватът на координацията остава неустановен. |
+| E629 | Преследването от страната на Sims има достатъчна ситуационна осведоменост, за да пресрещне Juliette в точка за подкрепа, но съюзникът от Mechanical нарушава пресрещането. | Strong inference | H | Точният източник на наблюдението остава неустановен. |
 | E630 | Juliette продължава да иска да стигне до abyss/digger area. | Direct stated objective | VH | Deep-zone goal persists. |
 | E631 | Known/обичайният достъп към deep-zone е sealed. | Direct episode state | VH | Refined by E650–E657: скритият достъп остава функционален. |
 | E632 | Mechanical friend се съгласява да отведе Juliette толкова близо до deep-zone, колкото е възможно. | Direct dialogue / action plan | VH | Support continues. |
