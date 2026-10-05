@@ -195,7 +195,7 @@
 | E181 | Далечен разрушен/подобен на град skyline се вижда отвъд полето със Silos. | Direct visual observation | H | Не се извежда идентичност на града или географско местоположение. |
 | E182 | Официална табела `THE SYNDROME` съдържа прогресивен списък със симптоми, включително частично четими потрепване/треперене и по-късно двигателно/когнитивно/нервно-системно нарушение. | Direct visual / institutional medical information | H | Дребният текст е замъглен; точната формулировка не се транскрибира прекомерно. |
 | E183 | Контекстът на сцената идентифицира дъното като Level 144; зоната съдържа големи аксиални вентилатори и вентилационна / air-handling инфраструктура. | Direct observation + scene-context spatial identification | H | `144` не е видимо изписано в избрания кадър. |
-| E184 | `ROTA` board в Janitorial closet е организиран по day, `LEVEL NO.`, time slots и assigned names/initials. | Direct visual evidence | VH | Доказва structured level-by-level scheduling; purpose отвъд scheduling остава unresolved. |
+| E184 | Таблото `ROTA` в помещението на Janitorial е организирано по ден, `LEVEL NO.`, времеви слотове и присвоени имена/инициали. | Direct visual evidence | VH | Доказва структурирано планиране по нива; целта отвъд планирането остава неустановена. |
 | E185 | S02E01 показва голяма вътрешна земеделска/отглеждаща зона, интегрирана между нивата на Silo, с гъсти редове култури и инфраструктура за напояване/оросяване. | Direct visual evidence | VH | Установява земеделието като значима подсистема за обитаване; видовете култури и самодостатъчността са неизвестни. |
 | E186 | Стените от ерата на Rebellion във втория Silo съдържат явни anti-Founder / anti-deception графити, включително `LIARS`. | Direct visual evidence + scene-context temporal identification | VH | Установява историческа враждебност към Основателите; точната причина и истинността на обвиненията остават неустановени. |
 | E187 | Ръкописно съобщение дава 15-минутно предупреждение, свързано с генератора, по време на историческия конфликт във втория Silo. | Direct written evidence + scene context | H | Точният автор/адресат и връзката с атаката срещу IT остават неустановени. |
@@ -455,11 +455,11 @@
 | E437 | Началното състояние показва Juliette като Mayor в Silo 18. | Direct scene / user-confirmed context | H-VH | Формалната роля е установена от контекста на епизода; точният механизъм на назначаването остава неустановен. |
 | E438 | Juliette е обратно вътре в Silo 18 след S02E10 return/airlock sequence. | Direct continuity | VH | Потвърждава survival и successful re-entry. |
 | E439 | Началната последователност е на Level 1 / Up-top. | User-confirmed spatial context | H | Самият избран кадър няма отделен видим маркер `1`. |
-| E440 | Cafeteria е на Level 1 / Up-top. | User-confirmed scene geography | H-VH | Re-confirms S02E10 spatial model. |
+| E440 | Cafeteria е на Level 1 / Up-top. | User-confirmed scene geography | H-VH | Потвърждава отново пространствения модел от S02E10. |
 | E441 | Cafeteria на Level 1 е свързана с маршрута към групата airlock/външен изход. | User-confirmed scene geography | H | Точният план на етажа остава неустановен. |
 | E442 | S03E01 се връща към direct pre-Silo Washington timeline от S02E10. | Direct narrative continuity | H-VH | Washington line е ongoing, не еднократен epilogue. |
 | E443 | Congressman-ът от Georgia's 15th congressional district е named Daniel Keen. | Direct dialogue/subtitle | VH | Разрешава identity, която в S02E10 беше само по office/district. |
-| E444 | Juliette, въпреки че е Mayor, продължава да бъде наблюдавана чрез вътрешна система за наблюдение. | Direct visual evidence | VH | Formal office не я изважда от surveillance layer-а. |
+| E444 | Juliette, въпреки че е Mayor, продължава да бъде наблюдавана чрез вътрешна система за наблюдение. | Direct visual evidence | VH | Формалната длъжност не я изважда от слоя за наблюдение. |
 | E445 | Juliette заявява значителни пропуски в паметта около скорошни събития и това какво трябва да направи. | Direct character statement | H-VH | По-късно фармакологично потискане е директно потвърдено. |
 | E446 | Early memory-gap pattern е compatible с known Silo memory-suppression capability. | Provisional cross-evidence inference | M-H | Later resolved/strengthened by E490/E494. |
 | E447 | Sims лично наблюдава Juliette през central наблюдение/контрол-room feed. | Direct visual + user-confirmed character context | H-VH | Показва operational involvement. |
@@ -480,9 +480,9 @@
 | E462 | Later reveal показва, че Bernard не е умрял просто от outside hazard или flame-cycle; той е killed by other people. | Episode revelation | H-VH | Major causal correction. |
 | E463 | По-ранният разказ на Sims за смъртта на Bernard е съществено невярен или подвеждащ. | Contradiction analysis | H-VH | Запазва отделно по-ранното свидетелство и по-късната корекция. |
 | E464 | След Bernard family Sims държи фактически доминиращ контрол върху Silo 18 управленски/контролен слой. | Episode state + user-confirmed context | H | Точните формални титли/разпределение на ролите остават unresolved. |
-| E465 | Authority е концентрирана около family Sims, докато Juliette е formal Mayor. | Structural inference | H | Не означава автоматично total control над всички layers. |
+| E465 | Властта е концентрирана около семейство Sims, докато Juliette е формален Mayor. | Structural inference | H | Не означава автоматично пълен контрол над всички слоеве. |
 | E466 | Институционалната/контролна архитектура е запазена по същество; сменени са хората на върха. | Structural continuity inference | H | Същата архитектура, ново ръководство. |
-| E467 | Juliette е formal Mayor, но остава surveilled и informationally constrained. | Cross-evidence inference | H | Formal political authority ≠ privileged information/control authority. |
+| E467 | Juliette е формален Mayor, но остава наблюдавана и информационно ограничена. | Cross-evidence inference | H | Формална политическа власт ≠ привилегирована власт над информацията/контрола. |
 | E468 | От завръщането на Juliette в Silo 18 са минали приблизително три месеца. | Direct dialogue/context | H-VH | Коригира live provisional reading, че three months е от governance change. |
 | E469 | Current Silo 18 timeline е ~3 months след S02E10 return/airlock sequence. | Temporal inference | H | Anchor за post-return state. |
 | E470 | Daniel Keen има сестра, която участва в ответна операция срещу Iran. | Direct dialogue/context | H | Точната служба/роля остава неустановена. |
@@ -491,10 +491,10 @@
 | E473 | Формацията навлиза в облак/район, след което започва аномално техническо нарушение. | Observed/character operational sequence | H | Механизмът е неизвестен. |
 | E474 | Disruption-ът засяга multiple aircraft / squadron, не само един самолет. | Episode event | H | Common-mode pattern. |
 | E475 | Засегнати са и launched missiles към Iran, не само aircraft. | Episode event | H | Разширява affected-system class. |
-| E476 | Aircraft + missile failures imply external/common-mode effect, а не single-aircraft mechanical failure. | Strong inference | H | Не идентифицира mechanism или actor. |
+| E476 | Отказите на самолетите + ракетите предполагат външен/еднотипен ефект, а не механичен отказ на един самолет. | Strong inference | H | Не идентифицира механизма или участника. |
 | E477 | Сестрата на Daniel Keen survives operation/anomalous disruption. | Episode outcome | H | Disruption не е automatically lethal за all crew. |
 | E478 | Тунелът под Silo 18 към скрития долен слой е физически запечатан. | Episode state | H | Промяна в състоянието на достъпа. |
-| E479 | Stated reason за sealing-а е да се спре youth access към опасната зона. | Institutional/character rationale | H | Не доказва, че това е full/true motive. |
+| E479 | Заявената причина за запечатването е да се спре достъпът на младежи до опасната зона. | Institutional/character rationale | H | Не доказва, че това е пълният/истинският мотив. |
 | E480 | Lukas Kyle е в неизвестност; текущото му местонахождение е неизвестно. | Episode state | H | Значим неустановен статус. |
 | E481 | Sealed tunnel + missing Lukas може да са свързани с knowledge containment. | Hypothesis | M | Causal link не е established. |
 | E482 | S03E01 директно показва Level 87. | Direct visual evidence | VH | Нов confirmed level anchor. |
@@ -516,31 +516,31 @@
 | E498 | Компютърът/системата реагира негативно на това, че Juliette си спомня, че е трябвало да направи нещо важно. | Direct system behavior/dialogue | H-VH | Възстановяването на паметта се третира като риск. |
 | E499 | Възстановяването на паметта е свързано със задачата за спиране на safeguard-а / блокиране на тръбата с отровата. | Cross-scene continuity | H | Точният възстановен детайл може да остава непълен. |
 | E500 | Computer/system-ът казва `This concerns me` за memory-recovery development. | Direct visual/dialogue evidence | VH | Explicit evaluative response. |
-| E501 | Computer/system-ът requests/orders doubled memory-suppression dose for Juliette. | Direct system dialogue | VH | Direct intervention in treatment. |
+| E501 | Компютърът/системата изисква/нарежда удвоена доза за потискане на паметта на Juliette. | Direct system dialogue | VH | Директна намеса в лечението. |
 | E502 | Компютърът/системата има оперативно влияние върху фармакологичния протокол за контрол на паметта, а не само достъп за четене. | Strong inference | H-VH | Точната командна верига/власт остава неизвестна. |
 | E503 | Juliette получава писмена бележка от неидентифициран подател. | Direct episode event | H | Подателят е неизвестен. |
 | E504 | Съдържанието на бележката първоначално е скрито/само частично видимо за зрителя. | Narrative/evidence limitation | VH | Предотвратява преждевременен извод за подателя/съобщението. |
 | E505 | Бележката е скрита в храната на Juliette. | Direct event | VH | Скрит канал за доставка. |
 | E506 | Каналът чрез храната/таблата вероятно се използва за заобикаляне на обичайното наблюдение. | Operational inference | H | Исторически извод от S03E01; S03E02 E516–E519 показва, че надзорният компютър/система въпреки това знае за поведението около скритите бележки, така че заобикалянето се отнася най-много до обикновени/локални канали, а не до доказана слепота на системата. |
 | E507 | Juliette връща таблата с купата умишлено обърната надолу. | Direct behavior | H-VH | Значението по-късно е изяснено от текста на бележката. |
-| E508 | Upside-down bowl is covert acknowledgment signal instructed by the note. | Cross-evidence conclusion | H-VH | Upgrades earlier live candidate state. |
-| E509 | Note clearly begins with `Want to know the truth.` | Direct visual text | VH | Exact quote retained. |
-| E510 | Note instructs Juliette to leave her bowl upside down. | Direct/partially legible written text + behavior match | H-VH | Confirmed by subsequent action. |
-| E511 | Juliette follows the bowl instruction, confirming participation in the covert contact protocol. | Behavioral confirmation | H | Does not identify sender. |
-| E512 | Note instructs Juliette to go to the marketplace on Level 2. | Direct written text + subtitle | VH | Corrects earlier live provisional misread as `shaft 2`. |
-| E513 | Note contains explicit instruction `BURN THIS`. | Direct visual text | VH | Exact text visible. |
-| E514 | Juliette burns the note after reading it. | Direct visual behavior | VH | Implements destruction instruction. |
-| E515 | Reconstructed instruction chain is: `Want to know the truth` → bowl upside down → marketplace on Level 2 → `BURN THIS`. | Cross-frame reconstruction | H-VH | Minor punctuation/line-break uncertainty only; earlier `shaft 2` reading is superseded. |
+| E508 | Обърнатата надолу купа е скрит сигнал за потвърждение, указан от бележката. | Cross-evidence conclusion | H-VH | Надгражда по-ранното временно състояние на кандидата. |
+| E509 | Бележката ясно започва с `Want to know the truth.` („Искаш ли да знаеш истината.“) | Direct visual text | VH | Точният цитат е запазен. |
+| E510 | Бележката инструктира Juliette да остави купата си обърната надолу. | Direct/partially legible written text + behavior match | H-VH | Потвърдено от последващото действие. |
+| E511 | Juliette изпълнява инструкцията с купата, потвърждавайки участие в скрития протокол за контакт. | Behavioral confirmation | H | Не идентифицира подателя. |
+| E512 | Бележката инструктира Juliette да отиде на пазара на Level 2. | Direct written text + subtitle | VH | Коригира по-ранното временно погрешно прочитане като `shaft 2`. |
+| E513 | Бележката съдържа изрична инструкция `BURN THIS` („ИЗГОРИ ТОВА“). | Direct visual text | VH | Точният текст е видим. |
+| E514 | Juliette изгаря бележката, след като я прочита. | Direct visual behavior | VH | Изпълнява инструкцията за унищожаване. |
+| E515 | Реконструираната верига от инструкции е: `Want to know the truth` („Искаш ли да знаеш истината“) → купата обърната надолу → пазарът на Level 2 → `BURN THIS` („ИЗГОРИ ТОВА“). | Cross-frame reconstruction | H-VH | Има само дребна несигурност в пунктуацията/новите редове; по-ранното прочитане `shaft 2` е заменено. |
 
-| E516 | Computer/system-ът знае за covert note-а, получен от Juliette през food/tray channel. | Direct system dialogue + context | H-VH | Physical note не е blind spot за supervisory layer. |
-| E517 | System-ът знае, че Juliette е скрила/отрекла note-а пред Mrs Sims. | Direct system dialogue + context | H-VH | Demonstrates context beyond simple note detection. |
+| E516 | Компютърът/системата знае за скритата бележка, получена от Juliette чрез канала храна/табла. | Direct system dialogue + context | H-VH | Физическата бележка не е сляпа зона за надзорния слой. |
+| E517 | Системата знае, че Juliette е скрила/отрекла бележката пред Mrs Sims. | Direct system dialogue + context | H-VH | Демонстрира контекст отвъд простото откриване на бележката. |
 | E518 | Computer/system-ът оценява решението на Juliette да излъже като concerning. | Direct dialogue / visual evidence | VH | Explicit semantic/risk evaluation. |
 | E519 | Системата има семантична ситуационна осведоменост: реконструира контекста на поведението/измамата, а не само показва суровия feed. | Strong inference | H | Естеството/реализацията остават неизвестни; това не е достатъчно, за да се обозначи като потвърден AI. |
 | E520 | Daniel Keen посещава surviving sister-а си в hospital след Iran operation. | Direct narrative event | H | Continues pre-Silo timeline. |
 | E521 | Sister-а на Keen не го разпознава/не си спомня Daniel. | Direct behavior/dialogue | H-VH | Establishes selective autobiographical memory problem. |
-| E522 | Treating doctor-ът казва, че неговото treatment е responsible за това тя да не помни Daniel. | Direct physician statement | H-VH | Responsibility belongs to treatment/doctor, not Daniel. |
-| E523 | Pre-Silo medicine demonstrably includes deliberate/selective memory manipulation capability. | Cross-dialogue conclusion | H-VH | Strengthened by E524–E533. |
-| E524 | Doctor-ът казва, че чрез лекарство/treatment могат да изберат кои memories да restore-нат и кои да omit-нат. | Direct physician statement | VH | Direct selective-memory capability. |
+| E522 | Лекуващият лекар казва, че неговото лечение е отговорно за това тя да не помни Daniel. | Direct physician statement | H-VH | Отговорността е на лечението/лекаря, а не на Daniel. |
+| E523 | Pre-Silo медицината демонстрирано включва умишлена/избирателна способност за манипулиране на паметта. | Cross-dialogue conclusion | H-VH | Засилено от E524–E533. |
+| E524 | Лекарят казва, че чрез лекарство/лечение могат да изберат кои спомени да възстановят и кои да пропуснат. | Direct physician statement | VH | Директна способност за избирателна работа с паметта. |
 | E525 | Лекарят описва процес на възстановяване, който включва многократно разказване на собствената история на пациентката. | Direct physician statement | VH | Установява компонент за подсилване чрез разказ. |
 | E526 | Pre-Silo лечение на паметта combines фармакологичен подбор/потискане with repeated автобиографичен разказ. | Strong cross-evidence inference | H-VH | Точното лекарство и невронният механизъм остават неизвестни. |
 | E527 | Juliette's невярната история за `bunker` functionally parallels pre-Silo техника за обусловяване чрез разказ. | Cross-era structural inference | H | Не е доказана една и съща приемственост на протокола/лекарството. |
@@ -556,8 +556,8 @@
 | E537 | Juliette получава трета ръкописна скрита бележка. | Direct visual evidence | VH | Трето отделно съобщение във веригата. |
 | E538 | Третата бележка съдържа частично четими логистични/инструктивни фрагменти, но точната формулировка/действие остава неустановена. | Partial visual evidence | M | Не се измисля дословна транскрипция. |
 | E539 | Допълнителен кадър на третата бележка подсказва възможна формулировка, свързана с лекарство/храна, но точният текст остава недостатъчно четим за надежден цитат. | Partial visual evidence | M | Субтитрите от съседния кадър изрично се изключват от транскрипцията на бележката. |
-| E540 | Computer/system-ът показва red risk line за Juliette / risk associated with return of suppressed protected memories. | Direct system explanation + visual model | VH | Explicit risk metric/model. |
-| E541 | Blue line represents Juliette's stabilizing influence on Silo 18 as Mayor. | Direct system explanation | VH | Explicit social-stability value. |
+| E540 | Компютърът/системата показва червена линия на риска за Juliette / риск, свързан с връщането на потиснати защитени спомени. | Direct system explanation + visual model | VH | Изрична метрика/модел на риска. |
+| E541 | Синята линия представлява стабилизиращото влияние на Juliette върху Silo 18 като Mayor. | Direct system explanation | VH | Изрична стойност за социалната стабилност. |
 | E542 | System-ът заявява, че ако risk и stabilizing-value lines се пресекат, Juliette вече няма да бъде useful. | Direct system dialogue | VH | Explicit utility threshold. |
 | E543 | System-ът разглежда removal на Juliette като possible measure, но sudden removal може да бъде catastrophically destabilizing. | Direct system dialogue | VH | Shows second-order population consequences are modeled. |
 | E544 | Computer/system-ът иска/се надява `vitamins` да бъдат пуснати във water supply преди Juliette removal да стане necessary. | Direct system dialogue | VH | Фармакологичен извънреден сценарий на ниво население. |
@@ -569,17 +569,17 @@
 | E549 | Кандидат: старите комуникационни системи може да са избрани, защото планиращите са очаквали уязвимост/зависимост в съвременните комуникации/електроника. | Hypothesis | M-H | Не се извежда аналогова/EMP устойчивост без evidence. |
 | E550 | Старите комуникационни системи правят комуникациите на мисията сравнително лесни за записване/прихващане въпреки криптирането. | Direct dialogue / mission-history information | H-VH | Точният стандарт за криптиране и записващото устройство остават неизвестни. |
 | E551 | Следователно комуникациите на мисията са били практически архивируеми/прихващаеми от трета страна или инфраструктура за наблюдение. | Strong inference | H | Съществуването по-късно е потвърдено от E582–E583. |
-| E552 | Candidate state: a surviving recording of Iran комуникациите на мисията may exist. | Historical hypothesis state | M | RESOLVED/CONFIRMED by E582–E583; retained as prior state. |
+| E552 | Състояние на кандидат: може да съществува оцелял запис на комуникациите от мисията срещу Iran. | Historical hypothesis state | M | РАЗРЕШЕНО/ПОТВЪРДЕНО от E582–E583; запазено като предишно състояние. |
 | E553 | Медицинският персонал активно наблюдава дали Juliette поглъща предписаните ѝ хапчета за потискане на паметта. | Direct observed behavior | VH | Compliance monitoring is part of treatment. |
-| E554 | Nurse catches Juliette spitting the pills out instead of swallowing them. | Direct observed behavior | VH | Direct non-compliance. |
+| E554 | Медицинската сестра хваща Juliette да изплюва хапчетата, вместо да ги поглъща. | Direct observed behavior | VH | Директно неспазване на режима. |
 | E555 | Протоколът за контрол на паметта включва наблюдение на приемането/спазването, а не само предписване/доставка. | Strong inference | H-VH | Човешки изпълнителен слой около лечението. |
 | E556 | Връщащите се спомени на Juliette могат правдоподобно да бъдат подпомогнати от прекъснато/намалено дозиране. | Strong inference | H | Не е установено като единствена причина за възстановяването. |
 | E557 | Компютърът/системата заявява, че пускането на `Vitamin D+` във водата увеличава шанса за оцеляване. | Direct system dialogue | VH | Намесата на ниво население е представена като мярка за оцеляване. |
 | E558 | Системата представя текущото състояние на Silo като опасно близко до активиране на safeguard-а. | Direct dialogue/context | H-VH | Точният праг остава неизвестен. |
-| E559 | Water-supply intervention is presented as a survival/stability measure, not only as medical treatment. | Strong inference | H-VH | Function clarified further by E562–E563. |
+| E559 | Намесата чрез водоснабдяването е представена като мярка за оцеляване/стабилност, а не само като медицинско лечение. | Strong inference | H-VH | Функцията е допълнително изяснена от E562–E563. |
 | E560 | Системата обосновава принудителното дозиране на населението чрез рамка за колективно оцеляване. | Strong inference | H | Descriptive control-model inference, not motive attribution beyond shown framing. |
-| E561 | Early candidate: `Vitamin D+` might have separate survival + memory/behavior roles. | Historical hypothesis state | M-H | SUPERSEDED by E562: contextual identification is memory-suppression/forgetting chemistry. |
-| E562 | `Vitamin D+` is identified in episode context as memory-suppression / forgetting chemistry. | Direct contextual identification | VH | Terminology clarified. |
+| E561 | Ранен кандидат: `Vitamin D+` може да има отделни роли за оцеляването + паметта/поведението. | Historical hypothesis state | M-H | ЗАМЕНЕНО от E562: контекстуалната идентификация е химия за потискане на паметта/забравяне. |
+| E562 | `Vitamin D+` е идентифициран в контекста на епизода като химия за потискане на паметта / предизвикване на забравяне. | Direct contextual identification | VH | Терминологията е изяснена. |
 | E563 | Следователно системата представя потискането на паметта на цялото население като средство за увеличаване на вероятността Silo да оцелее. | Direct dialogue + established chemical function | VH | Точните целеви спомени все още не са заявени. |
 | E564 | Hypothesis на персонаж: Lukas може да е в мините и да се опитва да достигне/контактува друг Silo. | Character hypothesis | M | Местоположението по-късно е потвърдено; целта остава неустановена. |
 | E565 | Computer/system-ът states that any contact with another Silo is a violation leading to immediate safeguard. | Direct system statement | VH | Explicit cross-Silo-contact trigger. |
