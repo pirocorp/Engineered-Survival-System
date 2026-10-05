@@ -19,7 +19,7 @@ Selected screenshots са обработени първо с **perspective corre
 |---|---|
 | `juliette-mother-rabbit-heart-research.jpeg` | Flashback/context: майката на Juliette използва заека като част от опит да разбере сърдечен проблем, аналогичен на този на Jacob. |
 | `juliette-mother-illicit-microscope-device.jpeg` | Direct visual evidence за homemade magnification/microscope apparatus. |
-| `juliette-mother-restricted-access-magnification-record.jpeg` | Restricted institutional record за майката на Juliette и magnification-device activity. |
+| `juliette-mother-restricted-access-magnification-record.jpeg` | Институционален запис с ограничен достъп за майката на Juliette и дейност около увеличително устройство. |
 | `juliette-mirror-surveillance-realization.jpeg` | Сцена, подкрепяща осъзнаването на Juliette, че mirror surveillance може да обясни как authorities са научили за microscope-а на майка ѝ. |
 | `pete-nichols-priority-message-to-martha-walker.jpeg` | Priority digital message от Medical / Dr Pete Nichols до Martha Walker: “RUNAWAY HEADING TO YOU, URGENT. ETA 6PM.” |
 | `level-30-marker.jpeg` | Нов direct spatial anchor за Level 30. |
@@ -30,7 +30,7 @@ Selected screenshots са обработени първо с **perspective corre
 - Microscope apparatus е visually confirmed; exact optical power не е established.
 - Restricted document е visually confirmed, но дребният частично замъглен текст не трябва да се over-transcribe-ва.
 - Mirror-surveillance scene отслабва по-ранното father-as-informant обяснение за откриването на microscope-а; не доказва, че той никога не е споделял друга информация.
-- Самото priority message казва `RUNAWAY`; identity трябва да се извежда от scene context, а не само от screenshot text.
+- Самото priority message казва `RUNAWAY`; самоличността трябва да се извежда от контекста на сцената, а не само от текста на screenshot-а.
 - Level 30 е само spatial anchor; не се извежда special function от самия marker.
 
 **Knowledge boundary:** S01E08 only.
