@@ -34,11 +34,11 @@ Leaflet-ът **не** установява:
 - how widely it circulated;
 - дали всеки claim в него е factually correct.
 
-Това е direct evidence за circulating **counter-narrative**, а не proof за claims на counter-narrative.
+Това е директно evidence за разпространяващ се **контраразказ**, а не доказателство за твърденията в него.
 
 ## H60
 
-**Кризата вече съдържа competing public narratives: institutional leadership frame-ва/обвинява Mechanical, докато anti-IT physical message представя Mechanical като страната, която търси истината, и насочва suspicion към IT.**
+**Кризата вече съдържа конкуриращи се публични разкази: институционалното ръководство натопява/обвинява Mechanical, докато физическото anti-IT съобщение представя Mechanical като страната, която търси истината, и насочва подозрението към IT.**
 
 **Confidence:** H  
 **Status:** Active / Strengthened.
