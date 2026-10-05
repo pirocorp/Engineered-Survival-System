@@ -617,6 +617,88 @@
 | E597 | Computer/system-ът successfully persuades Camille that Juliette must be killed to save the Silo. | Direct dialogue / persuasion outcome | H-VH | Shows persuasion, not only instruction. |
 | E598 | Camille accepts the lethal objective against Juliette and is no longer only a passive recipient of system guidance. | Direct behavioral/dialogue conclusion | H-VH | Whether she will execute it remains unresolved. |
 
+| E599 | Същата medical nurse, която наблюдава memory-suppression pills на Juliette, ѝ помага да escape-не от hospital-а. | Direct episode event | VH | Nurse role changes from treatment compliance to active assistance. |
+| E600 | Escape/rescue-ът се случва, докато Camille Sims е при computer/system-а във връзка с lethal objective-а срещу Juliette. | Direct temporal/sequence context | H-VH | Establishes concurrent control vs escape tracks. |
+| E601 | Medical-control layer-ът не е напълно loyal/monolithic; поне един insider actively помага на Juliette срещу impending Sims/system action. | Structural inference | H | Scope of insider network unresolved. |
+| E602 | Daniel Keen и journalist-ът променят routine-а си, защото смятат, че actor-ът зад recording-holder disappearance може да е threat и за тях. | Direct character decision + threat assessment | VH | Their attribution remains belief, not established fact. |
+| E603 | „Същият actor е след нас“ остава character threat assessment. | Epistemic boundary | H | No independent confirmation yet. |
+| E604 | Journalist-ът дава на Keen конкретен rendezvous address за 22:00. | Direct dialogue / operational instruction | VH | Evasion plan. |
+| E605 | Keen е инструктиран до срещата да не се прибира у дома и да избягва normal routine. | Direct operational instruction | VH | Counter-surveillance/evasion behavior. |
+| E606 | Keen/journalist преминават от investigation към active evasion behavior. | Strong inference | H-VH | Live-threat perception. |
+| E607 | След hospital escape-а Juliette е actively издирвана. | Direct episode state | VH | Sims-side pursuit begins. |
+| E608 | Mechanical friend на Juliette чува Sims да говори/дава информация, че Juliette се издирва. | Direct overheard dialogue/event | H-VH | Search status becomes known to ally. |
+| E609 | Hospital escape-ът води до active Sims-side pursuit/search. | Direct causal sequence | H-VH | Exact command chain unresolved. |
+| E610 | Nurse-ът казва, че още преди Juliette да започне сама да изплюва pills, тя вече е подменяла memory-suppression medication-а. | Direct dialogue | VH | Major timing correction. |
+| E611 | Nurse-ът казва, че е започнала substitution-а, защото неизвестен човек ѝ е казал/наредил да го направи. | Direct testimony | VH | Upstream actor unknown. |
+| E612 | Според nurse-а early pill substitution е помогнала на Juliette да започне да си спомня. | Direct causal testimony | H-VH | Supports causal role; exact pharmacology unresolved. |
+| E613 | Някой извън ordinary treatment chain е проникнал в medical-control process-а и covertly е sabotaged memory-suppression protocol-а. | Strong inference | H-VH | Derived from E610–E612. |
+| E614 | Nurse-ът е част от broader covert intervention chain с unknown upstream actor. | Strong inference | H | Network topology unresolved. |
+| E615 | Nurse-ът инструктира Juliette да отиде до pump station на Level 76. | Direct dialogue / destination instruction | VH | New operational node. |
+| E616 | Level 76 е direct-confirmed spatial anchor и съдържа/е свързан с pump station. | Direct spatial evidence | VH | New level anchor. |
+| E617 | Pump station на Level 76 е next operational node по covert support route-а. | Strong inference | H-VH | Purpose beyond handoff unresolved. |
+| E618 | Keen и journalist-ът се укриват/срещат в дома на бившия partner на journalist-а. | Direct episode location | VH | Rendezvous location. |
+| E619 | 22:00 address-ът е residence, свързан с ex-partner на journalist-а. | Direct contextual clarification | H-VH | Confirms alternate-location choice. |
+| E620 | Избран е location извън normal residences/routines, consistent с evasion/counter-surveillance. | Strong inference | H | Does not prove active tail at that moment. |
+| E621 | Keen успява да организира среща с Pentagon contact. | Direct episode event | VH | Defense-establishment access. |
+| E622 | Keen прехвърля investigation-а към internal military/defense source. | Strong inference | H-VH | Exact rank/access unknown. |
+| E623 | Juliette стига до pump station на Level 76 и там я чака Sims. | Direct episode event | VH | Interception/contact point. |
+| E624 | Level 76 pump station е contested contact point с Sims-side presence. | Strong inference | H-VH | Exact reason Sims knew route unresolved. |
+| E625 | Candidate set: route compromised, Sims anticipated movement, or pump station was intended intercept/meeting point. | Structured hypothesis set | M-H | No single explanation established. |
+| E626 | Mechanical friend на Juliette също е present в pump station по време на Sims encounter-а. | Direct episode event | VH | Support node confirmed. |
+| E627 | Mechanical friend actively помага на Juliette да escape-не от Sims. | Direct episode action | VH | Direct ally intervention. |
+| E628 | Level 76 pump station е part of active support/escape network, не случайна destination. | Strong inference | H | Coordination scope unresolved. |
+| E629 | Sims-side pursuit has sufficient situational awareness to intercept Juliette at a support node, но Mechanical ally disrupt-ва interception-а. | Strong inference | H | Exact surveillance source unresolved. |
+| E630 | Juliette продължава да иска да стигне до abyss/digger area. | Direct stated objective | VH | Deep-zone goal persists. |
+| E631 | Known/ordinary access към deep-zone е sealed. | Direct episode state | VH | Refined by E650–E657: concealed access remains functional. |
+| E632 | Mechanical friend се съгласява да отведе Juliette толкова близо до deep-zone, колкото е възможно. | Direct dialogue / action plan | VH | Support continues. |
+| E633 | Escape/support route се използва за придвижване към sealed deep-zone. | Strong inference | H-VH | Not final destination itself. |
+| E634 | Pentagon contact-ът пита Keen какво точно е чул на Iran recording-а. | Direct dialogue | VH | Leads to content characterization. |
+| E635 | Keen казва, че recording-ът показва aircraft, които вече не се управляват от pilots. | Direct character report of recording content | H-VH | Reported content, not raw recording available to repo. |
+| E636 | Keen описва това като „все едно някой им е хакнал самолетите“. | Character interpretation / analogy | H | Cyber mechanism not established. |
+| E637 | Iran anomaly model се refactor-ва от generic disruption към apparent loss of pilot control / takeover-like behavior. | Cross-evidence refinement | H | Actor/mechanism unknown. |
+| E638 | Initial Pentagon meeting не дава immediate breakthrough. | Direct episode outcome | H-VH | Later overturned by E658–E660. |
+| E639 | Неидентифициран мъж, виждан repeatedly около Keen/journalist, отново се появява. | Direct recurring-character observation | VH | Identity unknown. |
+| E640 | Същият мъж заявява, че иска да говори с тях. | Direct episode action/dialogue | VH | Active approach. |
+| E641 | Repeated presence + direct approach правят accidental coincidence малко вероятно; мъжът вероятно целенасочено ги следи/търси. | Strong inference | H | Exact authority/organization unknown. |
+| E642 | Мъжът твърди, че other people who knew about the case са били bribed, not killed. | Direct character claim | VH | Self-serving and unverified. |
+| E643 | Bribery explanation не се приема като independently established fact. | Epistemic boundary | H | Claim requires corroboration. |
+| E644 | Мъжът предлага на journalist-а job в The Times. | Direct offer | VH | Tailored career inducement. |
+| E645 | На Keen предлага continuation of his sister's treatment. | Direct offer | VH | Personalized medical leverage/benefit. |
+| E646 | Offers са individually tailored към career ambition и sister treatment. | Strong inference | H-VH | Demonstrated personalization. |
+| E647 | Suppression strategy demonstrably uses inducement/personal leverage, not only violence. | Structural inference | H-VH | Does not exclude coercive methods. |
+| E648 | Journalist-ът приема career offer-а. | Direct episode outcome | VH | Co-optation succeeds in this case. |
+| E649 | Potential investigator can be neutralized/co-opted through career reward. | Structural inference | H-VH | Demonstrated by E644 + E648. |
+| E650 | Juliette и Mechanical friend намират hidden door към alternate deep-zone route. | Direct episode discovery | VH | Major spatial update. |
+| E651 | Deep-zone access не е fully blocked; concealed alternate route exists. | Direct spatial conclusion | VH | Refines E631. |
+| E652 | Sealed ordinary access can be bypassed through concealed infrastructure route. | Strong inference | H-VH | Lower topology more complex than public/known route. |
+| E653 | Behind hidden door има intact tunnel leading to rope-descent point above abyss/deep pit. | Direct visual evidence | VH | Visual + episode continuity. |
+| E654 | Abyss is reachable via controlled vertical descent using rope. | Direct structural conclusion | VH | Functional route. |
+| E655 | Concealed route connects Silo interior to deep excavation/digger zone beneath the Silo. | Strong inference | H-VH | Exact relation to hidden lower system unresolved. |
+| E656 | Fixed rope/descent setup is visibly installed at access point. | Direct visual evidence | VH | Dedicated hardware. |
+| E657 | Hidden access is not one-off improvised; dedicated descent hardware suggests intentional/repeated use. | Strong structural inference | H | Age/users unknown. |
+| E658 | About one week later Pentagon contact reconnects with Keen. | Direct episode event | VH | Follow-up after initial dead end. |
+| E659 | Pentagon contact says he found something extraordinary / „не за вярване“. | Direct character statement | VH | Exact discovery withheld. |
+| E660 | Initial Pentagon dead-end is overturned; contact continued checking and found material information. | Strong inference | H-VH | Content unresolved. |
+| E661 | Juliette successfully uses concealed route and descends to digger/deep excavation area. | Direct episode event | VH | Route is operational. |
+| E662 | Hidden route is fully functional access path, not theoretical bypass. | Direct structural conclusion | VH | Demonstrated traversal. |
+| E663 | Juliette is inside deep excavation zone with possible onward access toward still-lower infrastructure. | Strong inference | H | Further descent not yet established. |
+| E664 | Juliette finds Bernard alive in deep excavation/digger area. | Direct episode reveal | VH | MAJOR CORRECTION. |
+| E665 | Prior Sims/Bernard death-burning account is false or materially incomplete because Bernard is alive. | Cross-episode falsification | VH | Exact staging mechanism unresolved. |
+| E666 | Bernard's supposed death was part of a false/staged/misrepresented narrative inside Silo 18. | Strong structural conclusion | H-VH | Organizer/participants unknown. |
+| E667 | Bernard's presence creates direct link between former Head of IT and concealed lower-access area. | Structural inference | H | Why/how he is there unresolved. |
+| E668 | Visual evidence corroborates Bernard alive in deep zone after earlier reported death/burning. | Direct visual corroboration + episode context | VH | Supports E664–E666. |
+| E669 | Bernard appears physically injured/debilitated. | Direct visual observation + bounded inference | H | No diagnosis or cause inferred. |
+
+## Визуални източници — S03E04
+
+Binary assets са качени отделно в `main` преди analysis PR-а и са валидирани чрез Git blob SHA comparison:
+
+- [Concealed abyss route / rope descent](../assets/S03E04/screenshots/abyss-hidden-route-rope-descent.jpeg)
+- [Bernard alive in deep zone](../assets/S03E04/screenshots/bernard-alive-deep-zone.jpeg)
+- [S03E04 visual evidence manifest](../assets/S03E04/MANIFEST.md)
+
+`contact-sheet.jpg` е auxiliary/navigation asset, не primary evidence.
+
 ## Визуални източници — S03E03
 
 Binary assets са качени отделно в `main` преди analysis PR-а и са валидирани чрез Git blob SHA comparison:
