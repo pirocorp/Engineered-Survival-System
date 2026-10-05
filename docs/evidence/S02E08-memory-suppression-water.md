@@ -28,24 +28,24 @@ Bernard казва, че Salvador Quinn е поставил **химикал/л�
 
 ```text
 S01E07
-историческо Flamekeeper testimony:
+историческо свидетелство на Flamekeepers:
 нещо е било поставено във водата,
 за да потиска/изтрива паметта
 
 S02E03
-текущ institutional drug:
-предлага се изрично "so you can forget"
+текущо институционално лекарство:
+предлага се изрично `so you can forget` („за да можеш да забравиш“)
 
 S02E08
-privileged history от Bernard:
+привилегирован исторически разказ на Bernard:
 Quinn умишлено използва продължително
-waterborne dosing, така че спомените
+дозиране чрез водата, така че спомените
 да избледняват с времето
 ```
 
 ## Обновяване на H30
 
-**Silo разполага с pharmacological memory-suppression capability, а Quinn исторически е използвал продължително waterborne dosing като част от умишлен population-wide reset на историческата памет.**
+**Silo разполага с фармакологична способност за потискане на паметта, а Quinn исторически е използвал продължително дозиране чрез водата като част от умишлено масово заличаване на историческата памет.**
 
 **Confidence:** VH  
 **Status:** Strongly Strengthened / Refactored.
