@@ -500,8 +500,8 @@
 | E482 | S03E01 директно показва Level 87. | Direct visual evidence | VH | Нов confirmed level anchor. |
 | E483 | Mural заявява `THIS IS THE TRUTH / THE DISPLAY IS LIE!`. | Direct visual evidence | VH | Direct proof за ongoing anti-display belief. |
 | E484 | Anti-display / truth-seeking faction or sentiment остава active ~3 months after Juliette's return. | Social inference | H | Exact size/organization остава unknown. |
-| E485 | На Juliette се подава story: тя е излязла да clean-не, стигнала е до `bunker`, recovered там и после се е върнала. | Institutional/character-supplied narrative | H-VH | Replacement account за missing period. |
-| E486 | Същият account твърди, че `bunker`-ът е съдържал fire-resistant suit + helmet. | Institutional/character-supplied narrative | H | Used to explain survival through flame cycle. |
+| E485 | На Juliette се подава story: тя е излязла да clean-не, стигнала е до `bunker`, recovered там и после се е върнала. | Institutional/character-подаден отвън разказ | H-VH | Replacement account за missing period. |
+| E486 | Същият account твърди, че `bunker`-ът е съдържал fire-resistant suit + helmet. | Institutional/character-подаден отвън разказ | H | Used to explain survival through flame cycle. |
 | E487 | `Bunker` account contradict-ва direct S02 evidence за Juliette's stay in Silo 17. | Direct contradiction with established evidence | VH | False/misleading replacement history identified. |
 | E488 | False `bunker` narrative fills the same memory interval that Juliette cannot recall. | Cross-evidence structural inference | H | Supports controlled reconstruction model. |
 | E489 | Juliette е subject на deliberate memory-erasure/conditioning process. | Episode revelation / cross-scene conclusion | H-VH | Historical S03E01 wording retained; S03E02 E533–E534 refines mechanism toward retrieval suppression/blocking + narrative conditioning rather than proven destruction of memories. |
@@ -535,7 +535,7 @@
 | E516 | Computer/system-ът знае за covert note-а, получен от Juliette през food/tray channel. | Direct system dialogue + context | H-VH | Physical note не е blind spot за supervisory layer. |
 | E517 | System-ът знае, че Juliette е скрила/отрекла note-а пред Mrs Sims. | Direct system dialogue + context | H-VH | Demonstrates context beyond simple note detection. |
 | E518 | Computer/system-ът оценява решението на Juliette да излъже като concerning. | Direct dialogue / visual evidence | VH | Explicit semantic/risk evaluation. |
-| E519 | System-ът има semantic situational awareness: reconstruct-ва behavior/deception context, а не само показва raw feed. | Strong inference | H | Nature/implementation remains unknown; not sufficient to label confirmed AI. |
+| E519 | System-ът има semantic ситуационна осведоменост: реконструира behavior/deception context, а не само показва raw feed. | Strong inference | H | Nature/implementation remains unknown; not sufficient to label confirmed AI. |
 | E520 | Daniel Keen посещава surviving sister-а си в hospital след Iran operation. | Direct narrative event | H | Continues pre-Silo timeline. |
 | E521 | Sister-а на Keen не го разпознава/не си спомня Daniel. | Direct behavior/dialogue | H-VH | Establishes selective autobiographical memory problem. |
 | E522 | Treating doctor-ът казва, че неговото treatment е responsible за това тя да не помни Daniel. | Direct physician statement | H-VH | Responsibility belongs to treatment/doctor, not Daniel. |
@@ -647,7 +647,7 @@
 | E626 | Mechanical friend на Juliette също е present в pump station по време на Sims encounter-а. | Direct episode event | VH | Support node confirmed. |
 | E627 | Mechanical friend actively помага на Juliette да escape-не от Sims. | Direct episode action | VH | Direct ally intervention. |
 | E628 | Level 76 pump station е part of active support/escape network, не случайна destination. | Strong inference | H | Coordination scope unresolved. |
-| E629 | Sims-side pursuit has sufficient situational awareness to intercept Juliette at a support node, но Mechanical ally disrupt-ва interception-а. | Strong inference | H | Exact surveillance source unresolved. |
+| E629 | Sims-side pursuit has sufficient ситуационна осведоменост to intercept Juliette at a support node, но Mechanical ally disrupt-ва interception-а. | Strong inference | H | Exact surveillance source unresolved. |
 | E630 | Juliette продължава да иска да стигне до abyss/digger area. | Direct stated objective | VH | Deep-zone goal persists. |
 | E631 | Known/ordinary access към deep-zone е sealed. | Direct episode state | VH | Refined by E650–E657: concealed access remains functional. |
 | E632 | Mechanical friend се съгласява да отведе Juliette толкова близо до deep-zone, колкото е възможно. | Direct dialogue / action plan | VH | Support continues. |
@@ -768,10 +768,10 @@
 | E746 | Communication design-ът помага да се enforce-ва broader Silo-to-Silo isolation. | Cross-system inference | H-VH | Deliberate design purpose е strongly suggested. |
 | E747 | Bernard обяснява, че Silo 1 следи всички active radio frequencies на останалите Silos. | Direct Bernard explanation | VH | Central monitoring layer. |
 | E748 | Макар всеки Silo да използва различен channel, Silo 1 има visibility върху всички active frequencies. | Direct technical/architectural conclusion | VH | Central observability. |
-| E749 | All-frequency monitoring-ът на Silo 1 дава plausible mechanism за detect-ване на unauthorized inter-Silo radio contact. | Strong structural inference | H-VH | Automatic safeguard link не е proven. |
+| E749 | All-frequency monitoring-ът на Silo 1 дава plausible mechanism за detect-ване на unauthorized inter-Silo радиоконтакт. | Strong structural inference | H-VH | Automatic safeguard link не е proven. |
 | E750 | Bernard казва на Robert, че Camille е била информирана за safeguard-а. | Direct Bernard statement | VH | Head-of-IT read-in. |
 | E751 | На Camille изрично е забранено да говори с когото и да е за safeguard-а. | Direct Bernard statement | VH | Изрично no-disclosure rule. |
-| E752 | Secrecy-то на Camille към Robert е част от formal compartmentalization around safeguard knowledge, не само personal choice. | Cross-scene structural conclusion | H-VH | Подкрепено от E685 + E750–E751. |
+| E752 | Secrecy-то на Camille към Robert е част от формално разграничаване на достъпа around safeguard knowledge, не само personal choice. | Cross-scene structural conclusion | H-VH | Подкрепено от E685 + E750–E751. |
 | E753 | S03E05 директно показва Level 95. | Direct visual evidence | VH | Нов spatial anchor. |
 | E754 | Level 95 е активно използван вътрешен transit/stairwell area в current post-rebellion Silo 18. | Direct visual/contextual observation | H-VH | По-специфична function отвъд transit не е established. |
 | E755 | Robert Sims връща PEZ dispenser-а на Juliette, след което тя си спомня за pipe-а. | Direct episode event | VH | Relic-ът непосредствено предхожда recall-а. |
@@ -787,9 +787,9 @@
 | E765 | Iran operation, sister treatment и AI-linked actor се пресичат през един и същ човек. | Structural convergence | VH | Directly derived от E763–E764. |
 | E766 | Candidate: sister treatment може да включва memory suppression/retrieval blocking, за да предотврати recall на sensitive Iran information. | Hypothesis | H | Все още няма direct treatment/memory evidence. |
 | E767 | След като Keen споделя опасенията си с journalist-а, control над автомобила, в който се возят, е поет без тяхно съгласие. | Direct episode event | VH | External takeover е demonstrated. |
-| E768 | Keen и journalist-ът губят normal control върху автомобила; pre-Silo setting demonstrably има external/remote vehicle-control capability. | Direct functional conclusion | H-VH | Exact mechanism/actor остава unknown. |
-| E769 | Vehicle takeover materially strengthens hypothesis-а, че Iran aircraft anomaly може да включва deliberate external control, не само generic communications/electronic failure. | Cross-scene inference | H-VH | Не доказва same technology. |
-| E770 | Candidate: same actor/network или related control technology може да стои зад civilian vehicle takeover и military aircraft anomaly. | Hypothesis | H | Same actor/technology остава unproven. |
+| E768 | Keen и journalist-ът губят normal control върху автомобила; pre-Silo setting demonstrably има external/remote vehicle-control capability. | Direct functional conclusion | H-VH | Точният механизъм/actor остава unknown. |
+| E769 | Vehicle takeover съществено подсилватs hypothesis-а, че Iran aircraft anomaly може да включва deliberate external control, не само generic communications/electronic failure. | Cross-scene inference | H-VH | Не доказва същата технология. |
+| E770 | Candidate: същият actor/network или related control technology може да стои зад civilian vehicle takeover и military aircraft anomaly. | Hypothesis | H | Same actor/technology остава unproven. |
 
 ## S03E06 — Silo 1 power, „Гласът“, Vitamin D+ и pre-Silo external control
 
@@ -824,7 +824,7 @@
 | E797 | Juliette казва, че иска да говори с „Гласът“, за да поиска децата от Silo 17 да бъдат доведени в Silo 18. | Direct stated objective | VH | Cross-Silo transfer request. |
 | E798 | Пред Camille Juliette представя Silo 17 / children line-а като възстановеното от паметта знание, което мотивира искането ѝ. | Direct dialogue | VH | Не е exhaustive disclosure. |
 | E799 | Juliette не разкрива на Camille, че е възстановила safeguard knowledge и знае practical countermeasure. | Direct information-state asymmetry | VH | Значим withheld leverage. |
-| E800 | Candidate: Juliette използва ограничен disclosure за Silo 17 и децата, за да получи access до „Гласът“, докато пази safeguard countermeasure knowledge. | Hypothesis | H-VH | Strategy е strongly supported, exact intent не е verbalized. |
+| E800 | Candidate: Juliette използва ограничен disclosure за Silo 17 и децата, за да получи access до „Гласът“, докато пази safeguard countermeasure knowledge. | Hypothesis | H-VH | Strategy е силно подкрепятed, exact intent не е verbalized. |
 | E801 | Juliette пита Camille дали е сигурна, че на мястото няма камери. | Direct dialogue | VH | Explicit surveillance concern. |
 | E802 | Juliette казва, че има усещането, че „Гласът“ знае, че двете разговарят. | Direct Juliette statement / character inference | VH за statement; H за inference | Не доказва hidden sensor. |
 | E803 | Липсата на видими камери не е достатъчна да се приеме, че разговорът е извън supervisory awareness. | Analytical implication | H | Driven by E802. |
@@ -868,25 +868,25 @@
 | E835 | Ясно се вижда warning: `Live feed replaced with null visual. Looping static image.` | Direct visual evidence | VH | Direct feed-substitution mechanism. |
 | E836 | Показана е forced reboot команда с delay `00:30`. | Direct visual evidence | H-VH | Exact formatting е visual transcription. |
 | E837 | Kyle и Kennedy са директно показани извън Silo през нощта. | Direct episode/visual event | VH | Exterior night anchor. |
-| E838 | Реалното exterior night sky показва ясни звезди. | Direct visual evidence | VH | Physical comparison anchor. |
-| E839 | Exterior star field дава direct comparison anchor за по-ранните cafeteria/public-display star patterns. | Cross-scene inference | H-VH | Не доказва geometric match. |
+| E838 | Реалното exterior night sky показва ясни звезди. | Direct visual evidence | VH | Physical отправна точка за сравнение. |
+| E839 | Exterior star field дава direct отправна точка за сравнение за по-ранните cafeteria/public-display star patterns. | Cross-scene inference | H-VH | Не доказва geometric match. |
 | E840 | Докато са навън, Kyle и Kennedy чуват ясно жужене/humming от неизвестен източник. | Direct auditory episode event | VH | Source unknown. |
 | E841 | Exterior environment съдържа активен източник на mechanical/electrical-like sound. | Environmental inference | H | Exact classification остава uncertain. |
 | E842 | Candidate: жуженето идва от active external infrastructure, свързана с multi-Silo system-а. | Hypothesis | M | Competing causes остават open. |
 | E843 | След жуженето се чува кратък приглушен crack/pop. | Direct auditory episode event | H-VH | Source unknown. |
 | E844 | Самите герои казват, че звукът е прозвучал като от оръжие. | Direct character statement | VH | Доказва interpretation-а им, не exact weapon mechanism. |
-| E845 | Sequence-ът е: жужене → кратък weapon-like звук. | Cross-sensory event sequence | H-VH | Temporal association, не proof за common source. |
+| E845 | Sequence-ът е: жужене → кратък наподобяващ оръжие звук. | Cross-sensory event sequence | H-VH | Temporal association, не proof за общ източник. |
 | E846 | „Гласът“ съобщава, че Lukas Kyle и Patrick Kennedy са `neutralized` след излизането им. | Direct Voice statement | VH | Status claim, не direct visual proof. |
-| E847 | „Гласът“ demonstrably има поне status/situational information за хора извън Silo. | Structural conclusion | H-VH | Later radio contradiction ограничава certainty за accuracy. |
-| E848 | Acoustic sequence + Voice report strongly support candidate external-enforcement capability. | Cross-scene inference | H | Exact actor/actuator остава unknown. |
+| E847 | „Гласът“ demonstrably има поне status/situational information за хора извън Silo. | Structural conclusion | H-VH | По-късното противоречие с радиовръзката ограничава certainty за accuracy. |
+| E848 | Acoustic sequence + Voice report силно подкрепят хипотеза за външна принудителна capability. | Cross-scene inference | H | Exact actor/actuator остава unknown. |
 | E849 | Exact neutralization mechanism остава unresolved. | Epistemic boundary | VH | Не се lock-ват projectile, drone, toxin или друг specific mechanism. |
-| E850 | „Гласът“ заключава от Juliette recording-а и множеството трупове около Silo 17, че хората там са успели да overcome/block-нат safeguard-а поне временно. | Direct Voice conclusion | VH | Historical reconstruction. |
+| E850 | „Гласът“ заключава от Juliette recording-а и множеството трупове около Silo 17, че хората там са успели да преодолеят/блокират safeguard-а поне временно. | Direct Voice conclusion | VH | Historical reconstruction. |
 | E851 | Evidence basis на това заключение е downstream outcome: recording + mass-exit/death field. | Direct reasoning basis | H-VH | Показва inferential reconstruction. |
 | E852 | Safeguard mechanism-ът в Silo 17 е бил practically interrupted/defeated поне за определен период. | Historical mechanism conclusion | VH | Не означава safe exterior. |
-| E853 | „Гласът“ не е показан като perfect real-time knower на exact Silo 17 sabotage method; той deduce-ва от outcomes. | Supervisory-knowledge boundary | H | Не доказва липса на други sensors. |
+| E853 | „Гласът“ не е показан като perfect real-time knower на exact Silo 17 sabotage method; той прави inference от outcomes. | Supervisory-knowledge boundary | H | Не доказва липса на други sensors. |
 | E854 | „Гласът“ казва на Camille, че safeguard-ът е непреодолим. | Direct Voice statement | VH | Claim, не independently established fact. |
-| E855 | Claim-ът за непреодолим safeguard е в напрежение със Silo 17 evidence-а за temporary defeat. | Evidence conflict | VH | Central S03E07 contradiction. |
-| E856 | Candidate: safeguard architecture може да има redundancy, multiple delivery paths, fallback routes или secondary kill mechanism. | Hypothesis | M-H | Зависи от truthfulness на E854. |
+| E855 | Claim-ът за непреодолим safeguard е в напрежение със Silo 17 evidence-а за временно преодоляване. | Evidence conflict | VH | Central S03E07 contradiction. |
+| E856 | Candidate: safeguard architecture може да има redundancy, multiple пътища за подаване, резервни маршрути или secondary kill mechanism. | Hypothesis | M-H | Зависи от truthfulness на E854. |
 | E857 | Познатият poison pipe остава direct-confirmed component на safeguard architecture-а, но S03E07 не доказва, че е единствен delivery path. | Model refinement | H-VH | Предпазва от single-pipe overclaim. |
 | E858 | Camille и „Гласът“ обсъждат hypothesis-а, че истинската цел на Juliette може да е блокиране на safeguard-а. | Direct dialogue / shared hypothesis | VH | Intent reconstruction. |
 | E859 | Juliette safeguard objective не е представен като confirmed knowledge на „Гласът“, а като inference. | Supervisory-knowledge boundary | H-VH | Strengthens selective-disclosure model. |
@@ -896,31 +896,31 @@
 | E863 | Camille пита Juliette дали децата са били единствената причина за mission-а или е имало и друга. | Direct interrogation | VH | Explicit suspicion. |
 | E864 | Camille активно подозира secondary covert objective зад Silo 17 mission-а. | Information-state change | VH | Съвместимо със safeguard hypothesis. |
 | E865 | Daniel Keen се среща със сестра си; тя изглежда физически възстановена/здрава. | Direct episode event | VH | Physical state only. |
-| E866 | Сестрата запазва някои memories, но later evidence в същия episode показва, че recall-ът не е intact. | Direct character-state evidence | H-VH | Constrained/superseded by E874–E875. |
+| E866 | Сестрата запазва някои memories, но по-късното evidence в същия episode показва, че recall-ът не е intact. | Direct character-state evidence | H-VH | Constrained/superseded by E874–E875. |
 | E867 | Сестрата разполага със sensitive information, което към този момент не може да сподели с Keen. | Direct dialogue | VH | Secrecy layer. |
 | E868 | Ограничението върху disclosure-а е formal/compartmentalized, а не просто липса на information. | Structural inference | H-VH | Strengthened by NDA evidence. |
-| E869 | Keen трябва първо да подпише NDA, преди да получи full sensitive briefing. | Direct episode process | VH | Formal secrecy gate. |
-| E870 | След NDA signing Keen и сестра му трябва да се качат на private aircraft, където ще получат full briefing. | Direct stated process | VH | Destination/briefing chain. |
-| E871 | Pre-Silo network използва institutionalized compartmentalized access преди disclosure. | Structural conclusion | H-VH | NDA/read-in architecture. |
+| E869 | Keen трябва първо да подпише NDA, преди да получи full sensitive briefing. | Direct episode process | VH | Формална бариера за достъп до секретна информация. |
+| E870 | След NDA signing Keen и сестра му трябва да се качат на private aircraft, където ще получат пълната информация. | Direct stated process | VH | Destination/briefing chain. |
+| E871 | Pre-Silo network използва институционализиран разграничен достъп преди disclosure. | Structural conclusion | H-VH | NDA/read-in architecture. |
 | E872 | Сестрата на Keen вече е подписала NDA преди тази сцена. | Direct dialogue / prior state | VH | Тя вече е bound. |
 | E873 | Keen е този, който още не е read-in и трябва да подпише собствен NDA. | Direct access-control state | VH | Asymmetric read-in. |
-| E874 | Сестрата има откъслечни/fragmented memories за случилото се. | Direct character-state evidence | VH | Corrects any intact-memory reading. |
+| E874 | Сестрата има откъслечни/фрагментарни спомени за случилото се. | Direct character-state evidence | VH | Corrects any intact-memory reading. |
 | E875 | Значителна част от това, което сестрата приема като история за периода, идва от онова, което други са ѝ казали. | Direct dialogue / memory-state evidence | H-VH | Supplied autobiographical narrative. |
-| E876 | По радиото се получава transmission, представен като идващ от Kyle и Kennedy след предполагаемото им neutralization. | Direct episode event | VH | Source authenticity unresolved. |
-| E877 | Radio transmission-ът влиза в пряк конфликт с Voice report-а `neutralized` и Camille statement-а, че не са стигнали Silo 17. | Evidence conflict | VH | Major unresolved contradiction. |
-| E878 | Radio transmission-ът materially weakens certainty, че Kyle и Kennedy са били успешно neutralized. | Model update | H-VH | Не доказва, че Voice е излъгал. |
-| E879 | Самият radio contact не establish-ва физическо присъствие в Silo 17. | Epistemic boundary | VH | Genuine voice/location остават separate questions. |
-| E880 | След radio contact-а групата в Silo 18 се отказва от плана да взриви Judicial. | Direct operational decision | VH | Immediate strategy change. |
+| E876 | По радиото се получава transmission, представен като идващ от Kyle и Kennedy след предполагаемото им neutralization. | Direct episode event | VH | Автентичността на източника unresolved. |
+| E877 | Радиопредаването-ът влиза в пряк конфликт с Voice report-а `neutralized` и Camille statement-а, че не са стигнали Silo 17. | Evidence conflict | VH | Major unresolved contradiction. |
+| E878 | Радиопредаването-ът съществено отслабва certainty, че Kyle и Kennedy са били успешно neutralized. | Model update | H-VH | Не доказва, че Voice е излъгал. |
+| E879 | Самият радиоконтакт не establish-ва физическо присъствие в Silo 17. | Epistemic boundary | VH | Genuine voice/location остават separate questions. |
+| E880 | След радиоконтакт-а групата в Silo 18 се отказва от плана да взриви Judicial. | Direct operational decision | VH | Immediate промяна на стратегията. |
 | E881 | Групата прекратява и immediate plan-а да търси safeguard/poison pipe-а с цел физическо блокиране. | Direct operational decision | VH | Countermeasure effort stopped. |
-| E882 | Radio transmission-ът causal-но променя поведението на Silo 18 и спира текущата safeguard-countermeasure operation. | Operational consequence | VH | Независимо от authenticity. |
-| E883 | Ако transmission-ът е false/manipulated, той би представлявал highly effective deception operation. | Conditional hypothesis | H | Не е established deception. |
+| E882 | Радиопредаването-ът causal-но променя поведението на Silo 18 и спира текущата safeguard-countermeasure operation. | Operational consequence | VH | Независимо от authenticity. |
+| E883 | Ако transmission-ът е false/manipulated, той би представлявал много ефективна операция за измама. | Условна хипотеза | H | Не е established deception. |
 | E884 | Keen е доведен в Georgia, близо до Atlanta, до site, където се изграждат Silos. | Direct episode location/context | VH | Geographic anchor. |
 | E885 | Construction frame-ът показва множество huge circular excavation/build zones и поне една напреднала central cylindrical structure. | Direct visual evidence | VH | Multi-unit site. |
-| E886 | Site-ът е large-scale multi-Silo construction program с паралелни build zones, не small isolated prototype. | Structural inference | H-VH | Strong visual scale evidence. |
-| E887 | Pre-Silo линията достига direct construction phase на Silo system-а. | Timeline anchor | VH | Major origin-state transition. |
-| E888 | Silo project-ът изисква massive coordinated civil-engineering, logistics и industrial footprint. | Scale inference | H-VH | Derived from visible site. |
-| E889 | Показаният Georgia site е construction field на Silo program-а, а не само unrelated industrial site. | Direct contextual conclusion | VH | Derived от scene framing + visual. |
-| E890 | Known Silo field получава geographic anchor в района на Atlanta, Georgia; exact coordinates и per-Silo numbering остават unknown. | Geographic model update | H-VH | Не се overclaim-ва точен site. |
+| E886 | Site-ът е large-scale multi-Silo строителната програма с паралелни build zones, не малък изолиран prototype. | Structural inference | H-VH | Strong визуално evidence за мащаба. |
+| E887 | Pre-Silo линията достига direct етапа на строителство на Silo system-а. | Timeline anchor | VH | Major origin-state transition. |
+| E888 | Silo project-ът изисква мащабно координиран civil-engineering, logistics и industrial footprint. | Scale inference | H-VH | Derived from visible site. |
+| E889 | Показаният Georgia site е строителната площадка на Silo program-а, а не само unrelated industrial site. | Direct contextual conclusion | VH | Derived от scene framing + visual. |
+| E890 | Known Silo field получава geographic anchor в района на Atlanta, Georgia; точните координати и номерирането на отделните Silos остават unknown. | Geographic model update | H-VH | Не се overclaim-ва точен site. |
 
 ## Визуални източници — S03E07
 
@@ -929,7 +929,7 @@ Binary assets са качени отделно в `main` преди analysis PR-
 - [System console / null-feed loop](../assets/S03E07/screenshots/system-console-reboot-null-feed.jpeg)
 - [Exterior night](../assets/S03E07/screenshots/exterior-night.jpeg)
 - [Exterior night / stars](../assets/S03E07/screenshots/exterior-night-stars.jpeg)
-- [Pre-Silo Georgia construction site](../assets/S03E07/screenshots/pre-silo-georgia-construction-site.jpeg)
+- [Pre-Silo Georgia строителната площадка](../assets/S03E07/screenshots/pre-silo-georgia-construction-site.jpeg)
 - [S03E07 visual evidence manifest](../assets/S03E07/MANIFEST.md)
 
 `contact-sheet.jpg` е auxiliary/navigation asset, не primary evidence.
