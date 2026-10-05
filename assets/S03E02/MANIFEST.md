@@ -26,7 +26,7 @@ Binary assets са качени в `main` преди този text-only analysis
 | `screenshots/presilo-real-memories-return.jpeg` | E532–E534 — real memories remain present and can return quickly. | `be849982240dc30d8e5e245ed3039395875f509b` |
 | `screenshots/note-2-silo-council-cafeteria.jpeg` | E535–E536 — second covert note / Silo Council cafeteria instruction. | `bbd2bdd64bd825bbe850d4bf2268dfa5ec3f13a4` |
 | `screenshots/note-3-partial-a.jpeg` | E537–E539 — third note, partially readable only. | `2f9b18e74bd9ac37689832071ac76e9fabadd214` |
-| `screenshots/note-3-partial-b.jpeg` | E537–E539 — alternate third-note frame; transcription remains unresolved. | `122834fff519b83a815ebfc78fc7b2a868cce28e` |
+| `screenshots/note-3-partial-b.jpeg` | E537–E539 — alternate third-note frame; transcription остава неустановено. | `122834fff519b83a815ebfc78fc7b2a868cce28e` |
 | `screenshots/ai-risk-red-line.jpeg` | E540 — red risk line for Juliette. | `b818c516be0389f1da8ff6ea1531edc5afcd8f53` |
 | `screenshots/ai-stabilizing-blue-line.jpeg` | E541 — blue stabilizing-value line. | `546e4defae35d2d65c37651dee853c12cf3a5f1e` |
 | `screenshots/ai-lines-cross-no-longer-useful.jpeg` | E542 — threshold crossing / Juliette no longer useful. | `9a2a78cf8f47dc719ad2dd486a50bdf291924a68` |
