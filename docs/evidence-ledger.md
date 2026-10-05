@@ -508,7 +508,7 @@
 | E490 | На Juliette се дава pharmacological memory-suppression лекарство. | Episode revelation | H-VH | По-късно директно потвърдено от диалога с компютъра/системата. |
 | E491 | Наблюдението около Juliette се използва, за да се следи дали потиснатите спомени се връщат. | Operational inference from dialogue/context | H | Обяснява продължаващото наблюдение въпреки формалната ѝ роля на Mayor. |
 | E492 | Computer/system-ът пита как е Mayor Juliette. | Direct system dialogue | H-VH | Demonstrates current-person context awareness. |
-| E493 | S03E01 computer/system и S02E09 hidden lower interlocutor може да са една и съща мрежа/контролиращ субект или свързани интерфейси. | Cross-system hypothesis | H | Засилен кандидат; идентичността не е доказана. |
+| E493 | Компютърът/системата от S03E01 и скритият долен събеседник от S02E09 може да са една и съща мрежа/контролиращ субект или свързани интерфейси. | Cross-system hypothesis | H | Засилен кандидат; идентичността не е доказана. |
 | E494 | Computer/system dialogue directly confirms memory-suppression лекарство is being administered to Juliette. | Direct system dialogue | VH | Confirms E490. |
 | E495 | Компютърът/системата знае текущото състояние на лечението на Juliette. | Strong system inference | H-VH | Показва текущ оперативен/медицински контекстуален достъп. |
 | E496 | Компютърът/системата заявява, че ситуацията вече е `beyond The Order` („отвъд The Order“). | Direct system dialogue | H-VH | Ключова следа за управленския/контролния слой. |
