@@ -15,7 +15,7 @@ S01E06 показва Juliette на remote video feed, докато се нам�
 
 ## Установено
 
-> **В Silo съществува centralized internal video-surveillance infrastructure, способна да наблюдава private residential space.**
+> **В Silo съществува централизирана вътрешна инфраструктура за видео наблюдение, способна да наблюдава частни жилищни пространства.**
 
 Това вече не е inference от dossiers или character behavior.
 
