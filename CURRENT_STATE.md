@@ -523,7 +523,7 @@ outside environmental hazard remains independently lethal
 
 ### S01E10 — physical key `18`
 
-- Close visual evidence установява, че осветеният object с маркировка `18` е **physical key**.
+- Близкото визуално evidence установява, че осветеният обект с маркировка `18` е **физически ключ**.
 - Bernard possesses/uses it.
 - S02E03 resolve-ва observed access target като **SERVER ROOM**; vault се намира вътре в този restricted layer.
 - Числовото съвпадение със `Silo 18` вече е силна следа, докато връзката с `HDD 18` остава неустановена.
@@ -533,12 +533,12 @@ outside environmental hazard remains independently lethal
 - Wide exterior shots показват repeated circular surface installations, consistent с neighboring Silo sites.
 - Landscape следователно съдържа multiple Silo installations, а не един isolated Silo.
 - На horizon се вижда distant ruined/city-like skyline.
-- Само от visual resemblance не се infer-ва city identity или geographic location.
+- Само от визуална прилика не се извежда идентичност на града или географско местоположение.
 
 ### S01E10 — Syndrome / Level 144 / Janitorial ROTA
 
 - Официална табела `THE SYNDROME` потвърждава institutional symptom list; small text е partially blurred и се transcribe-ва conservatively.
-- Visible progression включва twitching/shaking и по-късно motor/cognitive/nervous-system impairment, но exact wording остава image-limited.
+- Видимата прогресия включва потрепване/треперене и по-късно двигателно/когнитивно/нервно-системно нарушение, но точната формулировка остава ограничена от изображението.
 - Scene context идентифицира bottom като Level 144; area съдържа large axial fans / ventilation-air-handling infrastructure.
 - `ROTA` board в Janitorial closet е организиран по day, `LEVEL NO.` и time slots с assigned names/initials.
 - ROTA board доказва structured level-by-level scheduling, но сам по себе си не установява surveillance targeting или cover identities.
@@ -613,10 +613,10 @@ outside environmental hazard remains independently lethal
 
 ### Governance / Sims / Judge
 
-- Sims е демонстрирал operational surveillance command, covert enforcement, lethal action, narrative control и privileged relic-information access.
+- Sims е демонстрирал оперативно командване на наблюдението, скрито прилагане, смъртоносно действие, контрол върху разказа и привилегирован достъп до информация за реликви.
 - S02E04 показва, че Sims може също да create/shape-ва public political pressure.
 - S02E05 показва, че Bernard може да отстрани Sims от Head of Security, изрично да му откаже `shadow` succession path и да го назначи за Judge.
-- Следователно `Judge` и `shadow` не са equivalent roles: Judge е formal/public office, докато shadow е privileged IT succession/read-in track.
+- Следователно `Judge` и `shadow` не са еквивалентни роли: Judge е формална/публична длъжност, докато `shadow` е привилегирован IT път за наследяване/read-in.
 - Това не установява, че всеки Judge е passive puppet; Meadows демонстрира independent knowledge и choices.
 - Текущата best-fit hierarchy е domain-specific и overlapping, като Bernard държи decisive leverage върху classified IT succession, а Sims запазва independent political/operational capacity.
 
@@ -632,7 +632,7 @@ outside environmental hazard remains independently lethal
 
 ### Relics / archives / Legacy
 
-- S01E06 вече потвърди restricted Judicial relic database с `PRE-SILO` archival records.
+- S01E06 вече потвърди ограничена Judicial база данни за реликви с архивни записи `PRE-SILO`.
 - S01E07 testimony дава причина защо relics са важни: те запазват continuity с pre-Silo history.
 - Твърдението, че забраната на реликви служи за умишлено историческо заличаване, е подкрепено от свидетелство и е силно съвместимо с наблюдаваната архитектура за ограничаване на знанието.
 - Georgia guide има Flamekeeper preservation provenance, но не установява Silo location.
@@ -739,15 +739,15 @@ Observed direct anchors включват:
 | H31 | Reproductive selection е използван за selective lineage suppression срещу Flamekeeper / knowledge-preserving family lines. | H | Active |
 | H32 | Flamekeeper knowledge/history оцелява чрез family/social networks и intergenerational transfer на relics. | H | Active |
 | H33 | Привилегирован скрит слой за контрол/read-in, центриран около Bernard/IT, контролира класифицираното знание и вече доказано включва способност за контрол на комуникациите; ролята `shadow` остава отделен път за наследяване/read-in, различен от публичната длъжност Judge. | VH | Strongly Strengthened / Refactored |
-| H34 | Standard cleaning-suit tape е intentionally или systematically inferior, докато alternative "good" tape materially подобрява seal integrity/survival; възможните failure pathways остават contaminant ingress, breathing-gas loss или и двете. | VH | Strongly Strengthened / Refactored |
+| H34 | Стандартната лента на cleaning костюма е умишлено или системно по-лоша, докато алтернативната „добра“ лента съществено подобрява целостта на уплътнението/оцеляването; възможните пътища на повреда остават проникване на замърсител, загуба на дихателен газ или и двете. | VH | Strongly Strengthened / Refactored |
 | H35 | Historical rebellion sequence в S02E01 изобразява втория Silo, в който по-късно влиза Juliette. | VH | Confirmed / Refactored |
 | H36 | Смъртоносността навън се причинява от подвижна въздушна/прахова опасност в средата, чиято локална концентрация може временно да спадне/се разсее и по-късно да се върне. | H | Strongly Strengthened / Refactored |
 | H37 | Скритото наблюдение чрез камери в огледалата е част от стандартизирана архитектура за контрол между множество Silos поне в два Silos. | H | Strongly Strengthened |
-| H38 | IT е standardized strategic/secured continuity layer поне в Silos 17 и 18, включително protected vaults и continuity power и в двата; Silo 18 допълнително разкрива residential space и Legacy knowledge archive. | VH | Strongly Strengthened / Refactored |
+| H38 | IT е стандартизиран стратегически/защитен слой за приемственост поне в Silos 17 и 18, включително защитени vault-ове и continuity power и в двата; Silo 18 допълнително разкрива жилищно пространство и Legacy архив на знания. | VH | Strongly Strengthened / Refactored |
 | H39 | `THE ORDER` е привилегирована оперативна/управленска doctrine, различна от публичния Pact, и включва активно управление на кризисния разказ, като насочване на вината към Mechanical. | VH | Strongly Strengthened / Refactored |
 | H40 | Cleaning е проектиран публичен ритуал за легитимност/възпиране: манипулираното зелено възприятие подтиква към cleaning, а очакваната видима смърт на cleaner-а подсилва опасността навън; Silo 17 показва каскада на дестабилизация, когато този видим резултат се провали. | VH | Strongly Strengthened / Refactored |
 | H41 | `THE ORDER` кодира познати режими на управленски провал в Silo, включително failed cleaning → риск от война; Silo 17 дава конкретно историческо потвърждение на този модел. | VH | Strongly Strengthened |
-| H42 | IT vault/secured IT layer е protected continuity environment, който запазва хора, resilient power и privileged knowledge през crisis/collapse; S02E07 директно добавя residential space и Legacy library. | VH | Strongly Strengthened / Refactored |
+| H42 | IT vault/защитеният IT слой е защитена среда за приемственост, която запазва хора, устойчиво захранване и привилегировано знание през криза/колапс; S02E07 директно добавя жилищно пространство и Legacy библиотека. | VH | Strongly Strengthened / Refactored |
 | H43 | Standard cleaning protection може да е deliberately calibrated да fail-не в кратък publicly observable window, след като cleaner има достатъчно време да clean-не. | H | Active |
 | H44 | Bernard наследява ограничено, но значимо историческо/cross-Silo знание; библиотеката Legacy от S02E07 дава конкретен механизъм за съхраняване/предаване на тази институционална памет, без да доказва, че всеки известен му факт идва от Legacy. | VH | Strongly Strengthened / Refactored |
 | H45 | The Syndrome може да е systemic human reaction към long-term Silo life, а не primary physiological disease. | M | Active |
@@ -855,9 +855,9 @@ internal mirror cameras / archived feeds
                                    at least THE ORDER + tape secret
 ```
 
-Това подкрепя **restricted read-in governance layer**, а не просто private knowledge на един човек.
+Това подкрепя **ограничен read-in управленски слой**, а не просто частно знание на един човек.
 
-S02E03 добавя, че privileged layer на Bernard включва и long-standing knowledge за failed/dead status на Silo 17, докато Sims демонстрира targeted pharmacological information-containment capability. Knowledge-ът на Bernard остава partial, а не assumed omniscient.
+S02E03 добавя, че привилегированият слой на Bernard включва и отдавнашно знание за failed/dead статуса на Silo 17, докато Sims демонстрира целева фармакологична способност за ограничаване на информацията. Знанието на Bernard остава частично, а не приемано за всезнаещо.
 
 S02E04 допълнително показва, че този layer **не е politically monolithic**: Bernard приписва impeachment pressure срещу Meadows на Sims, докато Sims активно mobilize-ва sentiment срещу Mechanical. Едновременно с това Bernard използва `THE ORDER`, за да shape-не отделна scapegoating operation.
 
@@ -865,7 +865,7 @@ S02E05 прави йерархията по-конкретна: Bernard отст
 
 S02E06 добавя **контрол върху комуникационната инфраструктура** към демонстрирания домейн на Bernard/IT. Институционалното direct messaging съществува, control room приема маршрутизирани полеви доклади, а IT може да изключва радио слоя на Silo. Това не доказва, че IT чете всяко съобщение или контролира всеки комуникационен канал, но установява реална способност за контрол на комуникационна choke point.
 
-S02E07 добавя concrete **institutional-memory mechanism** и visible continuity privilege: vault съдържа `Legacy`, докато IT остава powered по време на по-широк blackout в Silo 18. Privileged layer следователно запазва не само classified access и communications control, но и knowledge и operational continuity.
+S02E07 добавя конкретен **механизъм за институционална памет** и видима привилегия на приемствеността: vault-ът съдържа `Legacy`, докато IT остава захранен по време на по-широк blackout в Silo 18. Привилегированият слой следователно запазва не само класифициран достъп и контрол върху комуникациите, но и знание и оперативна приемственост.
 
 S02E08 изяснява асиметрията: публичният исторически слой е умишлено прекъснат при Quinn, докато привилегированото знание оцелява достатъчно, за да може Bernard да знае скрития разказ за Quinn, а `Legacy` да запази защитен материал. Това подкрепя **контролиран исторически монопол**, а не пълно унищожаване на историята.
 
@@ -944,7 +944,7 @@ radio infrastructure
         └─ Bernard / IT can disable Silo-wide
 ```
 
-Това е layered-access model, а не proof, че всяко digital message се monitored-ва или че ordinary residents нямат никакъв electronic access.
+Това е многослоен модел на достъп, а не доказателство, че всяко digital message се наблюдава или че обикновените жители нямат никакъв електронен достъп.
 
 Ключовото ново разграничение е:
 
@@ -1007,7 +1007,7 @@ PHYSICAL COUNTER-NARRATIVE
         └─ What is IT hiding?
 ```
 
-Note-ът доказва competing messaging, а не truth на всеки claim или official Mechanical authorship.
+Бележката доказва конкуриращи се послания, а не истинността на всяко твърдение или официално авторство от Mechanical.
 
 Blackout-ът добавя visible asymmetry: normal areas губят power, докато IT остава lit, което дава на residents direct evidence, че IT притежава privileged infrastructure.
 
