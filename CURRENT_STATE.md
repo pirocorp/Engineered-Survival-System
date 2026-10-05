@@ -472,132 +472,132 @@ Pre-Silo линията за Iran също се стеснява: Keen опис�
 - Това силно засилва модела за стандартизирана защитена IT-vault архитектура в Silos 17 и 18.
 - Точното съдържание на vault-а и дали номерацията на key-а съответства на номерацията на Silo остават неустановени.
 
-### S02E03 — cross-Silo knowledge на Bernard / age на Jane Carmody
+### S02E03 — cross-Silo знанието на Bernard / възрастта на записа на Jane Carmody
 
 - Bernard знае, че Juliette е достигнала Silo 17.
-- Той заявява, че Silo 17 е "dead" от дълго време.
+- Той заявява, че Silo 17 е `dead` („мъртъв“) от дълго време.
 - Казва, че е знаел това преди Judge Meadows да стане негов shadow.
-- Bernard следователно има inherited/long-standing **partial cross-Silo knowledge**, но няма evidence, че познава цялата system.
-- Bernard казва, че Jane Carmody cleaning recording е на около **200 години**; числото може да е approximate.
+- Bernard следователно има наследено/отдавнашно **частично cross-Silo знание**, но няма evidence, че познава цялата система.
+- Bernard казва, че cleaning записът на Jane Carmody е на около **200 години**; числото може да е приблизително.
 
-### S02E03 — pharmacological потискане на паметта
+### S02E03 — фармакологично потискане на паметта
 
-- Bernard пита Sims какво се е случило с personnel, exposed на classified broadcast на Juliette.
-- Sims казва, че е приложена medication, представена като sedatives.
-- По-късно Sims изрично предлага medication, за да може друг човек да **forget**.
-- Current authorities следователно притежават или claim-ват deliberate pharmacological потискане на паметта capability.
+- Bernard пита Sims какво се е случило с персонала, изложен на класифицираното излъчване на Juliette.
+- Sims казва, че е приложено лекарство, представено като успокоителни.
+- По-късно Sims изрично предлага лекарство, за да може друг човек да **забрави**.
+- Текущите власти следователно притежават или твърдят, че притежават умишлена фармакологична способност за потискане на паметта.
 - Това силно потвърждава по-старото историческо свидетелство за потискане на паметта, докато точната идентичност на лекарството и връзката с твърдението за водата остават неустановени.
 
-### S02E03 — theory за The Syndrome
+### S02E03 — теория за The Syndrome
 
-- Judge Meadows представя theory, че The Syndrome не е primary physiological disease, а reaction към conditions/way of life в Silo.
-- Това е character theory, а не established medical explanation.
-- Не трябва да се overtranslate-ва като "psychosomatic" без по-силен dialogue.
+- Judge Meadows представя теория, че The Syndrome не е първично физиологично заболяване, а реакция към условията/начина на живот в Silo.
+- Това е теория на персонаж, а не установено медицинско обяснение.
+- Не трябва да се превежда прекомерно като `psychosomatic` („психосоматично“) без по-силен диалог.
 
-### S02E03 — visual trigger за cleaner / repeated Jane pattern
+### S02E03 — визуален trigger за cleaner-а / повтарящият се модел на Jane
 
-- Juliette изрично вярва, че manipulated lush view е това, което кара cleaners да clean-ват.
-- Тя разпознава lush image като false, защото съвпада със стария Jane Carmody recording.
-- Тя не знае ordinary word/concept "birds", но разпознава същия movement pattern на flying creatures.
-- Това засилва reused/highly standardized visual-sequence model и независимо демонстрира дълбока загуба на ordinary natural-world vocabulary.
+- Juliette изрично вярва, че манипулираната зелена гледка е това, което кара cleaner-ите да почистват.
+- Тя разпознава зеленото изображение като невярно, защото съвпада със стария запис на Jane Carmody.
+- Тя не знае обичайната дума/концепция `birds` („птици“), но разпознава същия модел на движение на летящите създания.
+- Това засилва модела за повторно използвана/силно стандартизирана визуална последователност и независимо демонстрира дълбока загуба на обикновена лексика за природния свят.
 
-### S02E03 — CODE SILO ORANGE / chronology
+### S02E03 — CODE SILO ORANGE / хронология
 
-- Medical screen изрично показва `CODE SILO ORANGE`.
-- Той инструктира staff **да не премахва birth control** и да гарантира, че patient **вярва, че е премахнат**.
-- Covert reproductive deception следователно е formally encoded institutional medical protocol.
-- Същият record показва `DOB 09/13/116 A.R.`.
-- `A.R.` е директно established като institutional era notation, но screenshot-ът не изписва abbreviation-а.
-- Previous simple H15 calendar model вече не е safe; chronology conflict се запазва изрично, вместо да се remap-ва мълчаливо.
+- Медицински екран изрично показва `CODE SILO ORANGE`.
+- Той инструктира персонала **да не премахва birth control** и да гарантира, че пациентът **вярва, че е премахнат**.
+- Скритата репродуктивна измама следователно е формално кодирана в институционален медицински протокол.
+- Същият запис показва `DOB 09/13/116 A.R.`.
+- `A.R.` е директно установено като институционално обозначение на ера, но screenshot-ът не разшифрова съкращението.
+- Предишният опростен календарен модел H15 вече не е надежден; хронологичният конфликт се запазва изрично, вместо да се пренарежда мълчаливо.
 
-### S02E02 — live exterior cleaner feed
+### S02E02 — live feed от външната среда за cleaner-а
 
 - Bernard/IT получава live video feed, свързан с Juliette, докато тя е навън.
-- Feed-ът продължава отвъд непосредствената surface зона на нейния Silo.
-- Signal-ът се губи, когато Juliette влиза във втория Silo.
-- Exact camera/transmitter/network architecture остава неизвестна.
-- По-ранните архивни файлове `... CLEANING` може да принадлежат към същия по-широк pipeline, но raw feed спрямо рендирания изход, видим за носещия шлема, остава неустановен.
+- Feed-ът продължава отвъд непосредствената повърхностна зона на нейния Silo.
+- Сигналът се губи, когато Juliette влиза във втория Silo.
+- Точната архитектура на камерата/предавателя/мрежата остава неизвестна.
+- По-ранните архивни файлове `... CLEANING` може да принадлежат към същия по-широк pipeline, но суровият feed спрямо рендирания изход, видим за носещия шлема, остава неустановен.
 
-### S02E02 — THE ORDER / failed-cleaning contingency
+### S02E02 — THE ORDER / сценарий при failed cleaning
 
-- Bernard използва отделен physical document, озаглавен `THE ORDER`.
-- Ясно четим heading гласи: `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`.
+- Bernard използва отделен физически документ, озаглавен `THE ORDER`.
+- Ясно четимо заглавие гласи: `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR` („В СЛУЧАЙ НА НЕУСПЕШНО CLEANING, ПОДГОТВЕТЕ СЕ ЗА ВОЙНА“).
 - Judge Meadows знае за `THE ORDER`.
-- Bernard се страхува, че catastrophic outcome, наблюдаван около втория Silo, може да се случи и в неговия.
-- Това установява failed cleaning като recognized Silo-stability crisis condition.
-- Authorship, historical basis, legal relation към Pact и cross-Silo distribution на `THE ORDER` остават неизвестни.
+- Bernard се страхува, че катастрофалният резултат, наблюдаван около втория Silo, може да се случи и в неговия.
+- Това установява failed cleaning като разпознат кризисен сценарий за стабилността на Silo.
+- Авторството, историческата основа, правната връзка с Pact и cross-Silo разпространението на `THE ORDER` остават неизвестни.
 
-### S02E02 — cleaning tape / seal mechanism
+### S02E02 — cleaning лента / механизъм на уплътнението
 
-- Жената, участвала в замяната на tape на Juliette, вярва, че Juliette в крайна сметка е умряла, защото suit-ът е останал без breathable air.
-- Bernard и Judge Meadows приписват неочакваното оцеляване на Juliette на замяната на normal cleaning tape.
-- Meadows казва, че рано или късно някой ще разбере tape mechanism.
-- По-късно Meadows поставя като условие за помощта си да бъде пусната навън след кризата с **good tape**.
+- Жената, участвала в замяната на лентата на Juliette, вярва, че Juliette в крайна сметка е умряла, защото костюмът е останал без въздух за дишане.
+- Bernard и Judge Meadows приписват неочакваното оцеляване на Juliette на замяната на стандартната cleaning лента.
+- Meadows казва, че рано или късно някой ще разбере механизма на лентата.
+- По-късно Meadows поставя като условие за помощта си да бъде пусната навън след кризата с **`good tape` („добра лента“)**.
 - Тези твърдения на вътрешни лица силно подкрепят материална разлика между стандартната cleaning лента и по-добра конфигурация на уплътняване.
 - Точният физически път на повредата остава неустановен: проникване на външен замърсител, загуба на дихателен газ или и двете.
 
-### S02E02 — secured IT / privileged governance layer
+### S02E02 — защитен IT / привилегирован управленски слой
 
-- Bernard access-ва heavy secured/vault-like IT door в Silo на Juliette.
-- S02E01 вече установи analogous secured IT compartment във втория Silo.
-- Следователно поне два Silos споделят repeated secured-IT architectural pattern.
+- Bernard получава достъп до тежка защитена IT врата, подобна на vault, в Silo на Juliette.
+- S02E01 вече установи аналогично защитено IT помещение във втория Silo.
+- Следователно поне два Silos споделят повтарящ се архитектурен модел за защитен IT.
 - Контекстът на сцената свързва защитения IT слой в Silo на Juliette с `THE ORDER`, класифицираното знание за cleaning и привилегированото live наблюдение.
-- Knowledge-ът на Judge Meadows показва, че този secret layer не е exclusive за Bernard.
+- Знанието на Judge Meadows показва, че този таен слой не е изключително достъпен за Bernard.
 
-### S02E02 — rebellion-context symbol
+### S02E02 — символ в контекста на бунта
 
-- Distinct circled painted symbol/emblem се появява в rebellion-context imagery.
-- точното значение, name и faction identity остават unresolved.
+- Отличим ограден с кръг нарисуван символ/емблема се появява в изображения в контекста на бунта.
+- Точното значение, име и принадлежност към фракция остават неустановени.
 
-### S02E01 — вторият Silo / rebellion / mass exit
+### S02E01 — вторият Silo / бунт / масово излизане
 
-- Opening historical sequence се развива във втория Silo, в който по-късно влиза Juliette.
-- Видими са Anti-Founder / anti-deception graffiti.
+- Началната историческа последователност се развива във втория Silo, в който по-късно влиза Juliette.
+- Видими са графити срещу Основателите / срещу измамата.
 - Налице е 15-минутно писмено предупреждение, свързано с генератора, но точната му връзка с конфликта около IT остава неустановена.
-- Sheriff-led group атакува/напредва към IT; друга група защитава IT.
-- Sheriff твърди, че Russell ги е излъгал; това е Свидетелство на персонаж, а не objective proof.
-- Sheriff-led group достига airlock, Sheriff го отваря и групата излиза навън.
-- Ранна interpretation, че атаката е насочена към Engineering/generator control, се запазва като **E188 superseded inference**, след като по-късен evidence идентифицира IT като target.
+- Група, водена от Sheriff, атакува/напредва към IT; друга група защитава IT.
+- Sheriff твърди, че Russell ги е излъгал; това е свидетелство на персонаж, а не обективно доказателство.
+- Групата, водена от Sheriff, достига airlock-а, Sheriff го отваря и групата излиза навън.
+- Ранната интерпретация, че атаката е насочена към Engineering/контрола на генератора, се запазва като **E188 заменен извод**, след като по-късно evidence идентифицира IT като цел.
 
-### S02E01 — exterior deaths / външна опасност
+### S02E01 — смъртните случаи навън / външна опасност
 
-- Juliette достига отделен Silo exterior site, заобиколен от голямо поле с човешки останки.
-- Cross-scene continuity свързва remains field с historical mass-exit sequence.
+- Juliette достига отделна външна зона на Silo, заобиколена от голямо поле с човешки останки.
+- Последователността между сцените свързва полето с останки с историческото масово излизане.
 - Това потвърждава реална смъртоносна външна опасност при наблюдаваните условия.
-- Exact lethal agent остава неизвестен.
+- Точният смъртоносен агент остава неизвестен.
 - Текущият най-подходящ клас е въздушно / атмосферно излагане; токсин/химикал/аерозол и патоген остават актуални алтернативи.
-- Pure external radiation като sole immediate killer е weakened, докато airborne radioactive particulate не е изключен.
+- Чистата външна радиация като единствен непосредствен убиец е отслабена като обяснение, докато радиоактивни частици във въздуха не са изключени.
 
-### S02E01 — suit breathing / interior air
+### S02E01 — дишане в костюма / вътрешен въздух
 
-- Във втория Silo Juliette изпитва acute breathing distress, докато още е sealed в suit/helmet environment.
-- След счупване/отваряне на helmet-а тя може да диша interior atmosphere на втория Silo.
-- Suit survival model следователно се разширява от tape/seal integrity към **seal + breathing-support integrity**.
+- Във втория Silo Juliette изпитва остър дихателен проблем, докато още е запечатана в средата на костюма/шлема.
+- След счупване/отваряне на шлема тя може да диша вътрешната атмосфера на втория Silo.
+- Моделът за оцеляване с костюма следователно се разширява от целостта на лентата/уплътнението към **уплътнение + целостта на системата за дишане**.
 - Лошото стандартно уплътняване може да позволява проникване на външен замърсител, по-бърза загуба на дихателен газ или и двете; точният механизъм е неустановен.
 
-### S02E01 — standardized cross-Silo surveillance / IT
+### S02E01 — стандартизирано cross-Silo наблюдение / IT
 
-- Вторият Silo съдържа concealed camera зад/в mirror structure, съвпадаща със surveillance concept в Silo на Juliette.
-- Covert mirror-camera surveillance следователно не е unique за един Silo.
-- Вторият Silo съдържа IT institutional area, която е била actively defended по време на internal conflict.
-- Present-day IT access bridge е severed, създавайки physical defensive/isolation geometry.
-- IT съдържа hardened secured/vault-like compartment.
+- Вторият Silo съдържа скрита камера зад/в конструкция с огледало, съвпадаща с концепцията за наблюдение в Silo на Juliette.
+- Скритото наблюдение чрез камери в огледалата следователно не е уникално за един Silo.
+- Вторият Silo съдържа институционална IT зона, която е била активно защитавана по време на вътрешния конфликт.
+- В настоящето мостът за достъп до IT е прекъснат, създавайки физическа отбранителна/изолираща геометрия.
+- IT съдържа укрепено защитено помещение, подобно на vault.
 - Тези наблюдения подкрепят стандартизиран дизайн за наблюдение/контрол между множество Silos, но още не доказват, че една активна централна власт управлява всеки Silo.
 
-### S02E01 — residual power / flooding / survivor
+### S02E01 — остатъчно захранване / наводняване / оцелял
 
-- Fixed lighting остава active поне в agricultural area и IT bridge area.
+- Фиксираното осветление остава активно поне в земеделската зона и зоната на IT моста.
 - Вторият Silo следователно не е напълно без електрозахранване; точният източник на захранване е неизвестен.
-- Водата се е покачила до няколко levels под IT, установявайки massive internal flooding.
-- Поне един living person остава вътре в secured IT compartment.
-- Survivor-ът заплашва Juliette, ако тя се опита да отвори door-а.
-- S02E08 директно потвърждава multiple living inhabitants в Silo 17; той е collapsed/largely depopulated, но не е ограничен само до познатия IT-vault survivor.
+- Водата се е покачила до няколко нива под IT, установявайки мащабно вътрешно наводняване.
+- Поне един жив човек остава вътре в защитеното IT помещение.
+- Оцелелият заплашва Juliette, ако тя се опита да отвори вратата.
+- S02E08 директно потвърждава множество живи обитатели в Silo 17; той е разрушен/до голяма степен обезлюден, но не е ограничен само до познатия оцелял от IT vault-а.
 
-### S02E01 — agriculture / Juliette childhood
+### S02E01 — земеделие / детството на Juliette
 
-- Голям agricultural/growing zone е интегриран във vertical habitation structure на Silo.
-- Childhood flashback показва young Juliette, която посещава excavation machine в своя Silo с приятел.
-- Това установява early personal familiarity с deep legacy infrastructure, без да доказва lower-tunnel/inter-Silo connection.
+- Голяма земеделска/отглеждаща зона е интегрирана във вертикалната обитаема структура на Silo.
+- Спомен от детството показва младата Juliette, която посещава изкопна машина в своя Silo с приятел.
+- Това установява ранна лична познатост с дълбоката стара инфраструктура, без да доказва връзка с долния тунел/между Silos.
 
 ### S01E10 — deception в cleaner helmet / exterior truth
 
