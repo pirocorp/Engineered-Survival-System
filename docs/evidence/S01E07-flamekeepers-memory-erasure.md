@@ -50,7 +50,7 @@ Historical testimony заявява, че във водата е било доб
 
 ## H30 — NEW
 
-> **Умишлено population memory suppression чрез water system е било pre-Rebellion control mechanism.**
+> **Умишлено потискане на паметта на населението чрез водната система е било pre-Rebellion контролен механизъм.**
 
 **Confidence:** M  
 **Status:** Active
@@ -59,6 +59,6 @@ Historical testimony заявява, че във водата е било доб
 
 ## H6 / H7 impact
 
-H6 остава VH, но се broaden-ва от restricted knowledge access към multi-layer historical-erasure architecture.
+H6 остава VH, но се разширява от ограничен достъп до знание към многослойна архитектура за историческо заличаване.
 
 H7 се укрепва, защото emerging account поставя organized erasure преди Rebellion, докато official story центрира destruction върху rebels.
