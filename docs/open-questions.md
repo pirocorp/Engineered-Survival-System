@@ -541,7 +541,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 ## S02E02 — secured IT / privileged read-in layer
 
 385. Какво точно има зад secured IT vault door в Juliette's Silo?
-386. Всички privileged systems — `THE ORDER`, live exterior feed, archives — физически ли са зад този secured layer?
+386. Всички привилегировани системи — `THE ORDER`, live feed от външната среда, архивите — физически ли са зад този защитен слой?
 387. Вторият Silo има ли homologous `THE ORDER` / live-feed infrastructure зад своя secured IT door?
 388. Кой има physical access до Juliette-Silo secured IT compartment?
 389. Judge Meadows има ли direct access или само shared knowledge?
@@ -586,7 +586,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 414. Russell Bernard-equivalent Head of IT ли е, another privileged role ли е, or something else? S02E04 confirms only that the survivor was a child during the rebellion and Russell had authority/access to place him in the vault.
 415. **ПРЕФОРМУЛИРАНО in S02E04:** survivor-ът е бил дете, когато Russell го е поставил/затворил във vault-а. Защо е избрано точно това дете?
-416. **СИЛНО СТЕСНЕНО in S02E07:** vault-ът на Silo 18 директно включва residential/living space + `Legacy` library, докато Silos 17/18 показват IT continuity power. Exact standardized occupant capacity, supplies и full protected-system set остават open.
+416. **СИЛНО СТЕСНЕНО в S02E07:** vault-ът на Silo 18 директно включва жилищно/обитаемо пространство + библиотеката `Legacy`, докато Silos 17/18 показват IT continuity power. Точният стандартизиран капацитет за обитатели, запасите и пълният набор от защитени системи остават отворени въпроси.
 417. Съдържа ли vault-ът `THE ORDER`, информация за състоянието на други Silos, комуникационни или контролни системи?
 418. Key `18` unlock-ва само Server Room ли, или и inner vault access chain?
 419. Всеки Silo има ли physical key numbered by its Silo designation?
@@ -683,7 +683,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S02E04 — immersive headset / cleaner visual technology
 
-480. Какъв е source/archive-ът на Monteverde 2018 environment?
+480. Какъв е източникът/архивът на средата Monteverde 2018?
 481. Recorded 360/VR environment ли е, reconstructed simulation ли е, or another stored visual format?
 482. Cleaner helmets и standalone headset използват ли same rendering engine/software pipeline?
 483. Cleaner lush environment literal stored pre-Silo recording ли е?
@@ -760,7 +760,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 533. Къде започват тези lines според full schematic-а?
 534. Излизат ли физически извън Silo structure?
 535. Има ли analogous lines към други privileged departments?
-536. Съвпада ли IT line с independent external power feed-а, описан от Silo 17 survivor?
+536. Съвпада ли IT линията с независимото външно захранване, описано от оцелелия от Silo 17?
 537. Judicial line означава ли, че Judicial има own protected connection independent from public infrastructure?
 538. Schematic-ът original construction plan ли е, later modification ли е, or operational overlay?
 
@@ -787,7 +787,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 554. Messages centrally retained/logged ли са and for how long?
 555. IT може ли да read/search/delete/modify institutional messages?
 556. Digital messaging usable ли е across all 144 levels or only through selected terminals/departments?
-557. Какво practically означава previously observed `PRIVATE` service/channel спрямо S02E06 `DIRECT MESSAGING`?
+557. Какво практически означава наблюдаваната по-рано услуга/канал `PRIVATE` спрямо `DIRECT MESSAGING` от S02E06?
 
 ## S02E06 — control-room field / HUMINT reporting
 
@@ -920,7 +920,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 654. Кой е intended future reader — Head of IT, shadow, independent investigator, Quinn descendant, or anyone capable of decoding?
 655. Какъв cipher/key е използван за final payload?
 656. Как reader-ът трябва да obtain-не decoding key?
-657. Quinn очаквал ли е institutional archive да preserve-не letter-а, or private relic chain?
+657. Quinn очаквал ли е институционален архив да запази писмото или частна верига от реликви?
 658. Remaining decoded text corroborate-ва ли Bernard's account of Quinn's reset, or reveals a deeper contradiction?
 
 ## S02E08 — R. Ahundsen / Judge Sims / apple tree
@@ -1024,7 +1024,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 729. Каква е exact function на burner/flame cycle след entry — decontamination, sterilization, contaminant destruction или друго?
 730. Кой може да command-ва exterior hatch/airlock и Bernard лично ли го control-ва?
-731. Juliette's `not safe / do not come out` message показан ли е unfiltered на residents и как IT може да mediate този feed?
+731. Съобщението на Juliette `not safe / do not come out` („не е безопасно / не излизайте“) показано ли е нефилтрирано на жителите и как IT може да посредничи този feed?
 732. Level 1 Sheriff/cafeteria/airlock adjacency как изглежда в exact floor plan?
 733. До каква степен stair sabotage променя long-term mobility и control of upper/lower Silo?
 
