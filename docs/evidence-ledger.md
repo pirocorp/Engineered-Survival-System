@@ -992,9 +992,9 @@ Live-view provisional numbering беше нормализирано тук в е
 | E952 | Aircraft systems са били replaced/retrofitted с older analog systems като countermeasure срещу nano weapon-а. | Direct mission-preparation rationale | VH | Known-threat hardening. |
 | E953 | Analog retrofit-ът не предотвратява takeover-а. | Capability conclusion | VH | Countermeasure insufficient. |
 | E954 | Old generic `remote hack` model се refactor-ва: nano weapon е concrete takeover mechanism. | Historical hypothesis revision | H-VH | No separate hacker required. |
-| E955 | Target facility е било планирано да бъде унищожено с small nuclear device под него. | Direct operational disclosure | VH | Primary destruction plan. |
+| E955 | Target facility е ударено с small nuclear device, детонирана под него. | Direct operational disclosure | VH | Detonation is established; full destruction extent is not separately established. |
 | E956 | Nuclear device е поставена/доставена чрез secret underground tunnel около 120 km. | Direct operational disclosure | VH | Corrects provisional 75 km note. |
-| E957 | Nuclear destruction plan е отделен от aircraft като bomb-delivery mechanism. | Mission-plan conclusion | H-VH | Aircraft role remains separate. |
+| E957 | Nuclear strike-ът е отделен от aircraft като bomb-delivery mechanism. | Mission-plan conclusion | H-VH | Aircraft role remains separate. |
 | E958 | Journalist-ът обвинява leadership-а, че aircraft team-ът е бил използван като experiment за enemy nano capabilities. | Direct journalist accusation | VH | Truth status unconfirmed. |
 | E959 | Accusation-ът за experimental sacrifice не е independently confirmed. | Epistemic boundary | VH | Keep testimony separate from fact. |
 | E960 | Operation може да има dual-track logic: destroy facility + characterize nano weapon. | Conditional operational hypothesis | H | Based on accusation + known strike plan. |
