@@ -1,20 +1,20 @@
-# S03E02 — memory retrieval suppression и narrative conditioning
+# S03E02 — извличане на спомени потискане и разказ обуславяне
 
-**Knowledge boundary:** `S03E02`
+**Граница на знанието:** `S03E02`
 
-## Direct pre-Silo evidence
+## пряк от периода преди силозите доказателство
 
-Daniel Keen посещава surviving sister-а си в hospital след Iran operation. Тя не го разпознава. Treating doctor-ът поема responsibility за това memory state и описва controllable treatment process.
+Daniel Keen посещава surviving sister-а си в hospital след Iran operation. Тя не го разпознава. Treating doctor-ът поема responsibility за това memory state и описва controllable лечение process.
 
 Doctor-ът заявява, че:
-- treatment-ът може да избира кои memories да бъдат restored и кои omitted;
-- recovery включва repeatedly telling patient-а собствената ѝ история;
+- лечение-ът може да избира кои memories да бъдат restored и кои omitted;
+- recovery включва repeatedly telling пациент-а собствената ѝ история;
 - може да ѝ бъде внушена false autobiographical story;
-- изграждането на false replacement narrative отнема много време и усилия;
+- изграждането на false replacement разказ отнема много време и усилия;
 - real memories се връщат бързо;
-- те все още са налични, но patient-ът не може да ги вижда/достъпва.
+- те все още са налични, но пациент-ът не може да ги вижда/достъпва.
 
-## Mechanism model
+## механизъм модел
 
 ```text
 stored real memories
@@ -28,27 +28,27 @@ stored real memories
       original memories can re-emerge
 ```
 
-Това supports `retrieval blocking / access suppression`, а не necessarily physical destruction на memory trace.
+Това supports `retrieval blocking / access suppression`, а не necessarily физически destruction на memory trace.
 
 ## Cross-era parallel към Juliette
 
-S03E01/S03E02 Juliette pattern:
+S03E01/S03E02 Juliette модел:
 - `vitamins`;
-- missing access to critical autobiographical/operational memories;
+- missing достъп to critical autobiographical/оперативен memories;
 - false `bunker` account;
-- repeated institutional reinforcement;
-- surveillance for spontaneous memory return;
-- dosage escalation when protected memories return.
+- repeated институционален reinforcement;
+- наблюдение for spontaneous memory return;
+- dosage escalation when защитен memories return.
 
-Functional architecture е strikingly similar, но evidence не establishes:
+Functional архитектура е strikingly similar, но доказателство не establishes:
 - same molecule;
 - same dosage;
 - same protocol version;
-- direct organizational continuity;
-- identical neural mechanism.
+- пряк organizational непрекъснатост;
+- identical neural механизъм.
 
 ## Correction history
 
-S03E01 E489 използва provisional wording `memory-erasure/conditioning`. S03E02 mechanism evidence refines this to **memory suppression / retrieval blocking + narrative conditioning**.
+S03E01 E489 използва предварителен wording `memory-erasure/conditioning`. S03E02 механизъм доказателство refines this to **потискане на паметта / retrieval blocking + разказ обуславяне**.
 
-Historical wording се пази като prior model state; не се silently overwrites.
+исторически wording се пази като prior модел state; не се silently overwrites.
