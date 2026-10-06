@@ -1,23 +1,23 @@
 # S01E10 — Barren reality, multi-Silo landscape and distant skyline
 
-**Knowledge boundary:** `S01E10`
+**Граница на знанието:** `S01E10`
 
-## Barren exterior
+## безплодна външна среда
 
-След като false lush helmet layer изчезва, Juliette вижда barren/devastated exterior.
+След като false lush шлем слой изчезва, Juliette вижда barren/devastated външна среда.
 
 Това силно установява barren representation като substantially real.
 
 ## Multiple Silos
 
-Wide exterior shots показват повтарящи се circular surface installations, съвместими с neighboring Silo sites.
+Wide външна среда shots показват повтарящи се circular surface installations, съвместими с neighboring Silo sites.
 
 Това refactor-ва H10:
 
 > **В околния landscape съществуват multiple Silo installations.**
 
-**Confidence:** VH  
-**Status:** Confirmed / Refactored
+**увереност:** VH  
+**статус:** потвърден / Refactored
 
 По-ранната следа `SILO_COUNT` вече е съвместима с директно наблюдаваната структура на света, вместо да стои самостоятелно като слаба текстова спекулация.
 
@@ -25,15 +25,15 @@ Wide exterior shots показват повтарящи се circular surface in
 
 Вижда се далечен ruined/city-like skyline.
 
-**Confidence:** H
+**увереност:** H
 
 Не извеждаме:
 - identity на city;
 - state/country;
-- връзка с Georgia relic;
+- връзка с Georgia реликва;
 - event/cause of destruction.
 
-## Visual evidence
+## визуален доказателство
 
 - [Barren exterior + skyline](../../assets/S01E10/screenshots/exterior-barren-city-skyline.jpeg)
 - [Surface hatch / barren terrain](../../assets/S01E10/screenshots/exterior-silo-hatch-barren-terrain.jpeg)
