@@ -1,19 +1,19 @@
-# S03E01 — supervisory computer/system, The Order и hidden-lower link
+# S03E01 — supervisory computer/система, The Order и скрит-lower link
 
-**Knowledge boundary:** `S03E01`
+**Граница на знанието:** `S03E01`
 
-## Direct behavior
+## пряк behavior
 
-Computer/system-ът:
+Computer/система-ът:
 - пита за Mayor Juliette;
-- знае, че ѝ се дава memory-suppression medication;
+- знае, че ѝ се дава memory-потискане medication;
 - заявява, че current situation е `beyond The Order`;
 - реагира `This concerns me` на returning memory;
 - иска doubled dose.
 
 ## Structural implication
 
-Това показва context-aware supervisory capability с operational influence. Не е просто static archive/Legacy terminal.
+Това показва контекст-aware supervisory възможност с оперативен influence. Не е просто static архив/Legacy terminal.
 
 ```text
 The Order / local IT playbook
@@ -23,27 +23,27 @@ current crisis exceeds playbook
 computer/system continues assessment + intervention
 ```
 
-## Relation към hidden lower contact
+## Relation към скрит lower contact
 
-S02E09 hidden lower interlocutor:
-- разпознава visitor/context;
+S02E09 скрит lower interlocutor:
+- разпознава visitor/контекст;
 - знае Quinn/Meadows/George history;
 - предупреждава за safeguard activation.
 
-S03E01 computer/system:
-- знае current Juliette status/treatment;
-- treats safeguard-related memory recovery as risk;
+S03E01 computer/система:
+- знае current Juliette статус/лечение;
+- treats safeguard-related memory recovery as риск;
 - intervenes in dose.
 
-Best current hypothesis: **same network/controller или closely related supervisory interfaces**. Exact same entity не е direct-confirmed.
+Best current хипотеза: **same мрежа/controller или closely related supervisory interfaces**. точен same entity не е пряк-потвърден.
 
 ## Tunnel / Lukas
 
-Lower tunnel е sealed; Lukas е missing. Official reason е safety/unauthorized-youth access. Knowledge-containment interpretation остава candidate.
+Lower tunnel е sealed; Lukas е missing. Official reason е safety/unauthorized-youth достъп. Knowledge-containment interpretation остава candidate.
 
 ## Boundaries
 
-- не наричаме system-а confirmed AI;
-- не приемаме, че system-ът е authored The Order;
-- не приемаме direct safeguard command authority без evidence;
-- не приемаме central cross-Silo scope без evidence.
+- не наричаме система-а потвърден AI;
+- не приемаме, че система-ът е authored The Order;
+- не приемаме пряк safeguard command authority без доказателство;
+- не приемаме централен междусилозен scope без доказателство.
