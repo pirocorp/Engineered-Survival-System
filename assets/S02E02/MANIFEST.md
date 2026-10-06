@@ -1,43 +1,43 @@
-# S02E02 visual evidence manifest
+# S02E02 — Манифест на визуалните доказателства
 
-**Knowledge boundary:** `S02E02`
+**Граница на знанието:** `S02E02`
 
-Този package съдържа само user-provided S02E02 TV photographs, обработени за archival use.
+Този пакет съдържа само предоставени от потребителя снимки на телевизионния екран от S02E02, обработени за архивна употреба.
 
 ## Правила за обработка
 
-- първо perspective correction / TV-plane rectification;
-- output е normalized до `1536×864`;
-- JPEG quality 95;
-- без generative editing;
-- без content reconstruction или object removal;
-- без synthetic fill;
-- source subtitles, glare/reflections и visible scene content са запазени;
-- не са използвани external или future-episode sources.
+- първо е приложена корекция на перспективата / ректификация спрямо равнината на телевизионния екран;
+- изходните изображения са нормализирани до `1536×864`;
+- качество на JPEG: 95;
+- без генеративно редактиране;
+- без реконструкция на съдържание или премахване на обекти;
+- без синтетично запълване;
+- изходните субтитри, отблясъци/отражения и видимото съдържание на сцената са запазени;
+- не са използвани външни източници или информация от бъдещи епизоди.
 
 ## Избрани кадри
 
-| Evidence | File | Bytes | Git blob SHA | Notes |
+| Доказателство | Файл | Байтове | Git blob SHA | Бележки |
 |---|---|---:|---|---|
-| E210-E211 | `screenshots/bernard-live-helmet-feed-second-silo.jpeg` | 349512 | `da2afc6f7bd24b214351689b059c6320b54eaaa6` | Bernard/IT получава live видео от външната среда, свързано с Juliette; feed-ът по-късно се губи, когато тя влиза във втория Silo. |
-| E221 context | `screenshots/bernard-reaction-to-second-silo-feed.jpeg` | 294749 | `2dc00f218992f2a4a4c650dc33ac0de82b5c3fdf` | Спомагателен контекстуален кадър. Изражението на лицето не се използва за извеждане на точен мотив/знание без диалог. |
-| E212 | `screenshots/the-order-cover.jpeg` | 273493 | `0b12605ca81c837df910ad6abb1f858e921c541c` | Physical document със заглавие THE ORDER, консултиран от Bernard/IT. |
-| E213 | `screenshots/the-order-failed-cleaning-prepare-for-war.jpeg` | 340312 | `b40524a22906d777c515c4c2347b4f30f33764d3` | THE ORDER heading: IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR. |
-| E214-E216 | `screenshots/bernard-it-vault-door.jpeg` | 441992 | `d2eeac3ab821a622a607c3108a3eae5af6c57533` | Bernard при secured vault-like IT door; подкрепя cross-Silo secured-IT architectural parallel. |
-| E222 | `screenshots/rebellion-circled-symbol-graffiti.jpeg` | 319225 | `d94d832f80fce6b6eeeddfe290a304511b1d37c7` | Distinct circled graffiti symbol/emblem в rebellion-context imagery; meaning остава unresolved. |
+| E210-E211 | `screenshots/bernard-live-helmet-feed-second-silo.jpeg` | 349512 | `da2afc6f7bd24b214351689b059c6320b54eaaa6` | Bernard/IT получава видео на живо от външната среда, свързано с Juliette; потокът по-късно се губи, когато тя влиза във втория силоз. |
+| E221 context | `screenshots/bernard-reaction-to-second-silo-feed.jpeg` | 294749 | `2dc00f218992f2a4a4c650dc33ac0de82b5c3fdf` | Спомагателен контекстуален кадър. Изражението на лицето не се използва за извеждане на точен мотив или знание без диалог. |
+| E212 | `screenshots/the-order-cover.jpeg` | 273493 | `0b12605ca81c837df910ad6abb1f858e921c541c` | Физически документ със заглавие `THE ORDER`, използван от Bernard/IT. |
+| E213 | `screenshots/the-order-failed-cleaning-prepare-for-war.jpeg` | 340312 | `b40524a22906d777c515c4c2347b4f30f33764d3` | Заглавие в `THE ORDER`: `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`. |
+| E214-E216 | `screenshots/bernard-it-vault-door.jpeg` | 441992 | `d2eeac3ab821a622a607c3108a3eae5af6c57533` | Bernard при защитена врата към трезороподобно помещение на IT; подкрепя архитектурен паралел между защитените IT зони в различни силози. |
+| E222 | `screenshots/rebellion-circled-symbol-graffiti.jpeg` | 319225 | `d94d832f80fce6b6eeeddfe290a304511b1d37c7` | Отличим ограден графити символ/емблема в изображения от контекста на Бунта; значението остава неизяснено. |
 
 ## Граници на доказателствата
 
-- E210–E211: сцената подкрепя live video feed от външната среда, свързан с Juliette, който достига Bernard/IT, и загубата му при влизането ѝ във втория Silo. Точният механизъм камера/предавател/мрежа остава неустановен.
-- E212: `THE ORDER` е directly visible като distinct physical document.
-- E213: заглавието `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR` („В случай на неуспешно cleaning, подгответе се за война“) е директно четимо. По-дребният основен текст не се транскрибира прекомерно.
-- E214–E216: Silo на Bernard съдържа secured vault-like IT access layer; cross-Silo similarity към втория Silo strengthens standardized IT-vault architecture, но identical contents/functions остават unconfirmed.
-- E221: concern-ът на Bernard, че същата съдба може да сполети неговия Silo, е dialogue/context evidence; close-up frame сам по себе си не се третира като proof of motive.
-- E222: ограденият графити символ се записва като неизвестна емблема в контекста на бунта. Точното значение/идентичност на фракцията не се извежда.
-- E217–E220 и E223–E224 са dialogue-driven datapoints без dedicated primary screenshots в този batch.
-- Не се приема, че `THE ORDER` legally outranks Pact, нито че доказва single live central authority над всички Silos.
-- Стандартната cleaning лента е силно замесена като умишлено/системно по-лоша, но точният физически път (проникване на външен замърсител, загуба на дихателен газ или и двете) остава неустановен.
+- E210–E211: сцената подкрепя наличието на видео на живо от външната среда, свързано с Juliette, което достига до Bernard/IT, и загубата на потока при влизането ѝ във втория силоз. Точният механизъм — камера, предавател или мрежа — остава неустановен.
+- E212: `THE ORDER` се вижда директно като отделен физически документ.
+- E213: заглавието `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR` („В случай на неуспешно почистване, подгответе се за война“) е директно четимо. По-дребният основен текст не се транскрибира прекомерно.
+- E214–E216: защитеният трезор е пространствено разположен в Server Room и установява ограничен маршрут за достъп `key 18 -> Server Room -> vault`. Приликата между силозите подкрепя стандартизирана архитектура на защитените IT зони, но идентични съдържание и функции не са потвърдени.
+- E221: тревогата на Bernard, че същата съдба може да сполети неговия силоз, е доказателство от диалог и контекст; близкият кадър на лицето сам по себе си не се третира като доказателство за мотив.
+- E222: ограденият графити символ се записва като неизвестна емблема в контекста на Бунта. Не се извежда точно значение или идентичност на фракцията.
+- E217–E220 и E223–E224 са данни, установени основно чрез диалог, без отделни основни екранни снимки в тази партида.
+- Не се приема, че `THE ORDER` юридически стои над Пакта, нито че доказва единна действаща централна власт над всички силози.
+- Стандартната лента при почистване е силно замесена като умишлено/системно по-лоша, но точният физически механизъм — проникване на външен замърсител, загуба на дихателен газ или комбинация от двете — остава неустановен.
 
 ## Контактен лист
 
-`contact-sheet.jpg` е auxiliary navigation asset, а не primary evidence.
+`contact-sheet.jpg` е спомагателен навигационен материал, а не основно доказателство.
