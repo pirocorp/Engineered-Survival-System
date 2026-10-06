@@ -17,21 +17,21 @@ S03E08 показва Silo 1 в центъра на седем групи. От�
 
 ## 2. Safeguard / poison-pipe network
 
-Diagram-ът показва седем main lines от Silo 1 към седемте groups, след което local branching към Silos в group-а.
+Diagram-ът показва седем main lines от Silo 1 към седемте groups, след което локално разклонениеing към Silos в group-а.
 
 Най-консервативният system model е:
 
 ```text
 Silo 1
-  ├─ trunk 1 → group 1 → local Silo branches
-  ├─ trunk 2 → group 2 → local Silo branches
+  ├─ главна линия 1 → group 1 → local Silo разклонениеes
+  ├─ главна линия 2 → group 2 → local Silo разклонениеes
   ├─ ...
-  └─ trunk 7 → group 7 → local Silo branches
+  └─ главна линия 7 → group 7 → local Silo разклонениеes
 ```
 
-Това прави Silo 1 central routing point за safeguard distribution. Не е доказано дали toxic agent physically originates вътре в Silo 1, дали trunk-овете имат redundancy или дали local branch може да бъде bypass-нат чрез secondary route.
+Това прави Silo 1 central routing point за safeguard distribution. Не е доказано дали toxic agent physically originates вътре в Silo 1, дали главна линия-овете имат redundancy или дали локално разклонение може да бъде bypass-нат чрез secondary route.
 
-Local blocking към Silo 18 може да прекъсне неговия delivery path, без това да означава global shutdown на safeguard за всички Silos.
+Local blocking към Silo 18 може да прекъсне неговия delivery path, без това да означава пълно изключване на safeguard за всички Silos.
 
 ## 3. Construction machine lifecycle
 
