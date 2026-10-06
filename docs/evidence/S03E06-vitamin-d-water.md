@@ -1,23 +1,23 @@
 # S03E06 — active Vitamin D+ water deployment
 
-**Knowledge boundary:** `S03E06`
+**Граница на знанието:** `S03E06`
 
-## Direct event
+## пряк event
 
 Camille Sims пуска **Vitamin D+** във водоснабдяването.
 
-Това е operational confirmation, че waterborne memory-suppression architecture не е само doctrine, contingency или планирана възможност.
+Това е оперативен confirmation, че waterborne памет-suppression архитектура не е само doctrine, contingency или планирана възможност.
 
-## Continuity с по-ранното evidence
+## непрекъснатост с по-ранното доказателство
 
 S03E03 установява:
-- `Vitamin D+` като memory-suppression/forgetting chemistry;
-- water supply като population-scale delivery path;
-- system framing-а, че този protocol увеличава survival/stability probability.
+- `Vitamin D+` като памет-suppression/forgetting chemistry;
+- water supply като population-scale доставка path;
+- система framing-а, че този protocol увеличава survival/stability probability.
 
 S03E05 допълва, че pharmacological suppression се комбинира с removal/concealment на relic retrieval cues.
 
-S03E06 добавя missing operational step:
+S03E06 добавя missing оперативен step:
 
 ```text
 memory-suppression doctrine
@@ -31,23 +31,23 @@ population-scale exposure capability
 
 ## Какво вече е установено
 
-- Camille има Head-of-IT access/read-in.
-- Vitamin D+ се подава през central water supply.
+- Camille има Head-of-IT достъп/read-in.
+- Vitamin D+ се подава през централен water supply.
 - protocol-ът е реално активиран.
 
 ## Какво не е установено
 
-Episode evidence не определя:
-- exact dose/concentration;
+Episode доказателство не определя:
+- точен dose/concentration;
 - exposure duration;
 - дали target е целият Silo или subset;
 - кои memories/knowledge classes се suppress-ват;
-- дали already recovered memory може да бъде отново blocked;
+- дали already recovered памет може да бъде отново blocked;
 - дали определени roles са exempt;
-- дали Camille действа по direct instruction от „Гласът“, по The Order или чрез собствена authorized interpretation.
+- дали Camille действа по пряк instruction от „Гласът“, по The Order или чрез собствена authorized interpretation.
 
 ## Relation към Juliette negotiation
 
-В същия episode Juliette предлага доброволно връщане към memory-suppression medication и аналогичен regime за децата от Silo 17.
+В същия episode Juliette предлага доброволно връщане към памет-suppression medication и аналогичен regime за децата от Silo 17.
 
-Това независимо подкрепя, че memory suppression е active governance/control instrument, а не само historical practice.
+Това независимо подкрепя, че памет suppression е active governance/контрол instrument, а не само исторически practice.
