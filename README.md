@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S03E07 supervisory layer-ът вече има demonstrated exterior-status reach, а Kyle/Kennedy mission-ът отваря силна хипотеза за external enforcement capability. Същевременно „Гласът“ не изглежда всезнаещ: Silo 17 safeguard defeat и истинската цел на Juliette се реконструират чрез inference, а по-късната радиовръзка влиза в конфликт с `neutralized` report-а. Low-level console показва practical live-feed → static-loop substitution. В pre-Silo линията сестрата на Daniel Keen има fragmented recall под formal NDA/read-in control, а самият Silo construction field е локализиран в Georgia, близо до Atlanta.**
+> **След S03E09 50-Silo topology вече е потвърдена и от physical opening-day complex: Silo 1 + 7 × 7 = 50. Пактът е описан като ~500-year underground governance rulebook, AI-drafted и human-edited. Daniel Keen е assigned към Silo 1, журналистката към Silo 18, а intake-ът използва facial recognition и RF-enabled badges. Bernard оспорва „Гласът“ и допуска human operators в Silo 1, но това остава character hypothesis. Bernard умира след no-suit exterior exposure, което потвърждава real lethal hazard, но прави Silo 17 open-airlock contradiction още по-важно. Opening/intake е прекъснат от ядрена детонация, докато хора още са на повърхността.**
 
 ## Език на проекта
 
@@ -30,20 +30,38 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S03E08**
+**Текуща граница на знанието:** **S03E09**
 
-**Статус на гледане:** **Season 3 — S03E08 завършен**
+**Статус на гледане:** **Season 3 — S03E09 завършен**
 
-Не се използва никаква информация след S03E08, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация след S03E09, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S03E08 най-силният работен модел е:
+След S03E09 най-силният работен модел е:
 
-> **Silo system вече има пряко показана топология от 50 единици: Silo 1 + 7 групи × 7 Silos. Разпределението на safeguard poison е йерархично — седем главни линии от Silo 1 към групите и локални разклонения към отделните Silos. S03E08 едновременно поправя модела за външната среда: Kyle е прострелян, но жив; Silo 17 може да има едновременно отворени airlock doors без непосредствена масова смърт; „Гласът“ използва въздушно наблюдение за обновяване на exterior status. Пред-Silo линията вече свързва първоначалната мисия на проекта с неизбежна катастрофа от нанотехнологии, разкрива нанооръжието като механизъм зад поемането на самолета и поставя комплекса от 50 Silos приблизително на 50 km от Atlanta. Bernard признава убийството на Meadows като необходимо според получената от него инструкция за спасяване на Silo, но по-късно заявява, че ще спре „тази тирания“.**
+> **50-Silo system е предварително номерирана, физически групирана survival architecture с Silo 1 в центъра. Opening-day evidence независимо corroborate-ва S03E08 topology-то и изключва `50 ordinary + Silo 1 = 51`; Bernard's historical `51` остава отделно unresolved discrepancy. Пактът е ~500-year governance framework, draft-нат от AI и редактиран от хора, но това не доказва identity equivalence с „Гласът“. Bernard допуска human operators в Silo 1, без директно technical confirmation. Exterior hazard е реално фатален и без suit, но не действа като равномерно instant ambient-air mechanism, защото Silo 17 open-airlock outcome остава несъвместим с такъв simple model. Daniel Keen е assigned към Silo 1, журналистката към Silo 18, а opening/intake преминава в real emergency shelter use при ядрена детонация, докато хора още са на повърхността.**
 
 Ключови установени линии:
 
+- S03E09: Bernard оспорва „Гласът“, иска Juliette да бъде освободена и Vitamin D+ dosing-ът да спре;
+- S03E09: „Гласът“ предпочита Bernard да бъде формално обвинен, изпратен да clean-ва и Vitamin D+ да продължи;
+- S03E09: Bernard вече допуска human operators в Silo 1 зад Voice interface-а; това остава character hypothesis;
+- S03E09: Bernard и Juliette са предназначени за no-suit cleaning;
+- S03E09: Bernard излиза без suit, остава жив за кратък период и умира; fatal exterior outcome не изисква suit;
+- S03E09: Silo 17 open-airlock outcome остава central contradiction срещу simple instant ambient-air death model;
+- S03E09: mine elevator-ът е direct violation на established generic mechanized-transport ban; episode-ът допълнително потвърждава elevators като explicit forbidden subclass;
+- S03E09: хора от страната на Juliette извършват силна експлозия в mines;
+- S03E09: Пактът е описан като rulebook за ~500 години underground life;
+- S03E09: AI е draft-нал/написал Пакта, а сестрата на Daniel Keen и лекарят са го редактирали; Pact AI ≠ автоматично Voice;
+- S03E09: 500-year horizon спрямо Bernard's 352-year construction anchor дава derived ~148 години, не established release date;
+- S03E09: opening map + full aerial physical layout потвърждават **Silo 1 + 7 × 7 = 50**;
+- S03E09: Bernard's `51` остава необяснено; Silo 1 е част от официалните 50;
+- S03E09: Daniel Keen е assigned към **Silo 1**, журналистката към **Silo 18**;
+- S03E09: initial intake използва numbered routing, facial recognition и RF chips в badges;
+- S03E09: billionaire/project sponsor-ът е идентифициран като **Per Stenson**;
+- S03E09: `sit still and be patient` message предизвиква осезаема реакция у Daniel; code-warning reading остава hypothesis;
+- S03E09: по време на opening/intake се случва ядрена детонация, докато хора все още са на повърхността; perpetrator/foreknowledge не са установени;
 - S03E08: Kyle е пряко потвърден жив след стрелбата във външната среда; `neutralized` вече не може да се чете като `dead`;
 - S03E08: Silo 17 е показан с едновременно отворени airlock doors без непосредствена масова смърт, което отслабва модела за еднакво и моментално смъртоносна външна среда;
 - S03E08: „Гласът“ получава exterior update от въздушно наблюдение; телата на Kyle/Kennedy вече не са на мястото;
@@ -284,6 +302,16 @@
 - [`docs/episodes/S03E04.md`](docs/episodes/S03E04.md) — episode record за S03E04.
 - [`docs/episodes/S03E05.md`](docs/episodes/S03E05.md) — episode record за S03E05.
 - [`docs/episodes/S03E06.md`](docs/episodes/S03E06.md) — episode record за S03E06.
+- [`docs/episodes/S03E09.md`](docs/episodes/S03E09.md) — episode record за S03E09.
+- [`docs/evidence/S03E09-voice-bernard-cleaning.md`](docs/evidence/S03E09-voice-bernard-cleaning.md) — Bernard, „Гласът“, cleaning decision и human-operator hypothesis.
+- [`docs/evidence/S03E09-exterior-mines-pact.md`](docs/evidence/S03E09-exterior-mines-pact.md) — no-suit exterior outcome, Silo 17 contradiction, mines/elevator и Pact origin.
+- [`docs/evidence/S03E09-opening-topology-intake.md`](docs/evidence/S03E09-opening-topology-intake.md) — opening-day physical topology, assignments, intake и catastrophe transition.
+- [`assets/S03E09/MANIFEST.md`](assets/S03E09/MANIFEST.md) — S03E09 visual evidence manifest.
+- [`docs/episodes/S03E08.md`](docs/episodes/S03E08.md) — episode record за S03E08.
+- [`docs/evidence/S03E08-exterior-bernard.md`](docs/evidence/S03E08-exterior-bernard.md) — exterior hazard, Silo 17 и Bernard alignment.
+- [`docs/evidence/S03E08-presilo-nanotechnology-iran.md`](docs/evidence/S03E08-presilo-nanotechnology-iran.md) — original mission, nanotechnology threat и Iran operation.
+- [`docs/evidence/S03E08-silo-topology-safeguard.md`](docs/evidence/S03E08-silo-topology-safeguard.md) — 50-Silo topology, safeguard routing и digger lifecycle.
+- [`assets/S03E08/MANIFEST.md`](assets/S03E08/MANIFEST.md) — S03E08 visual evidence manifest.
 - [`docs/episodes/S03E07.md`](docs/episodes/S03E07.md) — episode record за S03E07.
 - [`docs/evidence/S03E07-exterior-voice-safeguard.md`](docs/evidence/S03E07-exterior-voice-safeguard.md) — Kyle/Kennedy, exterior reach, safeguard contradiction и radio conflict.
 - [`docs/evidence/S03E07-presilo-georgia-memory.md`](docs/evidence/S03E07-presilo-georgia-memory.md) — sister fragmented memory, NDA/read-in и Georgia/Atlanta Silo construction.
@@ -736,6 +764,7 @@ analysis/S03E05-voice-safeguard-memory-control
 analysis/S03E06-silo1-power-voice-memory
 analysis/S03E07-exterior-enforcement-georgia
 analysis/S03E08-nano-topology-safeguard
+analysis/S03E09-voice-pact-opening
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -745,4 +774,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S03E08`
+**Текуща knowledge boundary:** `S03E09`
