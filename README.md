@@ -30,20 +30,36 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S03E09**
+**Текуща граница на знанието:** **S03E10**
 
-**Статус на гледане:** **Season 3 — S03E09 завършен**
+**Статус на гледане:** **Season 3 — S03E10 завършен / Season 3 complete**
 
-Не се използва никаква информация след S03E09, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация след S03E10, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S03E09 най-силният работен модел е:
+След S03E10 най-силният работен модел е:
 
-> **50-Silo system е предварително номерирана, физически групирана survival architecture с Silo 1 в центъра. Opening-day evidence независимо corroborate-ва S03E08 topology-то и изключва `50 ordinary + Silo 1 = 51`; Bernard's historical `51` остава отделно unresolved discrepancy. Пактът е ~500-year governance framework, draft-нат от AI и редактиран от хора, но това не доказва identity equivalence с „Гласът“. Bernard допуска human operators в Silo 1, без директно technical confirmation. Exterior hazard е реално фатален и без suit, но не действа като равномерно instant ambient-air mechanism, защото Silo 17 open-airlock outcome остава несъвместим с такъв simple model. Daniel Keen е assigned към Silo 1, журналистката към Silo 18, а opening/intake преминава в real emergency shelter use при ядрена детонация, докато хора още са на повърхността.**
+> **Silo 1 е central supervisory/continuity node с founding-era personnel в metabolic/cryogenic stasis, operational elevator, central control room и human-operated Voice role. Victor е директно показан като Voice operator, а Senator-ът е Director на Silo 1; possible AI/automation layer остава unresolved. Safeguard има internal poison-mixture delivery през локално interruptible pipe и external drone fallback с poison/kinetic capability. Pact и Directive са различни governance layers: Pact може да престане да важи след exit, докато Directive продължава containment enforcement. Second Vault на Silo 18 е protected supervisory domain; Daniel предлага no-Safeguard deal срещу прекратяване на Second Vault investigation и cross-Silo contact. Exteriorът не може да се моделира като просто uniformly lethal ambient air, но „outside is safe“ също не е доказано. Helen Drew е идентифицирана като pre-Silo journalist-а, а Daniel's selective memory gaps остават силен memory-control signal отвъд documented stasis side effects.**
 
 Ключови установени линии:
 
+- S03E10: Daniel Keen е периодично събуждан от Silo 1 metabolic/cryogenic stasis; по-късен explicit interval е **5 години** от предишното awakening;
+- S03E10: Silo 1 има голяма stasis facility, built-in operational elevator и central control / operations room;
+- S03E10: Senator-ът от founding-era групата е Director на Silo 1 и също участва в stasis cycle;
+- S03E10: Victor е директно показан като human operator зад Voice communication; Voice вече е human-operated role/interface, не one-person identity;
+- S03E10: medical post-reanimation report документира confusion/cognitive slowdown и физиологични effects, но не selective autobiographical amnesia;
+- S03E10: Victor's encrypted message идентифицира **Helen Drew** като журналистката, която Daniel помни фрагментарно;
+- S03E10: failed Safeguard в Silo 17 е свързан с mixture, която не достига target заради blocked pipe; други Silos исторически са правили същото;
+- S03E10: Silo 1 drone capability включва aerial surveillance, **30 L mixture payload** и **2000 rounds ammunition**;
+- S03E10: Daniel orders external lethal containment след Silo 17 mass exit; stated rationale е prevention of cross-Silo „contamination“;
+- S03E10: direct dialogue разделя **Pact** от **Directive** — Pact вече не важи за излезлите, Directive остава;
+- S03E10: Silo 18 блокира Safeguard pipe; Silo 1 засича blockage, поставя drone surveillance и kill order за unauthorized exit;
+- S03E10: Juliette поддържа cross-Silo communication със Silo 17;
+- S03E10: lower structure е назована **Second Vault на Silo 18**;
+- S03E10: Daniel предлага Safeguard да не бъде използван, ако Silo 18 спре Second Vault investigation и cross-Silo contact;
+- S03E10: Juliette приема deal-а, но след това предлага тайна подготовка за изненадващ strike/takeover на Silo 1;
+- S03E10: exterior hazard остава unresolved; Silo 1 poison/drone enforcement е confirmed, но `outside is safe` не е established;
 - S03E09: Bernard оспорва „Гласът“, иска Juliette да бъде освободена и Vitamin D+ dosing-ът да спре;
 - S03E09: „Гласът“ предпочита Bernard да бъде формално обвинен, изпратен да clean-ва и Vitamin D+ да продължи;
 - S03E09: Bernard вече допуска human operators в Silo 1 зад Voice interface-а; това остава character hypothesis;
@@ -302,6 +318,13 @@
 - [`docs/episodes/S03E04.md`](docs/episodes/S03E04.md) — episode record за S03E04.
 - [`docs/episodes/S03E05.md`](docs/episodes/S03E05.md) — episode record за S03E05.
 - [`docs/episodes/S03E06.md`](docs/episodes/S03E06.md) — episode record за S03E06.
+- [`docs/episodes/S03E10.md`](docs/episodes/S03E10.md) — Season 3 finale record за S03E10.
+- [`docs/evidence/S03E10-silo1-stasis-memory.md`](docs/evidence/S03E10-silo1-stasis-memory.md) — Silo 1 stasis, post-reanimation, memory и founding-era continuity.
+- [`docs/evidence/S03E10-safeguard-drone-directive.md`](docs/evidence/S03E10-safeguard-drone-directive.md) — Safeguard failure modes, drones, Pact/Directive и external containment.
+- [`docs/evidence/S03E10-voice-control-room-victor-camille.md`](docs/evidence/S03E10-voice-control-room-victor-camille.md) — central control room, human Voice operator, Victor/Camille.
+- [`docs/evidence/S03E10-second-vault-daniel-juliette.md`](docs/evidence/S03E10-second-vault-daniel-juliette.md) — Second Vault, cross-Silo contact и Daniel–Juliette deal.
+- [`assets/S03E10/MANIFEST.md`](assets/S03E10/MANIFEST.md) — S03E10 visual evidence manifest / validated Git blobs.
+- [`docs/audits/S03-consistency-audit.md`](docs/audits/S03-consistency-audit.md) — post-Season-3 methodology / consistency audit.
 - [`docs/episodes/S03E09.md`](docs/episodes/S03E09.md) — episode record за S03E09.
 - [`docs/evidence/S03E09-voice-bernard-cleaning.md`](docs/evidence/S03E09-voice-bernard-cleaning.md) — Bernard, „Гласът“, cleaning decision и human-operator hypothesis.
 - [`docs/evidence/S03E09-exterior-mines-pact.md`](docs/evidence/S03E09-exterior-mines-pact.md) — no-suit exterior outcome, Silo 17 contradiction, mines/elevator и Pact origin.
