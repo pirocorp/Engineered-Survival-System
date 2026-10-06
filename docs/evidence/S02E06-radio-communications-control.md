@@ -1,37 +1,37 @@
-# S02E06 — IT control върху radio communications в Silo
+# S02E06 — IT контрол върху радиокомуникации в Silo
 
-**Knowledge boundary:** `S02E06`
+**Граница на знанието:** `S02E06`
 
-S02E06 установява, че Bernard/IT може да прекъсва **всички radio communications в Silo**.
+S02E06 установява, че Bernard/IT може да прекъсва **всички радиокомуникации в Silo**.
 
 ## Директни доказателства
 
-**E317 —** Bernard/IT има Silo-wide radio-cutoff capability.
+**E317 —** Bernard/IT има Silo-wide radio-cutoff възможност.
 
-**Confidence:** VH.
+**увереност:** VH.
 
-## Infrastructure inference
+## инфраструктура извод
 
-Ако IT може да disable-не целия radio traffic, radio system трябва да зависи от centrally controllable component или infrastructure path.
+Ако IT може да disable-не целия radio traffic, radio система трябва да зависи от centrally controllable component или инфраструктура path.
 
 Possible architectures include:
-- central repeater/distribution system;
-- controlled power/feed path;
-- central switching/gating;
+- централен repeater/distribution система;
+- controlled захранване/видеопоток path;
+- централен switching/gating;
 - another shared dependency.
 
 Епизодът все още не идентифицира кое.
 
 ## H58
 
-**IT функционира като communications choke point: при криза може да degrade-не или isolate-не operational coordination чрез прекъсване на radio traffic.**
+**IT функционира като communications choke point: при криза може да degrade-не или isolate-не оперативен coordination чрез прекъсване на radio traffic.**
 
-**Confidence:** H  
-**Status:** Active / Strengthened.
+**увереност:** H  
+**статус:** Active / Strengthened.
 
 ## Governance impact
 
-Това разширява познатия privileged IT layer:
+Това разширява познатия privileged IT слой:
 
 ```text
 classified archives / THE ORDER
@@ -41,11 +41,11 @@ continuity power
 radio communications control
 ```
 
-Най-силният safe conclusion е control capability, а не omniscient access до всяко message или communication medium.
+Най-силният safe conclusion е контрол възможност, а не omniscient достъп до всяко съобщение или communication medium.
 
-Still unresolved:
+Still неизяснен:
 - selective vs all-or-nothing cutoff;
-- дали digital messaging остава available;
+- дали цифров messaging остава available;
 - дали съществуват emergency/bypass radio channels;
-- дали Judicial споделя този control;
+- дали Judicial споделя този контрол;
 - дали radio traffic се log-ва или monitor-ва centrally.
