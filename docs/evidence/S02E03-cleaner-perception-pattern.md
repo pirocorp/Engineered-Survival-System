@@ -1,29 +1,29 @@
-# S02E03 — Cleaner perception, Jane Carmody pattern и изгубена vocabulary
+# S02E03 — възприятие на човека при почистване, Jane Carmody модел и изгубена vocabulary
 
-**Knowledge boundary:** `S02E03`
+**Граница на знанието:** `S02E03`
 
-## Juliette's inference
+## Juliette's извод
 
-Juliette изрично заключава, че manipulated lush exterior view е това, което кара cleaners да clean-ват.
+Juliette изрично заключава, че manipulated зелена външна среда view е това, което кара cleaners да clean-ват.
 
 Тя разпознава изображението като невярно, защото съвпада със стария запис `JANE CARMODY CLEANING`.
 
-Особено силен cue е repeated movement pattern на flying creatures.
+Особено силен cue е repeated движение модел на flying creatures.
 
-Juliette не знае обикновената дума/concept **birds**, но разпознава visual repetition.
+Juliette не знае обикновената дума/concept **birds**, но разпознава визуален repetition.
 
 ## H4 / H46 impact
 
-**H4:** manipulated perception induces cleaning behavior — остава VH / Strongly Strengthened.
+**H4:** manipulated perception induces почистване behavior — остава VH / Strongly Strengthened.
 
-**H46:** lush cleaner imagery използва reused или highly standardized visual sequence, а не genuinely live natural view.
+**H46:** lush човекът при почистване imagery използва reused или highly standardized визуален sequence, а не genuinely live natural view.
 
-**Confidence:** H  
-**Status:** Active / Strengthened
+**увереност:** H  
+**статус:** Active / Strengthened
 
 ## H47
 
-Загубата на думата/концепцията `birds` („птици“) е evidence, че потискането на историческото/културното знание се простира отвъд формалната история и към обикновената лексика за природния свят поне при част от жителите.
+Загубата на думата/концепцията `birds` („птици“) е доказателство, че потискането на историческото/културното знание се простира отвъд формалната история и към обикновената лексика за природния свят поне при част от жителите.
 
-**Confidence:** H  
-**Status:** Active / Strengthened
+**увереност:** H  
+**статус:** Active / Strengthened
