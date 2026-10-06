@@ -1,4 +1,4 @@
-# S03E08 — exterior correction, aerial surveillance и Bernard alignment
+# S03E08 — корекция на външната линия, въздушно наблюдение и позицията на Bernard
 
 **Knowledge boundary:** `S03E08`
 
@@ -7,8 +7,8 @@
 Lukas Kyle е показан жив след exterior incident-а, но прострелян.
 
 Това:
-- превръща S03E07 weapon-like sound в actual shooting context;
-- falsify-ва всяко literal reading `neutralized = killed`;
+- превръща S03E07 weapon-like sound в реален контекст на стрелба;
+- опровергава всяко буквален прочит `neutralized = killed`;
 - не доказва кой е стрелял или кой command-ва shooter-а.
 
 Ако bullet wound действително е нарушил suit integrity, survival-ът му е силен counterexample срещу модел „еднократен контакт с ambient air → моментална смърт“.
@@ -21,17 +21,17 @@ S03E08 показва Silo 17 с едновременно отворени airlo
 
 ## Radio contact
 
-Silo 17 възстановява radio capability и комуникира coded със Silo 18.
+Silo 17 възстановява радиовръзката и комуникира кодирано със Silo 18.
 
 Това materially resolves S03E07's manipulated-radio candidate в полза на genuine Silo17↔Silo18 contact, освен ако бъде даден нов contrary evidence.
 
-Терминът `coded` не се upgrade-ва автоматично до cryptographically secure/encrypted.
+Терминът `кодирано` не се upgrade-ва автоматично до криптографски защитено/шифровано.
 
 ## Aerial surveillance
 
-„Гласът“ казва на Camille, че aerial surveillance току-що е направило pass около Silo 17 и че телата на Kyle/Kennedy ги няма.
+„Гласът“ казва на Camille, че въздушно наблюдение току-що е направило pass около Silo 17 и че телата на Kyle/Kennedy ги няма.
 
-Това установява конкретен external observation channel и обяснява как supervisory layer-ът може да refresh-ва situational picture, без да е omniscient.
+Това установява конкретен external канал за наблюдение и обяснява как supervisory layer-ът може да refresh-ва situational picture, без да е omniscient.
 
 Не се приема автоматично, че aerial platform-ът е същият actor, който е стрелял.
 
@@ -40,12 +40,12 @@ Silo 17 възстановява radio capability и комуникира coded 
 Bernard признава, че лично е отровил Judge Meadows. Мотивът, който заявява, е че му е било казано, че това е необходимо, за да се предотврати смъртта на целия Silo.
 
 Това установява:
-- Bernard = direct perpetrator;
-- decision logic = sacrifice one to protect whole Silo;
-- upstream necessity/instruction exists in Bernard's account.
+- Bernard = пряк извършител;
+- логика на решението = sacrifice one to protect whole Silo;
+- разказът на Bernard съдържа по-висша необходимост/инструкция.
 
 Не установява:
-- че Meadows действително е представлявала existential threat;
+- че Meadows действително е представлявала екзистенциална заплаха;
 - кой точно е дал instruction-а, ако не е named;
 - че instruction-ът е бил truthful.
 
