@@ -302,6 +302,16 @@
 - [`docs/episodes/S03E04.md`](docs/episodes/S03E04.md) — episode record за S03E04.
 - [`docs/episodes/S03E05.md`](docs/episodes/S03E05.md) — episode record за S03E05.
 - [`docs/episodes/S03E06.md`](docs/episodes/S03E06.md) — episode record за S03E06.
+- [`docs/episodes/S03E09.md`](docs/episodes/S03E09.md) — episode record за S03E09.
+- [`docs/evidence/S03E09-voice-bernard-cleaning.md`](docs/evidence/S03E09-voice-bernard-cleaning.md) — Bernard, „Гласът“, cleaning decision и human-operator hypothesis.
+- [`docs/evidence/S03E09-exterior-mines-pact.md`](docs/evidence/S03E09-exterior-mines-pact.md) — no-suit exterior outcome, Silo 17 contradiction, mines/elevator и Pact origin.
+- [`docs/evidence/S03E09-opening-topology-intake.md`](docs/evidence/S03E09-opening-topology-intake.md) — opening-day physical topology, assignments, intake и catastrophe transition.
+- [`assets/S03E09/MANIFEST.md`](assets/S03E09/MANIFEST.md) — S03E09 visual evidence manifest.
+- [`docs/episodes/S03E08.md`](docs/episodes/S03E08.md) — episode record за S03E08.
+- [`docs/evidence/S03E08-exterior-bernard.md`](docs/evidence/S03E08-exterior-bernard.md) — exterior hazard, Silo 17 и Bernard alignment.
+- [`docs/evidence/S03E08-presilo-nanotechnology-iran.md`](docs/evidence/S03E08-presilo-nanotechnology-iran.md) — original mission, nanotechnology threat и Iran operation.
+- [`docs/evidence/S03E08-silo-topology-safeguard.md`](docs/evidence/S03E08-silo-topology-safeguard.md) — 50-Silo topology, safeguard routing и digger lifecycle.
+- [`assets/S03E08/MANIFEST.md`](assets/S03E08/MANIFEST.md) — S03E08 visual evidence manifest.
 - [`docs/episodes/S03E07.md`](docs/episodes/S03E07.md) — episode record за S03E07.
 - [`docs/evidence/S03E07-exterior-voice-safeguard.md`](docs/evidence/S03E07-exterior-voice-safeguard.md) — Kyle/Kennedy, exterior reach, safeguard contradiction и radio conflict.
 - [`docs/evidence/S03E07-presilo-georgia-memory.md`](docs/evidence/S03E07-presilo-georgia-memory.md) — sister fragmented memory, NDA/read-in и Georgia/Atlanta Silo construction.
