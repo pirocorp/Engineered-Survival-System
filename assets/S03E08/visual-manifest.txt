@@ -1,0 +1,14 @@
+S03E08 visual assets
+Output: 1536x864 JPEG, quality 95, perspective-corrected from photographed TV frames.
+No generative edits or content reconstruction.
+
+safeguard-poison-distribution-network.jpeg <- IMG_33145757-3035-4884-900B-A13CDD797E8A.jpeg
+silo1-central-topology.jpeg <- IMG_46EA2411-18BB-49F9-9B4A-288A146838DD.jpeg
+silo18-seven-silo-group.jpeg <- IMG_9D84EC6F-9D9F-4DB3-8054-A2B091D2A409.jpeg
+bernard-stop-this-tyranny.jpeg <- IMG_502C2C35-DE76-4546-BA7E-8CCAEBAE3D79.jpeg
+pre-silo-core-project-group.jpeg <- IMG_ACDCABF3-547A-48E4-80DC-188A8F037ABB.jpeg
+pre-silo-digger-overhead.jpeg <- IMG_BF4A4C33-22E7-4A31-AA79-27A276178BBD.jpeg
+pre-silo-digger-front.jpeg <- IMG_CA2B89A6-626E-45A5-9FF1-326B3B28D0C6.jpeg
+pre-silo-digger-side-human-scale.jpeg <- IMG_1D278B49-DFF8-4DB2-A6E4-197578C67E11.jpeg
+exterior-suited-survivor.jpeg <- IMG_AC385B6C-ACD1-4B61-8C6E-E9F5AC9C0B31.jpeg
+pre-silo-construction-site-aerial.jpeg <- IMG_6237441E-50D3-4B68-8011-9ECFF2FC0916.jpeg
