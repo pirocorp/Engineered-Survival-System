@@ -1,4 +1,4 @@
-# S03E08 — pre-Silo нанотехнологии threat и Iran mission
+# S03E08 — пред-Silo заплаха от нанотехнологии и мисията в Iran
 
 **Knowledge boundary:** `S03E08`
 
@@ -46,7 +46,7 @@ Target facility е било планирано да бъде унищожено 
 таен тунел → подземен ядрен заряд → унищожаване на съоръжението
 
 aircraft mission:
-approach / encounter with нанооръжие → aircraft takeover
+подход към целта / среща с нанооръжие → поемане на управлението на самолета
 ```
 
 Точната роля на въздушният екип-а остава оспорвана.
@@ -55,7 +55,7 @@ approach / encounter with нанооръжие → aircraft takeover
 
 Журналистката обвинява leadership-а, че въздушният екип-ът е използван като experiment, за да бъдат измерени capabilities на enemy нанотехнологии.
 
-Това е direct evidence за accusation-а, но не и independently confirmed proof за secret intent.
+Това е пряко evidence за обвинението, но не и независимо потвърдено доказателство за скритото намерение.
 
 ## Критична неизяснена връзка
 
