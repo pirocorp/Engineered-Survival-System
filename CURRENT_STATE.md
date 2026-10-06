@@ -1,24 +1,75 @@
-# Текущо състояние — след S03E08
+# Текущо състояние — след S03E09
 
-**Knowledge boundary:** `S03E08`
+**Knowledge boundary:** `S03E09`
 
 ## Работен модел
 
-S03E08 превръща няколко дългогодишни хипотези в конкретна архитектура. Официалната топология на проекта вече е **Silo 1 + седем групи × седем Silos = 50**. Една група съдържа един централен Silo и шест околни Silos. Схемата на safeguard показва отделна йерархия: седем главни линии за разпределение на отровата от Silo 1 към седемте групи, след което локално разклонение към всеки Silo. Това прави Silo 1 силен кандидат за централен разпределителен възел на safeguard, без да доказва, че токсичният агент физически произхожда от Silo 1 или че има втори резервен route към всеки Silo.
+S03E09 свързва current Silo 18 crisis с произхода на governance системата и с деня, в който 50-Silo комплексът става реален shelter.
 
-Моделът за външната среда също се променя. Lukas Kyle е прострелян, но жив; Silo 17 е показан с едновременно отворени airlock doors без непосредствена масова смърт. Следователно простият модел „външният въздух е навсякъде и моментално смъртоносен“ вече е твърде силен. Опасността остава реална, но механизмът трябва да допуска зависимост от условията. „Гласът“ по-късно получава update от въздушно наблюдение, което е конкретен канал за situational awareness и обяснява защо надзорното знание може да е силно, но не всезнаещо.
+Bernard вече открито оспорва „Гласът“. Той иска Juliette да бъде освободена и Vitamin D+ dosing-ът да бъде спрян, предлага себе си като scapegoat и казва, че „Гласът“ не знае повече от него. „Гласът“ предпочита formal conviction → cleaning → continued Vitamin D+. Bernard излага собствена теория, че Voice interface-ът може да прикрива human operators в Silo 1. Това е privileged character hypothesis, не установена architecture.
 
-Пред-Silo строителната линия вече има изрична програма за 50 Silos и конкретна инженерна логика. Първоначалният план е 10 изкопни машини × 5 Silos. Daniel Keen казва, че изваждането на машината от завършен shaft би струвало повече от оставянето ѝ заровена, което дава силна връзка към машините в дълбоката зона под завършен Silo. Комплексът е описан като приблизително 50 km от Atlanta. Skyline-ът при строежа = Atlanta и разрушеният exterior skyline = Atlanta са силни географски изводи, но разрушеният град не е означен изрично.
+Bernard е изпратен навън без protective suit. Той остава жив за кратък период и след това умира. Това доказва fatal exterior outcome без suit и изключва instant-death model-а, но не обяснява Silo 17, където едновременно отворени airlock doors не причиняват immediate mass death. Следователно hazard-ът трябва да е condition-dependent, localized, concentration-dependent, particulate/aerosol или друг по-сложен mechanism.
 
-Първоначалната мисия на Silo проекта е описана като запазване на човешка популация през неизбежна глобална катастрофа, последвано от повторно заселване. Катастрофата е свързана с нанотехнологии. По-ранната „dirty bomb“ линия се уточнява като attack с нанооръжие, целящ да забави американските AI и nanotechnology programs и да въвлече САЩ във война. Отговорността на Iran остава ограничено установена. Сестрата на Daniel Keen лети към тайно иранско съоръжение за нанооръжия; вражеско нанооръжие поема управлението на самолета за секунди. Аналогови системи са използвани умишлено като защитна мярка. Съоръжението е било планирано за унищожаване чрез малък ядрен заряд, поставен под него чрез ~120 km таен тунел. Журналистката обвинява leadership-а, че въздушният екип е бил използван като експеримент за измерване на възможностите; това остава непотвърдено свидетелско твърдение.
+В mines е построен elevator и S03E09 изрично потвърждава, че elevators са забранени от Пакта. Това е concrete instance на вече established generic mechanized-transport ban, не ново replacement rule. Хора от страната на Juliette извършват и силна експлозия в mines.
 
-Bernard признава, че лично е отровил Judge Meadows, защото му е било казано, че това е необходимо, за да не загине целият Silo. По-късно заявява, че ще направи всичко по силите си „за да спра тази тирания“. Това е явна промяна от изпълнител на доктрината „жертвай един, за да спасиш Silo“ към противник на текущия надзорен ред. Camille арестува Robert Sims, а в края на епизода Juliette е заключена заедно с него.
+Пактът е описан като rulebook за приблизително 500 години подземен живот. По-късното clarification установява, че AI е написал/draft-нал текста, а сестрата на Daniel Keen и лекарят са го редактирали. Това прави governance framework-а AI-assisted from inception, без да доказва, че същият AI е „Гласът“.
 
-> **След S03E08 най-силният model е: комплексът от 50 Silos около Atlanta е централизирана, групирана survival architecture със Silo 1 като кандидат за централен комуникационен, енергиен и safeguard разпределителен възел. Safeguard е мрежова система, но точната резервираност остава неизвестна. Външната опасност е реална, но вече не може да се моделира като еднакво и моментално смъртоносна при всяко излагане. Надзорният layer използва периодично въздушно наблюдение и status reports могат да бъдат непълни. Първоначалната цел е оцеляване и повторно заселване след катастрофа от нанотехнологии; по-късните memory control, safeguard, deception и lethal governance механизми трябва да се оценяват отделно като implementation, а не автоматично като доказана необходимост.**
+Opening-day map-ът и full aerial view independently потвърждават **Silo 1 + 7 × 7 = 50**. Silo 1 е част от официалните 50, а Bernard's historical `51` остава отделно противоречие. Daniel Keen е assigned към **Silo 1**, журналистката към **Silo 18**. Intake-ът използва numbered routing, facial recognition и RF chips в badges.
 
+По време на opening/intake, докато хора още са на повърхността, се случва ядрена детонация. Това фиксира най-силния origin sequence досега: formal opening → population assignment → nuclear catastrophe → real shelter use. Perpetrator, broader-war context и leadership foreknowledge остават неизвестни.
+
+> **След S03E09 най-силният model е: 50-Silo system е предварително номерирана и централизирано управлявана survival architecture, чийто governance rulebook е AI-drafted и human-edited още преди occupancy. Silo 1 е физически централен и Daniel Keen е assigned именно там, но Bernard's theory за human Voice operators в Silo 1 остава непотвърдена. Външната опасност е реално фатална и без suit, но не е универсално/mигновено действаща, което прави Silo 17 най-важното противоречие за hazard mechanism-а. Opening-day nuclear detonation показва, че Silo system преминава директно от planned project към реален emergency shelter още по време на intake.**
 ---
 
 ## Наблюдения с висок confidence
+
+
+### S03E09 — Bernard / „Гласът“ / cleaning
+
+- Bernard настоява Juliette да бъде освободена и Vitamin D+ dosing-ът да бъде спрян.
+- Bernard предлага да поеме вината като scapegoat; „Гласът“ предпочита formal conviction + cleaning + continued Vitamin D+.
+- Bernard директно оспорва epistemic authority-то на „Гласът“ с „Не знаеш повече от мен, нали така?“.
+- Camille приписва прекратяването на разговора на раздразнение, безсилие и гняв; това е нейна interpretation, не proof за actual inner state.
+- Bernard казва, че вече не вярва „Гласът“ да е просто машина и допуска human operators в Silo 1.
+- Human-operated Voice from Silo 1 остава character hypothesis.
+- Camille обявява Bernard за cleaning на следващия ден по обяд.
+- Juliette също е поставена в cleaning outcome.
+- Bernard и Juliette трябва да излязат без protective suits.
+
+### S03E09 — exterior hazard / Silo 17 contradiction
+
+- Bernard излиза навън без suit, остава жив за кратък интервал и след това умира.
+- Fatal exterior outcome следователно не изисква protective suit.
+- Bare exposure не е моментално фатално.
+- Silo 17 open-airlock evidence остава в пряко напрежение с Bernard outcome-а.
+- Simple model „ambient exterior air = еднакво и веднага смъртоносен навсякъде“ е отхвърлен.
+- Exact lethal mechanism остава неизвестен.
+
+### S03E09 — mines / Пакт
+
+- В mines е построен elevator.
+- Elevator-ът е concrete violation на established generic Pact ban върху mechanized transport.
+- S03E09 изрично добавя, че elevators са забранени; това не заменя по-широкото правило.
+- Хора от страната на Juliette извършват силна експлозия в mines; точният target остава неизвестен.
+- Пактът е описан като rulebook за приблизително 500 години живот под земята.
+- AI е написал/draft-нал Пакта; сестрата на Daniel Keen и лекарят са го редактирали.
+- Pact AI ≠ автоматично „Гласът“.
+- 500-year horizon срещу Bernard's 352-year construction anchor дава derived ~148 години, но не established release date.
+
+### S03E09 — opening / topology / intake
+
+- Opening-day map-ът показва numbered Silos 1–50.
+- Full aerial view corroborate-ва един central Silo + седем groups × 7 Silos.
+- Silo 1 е част от официалните 50.
+- Bernard's historical `51` остава истинско unresolved discrepancy.
+- Daniel Keen е assigned към Silo 1.
+- Журналистката е assigned към Silo 18.
+- Intake използва facial recognition и RF chips в badges.
+- Per Stenson е идентифициран като billionaire/project sponsor-а.
+- Opening-day phone message `sit still and be patient` предизвиква осезаема реакция у Daniel; code-warning interpretation остава hypothesis.
+- По време на opening/intake се случва ядрена детонация, докато хора все още са на повърхността.
+- Perpetrator, exact broader-war context и foreknowledge не са установени.
+
 
 ### S03E08 — външна среда / Silo 17 / въздушно наблюдение
 
