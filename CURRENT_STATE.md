@@ -1185,7 +1185,7 @@ Observed direct anchors включват:
 | H102 | Concealed deep-zone route е умишлено оборудван за repeated access към abyss/digger area; точните builders, users и relation към hidden lower infrastructure остават unresolved. | H-VH | New / Strongly Supported |
 | H103 | Bernard death/burning narrative е deliberate staged cover story, организирана от Robert Sims с Mechanical assistance; Bernard е скрит жив в deep zone. | VH | Resolved / Confirmed |
 | H104 | Pentagon callback discovery е частично resolved като convergence между sister's clinic, prominent AI-supporting actor и involvement в Iran operation; точната causal role остава unresolved. | VH | Refactored / Partially Resolved |
-| H105 | „Гласът“ е привилегирован supervisory instruction source над local Head-of-IT layer-а; S03E06 Camille осигурява mediated direct contact на Juliette с него. Точната technical identity и physical location остават unknown. | H-VH | Further Strengthened / Strongly Supported |
+| H105 | „Гласът“ е привилегирован supervisory instruction source над local Head-of-IT layer-а. S03E09 Bernard изрично поставя competing human-operator-in-Silo-1 theory; technical identity и physical location остават unresolved. | H-VH | Refactored / Strongly Supported role, unresolved identity |
 | H106 | Safeguard knowledge е formal-но compartmentalized: Head of IT може да получи read-in, докато дори powerful operational insiders като Robert могат да останат excluded. | VH | New / Strongly Supported |
 | H107 | Silo 1 функционира като privileged central infrastructure node: следи active Silo radio frequencies и според Bernard подава external electrical power към IT. Точната response/automation authority остава unresolved. | VH | Further Strengthened / Strongly Supported |
 | H108 | Robert Sims води covert counter-line срещу lethal objectives на Camille/Voice-aligned layer чрез Bernard concealment, Mechanical alliance и political protection на Juliette. | VH | New / Strongly Supported |
@@ -1211,12 +1211,12 @@ Observed direct anchors включват:
 | H128 | Показаният Silo construction program е планиран като coordinated multi-unit field в района на Atlanta, Georgia. | H-VH | New / Strongly Supported |
 | H129 | Low-level system architecture поддържа intentional live-feed substitution чрез null/static loop. | VH | New / Confirmed Capability |
 | H130 | Null-feed substitution може да е technical building block за broader visual deception/control architecture, но equivalence с cleaner/public-display pipelines не е установена. | M-H | New / Candidate |
-| H131 | Exterior hazard е real, но не е uniformly instant lethal при всяко кратко exposure; Kyle survival + Silo17 open-airlock state изискват conditional hazard model. | H-VH | New / Strongly Supported |
+| H131 | Exterior hazard е real, но не е uniformly instant lethal: Kyle survives, Silo 17 има open-airlock state без immediate mass death, а Bernard умира след brief no-suit exposure. Conditional/localized/dose-dependent model е необходим. | H-VH | Further Strengthened / Strongly Supported |
 | H132 | Supervisory layer-ът използва periodic aerial reconnaissance за exterior situational refresh; това обяснява strong but bounded awareness. | H-VH | New / Strongly Supported |
 | H133 | `neutralized` е бил най-малкото incomplete/non-final status за Kyle; deliberate lie от „Гласът“ остава unproven. | VH / M | New / Confirmed correction + open motive |
 | H134 | Safeguard distribution е hierarchical: Silo 1 → 7 group trunks → local Silo branches. | VH | New / Confirmed architecture |
 | H135 | Silo 1 е central multi-function infrastructure hub candidate: radio monitoring + IT power + safeguard routing. | H-VH | Strengthened |
-| H136 | Official project topology е 50 = Silo 1 + 7×7; ако Bernard's `51` е accurate, #51 не се обяснява просто като Silo 1. | VH / H | New / Major correction |
+| H136 | Official project topology е 50 = Silo 1 + 7×7; S03E09 opening map + full physical aerial independently confirm-ват това. Ако Bernard's `51` е accurate, #51 не се обяснява като Silo 1. | VH / H | Further Confirmed / discrepancy remains open |
 | H137 | Excavation machine lifecycle вероятно е one-Silo/left-buried, защото extraction economics прави reuse plan-а impractical. | H-VH | New / Strongly Supported |
 | H138 | Original Silo program е survival/repopulation response към expected nanotechnology catastrophe; later authoritarian controls трябва да се оценяват отделно от original purpose. | VH / H | New / Strongly Supported |
 | H139 | Nano weapon е concrete mechanism зад Iran-aircraft takeover; analog retrofit е бил deliberate defensive hardening срещу него. | VH | New / Confirmed mechanism |
@@ -1226,6 +1226,14 @@ Observed direct anchors включват:
 | H143 | Bernard е преминал от operator на survival-over-individual doctrine към explicit opponent на current supervisory tyranny. | H-VH | New / Strongly Supported |
 | H144 | Juliette и Robert Sims формират operationally common detained opposition position спрямо Camille/current control line, без доказано пълно alliance. | H | New / Candidate |
 | H145 | Current exterior hazard може да е descendant/manifestation на pre-Silo nanotechnology threat, но direct causal identity още не е established. | M-H | New / Critical candidate |
+| H146 | Bernard's S03E09 theory, че „Гласът“ прикрива human operator(s) в Silo 1, е concrete competing architecture candidate. | M-H | New / Character-hypothesis candidate |
+| H147 | Пактът е AI-drafted и human-edited преди occupancy; governance framework-ът е AI-assisted from inception, без доказана identity връзка с „Гласът“. | VH / H | New / Confirmed origin + bounded inference |
+| H148 | Пактът е проектиран за приблизително 500 години underground social stability; relation към exact release date остава unknown. | VH / H | New / Stated design horizon |
+| H149 | Initial population assignment е centralized/machine-checked чрез numbered routing, facial recognition и RF-enabled badges. | VH | New / Confirmed intake architecture |
+| H150 | Daniel Keen → Silo 1 и journalist → Silo 18 са direct opening-era assignments; later office/genealogy implications не са established. | VH | New / Confirmed assignments |
+| H151 | Opening-day nuclear detonation е operational trigger, който превръща planned opening/intake в real emergency shelter use; cause/foreknowledge остават unresolved. | VH / H | New / Confirmed event + open causality |
+| H152 | Mine elevator-ът е concrete violation на established generic mechanized-transport ban; elevator-specific prohibition е subclass, не replacement rule. | VH | New / Confirmed rule application |
+| H153 | `sit still and be patient` може да е предварително уговорен warning/code, но evidence-ът засега е само Daniel's reaction + timing. | M | New / Weak-to-moderate candidate |
 
 
 ---
@@ -1243,7 +1251,7 @@ privileged IT / surveillance / continuity layer
         └─ local governance / enforcement
         │
         ▼
-„ГЛАСЪТ“ / SUPERVISORY COMPUTER/SYSTEM ?
+„ГЛАСЪТ“ / SUPERVISORY INTERFACE — technical identity unresolved
         │
         ├─ knows Juliette treatment/status
         ├─ evaluates state as `beyond The Order`
@@ -1254,6 +1262,7 @@ privileged IT / surveillance / continuity layer
         ├─ enforces cross-Silo contact as safeguard violation
         ├─ дава privileged instructions/read-in на Head of IT
         ├─ Bernard казва, че го иска мъртъв
+        ├─ S03E09 Bernard допуска human operator(s) in Silo 1 [character hypothesis]
         └─ selects/persuades human operatives for lethal action
         │
         ▼
