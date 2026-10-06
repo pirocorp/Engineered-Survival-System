@@ -1,54 +1,54 @@
-# S02E01 visual evidence manifest
+# S02E01 — Манифест на визуалните доказателства
 
-**Knowledge boundary:** `S02E01`
+**Граница на знанието:** `S02E01`
 
 ## Правила за обработка
 
-- Source: user-supplied phone photographs на TV по време на S02E01.
-- Perspective correction / rectification е приложено първо към TV picture plane.
-- Output primary screenshots: `1536×864` JPEG, quality 95.
-- Без generative editing.
-- Без generative fill или reconstruction.
-- Без object removal.
-- Без content alteration.
-- Reflections, glare, subtitles и source-image limitations са запазени.
-- Direct content interpretation остава evidence-bounded; не са използвани future-episode или external Silo sources.
+- Източник: предоставени от потребителя снимки на телевизионния екран по време на S02E01.
+- Първо е приложена корекция на перспективата / ректификация спрямо равнината на телевизионния екран.
+- Основните екранни снимки са изведени като JPEG `1536×864`, качество 95.
+- Без генеративно редактиране.
+- Без генеративно запълване или реконструкция.
+- Без премахване на обекти.
+- Без промяна на съдържанието.
+- Отраженията, отблясъците, субтитрите и ограниченията на изходните снимки са запазени.
+- Прякото тълкуване на съдържанието остава ограничено от наличните доказателства; не са използвани бъдещи епизоди или външни източници за Silo.
 
-## Selected screenshots
+## Избрани екранни снимки
 
-| Evidence | File | Bytes | Git blob SHA | Purpose |
+| Доказателство | Файл | Байтове | Git blob SHA | Предназначение |
 |---|---|---:|---|---|
-| E185 | `screenshots/silo-agricultural-levels-wide.jpeg` | 349183 | `e4f99c170440a010d6c59b4cec27235db4836680` | Голяма internal agricultural zone между Silo levels. |
-| E186 | `screenshots/rebellion-anti-founders-graffiti.jpeg` | 482211 | `e8f084090b9aa07873e3f8fa2b1ce2a0ab336fb6` | Anti-Founder / anti-deception graffiti от периода на Rebellion. |
-| E187 | `screenshots/rebellion-generator-15min-note.jpeg` | 321999 | `5356c8360001744336748e0eee699a176a11a4d2` | Писмен 15-minute ultimatum/message, свързан с generator. |
-| E189 | `screenshots/other-silo-it-battle-bridge.jpeg` | 473719 | `51c7340266d2a68cad0a30d028a4253098d1643b` | Armed confrontation при IT bridge/chokepoint на другия Silo. |
-| E193 | `screenshots/sheriff-group-exits-outside.jpeg` | 266625 | `983255bfb121b48f657d299a8fec89ab7f551a40` | Група, водена от Sheriff, излиза през airlock навън. |
-| E194-E195 | `screenshots/other-silo-rebellion-remains-flag.jpeg` | 388254 | `481cd371b20ba7064a79b2ab41127c4dff887471` | Present-day remains и flag свързват historical exit group с другия Silo. |
-| E196-E197 | `screenshots/other-silo-hatch-mass-remains-wide.jpeg` | 485045 | `57f7ed03844cb6db2f346a75efbaa113e4cb950c` | Wide exterior view на hatch-а на другия Silo, заобиколен от mass human remains. |
-| E198-E199 | `screenshots/juliette-inside-other-silo-lies-graffiti.jpeg` | 494393 | `e14c2e33231b56bd1cf0f778b7d8e894c13d649a` | Juliette вътре в другия Silo; вижда се голямо 'LIES' graffiti. |
-| E200-E201 | `screenshots/juliette-suit-air-failure.jpeg` | 464136 | `6318345b0e4927e683a0bcd0384088e164e2fb58` | Sealed suit-ът на Juliette вече не осигурява adequate breathing support; отварянето/счупването на helmet-а възстановява breathing вътре. |
-| E202 | `screenshots/other-silo-concealed-mirror-camera.jpeg` | 498747 | `dd8e1a023e1b2bedf42c2348b096460eb5de5d6a` | Concealed camera зад/в mirror structure в другия Silo. |
-| E203 | `screenshots/other-silo-agricultural-lights-still-powered.jpeg` | 281282 | `1a050bcd50ff16d3735ab05b7afb3189fff4694a` | Fixed overhead lights остават operational в agricultural area на abandoned Silo. |
-| E204-E205 | `screenshots/other-silo-it-severed-bridge.jpeg` | 271190 | `854df217a0d738d2d140574a58de56795212fd2e` | Present-day IT bridge/chokepoint: locally illuminated и physically severed. |
-| E208-E209 | `screenshots/other-silo-it-vault-survivor.jpeg` | 447612 | `133a8c6a8974acbcb157c6b05d622d7686b146ec` | Жив човек се вижда зад secured vault-like door в IT area на другия Silo. |
+| E185 | `screenshots/silo-agricultural-levels-wide.jpeg` | 349183 | `e4f99c170440a010d6c59b4cec27235db4836680` | Голяма вътрешна земеделска зона между нивата на силоза. |
+| E186 | `screenshots/rebellion-anti-founders-graffiti.jpeg` | 482211 | `e8f084090b9aa07873e3f8fa2b1ce2a0ab336fb6` | Графити срещу Основателите и измамата от периода на Бунта. |
+| E187 | `screenshots/rebellion-generator-15min-note.jpeg` | 321999 | `5356c8360001744336748e0eee699a176a11a4d2` | Писмен 15-минутен ултиматум/съобщение, свързан с генератора. |
+| E189 | `screenshots/other-silo-it-battle-bridge.jpeg` | 473719 | `51c7340266d2a68cad0a30d028a4253098d1643b` | Въоръжен сблъсък при моста/тясното място към IT в другия силоз. |
+| E193 | `screenshots/sheriff-group-exits-outside.jpeg` | 266625 | `983255bfb121b48f657d299a8fec89ab7f551a40` | Група, водена от Sheriff, излиза през шлюза навън. |
+| E194-E195 | `screenshots/other-silo-rebellion-remains-flag.jpeg` | 388254 | `481cd371b20ba7064a79b2ab41127c4dff887471` | Останки и знаме в настоящето свързват историческата група, излязла навън, с другия силоз. |
+| E196-E197 | `screenshots/other-silo-hatch-mass-remains-wide.jpeg` | 485045 | `57f7ed03844cb6db2f346a75efbaa113e4cb950c` | Широк кадър на люка на другия силоз, заобиколен от множество човешки останки. |
+| E198-E199 | `screenshots/juliette-inside-other-silo-lies-graffiti.jpeg` | 494393 | `e14c2e33231b56bd1cf0f778b7d8e894c13d649a` | Juliette в другия силоз; вижда се голям графит `LIES`. |
+| E200-E201 | `screenshots/juliette-suit-air-failure.jpeg` | 464136 | `6318345b0e4927e683a0bcd0384088e164e2fb58` | Запечатаният костюм на Juliette вече не осигурява достатъчна възможност за дишане; отварянето/счупването на шлема възстановява дишането вътре. |
+| E202 | `screenshots/other-silo-concealed-mirror-camera.jpeg` | 498747 | `dd8e1a023e1b2bedf42c2348b096460eb5de5d6a` | Скрита камера зад/в конструкция с огледало в другия силоз. |
+| E203 | `screenshots/other-silo-agricultural-lights-still-powered.jpeg` | 281282 | `1a050bcd50ff16d3735ab05b7afb3189fff4694a` | Стационарното осветление остава работещо в земеделска зона на изоставения силоз. |
+| E204-E205 | `screenshots/other-silo-it-severed-bridge.jpeg` | 271190 | `854df217a0d738d2d140574a58de56795212fd2e` | Мостът/тясното място към IT в настоящето е локално осветено и физически прекъснато. |
+| E208-E209 | `screenshots/other-silo-it-vault-survivor.jpeg` | 447612 | `133a8c6a8974acbcb157c6b05d622d7686b146ec` | Жив човек се вижда зад защитена врата, подобна на трезор, в зоната на IT в другия силоз. |
 
 ## Контактен лист
 
 - `contact-sheet.jpg`
-- Bytes: 487995
+- Байтове: 487995
 - Git blob SHA: `1256d46cc4c164c8dcaaf2266b8a58ca008699e9`
 
-## Important evidence boundaries
+## Важни граници на доказателствата
 
-- `E188` се запазва само като заменен извод: първоначалната интерпретация, че атаката е насочена към Engineering/контрола на генератора, е коригирана от по-късно scene evidence, идентифициращо IT като атакувано/защитавано място.
-- Другият Silo е confirmed като отделен Silo, изследван от Juliette, но номерът му не е established.
-- `key 18`, `HDD 18` и hypothetical `Silo 18` не се свързват само заради повторения номер.
-- Масовите смъртни случаи навън установяват реална смъртоносна външна опасност при наблюдаваните условия; точният агент остава неустановен.
-- Текущият най-подходящ модел на опасността е въздушно/атмосферно излагане; токсин/химикал/аерозол и патоген остават алтернативи. Чистата външна радиация е отслабена като обяснение, но не е абсолютно изключена.
-- Скритото наблюдение чрез камери в огледалата във втория Silo подкрепя стандартизиран cross-Silo дизайн за наблюдение/контрол, но все още не доказва, че една активна централна власт контролира всеки Silo.
-- Електрическото осветление остава активно в повече от една зона на изоставения втори Silo; източникът и обхватът на захранването остават неизвестни.
+- `E188` се запазва само като заменен извод: първоначалната интерпретация, че атаката е насочена към Engineering/контрола на генератора, е коригирана от по-късно доказателство в сцената, което идентифицира IT като атакуваното/защитавано място.
+- Другият силоз е потвърден като отделен силоз, изследван от Juliette, но номерът му не е установен.
+- `key 18`, `HDD 18` и хипотетичният `Silo 18` не се свързват само заради повторението на номера.
+- Масовите смъртни случаи навън установяват реална смъртоносна външна опасност при наблюдаваните условия; точният причинител остава неустановен.
+- Текущият най-подходящ модел на опасността е въздушно/атмосферно излагане; токсин, химикал, аерозол и патоген остават алтернативи. Чистата външна радиация е отслабена като обяснение, но не е абсолютно изключена.
+- Скритото наблюдение чрез камери в огледалата във втория силоз подкрепя стандартизиран междусилозен дизайн за наблюдение/контрол, но все още не доказва, че една активна централна власт контролира всеки силоз.
+- Електрическото осветление остава активно в повече от една зона на изоставения втори силоз; източникът и обхватът на захранването остават неизвестни.
 
-## Evidence, което не е представено от selected screenshot
+## Доказателства, които не са представени с избрана екранна снимка
 
-- E206 — major flooding във втория Silo достига до няколко levels под IT (няма dedicated source still в този batch).
-- E207 — младата Juliette е посетила excavation machine в своя Silo с приятел (няма dedicated source still в този batch).
+- E206 — значително наводнение във втория силоз достига до няколко нива под IT (няма отделен изходен кадър в тази партида).
+- E207 — младата Juliette е посещавала изкопната машина в своя силоз с приятел (няма отделен изходен кадър в тази партида).
