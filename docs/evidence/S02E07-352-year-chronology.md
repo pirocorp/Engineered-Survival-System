@@ -1,19 +1,19 @@
 # S02E07 — 352-годишна възраст на Silo и chronology refactor
 
-**Knowledge boundary:** `S02E07`
+**Граница на знанието:** `S02E07`
 
 ## E323
 
 Bernard заявява, че Silo е построен преди **352 години**.
 
-**Class:** Character testimony / privileged historical knowledge  
-**Confidence:** VH, че Bernard го заявява; H–VH за exact precision.
+**Class:** Свидетелство на персонаж / privileged исторически knowledge  
+**увереност:** VH, че Bernard го заявява; H–VH за точен precision.
 
-Това е най-силният direct age anchor досега за самия Silo.
+Това е най-силният пряк age anchor досега за самия Silo.
 
 ## E324 — derived interval
 
-По-ранният testimony от S02E04 поставя Salvador Quinn / Rebellion преди приблизително **140 години**.
+По-ранният свидетелство от S02E04 поставя Salvador Quinn / бунт преди приблизително **140 години**.
 
 Therefore:
 
@@ -24,7 +24,7 @@ Therefore:
 ~212 years
 ```
 
-Следователно Silo е построен приблизително **212 години преди Rebellion**, ако и двата testimony anchors се приемат at face value.
+Следователно Silo е построен приблизително **212 години преди бунт**, ако и двата свидетелство anchors се приемат at face value.
 
 Това е derived interval, а не отделно заявена дата.
 
@@ -37,18 +37,18 @@ construction          Jane Carmody           Rebellion / Quinn        present
         ~152 years              ~60 years               ~140 years
 ```
 
-Тъй като ages за Jane и Rebellion са approximate, тези intervals също остават approximate.
+Тъй като ages за Jane и бунт са approximate, тези intervals също остават approximate.
 
 ## Въздействие върху модела
 
 Това силно установява, че:
-- Silo е съществувал много преди Rebellion;
-- Rebellion не е origin point на съществуването на Silo;
-- всяка simple chronology, която приравнява construction, Rebellion, `SILO YEAR` и `A.R.`, е unsafe.
+- Silo е съществувал много преди бунт;
+- бунт не е origin point на съществуването на Silo;
+- всяка simple chronology, която приравнява construction, бунт, `SILO YEAR` и `A.R.`, е unsafe.
 
-Still unresolved:
+Still неизяснен:
 - literal expansion of `A.R.`;
-- дали `A.R.` започва при Rebellion;
+- дали `A.R.` започва при бунт;
 - relation на `SILO YEAR 96/97` към construction или друга era;
 - дали всичките 50 Silos са построени simultaneously;
-- дали `352` на Bernard е exact или rounded.
+- дали `352` на Bernard е точен или rounded.
