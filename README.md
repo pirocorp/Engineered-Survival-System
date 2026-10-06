@@ -30,19 +30,34 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S03E07**
+**Текуща граница на знанието:** **S03E08**
 
-**Статус на гледане:** **Season 3 — S03E07 завършен**
+**Статус на гледане:** **Season 3 — S03E08 завършен**
 
-Не се използва никаква информация след S03E07, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация след S03E08, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S03E07 най-силният работен модел е:
+След S03E08 най-силният работен модел е:
 
-> **Silo system остава layered и compartmentalized survival/control architecture, но S03E07 показва по-широк supervisory reach и едновременно ограничено знание. „Гласът“ може да докладва exterior status и вероятно е свързан с external enforcement, но `neutralized` report-ът за Kyle/Kennedy по-късно е поставен под съмнение от радиовръзка. Safeguard е practically blockable поне временно в Silo 17, докато claim-ът за „непреодолимост“ оставя redundancy/bluff alternatives. Juliette's selective disclosure остава частично успешно. Low-level console установява null/static-loop feed substitution, а pre-Silo линията вече дава fragmented-memory + NDA evidence за sister-treatment и concrete Silo construction geography край Atlanta, Georgia.**
+> **Silo system вече има direct-revealed 50-unit topology: Silo 1 + 7 groups × 7 Silos. Safeguard poison distribution е hierarchical — седем trunk lines от Silo 1 към groups и local branches към отделните Silos. S03E08 едновременно поправя exterior модела: Kyle е прострелян, но жив; Silo 17 може да има едновременно отворени airlock doors без immediate mass death; „Гласът“ използва aerial surveillance за exterior status refresh. Pre-Silo линията вече свързва original Silo mission-а с неизбежна nanotechnology catastrophe, разкрива nano weapon като mechanism зад aircraft takeover-а и показва 50-Silo complex приблизително на 50 km от Atlanta. Bernard признава убийството на Meadows като “necessary to save the Silo”, но впоследствие заявява, че ще спре “тази тирания”.**
 
 Ключови установени линии:
+
+- S03E08: Kyle е direct-confirmed жив след exterior shooting; `neutralized` вече не може да се чете като `dead`;
+- S03E08: Silo 17 е показан с едновременно отворени airlock doors без immediate mass death, което отслабва uniformly-instant-lethal exterior model-а;
+- S03E08: „Гласът“ получава exterior update от aerial surveillance; телата на Kyle/Kennedy вече не са на мястото;
+- S03E08: Silo 17 възстановява radio capability и комуникира coded със Silo 18;
+- S03E08: official topology е **Silo 1 + 7 × 7 = 50 Silos**; Bernard's historical `51` остава отделен discrepancy;
+- S03E08: safeguard distribution diagram показва **7 trunk lines от Silo 1 → 7 groups → local branch към всеки Silo**;
+- S03E08: initial construction plan е 10 diggers × 5 Silos; Keen обяснява, че extraction струва повече от оставяне на machine-а buried;
+- S03E08: original project purpose е human survival + eventual repopulation след неизбежна catastrophe, свързана с nanotechnology;
+- S03E08: по-ранната “dirty bomb” линия е уточнена като nano weapon attack, целящ да забави U.S. AI/nanotechnology development; Iran attribution остава bounded;
+- S03E08: nano weapon поема aircraft control за секунди; analog retrofit е бил defensive countermeasure срещу този threat;
+- S03E08: Iranian nano-weapon facility е планирано да бъде унищожено с малка nuclear device чрез ~120 km underground tunnel; journalist твърди, че aircraft team-ът е бил capability experiment;
+- S03E08: Silo complex-ът е приблизително **50 km от Atlanta**; ruined exterior skyline = Atlanta остава силен inference, не explicit label;
+- S03E08: Bernard признава, че е отровил Meadows, защото му е било казано, че това е необходимо, за да не загине целият Silo; по-късно обещава да спре „тази тирания“;
+- S03E08: episode end state — Juliette е заключена заедно с Robert Sims;
 
 - S03E07: Lukas Kyle и Patrick Kennedy излизат към Silo 17 с child-transfer mission и covert safeguard-countermeasure objective;
 - S03E07: exterior sequence е жужене → кратък звук, наподобяващ оръжие → later Voice report `neutralized`; точният neutralization mechanism остава unknown;
@@ -721,6 +736,7 @@ analysis/S03E04-covert-network-abyss-bernard
 analysis/S03E05-voice-safeguard-memory-control
 analysis/S03E06-silo1-power-voice-memory
 analysis/S03E07-exterior-enforcement-georgia
+analysis/S03E08-nano-topology-safeguard
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -730,4 +746,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S03E07`
+**Следваща knowledge boundary:** `S03E08`
