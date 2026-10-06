@@ -1,12 +1,12 @@
-# S03E08 — Silo topology, safeguard distribution и construction lifecycle
+# S03E08 — топология на Silos, разпределение на safeguard и строителен жизнен цикъл
 
 **Knowledge boundary:** `S03E08`
 
-## 1. Official topology: 50 Silos
+## 1. Официална топология: 50 Silos
 
 S03E08 показва Silo 1 в центъра на седем групи. Отделният drawing на group geometry показва седем Silos в една група: един central и шест surrounding.
 
-Следователно official shown project topology е:
+Следователно официално показаната топология на проекта е:
 
 ```text
 7 groups × 7 Silos = 49
@@ -15,7 +15,7 @@ S03E08 показва Silo 1 в центъра на седем групи. От�
 
 Това е major correction на предишния кандидат „50 ordinary Silos + Silo 1 = 51“. Ако Bernard's `51` е accurate, допълнителният обект трябва да е извън показаната 50-Silo topology или да има друго обяснение.
 
-## 2. Safeguard / poison-pipe network
+## 2. Safeguard / мрежа от тръби за отровата
 
 Diagram-ът показва седем main lines от Silo 1 към седемте groups, след което локално разклонениеing към Silos в group-а.
 
@@ -23,33 +23,33 @@ Diagram-ът показва седем main lines от Silo 1 към седем�
 
 ```text
 Silo 1
-  ├─ главна линия 1 → group 1 → local Silo разклонениеes
-  ├─ главна линия 2 → group 2 → local Silo разклонениеes
+  ├─ главна линия 1 → група 1 → локални разклонения към Silos
+  ├─ главна линия 2 → група 2 → локални разклонения към Silos
   ├─ ...
-  └─ главна линия 7 → group 7 → local Silo разклонениеes
+  └─ главна линия 7 → група 7 → локални разклонения към Silos
 ```
 
 Това прави Silo 1 central routing point за safeguard distribution. Не е доказано дали toxic agent physically originates вътре в Silo 1, дали главна линия-овете имат redundancy или дали локално разклонение може да бъде bypass-нат чрез secondary route.
 
 Local blocking към Silo 18 може да прекъсне неговия delivery path, без това да означава пълно изключване на safeguard за всички Silos.
 
-## 3. Construction machine lifecycle
+## 3. Жизнен цикъл на изкопната машина
 
-Project sponsor-ът описва initial plan: 10 machines, всяка да изкопае 5 Silos.
+Спонсорът на проекта описва първоначалния план: 10 машини, всяка да изкопае 5 Silos.
 
 Daniel Keen възразява, че extraction на machine след завършването на shaft-а струва повече от оставянето ѝ buried. Това дава силен engineering bridge към already-observed deep machinery в finished Silo:
 
 ```text
-excavation machine → Silo excavation → machine left below completed Silo
+изкопна машина → изкопаване на Silo → машината остава под завършения Silo
 ```
 
-Така pre-Silo visual evidence и Silo-era digger zone вече имат direct economic/engineering explanation.
+Така пред-Silo визуалното evidence и зоната с изкопната машина от Silo епохата вече имат пряко икономическо и инженерно обяснение.
 
 ## 4. Atlanta geography
 
-Complex-ът е описан като ~50 km от Atlanta. Това supersede-ва по-широкото „Georgia / Atlanta area“.
+Комплексът е описан като ~50 km от Atlanta. Това заменя по-широкото „района на Georgia / Atlanta“.
 
-Construction skyline = Atlanta и ruined exterior city = Atlanta са силни visual/geographic inferences, но остават отделени от direct-stated 50 km anchor.
+Skyline-ът при строежа = Atlanta и разрушеният град във външната среда = Atlanta са силни визуални/географски изводи, но остават отделени от пряко заявения ориентир от 50 km.
 
 ## Visual anchors
 
