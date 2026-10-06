@@ -1,21 +1,21 @@
-# S01E05 — Visual evidence manifest
+# S01E05 — Манифест на визуалните доказателства
 
-Целеви repo path: `assets/S01E05/screenshots/`
+Целеви път в хранилището: `assets/S01E05/screenshots/`
 
 ## Обработка
 
-Изображенията са обработени чрез **perspective correction / rectification**, последвано от crop. Не е използвана generative редакция.
+Изображенията са обработени чрез **корекция на перспективата / ректификация**, последвана от изрязване. Не е използвана генеративна редакция.
 
-JPEG quality за selected screenshots: **95**.
+Качество на JPEG за избраните екранни снимки: **95**.
 
-| Файл | Категория | Evidence / context |
+| Файл | Категория | Доказателство / контекст |
 |---|---|---|
-| `level-8-marker.jpeg` | Worldbuilding / spatial map | Level 8 marker. Използва се само като spatial/worldbuilding anchor. |
-| `level-27-marker.jpeg` | Worldbuilding / spatial map | Level 27 marker. Използва се само като spatial/worldbuilding anchor. |
-| `level-29-marker.jpeg` | Worldbuilding / spatial map | Level 29 marker. Използва се само като spatial/worldbuilding anchor. |
-| `cafeteria-night-sky-observer.jpeg` | Astronomy / resident knowledge | Контекст в cafeteria с жител, който системно наблюдава звездоподобни светлини на public display. |
-| `public-display-star-like-night-sky.jpeg` | Exterior visual pipeline / astronomy | Звездоподобни точки върху public display в нощно състояние. Подкрепя структурирано визуално съдържание, наподобяващо небесни обекти; не доказва live feed или обективна външна реалност. |
-| `monthly-celestial-movement-record.jpeg` | Astronomy / recorded pattern | Board с `MONTHLY MOVEMENT SEQUENCE`, приблизително `DISTANCE FROM MID LIGHT EVERY 30 DAYS` и W/zig-zag movement pattern. Подкрепя repeated/structured motion observation. |
-| `contact-sheet.jpg` | Auxiliary / navigation | Contact sheet за преглед на избрани screenshots. **Не е основно evidence и не трябва да се цитира вместо отделните изходни screenshots.** |
+| `level-8-marker.jpeg` | Изграждане на света / пространствена карта | Означение за ниво 8. Използва се само като пространствен ориентир за изграждането на света. |
+| `level-27-marker.jpeg` | Изграждане на света / пространствена карта | Означение за ниво 27. Използва се само като пространствен ориентир за изграждането на света. |
+| `level-29-marker.jpeg` | Изграждане на света / пространствена карта | Означение за ниво 29. Използва се само като пространствен ориентир за изграждането на света. |
+| `cafeteria-night-sky-observer.jpeg` | Астрономия / знания на жителите | Контекст в кафетерията с жител, който системно наблюдава звездоподобни светлини на публичния екран. |
+| `public-display-star-like-night-sky.jpeg` | Визуален канал за външната среда / астрономия | Звездоподобни точки върху публичния екран в нощно състояние. Подкрепя структурирано визуално съдържание, наподобяващо небесни обекти; не доказва поток на живо или обективната външна реалност. |
+| `monthly-celestial-movement-record.jpeg` | Астрономия / записан модел | Табло с `MONTHLY MOVEMENT SEQUENCE`, приблизително `DISTANCE FROM MID LIGHT EVERY 30 DAYS` и W/зигзагообразен модел на движение. Подкрепя многократно наблюдавано и структурирано движение. |
+| `contact-sheet.jpg` | Спомагателно / навигация | Контактен лист за преглед на избраните екранни снимки. **Не е основно доказателство и не трябва да се цитира вместо отделните изходни изображения.** |
 
-**Knowledge boundary:** S01E05 only.
+**Граница на знанието:** само S01E05.
