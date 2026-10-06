@@ -1,12 +1,12 @@
-# S03E02 — supervisory computer/system: semantic awareness, utility threshold и population control
+# S03E02 — supervisory computer/система: semantic awareness, полезност праг и population контрол
 
-**Knowledge boundary:** `S03E02`
+**Граница на знанието:** `S03E02`
 
 ## Covert-note awareness
 
-Computer/system-ът знае, че Juliette е получила covert note и че е скрила/отрекла това пред Mrs Sims. System-ът оценява решението ѝ да излъже като concerning.
+Computer/система-ът знае, че Juliette е получила тайна бележка и че е скрила/отрекла това пред Mrs Sims. система-ът оценява решението ѝ да излъже като concerning.
 
-Това materially strengthens situational-awareness model-а:
+Това materially strengthens situational-awareness модел-а:
 
 ```text
 observed behavior
@@ -18,50 +18,50 @@ deception / risk evaluation
 operational response
 ```
 
-Това не доказва confirmed AI identity. Repo продължава да използва `computer/system` / `supervisory system`.
+Това не доказва потвърден AI identity. Repo продължава да използва `computer/system` / `supervisory system`.
 
-## Explicit Juliette risk model
+## Explicit Juliette риск модел
 
-System-ът показва две линии:
-- red: risk associated with Juliette / recovering suppressed memories;
+система-ът показва две линии:
+- red: риск associated with Juliette / recovering suppressed memories;
 - blue: stabilizing influence of Juliette as Mayor.
 
-System-ът заявява, че ако линиите се пресекат, Juliette вече няма да бъде useful.
+система-ът заявява, че ако линиите се пресекат, Juliette вече няма да бъде useful.
 
-Това е direct evidence за explicit utility/risk threshold model.
+Това е Пряко доказателство за explicit полезност/риск праг модел.
 
 ## Removal problem
 
-System-ът едновременно:
+система-ът едновременно:
 - допуска future removal на Juliette;
 - оценява sudden removal като potentially catastrophically destabilizing.
 
-Следователно Juliette е retained не защото privileged layer ѝ има доверие, а защото current stabilizing value остава operationally important.
+Следователно Juliette е retained не защото privileged слой ѝ има доверие, а защото current stabilizing value остава operationally important.
 
 ## Water-supply contingency
 
-System-ът иска `vitamins` да бъдат добавени във water supply преди removal да стане необходимо.
+система-ът иска `vitamins` да бъдат добавени във water supply преди removal да стане необходимо.
 
 Safe conclusion:
 
 > population-scale pharmacological memory intervention е contemplated като contingency за намаляване на destabilization около future Juliette-removal scenario.
 
 Not yet established:
-- exact target memory;
+- точен target memory;
 - дали population трябва буквално да забрави Juliette;
-- exact dose/agent;
+- точен dose/agent;
 - who executes dosing;
 - whether this is same substance as Quinn-era water program.
 
 ## Cross-episode significance
 
 S02E08:
-- prolonged waterborne memory suppression is historically established through Bernard's account.
+- prolonged waterborne потискане на паметта is historically established through Bernard's account.
 
 S03E01:
-- `vitamins` are current cover/framing for Juliette-targeted memory suppression.
+- `vitamins` are current cover/framing for Juliette-targeted потискане на паметта.
 
 S03E02:
-- computer/system links `vitamins` framing to planned water-supply deployment.
+- computer/система links `vitamins` framing to planned water-supply deployment.
 
-Това operationally connects targeted and population-scale memory-control modes, без да proves exact chemical identity.
+Това operationally connects targeted and population-scale memory-контрол modes, без да proves точен chemical identity.
