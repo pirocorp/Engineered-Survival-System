@@ -922,6 +922,126 @@
 | E889 | Показаният Georgia site е construction field на Silo program-а, а не само unrelated industrial site. | Direct contextual conclusion | VH | Derived от scene framing + visual. |
 | E890 | Known Silo field получава geographic anchor в района на Atlanta, Georgia; exact coordinates и per-Silo numbering остават unknown. | Geographic model update | H-VH | Не се overclaim-ва точен site. |
 
+## S03E08 — normalized evidence ledger (E891–E985)
+
+Live-view provisional numbering беше нормализирано тук в една canonical, unique E891–E985 sequence; content corrections (напр. ~120 km tunnel и nano-weapon facility) са запазени в final form, без да се използват duplicate IDs.
+
+| ID | Evidence / observation | Class | Confidence | Notes |
+|---|---|---|---|---|
+| E891 | Lukas Kyle е жив след exterior incident-а, но е прострелян/ранен. | Direct episode evidence | VH | Revises S03E07 outcome. |
+| E892 | S03E07 weapon-like acoustic event вече е свързан с реална стрелба. | Cross-episode correction | VH | Shooter/weapon platform unresolved. |
+| E893 | Voice report-ът `neutralized` не е надежден като финален еквивалент на death за Kyle. | Evidence conflict | VH | Deliberate lie not established. |
+| E894 | Ако bullet wound е нарушил suit integrity, Kyle survival materially weakens uniformly-instant-lethal ambient-air model-а. | Conditional inference | H | Depends on confirmed suit breach. |
+| E895 | Silo 17 е показан с едновременно отворени airlock doors без immediate mass death. | Direct episode event | VH | Strong exterior-hazard constraint. |
+| E896 | Exterior hazard трябва да допуска condition-dependent exposure: concentration, localization, delay, aerosol/particulate или друг mechanism. | Model update | H | Competing mechanisms remain open. |
+| E897 | Silo 17 възстановява radio capability за връзка със Silo 18. | Direct episode event | VH | Resolves prior location uncertainty. |
+| E898 | Silo 17 и Silo 18 комуникират coded. | Direct communication evidence | VH | `coded` ≠ proven cryptographic encryption. |
+| E899 | Initial construction plan е 10 excavation machines, всяка да изкопае по 5 Silos. | Direct project statement | VH | Pre-Silo planning. |
+| E900 | 10 machines × 5 Silos = 50 planned Silos. | Direct arithmetic | VH | Matches later official topology total. |
+| E901 | Pre-Silo construction program е explicit planned 50-Silo system. | Project-plan conclusion | VH | Major count anchor. |
+| E902 | 50-Silo plan усилва historical discrepancy с Bernard's `51`. | Cross-era conflict | VH | Not resolved by Silo 1. |
+| E903 | Daniel Keen възразява, че practically е нужен separate digger за всеки Silo. | Direct Keen assessment | VH | Challenges reuse plan. |
+| E904 | Keen казва, че extraction на digger струва повече от оставянето му underground. | Direct engineering/economic statement | VH | Key lifecycle explanation. |
+| E905 | Rational final design candidate е приблизително one digger per Silo. | Engineering inference | H-VH | Final procurement count not stated. |
+| E906 | Active pre-Silo digger и Silo-era buried machinery формират visual lifecycle bridge. | Cross-era visual inference | H-VH | Construction → completed Silo. |
+| E907 | Initial 10×5 reuse plan е технически/икономически поставен под съмнение. | Plan contradiction | H-VH | Keen challenge is direct. |
+| E908 | Final construction plan може да е revised от reusable към buried machines. | Hypothesis | H | Needs procurement confirmation. |
+| E909 | Project leadership казва, че хора ще живеят в Silos. | Direct project statement | VH | Human occupancy is original design. |
+| E910 | Human occupancy е заложено на construction stage, не later adaptation. | Design-purpose conclusion | H-VH | Derived from project briefing. |
+| E911 | Project purpose включва eventual emergence и repopulation/resettlement на Earth. | Direct project-purpose disclosure | VH | Long-term objective. |
+| E912 | Silos са long-term preservation system през период на surface non-habitability. | Design-purpose conclusion | H-VH | Supports survival-ark model. |
+| E913 | Leadership твърди, че идва `end of the world`/global catastrophe, която не може да бъде stopped. | Direct leadership claim | VH | Claim/belief, not independent proof. |
+| E914 | Silo program е представен като survival response, не prevention program. | Direct rationale | VH | Some humans survive catastrophe. |
+| E915 | Catastrophe line-ът е свързан с nanotechnology. | Direct pre-Silo disclosure | VH | Major origin clue. |
+| E916 | Exact nanotechnology failure mode остава unknown. | Epistemic boundary | VH | No automatic grey-goo/weapon assumption. |
+| E917 | „Гласът“ казва, че aerial surveillance току-що е направило pass около Silo 17. | Direct Voice statement | VH | Concrete exterior observation channel. |
+| E918 | Aerial observation отчита, че supposed bodies на Kyle/Kennedy ги няма. | Reported observation | VH | Physical status update. |
+| E919 | „Гласът“ вече знае, че earlier neutralization outcome не е final и operation-ът е успял достатъчно за movement/contact. | Supervisory knowledge update | H-VH | Exact individual status still bounded. |
+| E920 | Supervisory exterior awareness може да се refresh-ва чрез periodic aerial reconnaissance. | Architecture inference | H-VH | Explains strong but bounded knowledge. |
+| E921 | Camille Sims arrest-ва Robert Sims. | Direct episode event | VH | Open institutional split. |
+| E922 | Camille↔Robert conflict ескалира от covert divergence до formal detention. | Governance-state change | VH | Major alignment shift. |
+| E923 | Robert е третиран като direct internal threat от current control line. | Threat-perception inference | H | Exact charge/order unresolved. |
+| E924 | Silo 1 е показан central спрямо седем Silo groups. | Direct project-layout evidence | VH | Topology anchor. |
+| E925 | Една от седемте groups е идентифицирана като group-а на Silo 18. | Direct project-layout evidence | VH | Group membership anchor. |
+| E926 | Една Silo group е 1 central Silo + 6 surrounding Silos = 7. | Direct visual/layout evidence | VH | Clear diagram geometry. |
+| E927 | Official shown topology е Silo 1 + 7 groups × 7 Silos = 50. | Architectural arithmetic | VH | 1 + 49 = 50. |
+| E928 | Silo 1 е част от planned 50-Silo system, не автоматично additional 51st. | Model correction | VH | Refutes simple 50+Silo1 theory. |
+| E929 | Ако Bernard's `51` е accurate, #51 е извън или различно от показаната official 50-Silo topology. | Cross-era inference | H-VH | Identity unresolved. |
+| E930 | Safeguard diagram-ът показва 7 main poison-distribution lines от Silo 1 към 7 groups. | Direct diagram evidence | VH | Hierarchical first stage. |
+| E931 | Във всяка group distribution се разклонява към отделните Silos. | Direct diagram evidence | VH | Hierarchical second stage. |
+| E932 | Safeguard е networked distribution architecture, не single-pipe whole-system model. | System-design conclusion | H-VH | Based on diagram. |
+| E933 | Blocking local branch към Silo 18 не означава global safeguard shutdown. | Operational inference | H | Local vs global distinction. |
+| E934 | Diagram-ът не доказва redundant second route към същия Silo. | Epistemic boundary | VH | Redundancy remains open. |
+| E935 | Silo 1 е central safeguard-routing hub candidate. | Structural inference | H-VH | Source/storage of toxic agent not established. |
+| E936 | Bernard признава пред Juliette, че лично е отровил Judge Meadows. | Direct Bernard confession | VH | Direct perpetrator resolved. |
+| E937 | Bernard казва, че му е било казано, че убийството е необходимо, за да не загине целият Silo. | Direct Bernard testimony | VH | Upstream necessity claim. |
+| E938 | Meadows killing е представено от Bernard като sacrifice-one-to-save-Silo decision logic. | Decision-logic conclusion | H-VH | Does not prove threat was real. |
+| E939 | Exact source на instruction/necessity към Bernard остава unspecified. | Epistemic boundary | VH | Do not auto-assign to Voice. |
+| E940 | Bernard заявява, че ще направи всичко по силите си `за да спра тази тирания`. | Direct Bernard statement | VH | Explicit system rejection. |
+| E941 | Bernard вече open-ly се противопоставя на supervisory/control order, на който е служил. | Character-alignment change | H-VH | Current stance. |
+| E942 | Bernard показва remorse/rejection спрямо действията си под survival-over-individual doctrine. | Character-state inference | H | Inference from confession + stance. |
+| E943 | Project leadership свързва очакваната global catastrophe с nanotechnology. | Direct pre-Silo disclosure | VH | Origin model update. |
+| E944 | Silo program е построен като survival/repopulation response към expected nanotechnology catastrophe. | Original-purpose conclusion | H-VH | Stated rationale. |
+| E945 | По-ранната `dirty bomb` линия е уточнена като nano weapon attack. | Direct historical disclosure | VH | Major mechanism correction. |
+| E946 | Stated objective на nano attack-а е да забави U.S. AI и U.S. nanotechnology programs. | Direct strategic-purpose statement | VH | Targeted technology suppression. |
+| E947 | Nano attack/conflict chain въвлича САЩ във война. | Direct historical consequence | VH | Causal chain stated. |
+| E948 | Iran attribution остава bounded: acting-alone/allies/full responsibility не са established. | Epistemic boundary | VH | Do not over-attribute. |
+| E949 | Sister mission target-ът е secret Iranian facility, свързано с nano weapons, близо до Turkmenistan border. | Direct mission disclosure | VH | Target refined from generic nuclear site. |
+| E950 | Aircraft-ът на sister encounter-ва enemy nano weapon. | Direct mission disclosure | VH | Weapon environment established. |
+| E951 | Nano weapon поема aircraft control-а за секунди. | Direct capability disclosure | VH | Rapid takeover. |
+| E952 | Aircraft systems са били replaced/retrofitted с older analog systems като countermeasure срещу nano weapon-а. | Direct mission-preparation rationale | VH | Known-threat hardening. |
+| E953 | Analog retrofit-ът не предотвратява takeover-а. | Capability conclusion | VH | Countermeasure insufficient. |
+| E954 | Old generic `remote hack` model се refactor-ва: nano weapon е concrete takeover mechanism. | Historical hypothesis revision | H-VH | No separate hacker required. |
+| E955 | Target facility е било планирано да бъде унищожено с small nuclear device под него. | Direct operational disclosure | VH | Primary destruction plan. |
+| E956 | Nuclear device е поставена/доставена чрез secret underground tunnel около 120 km. | Direct operational disclosure | VH | Corrects provisional 75 km note. |
+| E957 | Nuclear destruction plan е отделен от aircraft като bomb-delivery mechanism. | Mission-plan conclusion | H-VH | Aircraft role remains separate. |
+| E958 | Journalist-ът обвинява leadership-а, че aircraft team-ът е бил използван като experiment за enemy nano capabilities. | Direct journalist accusation | VH | Truth status unconfirmed. |
+| E959 | Accusation-ът за experimental sacrifice не е independently confirmed. | Epistemic boundary | VH | Keep testimony separate from fact. |
+| E960 | Operation може да има dual-track logic: destroy facility + characterize nano weapon. | Conditional operational hypothesis | H | Based on accusation + known strike plan. |
+| E961 | Exact intended role на aircraft team-а остава unresolved. | Epistemic boundary | VH | Recon/test/trigger/diversion etc. not fixed. |
+| E962 | Crew expendability/deliberate sacrifice remains candidate, not established fact. | Hypothesis boundary | M | Requires confirmation. |
+| E963 | Silo complex-ът е разположен приблизително на 50 km от Atlanta. | Direct geographic disclosure | VH | Supersedes broad Atlanta-area anchor. |
+| E964 | Skyline-ът зад pre-Silo construction scenes най-вероятно е Atlanta. | Geographic visual inference | H-VH | Not explicit skyline label. |
+| E965 | Silo-era exterior показва разрушен голям city skyline. | Direct exterior visual evidence | VH | Long-standing visual anchor. |
+| E966 | Най-силният current inference е ruined skyline = Atlanta/Atlanta metro. | Cross-era geographic inference | H | Derived from ~50 km anchor. |
+| E967 | Core project group включва pilot sister, treating doctor, billionaire/project sponsor и senator. | Group-composition evidence | VH | Shown/identified in scene. |
+| E968 | Journalist-ът отказва да се присъедини към core project group. | Direct character decision | VH | Outsider status. |
+| E969 | Pilot sister се съгласява да се присъедини към core group. | Direct character decision | VH | Founder/core membership. |
+| E970 | Core group комбинира political, capital/project, medical/scientific и operational experience. | Organizational inference | H-VH | Multi-domain leadership. |
+| E971 | Daniel Keen и journalist-ът имат явно intimate/romantic сближаване при тръгването ѝ. | Direct character interaction | VH | Personal link despite project split. |
+| E972 | Pre-Silo aerial construction view продължава да показва coordinated multi-unit field. | Direct visual evidence | VH | Scale anchor retained. |
+| E973 | Digger side/human-scale view показва огромния physical scale на excavation machine. | Direct visual evidence | VH | Construction machinery anchor. |
+| E974 | Front/overhead views показват massive cylindrical excavation geometry. | Direct visual evidence | VH | Supports machine lifecycle comparison. |
+| E975 | Digger visuals + Keen economics strengthen buried-machine interpretation за deep Silo machinery. | Cross-era convergence | H-VH | Visual + dialogue bridge. |
+| E976 | 50-Silo topology е представена като един grouped complex, а не dispersed national network. | Project-layout conclusion | H-VH | Within shown project model. |
+| E977 | Safeguard diagram establishes distribution hierarchy, but not redundancy/failover per Silo. | Epistemic boundary | VH | Important limit. |
+| E978 | Silo 1 now has three distinct central roles/candidates: all-frequency radio monitoring, IT power source, safeguard routing. | Cross-episode convergence | H-VH | Do not equate Silo1 with Voice. |
+| E979 | S03E08 genuine Silo17↔Silo18 communication strongly weakens S03E07 manipulated-radio candidate. | Historical hypothesis update | H-VH | Manipulation no longer preferred. |
+| E980 | Voice exterior awareness is better modeled as bounded knowledge with refresh channels, not omniscience. | Model refinement | H-VH | Aerial recon is concrete refresh path. |
+| E981 | Identity of shooter / external enforcement actor remains unresolved despite confirmed shooting. | Epistemic boundary | VH | Observation ≠ command capability. |
+| E982 | Current exterior hazard = pre-Silo nanotechnology threat is not yet direct-confirmed. | Critical causal boundary | VH | Keep as hypothesis only. |
+| E983 | Safeguard poison = nanotechnology is not direct-confirmed. | Critical causal boundary | VH | Do not collapse mechanisms. |
+| E984 | Juliette е заключена заедно с Robert Sims. | Direct episode-end event | VH | Shared detention. |
+| E985 | Current control line третира Juliette и Sims като detained threats/common opposition position, без доказано identical alliance. | Governance inference | H | Episode end state. |
+
+## Визуални източници — S03E08
+
+Binary assets са качени в `main` с commit `3ab2e04ce0b56c78e9ebdcc5dd9dec744d852b97` преди analysis PR-а. Git blob SHA validation е записан в [S03E08 manifest](../assets/S03E08/MANIFEST.md).
+
+Primary:
+- [Safeguard poison distribution network](../assets/S03E08/screenshots/safeguard-poison-distribution-network.jpeg)
+- [Silo 1 central topology](../assets/S03E08/screenshots/silo1-central-topology.jpeg)
+- [Silo 18 / seven-Silo group](../assets/S03E08/screenshots/silo18-seven-silo-group.jpeg)
+- [Bernard — „спра тази тирания“](../assets/S03E08/screenshots/bernard-stop-this-tyranny.jpeg)
+- [Pre-Silo core project group](../assets/S03E08/screenshots/pre-silo-core-project-group.jpeg)
+- [Digger — side / human scale](../assets/S03E08/screenshots/pre-silo-digger-side-human-scale.jpeg)
+- [Digger — front](../assets/S03E08/screenshots/pre-silo-digger-front.jpeg)
+- [Digger — overhead](../assets/S03E08/screenshots/pre-silo-digger-overhead.jpeg)
+- [Exterior suited survivor](../assets/S03E08/screenshots/exterior-suited-survivor.jpeg)
+- [Pre-Silo construction site aerial](../assets/S03E08/screenshots/pre-silo-construction-site-aerial.jpeg)
+
+`contact-sheet.jpg` е auxiliary/navigation asset, не primary evidence.
+
 ## Визуални източници — S03E07
 
 Binary assets са качени отделно в `main` преди analysis PR-а и са валидирани byte-for-byte чрез Git blob SHA comparison:
