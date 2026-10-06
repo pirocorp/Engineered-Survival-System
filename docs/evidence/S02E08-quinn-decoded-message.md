@@ -1,6 +1,6 @@
 # S02E08 — Декодираното съобщение на Quinn: “the game is rigged”
 
-**Knowledge boundary:** `S02E08`
+**Граница на знанието:** `S02E08`
 
 S02E08 започва да разкрива съдържанието на кодирания финален payload на Salvador Quinn.
 
@@ -11,29 +11,29 @@ If you've gotten this far,
 you already know the game is rigged.
 ```
 
-Това е direct decoded-document evidence.
+Това е пряк декодиран-document доказателство.
 
 ## Интерпретация
 
 Формулировката предполага читател, който вече:
 - е открил скрит материал;
 - е проникнал отвъд официалния исторически разказ;
-- е разпознал структурна манипулация, преди да довърши protected message.
+- е разпознал структурна манипулация, преди да довърши защитен съобщение.
 
-Следователно фразата функционира като **second-layer message**, а не като първа следа.
+Следователно фразата функционира като **second-слой съобщение**, а не като първа следа.
 
 ## Обновяване на H50
 
-Encoded final section на Quinn вече не е просто „вероятно чувствителна информация“.
+кодиран final section на Quinn вече не е просто „вероятно чувствителна информация“.
 
-Той директно съдържа protected message, адресиран към бъдещ читател/изследовател.
+Той директно съдържа защитен съобщение, адресиран към бъдещ читател/изследовател.
 
 ## H69
 
-**Quinn умишлено е структурирал encoded ending като protected second-layer message за читател, който вече е открил, че официалната system/history е манипулирана.**
+**Quinn умишлено е структурирал кодиран ending като защитен second-слой съобщение за читател, който вече е открил, че официалната система/history е манипулирана.**
 
-**Confidence:** H  
-**Status:** Active / Strengthened.
+**увереност:** H  
+**статус:** Active / Strengthened.
 
 ## Граница
 
@@ -42,13 +42,13 @@ Encoded final section на Quinn вече не е просто „вероятн
 Не го приравняваме преждевременно с:
 - Pact;
 - elections/governance;
-- rebellion management;
-- cleaning;
+- бунт management;
+- почистване;
 - всичките 50 Silos;
 - оригиналния design на Founders.
 
-Това остават competing interpretations, докато не бъде разкрит още decoded text.
+Това остават competing interpretations, докато не бъде разкрит още декодиран text.
 
-## Visual
+## визуален
 
 - [Quinn decoded message — game is rigged](../../assets/S02E08/screenshots/quinn-decoded-message-game-is-rigged.jpeg)
