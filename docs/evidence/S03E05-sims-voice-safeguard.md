@@ -1,14 +1,14 @@
 # S03E05 — семейство Sims, „Гласът“ и safeguard hierarchy
 
-**Knowledge boundary:** `S03E05`
+**Граница на знанието:** `S03E05`
 
 ## Camille като Head of IT
 
 Robert Sims казва пред Mechanical, че Camille Sims е новият Head of IT.
 
-Това operationally resolve-ва предишния succession candidate след direct interaction-а на Camille със supervisory system-а.
+Това operationally resolve-ва предишния succession candidate след пряк interaction-а на Camille със supervisory система-а.
 
-Camille казва на Robert, че не може да му разкрива какво става във vault-а.
+Camille казва на Robert, че не може да му разкрива какво става във трезор-а.
 
 Robert уточнява, че Bernard също не му е казвал какво прави там; знаел е само, че Bernard получава instructions.
 
@@ -16,11 +16,11 @@ Robert уточнява, че Bernard също не му е казвал как�
 
 Директната in-world terminology в S03E05 е:
 
-- **„Гласът“ / the Voice** — direct in-world label;
-- **supervisory computer/system** — неутрален analytical label;
-- **AI** — не се приема като confirmed technical identity на Silo-era entity.
+- **„Гласът“ / the Voice** — пряк in-world label;
+- **supervisory computer/система** — неутрален analytical label;
+- **AI** — не се приема като потвърден technical identity на Silo-era entity.
 
-Robert не е знаел точната nature на source-а във vault-а.
+Robert не е знаел точната nature на source-а във трезор-а.
 
 ## Safeguard read-in
 
@@ -48,15 +48,15 @@ Camille не формулира изрично „да“, но:
 
 Bernard казва, че знае, че „Гласът“ го иска мъртъв.
 
-Това independently converges с threat model-а на Camille, но exact message/command от „Гласът“ към Camille относно Bernard и Lukas не е показан директно.
+Това independently converges с threat модел-а на Camille, но точен съобщение/command от „Гласът“ към Camille относно Bernard и Lukas не е показан директно.
 
-## Existential control
+## Existential контрол
 
 Bernard казва на Robert, че „могат да ни убият по всяко време“.
 
 Той свързва discovery-то с Lukas Kyle и казва, че Juliette знае как да спре safeguard-а.
 
 Това установява asymmetry на властта:
-- local leaders не притежават ultimate survival sovereignty;
-- по-високият layer има whole-Silo kill capability;
+- локален leaders не притежават ultimate survival sovereignty;
+- по-високият слой има whole-Silo kill възможност;
 - Juliette притежава countermeasure knowledge.
