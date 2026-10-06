@@ -1,38 +1,38 @@
-# S03E06 visual evidence manifest
+# S03E06 — Манифест на визуалните доказателства
 
-**Knowledge boundary:** `S03E06`
+**Граница на знанието:** `S03E06`
 
-Binary assets са качени директно в `main` с commit:
+Двоичните ресурси са качени директно в `main` с commit:
 
 - `adac4205b57cf54c6ea33c2448ad7cba2b99dd15` — `S03E06`
 
-Файловете са сравнени byte-for-byte с локално подготвения visual package чрез Git blob SHA.
+Файловете са сравнени байт по байт с локално подготвения пакет от визуални материали чрез Git blob SHA.
 
-| File | Git blob SHA | Role |
+| Файл | Git blob SHA | Роля |
 |---|---|---|
-| `screenshots/level-94-primary.jpeg` | `65bfbdd8f82e5d600226ad98b64835dd5ee96f35` | Primary evidence — spatial anchor за Level 94 |
-| `screenshots/no-camera-room-object.jpeg` | `ee7fee50993ae312ecc9912fe8eb49c1d167c323` | Primary evidence — Juliette / съмнение за наблюдение без камери |
-| `screenshots/industrial-work-area-emblem.jpeg` | `4dd6c0d25548e4bcfc8eaffe88dc956bf7fc0650` | Primary evidence — индустриална/maintenance зона и емблема |
-| `contact-sheet.jpg` | `9f25b5a89b4d202154e2dc60bd8852b5b9434281` | Спомагателен navigation asset |
+| `screenshots/level-94-primary.jpeg` | `65bfbdd8f82e5d600226ad98b64835dd5ee96f35` | Основно доказателство — пространствен ориентир за ниво 94 |
+| `screenshots/no-camera-room-object.jpeg` | `ee7fee50993ae312ecc9912fe8eb49c1d167c323` | Основно доказателство — Juliette / съмнение за наблюдение без камери |
+| `screenshots/industrial-work-area-emblem.jpeg` | `4dd6c0d25548e4bcfc8eaffe88dc956bf7fc0650` | Основно доказателство — индустриална/обслужваща зона и емблема |
+| `contact-sheet.jpg` | `9f25b5a89b4d202154e2dc60bd8852b5b9434281` | Спомагателен навигационен материал |
 
-## Visual handling
+## Обработка на изображенията
 
-- perspective correction на photographed TV plane;
-- output 1536×864 за primary screenshots;
-- JPEG quality 95;
-- без generative edits;
-- без content reconstruction;
-- без object/subtitle removal;
-- без synthetic fill.
+- корекция на перспективата спрямо заснетата равнина на телевизионния екран;
+- изходен размер 1536×864 за основните екранни снимки;
+- качество на JPEG: 95;
+- без генеративни редакции;
+- без реконструкция на съдържание;
+- без премахване на обекти/субтитри;
+- без синтетично запълване.
 
-## Evidence scope
+## Обхват на доказателствата
 
-Visual package-ът е избран набор от потвърждаващи frames, а не замяна на dialogue/event ledger-а.
+Пакетът от визуални материали е избран набор от потвърждаващи кадри, а не замяна на регистъра на диалозите и събитията.
 
-S03E06 има важни dialogue-driven findings без dedicated screenshot в package-а, включително:
-- Silo 1 → IT external electrical feed;
-- separate safeguard path към Judicial;
-- Juliette direct contact с „Гласът“;
-- Camille operational deployment на Vitamin D+ във водата;
-- explicit car↔aircraft external-control linkage;
-- forced routing към airport/private aircraft.
+S03E06 съдържа важни находки, установени чрез диалог, без отделна екранна снимка в пакета, включително:
+- Silo 1 → външно електрозахранване към IT;
+- отделен път на Safeguard към Judicial;
+- пряк контакт на Juliette с „Гласът“;
+- оперативно прилагане на Vitamin D+ във водата от Camille;
+- изрично свързване на външния контрол над автомобила и самолета;
+- принудително насочване към летище/частен самолет.
