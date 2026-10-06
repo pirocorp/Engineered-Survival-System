@@ -1,16 +1,16 @@
-# S03E08 visual evidence manifest
+# S03E08 manifest на визуалното evidence
 
 Двоичните assets са качени в `main` с commit `3ab2e04ce0b56c78e9ebdcc5dd9dec744d852b97` преди analysis PR-а.
 
 Спецификация за обработка от upload manifest-а:
 - output: 1536×864 JPEG;
 - quality: 95;
-- perspective-corrected от photographed TV frames;
+- перспективата е коригирана от снимани кадри на телевизор;
 - без генеративни редакции или реконструкция на съдържание.
 
 ## Primary screenshots
 
-| File | Git blob SHA | Роля като evidence |
+| Файл | Git blob SHA | Роля като evidence |
 |---|---|---|
 | `screenshots/safeguard-poison-distribution-network.jpeg` | `99a1f101b882ec6ae831cad15bb51a36debe7379` | 7 главна линия lines / group разклонениеing safeguard diagram |
 | `screenshots/silo1-central-topology.jpeg` | `1d9ebcc9a42ecbd7482308bde9be59497a1e3c66` | Silo 1 central to seven groups |
@@ -25,9 +25,9 @@
 
 ## Auxiliary
 
-| File | Git blob SHA | Role |
+| Файл | Git blob SHA | Роля |
 |---|---|---|
 | `contact-sheet.jpg` | `58fe1f4e16748d5f27db4dc32271a0e9d9d9fa5b` | навигационен contact sheet |
-| `visual-manifest.txt` | `2804da94ae81117e14013b74e4633dbdcadaf91b` | връзка между upload и source |
+| `visual-manifest.txt` | `2804da94ae81117e14013b74e4633dbdcadaf91b` | връзка между качването и източника |
 
-All listed Git blob SHAs were re-read from `main` before creation of the analysis разклонение.
+Всички изброени Git blob SHA стойности бяха прочетени отново от `main` преди създаването на analysis branch-а.
