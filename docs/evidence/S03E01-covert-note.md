@@ -1,10 +1,10 @@
-# S03E01 — covert note / Level 2 marketplace protocol
+# S03E01 — тайна бележка / Level 2 marketplace protocol
 
-**Knowledge boundary:** `S03E01`
+**Граница на знанието:** `S03E01`
 
 ## Delivery
 
-Juliette получава handwritten note, hidden in food. Sender-ът не е identified.
+Juliette получава handwritten note, скрит in food. Sender-ът не е identified.
 
 ## Reconstructed text
 
@@ -27,11 +27,11 @@ Minor punctuation/line-break differences са възможни.
 
 ## Correction history
 
-Early partial frame was provisionally read като possible `shaft 2`. Clear later frame + subtitle direct-confirm `marketplace on Level 2`. `shaft 2` interpretation е rejected/superseded, не silently overwritten.
+Early partial frame was provisionally read като possible `shaft 2`. Clear later frame + subtitle пряк-confirm `marketplace on Level 2`. `shaft 2` interpretation е rejected/superseded, не silently overwritten.
 
 ## Implication
 
-Physical food/tray channel provides plausible bypass на ordinary electronic/camera-mediated communication controls. Exact sender, kitchen access path и purpose на Level 2 meeting остават unresolved.
+физически food/tray channel provides plausible bypass на ordinary electronic/camera-mediated communication controls. точен sender, kitchen достъп path и purpose на Level 2 meeting остават неизяснен.
 
 ## Visuals
 
