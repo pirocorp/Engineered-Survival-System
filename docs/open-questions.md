@@ -1498,6 +1498,105 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 1071. Как pre-Silo Georgia construction program се свързва институционално с AI/clinic/Iran actor network-а?
 1072. Exact catastrophe/trigger, заради който construction program-ът става operational survival system, вече планиран ли е на този stage?
 
+## S03E08 — resolved / materially narrowed from S03E07
+
+- Q1029 materially resolved: weapon-like sound belongs to an actual shooting context; Kyle is shot.
+- Q1030 narrowed: `neutralized` cannot be equated with `dead`; exact operational meaning remains open.
+- Q1033 narrowed: the report is at least non-final/incomplete as a durable status for Kyle; deliberate deception is not established.
+- Q1034/Q1035 materially resolved: Silo 17 restores radio capability and communicates with Silo 18; the manipulated-radio candidate is strongly weakened.
+- Q1046 materially narrowed: aerial surveillance is one concrete exterior-status channel available to the supervisory layer.
+- Q1065 resolved to episode precision: the Silo complex is approximately 50 km from Atlanta.
+- Q1068 materially resolved: Silo 1 is central relative to seven Silo groups.
+- Q1072 materially narrowed: the original survival trigger is tied to an expected nanotechnology catastrophe, though exact failure mode remains unresolved.
+
+## S03E08 — exterior / Kyle / aerial surveillance
+
+1073. Кой точно прострелва Kyle — human shooter, automated platform, drone, remote turret или друг actor?
+1074. Кой command-ва shooter-а и има ли „Гласът“ command authority над него?
+1075. Bullet wound-ът нарушава ли suit sealing-а и ако да, колко дълго Kyle е exposed?
+1076. Защо едновременно отворените airlock doors на Silo 17 не водят до immediate mass casualty?
+1077. Какъв е exact exterior hazard mechanism — concentration, aerosol/particulate, temporal variation, localized cloud, biological agent, nanotechnology или комбинация?
+1078. Какъв е aerial-surveillance platform-ът, колко често прави passes и какви sensors използва?
+1079. „Гласът“ само получава aerial reports ли, или управлява platform-а?
+1080. Какъв е точният status на Patrick Kennedy след shooting sequence-а?
+
+## S03E08 — radio / inter-Silo contact
+
+1081. Какъв точно е coding protocol-ът между Silo 17 и Silo 18?
+1082. Radio link-ът има ли route/relay през Silo 1 или е директен point-to-point contact?
+1083. Как supervisory layer-ът реагира на restored inter-Silo radio traffic?
+
+## S03E08 — 50 vs 51 / topology
+
+1084. Какво точно означава Bernard's historical `51`, след като official shown topology е 50 = Silo 1 + 7×7?
+1085. Има ли physical installation #51 извън official topology?
+1086. Възможно ли е `51` да означава non-Silo facility, reserve site, control site или друго numbering scheme?
+1087. Всичките седем groups физически ли са разположени около Silo 1 в един contiguous complex?
+
+## S03E08 — safeguard network
+
+1088. Къде physical-но минават седемте main safeguard trunk lines?
+1089. Къде е stored/generated toxic agent-ът?
+1090. Silo 1 само routing/control hub ли е, или physical source на agent-а?
+1091. Има ли per-Silo valves / pumps / local injection points?
+1092. Има ли redundant second route към един и същ Silo?
+1093. Може ли blocked local branch да бъде remotely bypassed?
+1094. Как Silo 17 е успял да stop-не safeguard-а — local branch isolation, upstream block или друг mechanism?
+1095. Как diagram-ът се свързва с познатия Level 14 / Judicial safeguard path в Silo 18?
+
+## S03E08 — construction / diggers
+
+1096. Колко excavation machines са final-но произведени/използвани — 10, 50 или друг брой?
+1097. Initial 10×5 reuse plan официално ли е revised след Keen's objection?
+1098. Има ли buried excavation machine под всеки completed Silo?
+1099. Как machine-ът е integrated/isolated след завършване на shaft-а?
+1100. Как construction order-ът на 50-те Silos е организиран във времето?
+
+## S03E08 — nanotechnology catastrophe
+
+1101. Какъв е exact failure mode на очакваната nanotechnology catastrophe?
+1102. Свързана ли е directly първата nano-bomb attack с later world-ending catastrophe?
+1103. Current exterior hazard същата nanotechnology ли е, descendant ли е, или различен mechanism?
+1104. Safeguard poison използва ли nanotechnology?
+1105. Memory-suppression system използва ли nanotechnology или отделна pharmacological chemistry?
+1106. Защо project leadership смята catastrophe-та за unavoidable?
+
+## S03E08 — Iran / nano weapon mission
+
+1107. Iran действа ли сам, с state allies, non-state allies или attribution-ът е incomplete/misdirected?
+1108. Кой е actual operator/creator на nano weapon-а?
+1109. Как nano weapon-ът поема aircraft control-а на техническо ниво?
+1110. Защо analog retrofit-ът не успява?
+1111. Aircraft crew-ът умишлено ли е изпратен като capability experiment?
+1112. Какви данни/knowledge получава leadership-ът от aircraft encounter-а?
+1113. Кой изгражда ~120 km secret tunnel и кога?
+1114. Nuclear device детонирана ли е успешно и facility-то действително ли е унищожено?
+1115. Какъв е exact relation между facility-то, nano-bomb attack-а и broader war?
+
+## S03E08 — Atlanta geography
+
+1116. Ruined city skyline-ът direct-confirm-ва ли се по-късно като Atlanta?
+1117. Защо Silo complex-ът е избран приблизително на 50 km от Atlanta?
+1118. Как 50-Silo group topology се разполага спрямо real-world Atlanta metro geography?
+
+## S03E08 — founders / governance
+
+1119. Какви exact roles получават pilot sister, doctor, billionaire/project sponsor и senator в бъдещия Silo system?
+1120. Daniel Keen formal-но присъединява ли се към core project group?
+1121. Каква е later role-ът на journalist-а след отказа ѝ?
+1122. „Founders“ official in-world title ли е или само analytical shorthand?
+
+## S03E08 — Bernard / Meadows / current power split
+
+1123. Кой точно казва на Bernard, че Meadows трябва да бъде убита, за да се спаси Silo?
+1124. Meadows реално ли е представлявала existential threat или Bernard е бил manipulated?
+1125. Какво конкретно кара Bernard да премине от compliance към explicit rejection на „тиранията“?
+1126. Каква practical стратегия има Bernard за stopping current supervisory order?
+1127. На какво основание Camille arrest-ва Robert Sims?
+1128. Кой нарежда Juliette и Sims да бъдат заключени заедно?
+1129. Juliette и Sims ще формират ли реален alliance или само temporary common-opposition position?
+1130. Как original survival necessity се е превърнала в later memory-control/safeguard/deception architecture?
+
 ## Основен въпрос на проекта
 
 163. Авторитарният контрол в Silo основно реална необходимост за оцеляване ли е, институционална система, надживяла първоначалната си цел, умишлена измама или комбинация от трите?
