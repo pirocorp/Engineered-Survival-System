@@ -1597,6 +1597,82 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 1129. Juliette и Sims ще формират ли реален съюз или само временна обща опозиционна позиция?
 1130. Как първоначалната необходимост за оцеляване се е превърнала в по-късната архитектура на memory control, safeguard и deception?
 
+
+## S03E09 — разрешени или съществено стеснени въпроси
+
+- Q1076 остава open, но е sharpened: Bernard умира след no-suit exposure, докато Silo 17 не показва immediate mass death при отворени две airlock doors.
+- Q1084–Q1087 са съществено стеснени: opening-day map + full physical aerial потвърждават официалните 50 като Silo 1 + 7×7; Silo 1 не е extra 51st.
+- Q1119 е частично стеснен: billionaire/project sponsor-ът е идентифициран като Per Stenson; exact institutional role след intake остава open.
+- Q1120 е стеснен: Daniel Keen е assigned към Silo 1; това не доказва автоматично formal governing office.
+- Q1121 е стеснен: журналистката е assigned към Silo 18.
+- Q1125/Q1126 са стеснени: Bernard открито се противопоставя на „Гласът“, предлага scapegoat plan и развива human-operator theory.
+- Q1130 е съществено стеснен: Пактът е ~500-year governance framework, AI-drafted и human-edited още преди occupancy.
+
+## S03E09 — „Гласът“ / Silo 1
+
+1131. Bernard's theory за human operators в Silo 1 вярна ли е?
+1132. Ако има human operators, колко са и каква е shift/duty структурата?
+1133. Voice interface-ът само комуникационен facade ли е, decision-support layer ли е или комбинация?
+1134. Има ли autonomous AI component зад „Гласът“ независимо от human operators?
+1135. Как Silo 1 Voice operation се свързва с all-frequency radio monitoring, external IT power и safeguard routing?
+1136. Кой избира/обучава Silo 1 operators и как се предава privileged knowledge?
+
+## S03E09 — exterior hazard
+
+1137. Защо Bernard умира след no-suit exposure, а Silo 17 не претърпява immediate mass death при отворени airlock doors?
+1138. Hazard-ът localized около конкретен Silo/cleaning zone ли е?
+1139. Има ли concentration threshold, temporal delay или particulate/aerosol behavior?
+1140. Има ли environmental difference между зоните около Silo 17 и Silo 18?
+1141. Каква е ролята на protective suit в стандартния cleaning protocol, след като fatal outcome е възможен и без него?
+1142. Колко време реално изминава между Bernard's exterior exposure и смъртта му?
+
+## S03E09 — mines / elevator
+
+1143. Защо Пактът забранява generic mechanized transport и конкретно elevators?
+1144. Кой проектира/изгражда mine elevator-а и от какви ресурси?
+1145. Каква е exact целта на силната експлозия в mines?
+1146. Експлозията structural breach ли създава, отваря ли route или има друга функция?
+
+## S03E09 — Пактът
+
+1147. Кой AI е използван за draft-а на Пакта?
+1148. Същият AI свързан ли е по някакъв начин с по-късния Voice system?
+1149. Какви sections са добавени/променени от сестрата на Daniel Keen и лекаря?
+1150. `500 years` exact operational horizon ли е, engineering maximum ли е или приблизителна social-planning цел?
+1151. Има ли formal release/return-to-surface condition, свързано с 500-year horizon?
+1152. Кои current Pact rules идват директно от AI draft-а и кои са human edits?
+
+## S03E09 — opening / population assignment
+
+1153. По какъв algorithm/criteria хората са разпределени между отделните Silos?
+1154. Assignment-ът random ли е, profession-balanced ли е, family-based ли е или deliberate social engineering?
+1155. Защо Daniel Keen е assigned към Silo 1?
+1156. Защо журналистката е assigned към Silo 18?
+1157. Каква е exact role на facial recognition при intake?
+1158. RF badges използвани ли са само за routing/access или и за real-time location tracking по време на opening-а?
+1159. Какво се случва с opening-era identity/assignment database след затварянето на Silos?
+
+## S03E09 — 50 срещу 51
+
+1160. Какво е Bernard's `51`, след като official opening map и physical complex показват 50?
+1161. Има ли hidden/off-map installation #51?
+1162. Може ли `51` да обозначава control site, reserve site или non-Silo facility?
+1163. Bernard греши ли, или използва privileged counting convention, неизвестна на public opening system?
+
+## S03E09 — opening-day communication / catastrophe
+
+1164. Коя е Anna от `Sitting next to Anna. Where are you?`?
+1165. Кой точно не отговаря на opening-day messages и защо?
+1166. `sit still and be patient` ordinary family phrasing ли е или предварително уговорен signal?
+1167. Какво точно кара Daniel да реагира толкова силно на message-а?
+1168. Кой причинява opening-day nuclear detonation?
+1169. Какъв е target-ът на детонацията?
+1170. Leadership очаква ли събитието предварително?
+1171. Opening date избрана ли е с knowledge за imminent catastrophe?
+1172. Детонацията единично събитие ли е или част от по-широка nuclear exchange?
+1173. Колко хора успяват да влязат в assigned Silos преди surface conditions да станат несъвместими с survival?
+
+
 ## Основен въпрос на проекта
 
 163. Авторитарният контрол в Silo основно реална необходимост за оцеляване ли е, институционална система, надживяла първоначалната си цел, умишлена измама или комбинация от трите?
