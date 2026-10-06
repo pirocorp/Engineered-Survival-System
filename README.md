@@ -4,7 +4,7 @@
 
 Целта е да третираме света на сериала като **черна кутия**: наблюдаваме поведението на системата, извличаме възможни правила, строим competing hypotheses и ги променяме или отхвърляме, когато нови епизоди дадат по-добър evidence.
 
-> **След S03E09 50-Silo topology вече е потвърдена и от physical opening-day complex: Silo 1 + 7 × 7 = 50. Пактът е описан като ~500-year underground governance rulebook, AI-drafted и human-edited. Daniel Keen е assigned към Silo 1, журналистката към Silo 18, а intake-ът използва facial recognition и RF-enabled badges. Bernard оспорва „Гласът“ и допуска human operators в Silo 1, но това остава character hypothesis. Bernard умира след no-suit exterior exposure, което потвърждава real lethal hazard, но прави Silo 17 open-airlock contradiction още по-важно. Opening/intake е прекъснат от ядрена детонация, докато хора още са на повърхността.**
+> **След S03E10 Silo 1 е директно установен като central supervisory/continuity node с metabolic/cryogenic stasis, operational elevator, central control room и human-operated Voice role. Victor е показан като human operator зад „Гласът“, а Senator-ът е Director на Silo 1; possible AI/automation backend остава unresolved. Safeguard има локално interruptible internal poison-mixture delivery и external drone fallback с poison/kinetic capability. Pact и Directive са distinct governance layers, Second Vault на Silo 18 е protected supervisory domain, а Helen Drew е идентифицирана като pre-Silo journalist-а. Exterior mechanism-ът остава unresolved: uniformly lethal ambient-air model е отхвърлен, но `outside is safe` също не е установено.**
 
 ## Език на проекта
 
