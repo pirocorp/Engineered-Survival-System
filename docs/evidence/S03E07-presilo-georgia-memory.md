@@ -1,17 +1,17 @@
-# S03E07 — pre-Silo sister memory, NDA и Georgia Silo construction
+# S03E07 — от периода преди силозите sister памет, NDA и Georgia Silo construction
 
-**Knowledge boundary:** `S03E07`
+**Граница на знанието:** `S03E07`
 
 ## Daniel Keen / сестрата
 
 Daniel Keen отново е със сестра си.
 
-Тя е физически възстановена, но memory state-ът ѝ не е intact:
+Тя е физически възстановена, но памет state-ът ѝ не е intact:
 - има откъслечни/фрагментарни спомени;
 - значителна част от autobiographical account-а ѝ е онова, което други са ѝ казали;
 - разполага и с чувствителна информация, която не може свободно да disclose-не.
 
-Това разделя два различни control слоя:
+Това разделя два различни контрол слоя:
 
 ```text
 MEMORY STATE
@@ -23,19 +23,19 @@ signed NDA
 + compartmentalized disclosure
 ```
 
-NDA не обяснява сам по себе си memory fragmentation-а.
+NDA не обяснява сам по себе си памет fragmentation-а.
 
-## Correction на sister-treatment hypothesis
+## Correction на sister-treatment хипотеза
 
 S03E05 E766 беше candidate:
 
-> sister treatment може да включва memory suppression / retrieval blocking.
+> sister treatment може да включва памет suppression / retrieval blocking.
 
 В началото на S03E07 физическото възстановяване и наличието на някакви спомени временно могат да изглеждат като weakening.
 
-По-късната direct информация за **фрагментарен recall** + dependence върху подаден отвън разказ отново съществено подсилва hypothesis-а.
+По-късната пряк информация за **фрагментарен recall** + dependence върху подаден отвън разказ отново съществено подсилва хипотеза-а.
 
-Това е consistent с pre-Silo memory mechanism от S03E02:
+Това е consistent с от периода преди силозите памет механизъм от S03E02:
 - real memories могат да останат налични, но трудно accessible;
 - repeated narrative може да shape-не autobiographical reconstruction.
 
@@ -49,14 +49,14 @@ Daniel Keen още не е read-in и трябва да подпише собс�
 
 Това показва формално разграничаване на достъпа:
 - knowledge може да е налично;
-- disclosure зависи от access/read-in;
+- disclosure зависи от достъп/read-in;
 - legal/secrecy gate предхожда пълното разкриване.
 
 ## Georgia / Atlanta
 
 Keen е доведен в Georgia, близо до Atlanta, до площадка за строеж на Silos.
 
-Visual evidence показва огромен civil-engineering site с множество паралелни кръгови excavation/build zones.
+визуален доказателство показва огромен civil-engineering site с множество паралелни кръгови excavation/build zones.
 
 Най-силният текущ прочит е:
 - Silos са планирани като multi-unit field;
