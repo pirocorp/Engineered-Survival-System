@@ -1,23 +1,102 @@
-# Текущо състояние — след S03E07
+# Текущо състояние — след S03E08
 
-**Knowledge boundary:** `S03E07`
+**Knowledge boundary:** `S03E08`
 
 ## Работен модел
 
-S03E07 показва, че supervisory layer-ът има reach отвъд вътрешността на Silo, но едновременно разкрива граници в knowledge-а му. Lukas Kyle и Patrick Kennedy излизат към Silo 17 с явна цел да доведат децата и covert задача да разберат как е блокиран safeguard pipe-ът. Навън чуват жужене, последвано от кратък приглушен звук, който самите герои оприличават на оръжие. „Гласът“ по-късно съобщава, че двамата са `neutralized`. Това създава силна хипотеза за външно въздействие, но точният механизъм и дори точността на report-а остават unresolved, защото по-късно идва радиовръзка, представена като Kyle/Kennedy.
+S03E08 превръща няколко дългогодишни candidates в concrete architecture. Official project topology вече е **Silo 1 + седем groups × седем Silos = 50**. Една group съдържа един central Silo и шест surrounding Silos. Safeguard diagram-ът показва отделна hierarchy: седем main poison-distribution lines от Silo 1 към седемте groups, след което local branch към всеки Silo. Това прави Silo 1 central routing candidate за safeguard infrastructure, без да доказва, че toxic agent-ът physical origin-ва вътре в Silo 1 или че има redundant second route към всеки Silo.
 
-S03E07 също стеснява границата на знанието на „Гласът“. Той заключава от записа на Juliette и множеството трупове около Silo 17, че safeguard-ът там е бил преодолян поне временно; Camille и „Гласът“ отделно спекулират, че истинската цел на Juliette може да е блокиране на safeguard-а. Това е силна situational awareness, но не всезнание. Juliette's selective disclosure от S03E06 следователно остава operationally meaningful.
+Exterior model-ът също се променя. Lukas Kyle е прострелян, но жив; Silo 17 е показан с едновременно отворени airlock doors без immediate mass death. Следователно простият модел „ambient exterior air е uniformly и instantaneously lethal“ вече е твърде силен. Hazard-ът остава real, но mechanism-ът трябва да допуска condition-dependent exposure. „Гласът“ по-късно получава update от aerial surveillance, което е конкретен observation channel за exterior situational awareness и обяснява защо supervisory knowledge може да е силен, но не omniscient.
 
-Safeguard architecture вече има явен вътрешен конфликт: „Гласът“ твърди пред Camille, че защитата е непреодолима, но Silo 17 outcome показва practical temporary defeat. Познатият poison pipe остава direct-confirmed component, но не се приема автоматично за единствения delivery path. Redundancy, резервен route или bluff остават competing explanations.
+Pre-Silo construction line вече има explicit 50-Silo program и engineering economics. Initial plan е 10 diggers × 5 Silos. Daniel Keen казва, че extraction на machine от завършен shaft би струвал повече от оставянето ѝ buried, което дава силен bridge към deep machinery под finished Silo. Complex-ът е описан като приблизително 50 km от Atlanta. Construction skyline = Atlanta и ruined exterior skyline = Atlanta са силни geographic inferences, но ruined city label-ът не е direct-confirmed.
 
-Low-level console кадърът добавя concrete feed-control capability: системен interface може да замени live feed с `null visual` и да loop-не static image. Това не се generalize-ва автоматично към cleaner helmet overlay или всички public displays, но за първи път има direct operational mechanism за live-feed substitution.
+Original Silo mission-ът е описан като preservation of human population през неизбежна global catastrophe, последвано от eventual repopulation. Катастрофата е свързана с nanotechnology. По-ранната „dirty bomb“ линия се уточнява като nano weapon attack, целящ да забави U.S. AI и nanotechnology programs и да въвлече САЩ във война. Iran attribution остава bounded. Сестрата на Daniel Keen лети към secret Iranian nano-weapon facility; enemy nano weapon поема aircraft control-а за секунди. Analog systems са били умишлено използвани като defensive countermeasure. Facility-то е било планирано за destruction чрез малка nuclear device, поставена под него с ~120 km secret tunnel. Journalist-ът обвинява leadership-а, че aircraft team-ът е бил capability experiment; това остава unconfirmed testimony.
 
-Pre-Silo линията прави две големи крачки. Сестрата на Daniel Keen е физически възстановена, но има fragmented recall и разчита частично на подаден отвън автобиографичен разказ; това отново подсилва candidate-а за memory retrieval manipulation в clinic line-а. Отделно Keen е доведен в Georgia, близо до Atlanta, до massive multi-Silo construction site. Показаният Silo field вече има concrete geographic anchor в района на Atlanta, макар точните coordinates и numbering на отделните Silos да остават unknown.
+Bernard признава, че лично е отровил Judge Meadows, защото му е било казано, че това е необходимо, за да не загине целият Silo. Той по-късно заявява, че ще направи всичко по силите си „за да спра тази тирания“. Това е explicit alignment shift от operator на survival-over-individual doctrine към противник на current supervisory order. Camille arrest-ва Robert Sims, а episode end state поставя Juliette заключена заедно с него.
 
-> **След S03E07 най-силният model е: Silo system има privileged supervisory layer с вътрешен control, exterior-status reach и вероятна връзка с external enforcement, но този layer не е показан като всезнаещ и неговите reports могат да влязат в конфликт с последващ evidence. Safeguard е practically blockable поне временно, докато claim-ът за „непреодолимост“ отваря redundancy/bluff alternatives. Juliette's selective disclosure продължава да работи частично. Pre-Silo линията вече свързва fragmented-memory treatment и formal NDA/read-in control със самата large-scale Silo construction program край Atlanta, Georgia.**
+> **След S03E08 най-силният model е: 50-Silo complex около Atlanta е централизирана, grouped survival architecture с Silo 1 като communication/power/safeguard-routing hub candidate. Safeguard е networked, но exact redundancy остава unknown. Exterior hazard е реален, но не може повече да се моделира като uniformly instant lethal. Supervisory layer използва periodic aerial observation и неговите status reports могат да бъдат непълни. Original project rationale е survival/repopulation след nanotechnology catastrophe, докато later memory control, safeguard, deception и lethal governance трябва да се оценяват отделно като implementation, а не автоматично като доказана necessity.**
+
 ---
 
 ## Наблюдения с висок confidence
+
+### S03E08 — exterior / Silo 17 / aerial surveillance
+
+- Lukas Kyle е direct-confirmed жив след shooting-а, но е wounded.
+- S03E07 weapon-like acoustic event вече има actual shooting context; shooter/command chain остава unknown.
+- `neutralized` report-ът на „Гласът“ не е надежден като финален еквивалент на death.
+- Silo 17 е показан с едновременно отворени airlock doors без immediate mass death.
+- Exterior hazard остава real, но uniformly-instant-lethal ambient-air model-ът е materially weakened.
+- Silo 17 ремонтира radio capability и комуникира coded със Silo 18.
+- „Гласът“ казва, че aerial surveillance е направило pass около Silo 17 и че телата на Kyle/Kennedy ги няма.
+- Aerial surveillance е concrete external observation channel; не е доказано, че същата platform/actor е shooter.
+
+### S03E08 — 50-Silo topology / safeguard network
+
+- Silo 1 е показан central спрямо седем groups.
+- Една group съдържа 7 Silos: 1 central + 6 surrounding.
+- Official shown topology е **Silo 1 + 7 × 7 = 50 Silos**.
+- Silo 1 следователно е част от 50, а не автоматично „51-вият“.
+- Bernard's historical `51` discrepancy става по-остър и остава unresolved.
+- Safeguard diagram-ът показва 7 main lines от Silo 1 към 7 groups.
+- В group-а distribution се разклонява към отделните Silos.
+- Local Silo branch block ≠ global safeguard shutdown.
+- Diagram-ът не доказва redundant second route към един и същ Silo.
+- В комбинация с existing radio-monitoring и IT-power evidence, Silo 1 вече е multi-function central infrastructure hub candidate.
+
+### S03E08 — construction / buried diggers / Atlanta
+
+- Project sponsor-ът описва initial plan: 10 diggers, всяка да изкопае по 5 Silos.
+- Arithmetic-ът дава planned total от 50 Silos.
+- Daniel Keen казва, че extraction на digger след excavation би струвало повече от оставянето му underground.
+- Това strongly supports lifecycle-а active digger → completed Silo → buried deep machine.
+- Final procurement count остава unresolved; initial 10×5 reuse plan може да е бил revised.
+- Complex-ът е приблизително 50 km от Atlanta.
+- Construction skyline = Atlanta е силен visual/geographic inference.
+- Ruined exterior city = Atlanta е силен inference, но не explicit on-screen label.
+
+### S03E08 — original project purpose / nanotechnology
+
+- Project leadership казва, че хора ще живеят в Silos.
+- Заявената крайна цел е survivors по-късно да repopulate-нат Earth.
+- Leadership-ът твърди, че идва global catastrophe, която не може да бъде спряна.
+- Catastrophe line-ът е свързан с nanotechnology.
+- Това установява original survival rationale, но не доказва, че later authoritarian implementation е technical necessity.
+- Current exterior hazard = nanotechnology остава hypothesis, не established fact.
+- Safeguard poison = nanotechnology остава hypothesis, не established fact.
+
+### S03E08 — nano weapon / Iran mission
+
+- По-ранната „dirty bomb“ линия е уточнена като nano weapon attack.
+- Stated objective е да се забавят U.S. AI и nanotechnology programs.
+- Attack/conflict chain въвлича САЩ във война.
+- Iran е част от narrative attribution-а, но whether-alone/allies/full-attribution остава unresolved.
+- Sister mission target-ът е secret Iranian facility, свързано с nano weapons, близо до Turkmenistan border.
+- Nano weapon поема aircraft control-а за секунди.
+- Analog/older aircraft systems са били defensive retrofit с надеждата да устоят на nano weapon-а.
+- Retrofit-ът се оказва insufficient.
+- Facility-то е било планирано за destruction чрез small nuclear device под target-а.
+- Device delivery/placement е свързано с secret underground tunnel ~120 km.
+- Nuclear strike plan е отделен от aircraft delivery.
+- Journalist-ът обвинява leadership-а, че aircraft crew-ът е бил използван като capability experiment; accusation-ът остава unconfirmed.
+
+### S03E08 — Bernard / Meadows / current governance
+
+- Bernard direct-confess-ва, че лично е отровил Judge Meadows.
+- Той казва, че му е било казано, че това е необходимо, за да се предотврати смъртта на целия Silo.
+- Upstream necessity/instruction е част от Bernard's account; exact source и truthfulness остават unresolved.
+- Bernard заявява, че ще направи всичко по силите си „за да спра тази тирания“.
+- Това е explicit rejection на current control order и силен character-alignment shift.
+- Camille arrest-ва Robert Sims.
+- Juliette е заключена заедно със Sims в episode end state; common detention position ≠ automatically identical motives/alliance.
+
+### S03E08 — core pre-Silo group
+
+- Core project group включва сестрата на Daniel Keen/пилотката, нейния doctor, billionaire/project sponsor-а и сенаторката.
+- Journalist-ът отказва да се присъедини.
+- Pilot sister се съгласява да се присъедини.
+- Daniel Keen и journalist-ът имат явно intimate/romantic сближаване при тръгването ѝ.
+- „Founders“ се използва само като analytical shorthand, освен ако in-world dialogue не го фиксира официално.
 
 ### S03E07 — Kyle/Kennedy / exterior / „Гласът“
 
@@ -1081,6 +1160,22 @@ Observed direct anchors включват:
 | H128 | Показаният Silo construction program е планиран като coordinated multi-unit field в района на Atlanta, Georgia. | H-VH | New / Strongly Supported |
 | H129 | Low-level system architecture поддържа intentional live-feed substitution чрез null/static loop. | VH | New / Confirmed Capability |
 | H130 | Null-feed substitution може да е technical building block за broader visual deception/control architecture, но equivalence с cleaner/public-display pipelines не е установена. | M-H | New / Candidate |
+| H131 | Exterior hazard е real, но не е uniformly instant lethal при всяко кратко exposure; Kyle survival + Silo17 open-airlock state изискват conditional hazard model. | H-VH | New / Strongly Supported |
+| H132 | Supervisory layer-ът използва periodic aerial reconnaissance за exterior situational refresh; това обяснява strong but bounded awareness. | H-VH | New / Strongly Supported |
+| H133 | `neutralized` е бил най-малкото incomplete/non-final status за Kyle; deliberate lie от „Гласът“ остава unproven. | VH / M | New / Confirmed correction + open motive |
+| H134 | Safeguard distribution е hierarchical: Silo 1 → 7 group trunks → local Silo branches. | VH | New / Confirmed architecture |
+| H135 | Silo 1 е central multi-function infrastructure hub candidate: radio monitoring + IT power + safeguard routing. | H-VH | Strengthened |
+| H136 | Official project topology е 50 = Silo 1 + 7×7; ако Bernard's `51` е accurate, #51 не се обяснява просто като Silo 1. | VH / H | New / Major correction |
+| H137 | Excavation machine lifecycle вероятно е one-Silo/left-buried, защото extraction economics прави reuse plan-а impractical. | H-VH | New / Strongly Supported |
+| H138 | Original Silo program е survival/repopulation response към expected nanotechnology catastrophe; later authoritarian controls трябва да се оценяват отделно от original purpose. | VH / H | New / Strongly Supported |
+| H139 | Nano weapon е concrete mechanism зад Iran-aircraft takeover; analog retrofit е бил deliberate defensive hardening срещу него. | VH | New / Confirmed mechanism |
+| H140 | Iran attribution остава incomplete: episode narrative свързва Iran с conflict/facility, но не установява acting-alone/allies/full responsibility. | H | New / Bounded |
+| H141 | Aircraft crew може да е било използвано като deliberate capability experiment срещу enemy nanotechnology. | M-H | New / Testimony-based candidate |
+| H142 | Ruined city, видим от Silo exterior-а, най-вероятно е Atlanta/Atlanta metro предвид ~50 km complex anchor. | H | Strengthened geographic candidate |
+| H143 | Bernard е преминал от operator на survival-over-individual doctrine към explicit opponent на current supervisory tyranny. | H-VH | New / Strongly Supported |
+| H144 | Juliette и Robert Sims формират operationally common detained opposition position спрямо Camille/current control line, без доказано пълно alliance. | H | New / Candidate |
+| H145 | Current exterior hazard може да е descendant/manifestation на pre-Silo nanotechnology threat, но direct causal identity още не е established. | M-H | New / Critical candidate |
+
 
 ---
 
