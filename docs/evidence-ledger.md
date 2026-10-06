@@ -1108,6 +1108,126 @@ Live-view provisional numbering е нормализирано тук в една
 | E1060 | Ядреното събитие е показано с ясно оформен mushroom cloud. | Direct visual evidence | VH | Strong visual confirmation. |
 | E1061 | Episode evidence не установява perpetrator, exact broader-war context или leadership foreknowledge за opening-day detonation. | Epistemic boundary | VH | Do not infer cause or orchestration. |
 
+## S03E10 — canonical evidence ledger
+
+Live-view IDs E1062–E1244 са запазени като namespace. Provisional/withdrawn/redundant live rows могат да бъдат omitted от canonical table и **не се reuse-ват**. Следващият episode започва от **E1245**.
+
+Critical historical corrections:
+- live E1063 `nanobot restoration` е superseded от direct stasis/reanimation evidence;
+- live E1068 `7 years after opening-day explosion` е withdrawn;
+- provisional `dedicated drone control room` е corrected to **Silo 1 central control / operations room**;
+- `outside is safe` остава hypothesis, not established fact.
+
+| ID | Evidence | Class | Confidence | Notes |
+|---|---|---|---|---|
+| E1062 | Daniel Keen се събужда в enclosed medical/stasis chamber. | Direct visual evidence | VH | Silo 1 location established shortly after. |
+| E1065 | Daniel е силно охладен при awakening и преминава controlled warming/reanimation. | Direct episode evidence | VH | Supports metabolic/cryogenic stasis. |
+| E1066 | Chamber function се прецизира до cryogenic/metabolic stasis, not generic nanobot repair. | Historical correction | VH | E1063 superseded. |
+| E1071 | Medical/stasis facility е в Silo 1. | Direct location evidence | VH | Resolves earlier location hypothesis. |
+| E1072 | Silo 1 medical area съдържа multiple similar chambers. | Direct visual evidence | VH | Multi-person capacity. |
+| E1074 | Wide view показва large hall of stasis units. | Direct visual evidence | VH | Dedicated large-scale infrastructure. |
+| E1077 | Silo 1 има elevator alongside stairs. | Direct infrastructure evidence | VH | Governance asymmetry. |
+| E1080 | Central vertical shaft е integrated mechanized transport infrastructure. | Direct visual evidence | VH | Not temporary mine improvisation. |
+| E1083 | Operational elevator car/platform е directly shown. | Direct visual evidence | VH | Confirms functional elevator. |
+| E1086 | Live interpretation `7 years after opening-day explosion` е withdrawn. | Historical correction | VH | Episode does not support that chronology. |
+| E1087 | Daniel participates in repeated awakening/stasis cycles. | Cross-scene inference | H-VH | Later return-to-stasis and 5-year wake confirm pattern. |
+| E1090 | Daniel is briefed that Silo 17 crisis began with failed cleaning. | Direct briefing | VH | Silo 17 operational history. |
+| E1091 | Briefing says convicted cleaner passed beyond expected hill/death zone. | Direct reported event | VH that report is given | Event is report-mediated. |
+| E1095 | Silo 1 briefing treats escalation as requiring Safeguard. | Direct doctrine statement | VH | Containment response. |
+| E1097 | Safeguard mixture was deployed/attempted but did not reach its target. | Direct dialogue | VH | Physical delivery failure. |
+| E1100 | Other Silos have historically found and blocked the Safeguard pipe. | Direct historical statement | VH | Recurrent vulnerability. |
+| E1103 | `This time the outcome must be different` frames current crisis against prior failure precedent. | Direct dialogue | VH | Historical recurrence implied. |
+| E1104 | Daniel responds that this is why he was awakened. | Direct dialogue | VH | Exceptional-crisis reactivation role. |
+| E1106 | Daniel asks about aerial surveillance and is told a drone was launched. | Direct dialogue | VH | Drone platform confirmed. |
+| E1107 | Silo 1 actively launches/controls aerial observation rather than merely receiving external reports. | Capability inference | H-VH | Strengthened by control-room scenes. |
+| E1109 | Daniel's sister is presented as drone pilot/operator. | Direct role evidence | VH | Founding-era sister in Silo 1 operations. |
+| E1110 | Daniel does not recognize/remember his sister. | Direct memory-state evidence | VH | Selective autobiographical gap. |
+| E1112 | Drone carries 30 L of mixture. | Direct technical specification | VH | Poison/Safeguard mixture context. |
+| E1113 | Drone carries 2000 rounds ammunition. | Direct technical specification | VH | Kinetic capability. |
+| E1117 | Control room contains multiple operator stations and large central display. | Direct visual evidence | VH | Later classified as central operations room. |
+| E1120 | Silo 1 aerial feed observes Silo 17 residents emerging to surface. | Direct visual evidence | VH | Corroborates mass-exit briefing. |
+| E1124 | Daniel decides to wait until residents have emerged before lethal response. | Direct command decision | VH | Deliberate timing. |
+| E1125 | Planned response is lethal extermination/containment of leavers. | Direct command intent | VH | Outcome not inferred beyond shown plan. |
+| E1126 | Daniel orders use of all available drones. | Direct command | VH | Fleet-level response implied. |
+| E1127 | Drone mixture is intended for external lethal containment. | Direct operational intent | VH | Links payload to kill plan. |
+| E1129 | Stated purpose is prevention of cross-Silo `contamination` / spread. | Direct doctrine statement | VH | Exact meaning of contamination remains open. |
+| E1130 | `Contamination` is not established as biological-only. | Epistemic boundary | VH | People/information/social spread remain candidates. |
+| E1131 | Silo 17 internal Safeguard path is blocked, preventing normal delivery. | Direct failure state | VH | Local physical dependency. |
+| E1132 | Silo 1 uses external drone containment as fallback when internal delivery fails. | Doctrine/capability synthesis | H-VH | Strongly supported by plan. |
+| E1137 | Silo 1 personnel refer to people who leave as escapees/fugitives. | Direct terminology | VH | Institutional framing. |
+| E1138 | Terminology frames unauthorized exit as leaving a controlled system; prison analogy remains hypothesis. | Institutional inference | H-VH | Do not overstate. |
+| E1139 | Daniel's sister refuses to shoot the Silo 17 residents. | Direct operational refusal | VH | Human non-compliance point. |
+| E1140 | Lethal drone action requires/permits human operator execution choice in this scene. | System inference | H-VH | Not proof all functions are manual. |
+| E1142 | Silo 1 states that the Pact no longer applies to residents after they leave. | Direct dialogue | VH | Jurisdictional boundary. |
+| E1144 | Same dialogue states that the Directive remains. | Direct dialogue | VH | Separate higher-level doctrine. |
+| E1146 | Simple model `ambient exterior air = uniformly and immediately lethal everywhere` is no longer viable. | Model correction | VH/H-VH | Silo17 + drone enforcement + prior evidence. |
+| E1147 | Holston's helmet-removal death remains a direct constraint on any `outside is safe` model. | Cross-episode contradiction | VH | Exact lethal route unresolved. |
+| E1148 | Suit/tape may control exposure to a deliberately applied/localized lethal agent; this remains hypothesis. | Mechanism hypothesis | H | Not established as exact cleaning mechanism. |
+| E1149 | Senator from founding-era group is Director of Silo 1. | Direct leadership identity | VH | Formal continuity role. |
+| E1150 | Founding-era personnel remain operational in Silo 1 across long time via stasis. | Continuity inference | H-VH | Multiple persons shown. |
+| E1152 | Daniel recovers fragments indicating journalist/Helen is personally connected to him. | Direct memory-state/context | H-VH | Full recall not yet demonstrated. |
+| E1154 | Silo 1 statement: essence of the project is to `free us from the past`. | Direct doctrine statement | VH | Does not alone prove memory-erasure technology. |
+| E1156 | Daniel is sent back to sleep in cryogenic/metabolic stasis chamber. | Direct functional confirmation | VH | Resolves chamber function. |
+| E1158 | Daniel follows wake → brief/act → return-to-stasis cycle. | System pattern | H-VH | Later awakening confirms recurrence. |
+| E1162 | Silo 1 Director also participates in stasis/sleep cycle. | Direct episode evidence | VH | Memory effects on her remain unknown. |
+| E1165 | Silo 1 needs externalized institutional continuity if stasis personnel can have personal-memory gaps. | System inference | H | Records/people/system candidates. |
+| E1168 | Provisional `drone control room` is corrected to Silo 1 central control / operations room. | Historical classification correction | VH | Room supports multiple supervisory functions. |
+| E1169 | A human operator is directly shown behind Voice communication. | Direct visual/context evidence | VH | Machine-only model rejected. |
+| E1171 | In this interaction the human Voice operator is Victor, founding-era doctor. | Direct identity evidence | VH | Does not make Victor permanent/sole Voice. |
+| E1172 | Voice is best modeled as a role/interface that can be human-operated. | Architecture inference | H-VH | AI/automation backend remains open. |
+| E1174 | Silo 18 successfully stops Safeguard by blocking local delivery. | Direct outcome | VH | Practical stoppability confirmed. |
+| E1176 | Silo 1 detects that Silo 18 has blocked the Safeguard pipe. | Direct detection evidence | VH | Central feedback/telemetry implied. |
+| E1179 | Silo 1 orders anyone attempting to leave Silo 18 killed. | Direct kill order | VH | External containment. |
+| E1180 | Silo 1 assigns drone surveillance to Silo 18 after blockage. | Direct deployment | VH | Fallback monitoring. |
+| E1183 | Victor congratulates Camille Sims for a deception. | Direct dialogue | VH | Limited operational knowledge/coordination confirmed. |
+| E1186 | Victor accesses `LEGACY SYSTEM / FILE SHARE` and a confidential file with send capability. | Direct UI evidence | VH | Institutional records layer. |
+| E1189 | Medical document describes prolonged metabolic stasis / post-reanimation effects. | Direct document evidence | VH | Physical/cognitive recovery profile. |
+| E1191 | Documented stasis effects do not include selective autobiographical amnesia. | Document-bounded inference | H-VH | Strengthens separate memory-control candidate. |
+| E1193 | Juliette has two-way communication between Silo 18 and Silo 17. | Direct communication evidence | VH | Cross-Silo channel operational. |
+| E1194 | Juliette tells Lukas she considers going to lower door/location associated with the earlier other voice. | Direct stated intention | VH | Leads to Second Vault. |
+| E1196 | Characters treat blocked Safeguard as creating room to investigate lower infrastructure. | Character tactical premise | H-VH | Does not remove drone/external threat. |
+| E1200 | Daniel is later awakened **5 years after his previous awakening**. | Direct chronology | VH | Wake cycle not fixed at 7 years. |
+| E1201 | Briefing tells Daniel that Juliette had good tape, reached Silo 17 and returned to Silo 18. | Direct briefing | VH | Strong tape/survival anchor known to Silo 1. |
+| E1203 | Victor had prepared Safeguard response for destabilized Silo 18. | Direct briefing | VH | Victor operational role. |
+| E1204 | Briefing says Head of IT bought rebels time and they blocked the pipe. | Direct briefing | VH | Explains Silo 18 Safeguard failure. |
+| E1205 | Victor is reported dead by suicide. | Direct reported outcome | VH | Exact motive unresolved. |
+| E1212 | Juliette's group traverses heavily flooded lower infrastructure. | Direct visual evidence | VH | Route toward Second Vault. |
+| E1215 | Daniel says he will find a way to activate/use Safeguard against Silo 18 despite blockage. | Direct stated intent | VH | Alternate path/workaround sought. |
+| E1216 | Daniel asks to review what Victor and Camille discussed. | Direct investigative order | VH | Recorded/reviewable communication implied. |
+| E1218 | Silo 1 names the lower Silo 18 structure `Second Vault`. | Direct terminology | VH | Replaces generic hidden-door label. |
+| E1221 | Supervisory voice threatens/warns Juliette in Second Vault context. | Direct interaction | VH | Active protected domain. |
+| E1224 | Juliette is told to stop investigating Second Vault. | Direct condition/threat | VH | Knowledge-control purpose. |
+| E1227 | Daniel offers no Safeguard if Silo 18 stops Second Vault investigation and cross-Silo contact. | Direct conditional offer | VH | Safeguard is governed/discretionary. |
+| E1229 | Cross-Silo information/contact is materially implicated in `contamination` / containment doctrine. | Doctrine inference | H-VH | Biological-only reading weakened. |
+| E1231 | Juliette accepts Daniel's deal. | Direct agreement | VH | Later strategy changes interpretation. |
+| E1234 | Juliette proposes covert preparation to strike and take over Silo 1. | Direct proposal | VH | Offensive strategy. |
+| E1235 | Her stated rationale is surprise: Silo 1 would least expect it after the deal. | Direct rationale | VH | Tactical deception/time-buying candidate. |
+| E1238 | Victor leaves an encrypted message intended for Daniel. | Direct evidence | VH | Posthumous continuity record. |
+| E1239 | Victor says he felt relief when Safeguard activation against Silo 18 failed. | Direct statement | VH | Moral/internal conflict. |
+| E1241 | Victor names the woman Daniel seeks in memory as **Helen Drew**. | Direct identity evidence | VH | Name resolution. |
+| E1242 | Helen Drew is the pre-Silo journalist. | Cross-scene identity resolution | VH | Current canonical name. |
+| E1243 | Daniel appears to recover recognition/memory connection after Helen Drew cue. | Memory inference | H-VH | Full recall not established. |
+| E1244 | Season-3 memory model: documented stasis effects and selective personal-memory suppression are analytically separated. | Model refinement | H-VH | Exact intervention remains open. |
+
+## Визуални източници — S03E10
+
+Binary assets са качени в `main` с commit `c2a7ce7bc2c914c748f1d00d8d8272d9d57b1334`. Current main tree съдържа 18 S03E10 blobs, валидирани и описани в [S03E10 manifest](../assets/S03E10/MANIFEST.md).
+
+Primary:
+- [Silo 1 medical stasis chambers](../assets/S03E10/screenshots/01-silo1-medical-stasis-chambers.jpeg)
+- [Large stasis facility](../assets/S03E10/screenshots/02-silo1-large-stasis-facility.jpeg)
+- [Operational elevator](../assets/S03E10/screenshots/04-silo1-operational-elevator.jpeg)
+- [Safeguard mixture failed to reach target](../assets/S03E10/screenshots/06-silo1-safeguard-mixture-failed-to-reach-target.jpeg)
+- [Silo 1 central control room](../assets/S03E10/screenshots/09-silo1-central-control-room.jpeg)
+- [Silo 17 residents emerging](../assets/S03E10/screenshots/10-silo17-residents-emerging-observed-by-drone.jpeg)
+- [Pact no longer applies; Directive remains](../assets/S03E10/screenshots/12-silo1-pact-no-longer-applies-directive-remains.jpeg)
+- [Victor behind Voice](../assets/S03E10/screenshots/14-silo1-control-room-victor-behind-voice.jpeg)
+- [Post-reanimation medical effects](../assets/S03E10/screenshots/16-silo1-stasis-post-reanimation-medical-effects.jpeg)
+- [Flooded route to Second Vault](../assets/S03E10/screenshots/17-silo18-flooded-route-to-second-vault.jpeg)
+
+Supporting:
+- [Full S03E10 contact sheet](../assets/S03E10/screenshots/S03E10-contact-sheet.jpeg)
+
 ## Визуални източници — S03E09
 
 Binary assets са качени в `main` с commit `b6f936411a365588ad48062e80a9a3e614525d5d` и валидирани byte-for-byte чрез Git blob SHA comparison. Пълният списък е в [S03E09 manifest](../assets/S03E09/MANIFEST.md).

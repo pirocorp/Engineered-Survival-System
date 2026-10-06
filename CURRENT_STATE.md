@@ -1,27 +1,101 @@
-# Текущо състояние — след S03E09
+# Текущо състояние — след S03E10 / Season 3 finale
 
-**Knowledge boundary:** `S03E09`
+**Knowledge boundary:** `S03E10`
 
 ## Работен модел
 
-S03E09 свързва current Silo 18 crisis с произхода на governance системата и с деня, в който 50-Silo комплексът става реален shelter.
+S03E10 разкрива central supervisory architecture на Silo 1 и превръща няколко Season-3 hypotheses в direct evidence.
 
-Bernard вече открито оспорва „Гласът“. Той иска Juliette да бъде освободена и Vitamin D+ dosing-ът да бъде спрян, предлага себе си като scapegoat и казва, че „Гласът“ не знае повече от него. „Гласът“ предпочита formal conviction → cleaning → continued Vitamin D+. Bernard излага собствена теория, че Voice interface-ът може да прикрива human operators в Silo 1. Това е privileged character hypothesis, не установена architecture.
+Silo 1 съдържа large metabolic/cryogenic stasis facility, operational elevator и central control / operations room. Daniel Keen е периодично reactivated за exceptional crises; explicit later interval е 5 години от предишното му awakening. Senator-ът от pre-Silo core group е Director на Silo 1 и също участва в stasis cycle. Victor — founding-era doctor — е директно показан като human operator зад Voice communication. Voice следователно вече се моделира като human-operated role/interface; possible AI/automation layer остава unresolved.
 
-Bernard е изпратен навън без protective suit. Той остава жив за кратък период и след това умира. Това доказва fatal exterior outcome без suit и изключва instant-death model-а, но не обяснява Silo 17, където едновременно отворени airlock doors не причиняват immediate mass death. Следователно hazard-ът трябва да е condition-dependent, localized, concentration-dependent, particulate/aerosol или друг по-сложен mechanism.
+Safeguard е physical poison-mixture system с local delivery path, който може да бъде открит и блокиран. Silo 17 и Silo 18 дават повторяем pattern: internal pipe delivery fails → Silo 1 detects/assesses containment failure → external drone surveillance/enforcement. Drone platform-ът има 30 L mixture payload и 2000 rounds. Това доказва external poison/kinetic capability на Silo 1, но **не** доказва, че every prior cleaning death е drone-caused или че exterior environment е напълно безопасна.
 
-В mines е построен elevator и S03E09 изрично потвърждава, че elevators са забранени от Пакта. Това е concrete instance на вече established generic mechanized-transport ban, не ново replacement rule. Хора от страната на Juliette извършват и силна експлозия в mines.
+Pact и Directive вече са direct-separated. Pact governs ordinary Silo society и може да престане да важи след exit; Directive остава като higher-level containment doctrine. `Directive` не се equate-ва автоматично с `THE ORDER`.
 
-Пактът е описан като rulebook за приблизително 500 години подземен живот. По-късното clarification установява, че AI е написал/draft-нал текста, а сестрата на Daniel Keen и лекарят са го редактирали. Това прави governance framework-а AI-assisted from inception, без да доказва, че същият AI е „Гласът“.
+Silo 18 successfully blocks Safeguard pipe. Silo 1 detects blockage, deploys drone surveillance and orders unauthorized leavers killed. Juliette maintains cross-Silo contact with Silo 17 and reaches the lower structure named by Silo 1 as **Second Vault**. Daniel offers conditional non-use of Safeguard if Silo 18 stops Second Vault investigation and cross-Silo communication. Juliette accepts the deal, then proposes covert preparation for an unexpected strike/takeover of Silo 1.
 
-Opening-day map-ът и full aerial view independently потвърждават **Silo 1 + 7 × 7 = 50**. Silo 1 е част от официалните 50, а Bernard's historical `51` остава отделно противоречие. Daniel Keen е assigned към **Silo 1**, журналистката към **Silo 18**. Intake-ът използва numbered routing, facial recognition и RF chips в badges.
+Daniel's selective autobiographical memory gaps remain a major continuity issue. Post-reanimation medical evidence documents confusion, reduced cognitive processing and physical/metabolic effects, but not selective amnesia. Victor's encrypted message identifies **Helen Drew** as the pre-Silo journalist Daniel is trying to remember. Intentional memory suppression remains strongly supported but exact Silo 1 mechanism is not directly demonstrated.
 
-По време на opening/intake, докато хора още са на повърхността, се случва ядрена детонация. Това фиксира най-силния origin sequence досега: formal opening → population assignment → nuclear catastrophe → real shelter use. Perpetrator, broader-war context и leadership foreknowledge остават неизвестни.
+Season-3 closure therefore yields a layered architecture:
 
-> **След S03E09 най-силният model е: 50-Silo system е предварително номерирана и централизирано управлявана survival architecture, чийто governance rulebook е AI-drafted и human-edited още преди occupancy. Silo 1 е физически централен и Daniel Keen е assigned именно там, но Bernard's theory за human Voice operators в Silo 1 остава непотвърдена. Външната опасност е реално фатална и без suit, но не е универсално/mигновено действаща, което прави Silo 17 най-важното противоречие за hazard mechanism-а. Opening-day nuclear detonation показва, че Silo system преминава директно от planned project към реален emergency shelter още по време на intake.**
+```text
+ORDINARY SILO
+  ├─ Pact / local governance
+  ├─ IT / Head-of-IT privileged layer
+  ├─ local Safeguard delivery path
+  └─ restricted lower infrastructure / Second Vault
+          │
+          ▼
+SILO 1 SUPERVISORY / CONTINUITY LAYER
+  ├─ Director + reactivated founding-era personnel
+  ├─ human-operated Voice / supervisory channels
+  ├─ central control room
+  ├─ stasis infrastructure
+  ├─ Directive
+  ├─ Safeguard monitoring
+  └─ drone surveillance / external containment
+```
+
+Exterior hazard remains unresolved. The simple model `uniform ambient air kills everyone quickly` is no longer viable, but `outside is safe` is also not established.
+
 ---
 
 ## Наблюдения с висок confidence
+
+### S03E10 — Silo 1 / stasis / continuity
+
+- Daniel е показан при awakening/reanimation от Silo 1 stasis chamber.
+- Silo 1 има множество chambers и large dedicated stasis facility.
+- Initial live `nanobot restoration` interpretation е withdrawn; direct function е metabolic/cryogenic stasis.
+- Initial live `7 years after opening-day explosion` chronology е withdrawn.
+- По-късно Daniel е събуден **5 години** след предишното awakening, което показва variable/event-driven cycle.
+- Senator-ът е Director на Silo 1 и също е част от stasis continuity.
+- Silo 1 има built-in operational elevator въпреки ordinary-Silo Pact ban върху mechanized transport.
+- Daniel не разпознава сестра си след awakening и има fragmented memory за Helen Drew.
+- Post-reanimation medical report не описва selective autobiographical amnesia като standard stasis effect.
+
+### S03E10 — Safeguard / drones / Directive
+
+- Silo 17 briefing описва failed cleaning → escalation → Safeguard response.
+- Safeguard mixture не достига target заради blocked delivery path.
+- Други Silos исторически са откривали/блокирали pipe-а.
+- Silo 1 actively launches aerial surveillance drone.
+- Drone platform-ът има 30 L mixture payload и 2000 rounds ammunition.
+- Daniel orders mass-exit containment and use of drones for lethal response.
+- Sister/operator отказва да стреля, показвайки human execution point.
+- Silo 1 terminology treats leavers as escapees; prison analogy remains interpretation, not direct fact.
+- Direct dialogue: Pact no longer applies after exit, but Directive remains.
+- Silo 18 blocks Safeguard; Silo 1 detects it, deploys drone watch and orders any attempted leaver killed.
+
+### S03E10 — Voice / control room / Victor
+
+- Provisional `drone control room` label е corrected до **Silo 1 central control / operations room**.
+- Victor е директно показан като human operator behind Voice in a concrete interaction.
+- Bernard's S03E09 human-operator hypothesis е confirmed in core form.
+- Voice се моделира като human-operated role/interface; AI/automation layer remains unknown.
+- Victor поздравява Camille Sims за deception, establishing operational knowledge/coordination.
+- Victor later dies by suicide; exact motive remains unresolved.
+- Victor's encrypted message says he felt relief when Safeguard against Silo 18 failed.
+- Victor identifies Helen Drew as the woman Daniel is trying to remember.
+
+### S03E10 — Second Vault / Silo 18
+
+- Juliette has working two-way communication with Silo 17.
+- Flooded lower route leads toward the structure Silo 1 calls **Second Vault of Silo 18**.
+- Daniel communicates with Juliette through the Second Vault supervisory channel.
+- Daniel conditions non-use of Safeguard on stopping Second Vault investigation and cross-Silo contact.
+- Juliette accepts the deal.
+- Juliette then proposes covert preparation for strike/takeover of Silo 1.
+
+### S03E10 — exterior model
+
+- Silo 1 external poison/kinetic enforcement is confirmed.
+- Juliette's good tape and successful Silo18→Silo17→Silo18 movement are known to Silo 1.
+- Silo 17 residents are observed alive while emerging.
+- `ambient exterior air = uniformly and immediately lethal` remains rejected.
+- `outside is safe` is **not** established.
+- Cleaning deaths still require a model that explains Holston/Bernard outcomes, tape/seal effects and Silo 1 enforcement.
+
 
 
 ### S03E09 — Bernard / „Гласът“ / cleaning
@@ -1226,14 +1300,31 @@ Observed direct anchors включват:
 | H143 | Bernard е преминал от operator на survival-over-individual doctrine към explicit opponent на current supervisory tyranny. | H-VH | New / Strongly Supported |
 | H144 | Juliette и Robert Sims формират operationally common detained opposition position спрямо Camille/current control line, без доказано пълно alliance. | H | New / Candidate |
 | H145 | Current exterior hazard може да е descendant/manifestation на pre-Silo nanotechnology threat, но direct causal identity още не е established. | M-H | New / Critical candidate |
-| H146 | Bernard's S03E09 theory, че „Гласът“ прикрива human operator(s) в Silo 1, е concrete competing architecture candidate. | M-H | New / Character-hypothesis candidate |
+| H146 | Bernard's S03E09 theory, че „Гласът“ прикрива human operator(s) в Silo 1, е confirmed in core form by S03E10: Victor е direct human operator in Silo 1. AI/automation layer remains open. | VH / H | Confirmed / refined in S03E10 |
 | H147 | Пактът е AI-drafted и human-edited преди occupancy; governance framework-ът е AI-assisted from inception, без доказана identity връзка с „Гласът“. | VH / H | New / Confirmed origin + bounded inference |
 | H148 | Пактът е проектиран за приблизително 500 години underground social stability; relation към exact release date остава unknown. | VH / H | New / Stated design horizon |
 | H149 | Initial population assignment е centralized/machine-checked чрез numbered routing, facial recognition и RF-enabled badges. | VH | New / Confirmed intake architecture |
-| H150 | Daniel Keen → Silo 1 и journalist → Silo 18 са direct opening-era assignments; later office/genealogy implications не са established. | VH | New / Confirmed assignments |
+| H150 | Daniel Keen → Silo 1 и Helen Drew / journalist → Silo 18 са direct opening-era assignments; later genealogy implications не са established. | VH | Confirmed; identity resolved in S03E10 |
 | H151 | Opening-day nuclear detonation е operational trigger, който превръща planned opening/intake в real emergency shelter use; cause/foreknowledge остават unresolved. | VH / H | New / Confirmed event + open causality |
 | H152 | Mine elevator-ът е concrete violation на established generic mechanized-transport ban; elevator-specific prohibition е subclass, не replacement rule. | VH | New / Confirmed rule application |
 | H153 | `sit still and be patient` може да е предварително уговорен warning/code, но evidence-ът засега е само Daniel's reaction + timing. | M | New / Weak-to-moderate candidate |
+| H154 | Voice е human-operated supervisory role/interface в Silo 1; Victor е direct operator in one interaction, but AI/automation layer remains unresolved. | VH / H | Confirmed core / open backend |
+| H155 | Silo 1 използва long-term metabolic/cryogenic stasis за founding-era continuity. | VH | Confirmed |
+| H156 | Daniel wake cycle е event-driven/variable, не fixed periodic schedule; 5-year interval е directly shown for one cycle. | H-VH | Strongly supported |
+| H157 | Daniel's selective autobiographical memory loss вероятно е separate intervention beyond documented stasis side effects. | H-VH | Strong candidate |
+| H158 | Directive е higher-order containment doctrine distinct from Pact in S03E10 dialogue. | VH | Confirmed distinction |
+| H159 | „Contamination“ в containment doctrine включва поне people/information cross-Silo spread като strong candidate, not proven biological-only meaning. | H-VH | Strongly supported |
+| H160 | Internal Safeguard pipe is practically interruptible; `unbeatable` is not a valid technical absolute. | VH | Confirmed |
+| H161 | External drone poison/kinetic response is a real Safeguard/containment fallback after internal delivery failure. | VH / H-VH | Confirmed capability / strong doctrine link |
+| H162 | Some exterior deaths may be actively enforced or locally poisoned by Silo 1 rather than caused only by uniform ambient air; exact cleaning mechanism remains unresolved. | H-VH | Strong candidate |
+| H163 | Silo 1 elevator demonstrates governance/infrastructure asymmetry relative to ordinary-Silo Pact restrictions. | VH / H | Confirmed fact / open legal basis |
+| H164 | Victor developed moral conflict with Safeguard doctrine; relief at failure is direct, suicide motive remains open. | VH / H | Confirmed relief / open motive |
+| H165 | Camille and Victor had operational knowledge/coordination around at least one deception. | VH | Confirmed limited coordination |
+| H166 | Second Vault is a protected supervisory/knowledge-control domain, distinct from ordinary IT vault until proven otherwise. | H-VH | Strongly supported |
+| H167 | Daniel can negotiate conditional non-use of Safeguard, showing the response is governed/ discretionary rather than purely automatic. | VH / H-VH | Confirmed conditionality |
+| H168 | Juliette's acceptance of Daniel's deal is tactical rather than strategic surrender, given immediate proposal for covert strike on Silo 1. | H-VH | Strongly supported |
+| H169 | Helen Drew's name acts as a memory cue for Daniel; degree of recovered recall remains unknown. | H | Candidate |
+| H170 | Silo 1 institutional continuity must be externalized across personnel, records, Directive and/or systems because stasis personnel can show personal-memory gaps. | H | System-level candidate |
 
 
 ---

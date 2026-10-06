@@ -1516,8 +1516,8 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 1075. Раната от куршума нарушава ли sealing-а на suit-а и ако да, колко дълго Kyle е изложен на външната среда?
 1076. Защо едновременно отворените airlock doors на Silo 17 не водят до непосредствена масова смърт?
 1077. Какъв е точният механизъм на външната опасност — концентрация, aerosol/particulate, времева променливост, локализиран облак, biological agent, нанотехнологии или комбинация?
-1078. Каква е платформата за въздушно наблюдение, колко често прави обиколки и какви sensors използва?
-1079. „Гласът“ само получава reports от въздушното наблюдение ли, или управлява платформата?
+1078. **PARTIALLY RESOLVED in S03E10:** платформата е drone controlled/launched from Silo 1; fleet size, patrol frequency и exact sensors остават open.
+1079. **RESOLVED in S03E10:** Silo 1 actively controls/launches the drone platform; exact allocation между Voice operator и dedicated pilot остава operational detail.
 1080. Какъв е точният статус на Patrick Kennedy след стрелбата?
 
 ## S03E08 — radio / междусилозна връзка
@@ -1610,11 +1610,11 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 
 ## S03E09 — „Гласът“ / Silo 1
 
-1131. Bernard's theory за human operators в Silo 1 вярна ли е?
+1131. **RESOLVED in S03E10:** да — Victor е директно показан като human operator behind Voice in Silo 1.
 1132. Ако има human operators, колко са и каква е shift/duty структурата?
-1133. Voice interface-ът само комуникационен facade ли е, decision-support layer ли е или комбинация?
+1133. **PARTIALLY RESOLVED in S03E10:** Voice е human-operated supervisory interface/channel; automation/decision-support layer остава open.
 1134. Има ли autonomous AI component зад „Гласът“ независимо от human operators?
-1135. Как Silo 1 Voice operation се свързва с all-frequency radio monitoring, external IT power и safeguard routing?
+1135. **PARTIALLY RESOLVED in S03E10:** Voice operation е physically tied to Silo 1 central control room; full integration с radio monitoring, IT power и safeguard routing остава open.
 1136. Кой избира/обучава Silo 1 operators и как се предава privileged knowledge?
 
 ## S03E09 — exterior hazard
@@ -1623,7 +1623,7 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 1138. Hazard-ът localized около конкретен Silo/cleaning zone ли е?
 1139. Има ли concentration threshold, temporal delay или particulate/aerosol behavior?
 1140. Има ли environmental difference между зоните около Silo 17 и Silo 18?
-1141. Каква е ролята на protective suit в стандартния cleaning protocol, след като fatal outcome е възможен и без него?
+1141. **PARTIALLY NARROWED in S03E10:** Silo 1 briefing explicitly treats Juliette's good tape as key to her Silo18→Silo17→Silo18 survival; exact poison/exposure route remains unresolved.
 1142. Колко време реално изминава между Bernard's exterior exposure и смъртта му?
 
 ## S03E09 — mines / elevator
@@ -1672,6 +1672,73 @@ Resolved/partially resolved questions от по-ранни епизоди са �
 1172. Детонацията единично събитие ли е или част от по-широка nuclear exchange?
 1173. Колко хора успяват да влязат в assigned Silos преди surface conditions да станат несъвместими с survival?
 
+
+## S03E10 — разрешени или съществено стеснени въпроси
+
+- Q1078/Q1079: aerial platform = Silo 1-controlled drone; sensors/fleet/patrol details remain open.
+- Q1131: Bernard's human-operator theory е confirmed by Victor in Silo 1 central control room.
+- Q1133/Q1135: Voice е human-operated supervisory interface in Silo 1; exact AI/automation/backend integration remains open.
+- Q1137–Q1141: exterior model е materially narrowed by Silo 1 drone poison/kinetic enforcement and Juliette good-tape briefing, but ambient hazard is not fully resolved.
+- Q1143: broad mechanized-transport ban remains; Silo 1 operational elevator creates an exception/asymmetry question rather than narrowing the rule.
+- Q1156: journalist identity е resolved as **Helen Drew**; reason for Silo 18 assignment remains open.
+- Silo 18 Safeguard stoppage е confirmed practical pipe blockage, and Silo 1 detects the failure.
+- Pact/Directive distinction is direct-confirmed.
+- Second Vault is now a direct Silo 1 label for the lower Silo 18 structure.
+- Victor's Voice role, later suicide and encrypted message are direct-confirmed; exact suicide motive remains open.
+
+## S03E10 — Silo 1 continuity / memory
+
+1174. Кой определя кога Daniel, Director и други stasis personnel се събуждат?
+1175. Wake intervals event-driven ли са изцяло или има maximum/scheduled cadence?
+1176. Кои founding-era personnel са preserved в Silo 1?
+1177. Всички ли минават през еднакъв memory protocol?
+1178. Какво причинява Daniel's selective autobiographical memory gaps?
+1179. Memory suppression се прилага преди sleep, по време на stasis, при reanimation или отделно?
+1180. Director-ът запазва ли memories между cycles?
+1181. Victor запазвал ли е повече continuity memory заради medical/Voice role?
+1182. Къде се пази authoritative institutional memory — people, records, Directive, AI/system или combination?
+1183. На кого принадлежи показаният confidential post-reanimation medical file?
+
+## S03E10 — Voice / control room / authority
+
+1184. Колко human Voice operators има?
+1185. Victor permanent Voice operator ли е бил или duty/shift operator?
+1186. Daniel сам изпълнява ли Voice role или използва distinct supervisory channel?
+1187. Има ли autonomous AI/decision-support layer зад human operators?
+1188. Каква е hierarchy между Silo 1 Director, Daniel, Voice operators и Directive?
+1189. Кой може да authorize Safeguard, drone poison release и kinetic fire?
+1190. Какви other functions се управляват от central control room?
+1191. Voice conversations записват ли се системно и кой има право да ги review-ва?
+
+## S03E10 — Safeguard / drones / exterior
+
+1192. Какъв е chemical/technical composition на 30 L mixture?
+1193. Internal Safeguard mixture и drone mixture идентични ли са?
+1194. Как Silo 1 detects pipe blockage — pressure, flow, chemical sensors или друг telemetry?
+1195. Колко drones има Silo 1 и какви са range/endurance/payload limits?
+1196. Drones използвани ли са historically при prior failed cleanings?
+1197. Cleaning deaths active poison delivery ли са, localized environmental exposure ли са, или комбинация?
+1198. Къде точно Holston получава lethal dose?
+1199. Bernard's no-suit death caused ли е by Silo 1 enforcement, ambient hazard или друг mechanism?
+1200. Good tape защитава от външна mixture exposure ли, от suit leak/air loss ли, или и двете?
+1201. „Contamination“ physical/biological concept ли е, informational/social concept ли е, или umbrella term?
+1202. Directive formal written doctrine ли е и кой я е authored?
+
+## S03E10 — Second Vault / Silo 18 / cross-Silo conflict
+
+1203. Каква е exact function на Second Vault?
+1204. Second Vault physical link към Silo 1 ли има?
+1205. Second Vault свързан ли е със safeguard network?
+1206. Daniel ли е същият „друг глас“, който Lukas е чул по-рано, или channel-ът има multiple operators?
+1207. Защо Second Vault investigation е direct Safeguard trigger?
+1208. Как Silo 1 monitors cross-Silo communication?
+1209. Може ли Silo 18 practically да достигне Silo 1 без surface exposure?
+1210. Какъв military/logistical capacity има Silo 18 за предложен takeover?
+1211. Juliette възнамерява ли да спази deal-а temporally само докато подготовката приключи?
+1212. Какво знае Silo 17 за Silo 1 и Second Vault?
+1213. Каква точно deception е координирана между Victor и Camille?
+1214. Защо Victor е оставил encrypted message и как е очаквал Daniel да го намери?
+1215. Какво точно си спомня Daniel за Helen Drew след Victor's message?
 
 ## Основен въпрос на проекта
 
