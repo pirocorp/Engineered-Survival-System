@@ -1024,6 +1024,111 @@ Live-view provisional numbering беше нормализирано тук в е
 | E984 | Juliette е заключена заедно с Robert Sims. | Direct episode-end event | VH | Shared detention. |
 | E985 | Current control line третира Juliette и Sims като detained threats/common opposition position, без доказано identical alliance. | Governance inference | H | Episode end state. |
 
+
+## S03E09 — normalized evidence ledger (E986–E1061)
+
+Live-view provisional numbering е нормализирано тук в една canonical sequence. Временните bookkeeping/correction IDs около elevator rule-а не се превръщат в episode evidence; final form запазва established generic mechanized-transport ban и добавя elevator-а само като конкретен subclass.
+
+| ID | Evidence | Class | Confidence | Notes |
+|---|---|---|---|---|
+| E986 | Bernard се изкачва нагоре през Silo, докато хората го наблюдават продължително и напрегнато. | Direct visual evidence | VH | Мотивът на наблюдателите не се предполага. |
+| E987 | Bernard отива в IT, където е Camille Sims. | Direct episode event | VH | Camille вече е established Head of IT. |
+| E988 | Camille и Bernard отиват заедно при „Гласът“. | Direct episode event | VH | Не доказва shared alignment. |
+| E989 | Bernard казва на „Гласът“, че знае, че Juliette е заловена/задържана. | Direct dialogue | VH | Bernard knowledge state. |
+| E990 | Bernard заявява, че средство за забравяне/потискане на паметта се подава чрез водата. | Character testimony | VH | Техническата formulation/доза не е независимо потвърдена. |
+| E991 | Bernard иска Juliette да бъде освободена. | Direct dialogue | VH | Explicit demand. |
+| E992 | Bernard иска Vitamin D+ dosing-ът да бъде спрян. | Direct dialogue | VH | Explicit demand. |
+| E993 | Сцената силно свързва memory-suppression-through-water линията с текущия Vitamin D+ dosing. | Strong contextual inference | H-VH | Не доказва, че Vitamin D+ и active memory-suppression agent са буквално едно и също вещество. |
+| E994 | Bernard предлага да поеме публично вината като scapegoat. | Direct dialogue | VH | Self-sacrifice proposal. |
+| E995 | Bernard заявява, че това би успокоило/стабилизирало Silo. | Direct stated rationale | VH | Не доказва, че proposal-ът действително би проработил. |
+| E996 | „Гласът“ отхвърля варианта Bernard просто да поеме вината. | Direct dialogue | VH | Alternative control path follows. |
+| E997 | „Гласът“ предлага Bernard да бъде формално обвинен и изпратен да clean-ва. | Direct dialogue | VH | Punitive/public-control solution. |
+| E998 | „Гласът“ настоява Vitamin D+ dosing-ът да продължи. | Direct dialogue | VH | Population-control line retained. |
+| E999 | Най-консервативният governance model е formal scapegoating + cleaning + continued dosing. | Governance inference | H-VH | Derived from E994–E998. |
+| E1000 | Bernard нарича/описва „Гласът“ като глупав и го обвинява, че неспособността му е допринесла за кризата. | Direct character statement | VH | Shows open rejection of supervisory judgment. |
+| E1001 | Bernard пита „Не знаеш повече от мен, нали така?“. | Direct dialogue | VH | Direct challenge to epistemic superiority. |
+| E1002 | „Гласът“ отговаря „Сбогом, Бърнард.“ и прекратява разговора. | Direct dialogue / event | VH | No automatic inference of motive. |
+| E1003 | Camille казва, че „Гласът“ е прекратил разговора от раздразнение, безсилие и гняв. | Character interpretation | VH for statement / M-H for inner-state claim | Не доказва actual human or AI emotion. |
+| E1004 | Bernard излага теория, че зад „Гласът“ стоят хора, а не автономна машина. | Character hypothesis | VH that theory is stated / H as candidate | Architecture remains unverified. |
+| E1005 | Bernard допуска, че „Гласът“ е направен да изглежда като машина. | Character hypothesis | H | Deliberate facade claim remains unverified. |
+| E1006 | Bernard допуска duty operator(s) в Silo 1, които отговарят на Heads of IT в останалите Silos. | Character hypothesis | H | No operator room shown. |
+| E1007 | Voice model вече има explicit competing candidates: machine/autonomous layer срещу human-operated facade from Silo 1. | Model update | H | Neither is established as final architecture. |
+| E1008 | Показан е Level 144 с хора, събрани по stairwell/landing. | Direct visual evidence | VH | Strong level anchor; motive of crowd unknown. |
+| E1009 | Camille публично обявява, че Bernard ще бъде изпратен да clean-ва на следващия ден по обяд за престъпленията си. | Direct announcement | VH | Voice proposal becomes official punishment. |
+| E1010 | Camille заявява, че Juliette също ще бъде изпратена да clean-ва. | Direct announcement | VH | Exact timing may differ unless separately stated. |
+| E1011 | Bernard и Juliette трябва да бъдат изпратени навън без protective suits. | Direct decision | VH | Explicit no-suit condition. |
+| E1012 | No-suit cleaning е съзнателно отклонение от стандартния cleaning protocol. | Protocol comparison | VH | Standard cleaning previously uses protective suit. |
+| E1013 | В mines е построен elevator. | Direct episode evidence | VH | Concrete mechanized vertical transport. |
+| E1014 | Mine elevator-ът е пряко нарушение на вече установената generic забрана на Пакта за mechanized transport през Silo. | Cross-episode rule application | VH | Existing broad rule is retained. |
+| E1015 | S03E09 допълнително заявява, че elevators са изрично забранени от Пакта. | Direct rule specificity | VH | Concrete subclass; не заменя broad mechanized-transport ban. |
+| E1016 | Bernard казва на Juliette, че по-рано е смятал „Гласът“ за машина, но вече не вярва това. | Direct character statement | VH | Explicit belief change. |
+| E1017 | Bernard казва, че според него хора от Silo 1 стоят зад Voice communication. | Character hypothesis | H | Corroborates E1004–E1006, still not architecture proof. |
+| E1018 | Bernard е показан навън без protective suit и остава жив/съзнателен. | Direct visual evidence | VH | Bare exposure is not instantly fatal. |
+| E1019 | По-широк кадър показва Bernard все още изправен/подвижен навън без suit и видим от вътрешни наблюдатели. | Direct visual evidence | VH | Strengthens short survival interval. |
+| E1020 | Bernard умира навън след no-suit exposure. | Direct episode outcome | VH | Fatal endpoint observed. |
+| E1021 | Bare exterior exposure при Silo 18 позволява кратък functional interval преди fatal outcome. | Exterior-hazard model refinement | H-VH | Exact duration and mechanism unknown. |
+| E1022 | Fatal outcome настъпва без protective suit. | Direct causal boundary | VH | Suit is not necessary for death under these observed conditions; exact cause remains unknown. |
+| E1023 | Bernard's fatal no-suit exposure е в силно напрежение със Silo 17, където outer + inner airlock doors са отворени без immediate mass death. | Cross-scene contradiction | VH | Central hazard-model problem. |
+| E1024 | Simple model „ambient exterior air е равномерно и моментално смъртоносен навсякъде“ вече е неприемлив. | Model correction | H-VH | Localized/concentration/time/particulate/other mechanisms remain open. |
+| E1025 | Хора от страната на Juliette извършват силна експлозия в mines на Silo 18. | Direct episode event | VH | Exact actor/target not yet fixed. |
+| E1026 | Силната експлозия е локализирана в mines, а не в airlock/exterior zone. | Event refinement | VH | Exact engineering purpose remains unknown. |
+| E1027 | Pre-Silo линията се връща към Daniel Keen и журналистката в очевидно по-късен момент. | Direct scene transition / temporal inference | H-VH | Time has visibly advanced. |
+| E1028 | Журналистката е показана с видимо наедрял корем, силно съвместим с бременност. | Strong visual inference | H-VH | Не се използва за genealogy conclusion. |
+| E1029 | Daniel Keen и журналистката се отправят към Silo комплекса. | Direct episode event | VH | Opening/intake context follows. |
+| E1030 | Сестрата на Daniel Keen е в романтична/интимна връзка с дъщерята на сенаторката. | Direct relationship evidence | VH | Links two core-project family networks. |
+| E1031 | Сестрата на Daniel Keen назовава „Пакта“ като governance/rulebook system. | Direct dialogue | VH | Origin discussion. |
+| E1032 | Пактът е описан като книга с правила за приблизително 500 години живот под земята без обществото да се саморазруши/хората да се избият. | Direct stated design purpose | VH | Stated horizon, not proven release date. |
+| E1033 | По-късно се уточнява, че AI е написал/draft-нал Пакта, а сестрата и лекарят са го редактирали. | Direct origin clarification | VH | Human-only authorship model superseded. |
+| E1034 | Provisional „sister + doctor created Pact“ се прецизира до AI draft → human editing. | Historical model correction | VH | Preserve correction trail; do not silently overwrite. |
+| E1035 | AI authorship на Пакта не доказва identity equivalence между този AI и „Гласът“. | Critical epistemic boundary | VH | Separate systems unless linked on-screen. |
+| E1036 | При literal comparison на 500-year design horizon и Bernard's 352-year construction anchor derived remainder е ~148 години. | Derived chronology | H | Arithmetic relation, not established release schedule. |
+| E1037 | Показана е официална opening/intake церемония на Silo комплекса. | Direct contextual event | VH | Transition from project to occupied system. |
+| E1038 | Opening scene показва голямо организирано събиране на хора и formal access infrastructure. | Direct visual evidence | VH | Public/organized intake context. |
+| E1039 | Opening-era surface layout визуално показва central Silo и surrounding cluster structure. | Direct visual evidence | VH | Physical-site corroboration of diagrams. |
+| E1040 | Opening map-ът показва numbered Silos от 1 до 50 и включва Silo 1 в този numbering. | Direct visual evidence | VH | Strongest opening-era count anchor. |
+| E1041 | Full aerial view на завършения комплекс corroborate-ва Silo 1 + 7 groups × 7 Silos = 50 physical layout. | Cross-era visual convergence | VH | Matches S03E08 topology. |
+| E1042 | Bernard's historical `51` става още по-силно unresolved discrepancy; central Silo 1 не е extra 51st unit. | Model refinement | H-VH | #51 must have another explanation if accurate. |
+| E1043 | Още при opening/intake хората се насочват към конкретни Silos по предварително зададени номера. | Direct operational procedure | VH | Numbering operational from day one. |
+| E1044 | Intake използва facial recognition за идентификация. | Direct technical evidence | VH | Initial intake identity check. |
+| E1045 | Badges съдържат RF chips. | Direct technical evidence | VH | RF technology; exact protocol not assumed. |
+| E1046 | Intake system machine-check-ва identity/badge срещу assigned Silo. | System inference | H-VH | Derived from facial recognition + RF badges + numbered routing. |
+| E1047 | Daniel Keen е разпределен към Silo 1. | Direct assignment | VH | Assignment, not automatic proof of later office. |
+| E1048 | Журналистката е разпределена към Silo 18. | Direct assignment | VH | Assignment, not genealogy proof. |
+| E1049 | Журналистката е предназначена за същия numbered Silo, който по-късно е Silo 18 на Juliette. | Cross-era anchor | VH | No automatic family-line inference. |
+| E1050 | Billionaire/project sponsor-ът е идентифициран като Per Stenson. | Direct identity evidence | VH | Refines generic prior label. |
+| E1051 | Opening-day phone thread показва съобщението `Sitting next to Anna. Where are you?`. | Direct visual text evidence | VH | Exact identity of Anna remains unresolved. |
+| E1052 | Липсата на отговор от партньорката/жената не доказва липса на mobile coverage; provisional `no signal` inference е оттеглен. | Model correction | VH | No network-outage claim without direct evidence. |
+| E1053 | Daniel изпраща `If Mom and Dad were alive right now...` и получава `Mom and Dad would say it's best to sit still and be patient.`. | Direct visual dialogue evidence | VH | Exact wording visible on device. |
+| E1054 | Daniel реагира осезаемо/необичайно на `sit still and be patient` отговора. | Direct character reaction | H-VH | Meaning of reaction unknown. |
+| E1055 | Code phrase / warning interpretation на parents message е strengthened candidate, но не established fact. | Hypothesis update | M-H | Requires later corroboration. |
+| E1056 | По време на opening/intake се случва голяма ядрена детонация. | Direct episode event / visual evidence | VH | Nuclear character visually explicit. |
+| E1057 | При детонацията хора все още са на повърхността пред/между Silos. | Direct situational evidence | VH | Intake not complete. |
+| E1058 | Към момента на catastrophe onset Daniel е assigned към Silo 1, а журналистката към Silo 18. | Cross-scene situational anchor | VH | Establishes their split destinations. |
+| E1059 | Silo opening/intake преминава директно от planned public event към real emergency-shelter use. | Origin-timeline inference | H-VH | Catastrophe begins during intake. |
+| E1060 | Ядреното събитие е показано с ясно оформен mushroom cloud. | Direct visual evidence | VH | Strong visual confirmation. |
+| E1061 | Episode evidence не установява perpetrator, exact broader-war context или leadership foreknowledge за opening-day detonation. | Epistemic boundary | VH | Do not infer cause or orchestration. |
+
+## Визуални източници — S03E09
+
+Binary assets са качени в `main` с commit `b6f936411a365588ad48062e80a9a3e614525d5d` и валидирани byte-for-byte чрез Git blob SHA comparison. Пълният списък е в [S03E09 manifest](../assets/S03E09/MANIFEST.md).
+
+Primary:
+- [Bernard / Voice challenge](../assets/S03E09/screenshots/bernard-voice-you-dont-know-more-goodbye.jpeg)
+- [Camille / Voice reaction interpretation](../assets/S03E09/screenshots/camille-voice-ended-conversation-anger.jpeg)
+- [Level 144 crowd](../assets/S03E09/screenshots/level-144-crowd-stairwell.jpeg)
+- [Bernard outside without suit](../assets/S03E09/screenshots/bernard-outside-without-suit.jpeg)
+- [Bernard observed outside without suit](../assets/S03E09/screenshots/bernard-no-suit-exterior-observed-from-silo.jpeg)
+- [Opening ceremony](../assets/S03E09/screenshots/silo-complex-opening-ceremony-aerial.jpeg)
+- [Opening map 1–50](../assets/S03E09/screenshots/opening-map-silos-1-to-50-topology.jpeg)
+- [Full Silo complex aerial](../assets/S03E09/screenshots/full-silo-complex-aerial-topology.jpeg)
+- [Daniel / parents message](../assets/S03E09/screenshots/daniel-parents-sit-still-be-patient-message.jpeg)
+- [Nuclear detonation context](../assets/S03E09/screenshots/silo-opening-nuclear-detonation.jpeg)
+- [Opening-day mushroom cloud](../assets/S03E09/screenshots/opening-day-nuclear-mushroom-cloud.jpeg)
+
+Supporting:
+- [Anna message](../assets/S03E09/screenshots/opening-day-message-sitting-next-to-anna.jpeg)
+- [Contact sheet](../assets/S03E09/screenshots/S03E09-contact-sheet.jpeg)
+
 ## Визуални източници — S03E08
 
 Binary assets са качени в `main` с commit `3ab2e04ce0b56c78e9ebdcc5dd9dec744d852b97` преди analysis PR-а. Git blob SHA validation е записан в [S03E08 manifest](../assets/S03E08/MANIFEST.md).
