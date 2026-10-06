@@ -30,20 +30,34 @@
 
 ## Knowledge boundary
 
-**Текуща граница на знанието:** **S03E07**
+**Текуща граница на знанието:** **S03E08**
 
-**Статус на гледане:** **Season 3 — S03E07 завършен**
+**Статус на гледане:** **Season 3 — S03E08 завършен**
 
-Не се използва никаква информация след S03E07, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
+Не се използва никаква информация след S03E08, книги, wiki, interviews, бъдещи synopses, leaks или retrospective explanations.
 
 ## Текущо състояние
 
-След S03E07 най-силният работен модел е:
+След S03E08 най-силният работен модел е:
 
-> **Silo system остава layered и compartmentalized survival/control architecture, но S03E07 показва по-широк supervisory reach и едновременно ограничено знание. „Гласът“ може да докладва exterior status и вероятно е свързан с external enforcement, но `neutralized` report-ът за Kyle/Kennedy по-късно е поставен под съмнение от радиовръзка. Safeguard е practically blockable поне временно в Silo 17, докато claim-ът за „непреодолимост“ оставя redundancy/bluff alternatives. Juliette's selective disclosure остава частично успешно. Low-level console установява null/static-loop feed substitution, а pre-Silo линията вече дава fragmented-memory + NDA evidence за sister-treatment и concrete Silo construction geography край Atlanta, Georgia.**
+> **Silo system вече има пряко показана топология от 50 единици: Silo 1 + 7 групи × 7 Silos. Разпределението на safeguard poison е йерархично — седем главни линии от Silo 1 към групите и локални разклонения към отделните Silos. S03E08 едновременно поправя модела за външната среда: Kyle е прострелян, но жив; Silo 17 може да има едновременно отворени airlock doors без непосредствена масова смърт; „Гласът“ използва въздушно наблюдение за обновяване на exterior status. Пред-Silo линията вече свързва първоначалната мисия на проекта с неизбежна катастрофа от нанотехнологии, разкрива нанооръжието като механизъм зад поемането на самолета и поставя комплекса от 50 Silos приблизително на 50 km от Atlanta. Bernard признава убийството на Meadows като необходимо според получената от него инструкция за спасяване на Silo, но по-късно заявява, че ще спре „тази тирания“.**
 
 Ключови установени линии:
 
+- S03E08: Kyle е пряко потвърден жив след стрелбата във външната среда; `neutralized` вече не може да се чете като `dead`;
+- S03E08: Silo 17 е показан с едновременно отворени airlock doors без непосредствена масова смърт, което отслабва модела за еднакво и моментално смъртоносна външна среда;
+- S03E08: „Гласът“ получава exterior update от въздушно наблюдение; телата на Kyle/Kennedy вече не са на мястото;
+- S03E08: Silo 17 възстановява радиовръзка и комуникира кодирано със Silo 18;
+- S03E08: официалната топология е **Silo 1 + 7 × 7 = 50 Silos**; Bernard's historical `51` остава отделно противоречие;
+- S03E08: safeguard схемата показва **7 главни линии от Silo 1 → 7 групи → локални разклонения към всеки Silo**;
+- S03E08: първоначалният строителен план е 10 изкопни машини × 5 Silos; Keen обяснява, че изваждането струва повече от оставянето на машината заровена;
+- S03E08: първоначалната цел на проекта е оцеляване на хора и последващо повторно заселване след неизбежна катастрофа, свързана с нанотехнологии;
+- S03E08: по-ранната „dirty bomb“ линия е уточнена като attack с нанооръжие, целящ да забави американските AI и nanotechnology programs; отговорността на Iran остава ограничено установена;
+- S03E08: нанооръжието поема управлението на самолета за секунди; analog retrofit-ът е бил защитна мярка срещу тази заплаха;
+- S03E08: иранското съоръжение за нанооръжия е планирано да бъде унищожено с малък ядрен заряд чрез ~120 km подземен тунел; журналистката твърди, че въздушният екип е бил използван като експеримент за измерване на възможностите;
+- S03E08: Silo complex-ът е приблизително **50 km от Atlanta**; разрушеният skyline = Atlanta остава силен извод, а не изрично означение;
+- S03E08: Bernard признава, че е отровил Meadows, защото му е било казано, че това е необходимо, за да не загине целият Silo; по-късно обещава да спре „тази тирания“;
+- S03E08: в края на епизода Juliette е заключена заедно с Robert Sims;
 - S03E07: Lukas Kyle и Patrick Kennedy излизат към Silo 17 с child-transfer mission и covert safeguard-countermeasure objective;
 - S03E07: exterior sequence е жужене → кратък звук, наподобяващ оръжие → later Voice report `neutralized`; точният neutralization mechanism остава unknown;
 - S03E07: радиовръзка, представена като Kyle/Kennedy, влиза в conflict с Voice/Camille account-а и спира immediate Judicial/safeguard-pipe operation-а в Silo 18;
@@ -721,6 +735,7 @@ analysis/S03E04-covert-network-abyss-bernard
 analysis/S03E05-voice-safeguard-memory-control
 analysis/S03E06-silo1-power-voice-memory
 analysis/S03E07-exterior-enforcement-georgia
+analysis/S03E08-nano-topology-safeguard
 hypothesis/<name>
 model/<name>
 methodology/<change>
@@ -730,4 +745,4 @@ Git history е част от разследването: трябва да мо�
 
 ---
 
-**Следваща knowledge boundary:** `S03E07`
+**Следваща knowledge boundary:** `S03E08`
