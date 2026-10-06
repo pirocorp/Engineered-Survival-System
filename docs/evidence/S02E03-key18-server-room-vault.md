@@ -1,12 +1,12 @@
-# S02E03 — Key 18, Server Room и IT vault
+# S02E03 — Key 18, Server Room и IT трезор
 
-**Knowledge boundary:** `S02E03`
+**Граница на знанието:** `S02E03`
 
-## Direct spatial/access evidence
+## пряк пространствен/достъп доказателство
 
-Physical key на Bernard с маркировка `18` се използва за/access-ва **SERVER ROOM**.
+физически key на Bernard с маркировка `18` се използва за/достъп-ва **SERVER ROOM**.
 
-Вътре в този restricted Server Room се намира heavy secured **vault**.
+Вътре в този restricted Server Room се намира heavy защитен **трезор**.
 
 ```text
 key 18
@@ -16,7 +16,7 @@ SERVER ROOM
 vault
 ```
 
-Survivor-ът от Silo 17 независимо нарича своя analogous secured IT compartment **vault**.
+Survivor-ът от Silo 17 независимо нарича своя analogous защитен IT compartment **трезор**.
 
 He says Russell:
 - put him inside it;
@@ -24,18 +24,18 @@ He says Russell:
 
 ## H38 / H42 impact
 
-Това силно подкрепя standardized protected IT-vault architecture поне в Silos 17 и 18.
+Това силно подкрепя standardized защитен IT-трезор архитектура поне в Silos 17 и 18.
 
-**H42:** vault е protected continuity/control compartment, предназначен да остане inaccessible по време на Silo-wide unrest.
+**H42:** трезор е защитен непрекъснатост/контрол compartment, предназначен да остане inaccessible по време на Silo-wide unrest.
 
 Still unknown:
-- exact contents;
+- точен contents;
 - дали всеки Silo има такъв;
-- дали vault functions са identical;
+- дали трезор functions са identical;
 - whether vaults communicate;
 - дали key number съответства на Silo number.
 
-## Visual evidence
+## визуален доказателство
 
 - [Key 18 / Server Room access](../../assets/S02E03/screenshots/bernard-key18-server-room-access.jpeg)
 - [Server Room / vault](../../assets/S02E03/screenshots/server-room-it-vault.jpeg)
