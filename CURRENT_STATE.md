@@ -1,22 +1,22 @@
-# Текущо състояние — след S03E10 / Season 3 finale
+# Текущо състояние — след S03E10 / финал на сезон 3
 
-**Knowledge boundary:** `S03E10`
+**Граница на знанието:** `S03E10`
 
 ## Работен модел
 
-S03E10 разкрива central supervisory architecture на Silo 1 и превръща няколко Season-3 hypotheses в direct evidence.
+S03E10 разкрива централната надзорна архитектура на Silo 1 и превръща няколко хипотези от сезон 3 в преки доказателства.
 
-Silo 1 съдържа large metabolic/cryogenic stasis facility, operational elevator и central control / operations room. Daniel Keen е периодично reactivated за exceptional crises; explicit later interval е 5 години от предишното му awakening. Senator-ът от pre-Silo core group е Director на Silo 1 и също участва в stasis cycle. Victor — founding-era doctor — е директно показан като human operator зад Voice communication. Voice следователно вече се моделира като human-operated role/interface; possible AI/automation layer остава unresolved.
+Silo 1 съдържа голямо съоръжение за метаболитна/криогенна стаза, работещ асансьор и централно контролно/оперативно помещение. Daniel Keen периодично е събуждан при извънредни кризи; по-късно е посочен изричен интервал от 5 години от предишното му събуждане. Сенаторът от основната група от периода преди силозите е директор на Silo 1 и също участва в цикъла на стаза. Victor — лекар от епохата на основаването — е директно показан като човешкия оператор зад комуникацията чрез „Гласът“. Следователно „Гласът“ вече се моделира като роля/интерфейс, управляван от човек; евентуален ИИ/автоматизиран слой остава неизяснен.
 
-Safeguard е physical poison-mixture system с local delivery path, който може да бъде открит и блокиран. Silo 17 и Silo 18 дават повторяем pattern: internal pipe delivery fails → Silo 1 detects/assesses containment failure → external drone surveillance/enforcement. Drone platform-ът има 30 L mixture payload и 2000 rounds. Това доказва external poison/kinetic capability на Silo 1, но **не** доказва, че every prior cleaning death е drone-caused или че exterior environment е напълно безопасна.
+Safeguard е физическа система за отровна смес с локален път за доставка, който може да бъде открит и блокиран. Silo 17 и Silo 18 дават повтарящ се модел: вътрешното подаване през тръбата отказва → Silo 1 засича/оценява провал на изолацията → следват външно наблюдение и принудително действие с дрон. Платформата с дрон има 30 L товар от смес и 2000 патрона. Това доказва външна способност на Silo 1 за отровно/кинетично въздействие, но **не** доказва, че всяка предишна смърт при почистване е причинена от дрон или че външната среда е напълно безопасна.
 
-Pact и Directive вече са direct-separated. Pact governs ordinary Silo society и може да престане да важи след exit; Directive остава като higher-level containment doctrine. `Directive` не се equate-ва автоматично с `THE ORDER`.
+Пактът и Директивата вече са директно разграничени. Пактът управлява обичайното общество в Силоза и може да престане да важи след излизане; Директивата остава като доктрина за изолация от по-високо ниво. `Directive` не се приравнява автоматично с `THE ORDER`.
 
-Silo 18 successfully blocks Safeguard pipe. Silo 1 detects blockage, deploys drone surveillance and orders unauthorized leavers killed. Juliette maintains cross-Silo contact with Silo 17 and reaches the lower structure named by Silo 1 as **Second Vault**. Daniel offers conditional non-use of Safeguard if Silo 18 stops Second Vault investigation and cross-Silo communication. Juliette accepts the deal, then proposes covert preparation for an unexpected strike/takeover of Silo 1.
+Silo 18 успешно блокира тръбата на Safeguard. Silo 1 засича блокирането, разгръща наблюдение с дрон и нарежда всеки, който се опита да излезе, да бъде убит. Juliette поддържа междусилозен контакт със Silo 17 и достига долната структура, която Silo 1 нарича **Вторият трезор**. Daniel предлага условно Safeguard да не бъде използван, ако Silo 18 прекрати разследването на Втория трезор и междусилозната комуникация. Juliette приема сделката, а след това предлага тайна подготовка за неочакван удар/превземане на Silo 1.
 
-Daniel's selective autobiographical memory gaps remain a major continuity issue. Post-reanimation medical evidence documents confusion, reduced cognitive processing and physical/metabolic effects, but not selective amnesia. Victor's encrypted message identifies **Helen Drew** as the pre-Silo journalist Daniel is trying to remember. Intentional memory suppression remains strongly supported but exact Silo 1 mechanism is not directly demonstrated.
+Избирателните пропуски в автобиографичната памет на Daniel остават основен проблем за приемствеността. Медицинските доказателства след реанимация документират объркване, намалена когнитивна обработка и физически/метаболитни ефекти, но не и избирателна амнезия. Криптираното съобщение на Victor идентифицира **Helen Drew** като журналистката от периода преди силозите, която Daniel се опитва да си спомни. Умишленото потискане на паметта остава силно подкрепено, но точният механизъм в Silo 1 не е директно демонстриран.
 
-Season-3 closure therefore yields a layered architecture:
+Завършекът на сезон 3 следователно очертава многослойна архитектура:
 
 ```text
 ORDINARY SILO
@@ -36,144 +36,144 @@ SILO 1 SUPERVISORY / CONTINUITY LAYER
   └─ drone surveillance / external containment
 ```
 
-Exterior hazard remains unresolved. The simple model `uniform ambient air kills everyone quickly` is no longer viable, but `outside is safe` is also not established.
+Опасността във външната среда остава неизяснена. Простият модел `uniform ambient air kills everyone quickly` („еднаквият външен въздух убива всички бързо“) вече не е жизнеспособен, но и `outside is safe` („навън е безопасно“) не е установено.
 
 ---
 
-## Наблюдения с висок confidence
+## Наблюдения с висока увереност
 
-### S03E10 — Silo 1 / stasis / continuity
+### S03E10 — Silo 1 / стаза / непрекъснатост
 
-- Daniel е показан при awakening/reanimation от Silo 1 stasis chamber.
-- Silo 1 има множество chambers и large dedicated stasis facility.
-- Initial live `nanobot restoration` interpretation е withdrawn; direct function е metabolic/cryogenic stasis.
-- Initial live `7 years after opening-day explosion` chronology е withdrawn.
-- По-късно Daniel е събуден **5 години** след предишното awakening, което показва variable/event-driven cycle.
-- Senator-ът е Director на Silo 1 и също е част от stasis continuity.
-- Silo 1 има built-in operational elevator въпреки ordinary-Silo Pact ban върху mechanized transport.
-- Daniel не разпознава сестра си след awakening и има fragmented memory за Helen Drew.
-- Post-reanimation medical report не описва selective autobiographical amnesia като standard stasis effect.
+- Daniel е показан при събуждане/реанимация от камера за стаза в Silo 1.
+- Silo 1 има множество камери и голямо специализирано съоръжение за стаза.
+- Първоначалната интерпретация при гледането на живо `nanobot restoration` („възстановяване с наноботи“) е оттеглена; директно установената функция е метаболитна/криогенна стаза.
+- Първоначалната хронология при гледането на живо `7 years after opening-day explosion` („7 години след експлозията в деня на откриването“) е оттеглена.
+- По-късно Daniel е събуден **5 години** след предишното събуждане, което показва променлив/зависим от събития цикъл.
+- Сенаторът е директор на Silo 1 и също е част от механизма за непрекъснатост чрез стаза.
+- Silo 1 има вграден работещ асансьор въпреки забраната в Пакта за механизиран транспорт в обикновените силози.
+- Daniel не разпознава сестра си след събуждането и има фрагментирана памет за Helen Drew.
+- Медицинският доклад след реанимация не описва избирателна автобиографична амнезия като стандартен ефект от стазата.
 
-### S03E10 — Safeguard / drones / Directive
+### S03E10 — Safeguard / дронове / Директива
 
-- Silo 17 briefing описва failed cleaning → escalation → Safeguard response.
-- Safeguard mixture не достига target заради blocked delivery path.
-- Други Silos исторически са откривали/блокирали pipe-а.
-- Silo 1 actively launches aerial surveillance drone.
-- Drone platform-ът има 30 L mixture payload и 2000 rounds ammunition.
-- Daniel orders mass-exit containment and use of drones for lethal response.
-- Sister/operator отказва да стреля, показвайки human execution point.
-- Silo 1 terminology treats leavers as escapees; prison analogy remains interpretation, not direct fact.
-- Direct dialogue: Pact no longer applies after exit, but Directive remains.
-- Silo 18 blocks Safeguard; Silo 1 detects it, deploys drone watch and orders any attempted leaver killed.
+- Инструктажът за Silo 17 описва неуспешно почистване → ескалация → реакция чрез Safeguard.
+- Сместа на Safeguard не достига целта заради блокиран път за доставка.
+- Други силози исторически са откривали/блокирали тръбата.
+- Silo 1 активно изстрелва дрон за въздушно наблюдение.
+- Платформата с дрон има 30 L товар от смес и 2000 патрона.
+- Daniel нарежда ограничаване на масовото излизане и използване на дронове за смъртоносна реакция.
+- Сестрата/операторът отказва да стреля, което показва човешка точка на изпълнение.
+- Терминологията на Silo 1 третира излезлите като бегълци; аналогията със затвор остава интерпретация, а не пряко установен факт.
+- Прекият диалог установява: Пактът вече не важи след излизане, но Директивата остава.
+- Silo 18 блокира Safeguard; Silo 1 засича това, разгръща наблюдение с дрон и нарежда всеки опитващ да излезе да бъде убит.
 
-### S03E10 — Voice / control room / Victor
+### S03E10 — „Гласът“ / контролно помещение / Victor
 
-- Provisional `drone control room` label е corrected до **Silo 1 central control / operations room**.
-- Victor е директно показан като human operator behind Voice in a concrete interaction.
-- Bernard's S03E09 human-operator hypothesis е confirmed in core form.
-- Voice се моделира като human-operated role/interface; AI/automation layer remains unknown.
-- Victor поздравява Camille Sims за deception, establishing operational knowledge/coordination.
-- Victor later dies by suicide; exact motive remains unresolved.
-- Victor's encrypted message says he felt relief when Safeguard against Silo 18 failed.
-- Victor identifies Helen Drew as the woman Daniel is trying to remember.
+- Предварителното означение `drone control room` („помещение за управление на дронове“) е коригирано до **централно контролно/оперативно помещение на Silo 1**.
+- Victor е директно показан като човешкия оператор зад „Гласът“ в конкретно взаимодействие.
+- Хипотезата на Bernard от S03E09 за човешки оператор е потвърдена в основната си част.
+- „Гласът“ се моделира като роля/интерфейс, управляван от човек; евентуален ИИ/автоматизиран слой остава неизвестен.
+- Victor поздравява Camille Sims за умението ѝ да лъже, което установява оперативно знание/координация.
+- Victor по-късно се самоубива; точният мотив остава неизяснен.
+- Криптираното съобщение на Victor казва, че е почувствал облекчение, когато Safeguard срещу Silo 18 се е провалил.
+- Victor идентифицира Helen Drew като жената, която Daniel се опитва да си спомни.
 
-### S03E10 — Second Vault / Silo 18
+### S03E10 — Вторият трезор / Silo 18
 
-- Juliette has working two-way communication with Silo 17.
-- Flooded lower route leads toward the structure Silo 1 calls **Second Vault of Silo 18**.
-- Daniel communicates with Juliette through the Second Vault supervisory channel.
-- Daniel conditions non-use of Safeguard on stopping Second Vault investigation and cross-Silo contact.
-- Juliette accepts the deal.
-- Juliette then proposes covert preparation for strike/takeover of Silo 1.
+- Juliette има работеща двупосочна комуникация със Silo 17.
+- Наводненият долен маршрут води към структурата, която Silo 1 нарича **Вторият трезор на Silo 18**.
+- Daniel комуникира с Juliette през надзорния канал на Втория трезор.
+- Daniel поставя като условие за неизползване на Safeguard прекратяването на разследването на Втория трезор и междусилозния контакт.
+- Juliette приема сделката.
+- След това Juliette предлага тайна подготовка за удар/превземане на Silo 1.
 
-### S03E10 — exterior model
+### S03E10 — модел на външната среда
 
-- Silo 1 external poison/kinetic enforcement is confirmed.
-- Juliette's good tape and successful Silo18→Silo17→Silo18 movement are known to Silo 1.
-- Silo 17 residents are observed alive while emerging.
-- `ambient exterior air = uniformly and immediately lethal` remains rejected.
-- `outside is safe` is **not** established.
-- Cleaning deaths still require a model that explains Holston/Bernard outcomes, tape/seal effects and Silo 1 enforcement.
+- Външното отровно/кинетично принудително действие на Silo 1 е потвърдено.
+- Silo 1 знае за добрата лента на Juliette и успешното ѝ придвижване Silo 18 → Silo 17 → Silo 18.
+- Жители на Silo 17 са наблюдавани живи, докато излизат.
+- Моделът `ambient exterior air = uniformly and immediately lethal` („външният въздух е еднакво и моментално смъртоносен“) остава отхвърлен.
+- `outside is safe` („навън е безопасно“) **не** е установено.
+- Смъртните случаи при почистване все още изискват модел, който обяснява резултатите при Holston/Bernard, ефектите от лентата/уплътнението и принудителните действия на Silo 1.
 
 
 
-### S03E09 — Bernard / „Гласът“ / cleaning
+### S03E09 — Bernard / „Гласът“ / почистване
 
-- Bernard настоява Juliette да бъде освободена и Vitamin D+ dosing-ът да бъде спрян.
-- Bernard предлага да поеме вината като scapegoat; „Гласът“ предпочита formal conviction + cleaning + continued Vitamin D+.
-- Bernard директно оспорва epistemic authority-то на „Гласът“ с „Не знаеш повече от мен, нали така?“.
-- Camille приписва прекратяването на разговора на раздразнение, безсилие и гняв; това е нейна interpretation, не proof за actual inner state.
-- Bernard казва, че вече не вярва „Гласът“ да е просто машина и допуска human operators в Silo 1.
-- Human-operated Voice from Silo 1 остава character hypothesis.
-- Camille обявява Bernard за cleaning на следващия ден по обяд.
-- Juliette също е поставена в cleaning outcome.
-- Bernard и Juliette трябва да излязат без protective suits.
+- Bernard настоява Juliette да бъде освободена и дозирането с Vitamin D+ да бъде спряно.
+- Bernard предлага да поеме вината като изкупителна жертва; „Гласът“ предпочита формална присъда + почистване + продължаване на Vitamin D+.
+- Bernard директно оспорва епистемичния авторитет на „Гласът“ с „Не знаеш повече от мен, нали така?“.
+- Camille приписва прекратяването на разговора на раздразнение, безсилие и гняв; това е нейна интерпретация, а не доказателство за действителното вътрешно състояние.
+- Bernard казва, че вече не вярва „Гласът“ да е просто машина и допуска човешки оператори в Silo 1.
+- Управляван от човек „Глас“ от Silo 1 остава хипотеза на персонаж при границата S03E09.
+- Camille обявява Bernard за почистване на следващия ден по обяд.
+- Juliette също е включена в процедурата по почистване.
+- Bernard и Juliette трябва да излязат без защитни костюми.
 
-### S03E09 — exterior hazard / Silo 17 contradiction
+### S03E09 — опасност във външната среда / противоречието със Silo 17
 
-- Bernard излиза навън без suit, остава жив за кратък интервал и след това умира.
-- Fatal exterior outcome следователно не изисква protective suit.
-- Bare exposure не е моментално фатално.
-- Silo 17 open-airlock evidence остава в пряко напрежение с Bernard outcome-а.
-- Simple model „ambient exterior air = еднакво и веднага смъртоносен навсякъде“ е отхвърлен.
-- Exact lethal mechanism остава неизвестен.
+- Bernard излиза навън без костюм, остава жив за кратък интервал и след това умира.
+- Следователно смъртоносният резултат във външната среда не изисква защитен костюм.
+- Прякото излагане без защита не е моментално фатално.
+- Доказателствата за отворения шлюз на Silo 17 остават в пряко напрежение с резултата при Bernard.
+- Простият модел „външният въздух е еднакво и веднага смъртоносен навсякъде“ е отхвърлен.
+- Точният смъртоносен механизъм остава неизвестен.
 
-### S03E09 — mines / Пакт
+### S03E09 — мини / Пакт
 
-- В mines е построен elevator.
-- Elevator-ът е concrete violation на established generic Pact ban върху mechanized transport.
-- S03E09 изрично добавя, че elevators са забранени; това не заменя по-широкото правило.
-- Хора от страната на Juliette извършват силна експлозия в mines; точният target остава неизвестен.
-- Пактът е описан като rulebook за приблизително 500 години живот под земята.
-- AI е написал/draft-нал Пакта; сестрата на Daniel Keen и лекарят са го редактирали.
-- Pact AI ≠ автоматично „Гласът“.
-- 500-year horizon срещу Bernard's 352-year construction anchor дава derived ~148 години, но не established release date.
+- В мините е построен асансьор.
+- Асансьорът е конкретно нарушение на установената обща забрана в Пакта за механизиран транспорт.
+- S03E09 изрично добавя, че асансьорите са забранени; това не заменя по-широкото правило.
+- Хора от страната на Juliette извършват силна експлозия в мините; точната цел остава неизвестна.
+- Пактът е описан като правилник за приблизително 500 години живот под земята.
+- ИИ е написал/създал черновата на Пакта; сестрата на Daniel Keen и лекарят са го редактирали.
+- Авторството на Пакта от ИИ ≠ автоматично „Гласът“ е ИИ.
+- 500-годишният хоризонт спрямо 352-годишния ориентир на Bernard за строителството дава изчислени ~148 години, но не и установена дата на освобождаване.
 
-### S03E09 — opening / topology / intake
+### S03E09 — откриване / топология / прием
 
-- Opening-day map-ът показва numbered Silos 1–50.
-- Full aerial view corroborate-ва един central Silo + седем groups × 7 Silos.
+- Картата от деня на откриването показва номерирани силози 1–50.
+- Пълният въздушен изглед независимо потвърждава един централен Силоз + седем групи × 7 силоза.
 - Silo 1 е част от официалните 50.
-- Bernard's historical `51` остава истинско unresolved discrepancy.
-- Daniel Keen е assigned към Silo 1.
-- Журналистката е assigned към Silo 18.
-- Intake използва facial recognition и RF chips в badges.
-- Per Stenson е идентифициран като billionaire/project sponsor-а.
-- Opening-day phone message `sit still and be patient` предизвиква осезаема реакция у Daniel; code-warning interpretation остава hypothesis.
-- По време на opening/intake се случва ядрена детонация, докато хора все още са на повърхността.
-- Perpetrator, exact broader-war context и foreknowledge не са установени.
+- Историческото `51` на Bernard остава реално неизяснено несъответствие.
+- Daniel Keen е разпределен към Silo 1.
+- Журналистката е разпределена към Silo 18.
+- Приемът използва лицево разпознаване и RF чипове в служебните значки.
+- Per Stenson е идентифициран като милиардера/спонсора на проекта.
+- Телефонното съобщение от деня на откриването `sit still and be patient` предизвиква осезаема реакция у Daniel; интерпретацията му като кодирано предупреждение остава хипотеза.
+- По време на откриването/приема се случва ядрена детонация, докато хора все още са на повърхността.
+- Извършителят, точният по-широк контекст на войната и предварителното знание не са установени.
 
 
 ### S03E08 — външна среда / Silo 17 / въздушно наблюдение
 
 - Lukas Kyle е пряко потвърден жив след стрелбата, но е ранен.
-- Звукът от S03E07, наподобяващ оръжие, вече има реален контекст на стрелба; shooter/command chain остава неизвестен.
-- Report-ът `neutralized` на „Гласът“ не е надежден като краен еквивалент на death.
-- Silo 17 е показан с едновременно отворени airlock doors без непосредствена масова смърт.
+- Звукът от S03E07, наподобяващ оръжие, вече има реален контекст на стрелба; стрелецът/командната верига остават неизвестни.
+- Докладът `neutralized` на „Гласът“ не е надежден като окончателен еквивалент на смърт.
+- Silo 17 е показан с едновременно отворени врати на шлюза без непосредствена масова смърт.
 - Външната опасност остава реална, но моделът за еднакво и моментално смъртоносен външен въздух е съществено отслабен.
 - Silo 17 ремонтира радиовръзката и комуникира кодирано със Silo 18.
-- „Гласът“ казва, че въздушното наблюдение е направило pass около Silo 17 и че телата на Kyle/Kennedy ги няма.
-- Въздушното наблюдение е конкретен външен канал за наблюдение; не е доказано, че същата платформа/actor е shooter.
+- „Гласът“ казва, че въздушното наблюдение е извършило обиколка около Silo 17 и че телата на Kyle/Kennedy ги няма.
+- Въздушното наблюдение е конкретен външен канал за наблюдение; не е доказано, че същата платформа/участник е стрелецът.
 
-### S03E08 — топология на 50 Silos / safeguard мрежа
+### S03E08 — топология на 50 силоза / мрежа на Safeguard
 
 - Silo 1 е показан централно спрямо седем групи.
 - Една група съдържа 7 Silos: 1 централен + 6 околни.
 - Официално показаната топология е **Silo 1 + 7 × 7 = 50 Silos**.
 - Silo 1 следователно е част от 50, а не автоматично „51-вият“.
-- Bernard's historical `51` става по-остро противоречие и остава неизяснено.
-- Схемата на safeguard показва 7 главни линии от Silo 1 към 7 групи.
+- Историческото `51` на Bernard става по-остро противоречие и остава неизяснено.
+- Схемата на Safeguard показва 7 главни линии от Silo 1 към 7 групи.
 - В групата разпределението се разклонява към отделните Silos.
-- Блокиране на локалното разклонение към един Silo ≠ пълно изключване на safeguard мрежата.
-- Схемата не доказва втори резервен route към един и същ Silo.
-- В комбинация с вече установените radio-monitoring и IT-power роли, Silo 1 е силен кандидат за многофункционален централен инфраструктурен възел.
+- Блокиране на локалното разклонение към един Силоз ≠ пълно изключване на мрежата на Safeguard.
+- Схемата не доказва втори резервен маршрут към един и същ Силоз.
+- В комбинация с вече установените роли за радионаблюдение и IT захранване, Silo 1 е силен кандидат за многофункционален централен инфраструктурен възел.
 
 ### S03E08 — строителство / заровени изкопни машини / Atlanta
 
 - Спонсорът на проекта описва първоначалния план: 10 изкопни машини, всяка да изкопае по 5 Silos.
 - Сметката дава планиран общ брой от 50 Silos.
-- Daniel Keen казва, че изваждането на изкопната машина след excavation би струвало повече от оставянето ѝ underground.
+- Daniel Keen казва, че изваждането на изкопната машина след изкопаването би струвало повече от оставянето ѝ под земята.
 - Това силно подкрепя жизнения цикъл работеща изкопна машина → завършен Silo → заровена дълбоко машина.
 - Крайният брой поръчани/използвани машини остава неизвестен; първоначалният план 10×5 може да е бил променен.
 - Комплексът е приблизително на 50 km от Atlanta.
@@ -182,28 +182,28 @@ Exterior hazard remains unresolved. The simple model `uniform ambient air kills 
 
 ### S03E08 — първоначална цел на проекта / нанотехнологии
 
-- Project leadership казва, че хора ще живеят в Silos.
+- Ръководството на проекта казва, че хора ще живеят в силозите.
 - Заявената крайна цел е оцелелите по-късно да населят отново Земята.
 - Leadership-ът твърди, че идва глобална катастрофа, която не може да бъде спряна.
 - Линията за катастрофата е свързана с нанотехнологии.
-- Това установява първоначалната survival логика, но не доказва, че по-късната авторитарна implementation е техническа необходимост.
-- Текущата външна опасност = нанотехнологии остава hypothesis, не установен факт.
-- Safeguard poison = нанотехнологии остава hypothesis, не установен факт.
+- Това установява първоначалната логика за оцеляване, но не доказва, че по-късното авторитарно прилагане е техническа необходимост.
+- Хипотезата „текущата външна опасност = нанотехнологии“ остава неустановена.
+- Хипотезата „отровата на Safeguard = нанотехнологии“ остава неустановена.
 
 ### S03E08 — нанооръжие / мисията в Iran
 
-- По-ранната „dirty bomb“ линия е уточнена като attack с нанооръжие.
-- Заявената цел е да се забавят американските AI и nanotechnology programs.
-- Attack/conflict chain въвлича САЩ във война.
-- Iran е част от narrative attribution-а, но дали действа сам, със съюзници или attribution-ът е пълен остава неизвестно.
+- По-ранната линия за „мръсна бомба“ е уточнена като атака с нанооръжие.
+- Заявената цел е да се забавят американските програми за ИИ и нанотехнологии.
+- Веригата атака/конфликт въвлича САЩ във война.
+- Iran е част от разказа за приписването на отговорността, но дали действа сам, със съюзници или приписването е пълно остава неизвестно.
 - Целта на мисията на сестрата е тайно иранско съоръжение за нанооръжия близо до границата с Turkmenistan.
 - Нанооръжието поема управлението на самолета за секунди.
-- Аналогови/по-стари самолетни системи са използвани като defensive retrofit с надеждата да устоят на нанооръжието.
+- Аналогови/по-стари самолетни системи са използвани като защитна модернизация с надеждата да устоят на нанооръжието.
 - Retrofit-ът се оказва недостатъчен.
 - Малък ядрен заряд е детониран под целевото съоръжение.
 - Зарядът е бил поставен чрез ~120 km таен подземен тунел.
-- Ядреният удар е отделен от самолета като delivery mechanism; степента на окончателното унищожаване на съоръжението остава отделен въпрос.
-- Журналистката обвинява leadership-а, че въздушният екип е бил използван като експеримент за измерване на възможностите; обвинението остава непотвърдено.
+- Ядреният удар е отделен от самолета като механизъм за доставка; степента на окончателното унищожаване на съоръжението остава отделен въпрос.
+- Журналистката обвинява ръководството, че въздушният екип е бил използван като експеримент за измерване на възможностите; обвинението остава непотвърдено.
 
 ### S03E08 — Bernard / Meadows / текущо управление
 
@@ -217,47 +217,47 @@ Exterior hazard remains unresolved. The simple model `uniform ambient air kills 
 
 ### S03E08 — основна пред-Silo проектна група
 
-- Основната проектна група включва сестрата на Daniel Keen/пилотката, нейния doctor, billionaire/project sponsor-а и сенаторката.
+- Основната проектна група включва сестрата на Daniel Keen/пилотката, нейния лекар, милиардера/спонсора на проекта и сенаторката.
 - Журналистката отказва да се присъедини.
 - Сестрата пилот се съгласява да се присъедини.
 - Daniel Keen и журналистката имат явно интимно/романтично сближаване при тръгването ѝ.
-- „Founders“ се използва само като analytical shorthand, освен ако in-world dialogue не го фиксира официално.
+- „Founders“ („Основателите“) се използва само като аналитична съкратена формулировка, освен ако диалогът в света на сериала не го фиксира официално.
 
-### S03E07 — Kyle/Kennedy / exterior / „Гласът“
+### S03E07 — Kyle/Kennedy / външна среда / „Гласът“
 
 - Lukas Kyle и Patrick Kennedy излизат от Silo 18 към Silo 17.
-- Явната цел е transfer на децата; covert objective е safeguard-countermeasure reconnaissance.
+- Явната цел е прехвърляне на децата; скритата цел е разузнаване за противодействие на Safeguard.
 - Навън се чува ясно жужене и след него кратък приглушен звук, който героите оприличават на оръжие.
-- „Гласът“ съобщава, че Kyle и Kennedy са `neutralized`; това е твърдение за статуса им, не direct visual proof за death.
-- По-късно радиовръзка, представена като идваща от тях, влиза в пряк конфликт с neutralization report-а и Camille statement-а, че не са стигнали Silo 17.
+- „Гласът“ съобщава, че Kyle и Kennedy са `neutralized`; това е твърдение за статуса им, а не пряко визуално доказателство за смърт.
+- По-късно радиовръзка, представена като идваща от тях, влиза в пряк конфликт с доклада за неутрализирането и твърдението на Camille, че не са стигнали Silo 17.
 - Самата радиовръзка не доказва физическо достигане до Silo 17.
 - Радиоконтактът кара групата в Silo 18 да прекрати плана за взривяване на Judicial и търсене/запушване на safeguard pipe-а.
 
-### S03E07 — safeguard / knowledge boundary
+### S03E07 — Safeguard / граница на знанието
 
-- „Гласът“ заключава от записа на Juliette и mass-casualty field-а, че Silo 17 е успял да блокира safeguard-а поне временно.
-- Това потвърждава practical safeguard defeat, без да прави exterior-а безопасен.
-- „Гласът“ твърди пред Camille, че safeguard-ът е непреодолим; claim-ът е в напрежение със Silo 17 outcome-а.
-- Познатият poison pipe остава confirmed component, но не се приема автоматично като единствен delivery path.
-- Camille и „Гласът“ правят inference, че Juliette може да цели блокиране на safeguard-а; това показва, че не знаят пълния ѝ intent.
-- Camille пита Juliette дали децата са били единствената причина за Silo 17 mission-а.
+- „Гласът“ заключава от записа на Juliette и полето с масови жертви, че Silo 17 е успял да блокира Safeguard поне временно.
+- Това потвърждава практическо временно преодоляване на Safeguard, без да прави външната среда безопасна.
+- „Гласът“ твърди пред Camille, че Safeguard е непреодолим; твърдението е в напрежение с резултата в Silo 17.
+- Познатата тръба за отрова остава потвърден компонент, но не се приема автоматично като единствен път за доставка.
+- Camille и „Гласът“ правят извод, че Juliette може да цели блокиране на Safeguard; това показва, че не знаят пълното ѝ намерение.
+- Camille пита Juliette дали децата са били единствената причина за мисията към Silo 17.
 
-### S03E07 — console / visual feed control
+### S03E07 — конзола / контрол на визуалния видеопоток
 
-- Показан е low-level command-line/system interface с reboot и security-bypass operations.
-- Console warning-ът директно казва: `Live feed replaced with null visual. Looping static image.`
-- Следователно в показания subsystem има practical live-feed → static-loop substitution.
-- Relation към cleaner lush overlay, cafeteria display и други visual pipelines остава unresolved.
+- Показан е нискониво команден/системен интерфейс с операции за рестартиране и заобикаляне на сигурността.
+- Предупреждението на конзолата директно казва: `Live feed replaced with null visual. Looping static image.`
+- Следователно в показаната подсистема има практическа подмяна на видеопоток на живо със статичен цикъл.
+- Връзката с фалшивото зелено наслагване при почистване, публичния екран в кафетерията и другите визуални канали остава неизяснена.
 
-### S03E07 — exterior night / stars
+### S03E07 — външна нощ / звезди
 
 - Kyle и Kennedy са директно показани навън през нощта.
-- Реалното exterior sky показва ясни звезди.
-- Това дава comparison anchor за по-ранните public-display star patterns, без да доказва geometric identity.
+- Реалното небе във външната среда показва ясни звезди.
+- Това дава ориентир за сравнение с по-ранните звездни модели на публичния екран, без да доказва геометрична идентичност.
 
-### S03E07 — sister memory / NDA
+### S03E07 — паметта на сестрата / NDA
 
-- Сестрата на Daniel Keen е физически възстановена, но има fragmented memories.
+- Сестрата на Daniel Keen е физически възстановена, но има фрагментирани спомени.
 - Значителна част от autobiographical account-а ѝ идва от това, което други са ѝ казали.
 - Тя вече е подписала NDA и има sensitive information, което не може да disclose-не на Keen преди неговия read-in.
 - Keen трябва да подпише собствен NDA, след което двамата трябва да се качат на private aircraft за full briefing.
