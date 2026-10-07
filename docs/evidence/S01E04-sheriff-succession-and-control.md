@@ -1,63 +1,63 @@
-# S01E04 — Sheriff succession и institutional control
+# S01E04 — Наследяване на шерифа и институционален контрол
 
 **Knowledge boundary:** `S01E04`
 
 ## Claim under test
 
-S01E04 показва, че изборът на Sheriff не е routine personnel decision, а **institutional power contest**.
+S01E04 показва, че изборът на Sheriff не е рутинно кадрово решение, а **институционален конфликт за власт**.
 
 ## Direct / high-confidence observations
 
-- Holston вече е номинирал Juliette като successor.
-- Mayor подкрепя/утвърждава Juliette въпреки Bernard/IT opposition.
+- Holston вече е номинирал Juliette за свой наследник.
+- Кметът подкрепя/утвърждава Juliette въпреки противопоставянето на Bernard/IT.
 - В S01E04 Judicial също се противопоставя на Juliette.
-- Judicial предпочита собствен/preferred кандидат.
-- Deputy Sheriff умира при apparent suspicious circumstances.
+- Judicial предпочита собствен/съгласуван кандидат.
+- Заместник-шерифът умира при привидно подозрителни обстоятелства.
 
 ## Силен извод
 
-Sheriff’s Department има достатъчно institutional value, за да бъде предмет на конкуренция между power centers.
+Sheriff’s Department има достатъчна институционална стойност, за да бъде предмет на конкуренция между центрове на власт.
 
-Това е съвместимо с модел, при който контролът върху Sheriff’s Department означава indirect control върху law-enforcement capability.
+Това е съвместимо с модел, при който контролът върху Sheriff’s Department означава непряк контрол върху способността за прилагане на закона.
 
 Но към S01E04 **не е доказано**:
 
-- че Sheriff’s Department е formally subordinate на Judicial;
-- че preferred candidate е covert Judicial operative;
+- че Sheriff’s Department формално е подчинен на Judicial;
+- че предпочитаният кандидат е таен оперативен служител на Judicial;
 - че Judicial е свързан със смъртта на Mayor;
 - че Judicial е свързан със смъртта на Deputy Sheriff;
 - че Bernard/IT и Judicial действат координирано.
 
 ## H23
 
-> **Sheriff succession е institutional power contest; Judicial се опитва да наложи preferred/aligned кандидат вместо Juliette.**
+> **Наследяването на Sheriff е институционален конфликт за власт; Judicial се опитва да наложи предпочитан/съгласуван кандидат вместо Juliette.**
 
 **Confidence:** H  
 **Status:** Active
 
 ## H21 — update
 
-Предишният H21 беше ограничен до възможна връзка между смъртта на Mayor и Juliette appointment-а.
+Предишната H21 беше ограничена до възможна връзка между смъртта на кмета и назначаването на Juliette.
 
-След S01E04 hypothesis-ът се refactor-ва:
+След S01E04 хипотезата се преформулира:
 
-> **Violence around Mayor/Sheriff leadership може да е свързано с appointment/control conflict около Juliette.**
+> **Насилието около ръководството на кмета/шерифа може да е свързано с конфликта за назначение/контрол около Juliette.**
 
 **Confidence:** M  
 **Status:** Strengthened
 
-Това е circumstantial pattern, не attribution.
+Това е косвен модел, а не приписване на отговорност.
 
 ## Falsification / future tests
 
 H23 ще отслабне, ако:
 
-- Judicial няма реален interest/role в Sheriff appointment;
-- preferred candidate се окаже independent от Judicial;
-- conflict-ът се обясни само с procedural/qualification concerns.
+- Judicial няма реален интерес/роля в назначаването на Sheriff;
+- предпочитаният кандидат се окаже независим от Judicial;
+- конфликтът се обясни само с процедурни изисквания/квалификации.
 
 H21 ще отслабне, ако:
 
-- Mayor и Deputy deaths получат отделни, independently supported motives;
-- няма connection към succession или Sheriff control;
-- Juliette appointment се окаже irrelevant към perpetrators/motive.
+- смъртта на кмета и заместник-шерифа получи отделни, независимо подкрепени мотиви;
+- няма връзка с наследяването или контрола над Sheriff;
+- назначаването на Juliette се окаже без значение за извършителите/мотива.
