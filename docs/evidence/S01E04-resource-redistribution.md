@@ -2,17 +2,17 @@
 
 **Knowledge boundary:** `S01E04`
 
-S01E04 показва бележка към new occupant, която инструктира unwanted items на previous tenant да бъдат изпратени в `recycling`, за да бъдат `properly redistributed`.
+S01E04 показва бележка към нов обитател, която инструктира нежеланите вещи на предишния наемател да бъдат изпратени в `recycling`, за да бъдат `properly redistributed`.
 
 ## Директни доказателства
 
-- previous-occupant durable items могат да останат в reassigned space;
-- unwanted items трябва да се върнат към formal recycling flow;
-- целта е redistribution, не просто disposal.
+- трайните вещи на предишния обитател могат да останат в повторно разпределеното жилищно пространство;
+- нежеланите вещи трябва да се върнат към формалния поток за рециклиране;
+- целта е преразпределение, а не просто изхвърляне.
 
 ## Силен извод
 
-Silo използва closed-loop material model:
+Силозът използва модел на затворен материален цикъл:
 
 ```text
 use / assignment
@@ -27,21 +27,21 @@ sort / redistribute
      reuse
 ```
 
-Това е rational design за closed environment с high material scarcity.
+Това е рационален дизайн за затворена среда с висок недостиг на материали.
 
 ## H24
 
-> **Silo поддържа centralized circular resource economy, в която durable goods се връщат, сортират и redistribut-ват вместо да се изхвърлят свободно.**
+> **Силозът поддържа централизирана кръгова ресурсна икономика, в която трайните вещи се връщат, сортират и преразпределят, вместо да се изхвърлят свободно.**
 
 **Confidence:** H  
 **Status:** Active
 
 ## Не е доказано
 
-- че private property не съществува;
-- че всички durable goods принадлежат на Silo;
-- че recycling винаги означава direct reuse;
-- че residents нямат informal/secondary markets.
+- че частната собственост не съществува;
+- че всички трайни вещи принадлежат на Силоза;
+- че рециклирането винаги означава директна повторна употреба;
+- че жителите нямат неформални/вторични пазари.
 
 ## Бъдещи проверки
 
@@ -49,4 +49,4 @@ sort / redistribute
 - inheritance / belongings after death;
 - repair vs replacement rules;
 - official redistribution centers;
-- markets / trade / barter извън central allocation.
+- пазари / търговия / бартер извън централното разпределение.
