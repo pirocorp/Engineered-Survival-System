@@ -1329,252 +1329,253 @@ SILO 1 SUPERVISORY / CONTINUITY LAYER
 
 ---
 
-## Hidden lower-system / supervisory model след S03E05
+## Модел на скритата долна / надзорна система след S03E05
 
 ```text
-PUBLIC / ORDINARY SILO
+ПУБЛИЧЕН / ОБИКНОВЕН СИЛОЗ
         │
         ▼
-privileged IT / surveillance / continuity layer
+привилегирован слой IT / наблюдение / непрекъснатост
         │
         ├─ The Order
-        ├─ memory-control protocol
-        └─ local governance / enforcement
+        ├─ протокол за контрол върху паметта
+        └─ локално управление / прилагане
         │
         ▼
-„ГЛАСЪТ“ / SUPERVISORY INTERFACE — technical identity unresolved
+„ГЛАСЪТ“ / НАДЗОРЕН ИНТЕРФЕЙС — техническата природа остава неизяснена
         │
-        ├─ knows Juliette treatment/status
-        ├─ evaluates state as `beyond The Order`
-        ├─ semantically evaluates deception/covert behavior
-        ├─ models Juliette risk vs stabilizing utility
-        ├─ requests dosage escalation
-        ├─ plans waterborne population-control contingency
-        ├─ enforces cross-Silo contact as safeguard violation
-        ├─ дава privileged instructions/read-in на Head of IT
+        ├─ знае състоянието и лечението на Juliette
+        ├─ оценява състоянието като `beyond The Order`
+        ├─ семантично оценява измама и тайно поведение
+        ├─ моделира риска от Juliette спрямо стабилизиращата ѝ стойност
+        ├─ иска увеличаване на дозата
+        ├─ планира резервно дозиране на населението чрез водата
+        ├─ третира междусилозния контакт като нарушение, задействащо Safeguard
+        ├─ дава привилегировани инструкции/посвещаване на ръководителя на IT
         ├─ Bernard казва, че го иска мъртъв
-        ├─ S03E09 Bernard допуска human operator(s) in Silo 1 [character hypothesis]
-        └─ selects/persuades human operatives for lethal action
+        ├─ в S03E09 Bernard допуска човешки оператор(и) в Silo 1 [хипотеза на персонаж]
+        └─ избира/убеждава човешки изпълнители за смъртоносни действия
         │
         ▼
-deep infrastructure / multiple access paths
+дълбока инфраструктура / множество пътища за достъп
         │
-        ├─ mine sector around Level 70
-        ├─ concealed route → hidden door → tunnel → rope descent → abyss/digger zone
-        ├─ Bernard е скрит жив в deep zone чрез fake-death operation на Robert/Mechanical
-        └─ previous hidden lower contact/system
+        ├─ минен сектор около ниво 70
+        ├─ скрит маршрут → скрита врата → тунел → въже → пропаст/изкопна машина
+        ├─ Bernard е скрит жив в дълбоката зона чрез операцията за фалшива смърт на Robert/Mechanical
+        └─ по-ранен скрит долен контакт/система
                │
-               └─ possible same network/controller ?
+               └─ възможна обща мрежа/контролиращ субект ?
         │
         ▼
-safeguard infrastructure
- external supply → Level 14 pipe → poison → whole-Silo kill
-                         │
-                         └─ physically blockable
+инфраструктура на Safeguard
+ външно подаване → тръба при ниво 14 → отрова → унищожение на целия Силоз
+                                      │
+                                      └─ физически прекъсваема
 ```
 
 Граници:
-- `computer/system = hidden lower contact` не е direct-confirmed; това е H80.
-- exact final controller/activation path на safeguard-а остава unknown; Bernard заявява, че Juliette знае как да го спре.
-- `beyond The Order` не доказва authorship на The Order или absolute authority над всички Silos.
-- ordinary/known deep access може да бъде sealed while concealed alternate access remains functional.
-- Lukas' location is resolved to the mines; original purpose and relation to concealed abyss route remain unresolved.
-- Bernard е жив в deep zone; organizer-ът на route/concealment-а е largely resolved до Robert + Mechanical, но причината Robert да се откаже от убийството остава unresolved.
-- outside environmental hazard остава separate lethal mechanism.
+- `computer/system = hidden lower contact` не е директно потвърдено; това е H80.
+- Точният краен контролиращ субект и пътят за задействане на Safeguard остават неизвестни; Bernard заявява, че Juliette знае как да го спре.
+- `beyond The Order` не доказва авторство на The Order или абсолютна власт над всички силози.
+- Обичайният/познат дълбок достъп може да бъде запечатан, докато скрит алтернативен достъп остава функционален.
+- Местоположението на Lukas е разрешено до мините; първоначалната му цел и връзката със скрития маршрут към пропастта остават неизяснени.
+- Bernard е жив в дълбоката зона; организаторът на маршрута/укриването до голяма степен е разрешен до Robert + Mechanical, но причината Robert да се откаже от убийството остава неизяснена.
+- Опасността във външната среда остава отделен смъртоносен механизъм.
+
 ---
 
-## Surveillance / privileged-control model след S03E05
+## Модел на наблюдението / привилегирования контрол след S03E05
 
-S03E05 показва още по-дълбок split: Camille е нов Head of IT с privileged Voice/safeguard read-in, докато Robert е compartmentalized и covertly действа срещу lethal line-а ѝ. Подкрепата от nurse + Mechanical и защитната линия на Robert може да се припокриват в една counter-network, но пълната coordination остава unresolved.
+S03E05 показва още по-дълбоко разделение: Camille е новият ръководител на IT с привилегировано посвещаване в „Гласът“/Safeguard, докато Robert е държан извън част от знанието и тайно действа срещу смъртоносната ѝ линия. Подкрепата от медицинската сестра + Mechanical и защитната линия на Robert може да се припокриват в една противомрежа, но пълната координация остава неизяснена.
 
 ```text
-Juliette / Mayor
+Juliette / кмет
       │
-      ├─ surveillance feed → Sims / control room
-      ├─ retrieval-suppression medication
-      ├─ false `bunker` replacement narrative
-      └─ monitored for memory recovery
+      ├─ видеопоток от наблюдението → Sims / контролно помещение
+      ├─ лекарство за потискане на извличането на спомени
+      ├─ фалшив заместващ разказ за `bunker`
+      └─ наблюдение за възстановяване на паметта
                  │
                  ▼
-         computer/system
-         ├─ knows treatment + covert behavior
-         ├─ semantic deception/risk assessment
-         ├─ `beyond The Order` assessment
-         ├─ Juliette utility-vs-risk threshold
-         ├─ water-supply `Vitamin D+` contingency
-         ├─ cross-Silo safeguard enforcement
-         └─ Camille selection / Juliette kill objective
+         компютърна система
+         ├─ знае за лечението + тайното поведение
+         ├─ семантично оценява измама/риск
+         ├─ оценява ситуацията като `beyond The Order`
+         ├─ моделира полезността на Juliette спрямо риска
+         ├─ планира резервно подаване на `Vitamin D+` във водата
+         ├─ налага междусилозна изолация чрез Safeguard
+         └─ избира Camille / поставя смъртоносна цел срещу Juliette
 ```
 
 S02E02 разширява модела за скрит контрол отвъд обикновеното вътрешно наблюдение.
 
 ```text
-internal mirror cameras / archived feeds
+вътрешни камери в огледалата / архивирани видеопотоци
                  │
                  ▼
-       Sims operational command
+       оперативно командване от Sims
                  │
                  ▼
-      day-to-day surveillance
+      ежедневен слой за наблюдение
                  │
                  └──────────────┐
                                 │
-                 Bernard / secured IT layer
+                 Bernard / защитен IT слой
                  │              │
-                 ├─ classified cleaning truth
-                 ├─ live Juliette-associated exterior feed
+                 ├─ класифицираната истина за почистването
+                 ├─ видеопоток на живо от външната среда, свързан с Juliette
                  ├─ THE ORDER
-                 ├─ privileged archive/display control
-                 └─ can compartmentalize Sims/personnel
+                 ├─ привилегирован контрол върху архиви/екрани
+                 └─ може да разделя информацията спрямо Sims/персонала
                                 │
-                                └─ Judge Meadows is read into
-                                   at least THE ORDER + tape secret
+                                └─ Judge Meadows е посветена поне
+                                   в THE ORDER + тайната за лентата
 ```
 
-Това подкрепя **ограничен read-in управленски слой**, а не просто частно знание на един човек.
+Това подкрепя **управленски слой с ограничено посвещаване**, а не просто частно знание на един човек.
 
-S02E03 добавя, че привилегированият слой на Bernard включва и отдавнашно знание за failed/dead статуса на Silo 17, докато Sims демонстрира целева фармакологична способност за ограничаване на информацията. Знанието на Bernard остава частично, а не приемано за всезнаещо.
+S02E03 добавя, че привилегированият слой на Bernard включва и отдавнашно знание за проваления/„мъртъв“ статус на Silo 17, докато Sims демонстрира целева фармакологична способност за ограничаване на информацията. Знанието на Bernard остава частично, а не се приема за всезнаещо.
 
-S02E04 допълнително показва, че този layer **не е politically monolithic**: Bernard приписва impeachment pressure срещу Meadows на Sims, докато Sims активно mobilize-ва sentiment срещу Mechanical. Едновременно с това Bernard използва `THE ORDER`, за да shape-не отделна scapegoating operation.
+S02E04 допълнително показва, че този слой **не е политически монолитен**: Bernard приписва натиска за отстраняване на Meadows на Sims, докато Sims активно мобилизира обществените нагласи срещу Mechanical. Едновременно с това Bernard използва `THE ORDER`, за да оформи отделна операция за натопяване.
 
-S02E05 прави йерархията по-конкретна: Bernard отстранява Sims от Security, отказва му `shadow` пътя за наследяване и го назначава за Judge. Публичната власт на Judicial и привилегированото IT наследяване следователно са отделни слоеве, докато независимото политическо влияние на Sims все още не позволява простия модел „Bernard контролира всичко“.
+S02E05 прави йерархията по-конкретна: Bernard отстранява Sims от Security, отказва му пътя за наследяване като `shadow` и го назначава за Judge. Публичната власт на Judicial и привилегированото IT наследяване следователно са отделни слоеве, докато независимото политическо влияние на Sims все още не позволява простия модел „Bernard контролира всичко“.
 
-S02E06 добавя **контрол върху комуникационната инфраструктура** към демонстрирания домейн на Bernard/IT. Институционалното direct messaging съществува, control room приема маршрутизирани полеви доклади, а IT може да изключва радио слоя на Silo. Това не доказва, че IT чете всяко съобщение или контролира всеки комуникационен канал, но установява реална способност за контрол на комуникационна choke point.
+S02E06 добавя **контрол върху комуникационната инфраструктура** към демонстрирания домейн на Bernard/IT. Институционалните директни съобщения съществуват, контролното помещение приема маршрутизирани полеви доклади, а IT може да изключва радиослоя на Силоза. Това не доказва, че IT чете всяко съобщение или контролира всеки комуникационен канал, но установява реална способност за контрол върху комуникационна точка на зависимост.
 
-S02E07 добавя конкретен **механизъм за институционална памет** и видима привилегия на приемствеността: vault-ът съдържа `Legacy`, докато IT остава захранен по време на по-широк blackout в Silo 18. Привилегированият слой следователно запазва не само класифициран достъп и контрол върху комуникациите, но и знание и оперативна приемственост.
+S02E07 добавя конкретен **механизъм за институционална памет** и видима привилегия на приемствеността: трезорът съдържа `Legacy`, докато IT остава захранен по време на по-широко прекъсване в Silo 18. Привилегированият слой следователно запазва не само класифициран достъп и контрол върху комуникациите, но и знание и оперативна непрекъснатост.
 
 S02E08 изяснява асиметрията: публичният исторически слой е умишлено прекъснат при Quinn, докато привилегированото знание оцелява достатъчно, за да може Bernard да знае скрития разказ за Quinn, а `Legacy` да запази защитен материал. Това подкрепя **контролиран исторически монопол**, а не пълно унищожаване на историята.
 
-It still does **not** establish:
-- пълния membership на този layer;
+Все още **не** е установено:
+- пълното членство в този слой;
 - дали Sims знае части от `THE ORDER`;
-- who authored `THE ORDER`;
-- дали съществува current authority над Bernard/Meadows;
-- дали този layer е centrally coordinated във всички Silos.
+- кой е авторът на `THE ORDER`;
+- дали съществува текуща власт над Bernard/Meadows;
+- дали този слой е централно координиран във всички силози.
 
 ---
 
-## IT continuity / Legacy model after S02E08
+## Модел на IT непрекъснатостта / Legacy след S02E08
 
 ```text
-SECURED IT VAULT
+ЗАЩИТЕН IT ТРЕЗОР
       │
-      ├─ hardened protected space
-      ├─ residential / living capability
-      ├─ continuity power
+      ├─ укрепено защитено пространство
+      ├─ възможност за обитаване
+      ├─ захранване за непрекъснатост
       └─ LEGACY
            │
            ▼
-   protected knowledge archive
+   защитен архив на знания
            │
            ▼
- succession / future IT custodian
+ наследяване / бъдещ пазител на IT
 ```
 
-Cross-Silo support:
+Междусилозна подкрепа:
 
 ```text
 Silo 17
-vault + survivor + independent IT power
+трезор + оцелял + независимо IT захранване
             │
-            └─ Legacy not yet directly named
+            └─ Legacy все още не е директно назован
 
 Silo 18
-vault + residential space + Legacy + blackout-resilient IT power
+трезор + жилищно пространство + Legacy + устойчиво на прекъсване IT захранване
 ```
 
-Най-силният текущ модел е стандартизиран IT слой за приемственост, но точната идентичност на компонентите във всичките 50 Silos остава неустановена.
+Най-силният текущ модел е стандартизиран IT слой за непрекъснатост, но точната идентичност на компонентите във всичките 50 силоза остава неустановена.
 
 ---
 
-## Communications architecture after S02E06
+## Комуникационна архитектура след S02E06
 
 ```text
-GENERAL / PHYSICAL LAYER
-residents / departments
+ОБЩ / ФИЗИЧЕСКИ СЛОЙ
+жители / отдели
         │
         ▼
-physical couriers
+физически куриери
         │
-        └─ broad delivery + physical items
-           exact access/privacy role unresolved
+        └─ широко доставяне + физически предмети
+           точната роля на достъпа/поверителността остава неизяснена
 
 
-INSTITUTIONAL DIGITAL LAYER
-authorized terminal users
+ИНСТИТУЦИОНАЛЕН ЦИФРОВ СЛОЙ
+оторизирани потребители на терминали
         │
         ▼
 DIRECT MESSAGING
         │
-        ├─ departments
-        ├─ named individuals
-        └─ routed field reports → control room
+        ├─ отдели
+        ├─ поименно посочени лица
+        └─ маршрутизирани полеви доклади → контролно помещение
 
 
-OPERATIONAL RADIO LAYER
-field / security coordination
+ОПЕРАТИВЕН РАДИОСЛОЙ
+координация на терен / охрана
         │
         ▼
-radio infrastructure
+радиоинфраструктура
         │
-        └─ Bernard / IT can disable Silo-wide
+        └─ Bernard / IT може да я изключи в целия Силоз
 ```
 
-Това е многослоен модел на достъп, а не доказателство, че всяко digital message се наблюдава или че обикновените жители нямат никакъв електронен достъп.
+Това е многослоен модел на достъп, а не доказателство, че всяко цифрово съобщение се наблюдава или че обикновените жители нямат никакъв електронен достъп.
 
-Ключовото ново разграничение е:
+Ключовото разграничение е:
 
 > **Комуникационната технология съществува; достъпът и възможността за контрол са ограничени променливи.**
 
 ---
 
-## Continuity-power / flooding model за Silo 17 след S02E05
+## Модел на захранването за непрекъснатост / наводнението в Silo 17 след S02E05
 
 ```text
-normal Silo power
-steam / turbine / generator
+нормално захранване на Силоза
+пара / турбина / генератор
           │
-          └─ fails after generator flooding
+          └─ отказва след наводняване на генератора
                      ▲
                      │
-Level 144 pump destroyed during rebellion
+помпа на ниво 144 е унищожена по време на бунта
           │
           ▼
-water rises through Mechanical
+водата се покачва през Mechanical
           │
           ▼
-generator floods
-          
-SEPARATE CONTINUITY PATH
+генераторът се наводнява
 
-външен/outside източник (описание от персонаж)
+ОТДЕЛЕН ПЪТ ЗА НЕПРЕКЪСНАТОСТ
+
+външен източник (описание от персонаж)
           │
           ▼
-       IT / vault
+       IT / трезор
           │
-          ├─ remains powered after collapse
-          └─ can potentially power recovery pump
+          ├─ остава захранен след срива
+          └─ потенциално може да захрани помпа за възстановяване
                      │
                      ▼
-             stop / slow flooding
+             спиране / забавяне на наводняването
 ```
 
-Това силно upgrade-ва IT от privileged information compartment към hardened **continuity infrastructure layer**.
+Това силно повишава ролята на IT от привилегировано информационно отделение към укрепен **инфраструктурен слой за непрекъснатост**.
 
-Exact external source, generation technology, capacity и routing остават unresolved.
+Точният външен източник, технологията за генериране, капацитетът и маршрутизирането остават неизяснени.
 
 ---
 
-## Competing crisis narratives after S02E07
+## Конкуриращи се кризисни разкази след S02E07
 
 ```text
-BERNARD / IT NARRATIVE
-Mechanical = designated crisis culprit
+РАЗКАЗ НА BERNARD / IT
+Mechanical = предварително определен виновник при криза
         │
         ▼
-инсценировка около Meadows / anti-Mechanical мобилизация
+инсценировка около Meadows / мобилизация срещу Mechanical
 
-PHYSICAL COUNTER-NARRATIVE
+ФИЗИЧЕСКИ КОНТРАРАЗКАЗ
 "I.T. Lies to us"
 "Mechanical wants THE TRUTH"
         │
@@ -1585,187 +1586,186 @@ PHYSICAL COUNTER-NARRATIVE
 
 Бележката доказва конкуриращи се послания, а не истинността на всяко твърдение или официално авторство от Mechanical.
 
-Blackout-ът добавя visible asymmetry: normal areas губят power, докато IT остава lit, което дава на residents direct evidence, че IT притежава privileged infrastructure.
+Прекъсването на захранването добавя видима асиметрия: обичайните зони губят ток, докато IT остава осветен, което дава на жителите пряко доказателство, че IT притежава привилегирована инфраструктура.
 
 ---
 
-## Crisis-shaping chain after S02E04
+## Верига за оформяне на кризата след S02E04
 
 ```text
-leadership / rebellion risk
+риск за ръководството / бунт
           │
           ▼
 THE ORDER определя Mechanical като мишена за обвинение
           │
           ▼
-Bernard kills Meadows
+Bernard убива Meadows
           │
           ▼
-Представители на Mechanical пристигат на инсценираната сцена
+представители на Mechanical пристигат на инсценираната сцена
           │
           ▼
-става възможен false culpability narrative
+става възможен фалшив разказ за виновност
           │
           ▼
-Sims насочва общественото настроение срещу Mechanical
+Sims насочва обществените нагласи срещу Mechanical
           │
           ▼
-population polarization / unrest
+поляризация на населението / размирици
 ```
 
-Това е по-силно от post-hoc propaganda: S02E04 показва **event construction + blame assignment + public mobilization**, действащи като linked crisis-management mechanisms.
+Това е по-силно от последваща пропаганда: S02E04 показва **конструиране на събитието + задаване на виновник + обществена мобилизация**, действащи като свързани механизми за управление на криза.
 
 ---
 
-## Institutional coercion chain after S01E10
+## Верига на институционалната принуда след S01E10
 
 ```text
-Mayor + Sims coordinated trap
+координиран капан на кмета + Sims
           │
           ▼
-claim: Juliette said she wants to go out
+твърдение: Juliette е казала, че иска да излезе
           │
           ▼
-no independent witness established
+не е установен независим свидетел
           │
           ▼
-институционален arrest / trigger към cleaning path
+институционален арест / задействане на пътя към почистване
 ```
 
-Това е по-силно от false narrative след факта: самият disputed/false claim се използва като predicate за immediate coercive action.
+Това е по-силно от фалшив разказ след факта: самото оспорвано/невярно твърдение се използва като предпоставка за незабавно принудително действие.
 
 ---
 
-## Historical-erasure model after S02E08
+## Модел на историческото заличаване след S02E08
 
 ```text
-PRE-QUINN SILO
-recurring rebellions ~ every 20 years
-хората запазват знание за предишни rebellions
+СИЛОЗЪТ ПРЕДИ QUINN
+повтарящи се бунтове приблизително на всеки 20 години
+хората запазват знание за предишните бунтове
               │
               ▼
-QUINN'S DIAGNOSIS
-историческата continuity подпомага възпроизвеждането на rebellion
+ДИАГНОЗАТА НА QUINN
+историческата приемственост подпомага възпроизвеждането на бунта
               │
               ▼
-DELIBERATE RESET
-  ├─ historical server access removed
-  ├─ books confiscated
-  ├─ historical loss blamed on rebels
-  └─ химикал, потискащ паметта, във водата
+УМИШЛЕНО НУЛИРАНЕ
+  ├─ премахнат достъп до историческите сървъри
+  ├─ конфискувани книги
+  ├─ историческата загуба е приписана на бунтовниците
+  └─ химикал за потискане на паметта във водата
               │
               ▼
 ХРОНИЧНО ИЗЛАГАНЕ
-weeks → months → years
+седмици → месеци → години
               │
               ▼
-спомените избледняват / обществената continuity се разпада
+спомените избледняват / обществената приемственост се разпада
               │
               ▼
-MAINTENANCE LAYER
-ограничения върху relics + контролирани archives
+ПОДДЪРЖАЩ СЛОЙ
+ограничения върху реликвите + контролирани архиви
               │
               ▼
-~140 years of peace
-(Bernard's causal assessment)
+~140 години мир
+(причинна оценка на Bernard)
 ```
 
-Critical distinction:
+Критично разграничение:
 
 ```text
-PUBLIC
-history access removed
-books/relics suppressed
-memory pharmacologically weakened
+ПУБЛИЧЕН СЛОЙ
+достъпът до историята е премахнат
+книгите/реликвите са потиснати
+паметта е фармакологично отслабена
 
-        versus
+        спрямо
 
-PRIVILEGED CONTINUITY
-Legacy / protected records
-Quinn truth survives
-Bernard запазва скрита chronology/history
+ПРИВИЛЕГИРОВАНА ПРИЕМСТВЕНОСТ
+Legacy / защитени записи
+истината за Quinn оцелява
+Bernard запазва скрита хронология/история
 ```
 
-Това вече не се моделира най-добре като проста случайна историческа загуба. Най-силният текущ модел е **умишлен публичен исторически reset + привилегировано съхраняване**.
+Това вече не се моделира най-добре като проста случайна историческа загуба. Най-силният текущ модел е **умишлено публично историческо нулиране + привилегировано съхраняване**.
 
-Still unresolved:
-- дали diagnosis на Quinn е била correct;
-- exact waterborne drug;
-- дали current forgetfulness medication от S02E03 е същото substance;
+Все още неизяснени:
+- дали диагнозата на Quinn е била правилна;
+- точното лекарство във водата;
+- дали текущото лекарство за забравяне от S02E03 е същото вещество;
 - кой е бил освободен/защитен от излагането;
-- when dosing stopped;
-- exact relationship между reset-а на Quinn и modern relic enforcement.
-
+- кога дозирането е спряло;
+- точната връзка между нулирането на Quinn и съвременното налагане на ограниченията върху реликвите.
 
 ---
 
-## Flamekeeper intergenerational model
+## Междупоколенчески модел на Flamekeepers
 
 ```text
-            Flamekeeper network
+            мрежа на Flamekeepers
              /              \
-Juliette's mother        George's mother
+майката на Juliette      майката на George
        │                      │
     Juliette                George
              \              /
-              later connection
+              по-късна връзка
 ```
 
-Общата business/work relationship на майките прави family bridge direct, а не speculative.
+Общата делова/професионална връзка на майките прави семейния мост пряк, а не спекулативен.
 
 ---
 
-## Reproductive-control evidence chain
+## Верига на доказателствата за репродуктивния контрол
 
 ```text
 S01E01
-Allison физически открива оставения implant
+Allison физически открива оставения имплант
         │
         ▼
 S01E07
-Бащата на Juliette признава измамата с премахването на implant
+бащата на Juliette признава измамата с премахването на импланта
         │
         ▼
 S02E03
 CODE SILO ORANGE изрично формализира измамата
         │
         ▼
-скрит medical reproductive-control mechanism — CONFIRMED
+скрит медицински механизъм за репродуктивен контрол — ПОТВЪРДЕН
 ```
 
-Historical targeting purpose срещу Flamekeeper family lines остава testimony-based.
+Историческата цел за насочване срещу семейните линии на Flamekeepers остава основана на свидетелство.
 
 ---
 
-## Season 2 close — unresolved targets
+## Финал на сезон 2 — неизяснени цели
 
-След края на S02E10 активните falsification / future-testing targets са:
+След края на S02E10 активните цели за опровержение / бъдещо тестване са:
 
-- защо Quinn/earlier testimony дават 50, а Bernard казва 51;
-- identity/function на possible 51st installation;
+- защо Quinn/по-ранното свидетелство дават 50, а Bernard казва 51;
+- самоличността/функцията на възможното 51-во съоръжение;
 - кой/какво стои зад скрития долен събеседник/система;
-- relation между lower contact и safeguard control authority;
-- upstream source и exact poison agent на safeguard-а;
-- exact trigger logic отвъд disclosure condition;
-- как lower system detect-ва disclosure и visitors;
-- дали Level 14 safeguard interface е standardized във всички Silos;
-- как Silo 17 parents са открили и physically block-нали pipe-а;
-- дали block може да бъде remotely bypassed/reversed;
-- какъв stopping method Juliette има предвид;
-- exact function на burner/flame airlock cycle;
-- exact command/access path за Silo 18 hatch;
-- дали Juliette's exterior warning е достигнал residents unfiltered;
-- exact chronology/date на direct pre-Silo Washington scene;
+- връзката между долния контакт и властта за управление на Safeguard;
+- източникът нагоре по веригата и точният отровен агент на Safeguard;
+- точната логика за задействане отвъд условието за разкриване;
+- как долната система засича разкриването и посетителите;
+- дали интерфейсът на Safeguard при ниво 14 е стандартизиран във всички силози;
+- как родителите в Silo 17 са открили и физически блокирали тръбата;
+- дали блокирането може дистанционно да бъде заобиколено/обърнато;
+- какъв метод за спиране има предвид Juliette;
+- точната функция на огнения цикъл в шлюза;
+- точният команден/достъпен път за люка на Silo 18;
+- дали външното предупреждение на Juliette е достигнало жителите без филтриране;
+- точната хронология/дата на пряката сцена във Washington преди силозите;
 - самоличността/ролята и институционалният достъп на жената в сцената в бара;
-- дали alleged radiological attack реално се е случила;
-- дали Iran attribution е factual, manipulated или false;
-- дали retaliatory strike е бил само обсъждан или operationally planned;
-- дали radiological-security environment е causal precursor към Silo project;
-- защо Georgia се повтаря като pre-Silo anchor;
-- дали Georgia има географска връзка със Silo инсталациите или само с произхода на персонажи/материали;
-- дали подаръкът PEZ в S02E10 е точно същата физическа реликва, която се появява в ерата на Silo, и ако да — каква е веригата на притежание;
-- original purpose на Silos и exact cause на exterior catastrophe;
-- коя текуща/дистанционна власт, ако има такава, стои над местния слой Head of IT.
+- дали предполагаемата радиологична атака реално се е случила;
+- дали приписването на Iran е фактическо, манипулирано или невярно;
+- дали ответният удар е бил само обсъждан или оперативно планиран;
+- дали средата за радиологична сигурност е причинен предшественик на проекта за силозите;
+- защо Georgia се повтаря като ориентир от периода преди силозите;
+- дали Georgia има географска връзка със силозните съоръжения или само с произхода на персонажи/материали;
+- дали подаръкът PEZ в S02E10 е точно същата физическа реликва, която се появява в ерата на силозите, и ако да — каква е веригата на притежание;
+- първоначалната цел на силозите и точната причина за катастрофата във външната среда;
+- коя текуща/дистанционна власт, ако има такава, стои над локалния слой на ръководителя на IT.
 
 Виж също:
 
