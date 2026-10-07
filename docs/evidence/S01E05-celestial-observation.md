@@ -1,17 +1,17 @@
-# S01E05 — Celestial observation и изгубено astronomical knowledge
+# S01E05 — Наблюдение на небето и изгубено астрономическо знание
 
 **Knowledge boundary:** `S01E05`
 
 ## Observation
 
-Cafeteria observer системно гледа night public display-а.
+Наблюдателят в кафетерията системно гледа нощния публичен екран.
 
 Той:
 
-- вижда множество star-like lights;
-- не използва/не знае concept-а „stars“;
-- разпознава stable W/zig-zag-like pattern;
-- води запис на movement/distance спрямо reference light през приблизително 30-дневни intervals.
+- вижда множество звездоподобни светлини;
+- не използва/не знае понятието „звезди“;
+- разпознава устойчив W/зигзагообразен модел;
+- води запис на движението/разстоянието спрямо референтна светлина през приблизително 30-дневни интервали.
 
 Visual evidence:
 
@@ -23,38 +23,38 @@ Visual evidence:
 
 ### 1. Lost knowledge
 
-Basic astronomical vocabulary/concepts не са normal inherited knowledge за този resident.
+Основният астрономически речник/понятия не са нормално наследено знание за този жител.
 
-Observer практически reconstruct-ва pattern recognition и periodic observation от first principles.
+Наблюдателят практически възстановява разпознаването на модели и периодичното наблюдение от първични принципи.
 
-Това strengthens H6 — historical/technical/scientific knowledge discontinuity е по-дълбока от забранени relics и archives.
+Това подсилва H6 — прекъсването на историческото/техническото/научното знание е по-дълбоко от забранените реликви и архиви.
 
 ### 2. Dynamic sky state
 
-Night display-ът има repeatable/systematic temporal structure, достатъчно последователна, за да бъде измервана през месечни интервали.
+Нощният екран има повтаряема/системна времева структура, достатъчно последователна, за да бъде измервана през месечни интервали.
 
-Това е по-силен constraint от S01E04 single night-state observation.
+Това е по-силно ограничение от единичното наблюдение на нощното състояние в S01E04.
 
 ## What this does NOT establish
 
-Не доказва, че display-ът е live feed от камера.
+Не доказва, че екранът е видеопоток на живо от камера.
 
-Същото behavior е compatible с:
+Същото поведение е съвместимо с:
 
 - live sky;
 - processed live sky;
 - prerecorded/time-indexed sequence;
 - synthetic astronomical simulation.
 
-Не правим geographic localization по звездите, докато не знаем:
+Не правим географска локализация по звездите, докато не знаем:
 
 - source authenticity;
 - orientation;
 - date/time;
-- повторяемост при независими observations.
+- повторяемостта при независими наблюдения.
 
 ## H6 impact
 
-**H6 — Post-Rebellion order умишлено потиска / е загубил substantial historical and scientific knowledge.**
+**H6 — Редът след Бунта умишлено потиска или е загубил значителна част от историческото и научното знание.**
 
 `H / Strengthened`
