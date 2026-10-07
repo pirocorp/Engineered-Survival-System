@@ -218,143 +218,143 @@
 - S02E07 разкрива жилищни помещения вътре в защитения IT трезор;
 - защитен компонент на трезора, наречен `Legacy`, е идентифициран като библиотека / архив на знания;
 - `Legacy` дава конкретен механизъм привилегированата институционална памет да оцелява през поколения/наследяване;
-- Bernard заявява, че Silo е построен преди **352 години**;
-- комбинирано с ~140-years-ago Rebellion anchor, construction е приблизително **212 години преди Rebellion**;
-- handwritten leaflet гласи `I.T. Lies to us`, `Mechanical wants THE TRUTH`, пита какво се е случило с Juliette, как наистина е умряла Meadows и какво крие IT;
-- leaflet-ът установява circulating anti-IT counter-narrative, но не и неговия author/distributor;
-- по време на general Silo 18 blackout IT остава видимо powered и жителите изрично забелязват изключението;
-- захранването за приемственост следователно е независимо демонстрирано поне в Silos 17 и 18, докато точното съответствие на източника остава неустановено.
-- S02E08 разкрива привилегирована алтернативна история според Bernard: Quinn не се е провалил по време на Rebellion, а умишлено е прекъснал публичната историческа приемственост;
-- Bernard казва, че бунтовете преди Quinn са се повтаряли приблизително на всеки 20 години и всеки е застрашавал целия Silo;
-- Quinn премахва публичния достъп до server записите, конфискува книги и позволява/причинява историческата загуба да бъде приписана на бунтовниците;
+- Bernard заявява, че Силозът е построен преди **352 години**;
+- комбинирано с ориентира, че Бунтът е бил преди ~140 години, строителството е приблизително **212 години преди Бунта**;
+- ръкописна листовка гласи `I.T. Lies to us` („IT ни лъже“), `Mechanical wants THE TRUTH` („Mechanical иска ИСТИНАТА“), пита какво се е случило с Juliette, как наистина е умряла Meadows и какво крие IT;
+- листовката установява разпространяващ се контраразказ срещу IT, но не и неговия автор/разпространител;
+- по време на общото прекъсване на захранването в Silo 18 IT остава видимо захранен и жителите изрично забелязват изключението;
+- захранването за непрекъснатост следователно е независимо демонстрирано поне в силози 17 и 18, докато точното съответствие на източника остава неустановено.
+- S02E08 разкрива привилегирована алтернативна история според Bernard: Quinn не се е провалил по време на Бунта, а умишлено е прекъснал публичната историческа приемственост;
+- Bernard казва, че бунтовете преди Quinn са се повтаряли приблизително на всеки 20 години и всеки е застрашавал целия Силоз;
+- Quinn премахва публичния достъп до сървърните записи, конфискува книги и позволява/причинява историческата загуба да бъде приписана на бунтовниците;
 - Bernard казва, че Quinn поставя химикал/лекарство, потискащо паметта, във водата; хроничното излагане в течение на седмици, месеци и години кара спомените да избледняват;
-- това независимо потвърждава по-ранното Flamekeeper свидетелство за паметта и водата и силно засилва модела за фармакологично потискане на паметта;
+- това независимо потвърждава по-ранното свидетелство на Flamekeepers за паметта и водата и силно засилва модела за фармакологично потискане на паметта;
 - Bernard приписва приблизително 140 години мир на намесата на Quinn, докато тази причинна диагноза остава привилегирована интерпретация, а не независимо доказателство;
 - по-ранното разследване на Quinn от Meadows вече е свързано с роднините на Quinn и оцелели книги/материали;
-- старо копие със заглавие `The Pact Between the Founders` носи ръкописното име `Salvador Quinn`; връзката е пряка, но авторството/статусът на Основател не са установени;
+- старо копие със заглавие `The Pact Between the Founders` носи ръкописното име `Salvador Quinn`; връзката е пряка, но авторството и статусът на Основател не са установени;
 - декодираното съобщение на Quinn гласи: `If you've gotten this far, you already know the game is rigged.` („Ако си стигнал дотук, вече знаеш, че играта е нагласена.“);
-- Judge Sims получава лично съобщение от R. Ahundsen, в което се споменават погребение и `little apple tree`; голяма овощна градина дава правдоподобен буквален референт, но евентуален кодиран замисъл остава неустановен;
-- Silo 17 директно съдържа множество живи обитатели, не само познатия досега оцелял от IT vault-а.
-- S02E09 показва организирана additional-survivor group в Silo 17; group-ът нарича IT-vault survivor-а „the killer“ и го използва като leverage за food;
-- vault-ът на Silo 17 директно съдържа голяма среда от книги, архиви и научно знание, функционално аналогична на `Legacy` в Silo 18, без официалното обозначение `Legacy` да е потвърдено;
-- decoded Quinn material казва: `The founders didn't build a single silo. They built fifty.` и `And they created the safeguard.`;
-- Bernard отделно заявява, че real count е **51**, а Heads of IT и shadows знаят за другите Silos;
+- Judge Sims получава лично съобщение от R. Ahundsen, в което се споменават погребение и `little apple tree` („малкото ябълково дърво“); голяма овощна градина дава правдоподобен буквален референт, но евентуален кодиран замисъл остава неустановен;
+- Silo 17 директно съдържа множество живи обитатели, не само познатия досега оцелял от IT трезора.
+- S02E09 показва организирана група допълнителни оцелели в Silo 17; групата нарича оцелелия от IT трезора „the killer“ („убиецът“) и го използва като средство за натиск за получаване на храна;
+- трезорът на Silo 17 директно съдържа голяма среда от книги, архиви и научно знание, функционално аналогична на `Legacy` в Silo 18, без официалното обозначение `Legacy` да е потвърдено;
+- декодираният материал на Quinn казва: `The founders didn't build a single silo. They built fifty.` („Основателите не построиха един Силоз. Построиха петдесет.“) и `And they created the safeguard.` („И създадоха Safeguard.“);
+- Bernard отделно заявява, че реалният брой е **51**, а ръководителите на IT и техните shadows знаят за другите силози;
 - Quinn оставя последователни указания за физическа проверка: `go to the very bottom` („слез до самото дъно“) → `find the tunnel` („намери тунела“) → `you will get confirmation there` („там ще получиш потвърждение“);
-- observed bottom zone на Silo 18 е shallow/passable, а real tunnel/opening действително е намерен;
-- в tunnel/lower zone active unknown interlocutor/system води context-aware two-way conversation с Lukas;
-- lower contact казва, че преди Lukas само **Salvador Quinn, Mary Meadows и George Wilkins** са достигали до тази точка;
-- Bernard не е сред previous visitors; това доказва non-visitation, не automatic ignorance;
+- наблюдаваната зона на дъното на Silo 18 е плитка и проходима, а реален тунел/отвор действително е намерен;
+- в тунела/долната зона активен неизвестен събеседник или система води двупосочен разговор с Lukas, отчитащ контекста;
+- долният контакт казва, че преди Lukas само **Salvador Quinn, Mary Meadows и George Wilkins** са достигали до тази точка;
+- Bernard не е сред предишните посетители; това доказва, че не е посещавал лично мястото, но не и че не е знаел за него;
 - Lukas е предупреден, че разкриването на видяното/наученото там ще доведе до задействане на `the safeguard`; точният механизъм, контролиращ субект и ефект остават неустановени в S02E09;
-- shadow-ът на Bernard спекулира за hidden pumps под known bottom, неизвестни на Mechanical; това остава speculation;
-- digital coercive message изисква camera-on/no-leave compliance и използва wife като leverage; sender/recipient identity не се извежда само от screenshot-а.
+- shadow-ът на Bernard спекулира за скрити помпи под познатото дъно, неизвестни на Mechanical; това остава спекулация;
+- цифрово съобщение с принуда изисква камерата да остане включена, получателят да не напуска и използва съпругата му като средство за натиск; самоличностите на подателя и получателя не се извеждат само от екранната снимка.
 
-- S02E10 direct-confirm-ва Level 123 и показва stair sabotage, което operationally split-ва Bernard's forces;
-- `the safeguard` вече е physical poison-delivery pipe, capable of whole-Silo kill;
-- Silo 17 survivor-ът казва, че parents са успели да block-нат safeguard-а;
-- safeguard supply идва отвън и влиза при Level 14;
-- това преработва модела: външната опасност и safeguard-ът са отделни смъртоносни механизми;
+- S02E10 директно потвърждава ниво 123 и показва саботаж на стълбището, който оперативно разделя силите на Bernard;
+- `the safeguard` вече е физическа тръба за подаване на отрова, способна да убие населението на цял Силоз;
+- оцелелият от Silo 17 казва, че родителите му са успели да блокират Safeguard;
+- подаването към Safeguard идва отвън и влиза при ниво 14;
+- това преработва модела: външната опасност и Safeguard са отделни смъртоносни механизми;
 - Juliette се връща в Silo 18 и показва `not safe / do not come out`;
-- Bernard лично я посреща при airlock-а;
-- Juliette казва, че **може би знае как да спре safeguard-а**;
-- коригираната sequence е: stopping claim → Juliette + Bernard enter → burner/flame cycle;
-- финалът показва direct pre-Silo Washington scene;
-- radiation screening е routine enough да се използва пред bar;
-- central character е Congressman from Georgia's 15th congressional district;
-- alleged radiological attack е attributed to Iran, но dialogue-ът поставя под въпрос дали attack изобщо е имало;
-- possible retaliatory strike срещу Iran е част от политическия разговор, не established executed action;
-- конгресменът подарява PEZ дозатор с жълто пате; това е силен кандидат за връзка по произход към по-ранната Silo-era жълта пластмасова реликва със синя дръжка, без да е доказана точна приемственост на един и същ предмет.
+- Bernard лично я посреща при шлюза;
+- Juliette казва, че **може би знае как да спре Safeguard**;
+- коригираната последователност е: твърдение, че може да бъде спрян → Juliette + Bernard влизат → цикъл с горелка/пламъци;
+- финалът показва пряка сцена от Washington преди силозите;
+- проверката за радиация е достатъчно рутинна, за да се използва пред бар;
+- централният персонаж е конгресмен от 15-и конгресен район на Georgia;
+- предполагаемата радиологична атака е приписана на Iran, но диалогът поставя под въпрос дали такава атака изобщо е имало;
+- възможен ответен удар срещу Iran е част от политическия разговор, а не установено извършено действие;
+- конгресменът подарява PEZ дозатор с жълто пате; това е силен кандидат за връзка по произход към по-ранната реликва от епохата на силозите — жълт пластмасов предмет със синя дръжка — без да е доказана точна приемственост на един и същ предмет.
 
-- S03E04 nurse-ът direct-confirm-ва, че Juliette's memory-suppression pills са били covertly substituted още преди Juliette сама да започне да ги изплюва;
-- unknown upstream actor е казал на nurse-а да започне substitution-а;
-- Level 76 pump station е new direct spatial/operational anchor по Juliette escape route-а;
-- hidden door → intact tunnel → fixed rope/descent setup дава functional concealed access към abyss/deep excavation zone;
-- Juliette намира Bernard **жив** в deep zone → prior death/burning account е superseded/falsified as current truth;
-- Keen характеризира Iran recording-а като aircraft no longer controlled by pilots; „hacked“ е analogy, не established cyber mechanism;
-- recurring pre-Silo man demonstrably използва tailored inducements: The Times offer за journalist-а и sister-treatment continuation за Keen;
-- Pentagon contact се връща след ~седмица с extraordinary discovery, exact content unresolved.
+- S03E04: медицинската сестра директно потвърждава, че хапчетата за потискане на паметта на Juliette са били тайно подменяни още преди тя сама да започне да ги изплюва;
+- неизвестен висшестоящ участник е наредил на сестрата да започне подмяната;
+- помпената станция на ниво 76 е нов пряк пространствен/оперативен ориентир по маршрута за бягство на Juliette;
+- скрита врата → запазен тунел → фиксирано въже/система за спускане осигуряват функционален скрит достъп до пропастта/дълбоката изкопна зона;
+- Juliette намира Bernard **жив** в дълбоката зона → предишният разказ за смърт/изгаряне е заменен и опроверган като текуща истина;
+- Keen характеризира записа от операцията срещу Iran като самолет, който вече не е контролиран от пилотите; „hacked“ („хакнат“) е аналогия, а не установен кибернетичен механизъм;
+- повтарящият се мъж от периода преди силозите демонстративно използва персонализирани стимули: предложение от The Times за журналистката и продължаване на лечението на сестрата за Keen;
+- контактът в Pentagon се връща след около седмица с извънредно откритие; точното съдържание остава неизяснено.
 
-- S03E05 директно потвърждава Camille Sims като нов Head of IT и въвежда in-world label-а **„Гласът“ / the Voice** за privileged supervisory source;
-- Bernard казва, че Camille има safeguard read-in и изрична no-disclosure restriction;
-- Robert Sims директно потвърждава fake-death plan-а за Bernard: отказва се да го убие, включва Mechanical, инсценира furnace/cremation story и го скрива жив под Silo;
-- Juliette, Bernard и Lukas са framed като продължаващи threats; Bernard казва, че „Гласът“ го иска мъртъв;
-- Lukas е открил existential kill authority над Silo, а Juliette знае как да спре safeguard-а;
-- The Order изрично свързва memory-suppression drugs със скриване/премахване на relics, защото relics могат да reactivate-нат suppressed memories;
-- PEZ dispenser-ът demonstrably trigger-ва у Juliette recall за safeguard pipe-а;
-- всеки Silo използва различен radio channel, а **Silo 1 следи всички active frequencies**;
-- Robert организира/подпомага protests Juliette да стане Mayor, за да я направи временно по-трудна за убиване;
-- Level 95 е нов direct spatial anchor;
-- airlock fire cycle е директно идентифициран като sterilization/decontamination procedure с nominal 48-hour inner-door lockout;
-- Pentagon disclosure свързва клиниката на сестрата, prominent AI support и involvement в Iran operation през един influential actor;
-- external takeover на автомобила на Keen и journalist-а materially strengthens deliberate-control hypothesis-а за Iran aircraft anomaly.
+- S03E05 директно потвърждава Camille Sims като нов ръководител на IT и въвежда вътрешното обозначение **„Гласът“ / `the Voice`** за привилегирования надзорен източник;
+- Bernard казва, че Camille е посветена в Safeguard и има изрична забрана за разгласяване;
+- Robert Sims директно потвърждава плана за фалшивата смърт на Bernard: отказва да го убие, включва Mechanical, инсценира история с пещ/кремация и го скрива жив под Силоза;
+- Juliette, Bernard и Lukas са представени като продължаващи заплахи; Bernard казва, че „Гласът“ го иска мъртъв;
+- Lukas е открил властта за екзистенциално унищожаване на Силоза, а Juliette знае как да спре Safeguard;
+- The Order изрично свързва лекарствата за потискане на паметта със скриването/премахването на реликви, защото реликвите могат да реактивират потиснати спомени;
+- PEZ дозаторът демонстративно задейства у Juliette спомен за тръбата на Safeguard;
+- всеки Силоз използва различен радиоканал, а **Silo 1 следи всички активни честоти**;
+- Robert организира/подпомага протести Juliette да стане кмет, за да я направи временно по-трудна за убиване;
+- ниво 95 е нов пряк пространствен ориентир;
+- огненият цикъл в шлюза е директно идентифициран като процедура за стерилизация/обеззаразяване с номинално 48-часово блокиране на вътрешната врата;
+- разкритието от Pentagon свързва клиниката на сестрата, значителната подкрепа за ИИ и участието в операцията срещу Iran чрез един влиятелен участник;
+- външното поемане на контрола над автомобила на Keen и журналистката съществено засилва хипотезата за умишлен външен контрол като обяснение на аномалията при самолетите в операцията срещу Iran.
 
-Подробният snapshot е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
+Подробната моментна снимка е в [`CURRENT_STATE.md`](CURRENT_STATE.md).
 
-## Карта на repo-то
+## Карта на хранилището
 
 - [`CURRENT_STATE.md`](CURRENT_STATE.md) — текущ модел след последния изгледан епизод.
-- [`docs/episodes/S01E01.md`](docs/episodes/S01E01.md) — episode record за S01E01.
-- [`docs/episodes/S01E02.md`](docs/episodes/S01E02.md) — episode record за S01E02.
-- [`docs/episodes/S01E03.md`](docs/episodes/S01E03.md) — episode record за S01E03.
-- [`docs/episodes/S01E04.md`](docs/episodes/S01E04.md) — episode record за S01E04.
-- [`docs/episodes/S01E05.md`](docs/episodes/S01E05.md) — episode record за S01E05.
-- [`docs/episodes/S01E06.md`](docs/episodes/S01E06.md) — episode record за S01E06.
-- [`docs/episodes/S01E07.md`](docs/episodes/S01E07.md) — episode record за S01E07.
-- [`docs/episodes/S01E08.md`](docs/episodes/S01E08.md) — episode record за S01E08.
-- [`docs/episodes/S01E09.md`](docs/episodes/S01E09.md) — episode record за S01E09.
-- [`docs/episodes/S01E10.md`](docs/episodes/S01E10.md) — episode record за S01E10.
-- [`docs/episodes/S02E01.md`](docs/episodes/S02E01.md) — episode record за S02E01.
-- [`docs/episodes/S02E02.md`](docs/episodes/S02E02.md) — episode record за S02E02.
-- [`docs/episodes/S02E03.md`](docs/episodes/S02E03.md) — episode record за S02E03.
-- [`docs/episodes/S02E04.md`](docs/episodes/S02E04.md) — episode record за S02E04.
-- [`docs/episodes/S02E05.md`](docs/episodes/S02E05.md) — episode record за S02E05.
-- [`docs/episodes/S02E06.md`](docs/episodes/S02E06.md) — episode record за S02E06.
-- [`docs/episodes/S02E07.md`](docs/episodes/S02E07.md) — episode record за S02E07.
-- [`docs/episodes/S02E08.md`](docs/episodes/S02E08.md) — episode record за S02E08.
-- [`docs/episodes/S02E09.md`](docs/episodes/S02E09.md) — episode record за S02E09.
-- [`docs/episodes/S02E10.md`](docs/episodes/S02E10.md) — Season 2 finale record за S02E10.
-- [`docs/episodes/S03E01.md`](docs/episodes/S03E01.md) — episode record за S03E01.
-- [`docs/episodes/S03E02.md`](docs/episodes/S03E02.md) — episode record за S03E02.
-- [`docs/episodes/S03E03.md`](docs/episodes/S03E03.md) — episode record за S03E03.
-- [`docs/episodes/S03E04.md`](docs/episodes/S03E04.md) — episode record за S03E04.
-- [`docs/episodes/S03E05.md`](docs/episodes/S03E05.md) — episode record за S03E05.
-- [`docs/episodes/S03E06.md`](docs/episodes/S03E06.md) — episode record за S03E06.
-- [`docs/episodes/S03E10.md`](docs/episodes/S03E10.md) — Season 3 finale record за S03E10.
-- [`docs/evidence/S03E10-silo1-stasis-memory.md`](docs/evidence/S03E10-silo1-stasis-memory.md) — Silo 1 stasis, post-reanimation, memory и founding-era continuity.
-- [`docs/evidence/S03E10-safeguard-drone-directive.md`](docs/evidence/S03E10-safeguard-drone-directive.md) — Safeguard failure modes, drones, Pact/Directive и external containment.
-- [`docs/evidence/S03E10-voice-control-room-victor-camille.md`](docs/evidence/S03E10-voice-control-room-victor-camille.md) — central control room, human Voice operator, Victor/Camille.
-- [`docs/evidence/S03E10-second-vault-daniel-juliette.md`](docs/evidence/S03E10-second-vault-daniel-juliette.md) — Second Vault, cross-Silo contact и Daniel–Juliette deal.
-- [`assets/S03E10/MANIFEST.md`](assets/S03E10/MANIFEST.md) — S03E10 visual evidence manifest / validated Git blobs.
+- [`docs/episodes/S01E01.md`](docs/episodes/S01E01.md) — запис по епизода за S01E01.
+- [`docs/episodes/S01E02.md`](docs/episodes/S01E02.md) — запис по епизода за S01E02.
+- [`docs/episodes/S01E03.md`](docs/episodes/S01E03.md) — запис по епизода за S01E03.
+- [`docs/episodes/S01E04.md`](docs/episodes/S01E04.md) — запис по епизода за S01E04.
+- [`docs/episodes/S01E05.md`](docs/episodes/S01E05.md) — запис по епизода за S01E05.
+- [`docs/episodes/S01E06.md`](docs/episodes/S01E06.md) — запис по епизода за S01E06.
+- [`docs/episodes/S01E07.md`](docs/episodes/S01E07.md) — запис по епизода за S01E07.
+- [`docs/episodes/S01E08.md`](docs/episodes/S01E08.md) — запис по епизода за S01E08.
+- [`docs/episodes/S01E09.md`](docs/episodes/S01E09.md) — запис по епизода за S01E09.
+- [`docs/episodes/S01E10.md`](docs/episodes/S01E10.md) — запис по епизода за S01E10.
+- [`docs/episodes/S02E01.md`](docs/episodes/S02E01.md) — запис по епизода за S02E01.
+- [`docs/episodes/S02E02.md`](docs/episodes/S02E02.md) — запис по епизода за S02E02.
+- [`docs/episodes/S02E03.md`](docs/episodes/S02E03.md) — запис по епизода за S02E03.
+- [`docs/episodes/S02E04.md`](docs/episodes/S02E04.md) — запис по епизода за S02E04.
+- [`docs/episodes/S02E05.md`](docs/episodes/S02E05.md) — запис по епизода за S02E05.
+- [`docs/episodes/S02E06.md`](docs/episodes/S02E06.md) — запис по епизода за S02E06.
+- [`docs/episodes/S02E07.md`](docs/episodes/S02E07.md) — запис по епизода за S02E07.
+- [`docs/episodes/S02E08.md`](docs/episodes/S02E08.md) — запис по епизода за S02E08.
+- [`docs/episodes/S02E09.md`](docs/episodes/S02E09.md) — запис по епизода за S02E09.
+- [`docs/episodes/S02E10.md`](docs/episodes/S02E10.md) — запис за финала на сезон 2 за S02E10.
+- [`docs/episodes/S03E01.md`](docs/episodes/S03E01.md) — запис по епизода за S03E01.
+- [`docs/episodes/S03E02.md`](docs/episodes/S03E02.md) — запис по епизода за S03E02.
+- [`docs/episodes/S03E03.md`](docs/episodes/S03E03.md) — запис по епизода за S03E03.
+- [`docs/episodes/S03E04.md`](docs/episodes/S03E04.md) — запис по епизода за S03E04.
+- [`docs/episodes/S03E05.md`](docs/episodes/S03E05.md) — запис по епизода за S03E05.
+- [`docs/episodes/S03E06.md`](docs/episodes/S03E06.md) — запис по епизода за S03E06.
+- [`docs/episodes/S03E10.md`](docs/episodes/S03E10.md) — запис за финала на сезон 3 за S03E10.
+- [`docs/evidence/S03E10-silo1-stasis-memory.md`](docs/evidence/S03E10-silo1-stasis-memory.md) — стаза в Silo 1, състояние след реанимация, памет и приемственост от епохата на основаването.
+- [`docs/evidence/S03E10-safeguard-drone-directive.md`](docs/evidence/S03E10-safeguard-drone-directive.md) — режими на отказ на Safeguard, дронове, Пакт/Директива и външно ограничаване.
+- [`docs/evidence/S03E10-voice-control-room-victor-camille.md`](docs/evidence/S03E10-voice-control-room-victor-camille.md) — централно контролно помещение, човешки оператор на „Гласът“ и Victor/Camille.
+- [`docs/evidence/S03E10-second-vault-daniel-juliette.md`](docs/evidence/S03E10-second-vault-daniel-juliette.md) — Вторият трезор, междусилозният контакт и сделката Daniel–Juliette.
+- [`assets/S03E10/MANIFEST.md`](assets/S03E10/MANIFEST.md) — S03E10 манифест на визуалните доказателства / validated Git blobs.
 - [`docs/audits/S03-consistency-audit.md`](docs/audits/S03-consistency-audit.md) — post-Season-3 methodology / consistency audit.
-- [`docs/episodes/S03E09.md`](docs/episodes/S03E09.md) — episode record за S03E09.
-- [`docs/evidence/S03E09-voice-bernard-cleaning.md`](docs/evidence/S03E09-voice-bernard-cleaning.md) — Bernard, „Гласът“, cleaning decision и human-operator hypothesis.
-- [`docs/evidence/S03E09-exterior-mines-pact.md`](docs/evidence/S03E09-exterior-mines-pact.md) — no-suit exterior outcome, Silo 17 contradiction, mines/elevator и Pact origin.
-- [`docs/evidence/S03E09-opening-topology-intake.md`](docs/evidence/S03E09-opening-topology-intake.md) — opening-day physical topology, assignments, intake и catastrophe transition.
-- [`assets/S03E09/MANIFEST.md`](assets/S03E09/MANIFEST.md) — S03E09 visual evidence manifest.
-- [`docs/episodes/S03E08.md`](docs/episodes/S03E08.md) — episode record за S03E08.
-- [`docs/evidence/S03E08-exterior-bernard.md`](docs/evidence/S03E08-exterior-bernard.md) — exterior hazard, Silo 17 и Bernard alignment.
-- [`docs/evidence/S03E08-presilo-nanotechnology-iran.md`](docs/evidence/S03E08-presilo-nanotechnology-iran.md) — original mission, nanotechnology threat и Iran operation.
-- [`docs/evidence/S03E08-silo-topology-safeguard.md`](docs/evidence/S03E08-silo-topology-safeguard.md) — 50-Silo topology, safeguard routing и digger lifecycle.
-- [`assets/S03E08/MANIFEST.md`](assets/S03E08/MANIFEST.md) — S03E08 visual evidence manifest.
-- [`docs/episodes/S03E07.md`](docs/episodes/S03E07.md) — episode record за S03E07.
-- [`docs/evidence/S03E07-exterior-voice-safeguard.md`](docs/evidence/S03E07-exterior-voice-safeguard.md) — Kyle/Kennedy, exterior reach, safeguard contradiction и radio conflict.
-- [`docs/evidence/S03E07-presilo-georgia-memory.md`](docs/evidence/S03E07-presilo-georgia-memory.md) — sister fragmented memory, NDA/read-in и Georgia/Atlanta Silo construction.
-- [`docs/evidence/S03E07-console-feed-control.md`](docs/evidence/S03E07-console-feed-control.md) — low-level console, reboot и null-feed static loop.
-- [`assets/S03E07/MANIFEST.md`](assets/S03E07/MANIFEST.md) — S03E07 visual evidence manifest.
-- [`docs/evidence/S03E06-silo1-power-safeguard.md`](docs/evidence/S03E06-silo1-power-safeguard.md) — Silo 1 external IT power и separate safeguard route.
-- [`docs/evidence/S03E06-juliette-voice-memory.md`](docs/evidence/S03E06-juliette-voice-memory.md) — Juliette, Camille, „Гласът“ и selective disclosure.
-- [`docs/evidence/S03E06-vitamin-d-water.md`](docs/evidence/S03E06-vitamin-d-water.md) — active Vitamin D+ water deployment.
-- [`docs/evidence/S03E06-presilo-iran-takeover.md`](docs/evidence/S03E06-presilo-iran-takeover.md) — car↔aircraft external-control linkage и Iran attribution doubt.
-- [`assets/S03E06/MANIFEST.md`](assets/S03E06/MANIFEST.md) — S03E06 visual evidence manifest.
-- [`docs/evidence/S03E05-sims-voice-safeguard.md`](docs/evidence/S03E05-sims-voice-safeguard.md) — Camille/Robert, „Гласът“, safeguard hierarchy и lethal threat cluster.
-- [`docs/evidence/S03E05-bernard-fake-death-robert-network.md`](docs/evidence/S03E05-bernard-fake-death-robert-network.md) — Bernard fake death, Mechanical alliance и Robert counter-line.
-- [`docs/evidence/S03E05-memory-relic-radio.md`](docs/evidence/S03E05-memory-relic-radio.md) — relic-triggered memory retrieval, The Order policy, radio isolation и Silo 1 monitoring.
-- [`docs/evidence/S03E05-presilo-ai-iran-vehicle.md`](docs/evidence/S03E05-presilo-ai-iran-vehicle.md) — AI/clinic/Iran convergence и vehicle takeover.
-- [`assets/S03E05/MANIFEST.md`](assets/S03E05/MANIFEST.md) — S03E05 visual evidence manifest.
-- [`docs/evidence/S03E04-memory-escape-network.md`](docs/evidence/S03E04-memory-escape-network.md) — pill substitution, nurse intervention и covert escape/support chain.
-- [`docs/evidence/S03E04-presilo-cooptation-pentagon.md`](docs/evidence/S03E04-presilo-cooptation-pentagon.md) — Keen/journalist evasion, co-optation offers и Pentagon callback.
-- [`docs/evidence/S03E04-deep-route-bernard.md`](docs/evidence/S03E04-deep-route-bernard.md) — concealed abyss route и Bernard alive correction.
-- [`assets/S03E04/MANIFEST.md`](assets/S03E04/MANIFEST.md) — S03E04 visual evidence manifest.
-- [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — evidence регистър с confidence и epistemic class.
+- [`docs/episodes/S03E09.md`](docs/episodes/S03E09.md) — запис по епизода за S03E09.
+- [`docs/evidence/S03E09-voice-bernard-cleaning.md`](docs/evidence/S03E09-voice-bernard-cleaning.md) — Bernard, „Гласът“, решението за почистване и хипотезата за човешки оператор.
+- [`docs/evidence/S03E09-exterior-mines-pact.md`](docs/evidence/S03E09-exterior-mines-pact.md) — резултатът навън без костюм, противоречието със Silo 17, мините/асансьорът и произходът на Пакта.
+- [`docs/evidence/S03E09-opening-topology-intake.md`](docs/evidence/S03E09-opening-topology-intake.md) — физическата топология в деня на откриването, разпределението, приемът и преходът към катастрофата.
+- [`assets/S03E09/MANIFEST.md`](assets/S03E09/MANIFEST.md) — S03E09 манифест на визуалните доказателства.
+- [`docs/episodes/S03E08.md`](docs/episodes/S03E08.md) — запис по епизода за S03E08.
+- [`docs/evidence/S03E08-exterior-bernard.md`](docs/evidence/S03E08-exterior-bernard.md) — опасността във външната среда, Silo 17 и позиционирането на Bernard.
+- [`docs/evidence/S03E08-presilo-nanotechnology-iran.md`](docs/evidence/S03E08-presilo-nanotechnology-iran.md) — първоначалната мисия, заплахата от нанотехнологии и операцията срещу Iran.
+- [`docs/evidence/S03E08-silo-topology-safeguard.md`](docs/evidence/S03E08-silo-topology-safeguard.md) — топологията на 50-те силоза, маршрутизирането на Safeguard и жизненият цикъл на изкопните машини.
+- [`assets/S03E08/MANIFEST.md`](assets/S03E08/MANIFEST.md) — S03E08 манифест на визуалните доказателства.
+- [`docs/episodes/S03E07.md`](docs/episodes/S03E07.md) — запис по епизода за S03E07.
+- [`docs/evidence/S03E07-exterior-voice-safeguard.md`](docs/evidence/S03E07-exterior-voice-safeguard.md) — Kyle/Kennedy, обсегът във външната среда, противоречието със Safeguard и радиоконфликтът.
+- [`docs/evidence/S03E07-presilo-georgia-memory.md`](docs/evidence/S03E07-presilo-georgia-memory.md) — фрагментираната памет на сестрата, NDA/посвещаването и строителството на силозите в Georgia/Atlanta.
+- [`docs/evidence/S03E07-console-feed-control.md`](docs/evidence/S03E07-console-feed-control.md) — нискониво конзола, рестартиране и цикъл със статично изображение вместо видеопоток.
+- [`assets/S03E07/MANIFEST.md`](assets/S03E07/MANIFEST.md) — S03E07 манифест на визуалните доказателства.
+- [`docs/evidence/S03E06-silo1-power-safeguard.md`](docs/evidence/S03E06-silo1-power-safeguard.md) — външното IT захранване на Silo 1 и отделният маршрут на Safeguard.
+- [`docs/evidence/S03E06-juliette-voice-memory.md`](docs/evidence/S03E06-juliette-voice-memory.md) — Juliette, Camille, „Гласът“ и избирателното разкриване на информация.
+- [`docs/evidence/S03E06-vitamin-d-water.md`](docs/evidence/S03E06-vitamin-d-water.md) — активно добавяне на Vitamin D+ във водата.
+- [`docs/evidence/S03E06-presilo-iran-takeover.md`](docs/evidence/S03E06-presilo-iran-takeover.md) — връзката между външния контрол на автомобила и самолета и съмнението за приписването на Iran.
+- [`assets/S03E06/MANIFEST.md`](assets/S03E06/MANIFEST.md) — S03E06 манифест на визуалните доказателства.
+- [`docs/evidence/S03E05-sims-voice-safeguard.md`](docs/evidence/S03E05-sims-voice-safeguard.md) — Camille/Robert, „Гласът“, йерархията на Safeguard и групата смъртоносни заплахи.
+- [`docs/evidence/S03E05-bernard-fake-death-robert-network.md`](docs/evidence/S03E05-bernard-fake-death-robert-network.md) — фалшивата смърт на Bernard, съюзът с Mechanical и противолинията на Robert.
+- [`docs/evidence/S03E05-memory-relic-radio.md`](docs/evidence/S03E05-memory-relic-radio.md) — възстановяването на паметта, задействано от реликва, политиката на The Order, радиоизолацията и наблюдението от Silo 1.
+- [`docs/evidence/S03E05-presilo-ai-iran-vehicle.md`](docs/evidence/S03E05-presilo-ai-iran-vehicle.md) — пресичането между ИИ/клиниката/Iran и поемането на контрол над автомобила.
+- [`assets/S03E05/MANIFEST.md`](assets/S03E05/MANIFEST.md) — S03E05 манифест на визуалните доказателства.
+- [`docs/evidence/S03E04-memory-escape-network.md`](docs/evidence/S03E04-memory-escape-network.md) — подмяната на хапчетата, намесата на сестрата и тайната верига за бягство/подкрепа.
+- [`docs/evidence/S03E04-presilo-cooptation-pentagon.md`](docs/evidence/S03E04-presilo-cooptation-pentagon.md) — избягването на Keen/журналистката, предложенията за кооптиране и обратния контакт от Pentagon.
+- [`docs/evidence/S03E04-deep-route-bernard.md`](docs/evidence/S03E04-deep-route-bernard.md) — скритият маршрут към пропастта и корекцията, че Bernard е жив.
+- [`assets/S03E04/MANIFEST.md`](assets/S03E04/MANIFEST.md) — S03E04 манифест на визуалните доказателства.
+- [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — регистър на доказателствата с увереност и епистемичен клас.
 - [`docs/evidence/S01E01-exterior-visual-contradiction.md`](docs/evidence/S01E01-exterior-visual-contradiction.md) — focused exterior evidence след S01E01.
 - [`docs/evidence/S01E02-holston-visual-split.md`](docs/evidence/S01E02-holston-visual-split.md) — simultaneous cleaner/public visual split при Holston.
 - [`docs/evidence/S01E02-sub-silo-construction-layer.md`](docs/evidence/S01E02-sub-silo-construction-layer.md) — hidden construction layer под Silo.
@@ -427,17 +427,17 @@
 - [`docs/evidence/S02E10-silo18-rebellion-return-airlock.md`](docs/evidence/S02E10-silo18-rebellion-return-airlock.md) — Level 123, stair sabotage, Juliette return и corrected airlock chronology.
 - [`docs/evidence/S02E10-presilo-washington-georgia-iran-pez.md`](docs/evidence/S02E10-presilo-washington-georgia-iran-pez.md) — direct pre-Silo Washington, disputed radiological narrative, Georgia и PEZ provenance.
 - [`docs/open-questions.md`](docs/open-questions.md) — активните въпроси за falsification / future testing.
-- [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — visual evidence от S01E01.
-- [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — selected visual evidence от S01E02.
-- [`assets/S01E03/screenshots/`](assets/S01E03/screenshots/) — selected visual evidence от S01E03.
-- [`assets/S01E04/screenshots/`](assets/S01E04/screenshots/) — selected visual evidence от S01E04.
-- [`assets/S01E05/screenshots/`](assets/S01E05/screenshots/) — selected visual evidence от S01E05.
-- [`assets/S01E06/screenshots/`](assets/S01E06/screenshots/) — selected visual evidence от S01E06.
-- [`assets/S01E07/screenshots/`](assets/S01E07/screenshots/) — validated selected visual evidence от S01E07.
-- [`assets/S01E07/MANIFEST.md`](assets/S01E07/MANIFEST.md) — manifest за S01E07 visual processing/selection.
-- [`assets/S01E08/screenshots/`](assets/S01E08/screenshots/) — validated selected visual evidence от S01E08.
-- [`assets/S01E08/MANIFEST.md`](assets/S01E08/MANIFEST.md) — manifest за S01E08 visual processing/selection.
-- [`assets/S01E09/screenshots/`](assets/S01E09/screenshots/) — validated selected visual evidence от S01E09.
+- [`assets/S01E01/screenshots/`](assets/S01E01/screenshots/) — визуални доказателства от S01E01.
+- [`assets/S01E02/screenshots/`](assets/S01E02/screenshots/) — избрани визуални доказателства от S01E02.
+- [`assets/S01E03/screenshots/`](assets/S01E03/screenshots/) — избрани визуални доказателства от S01E03.
+- [`assets/S01E04/screenshots/`](assets/S01E04/screenshots/) — избрани визуални доказателства от S01E04.
+- [`assets/S01E05/screenshots/`](assets/S01E05/screenshots/) — избрани визуални доказателства от S01E05.
+- [`assets/S01E06/screenshots/`](assets/S01E06/screenshots/) — избрани визуални доказателства от S01E06.
+- [`assets/S01E07/screenshots/`](assets/S01E07/screenshots/) — валидирани избрани визуални доказателства от S01E07.
+- [`assets/S01E07/MANIFEST.md`](assets/S01E07/MANIFEST.md) — манифест за S01E07 обработка/подбор на визуални материали.
+- [`assets/S01E08/screenshots/`](assets/S01E08/screenshots/) — валидирани избрани визуални доказателства от S01E08.
+- [`assets/S01E08/MANIFEST.md`](assets/S01E08/MANIFEST.md) — манифест за S01E08 обработка/подбор на визуални материали.
+- [`assets/S01E09/screenshots/`](assets/S01E09/screenshots/) — валидирани избрани визуални доказателства от S01E09.
 - [`assets/S01E09/MANIFEST.md`](assets/S01E09/MANIFEST.md) — manifest за S01E09 visual processing/selection.
 - [`assets/S01E10/screenshots/`](assets/S01E10/screenshots/) — validated selected visual evidence от S01E10.
 - [`assets/S01E10/MANIFEST.md`](assets/S01E10/MANIFEST.md) — manifest за S01E10 visual processing/selection.
