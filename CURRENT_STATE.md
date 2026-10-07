@@ -258,283 +258,283 @@ SILO 1 SUPERVISORY / CONTINUITY LAYER
 ### S03E07 — паметта на сестрата / NDA
 
 - Сестрата на Daniel Keen е физически възстановена, но има фрагментирани спомени.
-- Значителна част от autobiographical account-а ѝ идва от това, което други са ѝ казали.
-- Тя вече е подписала NDA и има sensitive information, което не може да disclose-не на Keen преди неговия read-in.
-- Keen трябва да подпише собствен NDA, след което двамата трябва да се качат на private aircraft за full briefing.
-- Fragmented recall + подаден отвън разказ съществено подсилват clinic memory-control candidate-а, но exact treatment substance/protocol остава unknown.
+- Значителна част от автобиографичния ѝ разказ идва от това, което други са ѝ казали.
+- Тя вече е подписала NDA и разполага с чувствителна информация, която не може да разкрие на Keen преди неговото посвещаване.
+- Keen трябва да подпише собствен NDA, след което двамата трябва да се качат на частен самолет за пълен инструктаж.
+- Фрагментираните спомени + подаденият отвън разказ съществено подсилват хипотезата за контрол върху паметта в клиниката, но точното вещество/протокол на лечението остава неизвестно.
 
-### S03E07 — Georgia / Atlanta Silo construction
+### S03E07 — Georgia / Atlanta / строителство на силозите
 
-- Keen е доведен в Georgia, близо до Atlanta, до Silo construction site.
-- Visual frame-ът показва massive multi-unit construction field с множество circular excavation/build zones и поне една напреднала cylindrical structure.
-- Silo program-ът е large-scale coordinated civil-engineering project, а не small isolated prototype.
-- Показаният Silo field получава geographic anchor в района на Atlanta, Georgia; exact site coordinates и unit numbering остават unresolved.
+- Keen е доведен в Georgia, близо до Atlanta, до строителната площадка на силозите.
+- Кадърът показва мащабна строителна площадка с множество кръгли зони за изкоп/строителство и поне една напреднала цилиндрична структура.
+- Програмата за силозите е мащабен координиран строителен проект, а не малък изолиран прототип.
+- Показаното поле със силози получава географски ориентир в района на Atlanta, Georgia; точните координати на площадката и номерирането на отделните съоръжения остават неизяснени.
 
 
-### S03E06 — Silo 1 / IT power / safeguard routing
+### S03E06 — Silo 1 / IT захранване / маршрутизиране на Safeguard
 
-- Bernard казва, че external electrical line от Silo 1 стига до IT и го захранва.
-- Това предлага конкретно обяснение за вече наблюдаваното independent IT power.
-- Safeguard path-ът е разграничен като отделна линия към Judicial.
-- Двете линии не се сливат методологично: Silo 1 origin е direct-stated за IT electrical feed-а, но не и автоматично за safeguard line-а.
-- Level 94 е direct-confirmed като нов spatial anchor.
+- Bernard казва, че външна електрическа линия от Silo 1 стига до IT и го захранва.
+- Това предлага конкретно обяснение за вече наблюдаваното независимо IT захранване.
+- Пътят на Safeguard е разграничен като отделна линия към Judicial.
+- Двете линии не се сливат методологично: произходът от Silo 1 е директно заявен за електрическото захранване на IT, но не автоматично и за линията на Safeguard.
+- Ниво 94 е директно потвърдено като нов пространствен ориентир.
 
 ### S03E06 — Juliette / Camille / „Гласът“
 
 - Juliette доброволно се предава на Camille и настоява за разговор без камери.
 - Тя казва, че знае за „Гласът“ и че е била в Silo 17.
 - Иска „Гласът“ да позволи децата от Silo 17 да бъдат доведени в Silo 18.
-- Juliette не разкрива на Camille знанието си за safeguard-а и как може да бъде спрян.
-- Camille я завежда при „Гласът“, демонстрирайки mediated access path през Head of IT.
-- „Гласът“ първоначално не приема transfer идеята; Juliette предлага memory-suppression medication за себе си и децата и предложението започва да се разглежда.
-- Juliette подозира, че „Гласът“ знае за разговора дори без видими камери; допълнителният monitoring mechanism остава hypothesis.
+- Juliette не разкрива на Camille знанието си за Safeguard и за начина, по който може да бъде спрян.
+- Camille я завежда при „Гласът“, демонстрирайки посредничен път за достъп през ръководителя на IT.
+- „Гласът“ първоначално не приема идеята за прехвърляне; Juliette предлага лекарства за потискане на паметта за себе си и децата и предложението започва да се разглежда.
+- Juliette подозира, че „Гласът“ знае за разговора дори без видими камери; допълнителният механизъм за наблюдение остава хипотеза.
 
-### S03E06 — Vitamin D+ / active memory control
+### S03E06 — Vitamin D+ / активен контрол върху паметта
 
-- Camille operationally пуска Vitamin D+ във водоснабдяването.
-- Population-scale memory-suppression protocol-ът следователно вече е показан като изпълняван, не само планиран.
-- Точната доза, продължителността на излагането, целевите спомени и дали обхватът е целият Silo остават unresolved.
+- Camille оперативно пуска Vitamin D+ във водоснабдяването.
+- Следователно протоколът за потискане на паметта на ниво население вече е показан като изпълняван, а не само планиран.
+- Точната доза, продължителността на излагането, целевите спомени и дали обхватът е целият Силоз остават неизяснени.
 
-### S03E06 — pre-Silo external control / Iran attribution
+### S03E06 — външен контрол преди силозите / приписване на Iran
 
-- Keen и спътникът му explicit свързват текущия car takeover с external takeover на Iran aircraft.
-- Те поставят под съмнение, че реалният actor е Iran.
-- Автомобилът отвежда Keen до летище и private aircraft.
-- Там той е насочен към среща с жена, свързана с Iran oversight/commission line-а; точната ѝ title/identity остава provisional до explicit confirmation.
-- Това демонстрира целенасочено routing + организирана наземна/авиационна логистика, но не доказва same actor зад всички takeover events.
+- Keen и спътникът му изрично свързват текущото поемане на контрола над автомобила с външното поемане на контрола над самолетите в операцията срещу Iran.
+- Те поставят под съмнение, че реалният участник е Iran.
+- Автомобилът отвежда Keen до летище и частен самолет.
+- Там той е насочен към среща с жена, свързана с линията за надзор/комисия по Iran; точната ѝ длъжност/самоличност остава предварителна до изрично потвърждение.
+- Това демонстрира целенасочено маршрутизиране + организирана наземна/авиационна логистика, но не доказва един и същ участник зад всички събития с поемане на контрол.
 
-### S03E05 — Robert / fake death на Bernard
+### S03E05 — Robert / фалшивата смърт на Bernard
 
 - Robert Sims директно потвърждава, че не е убил Bernard.
-- Той се отказва от опита за убийство, включва Mechanical и инсценира apparent cremation/furnace story.
-- Bernard е скрит жив при digger/deep-zone area.
-- По-ранното пренасяне на apparent body към furnaces вече се reclassify-ва като част от fake-death operation, а не като proof за cremation.
+- Той се отказва от опита за убийство, включва Mechanical и инсценира привидна история за кремация в пещите.
+- Bernard е скрит жив при изкопната машина/дълбоката зона.
+- По-ранното пренасяне на привидното тяло към пещите вече се прекласифицира като част от операцията за фалшива смърт, а не като доказателство за кремация.
 
-### S03E05 — Camille / „Гласът“ / Head of IT
+### S03E05 — Camille / „Гласът“ / ръководител на IT
 
-- Camille Sims е директно потвърдена като нов Head of IT.
-- Robert е знаел, че Bernard получава instructions във vault-а, но не е знаел точната nature на source-а.
-- Direct in-world label е **„Гласът“ / the Voice**.
-- Camille има safeguard read-in и изрична no-disclosure restriction.
-- Juliette, Bernard и Lukas са identified като продължаващи threats; Robert разбира implication-а като възможно убийство.
+- Camille Sims е директно потвърдена като новия ръководител на IT.
+- Robert е знаел, че Bernard получава инструкции в трезора, но не е знаел точната природа на източника.
+- Директното вътрешно обозначение е **„Гласът“ / `the Voice`**.
+- Camille е посветена в Safeguard и има изрична забрана за разгласяване.
+- Juliette, Bernard и Lukas са идентифицирани като продължаващи заплахи; Robert разбира следствието като възможно убийство.
 - Bernard казва, че „Гласът“ го иска мъртъв.
 
-### S03E05 — safeguard knowledge
+### S03E05 — знание за Safeguard
 
-- Bernard казва, че по-високият layer може да ги убие „по всяко време“.
+- Bernard казва, че по-високият слой може да ги убие „по всяко време“.
 - Lukas Kyle е човекът, който е открил това.
-- Juliette знае как да спре safeguard-а.
-- Local governance следователно не притежава ultimate survival sovereignty над Silo.
+- Juliette знае как да спре Safeguard.
+- Следователно локалното управление не притежава окончателен суверенитет върху оцеляването на Силоза.
 
-### S03E05 — Robert counter-line / защита на Juliette
+### S03E05 — противолинията на Robert / защита на Juliette
 
 - Robert казва на Mechanical, че Camille иска Juliette да умре.
-- Robert търси подкрепа от Mechanical срещу current lethal line.
-- Той организира/подпомага protests Juliette да стане Mayor.
-- Public legitimacy/stabilizing value се използва като временно защитно прикритие.
-- Robert е strong candidate, но не direct-confirmed, за unknown actor-а зад nurse pill substitution-а.
+- Robert търси подкрепа от Mechanical срещу текущата смъртоносна линия.
+- Той организира/подпомага протести Juliette да стане кмет.
+- Публичната легитимност/стабилизираща стойност се използва като временно защитно прикритие.
+- Robert е силен кандидат, но не е директно потвърден, за неизвестния участник зад подмяната на хапчетата от медицинската сестра.
 
-### S03E05 — memory control / relics
+### S03E05 — контрол върху паметта / реликви
 
-- The Order изрично свързва memory-suppression medication със скриване/премахване на relics.
-- Relics могат да trigger-нат връщане на suppressed memories.
-- Bernard, Robert Sims и Martha Walker потвърждават mechanism-а в разговор.
-- PEZ dispenser-ът директно trigger-ва у Juliette recall за safeguard pipe-а.
-- Memory control комбинира pharmacological suppression + премахване на retrieval cues от средата.
+- The Order изрично свързва лекарствата за потискане на паметта със скриването/премахването на реликви.
+- Реликвите могат да задействат връщане на потиснати спомени.
+- Bernard, Robert Sims и Martha Walker потвърждават механизма в разговор.
+- PEZ дозаторът директно задейства у Juliette спомен за тръбата на Safeguard.
+- Контролът върху паметта комбинира фармакологично потискане + премахване на външните подсказки за извличане на спомени.
 
-### S03E05 — radio isolation / Silo 1
+### S03E05 — радиоизолация / Silo 1
 
-- Всеки Silo използва различен radio channel.
-- Ordinary Silo radio traffic по default не се чува между Silos.
-- Silo 1 следи всички active frequencies.
-- Това дава plausible central detection path за неразрешена inter-Silo radio communication.
+- Всеки Силоз използва различен радиоканал.
+- Радиотрафикът на обикновените силози по подразбиране не се чува между силозите.
+- Silo 1 следи всички активни честоти.
+- Това дава правдоподобен централен път за засичане на неразрешена междусилозна радиокомуникация.
 
-### S03E05 — airlock / spatial / construction
+### S03E05 — шлюз / пространство / строителство
 
-- Fire cycle-ът е директно идентифициран като sterilization/decontamination procedure.
-- След sterilization има nominal 48-hour lockout преди повторно отваряне на inner airlock door.
-- Level 95 е direct-confirmed.
-- Construction board показва workflow `FRAME ASSEMBLY + RISER INSTALLATION`; не се equate-ва автоматично със safeguard pipe.
+- Огненият цикъл е директно идентифициран като процедура за стерилизация/обеззаразяване.
+- След стерилизацията има номинално 48-часово блокиране преди повторно отваряне на вътрешната врата на шлюза.
+- Ниво 95 е директно потвърдено.
+- Строително табло показва работен процес `FRAME ASSEMBLY + RISER INSTALLATION`; не се приравнява автоматично с тръбата на Safeguard.
 
-### S03E05 — pre-Silo AI/Iran / vehicle control
+### S03E05 — ИИ/Iran преди силозите / контрол над превозното средство
 
-- Pentagon contact-ът преминава от отказ/withholding към disclosure.
-- Един actor е свързан едновременно с клиниката на сестрата, prominent AI support и Iran operation.
-- Interpretation-ът за memory control върху сестрата остава hypothesis.
-- След като Keen споделя опасенията си с journalist-а, control над автомобила им е поет отвън.
-- Това materially strengthens deliberate external-control hypothesis-а за Iran aircraft anomaly.
+- Контактът в Pentagon преминава от отказ/задържане на информация към разкриване.
+- Един участник е свързан едновременно с клиниката на сестрата, значителна подкрепа за ИИ и операцията срещу Iran.
+- Интерпретацията за контрол върху паметта на сестрата остава хипотеза.
+- След като Keen споделя опасенията си с журналистката, контролът над автомобила им е поет отвън.
+- Това съществено засилва хипотезата за умишлен външен контрол като обяснение на аномалията при самолетите в операцията срещу Iran.
 
-### S03E04 — Juliette memory recovery / covert support
+### S03E04 — възстановяване на паметта на Juliette / тайна подкрепа
 
-- Nurse-ът direct-confirm-ва covert substitution на memory-suppression pills още преди Juliette's own pill-spitting.
-- Unknown upstream actor е казал на nurse-а да започне substitution-а.
-- Nurse-ът свързва substitution-а с началото на memory recovery.
-- Nurse-ът помага на Juliette да escape-не от hospital-а.
-- Sims-side започва active pursuit.
-- Mechanical ally помага на Juliette да escape-не от Level 76 encounter-а.
+- Медицинската сестра директно потвърждава тайна подмяна на хапчетата за потискане на паметта още преди Juliette сама да започне да ги изплюва.
+- Неизвестен висшестоящ участник е казал на сестрата да започне подмяната.
+- Сестрата свързва подмяната с началото на възстановяването на паметта.
+- Сестрата помага на Juliette да избяга от медицинския център.
+- Страната на Sims започва активно преследване.
+- Съюзник от Mechanical помага на Juliette да избяга при сблъсъка на ниво 76.
 
-### S03E04 — Level 76 / concealed deep access
+### S03E04 — ниво 76 / скрит достъп до дълбоката зона
 
-- Level 76 е direct-confirmed и е свързан с pump station.
-- Обичайният достъп към abyss/deep digging area е sealed.
-- Hidden door разкрива alternate tunnel route.
-- Fixed rope/descent setup дава functional vertical access към deep excavation zone.
-- Juliette успешно стига до digger/deep-zone area.
+- Ниво 76 е директно потвърдено и е свързано с помпена станция.
+- Обичайният достъп към пропастта/дълбоката изкопна зона е запечатан.
+- Скрита врата разкрива алтернативен маршрут през тунел.
+- Фиксирано въже/система за спускане осигурява функционален вертикален достъп към дълбоката изкопна зона.
+- Juliette успешно достига зоната на изкопната машина/дълбоката зона.
 
-### S03E04 — Bernard correction
+### S03E04 — корекция за Bernard
 
-- Juliette намира Bernard жив в deep zone.
-- Предишният Bernard death/burning account е falsified като current truth.
-- S03E01 state се пази като historical accepted model, но е superseded.
-- Bernard изглежда injured/debilitated; exact cause и reason for concealment remain unresolved.
+- Juliette намира Bernard жив в дълбоката зона.
+- Предишният разказ за смъртта/изгарянето на Bernard е опроверган като текуща истина.
+- Състоянието от S03E01 се запазва като исторически приет модел, но е заменено.
+- Bernard изглежда ранен/изтощен; точната причина и причината за укриването остават неизяснени.
 
-### S03E04 — pre-Silo investigation / pressure
+### S03E04 — разследване преди силозите / натиск
 
-- Keen описва recording-а като aircraft no longer controlled by pilots; „hacked“ remains his analogy, not proven mechanism.
-- Recurring unidentified man твърди, че други са били bribed, и демонстрира tailored inducements.
-- Journalist-ът получава job offer от The Times и го приема.
+- Keen описва записа като самолет, който вече не е контролиран от пилотите; „hacked“ („хакнат“) остава негова аналогия, а не доказан механизъм.
+- Повтарящият се неидентифициран мъж твърди, че други са били подкупени, и демонстрира персонализирани стимули.
+- Журналистката получава предложение за работа от The Times и го приема.
 - На Keen е предложено продължаване на лечението на сестра му.
-- Pentagon contact-ът се свързва отново след ~една седмица и съобщава за extraordinary discovery; exact content остава unresolved.
+- Контактът в Pentagon се свързва отново след около седмица и съобщава за извънредно откритие; точното съдържание остава неизяснено.
 
-### S03E03 — supervisory system / deception / lethal tasking
+### S03E03 — надзорна система / измама / възлагане на смъртоносна задача
 
-- Computer/system-ът казва на Camille Sims, че е избрана заради способността си да лъже.
-- System-ът заявява, че измамата е фундаментална част от ролята Head of IT.
-- System-ът убеждава Camille, че Juliette трябва да бъде убита, за да бъде спасен Silo.
-- Нееднозначното S03E02 `removal` спрямо Juliette е стеснено: може да означава буквално убийство.
-- Camille приема смъртоносната цел; самото изпълнение остава unresolved.
+- Компютърната система казва на Camille Sims, че е избрана заради способността си да лъже.
+- Системата заявява, че измамата е фундаментална част от ролята на ръководителя на IT.
+- Системата убеждава Camille, че Juliette трябва да бъде убита, за да бъде спасен Силозът.
+- Нееднозначното `removal` („отстраняване“) от S03E02 спрямо Juliette е стеснено: може да означава буквално убийство.
+- Camille приема смъртоносната цел; самото изпълнение остава неизяснено.
 
-### S03E03 — Vitamin D+ / safeguard / isolation
+### S03E03 — Vitamin D+ / Safeguard / изолация
 
-- `Vitamin D+` е contextual-но memory-suppression / forgetting chemistry.
-- Подаването чрез водата е представено като действие, което увеличава шанса Silo да оцелее.
-- Juliette е заловена да изплюва хапчетата; active compliance monitoring е налице.
-- Всеки контакт с друг Silo е заявен като нарушение, което води до незабавно задействане на safeguard.
-- Следователно cross-Silo isolation има fail-deadly enforcement механизъм.
+- `Vitamin D+` е контекстуално обозначение за химия за потискане на паметта/забравяне.
+- Подаването чрез водата е представено като действие, което увеличава шанса Силозът да оцелее.
+- Juliette е заловена да изплюва хапчетата; налице е активно наблюдение за спазването на режима.
+- Всеки контакт с друг Силоз е заявен като нарушение, което води до незабавно задействане на Safeguard.
+- Следователно междусилозната изолация има смъртоносен при отказ механизъм за принуда.
 
-### S03E03 — mines / Lukas / spatial anchors
+### S03E03 — мини / Lukas / пространствени ориентири
 
-- Level 70 е direct-confirmed и е свързан с достъпа/началото на mine sector-а.
-- Level 124 е direct-confirmed.
-- Интериорът и tunnel network-ът на мините са директно показани.
+- Ниво 70 е директно потвърдено и е свързано с достъпа/началото на минния сектор.
+- Ниво 124 е директно потвърдено.
+- Интериорът и тунелната мрежа на мините са директно показани.
 - Lukas Kyle е жив в мините.
 - Juliette и Lukas се срещат отново там.
-- Lukas е активно преследван под контрола на Camille; първоначалната exact функция на мините остава unresolved.
+- Lukas е активно преследван под контрола на Camille; първоначалната точна функция на мините остава неизяснена.
 
-### S03E03 — Iran mission recording
+### S03E03 — запис от операцията срещу Iran
 
-- На всички aircraft в мисията са били инсталирани много стари комуникационни системи.
+- На всички самолети в мисията са били инсталирани много стари комуникационни системи.
 - Комуникациите са били сравнително лесни за записване/прихващане.
 - Daniel Keen намира и прослушва оцелял запис от мисията.
 - При завръщането му притежателят на записа е изчезнал, а мястото е претърсено.
-- Actor-ът, съдбата на притежателя и съдбата/съдържанието на записа остават unresolved.
+- Участникът, съдбата на притежателя и съдбата/съдържанието на записа остават неизяснени.
 
-### S03E02 — pre-Silo memory mechanism
+### S03E02 — механизъм на паметта преди силозите
 
-- Treating doctor direct-confirm-ва selective restore/omit capability за memories.
-- Recovery process включва repeated autobiographical narrative.
-- False autobiographical story може да бъде внушена.
-- False replacement narrative изисква time/effort.
-- Real memories се връщат бързо и остават налични, но temporarily inaccessible.
-- Най-добрият текущ mechanism е потискане на retrieval/access + narrative conditioning, а не доказано унищожаване на спомените.
+- Лекуващият лекар директно потвърждава способност за избирателно възстановяване/пропускане на спомени.
+- Процесът на възстановяване включва многократно повтарян автобиографичен разказ.
+- Може да бъде внушен фалшив автобиографичен разказ.
+- Фалшивият заместващ разказ изисква време/усилие.
+- Реалните спомени се връщат бързо и остават налични, но временно недостъпни.
+- Най-добрият текущ механизъм е потискане на извличането/достъпа + обуславяне чрез разказ, а не доказано унищожаване на спомените.
 
-### S03E02 — supervisory computer/system
+### S03E02 — надзорна компютърна система
 
-- System-ът знае за covert note activity и deception към Mrs Sims.
-- Deception decision е explicitly evaluated as concerning.
-- Juliette е modeled чрез red risk line и blue stabilizing-value line.
-- Crossing threshold означава, че Juliette вече не е useful.
-- Sudden removal е modeled като potentially catastrophically destabilizing.
-- System-ът иска `vitamins` да бъдат пуснати във водоснабдяването, преди removal да стане необходимо.
-- Това е contingency planning на population scale, а не просто monitoring на индивидуално лечение.
+- Системата знае за дейността с тайните бележки и измамата спрямо Mrs Sims.
+- Решението да се лъже е изрично оценено като тревожно.
+- Juliette е моделирана чрез червена линия на риска и синя линия на стабилизиращата стойност.
+- Пресичането на прага означава, че Juliette вече не е полезна.
+- Внезапното отстраняване е моделирано като потенциално катастрофално дестабилизиращо.
+- Системата иска `vitamins` да бъдат пуснати във водоснабдяването, преди отстраняването да стане необходимо.
+- Това е резервно планиране на ниво население, а не просто наблюдение на индивидуално лечение.
 
-### S03E02 — covert notes
+### S03E02 — тайни бележки
 
-- Note #2 насочва Juliette към first Silo Council meeting в cafeteria.
-- Note #3 е direct-confirmed, но exact transcription остава unresolved.
-- Субтитрите от съседни кадри са изключени от transcription-а на note #3.
-- Physical covert channel продължава да съществува, но не е доказано невидим за supervisory system-а.
+- Бележка №2 насочва Juliette към първото заседание на Silo Council в кафетерията.
+- Бележка №3 е директно потвърдена, но точната транскрипция остава неизяснена.
+- Субтитрите от съседни кадри са изключени от транскрипцията на бележка №3.
+- Физическият таен канал продължава да съществува, но не е доказано, че е невидим за надзорната система.
 
-### S03E01 — Juliette / post-return state
+### S03E01 — Juliette / състояние след завръщането
 
-- Current Silo 18 timeline е приблизително **3 месеца след завръщането на Juliette**.
-- Juliette е Mayor и е обратно вътре в Silo 18.
-- Level 1 / Up-top отново е показан; cafeteria и route към airlock/exterior са spatially re-confirmed.
-- Juliette остава под active surveillance; Sims лично наблюдава feed-а ѝ.
-- Juliette не помни Sims и има critical gaps около разговора си с Bernard и safeguard-stopping task-а.
-- На Juliette се дава memory-suppression medication; computer/system-ът знае protocol-а и иска doubled dose, когато спомените започват да се връщат.
-- На Juliette се подава false replacement narrative: cleaning → `bunker` → recovery → fire-resistant suit/helmet → return.
+- Текущата хронология на Silo 18 е приблизително **3 месеца след завръщането на Juliette**.
+- Juliette е кмет и отново е вътре в Silo 18.
+- Ниво 1 / горните нива са показани отново; кафетерията и маршрутът към шлюза/външната среда са пространствено потвърдени отново.
+- Juliette остава под активно наблюдение; Sims лично наблюдава видеопотока ѝ.
+- Juliette не помни Sims и има критични пропуски около разговора си с Bernard и задачата да спре Safeguard.
+- На Juliette се дава лекарство за потискане на паметта; компютърната система знае протокола и иска двойна доза, когато спомените започват да се връщат.
+- На Juliette се подава фалшив заместващ разказ: почистване → `bunker` → възстановяване → огнеустойчив костюм/шлем → завръщане.
 
-### S03E01 — Bernard / governance / containment — historical state, superseded by S03E04
+### S03E01 — Bernard / управление / изолация — историческо състояние, заменено от S03E04
 
-- S03E01 тогава установява apparent death account за Bernard и Sims твърди, че лично е изгорил Bernard.
-- Тялото/claimed body е carried около six hours от six porters към furnaces; reconstruction директно показва **Level 67**.
-- Burning rationale е представен като containment срещу possible outside-derived lethal contaminant.
-- **S03E04 correction:** Bernard е direct-confirmed alive in deep zone; следователно death/burning narrative е false, staged, misrepresented или materially incomplete.
-- Семейство Sims остава dominant visible governance/enforcement layer, но exact role в Bernard deception-а е unresolved.
+- S03E01 тогава установява привиден разказ за смъртта на Bernard, а Sims твърди, че лично го е изгорил.
+- Тялото/твърдяното тяло е пренасяно около шест часа от шестима разносвачи към пещите; възстановката директно показва **ниво 67**.
+- Причината за изгарянето е представена като изолация срещу възможен смъртоносен замърсител, донесен отвън.
+- **Корекция от S03E04:** Bernard е директно потвърден жив в дълбоката зона; следователно разказът за смърт/изгаряне е фалшив, инсцениран, подвеждащо представен или съществено непълен.
+- Семейството Sims остава доминиращият видим управленски/принудителен слой, но точната му роля в измамата около Bernard остава неизяснена.
 
-### S03E01 — computer/system / hidden lower layer
+### S03E01 — компютърна система / скрит долен слой
 
-- Computer/system-ът пита как е Mayor Juliette и знае memory-suppression treatment-а ѝ.
-- System-ът заявява, че current situation е `beyond The Order`.
-- System-ът реагира с `This concerns me`, когато Juliette започва да си спомня, и иска дозата да бъде удвоена.
-- Hidden lower tunnel е sealed; Lukas е missing.
-- Моделът за same-system/network връзка между този computer/system и S02E09 hidden lower contact е силно подсилен candidate, но не established identity.
+- Компютърната система пита как е кметът Juliette и знае за лечението ѝ за потискане на паметта.
+- Системата заявява, че текущата ситуация е `beyond The Order` („отвъд The Order“).
+- Системата реагира с `This concerns me` („Това ме тревожи“), когато Juliette започва да си спомня, и иска дозата да бъде удвоена.
+- Скритият долен тунел е запечатан; Lukas е изчезнал.
+- Моделът за връзка в една и съща система/мрежа между тази компютърна система и скрития долен контакт от S02E09 е силно подсилен кандидат, но не установена идентичност.
 
-### S03E01 — social/spatial state
+### S03E01 — социално/пространствено състояние
 
-- **Level 87** е direct-confirmed.
-- Anti-display / truth movement остава active; mural заявява `THIS IS THE TRUTH / THE DISPLAY IS LIE!`.
-- Covert physical communication може да bypass-ва surveillance: note е hidden in food, bowl orientation служи като acknowledgment, meeting point е marketplace on Level 2.
+- **Ниво 87** е директно потвърдено.
+- Движението срещу екраните / в търсене на истината остава активно; стенопис заявява `THIS IS THE TRUTH / THE DISPLAY IS LIE!`.
+- Тайната физическа комуникация може да заобикаля наблюдението: бележката е скрита в храна, ориентацията на купата служи като потвърждение, а мястото за среща е пазарът на ниво 2.
 
-### S03E01 — pre-Silo Washington / Iran operation
+### S03E01 — Washington преди силозите / операцията срещу Iran
 
-- Congressman-ът от Georgia's 15th district е named **Daniel Keen**.
-- Сестрата на Keen участва в retaliatory operation срещу Iran, представена като response на alleged dirty-bomb/radiological attack.
-- При приблизително 15 000 m multiple aircraft и launched missiles са засегнати от common-mode anomalous disruption около cloud/region.
-- Сестрата на Keen survives.
-- Mechanism-ът на disruption-а остава unknown; не се приема автоматично EMP, chemical/radiological cloud, Iranian weapon или Silo technology.
+- Конгресменът от 15-и район на Georgia е назован като **Daniel Keen**.
+- Сестрата на Keen участва в ответна операция срещу Iran, представена като отговор на предполагаема „мръсна бомба“/радиологична атака.
+- При приблизително 15 000 m множество самолети и изстреляни ракети са засегнати от аномално нарушение с общ режим около облак/регион.
+- Сестрата на Keen оцелява.
+- Механизмът на нарушението остава неизвестен; не се приема автоматично EMP, химически/радиологичен облак, иранско оръжие или технология на силозите.
 
-### S02E10 — safeguard mechanism / Silo 17
+### S02E10 — механизъм на Safeguard / Silo 17
 
-- `The safeguard` включва physical pipe.
-- Pipe-ът може да достави poison, способен да убие population на local Silo.
-- Silo 17 survivor-ът казва, че родителите му са успели да block-нат safeguard-а.
-- Safeguard supply идва отвън и влиза при Level 14.
-- Safeguard-ът следователно е отделен от независимо реалната външна опасност.
+- `The safeguard` включва физическа тръба.
+- Тръбата може да достави отрова, способна да убие населението на локален Силоз.
+- Оцелелият от Silo 17 казва, че родителите му са успели да блокират Safeguard.
+- Подаването към Safeguard идва отвън и влиза при ниво 14.
+- Следователно Safeguard е отделен от независимо реалната външна опасност.
 - Физическото блокиране показва, че механизмът има практически път за прекъсване.
 
-### S02E10 — Silo 18 crisis / Juliette return
+### S02E10 — кризата в Silo 18 / завръщането на Juliette
 
-- Level 123 е direct-confirmed.
-- Rebels sabotage-ват main stair connections и operationally split-ват Bernard's forces.
-- Sheriff Department / exit access са в Level 1 Up-top zone, непосредствено до cafeteria.
-- Juliette се връща и показва `not safe / do not come out` към exterior camera.
-- Bernard лично я посреща при airlock-а в protective gear.
-- Juliette казва, че **може би знае как да спре safeguard-а**.
-- Коригираната chronology е: Juliette's statement → двамата влизат → burner/flame cycle.
-- S03E05 директно потвърждава burner/flame cycle-а като airlock sterilization/decontamination procedure с nominal 48-hour inner-door lockout.
+- Ниво 123 е директно потвърдено.
+- Бунтовниците саботират основните връзки по стълбището и оперативно разделят силите на Bernard.
+- Службата на шерифа / достъпът до изхода са в горната зона на ниво 1, непосредствено до кафетерията.
+- Juliette се връща и показва `not safe / do not come out` („не е безопасно / не излизайте“) към външната камера.
+- Bernard лично я посреща при шлюза със защитно оборудване.
+- Juliette казва, че **може би знае как да спре Safeguard**.
+- Коригираната хронология е: твърдението на Juliette → двамата влизат → цикъл с горелка/пламъци.
+- S03E05 директно потвърждава, че цикълът с горелка/пламъци е процедура за стерилизация/обеззаразяване на шлюза с номинално 48-часово блокиране на вътрешната врата.
 
-### S02E10 — direct pre-Silo Washington
+### S02E10 — пряка сцена от Washington преди силозите
 
-- Разказът показва директна pre-Silo сцена във Washington.
-- Radiation screening е показан пред bar и meter status е `NORMAL`.
-- Central male character е Congressman from Georgia's 15th congressional district.
-- Alleged prior radiological attack срещу САЩ е attributed to Iran в разговора.
-- Congressman-ът е питан за possible retaliatory strike.
-- Dialogue-ът директно поставя под въпрос дали radiological attack изобщо е имало.
-- Fabricated/manipulated-pretext interpretation е candidate, не established fact.
-- Congressman-ът подарява packaged yellow-duck PEZ dispenser на жената.
-- Подаръкът PEZ е силен кандидат за връзка по произход към по-ранната Silo-era жълта пластмасова реликва със синя дръжка; точната идентичност като един и същ предмет остава недоказана.
+- Разказът показва директна сцена във Washington от периода преди силозите.
+- Пред бар е показана проверка за радиация, а състоянието на измервателя е `NORMAL`.
+- Централният мъжки персонаж е конгресмен от 15-и конгресен район на Georgia.
+- В разговора предполагаема предишна радиологична атака срещу САЩ е приписана на Iran.
+- Конгресменът е попитан за възможен ответен удар.
+- Диалогът директно поставя под въпрос дали радиологичната атака изобщо е имало.
+- Интерпретацията за фабрициран/манипулиран претекст е кандидат-хипотеза, а не установен факт.
+- Конгресменът подарява опакован PEZ дозатор с жълто пате на жената.
+- Подаръкът PEZ е силен кандидат за връзка по произход към по-ранната жълта пластмасова реликва със синя дръжка от епохата на силозите; точната идентичност като един и същ предмет остава недоказана.
 
-### S02E09 — Quinn / 50–51 Silos / safeguard
+### S02E09 — Quinn / 50–51 силоза / Safeguard
 
-- Decoded Quinn material казва, че Founders са построили **50 Silos**.
-- Bernard отделно казва, че real count е **51**.
-- 50/51 discrepancy се пази explicit; S02E09 не обяснява причината.
-- Heads of IT и shadows знаят за другите Silos.
-- Quinn въвежда `the safeguard` като protected system concept.
-- Quinn насочва future reader към very bottom → tunnel → confirmation.
+- Декодираният материал на Quinn казва, че Основателите са построили **50 силоза**.
+- Bernard отделно казва, че реалният брой е **51**.
+- Несъответствието 50/51 се пази изрично; S02E09 не обяснява причината.
+- Ръководителите на IT и техните `shadow` наследници знаят за другите силози.
+- Quinn въвежда `the safeguard` като защитена системна концепция.
+- Quinn насочва бъдещия читател към самото дъно → тунела → потвърждението.
 - Това превръща кодираното съобщение в практически използваем път за физическа проверка.
 
 ### S02E09 — bottom tunnel / active lower system
