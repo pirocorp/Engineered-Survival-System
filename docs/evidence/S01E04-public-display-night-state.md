@@ -4,38 +4,38 @@
 
 ## Observation
 
-Public exterior display е показан в normal night-state presentation:
+Публичният екран за външната среда е показан в нормално нощно състояние:
 
-- exterior scene е тъмна;
-- tree silhouette остава visible;
+- сцената навън е тъмна;
+- силуетът на дървото остава видим;
 - небето съдържа светли точки/звезди.
 
 ## What this establishes
 
-Public barren representation е **dynamic**, не immutable daytime still image.
+Публичното безплодно представяне е **динамично**, а не непроменливо дневно неподвижно изображение.
 
-Това е съвместимо с няколко architectures:
+Това е съвместимо с няколко архитектури:
 
 1. live camera feed;
 2. processed live camera feed;
-3. prerecorded/time-indexed визуална sequence;
-4. generated/synthetic representation synchronized с internal clock;
+3. предварително записана/индексирана по време визуална последователност;
+4. генерирано/синтетично представяне, синхронизирано с вътрешен часовник;
 5. composite pipeline.
 
 ## Relation to S01E03 power-down flash
 
-S01E03 вече доказа, че public display може да покаже радикално различно зелено състояние при изключване на захранването.
+S01E03 вече доказа, че публичният екран може да покаже радикално различно зелено състояние при изключване на захранването.
 
-S01E04 night state добавя важен constraint:
+Нощното състояние в S01E04 добавя важно ограничение:
 
-> нормалният public pipeline също сменя визуалното състояние според контекста/времето.
+> нормалният публичен канал също сменя визуалното състояние според контекста/времето.
 
-Това strengthens dynamic-pipeline model-а, но **не authenticates barren exterior като physical reality**.
+Това подсилва динамичния модел на визуалния канал, но **не удостоверява безплодната външна среда като физическа реалност**.
 
 ## Open tests
 
-- star positions repeatable ли са;
-- clouds/weather имат ли continuous motion;
-- day/night transition smooth/live ли е;
-- sensor occlusion/cleaning веднага ли се отразява на display;
-- system logs reveal ли source switching.
+- повтаряеми ли са позициите на звездите;
+- имат ли облаците/времето непрекъснато движение;
+- плавен/на живо ли е преходът ден/нощ;
+- отразява ли се закриването/почистването на сензора веднага на екрана;
+- разкриват ли системните дневници превключване на източника.
