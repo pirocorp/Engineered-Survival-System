@@ -1,19 +1,19 @@
-# S03E01 — Juliette memory control, Bernard aftermath и governance
+# S03E01 — Juliette контрол върху паметта, Bernard aftermath и governance
 
-**Knowledge boundary:** `S03E01`
+**Граница на знанието:** `S03E01`
 
-## Direct evidence
+## Пряко доказателство
 
 - Juliette е Mayor ~3 months след return-а.
-- Тя е actively surveilled; Sims наблюдава feed-а.
+- Тя е actively surveilled; Sims наблюдава видеопоток-а.
 - Не помни Sims и critical Bernard/safeguard conversation.
-- Получава `vitamins`; later computer/system dialogue потвърждава memory-suppression medication.
-- Подаден ѝ е false `bunker` replacement narrative, който contradict-ва Silo 17 direct evidence.
+- Получава `vitamins`; later computer/система диалог потвърждава memory-потискане medication.
+- Подаден ѝ е false `bunker` replacement разказ, който contradict-ва Silo 17 Пряко доказателство.
 - Bernard е dead; later reveal показва human killing, а не simple death from outside/flame.
 - Body transport е ~six hours с six porters; Level 67 е видим.
 - Sims твърди, че лично е burned Bernard.
 
-## Model
+## модел
 
 ```text
 protected Juliette knowledge
@@ -27,15 +27,15 @@ continuous surveillance
 watch for memory recovery
 ```
 
-Това превръща pharmacological memory control от historical/institutional capability в **current targeted operational use** срещу Juliette.
+Това превръща pharmacological контрол върху паметта от исторически/институционален възможност в **current targeted оперативен use** срещу Juliette.
 
 ## Governance
 
-S03E01 показва continuity, а не regime redesign: architecture-та остава recognizable, family Sims държи dominant control layer, а Juliette има formal Mayor role без еквивалентен privileged informational control.
+S03E01 показва непрекъснатост, а не regime redesign: архитектура-та остава recognizable, family Sims държи dominant контрол слой, а Juliette има formal Mayor role без еквивалентен privileged informational контрол.
 
 ## Boundaries
 
-- exact formal roles на Sims family не се infer-ват без direct title evidence;
-- exact killer/order behind Bernard остава unresolved;
-- `vitamins` wording е cover/framing; exact chemical identity остава unknown;
+- точен formal roles на Sims family не се infer-ват без пряк title доказателство;
+- точен killer/order behind Bernard остава неизяснен;
+- `vitamins` wording е cover/framing; точен chemical identity остава unknown;
 - burner containment role ≠ safeguard.

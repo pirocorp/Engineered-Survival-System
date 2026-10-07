@@ -1,38 +1,38 @@
-# S01E06 — Visual evidence manifest
+# S01E06 — Манифест на визуалните доказателства
 
-Целеви repo path: `assets/S01E06/screenshots/`
+Целеви път в хранилището: `assets/S01E06/screenshots/`
 
 ## Обработка
 
-Изображенията са обработени само чрез **perspective correction / rectification + crop** на предоставените TV снимки.
+Изображенията са обработени само чрез **корекция на перспективата / ректификация + изрязване** на предоставените снимки на телевизионния екран.
 
-- без generative editing;
-- без generative fill;
-- без AI reconstruction;
-- без object removal;
+- без генеративно редактиране;
+- без генеративно запълване;
+- без реконструкция с ИИ;
+- без премахване на обекти;
 - без дорисуване;
-- JPEG quality: **95**;
-- output size: **1536×864**;
-- без агресивен downscale.
+- качество на JPEG: **95**;
+- размер на изходното изображение: **1536×864**;
+- без агресивно намаляване на резолюцията.
 
-## Selected screenshots
+## Избрани екранни снимки
 
 | Файл | Категория | Контекст | Оригинал |
 |---|---|---|---|
-| `pez-relic-law-enforcement-object-search.jpeg` | Investigation / relic control | Търсене на намерената PEZ-подобна реликва в системата на Sheriff/органите на реда. | `IMG_DAABDF90-1065-477D-80F0-F884BC6119F0.jpeg` |
-| `forgiveness-holiday-level-marker.jpeg` | Worldbuilding / social culture | Level marker + dialogue за Forgiveness Holiday. | `IMG_422C5E10-4528-4E4A-8BD0-F5EECAEE5A92.jpeg` |
-| `judicial-relic-database-sims-access.jpeg` | Judicial / relic control | Restricted relic database; context за authorization / access на Sims. | `IMG_3C546169-3136-40E3-80EE-D22BAF6EB3DA.jpeg` |
-| `judicial-relic-database-pre-silo-object-1175.jpeg` | Relic database / pre-Silo | Резултат от базата данни: Object 1175, origin `PRE-SILO`. | `IMG_4E8A0D7B-23D7-4CB5-B993-971D401F41F7.jpeg` |
-| `level-17-marker.jpeg` | Worldbuilding / spatial map | Spatial anchor за Level 17. | `IMG_808C07E5-D750-4508-9384-989E23E5BDC2.jpeg` |
-| `pre-silo-georgia-travel-guide-relic.jpeg` | Pre-Silo geography / relic | Корицата на *Amazing Adventures in Georgia*. | `IMG_761FB9C8-80F6-4FE0-A04B-D0323314F417.jpeg` |
-| `pre-silo-georgia-chattahoochee-forest.jpeg` | Pre-Silo geography / environment | Съдържание от Georgia travel guide за гора / Chattahoochee. | `IMG_FF13CE74-D49D-4361-8ECA-29100EEB1552.jpeg` |
-| `pre-silo-georgia-wildlife-guide.jpeg` | Pre-Silo environment / wildlife | Страници от Georgia guide с wildlife и outdoor activity content. | `IMG_F611E72F-1481-4C58-95EF-7B303B8E68D1.jpeg` |
-| `pre-silo-georgia-coast-tybee-island.jpeg` | Pre-Silo geography / coast | Страница за Georgia coast / Tybee Island и U.S. imagery. | `IMG_C7E57FA9-78DB-4078-8DF3-06E93898D158.jpeg` |
-| `juliette-home-surveillance-feed.jpeg` | Surveillance / privacy | Дистанционен video feed, показващ Juliette в дома ѝ. | `IMG_8F98AC9F-CAAA-4D35-920D-812047589C3C.jpeg` |
-| `centralized-surveillance-control-center-wide.jpeg` | Surveillance / infrastructure | Wide overview на centralized multi-feed surveillance control center. | `IMG_37235F36-DFE1-4DC6-8FC5-4DBE85436F05.jpeg` |
+| `pez-relic-law-enforcement-object-search.jpeg` | Разследване / контрол на реликви | Търсене на намерената PEZ-подобна реликва в системата на Sheriff/органите на реда. | `IMG_DAABDF90-1065-477D-80F0-F884BC6119F0.jpeg` |
+| `forgiveness-holiday-level-marker.jpeg` | Изграждане на света / обществена култура | Означение за ниво и диалог за Forgiveness Holiday. | `IMG_422C5E10-4528-4E4A-8BD0-F5EECAEE5A92.jpeg` |
+| `judicial-relic-database-sims-access.jpeg` | Judicial / контрол на реликви | Ограничена база данни за реликви; контекст за правомощията и достъпа на Sims. | `IMG_3C546169-3136-40E3-80EE-D22BAF6EB3DA.jpeg` |
+| `judicial-relic-database-pre-silo-object-1175.jpeg` | База данни за реликви / преди силозите | Резултат от базата данни: Object 1175, произход `PRE-SILO`. | `IMG_4E8A0D7B-23D7-4CB5-B993-971D401F41F7.jpeg` |
+| `level-17-marker.jpeg` | Изграждане на света / пространствена карта | Пространствен ориентир за ниво 17. | `IMG_808C07E5-D750-4508-9384-989E23E5BDC2.jpeg` |
+| `pre-silo-georgia-travel-guide-relic.jpeg` | География преди силозите / реликва | Корицата на *Amazing Adventures in Georgia*. | `IMG_761FB9C8-80F6-4FE0-A04B-D0323314F417.jpeg` |
+| `pre-silo-georgia-chattahoochee-forest.jpeg` | География преди силозите / околна среда | Съдържание от пътеводителя за Georgia за гората/Chattahoochee. | `IMG_FF13CE74-D49D-4361-8ECA-29100EEB1552.jpeg` |
+| `pre-silo-georgia-wildlife-guide.jpeg` | Околна среда преди силозите / дива природа | Страници от пътеводителя за Georgia с дива природа и дейности на открито. | `IMG_F611E72F-1481-4C58-95EF-7B303B8E68D1.jpeg` |
+| `pre-silo-georgia-coast-tybee-island.jpeg` | География преди силозите / крайбрежие | Страница за крайбрежието на Georgia/Tybee Island и изображения от САЩ. | `IMG_C7E57FA9-78DB-4078-8DF3-06E93898D158.jpeg` |
+| `juliette-home-surveillance-feed.jpeg` | Наблюдение / неприкосновеност | Дистанционен видеопоток, показващ Juliette в дома ѝ. | `IMG_8F98AC9F-CAAA-4D35-920D-812047589C3C.jpeg` |
+| `centralized-surveillance-control-center-wide.jpeg` | Наблюдение / инфраструктура | Широк кадър на централизиран център за наблюдение с множество видеопотоци. | `IMG_37235F36-DFE1-4DC6-8FC5-4DBE85436F05.jpeg` |
 
-## Auxiliary
+## Спомагателни материали
 
-`contact-sheet.jpg` е само navigation/overview aid и **не е primary evidence**.
+`contact-sheet.jpg` е само помощно средство за навигация/преглед и **не е основно доказателство**.
 
-**Knowledge boundary:** S01E06 only.
+**Граница на знанието:** само S01E06.

@@ -1,8 +1,8 @@
-# S03E01 — pre-Silo Washington: Daniel Keen, Iran operation и anomalous disruption
+# S03E01 — от периода преди силозите Washington: Daniel Keen, Iran operation и anomalous disruption
 
-**Knowledge boundary:** `S03E01`
+**Граница на знанието:** `S03E01`
 
-S03E01 продължава direct pre-Silo Washington timeline от S02E10.
+S03E01 продължава пряк от периода преди силозите Washington timeline от S02E10.
 
 ## Daniel Keen
 
@@ -36,8 +36,8 @@ Keen's sister survives.
 
 ## Interpretation boundary
 
-Common-mode pattern strongly argues against one-aircraft mechanical failure, но не establishes EMP, electronic warfare, radiological/chemical effect, weather, Iranian weapon или any Silo-related technology.
+Common-mode модел strongly argues against one-aircraft mechanical провал, но не establishes EMP, electronic warfare, radiological/chemical effect, weather, Iranian weapon или any Silo-related технология.
 
 ## Open significance
 
-Този event може да стане origin-era systems clue само ако future on-screen evidence го свърже с Silo project, exterior catastrophe или broader strategic technology.
+Този event може да стане origin-era systems clue само ако future on-screen доказателство го свърже с Silo project, външна среда catastrophe или broader strategic технология.

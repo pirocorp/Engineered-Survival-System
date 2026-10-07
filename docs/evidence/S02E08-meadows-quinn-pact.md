@@ -1,6 +1,6 @@
 # S02E08 — Meadows, семейството на Quinn и The Pact Between the Founders
 
-**Knowledge boundary:** `S02E08`
+**Граница на знанието:** `S02E08`
 
 S02E08 дава конкретен контекст на по-ранния интерес на Meadows към Salvador Quinn.
 
@@ -8,7 +8,7 @@ S02E08 дава конкретен контекст на по-ранния ин�
 
 Преди да стане Judge, докато все още е shadow на Bernard, Meadows посещава роднини/потомци на Quinn и търси оцелели книги и исторически материали.
 
-Това установява независимо историческо разследване **вътре** в privileged succession layer.
+Това установява независимо историческо разследване **вътре** в privileged succession слой.
 
 ## Оцелялото копие на Pact
 
@@ -45,20 +45,20 @@ Salvador Quinn
 
 **Разследването на Meadows за Quinn и оцелелите исторически материали може да е допринесло за решението ѝ да изостави shadow path на Bernard.**
 
-**Confidence:** M–H  
-**Status:** Active.
+**увереност:** M–H  
+**статус:** Active.
 
-Засега не приравняваме посещението при семейството на Quinn с известното четиридневно изчезване на Meadows, освен ако по-късен evidence не ги свърже изрично.
+Засега не приравняваме посещението при семейството на Quinn с известното четиридневно изчезване на Meadows, освен ако по-късен доказателство не ги свърже изрично.
 
 ## H67
 
 **Quinn е бил пряко асоцииран с оцеляло foundational Pact material.**
 
-**Confidence:** H  
-**Status:** Active / Strengthened.
+**увереност:** H  
+**статус:** Active / Strengthened.
 
 Точният характер на тази връзка остава отворен.
 
-## Visual
+## визуален
 
 - [Salvador Quinn — The Pact Between the Founders](../../assets/S02E08/screenshots/salvador-quinn-founders-pact-copy.jpeg)

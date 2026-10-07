@@ -1,39 +1,39 @@
-# S03E07 visual evidence manifest
+# S03E07 — Манифест на визуалните доказателства
 
-**Knowledge boundary:** `S03E07`
+**Граница на знанието:** `S03E07`
 
-Binary assets са качени директно в `main` с commit:
+Двоичните ресурси са качени директно в `main` с commit:
 
 - `ef2fffa5c9f509da7d4c08beedef0c6a1088d0fb` — `S03E07`
 
-Файловете са сравнени byte-for-byte с локално подготвения visual package чрез Git blob SHA.
+Файловете са сравнени байт по байт с локално подготвения пакет от визуални материали чрез Git blob SHA.
 
-| File | Git blob SHA | Role |
+| Файл | Git blob SHA | Роля |
 |---|---|---|
-| `screenshots/system-console-reboot-null-feed.jpeg` | `eac724d0ff9a4a45b8f71e225cfd5003b536b47d` | Primary evidence — low-level console / null-feed static loop |
-| `screenshots/exterior-night.jpeg` | `328fb8131753b288b1bd34692d926f5dc737fcde` | Primary evidence — Kyle/Kennedy outside at night |
-| `screenshots/exterior-night-stars.jpeg` | `0aad064e629baa2d8b7fb8bca06e5032369c9dc5` | Primary evidence — real exterior night sky / stars |
-| `screenshots/pre-silo-georgia-construction-site.jpeg` | `508f6dc97ffddd8dccd3855570112137f7e9142c` | Primary evidence — Georgia/Atlanta multi-Silo construction site |
-| `contact-sheet.jpg` | `fa2d72f83364f4df53bd38ebadf8ae433638bf23` | Спомагателен navigation asset |
+| `screenshots/system-console-reboot-null-feed.jpeg` | `eac724d0ff9a4a45b8f71e225cfd5003b536b47d` | Основно доказателство — нискониво конзола / статичен цикъл с нулев видеопоток |
+| `screenshots/exterior-night.jpeg` | `328fb8131753b288b1bd34692d926f5dc737fcde` | Основно доказателство — Kyle/Kennedy навън през нощта |
+| `screenshots/exterior-night-stars.jpeg` | `0aad064e629baa2d8b7fb8bca06e5032369c9dc5` | Основно доказателство — реално нощно небе / звезди във външната среда |
+| `screenshots/pre-silo-georgia-construction-site.jpeg` | `508f6dc97ffddd8dccd3855570112137f7e9142c` | Основно доказателство — строителна площадка на множество силози в Georgia/района на Atlanta |
+| `contact-sheet.jpg` | `fa2d72f83364f4df53bd38ebadf8ae433638bf23` | Спомагателен навигационен материал |
 
-## Visual handling
+## Обработка на изображенията
 
-- perspective correction на photographed TV plane, когато е необходимо;
-- output 1536×864 за primary screenshots;
-- JPEG quality 95;
-- без generative edits;
-- без content reconstruction;
-- без object/subtitle removal;
-- без synthetic fill.
+- корекция на перспективата спрямо заснетата равнина на телевизионния екран, когато е необходимо;
+- изходен размер 1536×864 за основните екранни снимки;
+- качество на JPEG: 95;
+- без генеративни редакции;
+- без реконструкция на съдържание;
+- без премахване на обекти/субтитри;
+- без синтетично запълване.
 
-## Evidence scope
+## Обхват на доказателствата
 
-Visual package-ът е избран набор от потвърждаващи frames, а не замяна на dialogue/event ledger-а.
+Пакетът от визуални материали е избран набор от потвърждаващи кадри, а не замяна на регистъра на диалозите и събитията.
 
-S03E07 има важни dialogue-driven findings без dedicated screenshot в package-а, включително:
-- Voice report, че Kyle и Kennedy са `neutralized`;
-- Voice inference за temporary safeguard defeat в Silo 17;
-- Camille/Voice hypothesis за истинската цел на Juliette;
-- radio contradiction;
-- sister fragmented memory + NDA;
-- Silo 18 decision да прекрати Judicial/safeguard-pipe operation-а.
+S03E07 съдържа важни находки, установени чрез диалог, без отделна екранна снимка в пакета, включително:
+- доклада на „Гласът“, че Kyle и Kennedy са `neutralized`;
+- извода на „Гласът“ за временно преодоляване на Safeguard в Silo 17;
+- хипотезата на Camille/„Гласът“ за истинската цел на Juliette;
+- противоречието в радиокомуникацията;
+- фрагментираната памет на сестрата + NDA;
+- решението в Silo 18 да се прекрати операцията на Judicial по тръбата на Safeguard.

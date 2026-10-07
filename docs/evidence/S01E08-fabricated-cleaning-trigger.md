@@ -1,8 +1,8 @@
-# S01E08 — Fabricated/disputed cleaning trigger and arrest
+# S01E08 — Fabricated/disputed почистване задействане and arrest
 
-**Knowledge boundary:** `S01E08`
+**Граница на знанието:** `S01E08`
 
-## Evidence
+## Доказателство
 
 Mayor и Sims координират капан срещу Juliette.
 
@@ -10,7 +10,7 @@ Mayor и Sims координират капан срещу Juliette.
 
 Juliette е арестувана въз основа на приписаното изказване.
 
-## Mechanism
+## механизъм
 
 ```text
 target Juliette
@@ -32,28 +32,28 @@ arrest / cleaning-path coercion
 
 Това е по-силно от simple falsification на official narrative след събитието.
 
-Самото disputed/false testimony се превръща във **входа**, който активира institutional coercion.
+Самото disputed/false свидетелство се превръща във **входа**, който активира институционален coercion.
 
 ### H25
 `VH / Strongly Strengthened + Refactored`
 
-Control network потенциално може да manipulates:
-- physical evidence;
+контрол мрежа потенциално може да manipulates:
+- физически доказателство;
 - investigative narrative;
-- witness/testimony state;
+- witness/свидетелство state;
 - legal/procedural predicates;
 - downstream coercive outcomes.
 
 ### H23
-Strengthened, защото конфликтът около Sheriff independence вече е direct, а не само appointment/staffing pressure.
+Strengthened, защото конфликтът около Sheriff independence вече е пряк, а не само appointment/staffing pressure.
 
 ### H26
-Mayor ↔ Sims operational coordination е confirmed за това събитие. Formal hierarchy остава unresolved.
+Mayor ↔ Sims оперативен coordination е потвърден за това събитие. Formal hierarchy остава неизяснен.
 
 ## Open falsification targets
 
-- Има ли audio/video recording на помещението?
+- Има ли audio/video запис на помещението?
 - Pact изисква ли corroboration?
-- Кой въвежда statement-а в official record?
-- Може ли Juliette да го challenge-не преди cleaning?
+- Кой въвежда statement-а в official запис?
+- Може ли Juliette да го challenge-не преди почистване?
 - Използва ли се тази техника в други случаи?

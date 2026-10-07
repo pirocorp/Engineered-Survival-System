@@ -1,36 +1,36 @@
-# S01E08 — Visual evidence manifest
+# S01E08 — Манифест на визуалните доказателства
 
-Целеви repo path: `assets/S01E08/screenshots/`
+Целеви път в хранилището: `assets/S01E08/screenshots/`
 
 ## Обработка
 
-Selected screenshots са обработени първо с **perspective correction / rectification**, след което са cropped до TV picture plane.
+Избраните екранни снимки са обработени първо с **корекция на перспективата / ректификация**, след което са изрязани до видимата равнина на телевизионния екран.
 
-- без generative editing
-- без generative fill или reconstruction
-- без object removal
-- без content alteration
-- JPEG quality: **95**
-- output: **1536×864**
+- без генеративно редактиране;
+- без генеративно запълване или реконструкция;
+- без премахване на обекти;
+- без промяна на съдържанието;
+- качество на JPEG: **95**;
+- изходен размер: **1536×864**.
 
-## Selected screenshots
+## Избрани екранни снимки
 
-| Файл | Evidence / context |
+| Файл | Доказателство / контекст |
 |---|---|
-| `juliette-mother-rabbit-heart-research.jpeg` | Flashback/context: майката на Juliette използва заека като част от опит да разбере сърдечен проблем, аналогичен на този на Jacob. |
-| `juliette-mother-illicit-microscope-device.jpeg` | Direct visual evidence за homemade magnification/microscope apparatus. |
+| `juliette-mother-rabbit-heart-research.jpeg` | Ретроспекция: майката на Juliette използва заека като част от опит да разбере сърдечен проблем, аналогичен на този на Jacob. |
+| `juliette-mother-illicit-microscope-device.jpeg` | Пряко визуално доказателство за самоделно увеличително/микроскопско устройство. |
 | `juliette-mother-restricted-access-magnification-record.jpeg` | Институционален запис с ограничен достъп за майката на Juliette и дейност около увеличително устройство. |
-| `juliette-mirror-surveillance-realization.jpeg` | Сцена, подкрепяща осъзнаването на Juliette, че mirror surveillance може да обясни как authorities са научили за microscope-а на майка ѝ. |
-| `pete-nichols-priority-message-to-martha-walker.jpeg` | Priority digital message от Medical / Dr Pete Nichols до Martha Walker: “RUNAWAY HEADING TO YOU, URGENT. ETA 6PM.” |
-| `level-30-marker.jpeg` | Нов direct spatial anchor за Level 30. |
-| `contact-sheet.jpg` | Само auxiliary review/navigation; **не е primary evidence**. |
+| `juliette-mirror-surveillance-realization.jpeg` | Сцена, подкрепяща извода на Juliette, че наблюдението чрез огледалата може да обясни как властите са научили за микроскопа на майка ѝ. |
+| `pete-nichols-priority-message-to-martha-walker.jpeg` | Приоритетно цифрово съобщение от Medical / Dr Pete Nichols до Martha Walker: “RUNAWAY HEADING TO YOU, URGENT. ETA 6PM.” |
+| `level-30-marker.jpeg` | Нов пряк пространствен ориентир за ниво 30. |
+| `contact-sheet.jpg` | Само спомагателен материал за преглед/навигация; **не е основно доказателство**. |
 
 ## Епистемични бележки
 
-- Microscope apparatus е visually confirmed; exact optical power не е established.
-- Restricted document е visually confirmed, но дребният частично замъглен текст не трябва да се over-transcribe-ва.
-- Mirror-surveillance scene отслабва по-ранното father-as-informant обяснение за откриването на microscope-а; не доказва, че той никога не е споделял друга информация.
-- Самото priority message казва `RUNAWAY`; самоличността трябва да се извежда от контекста на сцената, а не само от текста на screenshot-а.
-- Level 30 е само spatial anchor; не се извежда special function от самия marker.
+- Микроскопското устройство е визуално потвърдено; точната му оптична мощност не е установена.
+- Документът с ограничен достъп е визуално потвърден, но дребният и частично замъглен текст не трябва да се транскрибира прекомерно уверено.
+- Сцената с наблюдението чрез огледалата отслабва по-ранното обяснение, че бащата е бил информатор за откриването на микроскопа; тя не доказва, че той никога не е споделял друга информация.
+- Самото приоритетно съобщение използва `RUNAWAY`; самоличността трябва да се извежда от контекста на сцената, а не само от текста на екранната снимка.
+- Ниво 30 е само пространствен ориентир; от самото означение не се извежда специална функция.
 
-**Knowledge boundary:** S01E08 only.
+**Граница на знанието:** само S01E08.

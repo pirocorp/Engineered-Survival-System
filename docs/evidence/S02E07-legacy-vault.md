@@ -1,19 +1,19 @@
-# S02E07 — habitation в IT vault и Legacy library
+# S02E07 — habitation в IT трезор и Legacy библиотека
 
-**Knowledge boundary:** `S02E07`
+**Граница на знанието:** `S02E07`
 
-S02E07 съществено refactor-ва secured IT vault.
+S02E07 съществено refactor-ва защитен IT трезор.
 
 ## Директни доказателства
 
-The vault includes:
+The трезор includes:
 - residential/living compartments;
-- protected component, наречен `Legacy`;
-- `Legacy` е идентифициран като library / knowledge archive.
+- защитен component, наречен `Legacy`;
+- `Legacy` е идентифициран като библиотека / knowledge архив.
 
-Това означава, че vault не се моделира адекватно само като server room или hardened security compartment.
+Това означава, че трезор не се моделира адекватно само като server room или hardened security compartment.
 
-## Continuity model
+## непрекъснатост модел
 
 ```text
 IT vault
@@ -34,32 +34,32 @@ IT vault
 
 ## H42 update
 
-**IT vault е защитена среда за приемственост, предназначена да запазва хора, захранване, привилегировани системи и защитено знание през криза/колапс.**
+**IT трезор е защитена среда за приемственост, предназначена да запазва хора, захранване, привилегировани системи и защитено знание през криза/колапс.**
 
-**Confidence:** H → VH-ish  
-**Status:** Strongly Strengthened / Refactored.
+**увереност:** H → VH-ish  
+**статус:** Strongly Strengthened / Refactored.
 
 ## H44 update
 
-Дълбокото историческо/cross-Silo знание на Bernard вече не изисква неясен механизъм „наследено институционално знание“.
+Дълбокото историческо/междусилозен знание на Bernard вече не изисква неясен механизъм „наследено институционално знание“.
 
 `Legacy` дава concrete candidate repository, чрез който това knowledge може да бъде preserved и transferred.
 
-**Confidence:** H → VH-ish  
-**Status:** Strongly Strengthened / Refactored.
+**увереност:** H → VH-ish  
+**статус:** Strongly Strengthened / Refactored.
 
 ## H59
 
-**IT vault-овете може да съдържат стандартизиран `Legacy` архив, предназначен да запазва техническо, историческо и управленско знание през наследяване или колапс на целия Silo.**
+**IT трезор-овете може да съдържат стандартизиран `Legacy` архив, предназначен да запазва техническо, историческо и управленско знание през наследяване или колапс на целия Silo.**
 
-**Confidence:** H  
-**Status:** Active / Strongly Supported в Silo 18.
+**увереност:** H  
+**статус:** Active / Strongly Supported в Silo 18.
 
-Cross-Silo standardization остава incomplete:
-- Silo 17 vault е directly established;
-- Silo 17 continuity power е directly/testimony-backed;
-- Silo 17 survivor има unusually broad knowledge;
-- но `Legacy` archive в Silo 17 все още не е директно показан или назован.
+междусилозен standardization остава incomplete:
+- Silo 17 трезор е directly established;
+- Silo 17 непрекъснатост захранване е directly/свидетелство-backed;
+- Silo 17 оцелял има unusually broad knowledge;
+- но `Legacy` архив в Silo 17 все още не е директно показан или назован.
 
 ## Visuals
 

@@ -1,26 +1,26 @@
-# Season 3 repo-wide methodology / consistency audit
+# Season 3 в цялото хранилище Методология / Одит за консистентност
 
-**Audit anchor:** `main@c2a7ce7bc2c914c748f1d00d8d8272d9d57b1334`  
-**Knowledge boundary:** `S03E10`
+**одит anchor:** `main@c2a7ce7bc2c914c748f1d00d8d8272d9d57b1334`  
+**Граница на знанието:** `S03E10`
 
 ## Scope
 
-След Season 3 finale е направен repo-wide consistency pass върху repository inventory-то:
-- top-level knowledge files;
+След Season 3 finale е направен в цялото хранилище консистентност pass върху repository инвентар-то:
+- top-level knowledge файлове;
 - episode records S01E01–S03E09;
-- evidence files;
+- доказателство файлове;
 - `docs/evidence-ledger.md`;
 - `docs/open-questions.md`;
 - visual manifests;
-- asset tree / S03E10 blob inventory.
+- asset tree / S03E10 blob инвентар.
 
-Tree inventory-то съдържа 167 text/metadata files преди добавянето на S03E10 analysis docs. Binary assets не се „интерпретират“ от filename; за S03E10 са валидирани 18 concrete Git blobs.
+Tree инвентар-то съдържа 167 text/metadata файлове преди добавянето на S03E10 analysis docs. Binary assets не се „интерпретират“ от filename; за S03E10 са валидирани 18 concrete Git blobs.
 
-Historical episode/evidence files с explicit `Knowledge boundary` се третират като snapshots на тогавашното знание. Те **не се пренаписват ретроспективно**, когато по-късен episode разреши uncertainty, освен ако има methodology error вътре в самия по-ранен запис.
+Исторически файлове за епизоди/доказателства с explicit `Knowledge boundary` се третират като snapshots на тогавашното знание. Те **не се пренаписват ретроспективно**, когато по-късен episode разреши несигурност, освен ако има Методология error вътре в самия по-ранен запис.
 
-## Проверени correction classes
+## Проверени корекция classes
 
-### 1. Broad rule → narrow subclass
+### 1. Broad rule → тясна подкатегория
 
 Control case: Pact ban върху mechanized transport.
 
@@ -31,24 +31,24 @@ generic mechanized transport ban
 elevator = concrete forbidden subclass
 ```
 
-S03E09/current synthesis вече пази broad rule. Не е намерено основание broad rule да се замени с `elevators only`.
+S03E09/текущ синтез вече пази broad rule. Не е намерено основание broad rule да се замени с `elevators only`.
 
 ### 2. Voice identity
 
 До S03E09 human-operator model е character hypothesis. Това е исторически правилно и не се пренаписва retroactively.
 
-S03E10 current model:
-- human operator in Silo 1 is directly shown;
+S03E10 текущ model:
+- човешки оператор in Silo 1 is directly shown;
 - Victor performs Voice role in a concrete interaction;
-- Daniel later uses Second Vault supervisory channel;
+- Daniel later uses Вторият трезор supervisory channel;
 - Voice is therefore treated as a human-operated role/interface;
-- possible AI/automation layer remains unresolved.
+- possible AI/automation layer remains неизяснен.
 
-Никъде в current synthesis не се приема `Voice = confirmed autonomous AI`.
+Никъде в текущ синтез не се приема `Voice = confirmed autonomous AI`.
 
-### 3. Exterior hazard
+### 3. опасността във външната среда
 
-По-ранни files правилно пазят наблюдаваните deaths и uncertainty.
+По-ранни файлове правилно пазят наблюдаваните deaths и несигурност.
 
 S03E10 добавя:
 - external drone poison/kinetic capability;
@@ -56,15 +56,15 @@ S03E10 добавя:
 - Juliette good-tape survival known to Silo 1;
 - mass exit from Silo 17 before planned external extermination.
 
-Затова current synthesis **не** твърди нито:
+Затова текущ синтез **не** твърди нито:
 - `outside air definitely kills everyone`, нито
 - `outside is definitely safe`.
 
 ### 4. Safeguard
 
-Historical `unbeatable` остава Voice/institutional claim.
+исторически `unbeatable` остава Voice/institutional claim.
 
-Current evidence показва:
+текущ доказателство показва:
 - internal pipe delivery can fail;
 - other Silos have blocked it historically;
 - Silo 18 blocks it;
@@ -73,9 +73,9 @@ Current evidence показва:
 
 Не се overwritе-ва claim-ът; променя се model status.
 
-### 5. Pact authorship
+### 5. авторството на Пакта
 
-Preserved correction chain:
+Preserved корекция chain:
 ```text
 provisional: sister + doctor created Pact
         ↓
@@ -84,14 +84,14 @@ S03E09 clarification
 AI draft + human editing
 ```
 
-Не се слива Pact AI с Voice без direct evidence.
+Не се слива Pact AI с Voice без пряко доказателство.
 
 ### 6. 50 / 51 topology
 
 Official physical topology remains:
 `Silo 1 + 7×7 = 50`.
 
-Bernard's historical `51` остава unresolved discrepancy. Не се „поправя“ чрез silent overwrite.
+Bernard's исторически `51` остава неизяснен discrepancy. Не се „поправя“ чрез silent overwrite.
 
 ### 7. Silo 1 elevator
 
@@ -101,15 +101,15 @@ Silo 1 has a built-in operational elevator.
 
 ### 8. Pact / Directive / THE ORDER
 
-S03E10 direct distinction:
+S03E10 пряк distinction:
 - Pact can cease to apply after exit;
 - Directive remains.
 
 `Directive` не се equate-ва автоматично с `THE ORDER`.
 
-### 9. Second Vault naming
+### 9. Вторият трезор naming
 
-S03E10 дава direct label **Second Vault** за lower Silo 18 structure.
+S03E10 дава пряк label **Вторият трезор** за lower Silo 18 structure.
 
 Той не се слива автоматично с:
 - ordinary IT vault;
@@ -122,19 +122,19 @@ S03E10 дава direct label **Second Vault** за lower Silo 18 structure.
 
 Medical file establishes real post-reanimation cognitive/physiological effects, but not selective autobiographical amnesia.
 
-Current model therefore separates:
+текущ model therefore separates:
 - documented stasis side effects;
 - Daniel's selective personal-memory gaps;
 - hypothesized deliberate memory control.
 
 ### 11. Journalist identity
 
-Current identity resolution:
+текущ identity resolution:
 **Helen Drew = pre-Silo journalist.**
 
-Older bounded files retain `journalist` where the name was not yet known. Това е historical state, не inconsistency.
+Older bounded файлове retain `journalist` where the name was not yet known. Това е исторически state, не inconsistency.
 
-### 12. Room classification
+### 12. класификацията на помещението
 
 Live provisional label `drone control room` is corrected to:
 **Silo 1 central control / operations room**.
@@ -144,10 +144,10 @@ Drone operations are one function of the room, not its complete identity.
 ## Result
 
 Season 3 closure preserves:
-- evidence → inference → hypothesis separation;
+- доказателство → inference → hypothesis separation;
 - character testimony as testimony;
-- historical correction trails;
-- broad rules when later evidence only adds a subclass;
-- unresolved contradictions rather than forced harmonization.
+- исторически корекция trails;
+- broad rules when later доказателство only adds a subclass;
+- неизяснен contradictions rather than forced harmonization.
 
-No retroactive mass rewrite of historical bounded episode records is performed. Current-state files and S03E10 records carry the latest resolved architecture.
+No retroactive mass rewrite of исторически bounded episode records is performed. текущ-state файлове and S03E10 records carry the latest resolved architecture.

@@ -1,14 +1,14 @@
-# S03E06 — Silo 1 power и safeguard routing
+# S03E06 — Silo 1 захранване и safeguard routing
 
-**Knowledge boundary:** `S03E06`
+**Граница на знанието:** `S03E06`
 
-## External electrical feed към IT
+## External electrical видеопоток към IT
 
 Bernard обяснява, че линия, която идва отвън и стига до IT, е electrical и захранва IT.
 
 Следващото ключово твърдение е, че тази line идва от **Silo 1**.
 
-Това дава конкретен upstream mechanism за previously observed independent IT power. Най-силният current reconstruction е:
+Това дава конкретен upstream механизъм за previously observed independent IT захранване. Най-силният current reconstruction е:
 
 ```text
 Silo 1
@@ -19,23 +19,23 @@ Silo 1
             IT
 ```
 
-Този model не изключва local backup generation; просто вече не е нужно local backup да бъде единственото обяснение.
+Този модел не изключва локален backup generation; просто вече не е нужно локален backup да бъде единственото обяснение.
 
 ## Relation към radio monitoring
 
 S03E05 директно установява, че Silo 1 следи active radio frequencies на другите Silos.
 
-S03E06 добавя втори privileged infrastructure role:
-- central radio visibility;
+S03E06 добавя втори privileged инфраструктура role:
+- централен radio visibility;
 - external IT electrical supply.
 
-Това materially strengthens model-а, че Silo 1 е central infrastructure node, но **не доказва, че Silo 1 = „Гласът“**.
+Това materially strengthens модел-а, че Silo 1 е централен инфраструктура node, но **не доказва, че Silo 1 = „Гласът“**.
 
 ## Safeguard path към Judicial
 
-В същото architectural reasoning safeguard line-ът се отделя като route към Judicial.
+В същото architectural reasoning safeguard line-ът се отделя като маршрут към Judicial.
 
-Работният model е:
+Работният модел е:
 
 ```text
 external infrastructure
@@ -47,13 +47,13 @@ external infrastructure
 ```
 
 Epistemic boundary:
-- Silo 1 origin е direct-stated за electrical feed-а;
-- source-ът на safeguard path-а остава unresolved;
-- exact physical nature на safeguard line-а остава unresolved;
-- local endpoint при Judicial не е автоматично equal на activation controller.
+- Silo 1 origin е пряк-stated за electrical видеопоток-а;
+- source-ът на safeguard path-а остава неизяснен;
+- точен физически nature на safeguard line-а остава неизяснен;
+- локален endpoint при Judicial не е автоматично equal на activation controller.
 
-## Historical reinterpretation
+## исторически reinterpretation
 
-По-ранното evidence за IT power continuity при local outages може да се преинтерпретира чрез external Silo 1 feed.
+По-ранното доказателство за IT захранване непрекъснатост при локален outages може да се преинтерпретира чрез external Silo 1 видеопоток.
 
-Това е refinement, не overwrite: старото observation остава валидно; новото evidence предлага конкретен mechanism.
+Това е refinement, не overwrite: старото наблюдение остава валидно; новото доказателство предлага конкретен механизъм.

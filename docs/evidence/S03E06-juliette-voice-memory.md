@@ -1,10 +1,10 @@
-# S03E06 — Juliette, Camille, „Гласът“ и selective memory disclosure
+# S03E06 — Juliette, Camille, „Гласът“ и избирателна памет disclosure
 
-**Knowledge boundary:** `S03E06`
+**Граница на знанието:** `S03E06`
 
-## Recovered safeguard memory
+## Recovered safeguard памет
 
-Juliette казва на Bernard, Lukas и Walker, че си е спомнила safeguard pipe-а.
+Juliette казва на Bernard, Lukas и Walker, че си е спомнила safeguard тръба-а.
 
 Това продължава S03E05 chain-а:
 
@@ -24,7 +24,7 @@ Juliette доброволно се предава на Camille.
 
 Преди arrest-а настоява да говорят на място без камери. По-късно пита Camille дали е сигурна, че там няма cameras, защото има усещането, че „Гласът“ знае, че разговарят.
 
-Това подкрепя surveillance-avoidance interpretation, но не идентифицира конкретен additional sensor.
+Това подкрепя наблюдение-avoidance interpretation, но не идентифицира конкретен additional sensor.
 
 ## Selective disclosure
 
@@ -40,32 +40,32 @@ Juliette доброволно се предава на Camille.
 
 Следователно „спомнила си е“ не трябва да се чете като exhaustive disclosure inventory.
 
-## Direct access до „Гласът“
+## пряк достъп до „Гласът“
 
 Camille действително завежда Juliette при „Гласът“.
 
-Това установява, че Head of IT може да посредничи за direct contact между supervisory layer-а и човек извън ordinary privileged role set-а.
+Това установява, че Head of IT може да посредничи за пряк контакт между supervisory слой-а и човек извън ordinary privileged role set-а.
 
-Technical identity на „Гласът“ остава unresolved.
+Technical identity на „Гласът“ остава неизяснен.
 
 ## Negotiation
 
 „Гласът“ първоначално не харесва/не приема идеята за transfer на децата.
 
 Juliette предлага:
-- да се върне на memory-suppression medication;
+- да се върне на памет-suppression medication;
 - децата също да бъдат поставени на такъв regime.
 
-След предложението supervisory response се променя от immediate rejection към consideration.
+След предложението supervisory реакция се променя от immediate rejection към consideration.
 
 Най-безопасният извод:
-- memory suppression е active risk-management instrument;
+- памет suppression е active риск-management instrument;
 - supervisory rules може да допускат negotiated exception.
 
-По-силният claim, че system-ът е generic optimization engine, остава hypothesis.
+По-силният claim, че система-ът е generic optimization engine, остава хипотеза.
 
 ## Safeguard leverage
 
-Особено важно е, че Juliette влиза в negotiation-а, без да разкрива knowledge-а, който може да neutralize whole-Silo kill mechanism-а.
+Особено важно е, че Juliette влиза в negotiation-а, без да разкрива knowledge-а, който може да neutralize whole-Silo kill механизъм-а.
 
 Това прави safeguard countermeasure knowledge отделен, retained leverage, независимо дали Juliette го възприема именно така.

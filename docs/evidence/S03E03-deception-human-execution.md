@@ -1,16 +1,16 @@
-# S03E03 — deception as institutional competency и lethal human execution layer
+# S03E03 — deception as институционален competency и lethal човешко изпълнение слой
 
-**Knowledge boundary:** `S03E03`
+**Граница на знанието:** `S03E03`
 
 ## Camille selection
 
-Computer/system-ът tells Camille Sims that she was selected because of her ability to lie.
+Computer/система-ът tells Camille Sims that she was selected because of her ability to lie.
 
-This makes deception a positively selected operational competency, not merely an incidental character trait.
+This makes deception a positively selected оперативен competency, not merely an incidental character trait.
 
 ## Head of IT role
 
-Computer/system-ът states that deception is fundamental to the Head of IT role.
+Computer/система-ът states that deception is fundamental to the Head of IT role.
 
 Structural implication:
 
@@ -28,14 +28,14 @@ This strongly argues that Bernard's deception was not simply personal misconduct
 
 ## Juliette kill objective
 
-Computer/system-ът persuades Camille that Juliette must be killed in order to save the Silo.
+Computer/система-ът persuades Camille that Juliette must be killed in order to save the Silo.
 
 This establishes:
-- a lethal operational objective;
-- survival/stability framing used to justify it;
-- Camille as a human execution-layer candidate.
+- a lethal оперативен objective;
+- оцеляване/stability framing used to justify it;
+- Camille as a човешко изпълнение-слой candidate.
 
-The system is therefore not merely advisory/observational: it can select a human intermediary, exploit a behavioral trait and persuade/task that intermediary toward lethal action.
+The система is therefore not merely advisory/observational: it can select a human intermediary, exploit a behavioral trait and persuade/task that intermediary toward lethal action.
 
 ## Removal clarification
 
@@ -48,8 +48,8 @@ This does not prove every use of `removal` always means death.
 
 ## Boundaries
 
-Still unresolved:
+Still неизяснен:
 - whether Camille will execute the objective;
-- whether computer/system can directly command enforcement personnel;
+- whether computer/система can directly command enforcement personnel;
 - whether Head of IT selection formally tests deception;
-- whether this institutional deception doctrine predates The Order or is encoded by it.
+- whether this институционална измама doctrine predates The Order or is encoded by it.

@@ -1,45 +1,45 @@
-# S01E10 — Visual evidence manifest
+# S01E10 — Манифест на визуалните доказателства
 
-Целеви repo path: `assets/S01E10/screenshots/`
+Целеви път в хранилището: `assets/S01E10/screenshots/`
 
 ## Обработка
 
-### TV photographs
-Шестте TV photographs са обработени първо с **perspective correction / rectification**, след което са cropped/warped до видимата TV picture plane.
+### Снимки на телевизионния екран
+Шестте снимки на телевизионния екран са обработени първо с **корекция на перспективата / ректификация**, след което са изрязани/геометрично изправени до видимата равнина на екрана.
 
-- без generative editing
-- без generative fill или reconstruction
-- без object removal
-- без content alteration
-- JPEG quality: **95**
-- rectified output: **1536×864**
+- без генеративно редактиране;
+- без генеративно запълване или реконструкция;
+- без премахване на обекти;
+- без промяна на съдържанието;
+- качество на JPEG: **95**;
+- размер след ректификация: **1536×864**.
 
-### Direct / already-cropped frames
-The Syndrome sign, Level 144 infrastructure frame и Janitorial ROTA frame са запазени от предоставените source images без generative alteration или geometric reinterpretation.
+### Директни / предварително изрязани кадри
+Кадрите със знака `THE SYNDROME`, инфраструктурата на ниво 144 и таблото `ROTA` в Janitorial са запазени от предоставените изходни изображения без генеративна промяна или геометрично преосмисляне.
 
-## Selected screenshots
+## Избрани екранни снимки
 
-| Файл | Evidence / context |
+| Файл | Доказателство / контекст |
 |---|---|
-| `bernard-key-18.jpeg` | Bernard държи physical illuminated key с маркировка `18`; function / lock target остава unknown. |
-| `exterior-barren-city-skyline.jpeg` | Barren exterior след разкриването на helmet deception; вижда се distant ruined/city-like skyline. |
-| `exterior-silo-hatch-barren-terrain.jpeg` | Surface installation / hatch в barren exterior. |
-| `exterior-neighboring-silo-field.jpeg` | Wide exterior view с повтарящи се surface depressions/installations, съвместими с neighboring Silo sites. |
-| `exterior-multiple-silo-rings-wide.jpeg` | Wide field view с повтарящи се circular/ring-like surface structures. |
-| `exterior-silo-field-city-skyline-wide.jpeg` | Wide landscape, комбиниращ повтарящи се Silo-like sites с distant city-like skyline. |
-| `syndrome-sign.png` | Official `THE SYNDROME` sign; symptom wording е частично замъглен и не трябва да се over-transcribe-ва. |
-| `level-144-ventilation-infrastructure.png` | Deep-bottom / Level 144 scene-context frame с голяма ventilation / air-handling machinery. |
-| `janitorial-closet-rota.png` | `ROTA` board в Janitorial closet с day, level number и time-slot structure. |
-| `contact-sheet.jpg` | Само auxiliary review/navigation; **не е primary evidence**. |
+| `bernard-key-18.jpeg` | Bernard държи физически светещ ключ с маркировка `18`; функцията и целевата ключалка остават неизвестни. |
+| `exterior-barren-city-skyline.jpeg` | Безплодна външна среда след разкриването на измамата в шлема; в далечината се вижда разрушен/градоподобен силует. |
+| `exterior-silo-hatch-barren-terrain.jpeg` | Наземно съоръжение/люк в безплодната външна среда. |
+| `exterior-neighboring-silo-field.jpeg` | Широк кадър на външната среда с повтарящи се вдлъбнатини/съоръжения на повърхността, съвместими със съседни силози. |
+| `exterior-multiple-silo-rings-wide.jpeg` | Широк кадър с повтарящи се кръгли/пръстеновидни наземни структури. |
+| `exterior-silo-field-city-skyline-wide.jpeg` | Широк пейзаж, комбиниращ повтарящи се обекти, подобни на силози, с далечен градоподобен силует. |
+| `syndrome-sign.png` | Официалният знак `THE SYNDROME`; текстът за симптомите е частично замъглен и не трябва да се транскрибира прекомерно уверено. |
+| `level-144-ventilation-infrastructure.png` | Кадър от контекста на сцената в най-долната зона/ниво 144 с голямо вентилационно оборудване. |
+| `janitorial-closet-rota.png` | Табло `ROTA` в помещението на Janitorial със структура по дни, номера на нива и часови интервали. |
+| `contact-sheet.jpg` | Само спомагателен материал за преглед/навигация; **не е основно доказателство**. |
 
 ## Епистемични бележки
 
-- `18` се вижда директно върху physical key. Purpose-ът на key остава unresolved.
-- Barren exterior е показан, след като cleaner-helmet lush layer е разкрит като false; exact atmospheric hazard остава отделен въпрос.
-- Multiple repeated surface structures силно подкрепят multi-Silo landscape. Не извеждаме точния брой Silos само от тези frames.
-- Distant skyline е city-like / ruined-looking; не се приема city identification само по visual resemblance.
-- Идентификацията на Level 144 идва от episode scene context, а не от visible `144` marker в този frame.
-- ROTA board видимо съдържа structured day/level/time assignments; individual handwritten names не трябва да се over-read-ват.
-- The Syndrome sign е полезен като evidence за existence на official symptom list, но blurred small text трябва да се transcribe-ва консервативно.
+- `18` се вижда директно върху физическия ключ. Предназначението на ключа остава неизяснено.
+- Безплодната външна среда е показана, след като зеленият визуален слой в шлема за почистване е разкрит като фалшив; точната атмосферна опасност остава отделен въпрос.
+- Множеството повтарящи се наземни структури силно подкрепят пейзаж с множество силози. Точният им брой не се извежда само от тези кадри.
+- Далечният силует изглежда като разрушен град; самоличността на града не се приема само по визуална прилика.
+- Идентификацията на ниво 144 идва от контекста на сцената в епизода, а не от видимо означение `144` в този кадър.
+- Таблото `ROTA` видимо съдържа структурирани назначения по ден/ниво/час; отделните ръкописни имена не трябва да се разчитат прекомерно уверено.
+- Знакът `THE SYNDROME` е полезно доказателство за наличието на официален списък със симптоми, но замъгленият дребен текст трябва да се транскрибира консервативно.
 
-**Knowledge boundary:** S01E10 only.
+**Граница на знанието:** само S01E10.

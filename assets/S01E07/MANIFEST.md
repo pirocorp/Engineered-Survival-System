@@ -1,21 +1,21 @@
-# S01E07 — Visual evidence manifest
+# S01E07 — Манифест на визуалните доказателства
 
-Целеви repo path: `assets/S01E07/screenshots/`
+Целеви път в хранилището: `assets/S01E07/screenshots/`
 
 ## Обработка
 
-Selected screenshots са обработени с **perspective correction / rectification**, след което са cropped до TV picture plane.
+Избраните екранни снимки са обработени с **корекция на перспективата / ректификация**, след което са изрязани до видимата равнина на телевизионния екран.
 
-- без generative editing
-- без generative fill/reconstruction
-- без object removal
-- JPEG quality: **95**
-- output: **1536×864**
+- без генеративно редактиране;
+- без генеративно запълване или реконструкция;
+- без премахване на обекти;
+- качество на JPEG: **95**;
+- изходен размер: **1536×864**.
 
-| Файл | Category | Evidence / context |
+| Файл | Категория | Доказателство / контекст |
 |---|---|---|
-| `level-14-marker.jpeg` | Worldbuilding / spatial map | Повторен Level 14 marker в S01E07. |
-| `level-26-marker.jpeg` | Worldbuilding / spatial map | Нов direct Level 26 marker в S01E07. |
-| `contact-sheet.jpg` | Auxiliary / navigation | Само за review; **не е primary evidence**. |
+| `level-14-marker.jpeg` | Изграждане на света / пространствена карта | Повторно означение за ниво 14 в S01E07. |
+| `level-26-marker.jpeg` | Изграждане на света / пространствена карта | Нов пряк визуален ориентир за ниво 26 в S01E07. |
+| `contact-sheet.jpg` | Спомагателно / навигация | Само за преглед; **не е основно доказателство**. |
 
-**Knowledge boundary:** S01E07 only.
+**Граница на знанието:** само S01E07.

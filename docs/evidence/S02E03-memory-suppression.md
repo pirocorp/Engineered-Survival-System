@@ -1,8 +1,8 @@
-# S02E03 — Targeted pharmacological memory suppression
+# S02E03 — Targeted pharmacological потискане на паметта
 
-**Knowledge boundary:** `S02E03`
+**Граница на знанието:** `S02E03`
 
-## Current direct evidence
+## Current Пряко доказателство
 
 Bernard пита Sims какво се е случило с personnel, exposed на classified broadcast на Juliette.
 
@@ -14,20 +14,20 @@ Sims съобщава, че е приложена medication, представе
 
 Предишната H30 разчиташе основно на историческо свидетелство, че потискането на паметта някога е било доставяно чрез водната система.
 
-S02E03 добавя current institutional capability:
+S02E03 добавя current институционален възможност:
 
 > authorities притежават/използват medication с explicit forgetting purpose.
 
-**Confidence:** VH  
-**Status:** Strongly Strengthened / Refactored
+**увереност:** VH  
+**статус:** Strongly Strengthened / Refactored
 
 ## Boundary
 
-Still unresolved:
-- exact drug;
+Still неизяснен:
+- точен drug;
 - дали изтрива memories или suppress-ва recall;
 - duration;
 - reversibility;
 - side effects;
-- дали historical water-based mechanism е използвал същото substance;
+- дали исторически water-based механизъм е използвал същото substance;
 - дали "sedative" е cover label, partial truth или different formulation.
