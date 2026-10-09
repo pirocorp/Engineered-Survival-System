@@ -67,5 +67,5 @@ S02E09 **не установява**:
 ## Визуални материали
 
 - [Quinn — fifty Silos / safeguard](../../assets/S02E09/screenshots/quinn-fifty-silos-safeguard.jpeg)
-- [Quinn — bottom / tunnel / confirmation](../../assets/S02E09/screenshots/quinn-bottom-tunnel-confirmation.jpeg)
-- [Silo 18 bottom tunnel](../../assets/S02E09/screenshots/silo18-bottom-tunnel.jpeg)
+- [Quinn — дъно / тунел / потвърждение](../../assets/S02E09/screenshots/quinn-bottom-tunnel-confirmation.jpeg)
+- [Долен тунел на Silo 18](../../assets/S02E09/screenshots/silo18-bottom-tunnel.jpeg)
