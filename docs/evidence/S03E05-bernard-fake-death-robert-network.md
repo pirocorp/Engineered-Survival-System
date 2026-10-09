@@ -1,49 +1,49 @@
-# S03E05 — fake death на Bernard и Robert Sims counter-network
+# S03E05 — Фалшивата смърт на Bernard и противомрежата на Robert Sims
 
-**Knowledge boundary:** `S03E05`
+**Граница на знанието:** `S03E05`
 
-## Fake death — директна reconstruction
+## Фалшивата смърт — директна реконструкция
 
-S03E05 resolve-ва основната S03E04 uncertainty за Bernard.
+S03E05 разрешава основната неяснота от S03E04 около Bernard.
 
 Robert Sims:
 1. тръгва да убие Bernard;
 2. отказва се;
 3. търси помощ от Mechanical;
-4. Bernard е пренасян като apparent corpse;
-5. създава се впечатление, че е отнесен към furnaces и изгорен;
-6. Bernard всъщност е отведен жив под Silo;
-7. скрит е при digger/deep-zone area.
+4. Bernard е пренасян като привидно тяло;
+5. създава се впечатление, че е отнесен към пещите и изгорен;
+6. Bernard всъщност е отведен жив под Силоза;
+7. скрит е при изкопната машина/в дълбоката зона.
 
 Следователно:
 - Sims е знаел, че Bernard е жив;
-- prior furnace/burning narrative е deliberate cover story;
-- six-porters/body-transport evidence не доказва cremation;
-- substitute-body hypothesis вече не е основното explanation.
+- предишният разказ за пещите/изгарянето е умишлена прикриваща история;
+- доказателството за шестимата носачи/пренасянето на тялото не доказва кремация;
+- хипотезата за заместващо тяло вече не е основното обяснение.
 
-## Robert срещу lethal line-а на Camille
+## Robert срещу смъртоносната линия на Camille
 
 Robert казва на Mechanical:
-- Camille е нов Head of IT;
+- Camille е новият ръководител на IT;
 - Camille иска Juliette да умре.
 
-Той търси съдействие от Mechanical за concealment-а на Bernard и по-късно orchestrate-ва/подпомага public protests Juliette да стане Mayor.
+Той търси съдействие от Mechanical за укриването на Bernard и по-късно организира/подпомага обществени протести Juliette да стане кмет.
 
-Функцията на mayoral move-а:
-- увеличава public legitimacy;
-- прави immediate killing на Juliette политически/социално по-скъпо;
-- използва stabilizing/public value на Juliette като временно защитно прикритие.
+Функцията на този политически ход е:
+- увеличава обществената легитимност на Juliette;
+- прави непосредственото ѝ убийство политически/социално по-скъпо;
+- използва стабилизиращата ѝ обществена стойност като временно защитно прикритие.
 
-## Unknown nurse upstream actor
+## Неизвестният висшестоящ участник зад медицинската сестра
 
-S03E04 установява, че unknown actor е казал на nurse-а да подменя memory-suppression medication.
+S03E04 установява, че неизвестен участник е наредил на медицинската сестра да подменя лекарството за потискане на паметта.
 
-S03E05 показва повтарящ се pattern при Robert:
-- covertly спасява Bernard;
+S03E05 показва повтарящ се модел при Robert:
+- тайно спасява Bernard;
 - привлича Mechanical;
-- инсценира death narrative;
-- защитава Juliette чрез public political maneuver.
+- инсценира разказ за смърт;
+- защитава Juliette чрез обществено-политическа маневра.
 
-Затова Robert Sims става **strong candidate** за upstream actor-а зад nurse substitution-а.
+Затова Robert Sims става **силен кандидат** за висшестоящия участник зад подмяната на лекарството.
 
-Но няма direct identification. Hypothesis остава open.
+Но няма пряка идентификация. Хипотезата остава отворена.
