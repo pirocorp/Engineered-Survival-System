@@ -1,8 +1,8 @@
-# S02E06 — digital field / HUMINT reporting към control room
+# S02E06 — Цифрово теренно / HUMINT докладване към контролното помещение
 
 **Knowledge boundary:** `S02E06`
 
-Екран в control room получава писмен доклад, описващ текущата дейност на терен.
+Екран в контролното помещение получава писмен доклад, описващ текущата дейност на терен.
 
 Видимият report включва:
 - въоръжена група, движеща се към barricade;
@@ -15,9 +15,9 @@ Report-ът е видимо routed с named recipient fields:
 
 ## Evidence interpretation
 
-Това е силен evidence, че control-room operational picture не се изгражда само от camera feeds.
+Това е силно доказателство, че оперативната картина в контролното помещение не се изгражда само от видеопотоци от камери.
 
-Тя получава и human-source / field-originated text reporting.
+Тя получава и текстови доклади от човешки източници / от терен.
 
 ```text
 field observer / informant
@@ -37,7 +37,7 @@ operational response
 
 ## H57
 
-**Функцията за наблюдение/control room агрегира докладване от човешки източници заедно с техническите входове от наблюдението.**
+**Функцията за наблюдение в контролното помещение обединява доклади от човешки източници с техническите входове от системите за наблюдение.**
 
 **Confidence:** H  
 **Status:** Active / Strengthened.
@@ -46,7 +46,7 @@ operational response
 
 Screenshot-ът не разкрива:
 - the informant's device;
-- дали source въвежда директно или чрез intermediary;
+- дали източникът въвежда информацията директно или чрез посредник;
 - network protocol;
 - source authentication;
 - дали докладът използва точно същата система като Sheriff `DIRECT MESSAGING`.
