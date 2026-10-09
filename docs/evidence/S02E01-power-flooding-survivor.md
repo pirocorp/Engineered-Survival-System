@@ -8,7 +8,7 @@
 - agricultural/growing zone;
 - IT bridge/chokepoint area.
 
-Следователно вторият Silo **не е напълно electrically dead**.
+Следователно вторият Silo **не е напълно без електрозахранване**.
 
 Unknown:
 - main generator vs backup power;
@@ -18,7 +18,7 @@ Unknown:
 
 ## Flooding
 
-Вторият Silo е massively flooded, като водата достига до няколко levels под IT.
+Вторият Silo е мащабно наводнен, като водата достига до няколко нива под IT.
 
 Мащабът съответства на голяма инфраструктурна повреда или продължително проникване на вода.
 
