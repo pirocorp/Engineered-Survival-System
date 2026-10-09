@@ -1,4 +1,4 @@
-# S02E04 — убийството на Meadows, framing на Mechanical и натискът на Sims
+# S02E04 — убийството на Meadows, набеждаването на Mechanical и натискът на Sims
 
 **Граница на знанието:** `S02E04`
 
@@ -8,7 +8,7 @@ Bernard отравя Judge Meadows.
 
 Представители на Mechanical пристигат, очаквайки да се срещнат с нея. Bernard инсценира ситуацията така, че Mechanical да бъде обвинен за смъртта ѝ и публичен anger да бъде пренасочен срещу тях.
 
-Това е пряк current оперативен corroboration на newly revealed Mechanical-scapegoating doctrine.
+Това е пряко текущо оперативно потвърждение на новоразкритата доктрина за използване на Mechanical като изкупителна жертва.
 
 ## Sims
 
@@ -28,5 +28,5 @@ Bernard claims:
 
 ## визуален
 
-- [Mechanical representatives arrive at Meadows framing scene](../../assets/S02E04/screenshots/mechanical-arrives-meadows-framing-scene.jpeg)
+- [Представители на Mechanical пристигат на сцената с набеждаването за Meadows](../../assets/S02E04/screenshots/mechanical-arrives-meadows-framing-scene.jpeg)
 - [Population movement during escalating unrest](../../assets/S02E04/screenshots/silo-stairwell-population-movement.jpeg)
