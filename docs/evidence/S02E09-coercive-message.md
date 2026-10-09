@@ -23,7 +23,7 @@ IF YOU EVER WANT TO SEE YOUR WIFE AGAIN.
 ## Сигурни изводи
 
 Съобщението:
-- иска информация за нечий plan;
+- иска информация за нечий план;
 - налага условие за непрекъснато присъствие пред камерата;
 - изисква recipient-ът да не напуска;
 - използва съпругата като заложник/средство за принуда.
@@ -34,7 +34,7 @@ IF YOU EVER WANT TO SEE YOUR WIFE AGAIN.
 - sender identity;
 - recipient identity;
 - дали `B.>` е sender marker, prompt или друг UI element;
-- къде се намира wife;
+- къде се намира съпругата;
 - дали threat-ът е operationally enforceable;
 - кой институционален слой стои зад съобщението.
 
