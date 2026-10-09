@@ -33,9 +33,9 @@ IF YOU EVER WANT TO SEE YOUR WIFE AGAIN.
 Самият screenshot не е достатъчен да установи:
 - sender identity;
 - recipient identity;
-- дали `B.>` е sender marker, prompt или друг UI element;
+- дали `B.>` е маркер за подателя, подкана или друг елемент на интерфейса;
 - къде се намира съпругата;
-- дали threat-ът е operationally enforceable;
+- дали заплахата може оперативно да бъде наложена;
 - кой институционален слой стои зад съобщението.
 
 ## Visual
