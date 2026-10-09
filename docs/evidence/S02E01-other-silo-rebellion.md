@@ -5,11 +5,11 @@
 ## Верига на доказателствата
 
 - виждат се графити от времето на бунта срещу Основателите / измамата;
-- появява се 15-minute generator-related written warning;
-- Sheriff-led group напредва срещу **IT**;
+- появява се писмено предупреждение за 15 минути, свързано с генератора;
+- група, водена от Sheriff, напредва срещу **IT**;
 - another group defends IT;
 - Sheriff казва, че **Russell ги е излъгал**;
-- Sheriff-led group достига airlock;
+- групата, водена от Sheriff, достига шлюза;
 - Sheriff opens it;
 - групата излиза навън;
 - останките в настоящето и непрекъснатостта на събитията свързват тази последователност с втория Силоз, в който по-късно влиза Juliette.
@@ -28,23 +28,23 @@
 
 Последователността доказва организиран вътрешен конфликт, включващ:
 - IT as a defended strategic location;
-- exit attempt през airlock;
+- опит за излизане през шлюза;
 - strong anti-deception sentiment.
 
 Това все още **не** доказва:
 - exact formal faction labels;
-- че Sheriff-led group представлява всички rebels;
-- че IT defenders са причинили bridge destruction, освен ако не е директно показано;
+- че групата, водена от Sheriff, представлява всички бунтовници;
+- че защитниците на IT са причинили разрушаването на моста, освен ако това не е директно показано;
 - че групата е постигнала общ политически контрол над Силоза.
 
 ## Russell boundary
 
-`Russell lied` е **character claim** на Sheriff, а не objective confirmation.
+`Russell lied` е **твърдение на персонаж** от Sheriff, а не обективно потвърждение.
 
 Unknown:
 - Russell's role;
 - за какво allegedly е излъгал;
-- дали claim-ът е accurate.
+- дали твърдението е вярно.
 
 ## Визуални доказателства
 
