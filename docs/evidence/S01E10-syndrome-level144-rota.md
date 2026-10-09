@@ -26,7 +26,7 @@ Visual:
 Избраният frame съдържа:
 - large axial fans;
 - vertical vent/duct structures;
-- основна air-handling / ventilation machinery.
+- основна инфраструктура за обработка на въздуха / вентилационна техника.
 
 Това подкрепя значима функция за контрол на средата в долната част, но не установява точния ѝ обхват или посоката на въздушния поток.
 
@@ -46,7 +46,7 @@ Visual:
 Само по себе си не доказва:
 - че нивата са обекти на наблюдение;
 - че посочените служители са оператори на наблюдението;
-- че Janitorial е само cover organization.
+- че Janitorial е само прикриваща организация.
 
 Visual:
 - [Janitorial ROTA](../../assets/S01E10/screenshots/janitorial-closet-rota.png)
