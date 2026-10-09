@@ -1178,16 +1178,16 @@
 | E1174 | Silo 18 успешно спира Safeguard чрез блокиране на локалното подаване. | пряк резултат | VH | Практическата възможност за спиране е потвърдена. |
 | E1176 | Silo 1 засича, че Silo 18 е блокирал тръбата на Safeguard. | пряко доказателство за засичане | VH | Подразбира се централизирана обратна връзка/телеметрия. |
 | E1179 | Silo 1 нарежда всеки, който се опита да напусне Silo 18, да бъде убит. | пряка заповед за убийство | VH | Външна изолация. |
-| E1180 | Silo 1 assigns наблюдение с дрон to Silo 18 after blockage. | пряк deployment | VH | Fallback monitoring. |
+| E1180 | Silo 1 назначава наблюдение с дронове над Silo 18 след блокирането. | пряко оперативно разгръщане | VH | Резервно наблюдение. |
 | E1183 | Victor поздравява Camille Sims за измама. | пряк диалог | VH | Потвърдени са ограничено оперативно знание/координация. |
 | E1186 | Victor използва `LEGACY SYSTEM / FILE SHARE` и поверителен файл с възможност за изпращане. | пряко доказателство от интерфейса | VH | институционален слой за записи. |
 | E1189 | Медицински документ описва продължителна метаболитна стаза / ефекти след реанимация. | пряко документално доказателство | VH | физиологичен/когнитивен профил на възстановяване. |
 | E1191 | Документираните ефекти от стазата не включват селективна автобиографична амнезия. | Извод, ограничен от документа | H-VH | Подсилва отделния кандидат за контрол на паметта. |
-| E1193 | Juliette has двупосочна комуникация между Silo 18 и Silo 17. | пряко доказателство за комуникация | VH | междусилозният канал работи. |
+| E1193 | Juliette има двупосочна комуникация между Silo 18 и Silo 17. | пряко доказателство за комуникация | VH | междусилозният канал работи. |
 | E1194 | Juliette казва на Lukas, че обмисля да отиде до долната врата/място, свързано с по-ранния друг глас. | пряко заявено намерение | VH | Води към Вторият трезор. |
 | E1196 | Персонажите приемат блокирания Safeguard като възможност да изследват долната инфраструктура. | Тактическа предпоставка на персонаж | H-VH | Не премахва заплахата от дронове/външна намеса. |
-| E1200 | Daniel is по-късно събуден **5 years after his previous awakening**. | пряка хронологична опора | VH | Цикълът на събуждане не е фиксиран на 7 години. |
-| E1201 | Briefing tells Daniel that Juliette had „добра“ лента, reached Silo 17 and returned to Silo 18. | пряк инструктаж | VH | Силен ориентир за лентата/оцеляването известен на Silo 1. |
+| E1200 | Daniel по-късно е събуден **5 години след предходното си събуждане**. | пряка хронологична опора | VH | Цикълът на събуждане не е фиксиран на 7 години. |
+| E1201 | Брифингът казва на Daniel, че Juliette е имала „добра“ лента, достигнала е Silo 17 и се е върнала в Silo 18. | пряк инструктаж | VH | Силен ориентир за лентата/оцеляването, известен на Silo 1. |
 | E1203 | Victor е подготвил отговор със Safeguard за дестабилизиран Silo 18. | пряк инструктаж | VH | Оперативна роля на Victor. |
 | E1204 | Брифингът казва, че Head of IT е спечелил време на бунтовниците и те са блокирали тръбата. | пряк инструктаж | VH | Обяснява провала на Safeguard в Silo 18. |
 | E1205 | Victor е съобщен като починал чрез самоубийство. | пряко съобщен резултат | VH | Точният мотив остава НЕРЕШЕН. |
@@ -1196,18 +1196,18 @@
 | E1216 | Daniel иска да прегледа какво са обсъждали Victor и Camille. | пряка разследваща заповед | VH | Подразбира се записана/преглеждаема комуникация. |
 | E1218 | Silo 1 назовава долната структура на Silo 18 `Second Vault`. | пряка терминология | VH | Заменя общото обозначение „скрита врата“. |
 | E1221 | Надзорният глас заплашва/предупреждава Juliette в контекста на Вторият трезор. | пряко взаимодействие | VH | Активна защитена област. |
-| E1224 | Juliette is told to stop investigating Вторият трезор. | пряко условие/заплаха | VH | Цел за контрол на знанието. |
+| E1224 | На Juliette е наредено да спре разследването на Вторият трезор. | пряко условие/заплаха | VH | Цел за контрол на знанието. |
 | E1227 | Daniel предлага да няма Safeguard, ако Silo 18 спре разследването на Вторият трезор и междусилозния контакт. | пряко условно предложение | VH | Safeguard се управлява и допуска преценка. |
-| E1229 | междусилозната информация/контакт is materially implicated in `contamination` / доктрина за изолация. | Доктринален извод | H-VH | Отслабен е прочитът само като биологично замърсяване. |
-| E1231 | Juliette accepts Daniel's deal. | пряко съгласие | VH | По-късната стратегия променя интерпретацията. |
-| E1234 | Juliette proposes covert preparation to strike and take over Silo 1. | пряк proposal | VH | Offensive strategy. |
+| E1229 | междусилозната информация/контакт е съществено свързана с `contamination` / доктрина за изолация. | Доктринален извод | H-VH | Отслабен е прочитът само като биологично замърсяване. |
+| E1231 | Juliette приема сделката на Daniel. | пряко съгласие | VH | По-късната стратегия променя интерпретацията. |
+| E1234 | Juliette предлага тайна подготовка за удар и поемане на контрол над Silo 1. | пряко предложение | VH | Настъпателна стратегия. |
 | E1235 | Заявената ѝ обосновка е изненадата: Silo 1 най-малко би го очаквал след сделката. | пряка обосновка | VH | Кандидат за тактическа измама/печелене на време. |
-| E1238 | Victor leaves an encrypted съобщение intended for Daniel. | Пряко доказателство | VH | Posthumous непрекъснатост запис. |
-| E1239 | Victor says he felt relief when Safeguard activation against Silo 18 failed. | пряко твърдение | VH | Морален/вътрешен конфликт. |
-| E1241 | Victor names the woman Daniel seeks in memory as **Helen Drew**. | пряко доказателство за самоличност | VH | Установяване на името. |
-| E1242 | Helen Drew is the журналистката отпреди силозите. | Междусценово установяване на самоличност | VH | Текущото канонично име. |
-| E1243 | Daniel appears to recover recognition/memory connection after Helen Drew cue. | Извод за паметта | H-VH | Пълното припомняне не е установено. |
-| E1244 | Моделът на паметта в Season 3: документираните ефекти от стазата и селективното лично потискане на паметта са аналитично разграничени. | модел уточнение | H-VH | точната намеса остава ОТВОРЕН. |
+| E1238 | Victor оставя криптирано съобщение, предназначено за Daniel. | Пряко доказателство | VH | Посмъртен запис за непрекъснатост. |
+| E1239 | Victor казва, че е изпитал облекчение, когато активирането на Safeguard срещу Silo 18 се е провалило. | пряко твърдение | VH | Морален/вътрешен конфликт. |
+| E1241 | Victor назовава жената, която Daniel търси в паметта си, като **Helen Drew**. | пряко доказателство за самоличност | VH | Установяване на името. |
+| E1242 | Helen Drew е журналистката отпреди силозите. | Междусценово установяване на самоличност | VH | Текущото канонично име. |
+| E1243 | Daniel изглежда възстановява разпознаване/връзка в паметта след подсказката с Helen Drew. | Извод за паметта | H-VH | Пълното припомняне не е установено. |
+| E1244 | Моделът на паметта в Season 3: документираните ефекти от стазата и селективното лично потискане на паметта са аналитично разграничени. | модел уточнение | H-VH | точната намеса остава ОТВОРЕНА. |
 
 ## Визуални източници — S03E10
 
@@ -1230,7 +1230,7 @@ Supporting:
 
 ## Визуални източници — S03E09
 
-Двоичните ресурси са качени в `main` с commit `b6f936411a365588ad48062e80a9a3e614525d5d` и валидирани byte-for-byte чрез Git blob SHA comparison. Пълният списък е в [S03E09 manifest](../assets/S03E09/MANIFEST.md).
+Двоичните ресурси са качени в `main` с commit `b6f936411a365588ad48062e80a9a3e614525d5d` и валидирани байт по байт чрез сравнение на Git blob SHA. Пълният списък е в [манифеста на S03E09](../assets/S03E09/MANIFEST.md).
 
 Primary:
 - [Bernard / Voice challenge](../assets/S03E09/screenshots/bernard-voice-you-dont-know-more-goodbye.jpeg)
@@ -1251,7 +1251,7 @@ Supporting:
 
 ## Визуални източници — S03E08
 
-Двоичните ресурси са качени в `main` с commit `3ab2e04ce0b56c78e9ebdcc5dd9dec744d852b97` преди analysis PR-а. Git blob SHA validation е записан в [S03E08 manifest](../assets/S03E08/MANIFEST.md).
+Двоичните ресурси са качени в `main` с commit `3ab2e04ce0b56c78e9ebdcc5dd9dec744d852b97` преди аналитичния PR. Валидирането на Git blob SHA е записан в [S03E08 manifest](../assets/S03E08/MANIFEST.md).
 
 Primary:
 - [Safeguard poison distribution network](../assets/S03E08/screenshots/safeguard-poison-distribution-network.jpeg)
@@ -1269,7 +1269,7 @@ Primary:
 
 ## Визуални източници — S03E07
 
-Двоичните ресурси са качени отделно в `main` преди analysis PR-а и са валидирани byte-for-byte чрез Git blob SHA comparison:
+Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани байт по байт чрез сравнение на Git blob SHA:
 
 - [System console / null-feed loop](../assets/S03E07/screenshots/system-console-reboot-null-feed.jpeg)
 - [Exterior night](../assets/S03E07/screenshots/exterior-night.jpeg)
@@ -1281,7 +1281,7 @@ Primary:
 
 ## Визуални източници — S03E06
 
-Двоичните ресурси са качени отделно в `main` преди analysis PR-а и са валидирани byte-for-byte чрез Git blob SHA comparison:
+Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани байт по байт чрез сравнение на Git blob SHA:
 
 - [Level 94](../assets/S03E06/screenshots/level-94-primary.jpeg)
 - [Juliette / съмнение за наблюдение без камери](../assets/S03E06/screenshots/no-camera-room-object.jpeg)
@@ -1292,7 +1292,7 @@ Primary:
 
 ## Визуални източници — S03E05
 
-Двоичните ресурси са качени отделно в `main` преди analysis PR-а и са валидирани чрез Git blob SHA comparison:
+Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани чрез Git blob SHA comparison:
 
 - [Level 95](../assets/S03E05/screenshots/level-95.jpeg)
 - [Riser installation строително табло](../assets/S03E05/screenshots/riser-installation-construction-board.jpeg)
@@ -1302,7 +1302,7 @@ Primary:
 
 ## Визуални източници — S03E04
 
-Двоичните ресурси са качени отделно в `main` преди analysis PR-а и са валидирани чрез Git blob SHA comparison:
+Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани чрез Git blob SHA comparison:
 
 - [Concealed abyss route / rope descent](../assets/S03E04/screenshots/abyss-hidden-route-rope-descent.jpeg)
 - [Bernard alive in deep zone](../assets/S03E04/screenshots/bernard-alive-дълбоката зона.jpeg)
@@ -1312,7 +1312,7 @@ Primary:
 
 ## Визуални източници — S03E03
 
-Двоичните ресурси са качени отделно в `main` преди analysis PR-а и са валидирани чрез Git blob SHA comparison:
+Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани чрез Git blob SHA comparison:
 
 - [Vitamin D+ / water](../assets/S03E03/screenshots/vitamin-d-plus-water.jpeg)
 - [Vitamin D+ / survival chance](../assets/S03E03/screenshots/vitamin-d-plus-survival-chance.jpeg)
@@ -1329,7 +1329,7 @@ Primary:
 
 ## Визуални източници — S03E02
 
-Двоичните ресурси са качени отделно в `main` преди analysis PR-а и са валидирани чрез Git blob SHA comparison:
+Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани чрез Git blob SHA comparison:
 
 - [System — covert note/deception притеснение](../assets/S03E02/screenshots/computer-note-deception-concern.jpeg)
 - [Pre-Silo selective memory restore/omit](../assets/S03E02/screenshots/presilo-selective-memory-restore-omit.jpeg)
@@ -1352,7 +1352,7 @@ Primary:
 
 ## Визуални източници — S03E01
 
-Двоичните ресурси са качени отделно в `main` преди analysis PR-а. Git blob SHA стойностите са валидирани срещу локално подготвения perspective-коригиран package:
+Двоичните ресурси са качени отделно в `main` преди аналитичния PR. Git blob SHA стойностите са валидирани срещу локално подготвения perspective-коригиран package:
 
 - [Level 1 / Juliette opening](../assets/S03E01/screenshots/level-1-juliette-opening.jpeg)
 - [Daniel Keen name reveal](../assets/S03E01/screenshots/daniel-keen-name-reveal.jpeg)
