@@ -1,10 +1,10 @@
-# S02E03 — CODE SILO ORANGE и chronology correction
+# S02E03 — CODE SILO ORANGE и корекция на хронологията
 
 **Граница на знанието:** `S02E03`
 
 ## Formal reproductive-контрол protocol
 
-медицински система screen изрично гласи:
+екранът на медицинската система изрично гласи:
 
 `THIS PROCEDURE HAS BEEN DESIGNATED CODE SILO ORANGE`
 
@@ -12,7 +12,7 @@
 
 `PATIENT MUST BELIEVE BIRTH CONTROL WAS REMOVED.`
 
-Това е пряк институционален proof, че covert reproductive-контрол deception е formally encoded, а не просто improvised decision на отделни doctors.
+Това е пряко институционално доказателство, че скритата измама при репродуктивния контрол е формално кодирана, а не импровизирано решение на отделни лекари.
 
 ## A.R. dating
 
@@ -26,16 +26,16 @@ Screenshot-ът сам по себе си не expand-ва abbreviation-а.
 
 ## Chronology correction
 
-Prior H15 приемаше, че `SILO YEAR 96/97` и mayor-journal dating са един post-Rebellion calendar.
+По-ранната H15 приемаше, че `SILO YEAR 96/97` и датирането в дневника на кмета принадлежат към един календар след Rebellion.
 
 S02E03 прави тази simple interpretation unsafe, защото модел трябва да reconcile-не:
 - `SILO YEAR 96/97`;
 - `116 A.R.`;
-- познатата Rebellion chronology;
+- познатата хронология на Rebellion;
 - твърдението на Bernard, че Jane Carmody запис е на ~200 години.
 
 Следователно H15 е изрично weakened, вместо да бъде мълчаливо overwritten.
 
 ## визуален доказателство
 
-- [SILO ORANGE / A.R. medical record](../../assets/S02E03/screenshots/silo-orange-birth-control-protocol.jpeg)
+- [SILO ORANGE / медицински запис за A.R.](../../assets/S02E03/screenshots/silo-orange-birth-control-protocol.jpeg)
