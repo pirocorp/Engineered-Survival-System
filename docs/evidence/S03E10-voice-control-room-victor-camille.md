@@ -1,66 +1,66 @@
-# S03E10 — central control room, Voice, Victor и Camille
+# S03E10 — Централното контролно помещение, „Гласът“, Victor и Camille
 
-**Knowledge boundary:** `S03E10`
+**Граница на знанието:** `S03E10`
 
-## Room classification correction
+## Корекция на класификацията на помещението
 
-Early live-view classification `drone control room` е provisional и е заменена след по-късния кадър.
+Ранната класификация при гледането на живо `drone control room` е предварителна и е заменена след по-късния кадър.
 
-Final classification:
-**Silo 1 central control / operations room**
+Окончателна класификация:
+**централно контролно / оперативно помещение на Silo 1**
 
-Room-ът поддържа поне:
-- aerial/drone feeds;
-- multi-operator workstations;
-- Voice communication;
-- supervisory situational awareness.
+Помещението поддържа поне:
+- въздушни/дрон видеопотоци;
+- работни места за множество оператори;
+- комуникация чрез „Гласът“;
+- надзорна ситуационна осведоменост.
 
-## Human operator behind Voice
+## Човешки оператор зад „Гласът“
 
-Victor е директно показан като human operator зад Voice communication в конкретен interaction.
+Victor е директно показан като човешкия оператор зад комуникацията чрез „Гласът“ в конкретно взаимодействие.
 
-Това resolution-ва Bernard's S03E09 hypothesis в основната ѝ част:
+Това разрешава хипотезата на Bernard от S03E09 в основната ѝ част:
 
 ```text
-ordinary Silo leadership
+ръководство на обикновен Силоз
         ↓
-Voice interface/channel
+интерфейс/канал „Гласът“
         ↓
-human operator in Silo 1
+човешки оператор в Silo 1
 ```
 
-Но episode evidence не доказва:
-- че Victor винаги е Voice;
-- че един човек винаги изпълнява ролята;
-- че няма AI/automation layer;
-- exact authority split между operator, Director и Daniel.
+Но доказателствата от епизода не установяват:
+- че Victor винаги е „Гласът“;
+- че ролята винаги се изпълнява от един човек;
+- че няма ИИ/автоматизиран слой;
+- точното разделение на властта между оператор, директор и Daniel.
 
-Voice следователно се моделира като **role/interface**, не като one-person identity.
+Следователно „Гласът“ се моделира като **роля/интерфейс**, а не като самоличност на един човек.
 
 ## Victor / Camille
 
-Victor поздравява Camille Sims за deception.
+Victor поздравява Camille Sims за измама.
 
 Това установява, че:
-- Victor знае за нейна deception operation;
-- има поне operational knowledge/coordination между тях.
+- Victor знае за нейна операция за измама;
+- има поне оперативно знание/координация между тях.
 
-Не се пренаписват автоматично всички по-ранни Camille actions като част от един Silo 1 plan.
+Не се пренаписват автоматично всички по-ранни действия на Camille като част от един план на Silo 1.
 
-## Victor's death and message
+## Смъртта на Victor и съобщението
 
-При по-късното Daniel awakening Victor вече е dead by suicide.
+При по-късното събуждане на Daniel Victor вече е починал чрез самоубийство.
 
-Той е оставил encrypted message за Daniel. В него:
-- признава relief, когато не е успял да activate-не Safeguard срещу Silo 18;
-- идентифицира Helen Drew като жената, която Daniel търси в fragmented memory.
+Той е оставил криптирано съобщение за Daniel. В него:
+- признава облекчение, когато не е успял да активира Safeguard срещу Silo 18;
+- идентифицира Helen Drew като жената, която Daniel търси във фрагментираната си памет.
 
-Relief statement е direct evidence за moral/internal conflict. Exact suicide motive остава unresolved.
+Твърдението за облекчение е пряко доказателство за морален/вътрешен конфликт. Точният мотив за самоубийството остава неизяснен.
 
-## Governance continuity
+## Управленска непрекъснатост
 
-Senator-ът от pre-Silo group е Director на Silo 1.
+Сенаторката от групата преди силозите е директор на Silo 1.
 
-Daniel има exceptional crisis decision authority, включително lethal containment orders.
+Daniel има извънредна власт за решения при криза, включително заповеди за смъртоносно ограничаване.
 
-Exact constitutional/command hierarchy между Director, Daniel, Voice operators и Directive остава open.
+Точната конституционна/командна йерархия между директора, Daniel, операторите на „Гласът“ и Директивата остава отворена.
