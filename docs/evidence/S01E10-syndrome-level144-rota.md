@@ -4,17 +4,17 @@
 
 ## The Syndrome
 
-Директно се вижда official notice `THE SYNDROME`.
+Директно се вижда официално съобщение `THE SYNDROME`.
 
 Дребният текст е частично замъглен, затова repo записва само conservative symptom-level information:
 - involuntary twitching / shaking;
 - progressive motor/pain-spasm language;
 - balance/movement impairment;
-- по-късно cognitive / nervous-system impairment.
+- по-късно когнитивно нарушение / засягане на нервната система.
 
-Това предоставя official institutional corroboration, че The Syndrome се третира като recognized progressive condition.
+Това предоставя официално институционално потвърждение, че The Syndrome се третира като признато прогресиращо състояние.
 
-Cause, diagnosis, treatment и prevalence остават unknown.
+Причината, диагнозата, лечението и разпространението остават неизвестни.
 
 Visual:
 - [The Syndrome notice](../../assets/S01E10/screenshots/syndrome-sign.png)
@@ -28,10 +28,10 @@ Scene context идентифицира дъното като **Level 144**.
 - vertical vent/duct structures;
 - основна air-handling / ventilation machinery.
 
-Това подкрепя значима environmental-control function в долната част, но не и точния ѝ scope или airflow direction.
+Това подкрепя значима функция за контрол на средата в долната част, но не установява точния ѝ обхват или посоката на въздушния поток.
 
 Visual:
-- [Level 144 ventilation infrastructure](../../assets/S01E10/screenshots/level-144-ventilation-infrastructure.png)
+- [Вентилационна инфраструктура на ниво 144](../../assets/S01E10/screenshots/level-144-ventilation-infrastructure.png)
 
 ## Janitorial ROTA
 
@@ -41,11 +41,11 @@ Visual:
 - multiple time slots;
 - assigned names/initials.
 
-Това доказва centralized level-by-level scheduling.
+Това доказва централизирано планиране по нива.
 
 Само по себе си не доказва:
-- че levels са surveillance targets;
-- че listed staff са surveillance operators;
+- че нивата са обекти на наблюдение;
+- че посочените служители са оператори на наблюдението;
 - че Janitorial е само cover organization.
 
 Visual:
