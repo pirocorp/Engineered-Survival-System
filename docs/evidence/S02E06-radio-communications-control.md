@@ -6,13 +6,13 @@ S02E06 установява, че Bernard/IT може да прекъсва **в
 
 ## Директни доказателства
 
-**E317 —** Bernard/IT има Silo-wide radio-cutoff възможност.
+**E317 —** Bernard/IT има възможност да прекъсне радиокомуникациите в целия Силоз.
 
 **увереност:** VH.
 
 ## инфраструктура извод
 
-Ако IT може да disable-не целия radio traffic, radio система трябва да зависи от centrally controllable component или инфраструктура path.
+Ако IT може да прекъсне целия радиотрафик, радиосистемата трябва да зависи от централизирано управляем компонент или инфраструктурен път.
 
 Possible architectures include:
 - централен repeater/distribution система;
@@ -24,7 +24,7 @@ Possible architectures include:
 
 ## H58
 
-**IT функционира като communications choke point: при криза може да degrade-не или isolate-не оперативен coordination чрез прекъсване на radio traffic.**
+**IT функционира като комуникационна контролна точка: при криза може да влоши или изолира оперативната координация чрез прекъсване на радиотрафика.**
 
 **увереност:** H  
 **статус:** Active / Strengthened.
@@ -41,11 +41,11 @@ continuity power
 radio communications control
 ```
 
-Най-силният safe conclusion е контрол възможност, а не omniscient достъп до всяко съобщение или communication medium.
+Най-силното безопасно заключение е наличие на контролна възможност, а не всезнаещ достъп до всяко съобщение или комуникационна среда.
 
 Still неизяснен:
 - selective vs all-or-nothing cutoff;
-- дали цифров messaging остава available;
-- дали съществуват emergency/bypass radio channels;
+- дали цифровите съобщения остават достъпни;
+- дали съществуват аварийни/обходни радиоканали;
 - дали Judicial споделя този контрол;
-- дали radio traffic се log-ва или monitor-ва centrally.
+- дали радиотрафикът се записва или наблюдава централизирано.

@@ -16,7 +16,7 @@ Juliette не знае обикновената дума/concept **birds**, но
 
 **H4:** manipulated perception induces почистване behavior — остава VH / Strongly Strengthened.
 
-**H46:** lush човекът при почистване imagery използва reused или highly standardized визуален sequence, а не genuinely live natural view.
+**H46:** пищната визуална картина при почистването използва повторно или силно стандартизирано изображение, а не действителен естествен изглед на живо.
 
 **увереност:** H  
 **статус:** Active / Strengthened

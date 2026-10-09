@@ -1,15 +1,15 @@
-# S02E04 — Mines и penal labor система
+# S02E04 — Мините и системата за наказателен труд
 
 **Граница на знанието:** `S02E04`
 
 ## Доказателство
 
 S02E04 establishes that:
-- mines осигуряват metal, използван от Silo;
+- мините осигуряват метал, използван от Силоза;
 - mining е опасна и силно нежелана работа;
-- punishment може да включва assignment към mining labor.
+- наказанието може да включва назначаване на миньорски труд.
 
-## Resource/coercion модел
+## Модел за ресурси и принуда
 
 ```text
 critical metal demand
@@ -21,11 +21,11 @@ low voluntary desirability
 penal assignment supplies labor
 ```
 
-Проектът използва термина **penal labor система**, а не "penal colony".
+Проектът използва термина **система за наказателен труд**, а не „наказателна колония“.
 
 Still неизяснен:
 - mine location и достъп;
 - ore/metal types;
 - refining и manufacturing chain;
-- sentence duration и release rules;
-- proportion на penal vs voluntary workers.
+- продължителността на присъдата и правилата за освобождаване;
+- съотношението между наказателно назначени и доброволни работници.

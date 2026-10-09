@@ -2,16 +2,16 @@
 
 **Граница на знанието:** `S02E04`
 
-S02E04 разкрива, че crisis management включва предварително определен narrative target.
+S02E04 разкрива, че управлението на кризи включва предварително определена мишена за официалния разказ.
 
 ## Доказателство
 
-- `THE ORDER` инструктира leadership да обвинява Mechanical при rebellion/crisis.
+- `THE ORDER` инструктира ръководството да обвинява Mechanical при бунт/криза.
 - исторически wall markings в Mechanical се интерпретират като знак, че Mechanical многократно е бил обвиняван независимо откъде реално е започвал unrest.
 - По-късно Bernard инсценира присъствието на представители на Mechanical на мястото на смъртта на Meadows, след като я отравя.
 - Sims активно насочва публичен sentiment срещу Mechanical.
 
-## Working механизъм
+## Работен механизъм
 
 ```text
 rebellion / leadership crisis
@@ -27,7 +27,7 @@ conflict managed around a chosen target
 
 ## H49
 
-**Mechanical е предварително определен институционален scapegoat при сериозен unrest.**
+**Mechanical е предварително определена институционална изкупителна жертва при сериозни размирици.**
 
 **увереност:** VH  
 **статус:** Strongly Strengthened

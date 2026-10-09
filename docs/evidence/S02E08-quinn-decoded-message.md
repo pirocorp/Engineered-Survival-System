@@ -51,4 +51,4 @@ you already know the game is rigged.
 
 ## визуален
 
-- [Quinn decoded message — game is rigged](../../assets/S02E08/screenshots/quinn-decoded-message-game-is-rigged.jpeg)
+- [Декодираното съобщение на Quinn — game is rigged](../../assets/S02E08/screenshots/quinn-decoded-message-game-is-rigged.jpeg)

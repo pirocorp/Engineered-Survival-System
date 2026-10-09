@@ -1,63 +1,63 @@
-# S03E05 — memory cues, relic policy и Silo radio isolation
+# S03E05 — Подсказки за паметта, политика за реликвите и радиоизолацията на силозите
 
-**Knowledge boundary:** `S03E05`
+**Граница на знанието:** `S03E05`
 
-## The Order / relic suppression
+## The Order / потискане чрез контрол върху реликвите
 
-Bernard обяснява, а разговорът Bernard–Robert Sims–Martha Walker потвърждава, че The Order разглежда relics от миналото като риск за memory retrieval.
+Bernard обяснява, а разговорът Bernard–Robert Sims–Martha Walker потвърждава, че The Order разглежда реликвите от миналото като риск за възстановяването на паметта.
 
 Причината:
-- pharmacological suppression прави определени memories трудно достъпни;
-- relics могат да действат като external retrieval cues;
+- фармакологичното потискане прави определени спомени трудно достъпни;
+- реликвите могат да действат като външни подсказки за извличане;
 - затова трябва да бъдат скривани/премахвани.
 
-Това direct-confirm-ва dual memory-control architecture:
+Това директно потвърждава двоен механизъм за контрол върху паметта:
 
 ```text
-лекарство / memory suppression
+лекарство / потискане на паметта
           +
-премахване на memory cues от средата
+премахване на подсказките за спомени от средата
           ↓
-намалена вероятност за spontaneous recall
+намалена вероятност за спонтанно припомняне
 ```
 
-Следователно relic policy е едновременно:
-- historical/information control;
-- memory-retrieval control.
+Следователно политиката за реликвите е едновременно:
+- исторически/информационен контрол;
+- контрол върху възстановяването на паметта.
 
 ## PEZ — директна демонстрация
 
-Robert връща PEZ dispenser-а на Juliette.
+Robert връща PEZ дозатора на Juliette.
 
-След контакта с relic-а Juliette си спомня safeguard pipe-а.
+След контакта с реликвата Juliette си спомня тръбата на Safeguard.
 
-Това демонстрира директно:
+Това директно демонстрира:
 
 ```text
-relic
+реликва
   ↓
-retrieval cue
+подсказка за извличане
   ↓
-suppressed/protected memory се връща
+потиснат/защитен спомен се връща
 ```
 
-PEZ-ът е конкретно demonstrated memory key за Juliette.
+PEZ е конкретно демонстриран ключ към спомените на Juliette.
 
-## Radio isolation
+## Радиоизолация
 
 Bernard обяснява на Martha Walker:
-- всеки Silo използва различен radio channel;
-- normal radio traffic на един Silo не се чува от другите;
-- Silo 1 следи всички active frequencies.
+- всеки Силоз използва различен радиоканал;
+- обичайният радиотрафик на един Силоз не се чува от другите;
+- Silo 1 следи всички активни честоти.
 
-Това прави communication isolation частично architectural, а не само social/policy based.
+Това прави комуникационната изолация частично архитектурна, а не само социална/политическа.
 
-## Silo 1 monitoring
+## Наблюдение от Silo 1
 
-All-frequency visibility на Silo 1 дава plausible mechanism за detect-ване на unauthorized inter-Silo radio traffic.
+Видимостта към всички честоти от Silo 1 дава правдоподобен механизъм за засичане на неразрешен междусилозен радиотрафик.
 
-Остава unresolved:
-- Silo 1 = „Гласът“ ли е;
-- Silo 1 има ли direct safeguard trigger authority;
-- monitoring automatic ли е или се review-ва от human/system;
-- могат ли ordinary radios deliberate-но да бъдат retuned към channel на друг Silo.
+Остава неизяснено:
+- дали Silo 1 = „Гласът“;
+- дали Silo 1 има пряка власт за задействане на Safeguard;
+- дали наблюдението е автоматично или се преглежда от човек/система;
+- дали обикновените радиостанции могат умишлено да бъдат пренастроени към канала на друг Силоз.

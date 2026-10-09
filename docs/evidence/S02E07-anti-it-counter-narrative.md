@@ -1,4 +1,4 @@
-# S02E07 — anti-IT физически counter-narrative
+# S02E07 — Физически контраразказ срещу IT
 
 **Граница на знанието:** `S02E07`
 
@@ -17,11 +17,11 @@ Look and See.
 
 ## Доказателство
 
-The note:
+Бележката:
 - accuses IT of lying;
 - представя Mechanical като търсещ истината;
 - свързва публичен suspicion с Juliette;
-- поставя под въпрос official understanding за смъртта на Meadows;
+- поставя под въпрос официалното обяснение за смъртта на Meadows;
 - asks what IT is hiding;
 - urges investigation/наблюдение.
 
@@ -45,7 +45,7 @@ Leaflet-ът **не** установява:
 
 ## Communication significance
 
-S02E06 установи, че radio може да бъде centrally disabled от IT.
+S02E06 установи, че радиото може да бъде централизирано изключено от IT.
 
 физически paper съобщение е operationally различно:
 
@@ -61,7 +61,7 @@ physical leaflet
   ↳ no central "off switch" demonstrated
 ```
 
-Дали физически notes се използват deliberately за bypass на controlled communication channels остава open хипотеза.
+Дали физически бележки се използват умишлено за заобикаляне на контролираните комуникационни канали остава отворена хипотеза.
 
 ## визуален
 

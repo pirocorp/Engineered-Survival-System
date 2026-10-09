@@ -1,55 +1,55 @@
-# S01E07 — reproductive control, doctor confession и Flamekeeper lineage suppression
+# S01E07 — Репродуктивен контрол, признанието на лекаря и потискане на линии на Flamekeepers
 
-**Knowledge boundary:** `S01E07`
+**Граница на знанието:** `S01E07`
 
-## Doctor confession
+## Признанието на лекаря
 
-Бащата на Juliette лично признава, че е казвал на selected female patients, че contraceptive implants са им премахнати, докато всъщност ги е оставял на място.
+Бащата на Juliette лично признава, че е казвал на избрани пациентки, че контрацептивните им импланти са премахнати, докато всъщност ги е оставял на място.
 
-Това independently corroborate-ва physical discovery на Allison от S01E01.
+Това независимо потвърждава физическото откритие на Allison от S01E01.
 
 ```text
-Allison finds retained implant
+Allison намира оставен имплант
         +
-лекарят признава retained-implant deception
+лекарят признава измамата с оставения имплант
         =
-скрит reproductive-control mechanism — confirmed
+скрит механизъм за репродуктивен контрол — ПОТВЪРДЕН
 ```
 
-## H5 update
+## Актуализация на H5
 
-> **H5 — Silo използва covert reproductive control чрез medical deception: selected women получават false confirmation за премахване на implant, докато contraception остава active.**
+> **H5 — Силозът използва скрит репродуктивен контрол чрез медицинска измама: избрани жени получават невярно потвърждение за премахване на импланта, докато контрацепцията остава активна.**
 
-**Confidence:** VH  
-**Status:** Confirmed
+**Увереност:** VH  
+**Статус:** Потвърдена
 
-## “I had no choice”
+## „I had no choice“
 
 Бащата на Juliette казва, че не е имал избор.
 
-Това е негова **self-justification / character claim**, а не independent proof, че отказът е бил невъзможен.
+Това е негова **самозащита / твърдение на персонаж**, а не независимо доказателство, че отказът е бил невъзможен.
 
 Все още е неизвестно:
-- кой е издавал orders;
-- как са били selected пациентите;
-- какво са знаели doctors за ultimate purpose;
-- какви са били consequences при отказ.
+- кой е издавал заповедите;
+- как са били избирани пациентите;
+- какво са знаели лекарите за крайната цел;
+- какви са били последствията при отказ.
 
-## Flamekeeper family-line suppression
+## Потискане на семейни линии на Flamekeepers
 
-Historical testimony твърди, че reproductive control е използван, за да попречи на Flamekeepers / техните descendants да продължат family lines, така че тези lineages да изчезнат през поколенията.
+Историческото свидетелство твърди, че репродуктивният контрол е използван, за да попречи на Flamekeepers / техните потомци да продължат семейните линии, така че тези линии да изчезнат през поколенията.
 
-## H31 — NEW
+## H31 — НОВА
 
-> **Silo reproductive-selection system е използвана за selective lineage suppression срещу Flamekeeper / knowledge-preserving families.**
+> **Системата за репродуктивен подбор в Силоза е използвана за избирателно потискане на семейни линии на Flamekeepers / семейства, съхраняващи знание.**
 
-**Confidence:** H  
-**Status:** Active
+**Увереност:** H  
+**Статус:** Активна
 
-Механизмът е confirmed; historical targeting purpose остава testimony-based.
+Механизмът е потвърден; историческата цел за насочване остава основана на свидетелство.
 
-## Juliette’s accusation
+## Обвинението на Juliette
 
 Juliette вярва, че баща ѝ е предал майка ѝ.
 
-Това е character belief/accusation. Objective betrayal, точният act и motive остават unresolved.
+Това е убеждение/обвинение на персонаж. Обективното предателство, точният акт и мотивът остават неизяснени.

@@ -1,63 +1,63 @@
-# S03E10 — Silo 1 stasis, memory и continuity
+# S03E10 — Стаза, памет и непрекъснатост в Silo 1
 
-**Knowledge boundary:** `S03E10`
+**Граница на знанието:** `S03E10`
 
-## Stasis infrastructure
+## Инфраструктура за стаза
 
-Silo 1 има специализирана medical/stasis инфраструктура с множество chambers и голям facility.
+Silo 1 има специализирана медицинска инфраструктура за стаза с множество камери и голямо съоръжение.
 
 Daniel Keen:
 - се събужда силно охладен;
-- преминава warming/reanimation;
-- по-късно е върнат в cryogenic / metabolic stasis;
-- след следващ cycle е събуден 5 години след предишното awakening.
+- преминава затопляне/реанимация;
+- по-късно е върнат в метаболитна/криогенна стаза;
+- при следващия цикъл е събуден 5 години след предишното събуждане.
 
-Initial live interpretation `nanobot restoration chamber` е оттеглена. Direct evidence установява stasis/reanimation; nanobot repair mechanism не е показан.
+Първоначалната интерпретация при гледането на живо `nanobot restoration chamber` е оттеглена. Прякото доказателство установява стаза/реанимация; механизъм за възстановяване с наноботи не е показан.
 
-Initial live chronology `7 years after opening-day explosion` също е оттеглена. Episode evidence не поддържа тази връзка.
+Първоначалната хронология при гледането на живо `7 години след експлозията в деня на откриването` също е оттеглена. Доказателствата от епизода не подкрепят тази връзка.
 
-## Medical file
+## Медицински файл
 
-Silo 1 `LEGACY SYSTEM / FILE SHARE` показва confidential medical material за prolonged metabolic stasis / post-reanimation.
+`LEGACY SYSTEM / FILE SHARE` в Silo 1 показва поверителен медицински материал за продължителна метаболитна стаза / състояние след реанимация.
 
-Documented effects включват:
-- severe muscle atrophy;
-- reduced bone mineral density;
-- post-reanimation confusion;
-- temporary motor-coordination impairment;
-- dopamine/serotonin dysregulation;
-- reduced cognitive processing speed;
-- endocrine/metabolic disturbance;
-- immune suppression;
-- elevated stress response.
+Документираните ефекти включват:
+- тежка мускулна атрофия;
+- намалена костна минерална плътност;
+- объркване след реанимация;
+- временно нарушение на двигателната координация;
+- нарушение в регулацията на допамин/серотонин;
+- намалена скорост на когнитивната обработка;
+- ендокринни/метаболитни нарушения;
+- потискане на имунната система;
+- повишена реакция на стрес.
 
-Този file не установява selective autobiographical amnesia като стандартен stasis side effect.
+Този файл не установява избирателна автобиографична амнезия като стандартен страничен ефект от стазата.
 
-## Daniel memory state
+## Състояние на паметта на Daniel
 
-След awakening Daniel не разпознава сестра си. Той има fragments за pre-Silo journalist-а и реагира на identity cue `Helen Drew`.
+След събуждането Daniel не разпознава сестра си. Има фрагментирани спомени за журналистката от периода преди силозите и реагира на подсказката за самоличността `Helen Drew`.
 
-Най-силният bounded model е:
-- stasis има реални cognitive side effects;
-- selective personal-memory gaps са по-специфични от описаните medical effects;
-- deliberate memory suppression/alteration е strong candidate;
-- exact technical mechanism остава неизвестен.
+Най-силният ограничен модел е:
+- стазата има реални когнитивни странични ефекти;
+- избирателните пропуски в личната памет са по-специфични от описаните медицински ефекти;
+- умишлено потискане/изменение на паметта е силен кандидат;
+- точният технически механизъм остава неизвестен.
 
-## Founding-era continuity
+## Приемственост от епохата на основаването
 
-Senator-ът от pre-Silo групата е Director на Silo 1 и също участва в stasis cycle.
+Сенаторката от групата преди силозите е директор на Silo 1 и също участва в цикъла на стаза.
 
-Victor е founding-era doctor и активен Silo 1 operator до самоубийството си.
+Victor е лекар от епохата на основаването и активен оператор в Silo 1 до самоубийството си.
 
-Това потвърждава, че Silo 1 запазва founding-era personnel през дълги интервали чрез stasis. Не е установено:
-- че всички founders са preserved;
-- че всички губят памет еднакво;
-- кой пази пълната institutional memory между cycles.
+Това потвърждава, че Silo 1 запазва персонал от епохата на основаването през дълги интервали чрез стаза. Не е установено:
+- че всички Основатели са запазени;
+- че всички губят памет по един и същ начин;
+- кой пази пълната институционална памет между циклите.
 
 ## Helen Drew
 
-Victor's encrypted message идентифицира **Helen Drew** като жената, която Daniel се опитва да възстанови в паметта си.
+Криптираното съобщение на Victor идентифицира **Helen Drew** като жената, която Daniel се опитва да възстанови в паметта си.
 
-Helen Drew = журналистката от pre-Silo линията.
+Helen Drew = журналистката от линията преди силозите.
 
-Daniel изглежда възстановява част от memory connection след този cue; exact completeness на recall-а не е директно измерима.
+Daniel изглежда възстановява част от връзката в паметта си след тази подсказка; точната пълнота на припомнянето не може да бъде измерена директно.

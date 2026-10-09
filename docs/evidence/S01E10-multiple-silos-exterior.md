@@ -1,42 +1,42 @@
-# S01E10 — Barren reality, multi-Silo landscape and distant skyline
+# S01E10 — Реалната безплодна среда, пейзажът с множество силози и далечният градски силует
 
 **Граница на знанието:** `S01E10`
 
-## безплодна външна среда
+## Безплодна външна среда
 
-След като false lush шлем слой изчезва, Juliette вижда barren/devastated външна среда.
+След като фалшивият зелен слой в шлема изчезва, Juliette вижда безплодна/опустошена външна среда.
 
-Това силно установява barren representation като substantially real.
+Това силно установява безплодното представяне като до голяма степен реално.
 
-## Multiple Silos
+## Множество силози
 
-Wide външна среда shots показват повтарящи се circular surface installations, съвместими с neighboring Silo sites.
+Широките външни кадри показват повтарящи се кръгли наземни съоръжения, съвместими със съседни силозни обекти.
 
-Това refactor-ва H10:
+Това преформулира H10:
 
-> **В околния landscape съществуват multiple Silo installations.**
+> **В околния пейзаж съществуват множество силозни съоръжения.**
 
-**увереност:** VH  
-**статус:** потвърден / Refactored
+**Увереност:** VH  
+**Статус:** Потвърдена / Преформулирана
 
 По-ранната следа `SILO_COUNT` вече е съвместима с директно наблюдаваната структура на света, вместо да стои самостоятелно като слаба текстова спекулация.
 
-## Distant skyline
+## Далечен силует
 
-Вижда се далечен ruined/city-like skyline.
+Вижда се далечен разрушен/градоподобен силует.
 
-**увереност:** H
+**Увереност:** H
 
 Не извеждаме:
-- identity на city;
-- state/country;
-- връзка с Georgia реликва;
-- event/cause of destruction.
+- самоличността на града;
+- щат/държава;
+- връзка с реликвата за Georgia;
+- събитието/причината за разрушението.
 
-## визуален доказателство
+## Визуални доказателства
 
-- [Barren exterior + skyline](../../assets/S01E10/screenshots/exterior-barren-city-skyline.jpeg)
-- [Surface hatch / barren terrain](../../assets/S01E10/screenshots/exterior-silo-hatch-barren-terrain.jpeg)
-- [Neighboring Silo field](../../assets/S01E10/screenshots/exterior-neighboring-silo-field.jpeg)
-- [Multiple Silo rings — wide](../../assets/S01E10/screenshots/exterior-multiple-silo-rings-wide.jpeg)
-- [Silo field + skyline — wide](../../assets/S01E10/screenshots/exterior-silo-field-city-skyline-wide.jpeg)
+- [Безплодна външна среда + силует](../../assets/S01E10/screenshots/exterior-barren-city-skyline.jpeg)
+- [Повърхностен люк / безплоден терен](../../assets/S01E10/screenshots/exterior-silo-hatch-barren-terrain.jpeg)
+- [Поле от съседни силози](../../assets/S01E10/screenshots/exterior-neighboring-silo-field.jpeg)
+- [Множество силозни пръстени — широк кадър](../../assets/S01E10/screenshots/exterior-multiple-silo-rings-wide.jpeg)
+- [Поле от силози + градски силует — широк кадър](../../assets/S01E10/screenshots/exterior-silo-field-city-skyline-wide.jpeg)

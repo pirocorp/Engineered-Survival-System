@@ -1,62 +1,62 @@
-# S03E05 — семейство Sims, „Гласът“ и safeguard hierarchy
+# S03E05 — Семейство Sims, „Гласът“ и йерархията на Safeguard
 
 **Граница на знанието:** `S03E05`
 
-## Camille като Head of IT
+## Camille като ръководител на IT
 
-Robert Sims казва пред Mechanical, че Camille Sims е новият Head of IT.
+Robert Sims казва пред Mechanical, че Camille Sims е новият ръководител на IT.
 
-Това operationally resolve-ва предишния succession candidate след пряк interaction-а на Camille със supervisory система-а.
+Това оперативно разрешава предишната кандидатура за наследяване след прякото взаимодействие на Camille с надзорната система.
 
-Camille казва на Robert, че не може да му разкрива какво става във трезор-а.
+Camille казва на Robert, че не може да му разкрива какво става в трезора.
 
-Robert уточнява, че Bernard също не му е казвал какво прави там; знаел е само, че Bernard получава instructions.
+Robert уточнява, че Bernard също не му е казвал какво прави там; знаел е само, че Bernard получава инструкции.
 
 ## „Гласът“
 
-Директната in-world terminology в S03E05 е:
+Директната терминология в света на сериала в S03E05 е:
 
-- **„Гласът“ / the Voice** — пряк in-world label;
-- **supervisory computer/система** — неутрален analytical label;
-- **AI** — не се приема като потвърден technical identity на Silo-era entity.
+- **„Гласът“ / `the Voice`** — пряко вътрешно обозначение;
+- **надзорна компютърна система** — неутрално аналитично обозначение;
+- **ИИ** — не се приема като потвърдена техническа идентичност на същността от епохата на силозите.
 
-Robert не е знаел точната nature на source-а във трезор-а.
+Robert не е знаел точната природа на източника в трезора.
 
-## Safeguard read-in
+## Посвещаване в Safeguard
 
 Bernard казва, че Camille:
-- е informed за safeguard-а;
+- е посветена в Safeguard;
 - има забрана да говори за него с когото и да е.
 
-Следователно safeguard knowledge е explicit privileged compartment с ограничен read-in.
+Следователно знанието за Safeguard е изрично привилегировано отделение с ограничено посвещаване.
 
-## Threat cluster / lethal framing
+## Група от заплахи / смъртоносно рамкиране
 
-Camille казва, че rebellion-ът е приключил при завръщането на Juliette, но опасността не е приключила.
+Camille казва, че бунтът е приключил при завръщането на Juliette, но опасността не е приключила.
 
-Тя посочва Juliette, Bernard и Lukas като продължаващи threats.
+Тя посочва Juliette, Bernard и Lukas като продължаващи заплахи.
 
 Robert пита дали това означава да ги убие.
 
 Camille не формулира изрично „да“, но:
-- не отхвърля lethal interpretation-а;
-- напомня, че Head of IT и преди е искал Robert да „отстранява проблеми“.
+- не отхвърля смъртоносната интерпретация;
+- напомня, че ръководител на IT и преди е искал Robert да „отстранява проблеми“.
 
-Безопасният извод е, че тримата са operationalized като potential lethal targets.
+Безопасният извод е, че тримата са превърнати в потенциални смъртоносни цели.
 
-## Bernard / conflict с „Гласът“
+## Bernard / конфликт с „Гласът“
 
 Bernard казва, че знае, че „Гласът“ го иска мъртъв.
 
-Това independently converges с threat модел-а на Camille, но точен съобщение/command от „Гласът“ към Camille относно Bernard и Lukas не е показан директно.
+Това независимо съвпада с модела на заплахите на Camille, но точно съобщение/заповед от „Гласът“ към Camille относно Bernard и Lukas не е показано директно.
 
-## Existential контрол
+## Екзистенциален контрол
 
 Bernard казва на Robert, че „могат да ни убият по всяко време“.
 
-Той свързва discovery-то с Lukas Kyle и казва, че Juliette знае как да спре safeguard-а.
+Той свързва откритието с Lukas Kyle и казва, че Juliette знае как да спре Safeguard.
 
-Това установява asymmetry на властта:
-- локален leaders не притежават ultimate survival sovereignty;
-- по-високият слой има whole-Silo kill възможност;
-- Juliette притежава countermeasure knowledge.
+Това установява асиметрия на властта:
+- локалните ръководители не притежават окончателен суверенитет върху оцеляването;
+- по-високият слой има възможност за унищожение на целия Силоз;
+- Juliette притежава знание за противодействие.

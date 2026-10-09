@@ -1,14 +1,14 @@
-# S01E02 — Holston exterior visual split
+# S01E02 — Визуалното разминаване при Holston във външната среда
 
 **Knowledge boundary:** `S01E02 only`
 
-Тази бележка фиксира най-силния нов exterior evidence от S01E02: Holston cleaning показва две несъвместими визуални представяния в рамките на едно и също събитие.
+Тази бележка фиксира най-силното ново доказателство за външната среда от S01E02: при почистването на Holston се виждат две несъвместими визуални представяния в рамките на едно и също събитие.
 
 ## Cleaner POV
 
-Holston вижда lush exterior през helmet-а:
+Holston вижда зелена и жива външна среда през шлема:
 
-![Holston cleaner lush view](../../assets/S01E02/screenshots/holston-cleaner-lush-view.jpg)
+![Зелената гледка на Holston при почистването](../../assets/S01E02/screenshots/holston-cleaner-lush-view.jpg)
 
 Видими характеристики:
 
@@ -17,72 +17,72 @@ Holston вижда lush exterior през helmet-а:
 - живо дърво;
 - птици / летящ живот.
 
-Това е `Repeated visual evidence`, защото същият клас lush representation вече е наблюдаван при Allison и в `JANE CARMODY CLEANING`.
+Това е `повторено визуално доказателство`, защото същият клас зелено представяне вече е наблюдаван при Allison и в `JANE CARMODY CLEANING`.
 
 ## Public POV
 
-Хората вътре виждат Holston върху barren/dead-looking landscape:
+Хората вътре виждат Holston върху безплоден/мъртъв пейзаж:
 
-![Holston public barren feed](../../assets/S01E02/screenshots/holston-public-barren-feed.jpg)
+![Публичният пуст изглед към Holston](../../assets/S01E02/screenshots/holston-public-barren-feed.jpg)
 
-Публичният feed показва и Allison като тяло близо до дървото:
+Публичният видеопоток показва и Allison като тяло близо до дървото:
 
-![Allison body on public feed](../../assets/S01E02/screenshots/holston-public-feed-allison-body.jpg)
+![Тялото на Allison в публичния изглед](../../assets/S01E02/screenshots/holston-public-feed-allison-body.jpg)
 
 ## Physical corroboration
 
-Holston по-късно сваля helmet-а, стига до Allison и пада до нея:
+Holston по-късно сваля шлема, стига до Allison и пада до нея:
 
 ![Holston beside Allison](../../assets/S01E02/screenshots/holston-dead-beside-allison.jpg)
 
-Това дава важна, но ограничена corroboration на public feed-а: **позицията на Allison е физически реална**, защото Holston достига тялото ѝ.
+Това дава важно, но ограничено независимо потвърждение на публичния видеопоток: **позицията на Allison е физически реална**, защото Holston достига тялото ѝ.
 
-Това не доказва автоматично, че целият barren landscape е unmodified.
+Това не доказва автоматично, че целият безплоден пейзаж е непроменен.
 
 ## Cleaner behavior
 
-Holston вижда lush scene и след това чисти exterior sensor/camera. Това повтаря behavioral pattern-а от Allison.
+Holston вижда зелената сцена и след това почиства външния сензор/камера. Това повтаря поведенческия модел от Allison.
 
-**Impact:** H4 (`cleaning behavior is engineered by cleaner perception`) се засилва от `M` към `H`.
+**Въздействие:** H4 (`поведението при почистване се насочва чрез възприятието на човека`) се засилва от `M` към `H`.
 
 ## Distress / helmet
 
-Holston показва видим distress и се опитва да свали helmet-а:
+Holston показва видимо страдание и се опитва да свали шлема:
 
 ![Holston distress](../../assets/S01E02/screenshots/holston-distress-removing-helmet.jpg)
 
-Това отваря отделна mechanism hypothesis: cleaner death може да включва suit/helmet/life-support фактор, но S01E02 не определя причината.
+Това отваря отделна хипотеза за механизма: смъртта на човека при почистване може да включва фактор, свързан с костюма/шлема/поддържането на живота, но S01E02 не определя причината.
 
-## Competing models след S01E02
+## Конкуриращи се модели след S01E02
 
-### Model A — lush is real
+### Модел A — зелената гледка е реална
 
-Cleaner helmet-ът показва реалния външен свят, а public feed-ът е manipulated.
+Шлемът на човека при почистване показва реалния външен свят, а публичният видеопоток е манипулиран.
 
-**Status:** възможен, но не independently authenticated.
+**Статус:** възможен, но не е независимо удостоверен.
 
-### Model B — barren is substantially real
+### Модел B — пустата гледка е в значителна степен реална
 
-Public feed-ът е по-близо до реалността, а lush cleaner view е overlay/simulation.
+Публичният видеопоток е по-близо до реалността, а зелената гледка за човека при почистване е наслагване/симулация.
 
-**Status:** strengthened, защото public feed правилно локализира Allison като физически обект.
+**Статус:** подсилен, защото публичният видеопоток правилно локализира Allison като физически обект.
 
-### Model C — neither is fully authentic
+### Модел C — нито една гледка не е напълно автентична
 
-И двата visual channels са processed representations с различни цели.
+И двата визуални канала са обработени представяния с различни цели.
 
-**Status:** остава напълно отворен.
+**Статус:** остава напълно отворен.
 
 ## Какво S01E02 не разрешава
 
-- какво вижда Holston непосредствено след сваляне на helmet-а;
-- дали lush scene е live, prerecorded, generated или augmented;
-- дали public feed е live и unprocessed;
-- кое точно убива cleaner-а;
-- дали visual manipulation е основно deception, behavioral conditioning или survival mechanism.
+- какво вижда Holston непосредствено след сваляне на шлема;
+- дали зелената сцена е на живо, предварително записана, генерирана или допълнена;
+- дали публичният видеопоток е на живо и необработен;
+- кое точно убива човека при почистване;
+- дали визуалната манипулация е основно измама, поведенческо обуславяне или механизъм за оцеляване.
 
 ## Episode-level conclusion
 
-> **Exterior visual contradiction вече е repeatable, system-level phenomenon, а не Allison-only anomaly.**
+> **Противоречието във визуалното представяне на външната среда вече е повторяемо явление на системно ниво, а не аномалия само при Allison.**
 
-Това е достатъчно да повиши H1 до `VH`, но не е достатъчно да избере окончателно между Model A, B и C.
+Това е достатъчно да повиши H1 до `VH`, но не е достатъчно да избере окончателно между Модел A, B и C.

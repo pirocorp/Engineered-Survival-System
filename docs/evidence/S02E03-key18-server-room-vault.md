@@ -1,12 +1,12 @@
-# S02E03 — Key 18, Server Room и IT трезор
+# S02E03 — Ключ 18, Server Room и IT трезор
 
 **Граница на знанието:** `S02E03`
 
 ## пряк пространствен/достъп доказателство
 
-физически key на Bernard с маркировка `18` се използва за/достъп-ва **SERVER ROOM**.
+Физическият ключ на Bernard с маркировка `18` се използва за достъп до **SERVER ROOM**.
 
-Вътре в този restricted Server Room се намира heavy защитен **трезор**.
+Вътре в този защитен Server Room се намира масивен **трезор**.
 
 ```text
 key 18
@@ -16,7 +16,7 @@ SERVER ROOM
 vault
 ```
 
-Survivor-ът от Silo 17 независимо нарича своя analogous защитен IT compartment **трезор**.
+Оцелелият от Silo 17 независимо нарича аналогичното си защитено IT помещение **трезор**.
 
 He says Russell:
 - put him inside it;
@@ -37,5 +37,5 @@ Still unknown:
 
 ## визуален доказателство
 
-- [Key 18 / Server Room access](../../assets/S02E03/screenshots/bernard-key18-server-room-access.jpeg)
-- [Server Room / vault](../../assets/S02E03/screenshots/server-room-it-vault.jpeg)
+- [Ключ 18 / достъп до Server Room](../../assets/S02E03/screenshots/bernard-key18-server-room-access.jpeg)
+- [Server Room / трезор](../../assets/S02E03/screenshots/server-room-it-vault.jpeg)

@@ -1,70 +1,70 @@
-# S03E04 — concealed deep route и Bernard alive correction
+# S03E04 — Скрит дълбок маршрут и корекцията за Bernard
 
-**Knowledge boundary:** `S03E04`
+**Граница на знанието:** `S03E04`
 
-## Known access срещу concealed access
+## Познат достъп срещу скрит достъп
 
-Juliette иска да стигне до abyss / digger area.
+Juliette иска да стигне до пропастта / зоната на изкопната машина.
 
-Known/ordinary access е sealed.
+Познатият/обичайният достъп е запечатан.
 
-Juliette и Mechanical ally откриват:
-- hidden door;
-- intact tunnel зад нея;
-- dedicated rope/descent setup;
-- functional route надолу към deep excavation zone.
+Juliette и съюзникът ѝ от Mechanical откриват:
+- скрита врата;
+- запазен тунел зад нея;
+- специално подготвено въже/система за спускане;
+- функционален маршрут надолу към дълбоката изкопна зона.
 
-Juliette успешно използва route-а.
+Juliette успешно използва маршрута.
 
-Следователно правилният spatial model е:
+Следователно правилният пространствен модел е:
 
 ```text
-ordinary access
-    └─ sealed
+обичаен достъп
+    └─ запечатан
 
-concealed access
-    └─ hidden door
+скрит достъп
+    └─ скрита врата
          ↓
-       tunnel
+       тунел
          ↓
-   fixed rope/descent point
+   фиксирана точка за спускане с въже
          ↓
-   abyss / deep excavation
+   пропаст / дълбока изкопна зона
 ```
 
-Route-ът не е само theoretical или improvised; съществуващото descent hardware показва intentional access.
+Маршрутът не е само теоретичен или импровизиран; съществуващото оборудване за спускане показва умишлено подготвен достъп.
 
-## Bernard reveal
+## Разкритието за Bernard
 
-Juliette намира Bernard жив в deep zone.
+Juliette намира Bernard жив в дълбоката зона.
 
-Това директно falsify-ва previously accepted current-state account-а, че Bernard е dead/burned.
+Това директно опровергава приетия дотогава текущ разказ, че Bernard е мъртъв/изгорен.
 
-### Historical correction chain
+### Верига на историческата корекция
 
 Приетото тогава състояние след S03E01:
 - Bernard е третиран като мъртъв;
-- Sims дава burning/furnace account;
-- repo-то записва това като тогавашния current evidence/model.
+- Sims дава разказ за изгаряне/пещи;
+- хранилището записва това като текущото тогава доказателствено състояние.
 
 S03E04:
 - Bernard е жив.
 
-Historical S03E01 state се пази като prior model history, но е marked superseded.
+Историческото състояние от S03E01 се пази като предишен модел, но вече е отбелязано като заменено.
 
 Безопасният извод е:
-> Bernard death/burning narrative е false, staged, misrepresented или materially incomplete.
+> Разказът за смъртта/изгарянето на Bernard е неверен, инсцениран, подвеждащо представен или съществено непълен.
 
 Все още не е установено:
-- кой е организирал deception-а;
+- кой е организирал измамата;
 - дали Bernard е участвал доброволно;
 - дали е използвано друго тяло;
-- какво точно е станало след airlock/burner sequence-а;
-- защо Bernard е в deep zone;
+- какво точно е станало след последователността в шлюза/с горелката;
+- защо Bernard е в дълбоката зона;
 - кой има достъп до него.
 
 ## Физическо състояние
 
-Bernard изглежда injured/debilitated във visual evidence.
+Във визуалните доказателства Bernard изглежда ранен/изтощен.
 
-Кадърът подкрепя physical impairment, но не конкретна diagnosis, injury mechanism или timeline.
+Кадърът подкрепя физическо увреждане, но не конкретна диагноза, механизъм на нараняване или точна хронология.

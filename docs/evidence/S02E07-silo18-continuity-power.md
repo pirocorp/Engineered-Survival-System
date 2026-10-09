@@ -18,7 +18,7 @@ Residents изрично забелязват, че IT остава lit, и пи
 **Class:** пряк диалог / публичен наблюдение  
 **увереност:** VH.
 
-## междусилозен comparison
+## Междусилозно сравнение
 
 ```text
 Silo 17
@@ -46,12 +46,12 @@ Important distinction:
 Свидетелството на оцелелия от Silo 17 описва IT захранването като идващо от **външен източник**.
 
 Silo 18 към момента доказва само **functional independence/redundancy** на IT захранване. Все още не доказва:
-- същия external source;
+- същия външен източник;
 - identical архитектура;
 - identical capacity;
 - identical routing.
 
-## социален/governance impact
+## Социално/управленско въздействие
 
 Асиметрията в захранването вече не е скрита по време на blackout: жителите могат видимо да наблюдават, че IT остава захранен, докато нормалните зони са тъмни.
 
@@ -59,4 +59,4 @@ Silo 18 към момента доказва само **functional independence/
 
 ## визуален
 
-- [Silo 18 blackout — IT remains powered](../../assets/S02E07/screenshots/silo18-blackout-it-remains-powered.jpeg)
+- [Спиране на тока в Silo 18 — IT остава захранено](../../assets/S02E07/screenshots/silo18-blackout-it-remains-powered.jpeg)

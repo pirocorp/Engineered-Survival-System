@@ -2,7 +2,7 @@
 
 **Knowledge boundary:** `S02E08`
 
-Judge Sims получава digital message от `R. AHUNDSEN`.
+Judge Sims получава цифрово съобщение от `R. AHUNDSEN`.
 
 ## Директен текст
 
@@ -14,7 +14,7 @@ I SOMETIMES WONDER HOW THAT LITTLE APPLE TREE HAS GROWN.
 R. AHUNDSEN
 ```
 
-Това независимо разширява S02E06 digital-messaging модела и към Judicial ролята на Sims.
+Това независимо разширява модела за цифрови съобщения от S02E06 и към ролята на Sims в Judicial.
 
 ## Контекстът с orchard-а
 
@@ -24,16 +24,16 @@ R. AHUNDSEN
 
 ## H64
 
-**Формулировката за apple tree може да е covert signaling, буквален личен спомен или dual-purpose language.**
+**Формулировката за apple tree може да е скрит сигнал, буквален личен спомен или израз с двойна функция.**
 
 **Confidence:** M  
-**Status:** Candidate.
+**Статус:** Кандидат.
 
 Засега не приемаме coded interpretation.
 
-По-късна директна реакция на Sims, ясно свързана с тази фраза, би усилила значително code hypothesis.
+По-късна директна реакция на Sims, ясно свързана с тази фраза, би усилила значително хипотезата за кодирано съобщение.
 
 ## Visuals
 
-- [Judge Sims / R. Ahundsen message](../../assets/S02E08/screenshots/judge-sims-r-ahundsen-apple-tree-message.jpeg)
+- [Judge Sims / съобщение от R. Ahundsen](../../assets/S02E08/screenshots/judge-sims-r-ahundsen-apple-tree-message.jpeg)
 - [Indoor orchard / apple-tree context](../../assets/S02E08/screenshots/indoor-orchard-apple-tree-context.jpeg)

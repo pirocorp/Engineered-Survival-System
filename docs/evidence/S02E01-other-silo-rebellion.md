@@ -1,10 +1,10 @@
-# S02E01 — Rebellion във втория Silo, IT assault и mass exit
+# S02E01 — Бунтът във втория Силоз, нападението срещу IT и масовото излизане
 
 **Knowledge boundary:** `S02E01`
 
 ## Верига на доказателствата
 
-- видимо е rebellion-era anti-Founder / anti-deception graffiti;
+- виждат се графити от времето на бунта срещу Основателите / измамата;
 - появява се 15-minute generator-related written warning;
 - Sheriff-led group напредва срещу **IT**;
 - another group defends IT;
@@ -12,21 +12,21 @@
 - Sheriff-led group достига airlock;
 - Sheriff opens it;
 - групата излиза навън;
-- present-day remains и event continuity свързват тази sequence с втория Silo, в който по-късно влиза Juliette.
+- останките в настоящето и непрекъснатостта на събитията свързват тази последователност с втория Силоз, в който по-късно влиза Juliette.
 
 ## Correction history
 
-Ранна interpretation третира атаката като нападение срещу Engineering с цел завземане на generator control.
+Ранна интерпретация приема атаката за нападение срещу Engineering с цел поемане на контрола над генератора.
 
-По-късната scene geography установява IT като attacked/defended institutional location.
+По-късната пространствена география на сцената установява IT като институционално място, което е атакувано и защитавано.
 
-Следователно **E188 е superseded inference** и остава записан historical, вместо да бъде мълчаливо презаписан.
+Следователно **E188 е заменен извод** и остава записан исторически, вместо да бъде мълчаливо презаписан.
 
-Generator note остава отделна. Връзката ѝ с IT assault е unresolved.
+Бележката за генератора остава отделно доказателство. Връзката ѝ с нападението срещу IT е неизяснена.
 
 ## Interpretation
 
-Sequence-ът доказва организиран internal conflict, включващ:
+Последователността доказва организиран вътрешен конфликт, включващ:
 - IT as a defended strategic location;
 - exit attempt през airlock;
 - strong anti-deception sentiment.
@@ -35,7 +35,7 @@ Sequence-ът доказва организиран internal conflict, вклю�
 - exact formal faction labels;
 - че Sheriff-led group представлява всички rebels;
 - че IT defenders са причинили bridge destruction, освен ако не е директно показано;
-- че групата е постигнала overall political control върху Silo.
+- че групата е постигнала общ политически контрол над Силоза.
 
 ## Russell boundary
 
@@ -46,10 +46,10 @@ Unknown:
 - за какво allegedly е излъгал;
 - дали claim-ът е accurate.
 
-## Visual evidence
+## Визуални доказателства
 
 - [Anti-Founder graffiti](../../assets/S02E01/screenshots/rebellion-anti-founders-graffiti.jpeg)
 - [Generator 15-minute note](../../assets/S02E01/screenshots/rebellion-generator-15min-note.jpeg)
 - [IT battle bridge](../../assets/S02E01/screenshots/other-silo-it-battle-bridge.jpeg)
 - [Sheriff-led group exits](../../assets/S02E01/screenshots/sheriff-group-exits-outside.jpeg)
-- [Remains / flag continuity](../../assets/S02E01/screenshots/other-silo-rebellion-remains-flag.jpeg)
+- [Останки / непрекъснатост на знамето](../../assets/S02E01/screenshots/other-silo-rebellion-remains-flag.jpeg)

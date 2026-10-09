@@ -1,27 +1,27 @@
-# S02E04 — survivor от Silo 17: дете по време на rebellion, защитено във vault
+# S02E04 — оцелял от Silo 17: дете по време на бунта, защитено в трезора
 
 **Knowledge boundary:** `S02E04`
 
-S02E04 refine-ва timeline-а на survivor-а от Silo 17.
+S02E04 уточнява хронологията на оцелелия от Silo 17.
 
 ## Evidence
 
-- Той е бил дете, когато се случва rebellion в Silo 17.
-- Бил е поставен/заключен в IT vault още от детството през този crisis period.
+- Той е бил дете, когато се случва бунтът в Silo 17.
+- Бил е поставен/заключен в IT трезора още като дете през този кризисен период.
 
 Това променя interpretation-а на заповедта на Russell.
 
-Vault не може да се моделира само като guard position. Той е можел да функционира като protected **continuity/survival refuge**, запазвайки дете през Silo-wide collapse.
+Трезорът не може да се моделира само като охранителна позиция. Той е можел да функционира като защитено **убежище за непрекъснатост/оцеляване**, запазвайки дете по време на колапс в целия Силоз.
 
 ## H42 refactor
 
-**IT vault е protected continuity/survival compartment, който може да запазва хора, както и privileged systems/knowledge по време на catastrophic unrest.**
+**IT трезорът е защитено помещение за непрекъснатост/оцеляване, което може да запазва хора, както и привилегировани системи/знание по време на катастрофални размирици.**
 
 **Confidence:** H  
 **Status:** Strongly Strengthened / Refactored
 
 Still unresolved:
 - защо Russell е избрал това дете;
-- exact relationship между Russell и survivor-а;
-- как survivor-ът е бил снабдяван long term;
-- дали preserving на човек е intended standard vault function или emergency decision.
+- точната връзка между Russell и оцелелия;
+- как оцелелият е бил снабдяван в дългосрочен план;
+- дали съхраняването на човек е предвидена стандартна функция на трезора или аварийно решение.

@@ -1,43 +1,43 @@
-# S01E06 — Georgia pre-Silo geography relic
+# S01E06 — Реликва за географията на Georgia от периода преди силозите
 
-**Knowledge boundary:** `S01E06`
+**Граница на знанието:** `S01E06`
 
-## Direct visual evidence
+## Пряко визуално доказателство
 
-Juliette получава pre-Silo travel guide:
+Juliette получава пътеводител от периода преди силозите:
 
 **Amazing Adventures in Georgia — a travel guide for kids**
 
-Pages съдържат:
-- Chattahoochee / forest references;
-- North-American wildlife;
-- Tybee Island / Georgia coast;
-- U.S. flag imagery.
+Страниците съдържат:
+- препратки към Chattahoochee / гори;
+- северноамериканска дива природа;
+- Tybee Island / крайбрежието на Georgia;
+- изображения на знамето на САЩ.
 
-Това позволява reliable identification на `Georgia` като **U.S. state Georgia**.
+Това позволява надеждно идентифициране на `Georgia` като **американския щат Georgia**.
 
-## What this does not prove
+## Какво това не доказва
 
-Travel guide-ът не доказва, че Silo physically се намира в Georgia.
+Пътеводителят не доказва, че Силозът физически се намира в Georgia.
 
-Възможно е relic-ът да е:
-- local;
-- imported;
-- collected;
-- transferred before/after construction.
+Възможно е реликвата да е:
+- местна;
+- внесена;
+- събрана;
+- прехвърлена преди/след строителството.
 
-## Geographic hypothesis
+## Географска хипотеза
 
-> **H29 — Silo има pre-Silo geographic connection с Georgia, USA.**
+> **H29 — Силозът има географска връзка от периода преди силозите с Georgia, USA.**
 
-**Confidence:** L  
-**Status:** Candidate
+**Увереност:** L  
+**Статус:** Кандидат
 
-Physical-location version остава `VL/L speculation` до independent corroboration.
+Версията за физическо местоположение остава `VL/L спекулация` до независимо потвърждение.
 
-## Visual evidence
+## Визуални доказателства
 
-- [Georgia travel-guide cover](../../assets/S01E06/screenshots/pre-silo-georgia-travel-guide-relic.jpeg)
-- [Chattahoochee / forest](../../assets/S01E06/screenshots/pre-silo-georgia-chattahoochee-forest.jpeg)
-- [Wildlife guide](../../assets/S01E06/screenshots/pre-silo-georgia-wildlife-guide.jpeg)
-- [Georgia coast / Tybee Island](../../assets/S01E06/screenshots/pre-silo-georgia-coast-tybee-island.jpeg)
+- [Корица на пътеводителя за Georgia](../../assets/S01E06/screenshots/pre-silo-georgia-travel-guide-relic.jpeg)
+- [Chattahoochee / гора](../../assets/S01E06/screenshots/pre-silo-georgia-chattahoochee-forest.jpeg)
+- [Пътеводител за дивата природа](../../assets/S01E06/screenshots/pre-silo-georgia-wildlife-guide.jpeg)
+- [Крайбрежието на Georgia / Tybee Island](../../assets/S01E06/screenshots/pre-silo-georgia-coast-tybee-island.jpeg)

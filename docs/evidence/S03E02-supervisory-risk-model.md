@@ -1,67 +1,67 @@
-# S03E02 — supervisory computer/система: semantic awareness, полезност праг и population контрол
+# S03E02 — Надзорна компютърна система: семантична осведоменост, праг на полезност и контрол на населението
 
 **Граница на знанието:** `S03E02`
 
-## Covert-note awareness
+## Осведоменост за тайните бележки
 
-Computer/система-ът знае, че Juliette е получила тайна бележка и че е скрила/отрекла това пред Mrs Sims. система-ът оценява решението ѝ да излъже като concerning.
+Компютърната система знае, че Juliette е получила тайна бележка и че е скрила/отрекла това пред Mrs Sims. Системата оценява решението ѝ да излъже като тревожно.
 
-Това materially strengthens situational-awareness модел-а:
+Това съществено подсилва модела за ситуационна осведоменост:
 
 ```text
-observed behavior
+наблюдавано поведение
       ↓
-context reconstruction
+възстановяване на контекста
       ↓
-deception / risk evaluation
+оценка на измама / риск
       ↓
-operational response
+оперативна реакция
 ```
 
-Това не доказва потвърден AI identity. Repo продължава да използва `computer/system` / `supervisory system`.
+Това не доказва потвърдена идентичност като ИИ. Хранилището продължава да използва `компютър/система` / `надзорна система` като неутрални обозначения в цитати/исторически контекст.
 
-## Explicit Juliette риск модел
+## Изричен модел на риска около Juliette
 
-система-ът показва две линии:
-- red: риск associated with Juliette / recovering suppressed memories;
-- blue: stabilizing influence of Juliette as Mayor.
+Системата показва две линии:
+- червена: риск, свързан с Juliette / възстановяването на потиснати спомени;
+- синя: стабилизиращото влияние на Juliette като кмет.
 
-система-ът заявява, че ако линиите се пресекат, Juliette вече няма да бъде useful.
+Системата заявява, че ако линиите се пресекат, Juliette вече няма да бъде полезна.
 
-Това е Пряко доказателство за explicit полезност/риск праг модел.
+Това е пряко доказателство за изричен модел с праг полезност/риск.
 
-## Removal problem
+## Проблемът с отстраняването
 
-система-ът едновременно:
-- допуска future removal на Juliette;
-- оценява sudden removal като potentially catastrophically destabilizing.
+Системата едновременно:
+- допуска бъдещо отстраняване на Juliette;
+- оценява внезапното ѝ отстраняване като потенциално катастрофално дестабилизиращо.
 
-Следователно Juliette е retained не защото privileged слой ѝ има доверие, а защото current stabilizing value остава operationally important.
+Следователно Juliette се запазва не защото привилегированият слой ѝ има доверие, а защото текущата ѝ стабилизираща стойност остава оперативно важна.
 
-## Water-supply contingency
+## Резервен план чрез водоснабдяването
 
-система-ът иска `vitamins` да бъдат добавени във water supply преди removal да стане необходимо.
+Системата иска `vitamins` да бъдат добавени във водоснабдяването, преди отстраняването да стане необходимо.
 
-Safe conclusion:
+Безопасният извод е:
 
-> population-scale pharmacological memory intervention е contemplated като contingency за намаляване на destabilization около future Juliette-removal scenario.
+> Фармакологична намеса върху паметта на ниво население се разглежда като резервна мярка за намаляване на дестабилизацията около бъдещ сценарий за отстраняване на Juliette.
 
-Not yet established:
-- точен target memory;
-- дали population трябва буквално да забрави Juliette;
-- точен dose/agent;
-- who executes dosing;
-- whether this is same substance as Quinn-era water program.
+Все още не е установено:
+- точният целеви спомен;
+- дали населението трябва буквално да забрави Juliette;
+- точната доза/вещество;
+- кой изпълнява дозирането;
+- дали това е същото вещество като програмата чрез водата от епохата на Quinn.
 
-## Cross-episode significance
+## Междуепизодно значение
 
 S02E08:
-- prolonged waterborne потискане на паметта is historically established through Bernard's account.
+- продължително потискане на паметта чрез водата е исторически установено чрез разказа на Bernard.
 
 S03E01:
-- `vitamins` are current cover/framing for Juliette-targeted потискане на паметта.
+- `vitamins` са текущото прикриващо обозначение за целево потискане на паметта при Juliette.
 
 S03E02:
-- computer/система links `vitamins` framing to planned water-supply deployment.
+- компютърната система свързва това обозначение с планирано подаване чрез водоснабдяването.
 
-Това operationally connects targeted and population-scale memory-контрол modes, без да proves точен chemical identity.
+Това оперативно свързва целевия и масовия режим за контрол върху паметта, без да доказва точна химична идентичност.

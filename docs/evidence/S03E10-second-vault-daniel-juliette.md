@@ -1,52 +1,52 @@
-# S03E10 — Second Vault, cross-Silo contact и Daniel–Juliette deal
+# S03E10 — Вторият трезор, междусилозният контакт и сделката Daniel–Juliette
 
-**Knowledge boundary:** `S03E10`
+**Граница на знанието:** `S03E10`
 
-## Cross-Silo communication
+## Междусилозна комуникация
 
-Juliette има работещ двупосочен communication channel със Silo 17.
+Juliette има работещ двупосочен комуникационен канал със Silo 17.
 
-Това надгражда по-ранното restored-radio evidence: cross-Silo contact вече е operational, не само historical possibility.
+Това надгражда по-ранното доказателство за възстановена радиовръзка: междусилозният контакт вече е оперативен, а не само историческа възможност.
 
-## Second Vault
+## Вторият трезор
 
-Подземната структура под Silo 18, към която Juliette се насочва, е назована от Silo 1 като **Second Vault на Silo 18**.
+Подземната структура под Silo 18, към която Juliette се насочва, е назована от Silo 1 като **Вторият трезор на Silo 18**.
 
-Това е отделен label от ordinary IT vault / Legacy. Без direct evidence те не се сливат.
+Това е отделно обозначение от обикновения IT трезор / Legacy. Без пряко доказателство те не се сливат.
 
-Route-ът е през силно flooded lower infrastructure.
+Маршрутът минава през силно наводнена долна инфраструктура.
 
-## Supervisory channel
+## Надзорен канал
 
-Second Vault има active communication/control channel.
+Вторият трезор има активен комуникационен/контролен канал.
 
-Daniel комуникира с Juliette през него и поставя explicit conditions:
-- stop investigating Second Vault;
-- do not contact another Silo;
-- при compliance Safeguard няма да бъде използван срещу Silo 18.
+Daniel комуникира с Juliette през него и поставя изрични условия:
+- да спре разследването на Втория трезор;
+- да не контактува с друг Силоз;
+- при спазване на условията Safeguard няма да бъде използван срещу Silo 18.
 
 Това показва, че Safeguard е:
-- coercive governance tool;
-- conditional, not merely automatic;
-- свързан с informational/cross-Silo containment.
+- инструмент за принудително управление;
+- условен, а не чисто автоматичен;
+- свързан с информационно/междусилозно ограничаване.
 
-## Juliette's response
+## Отговорът на Juliette
 
 Juliette приема сделката.
 
 След това предлага Silo 18 тайно да:
 - се подготви;
 - удари Silo 1;
-- превземе supervisory center;
-- използва surprise като advantage.
+- превземе надзорния център;
+- използва изненадата като предимство.
 
-Следователно deal acceptance не се интерпретира като strategic surrender, а като possible tactical compliance / time-buying.
+Следователно приемането на сделката не се интерпретира като стратегическа капитулация, а като възможно тактическо съгласие / печелене на време.
 
-## Open architecture questions
+## Отворени архитектурни въпроси
 
-- Second Vault purpose;
-- physical route/connection към Silo 1;
-- whether Daniel is same `other voice` heard earlier by Lukas in every instance;
-- whether channel is independent, relay-based or centrally routed;
-- how Second Vault relates to Safeguard infrastructure;
-- whether Silo 18 has a practical path to Silo 1.
+- предназначението на Втория трезор;
+- физическият маршрут/връзка към Silo 1;
+- дали Daniel е същият „друг глас“, чут по-рано от Lukas във всеки отделен случай;
+- дали каналът е независим, основан на препредаване или централно маршрутизиран;
+- как Вторият трезор се свързва с инфраструктурата на Safeguard;
+- дали Silo 18 има практически път към Silo 1.

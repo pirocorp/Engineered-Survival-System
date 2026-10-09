@@ -4,22 +4,22 @@
 
 ## Observation
 
-Жената, която е отгледала Juliette, идентифицира две необичайни Pact restrictions:
+Жената, която е отгледала Juliette, идентифицира две необичайни ограничения в Пакта:
 
-1. mechanized movement / transport през Silo е забранен;
-2. magnifying devices над определен threshold са забранени.
+1. механизираното придвижване / транспорт през Силоза е забранено;
+2. увеличителните устройства над определен праг са забранени.
 
 ## Mechanized transport
 
-До S01E04 липсата на elevators можеше да бъде engineering limitation или deliberate design choice.
+До S01E04 липсата на асансьори можеше да е инженерно ограничение или умишлен проектен избор.
 
-S01E05 добавя direct testimony, че mechanized vertical transport е **formally/deliberately prohibited**.
+S01E05 добавя пряко свидетелство, че механизираният вертикален транспорт е **формално/умишлено забранен**.
 
-Това strengthens H18:
+Това подсилва H18:
 
-> slow human-powered vertical movement е intentionally preserved system property.
+> бавното вертикално придвижване с човешка сила е умишлено запазено свойство на системата.
 
-Observed social effect остава:
+Наблюдаваният социален ефект остава:
 
 `large vertical distance → high travel cost/time → de facto social separation`
 
@@ -27,27 +27,27 @@ Observed social effect остава:
 
 ## Magnification
 
-Pact ограничава devices, които magnify над определена степен.
+Пактът ограничава устройства, които увеличават над определена степен.
 
-Това е evidence, че control architecture-ът включва не само:
+Това е доказателство, че архитектурата за контрол включва не само:
 
 - forbidden information;
 - forbidden spaces;
 - forbidden communication;
 
-а и **limits върху observation capability / tools**.
+а и **ограничения върху способността/инструментите за наблюдение**.
 
-Не знаем target-а на това правило. Не заключваме дали е свързано с microscopy, astronomy, precision engineering или друго.
+Не знаем целта на това правило. Не заключваме дали е свързано с микроскопия, астрономия, прецизно инженерство или друго.
 
 ## Syndrome discipline
 
-`The Syndrome ↔ magnification restriction` няма established evidence до S01E05.
+`The Syndrome ↔ ограничението върху увеличението` няма установено доказателство до S01E05.
 
-Това остава само **VL speculation / open question** и не е active hypothesis.
+Това остава само **спекулация с много ниска увереност / отворен въпрос** и не е активна хипотеза.
 
 ## H27
 
-> **H27 — Pact ограничава physical capabilities за independent movement и observation/discovery, не само достъпа до content.**
+> **H27 — Пактът ограничава физическите способности за независимо придвижване и наблюдение/откриване, не само достъпа до съдържание.**
 
 **Confidence:** M  
 **Status:** Active

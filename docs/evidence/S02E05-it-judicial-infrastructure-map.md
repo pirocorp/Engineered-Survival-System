@@ -1,8 +1,8 @@
-# S02E05 — Silo schematic и hidden IT/Judicial infrastructure
+# S02E05 — Схема на Силоза и скрита инфраструктура на IT/Judicial
 
 **Knowledge boundary:** `S02E05`
 
-Новооткрита Silo schematic показва lines/connections, свързани в scene context едновременно с **IT** и **Judicial**.
+Новооткрита схема на Силоза показва линии/връзки, които в контекста на сцената са свързани едновременно с **IT** и **Judicial**.
 
 ## Директни доказателства boundary
 
@@ -10,11 +10,11 @@
 - line type;
 - direction;
 - source;
-- дали connection пренася electricity, data, communications, control, fluid/utility service или multiple services.
+- дали връзката пренася електричество, данни, комуникации, управление, течности/комунални услуги или няколко вида услуги.
 
 ## H55
 
-**IT и Judicial може да са свързани с hidden privileged infrastructure backbone, различен от ordinary Silo distribution.**
+**IT и Judicial може да са свързани със скрита привилегирована инфраструктурна магистрала, различна от обичайното разпределение в Силоза.**
 
 **Confidence:** M–H  
 **Status:** Active
@@ -23,4 +23,4 @@
 
 ## Visual
 
-- [Silo schematic with IT/Judicial lines](../../assets/S02E05/screenshots/monitor-silo-map-it-judicial-lines.jpeg)
+- [Схема на Силоза с линии към IT/Judicial](../../assets/S02E05/screenshots/monitor-silo-map-it-judicial-lines.jpeg)

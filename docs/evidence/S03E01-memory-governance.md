@@ -1,41 +1,41 @@
-# S03E01 — Juliette контрол върху паметта, Bernard aftermath и governance
+# S03E01 — Контролът върху паметта на Juliette, последиците около Bernard и управлението
 
 **Граница на знанието:** `S03E01`
 
 ## Пряко доказателство
 
-- Juliette е Mayor ~3 months след return-а.
-- Тя е actively surveilled; Sims наблюдава видеопоток-а.
-- Не помни Sims и critical Bernard/safeguard conversation.
-- Получава `vitamins`; later computer/система диалог потвърждава memory-потискане medication.
-- Подаден ѝ е false `bunker` replacement разказ, който contradict-ва Silo 17 Пряко доказателство.
-- Bernard е dead; later reveal показва human killing, а не simple death from outside/flame.
-- Body transport е ~six hours с six porters; Level 67 е видим.
-- Sims твърди, че лично е burned Bernard.
+- Juliette е кмет приблизително 3 месеца след завръщането си.
+- Тя е активно наблюдавана; Sims следи видеопотока ѝ.
+- Не помни Sims и критичния разговор Bernard/Safeguard.
+- Получава `vitamins`; по-късен диалог с компютърната система потвърждава лекарство за потискане на паметта.
+- Подаден ѝ е фалшив заместващ разказ за `bunker`, който противоречи на преките доказателства от Silo 17.
+- Bernard е представен като мъртъв; по-късното разкритие показва човешко убийство/инсценировка, а не проста смърт от външната среда/пламъците.
+- Пренасянето на тялото е около шест часа с шестима носачи; вижда се ниво 67.
+- Sims твърди, че лично е изгорил Bernard.
 
-## модел
+## Модел
 
 ```text
-protected Juliette knowledge
+защитено знание на Juliette
         ↓
-memory suppression
+потискане на паметта
         +
-replacement narrative
+заместващ разказ
         +
-continuous surveillance
+непрекъснато наблюдение
         ↓
-watch for memory recovery
+следене за възстановяване на паметта
 ```
 
-Това превръща pharmacological контрол върху паметта от исторически/институционален възможност в **current targeted оперативен use** срещу Juliette.
+Това превръща фармакологичния контрол върху паметта от историческа/институционална възможност в **текуща целева оперативна употреба** срещу Juliette.
 
-## Governance
+## Управление
 
-S03E01 показва непрекъснатост, а не regime redesign: архитектура-та остава recognizable, family Sims държи dominant контрол слой, а Juliette има formal Mayor role без еквивалентен privileged informational контрол.
+S03E01 показва приемственост, а не пълно преработване на режима: архитектурата остава разпознаваема, семейство Sims държи доминиращия видим контролен слой, а Juliette има формална роля на кмет без еквивалентен привилегирован информационен контрол.
 
-## Boundaries
+## Граници
 
-- точен formal roles на Sims family не се infer-ват без пряк title доказателство;
-- точен killer/order behind Bernard остава неизяснен;
-- `vitamins` wording е cover/framing; точен chemical identity остава unknown;
-- burner containment role ≠ safeguard.
+- точните формални роли в семейство Sims не се извеждат без пряко доказателство за длъжност;
+- точният убиец/заповед зад Bernard остава неизяснен при тази граница на знанието;
+- формулировката `vitamins` е прикриващ/рамкиращ термин; точната химична идентичност остава неизвестна;
+- ролята на горелката за ограничаване ≠ Safeguard.

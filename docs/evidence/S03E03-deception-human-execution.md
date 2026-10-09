@@ -1,55 +1,55 @@
-# S03E03 — deception as институционален competency и lethal човешко изпълнение слой
+# S03E03 — Измамата като институционална компетентност и човешкият слой за смъртоносно изпълнение
 
 **Граница на знанието:** `S03E03`
 
-## Camille selection
+## Изборът на Camille
 
-Computer/система-ът tells Camille Sims that she was selected because of her ability to lie.
+Компютърната система казва на Camille Sims, че е избрана заради способността си да лъже.
 
-This makes deception a positively selected оперативен competency, not merely an incidental character trait.
+Това превръща измамата в положително подбрана оперативна компетентност, а не просто в странична личностна черта.
 
-## Head of IT role
+## Ролята на ръководителя на IT
 
-Computer/система-ът states that deception is fundamental to the Head of IT role.
+Компютърната система заявява, че измамата е фундаментална за ролята на ръководителя на IT.
 
-Structural implication:
+Структурно следствие:
 
 ```text
-Head of IT
+ръководител на IT
    ↓
-privileged hidden truth
+привилегирована скрита истина
    ↓
-institutionalized deception
+институционализирана измама
    ↓
-population/governance control
+контрол върху населението/управлението
 ```
 
-This strongly argues that Bernard's deception was not simply personal misconduct; deception is embedded in role design.
+Това силно показва, че измамите на Bernard не са били просто лично неправомерно поведение; измамата е вградена в дизайна на ролята.
 
-## Juliette kill objective
+## Смъртоносната цел срещу Juliette
 
-Computer/система-ът persuades Camille that Juliette must be killed in order to save the Silo.
+Компютърната система убеждава Camille, че Juliette трябва да бъде убита, за да бъде спасен Силозът.
 
-This establishes:
-- a lethal оперативен objective;
-- оцеляване/stability framing used to justify it;
-- Camille as a човешко изпълнение-слой candidate.
+Това установява:
+- смъртоносна оперативна цел;
+- рамкиране чрез оцеляване/стабилност, използвано за оправданието ѝ;
+- Camille като кандидат за човешкия слой за изпълнение.
 
-The система is therefore not merely advisory/observational: it can select a human intermediary, exploit a behavioral trait and persuade/task that intermediary toward lethal action.
+Следователно системата не е само консултативна/наблюдателна: тя може да избере човешки посредник, да използва поведенческа черта и да го убеждава/насочва към смъртоносно действие.
 
-## Removal clarification
+## Уточнение на „отстраняването“
 
-S03E02 left `removal` ambiguous.
+S03E02 оставя `removal` нееднозначно.
 
-S03E03 materially narrows the Juliette case:
-- removal can escalate to literal killing.
+S03E03 съществено стеснява случая на Juliette:
+- отстраняването може да ескалира до буквално убийство.
 
-This does not prove every use of `removal` always means death.
+Това не доказва, че всяка употреба на `removal` винаги означава смърт.
 
-## Boundaries
+## Граници
 
-Still неизяснен:
-- whether Camille will execute the objective;
-- whether computer/система can directly command enforcement personnel;
-- whether Head of IT selection formally tests deception;
-- whether this институционална измама doctrine predates The Order or is encoded by it.
+Все още е неизяснено:
+- дали Camille ще изпълни целта;
+- дали компютърната система може директно да командва персонала по прилагането;
+- дали подборът на ръководител на IT формално тества способността за измама;
+- дали тази институционална доктрина за измама предхожда The Order или е кодирана в него.

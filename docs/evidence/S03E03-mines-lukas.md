@@ -1,41 +1,41 @@
-# S03E03 — Level 70, Level 124, mines и Lukas Kyle
+# S03E03 — Ниво 70, ниво 124, мините и Lukas Kyle
 
-**Knowledge boundary:** `S03E03`
+**Граница на знанието:** `S03E03`
 
-## Spatial anchors
+## Пространствени ориентири
 
-S03E03 directly confirms:
-- **Level 70**
-- **Level 124**
+S03E03 директно потвърждава:
+- **ниво 70**
+- **ниво 124**
 
-Episode context ties Level 70 to mine-sector access/start.
+Контекстът на епизода свързва ниво 70 с достъпа/началото на минния сектор.
 
-## Mine environment
+## Средата в мините
 
-The mines are directly shown as an underground excavated tunnel environment with industrial lighting/cabling and hazardous-work visual context.
+Мините са директно показани като подземна изкопана тунелна среда с индустриално осветление/окабеляване и визуален контекст на опасна работа.
 
-This establishes the mine sector as a real, navigable underground infrastructure zone rather than an abstract punishment location.
+Това установява минния сектор като реална, проходима подземна инфраструктурна зона, а не абстрактно място за наказание.
 
 ## Lukas Kyle
 
-S03E01 state:
-- Lukas = missing.
+Състояние в S03E01:
+- Lukas = липсва.
 
 S03E03:
-- Lukas is alive in the mines;
-- Juliette reunites with him there;
-- his movement into/through the mine sector occurs under active pursuit by people sent after him under Camille Sims' control.
+- Lukas е жив в мините;
+- Juliette се среща отново с него там;
+- придвижването му в/през минния сектор се случва при активно преследване от хора, изпратени след него под контрола на Camille Sims.
 
-Therefore H83 must be refactored: disappearance itself is no longer unresolved.
+Следователно H83 трябва да бъде преформулирана: самото изчезване вече не е неизяснено.
 
-## Purpose boundary
+## Граница на целта
 
-A character hypothesis suggests Lukas may be attempting to reach/contact another Silo.
+Хипотеза на персонаж предполага, че Lukas може да се опитва да достигне/контактува друг Силоз.
 
-Confirmed:
-- Lukas is in the mines.
+Потвърдено:
+- Lukas е в мините.
 
-Not yet confirmed:
-- that cross-Silo contact was his original purpose;
-- that a physical route to another Silo exists through the mines;
-- how far he had progressed toward such a route.
+Все още не е потвърдено:
+- че междусилозният контакт е бил първоначалната му цел;
+- че през мините съществува физически маршрут към друг Силоз;
+- докъде е бил стигнал към такъв маршрут.

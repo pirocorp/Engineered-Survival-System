@@ -1,49 +1,49 @@
-# S03E01 — supervisory computer/система, The Order и скрит-lower link
+# S03E01 — Надзорна компютърна система, The Order и връзката със скрития долен слой
 
 **Граница на знанието:** `S03E01`
 
-## пряк behavior
+## Пряко поведение
 
-Computer/система-ът:
-- пита за Mayor Juliette;
-- знае, че ѝ се дава memory-потискане medication;
-- заявява, че current situation е `beyond The Order`;
-- реагира `This concerns me` на returning memory;
-- иска doubled dose.
+Компютърната система:
+- пита за кмета Juliette;
+- знае, че ѝ се дава лекарство за потискане на паметта;
+- заявява, че текущата ситуация е `beyond The Order`;
+- реагира с `This concerns me` на връщането на паметта;
+- иска удвояване на дозата.
 
-## Structural implication
+## Структурно следствие
 
-Това показва контекст-aware supervisory възможност с оперативен influence. Не е просто static архив/Legacy terminal.
+Това показва надзорна способност, която отчита контекста и има оперативно влияние. Не е просто статичен архив/терминал на Legacy.
 
 ```text
-The Order / local IT playbook
+The Order / локален IT правилник
           ↓
-current crisis exceeds playbook
+текущата криза надхвърля правилника
           ↓
-computer/system continues assessment + intervention
+компютърната система продължава оценката + намесата
 ```
 
-## Relation към скрит lower contact
+## Връзка със скрития долен контакт
 
-S02E09 скрит lower interlocutor:
-- разпознава visitor/контекст;
-- знае Quinn/Meadows/George history;
-- предупреждава за safeguard activation.
+Скритият долен събеседник от S02E09:
+- разпознава посетителя/контекста;
+- знае историята Quinn/Meadows/George;
+- предупреждава за задействане на Safeguard.
 
-S03E01 computer/система:
-- знае current Juliette статус/лечение;
-- treats safeguard-related memory recovery as риск;
-- intervenes in dose.
+Компютърната система в S03E01:
+- знае текущото състояние/лечение на Juliette;
+- третира възстановяването на спомени, свързани със Safeguard, като риск;
+- намесва се в дозата.
 
-Best current хипотеза: **same мрежа/controller или closely related supervisory interfaces**. точен same entity не е пряк-потвърден.
+Най-добрата текуща хипотеза е: **една и съща мрежа/контролиращ субект или тясно свързани надзорни интерфейси**. Точната идентичност не е директно потвърдена.
 
-## Tunnel / Lukas
+## Тунел / Lukas
 
-Lower tunnel е sealed; Lukas е missing. Official reason е safety/unauthorized-youth достъп. Knowledge-containment interpretation остава candidate.
+Долният тунел е запечатан; Lukas липсва. Официалната причина е безопасност/неразрешен достъп на младежи. Интерпретацията за ограничаване на знанието остава кандидат.
 
-## Boundaries
+## Граници
 
-- не наричаме система-а потвърден AI;
-- не приемаме, че система-ът е authored The Order;
-- не приемаме пряк safeguard command authority без доказателство;
-- не приемаме централен междусилозен scope без доказателство.
+- не наричаме системата потвърден ИИ;
+- не приемаме, че системата е авторът на The Order;
+- не приемаме пряка власт за командване на Safeguard без доказателство;
+- не приемаме централен междусилозен обхват без доказателство.

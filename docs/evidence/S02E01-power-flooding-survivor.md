@@ -1,10 +1,10 @@
-# S02E01 — Collapse state на втория Silo: power, flooding и survivor
+# S02E01 — Състояние след колапса на втория Силоз: захранване, наводняване и оцелял
 
 **Knowledge boundary:** `S02E01`
 
 ## Residual power
 
-Въпреки mass death и abandonment, fixed lighting остава operational в повече от една area:
+Въпреки масовата смърт и изоставянето, стационарното осветление остава работещо в повече от една зона:
 - agricultural/growing zone;
 - IT bridge/chokepoint area.
 
@@ -20,7 +20,7 @@ Unknown:
 
 Вторият Silo е massively flooded, като водата достига до няколко levels под IT.
 
-Мащабът е consistent с major infrastructure failure или long-term water ingress.
+Мащабът съответства на голяма инфраструктурна повреда или продължително проникване на вода.
 
 Unknown cause:
 - drainage/pump failure;
@@ -29,15 +29,15 @@ Unknown cause:
 - deliberate flooding;
 - another mechanism.
 
-Не приравняваме автоматично този flooding mechanism с flooded-bottom evidence от Silo на Juliette.
+Не приравняваме автоматично този механизъм на наводняване с доказателствата за наводненото дъно на Силоза на Juliette.
 
 ## Living survivor
 
-Поне един living person остава вътре в secured/vault-like IT compartment.
+Поне един жив човек остава в защитено IT помещение, подобно на трезор.
 
-Човекът заплашва Juliette с lethal force, ако тя се опита да отвори door-а.
+Човекът заплашва Juliette със смъртоносна сила, ако тя се опита да отвори вратата.
 
-Това директно falsify-ва всеки model, според който вторият Silo е напълно uninhabited.
+Това директно опровергава всеки модел, според който вторият Силоз е напълно необитаем.
 
 Unknown:
 - identity and role;
@@ -46,8 +46,8 @@ Unknown:
 - дали има и други живи хора;
 - връзка с историческите IT defenders.
 
-## Visual evidence
+## Визуални доказателства
 
 - [Agricultural fixed lights](../../assets/S02E01/screenshots/other-silo-agricultural-lights-still-powered.jpeg)
 - [IT bridge / residual lighting / severed access](../../assets/S02E01/screenshots/other-silo-it-severed-bridge.jpeg)
-- [Living survivor in secured IT compartment](../../assets/S02E01/screenshots/other-silo-it-vault-survivor.jpeg)
+- [Жив оцелял в защитеното IT помещение](../../assets/S02E01/screenshots/other-silo-it-vault-survivor.jpeg)
