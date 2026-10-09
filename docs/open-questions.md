@@ -1704,7 +1704,7 @@
 1184. Колко human Voice оператори има?
 1185. Victor permanent оператор на „Гласът“ ли е бил или duty/shift оператор?
 1186. Daniel сам изпълнява ли роля на „Гласът“ или използва distinct supervisory channel?
-1187. Има ли autonomous AI/decision-support слой зад human оператори?
+1187. Има ли автономен ИИ/слой за подпомагане на решенията зад човешките оператори?
 1188. Каква е hierarchy между Silo 1 Director, Daniel, Voice оператори и Directive?
 1189. Кой може да authorize Safeguard, дрон poison release и kinetic fire?
 1190. Какви other functions се управляват от централен контролно помещение?
