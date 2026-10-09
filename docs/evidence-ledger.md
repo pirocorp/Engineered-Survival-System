@@ -1305,7 +1305,7 @@ Primary:
 Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани чрез сравнение на Git blob SHA:
 
 - [Скрит маршрут към бездната / спускане с въже](../assets/S03E04/screenshots/abyss-hidden-route-rope-descent.jpeg)
-- [Bernard жив в дълбоката зона](../assets/S03E04/screenshots/bernard-alive-дълбоката зона.jpeg)
+- [Bernard жив в дълбоката зона](../assets/S03E04/screenshots/bernard-alive-deep-zone.jpeg)
 - [Манифест на визуалните доказателства за S03E04](../assets/S03E04/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс, а не основно доказателство.
@@ -1336,7 +1336,7 @@ Primary:
 - [Преди силозите — повтарян автобиографичен разказ](../assets/S03E02/screenshots/presilo-repeat-personal-history.jpeg)
 - [Преди силозите — може да бъде внушен невярен разказ](../assets/S03E02/screenshots/presilo-can-suggest-a-lie.jpeg)
 - [Изграждането на невярна заместваща история отнема време](../assets/S03E02/screenshots/presilo-false-memory-takes-time.jpeg)
-- [Реалните спомени остават / връщат се](../assets/S03E02/screenshots/presilo-real-спомени-return.jpeg)
+- [Реалните спомени остават / връщат се](../assets/S03E02/screenshots/presilo-real-memories-return.jpeg)
 - [Бележка #2 — Silo Council / кафетерията](../assets/S03E02/screenshots/note-2-silo-council-cafeteria.jpeg)
 - [Бележка #3 — частичен кадър A](../assets/S03E02/screenshots/note-3-partial-a.jpeg)
 - [Бележка #3 — частичен кадър B](../assets/S03E02/screenshots/note-3-partial-b.jpeg)
