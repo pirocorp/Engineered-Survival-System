@@ -1,64 +1,64 @@
-# S01E06 — PEZ, relic database и preserved pre-Silo knowledge
+# S01E06 — PEZ, базата данни за реликви и запазеното знание отпреди силозите
 
-**Knowledge boundary:** `S01E06`
+**Граница на знанието:** `S01E06`
 
-## Investigation chain
+## Верига на разследването
 
 ```text
-Juliette takes PEZ relic in S01E05
+Juliette взема PEZ реликвата в S01E05
         │
         ▼
-relic is found in S01E06
+реликвата е намерена в S01E06
         │
         ▼
-Sheriff law-enforcement object search
+търсене на предмет от службата на шерифа
         │
         ▼
-restricted Judicial RELIC DATABASE
+ограничена база данни за реликви на Judicial
         │
         ▼
-archival match: Object 1175 / ORIGIN PRE-SILO
+архивно съвпадение: Object 1175 / ORIGIN PRE-SILO
 ```
 
-## Direct observations
+## Преки наблюдения
 
-Sheriff-side lookup:
+Търсене от страната на шерифа:
 - `LAW ENFORCEMENT USE ONLY`;
-- object name unknown;
-- physical description only.
+- името на предмета е неизвестно;
+- има само физическо описание.
 
-Judicial-side database:
+База данни на Judicial:
 - `RELIC DATABASE`;
 - `RELIC/SEIZED OBJECTS INVENTORY`;
 - `JUDICIARY PERSONNEL ONLY`;
-- authorization за access, свързан с `JUDICIAL: SIMS`;
+- разрешение за достъп, свързано с `JUDICIAL: SIMS`;
 - `ACCESS ALL RECORDS/OBJECT LOGS`.
 
-Database result:
+Резултат от базата данни:
 - `OBJECT 1175`;
 - `ORIGIN: PRE-SILO`;
 - `LOCATION FOUND: UNKNOWN`;
 - `SMALL PLASTIC CONTAINER`;
-- archival image.
+- архивно изображение.
 
 ## Въздействие върху модела
 
-Това доказва asymmetric knowledge distribution:
+Това доказва асиметрично разпределение на знанието:
 
 ```text
-public/resident knowledge
+публично / знание на жителите
         ↓
-object identity largely lost
+самоличността на предмета до голяма степен е изгубена
 
-privileged institutional layer
+привилегирован институционален слой
         ↓
-pre-Silo classification + archive + ledger records
+класификация отпреди силозите + архив + записи в регистър
 ```
 
 Следователно H6 се преработва: историческото знание не е просто липсващо; избрано знание е **запазено, но с ограничен достъп**.
 
-## Visual evidence
+## Визуални доказателства
 
-- [PEZ law-enforcement object search](../../assets/S01E06/screenshots/pez-relic-law-enforcement-object-search.jpeg)
-- [Judicial relic database / Sims access](../../assets/S01E06/screenshots/judicial-relic-database-sims-access.jpeg)
-- [PRE-SILO Object 1175 result](../../assets/S01E06/screenshots/judicial-relic-database-pre-silo-object-1175.jpeg)
+- [Търсене на PEZ реликвата от правоохранителната система](../../assets/S01E06/screenshots/pez-relic-law-enforcement-object-search.jpeg)
+- [База данни за реликви на Judicial / достъп на Sims](../../assets/S01E06/screenshots/judicial-relic-database-sims-access.jpeg)
+- [Резултат PRE-SILO Object 1175](../../assets/S01E06/screenshots/judicial-relic-database-pre-silo-object-1175.jpeg)
