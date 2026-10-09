@@ -6,23 +6,23 @@
 ## Scope
 
 След Season 3 finale е направен в цялото хранилище консистентност pass върху repository инвентар-то:
-- top-level knowledge файлове;
+- файлове със знание на най-горно ниво;
 - episode records S01E01–S03E09;
 - доказателство файлове;
 - `docs/evidence-ledger.md`;
 - `docs/open-questions.md`;
 - visual manifests;
-- asset tree / S03E10 blob инвентар.
+- дървото на ресурсите / инвентара на S03E10 blob-овете.
 
-Tree инвентар-то съдържа 167 text/metadata файлове преди добавянето на S03E10 analysis docs. Binary assets не се „интерпретират“ от filename; за S03E10 са валидирани 18 concrete Git blobs.
+Инвентарът на дървото съдържа 167 текстови/метаданни файла преди добавянето на аналитичните документи за S03E10. Двоичните ресурси не се „интерпретират“ по името на файла; за S03E10 са валидирани 18 конкретни Git blob-а.
 
-Исторически файлове за епизоди/доказателства с explicit `Knowledge boundary` се третират като snapshots на тогавашното знание. Те **не се пренаписват ретроспективно**, когато по-късен episode разреши несигурност, освен ако има Методология error вътре в самия по-ранен запис.
+Историческите файлове за епизоди/доказателства с изрична `Knowledge boundary` се третират като моментни снимки на тогавашното знание. Те **не се пренаписват ретроспективно**, когато по-късен епизод разреши несигурност, освен ако има методологична грешка в самия по-ранен запис.
 
 ## Проверени корекция classes
 
-### 1. Broad rule → тясна подкатегория
+### 1. Общо правило → тясна подкатегория
 
-Control case: Pact ban върху mechanized transport.
+Контролен случай: забраната на Пакта върху механизирания транспорт.
 
 Correct model:
 ```text
@@ -31,18 +31,18 @@ generic mechanized transport ban
 elevator = concrete forbidden subclass
 ```
 
-S03E09/текущ синтез вече пази broad rule. Не е намерено основание broad rule да се замени с `elevators only`.
+S03E09/текущият синтез вече пази общото правило. Не е намерено основание то да се замени с `elevators only`.
 
 ### 2. Voice identity
 
-До S03E09 human-operator model е character hypothesis. Това е исторически правилно и не се пренаписва retroactively.
+До S03E09 моделът с човешки оператор е хипотеза на персонаж. Това е исторически правилно и не се пренаписва ретроспективно.
 
-S03E10 текущ model:
+Текущият модел след S03E10:
 - човешки оператор in Silo 1 is directly shown;
 - Victor performs Voice role in a concrete interaction;
 - Daniel later uses Вторият трезор supervisory channel;
 - Voice is therefore treated as a human-operated role/interface;
-- possible AI/automation layer remains неизяснен.
+- възможен ИИ/автоматизиран слой остава неизяснен.
 
 Никъде в текущ синтез не се приема `Voice = confirmed autonomous AI`.
 
@@ -62,7 +62,7 @@ S03E10 добавя:
 
 ### 4. Safeguard
 
-исторически `unbeatable` остава Voice/institutional claim.
+историческото `unbeatable` остава твърдение на „Гласът“/институцията.
 
 текущ доказателство показва:
 - internal pipe delivery can fail;
@@ -71,7 +71,7 @@ S03E10 добавя:
 - Silo 1 detects failure;
 - external drone containment is fallback.
 
-Не се overwritе-ва claim-ът; променя се model status.
+Твърдението не се презаписва; променя се статусът на модела.
 
 ### 5. авторството на Пакта
 
@@ -97,7 +97,7 @@ Bernard's исторически `51` остава неизяснен discrepanc
 
 Silo 1 has a built-in operational elevator.
 
-Това не отменя ordinary-Silo Pact restriction. То показва governance/infrastructure asymmetry и potential exception layer.
+Това не отменя ограничението на Пакта за обикновените силози. То показва управленска/инфраструктурна асиметрия и възможен слой на изключение.
 
 ### 8. Pact / Directive / THE ORDER
 
@@ -109,7 +109,7 @@ S03E10 пряк distinction:
 
 ### 9. Вторият трезор naming
 
-S03E10 дава пряк label **Вторият трезор** за lower Silo 18 structure.
+S03E10 дава прякото обозначение **Вторият трезор** за долната структура на Silo 18.
 
 Той не се слива автоматично с:
 - ordinary IT vault;
@@ -122,7 +122,7 @@ S03E10 дава пряк label **Вторият трезор** за lower Silo 1
 
 Medical file establishes real post-reanimation cognitive/physiological effects, but not selective autobiographical amnesia.
 
-текущ model therefore separates:
+Текущият модел следователно разделя:
 - documented stasis side effects;
 - Daniel's selective personal-memory gaps;
 - hypothesized deliberate memory control.
@@ -144,10 +144,10 @@ Drone operations are one function of the room, not its complete identity.
 ## Result
 
 Season 3 closure preserves:
-- доказателство → inference → hypothesis separation;
+- разделяне доказателство → извод → хипотеза;
 - character testimony as testimony;
 - исторически корекция trails;
-- broad rules when later доказателство only adds a subclass;
+- общите правила, когато по-късно доказателство добавя само подкатегория;
 - неизяснен contradictions rather than forced harmonization.
 
-No retroactive mass rewrite of исторически bounded episode records is performed. текущ-state файлове and S03E10 records carry the latest resolved architecture.
+Не се прави масово ретроспективно пренаписване на исторически ограничените епизодни записи. Файловете за текущото състояние и записите за S03E10 носят най-новата разрешена архитектура.
