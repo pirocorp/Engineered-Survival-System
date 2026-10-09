@@ -1724,7 +1724,7 @@ E330–E341 и E348–E350 са предимно диалог/privileged-history
 - [S02E10 — Silo 18 rebellion, Juliette return и шлюз sequence](evidence/S02E10-silo18-rebellion-return-airlock.md)
 - [S02E10 — pre-Silo Washington: radiation, Georgia, Iran и PEZ](evidence/S02E10-presilo-washington-georgia-iran-pez.md)
 
-- [S03E01 — Juliette memory control, Bernard aftermath и governance](evidence/S03E01-memory-governance.md)
+- [S03E01 — контрол на паметта на Juliette, последствията около Bernard и управление](evidence/S03E01-memory-governance.md)
 - [S03E01 — supervisory computer/system, The Order и hidden-lower link](evidence/S03E01-supervisory-system.md)
 - [S03E01 — pre-Silo Washington / Daniel Keen / Iran anomaly](evidence/S03E01-washington-iran-anomaly.md)
 - [S03E01 — covert note / Level 2 marketplace протокол](evidence/S03E01-covert-note.md)
