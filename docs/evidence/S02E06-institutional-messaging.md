@@ -1,10 +1,10 @@
-# S02E06 — institutional digital messaging и communication tiers
+# S02E06 — Институционални цифрови съобщения и нива на комуникационен достъп
 
 **Knowledge boundary:** `S02E06`
 
 ## Директни доказателства
 
-Terminal в Sheriff Department видимо включва `DIRECT MESSAGING`.
+Терминал в Sheriff Department видимо включва `DIRECT MESSAGING`.
 
 Inbox-ът съдържа departmental и named senders, включително примери от:
 - IT;
@@ -12,15 +12,15 @@ Inbox-ът съдържа departmental и named senders, включително 
 - Mechanical;
 - individual named users.
 
-Втори frame показва реален two-way conversation с named contact.
+Втори кадър показва реален двупосочен разговор с назован контакт.
 
-Това установява функционираща digital messaging system поне за част от institutional users.
+Това установява работеща система за цифрови съобщения поне за част от институционалните потребители.
 
 ## What this changes
 
-По-ранното използване на couriers вече не може да се обяснява просто с "the Silo has no digital messaging".
+По-ранното използване на куриери вече не може да се обяснява просто с липса на цифрови съобщения в Силоза.
 
-Текущият model е:
+Текущият модел е:
 
 ```text
 physical couriers
@@ -40,26 +40,26 @@ radio
 
 ## H20 refactor
 
-**Prior direction:** inter-level communication е ограничена в controlled channels.
+**По-ранна посока:** комуникацията между нивата е ограничена до контролирани канали.
 
-**След S02E06:** constraint-ът се моделира по-добре като **selective access to communication technologies**, а не като липса на тези technologies.
+**След S02E06:** ограничението се моделира по-добре като **селективен достъп до комуникационни технологии**, а не като липса на такива технологии.
 
-Digital access за ordinary residents остава unproven.
+Цифровият достъп за обикновените жители остава недоказан.
 
 ## H56
 
 **Silo използва множество паралелни комуникационни нива с различни свойства за достъп и контролируемост: физически куриери, институционално digital messaging и радио.**
 
 **Confidence:** H  
-**Status:** Strongly Strengthened / Refactored спрямо prior communication-control model.
+**Статус:** Силно подсилено / преформулирано спрямо по-ранния модел за контрол на комуникациите.
 
 ## Open boundaries
 
 Do not yet assume:
 - всеки resident има digital account;
-- всеки department има equal access;
+- всеки отдел има еднакъв достъп;
 - digital messages са private;
 - IT автоматично чете всички messages;
-- couriers съществуват специално за evade-ване на surveillance.
+- куриерите съществуват специално за заобикаляне на наблюдението.
 
 Това остават testable hypotheses.
