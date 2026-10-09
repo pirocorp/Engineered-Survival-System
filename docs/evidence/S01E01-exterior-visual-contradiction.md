@@ -29,7 +29,7 @@
 
 HDD #18 съдържа по-стар файл с име `JANE CARMODY CLEANING`. Неговото представяне на външния свят е зелено: зелена земя, синьо небе и здраво изглеждащо дърво.
 
-![Jane Carmody cleaning](../../assets/S01E01/screenshots/jane-carmody-cleaning.png)
+![Почистването на Jane Carmody](../../assets/S01E01/screenshots/jane-carmody-cleaning.png)
 
 ### Какво доказва това
 
