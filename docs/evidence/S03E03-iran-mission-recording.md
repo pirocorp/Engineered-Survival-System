@@ -1,45 +1,45 @@
-# S03E03 — Iran mission: old communications и surviving recording
+# S03E03 — Мисията срещу Iran: стари комуникационни системи и оцелял запис
 
-**Knowledge boundary:** `S03E03`
+**Граница на знанието:** `S03E03`
 
-## Mission-wide communications retrofit
+## Подмяна на комуникациите в цялата мисия
 
-S03E03 establishes that aircraft in the Iran mission had their communications systems replaced with very old systems.
+S03E03 установява, че на самолетите в мисията срещу Iran комуникационните системи са били заменени с много стари системи.
 
-This was mission-wide, not a one-aircraft anomaly.
+Това е направено в цялата мисия, а не е аномалия само на един самолет.
 
-Episode context further establishes that the old systems made communications comparatively easy to record/capture.
+Контекстът на епизода допълнително установява, че старите системи са правели комуникациите сравнително лесни за записване/прихващане.
 
-## Recording existence
+## Съществуване на записа
 
-The earlier S03E03 candidate that a surviving recording may exist is resolved:
+По-ранната кандидат-хипотеза от S03E03, че може да съществува оцелял запис, е разрешена:
 
-- Daniel Keen locates a person who possesses a recording;
-- Keen personally listens to it;
-- Keen later returns intending to obtain it.
+- Daniel Keen намира човек, който притежава запис;
+- Keen лично го прослушва;
+- по-късно се връща с намерение да го получи.
 
-Therefore the recording is direct-established, not hypothetical.
+Следователно записът е директно установен, а не хипотетичен.
 
-## Disappearance / searched location
+## Изчезване / претърсено място
 
-When Keen returns:
-- the recording holder is gone;
-- the location has been searched/disturbed.
+Когато Keen се връща:
+- притежателят на записа го няма;
+- мястото е претърсено/разхвърляно.
 
-Strong inference: someone else reacted to the recording, the holder, or both.
+Силен извод: друг участник е реагирал на записа, притежателя или и двете.
 
-Still unresolved:
-- who;
-- whether the holder was killed, detained, intimidated or fled;
-- whether the recording was seized, copied or destroyed;
-- whether the action was directly caused by the recording's content.
+Все още не е установено:
+- кой;
+- дали притежателят е убит, задържан, сплашен или е избягал;
+- дали записът е иззет, копиран или унищожен;
+- дали действието е пряко причинено от съдържанието на записа.
 
-## Boundaries
+## Граници
 
-Do not infer without further evidence:
-- analog immunity;
-- EMP resistance;
-- exact encryption standard;
-- Iranian authorship;
-- Silo-project involvement;
-- exact reason the old systems were selected.
+Без допълнително доказателство не се извеждат:
+- устойчивост на аналоговите системи;
+- устойчивост на EMP;
+- точен стандарт за криптиране;
+- иранско авторство;
+- участие на проекта за силозите;
+- точната причина старите системи да бъдат избрани.
