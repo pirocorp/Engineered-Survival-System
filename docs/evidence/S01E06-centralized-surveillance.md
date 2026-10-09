@@ -1,41 +1,41 @@
-# S01E06 — Centralized internal surveillance
+# S01E06 — Централизирано вътрешно наблюдение
 
-**Knowledge boundary:** `S01E06`
+**Граница на знанието:** `S01E06`
 
-## Direct observations
+## Преки наблюдения
 
-S01E06 показва Juliette на remote video feed, докато се намира в дома си.
+S01E06 показва Juliette във видеопоток от разстояние, докато се намира в дома си.
 
-Финалният wide shot показва dedicated control center с:
-- множество monitoring stations;
-- множество simultaneous camera feeds;
-- feeds от различни вътрешни Silo spaces;
-- dedicated consoles;
-- active operators.
+Финалният широк кадър показва специализиран контролен център с:
+- множество станции за наблюдение;
+- множество едновременни видеопотоци от камери;
+- видеопотоци от различни вътрешни пространства в Силоза;
+- специализирани конзоли;
+- активни оператори.
 
 ## Установено
 
-> **В Silo съществува централизирана вътрешна инфраструктура за видео наблюдение, способна да наблюдава частни жилищни пространства.**
+> **В Силоза съществува централизирана вътрешна инфраструктура за видео наблюдение, способна да наблюдава частни жилищни пространства.**
 
-Това вече не е inference от dossiers или character behavior.
+Това вече не е извод от досиета или поведение на персонажи.
 
-## Still unknown
+## Все още неизвестно
 
-Не е established:
-- formal owner/operator на system-а;
-- дали Judicial, IT или third hidden structure я управлява;
-- дали всички residents са monitored;
-- дали monitoring-ът е continuous или targeted;
-- retention/logging policy;
-- exact camera placement.
+Не е установено:
+- формалният собственик/оператор на системата;
+- дали Judicial, IT или трета скрита структура я управлява;
+- дали всички жители се наблюдават;
+- дали наблюдението е непрекъснато или целево;
+- политиката за съхранение/записване;
+- точното разположение на камерите.
 
-## H8 movement
+## Движение на H8
 
-`H → VH / Confirmed` за existence/capability на network-а.
+`H → VH / Потвърдена` за съществуването/способността на мрежата.
 
-Ownership остава open question.
+Собствеността остава отворен въпрос.
 
-## Visual evidence
+## Визуални доказателства
 
-- [Juliette home surveillance feed](../../assets/S01E06/screenshots/juliette-home-surveillance-feed.jpeg)
-- [Centralized surveillance control center — wide](../../assets/S01E06/screenshots/centralized-surveillance-control-center-wide.jpeg)
+- [Видеопоток от дома на Juliette](../../assets/S01E06/screenshots/juliette-home-surveillance-feed.jpeg)
+- [Централизиран контролен център за наблюдение — широк кадър](../../assets/S01E06/screenshots/centralized-surveillance-control-center-wide.jpeg)
