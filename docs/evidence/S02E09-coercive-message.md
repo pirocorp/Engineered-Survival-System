@@ -1,8 +1,8 @@
-# S02E09 — Coercive digital message: camera, plan и wife leverage
+# S02E09 — Принудително цифрово съобщение: камера, план и натиск чрез съпругата
 
 **Knowledge boundary:** `S02E09`
 
-S02E09 показва digital message със силно coercive съдържание.
+S02E09 показва цифрово съобщение със силно принудително съдържание.
 
 ## Видим текст
 
@@ -17,16 +17,16 @@ THE CAMERA STAYS ON AND YOU DON'T LEAVE
 IF YOU EVER WANT TO SEE YOUR WIFE AGAIN.
 ```
 
-**Class:** Direct visual / textual evidence  
+**Клас:** Пряко визуално / текстово доказателство  
 **Confidence:** VH.
 
 ## Сигурни изводи
 
-Message-ът:
+Съобщението:
 - иска информация за нечий plan;
-- налага continuous camera condition;
+- налага условие за непрекъснато присъствие пред камерата;
 - изисква recipient-ът да не напуска;
-- използва wife като hostage/coercive leverage.
+- използва съпругата като заложник/средство за принуда.
 
 ## Граница
 
@@ -36,8 +36,8 @@ Message-ът:
 - дали `B.>` е sender marker, prompt или друг UI element;
 - къде се намира wife;
 - дали threat-ът е operationally enforceable;
-- кой institutional layer стои зад message-а.
+- кой институционален слой стои зад съобщението.
 
 ## Visual
 
-- [Coercive camera/wife message](../../assets/S02E09/screenshots/coercive-camera-wife-message.jpeg)
+- [Принудително съобщение чрез камерата/съпругата](../../assets/S02E09/screenshots/coercive-camera-wife-message.jpeg)
