@@ -8,13 +8,13 @@ S02E05 превръща писмото на Quinn от историческо с
 
 В архива е намерено сканирано ръкописно писмо, приписано на Salvador Quinn.
 
-Това независимо corroborate-ва S02E04 claim, че Quinn е оставил писмо.
+Това независимо потвърждава твърдението от S02E04, че Quinn е оставил писмо.
 
 ## E308
 
-**Ending-ът** на писмото е encoded/ciphered.
+**Краят** на писмото е кодиран/шифрован.
 
-Това refine-ва по-ранното описание "partly encoded":
+Това уточнява по-ранното описание „частично кодирано“:
 
 ```text
 readable handwritten body
@@ -35,6 +35,6 @@ Still unresolved:
 - exact letter text;
 - exact cipher;
 - intended recipient;
-- причината да бъде encoded само end-ът;
+- причината да бъде кодиран само краят;
 - whether Meadows decoded it;
-- дали е директно свързано с hard drive, за който Meadows пита Bernard.
+- дали е директно свързано с твърдия диск, за който Meadows пита Bernard.
