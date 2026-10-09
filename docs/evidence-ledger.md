@@ -1501,13 +1501,13 @@ E388–E399 и E403–E417 включват значимо доказателс�
 
 Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
-- [Rabbit / heart-research context](../assets/S01E08/screenshots/juliette-mother-rabbit-heart-research.jpeg)
-- [Homemade microscope / magnification device](../assets/S01E08/screenshots/juliette-mother-illicit-microscope-device.jpeg)
-- [Restricted-access magnification record](../assets/S01E08/screenshots/juliette-mother-restricted-access-magnification-record.jpeg)
-- [Juliette mirror-surveillance realization](../assets/S01E08/screenshots/juliette-mirror-surveillance-realization.jpeg)
-- [Pete Nichols priority message to Martha Walker](../assets/S01E08/screenshots/pete-nichols-priority-message-to-martha-walker.jpeg)
+- [Заек / контекст на изследването на сърцето](../assets/S01E08/screenshots/juliette-mother-rabbit-heart-research.jpeg)
+- [Самоделен микроскоп / устройство за увеличение](../assets/S01E08/screenshots/juliette-mother-illicit-microscope-device.jpeg)
+- [Запис за устройство за увеличение с ограничен достъп](../assets/S01E08/screenshots/juliette-mother-restricted-access-magnification-record.jpeg)
+- [Juliette осъзнава наблюдението чрез огледалата](../assets/S01E08/screenshots/juliette-mirror-surveillance-realization.jpeg)
+- [Приоритетно съобщение от Pete Nichols до Martha Walker](../assets/S01E08/screenshots/pete-nichols-priority-message-to-martha-walker.jpeg)
 - [Level 30 marker](../assets/S01E08/screenshots/level-30-marker.jpeg)
-- [S01E08 visual evidence manifest](../assets/S01E08/MANIFEST.md)
+- [Манифест на визуалните доказателства за S01E08](../assets/S01E08/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
@@ -1515,29 +1515,29 @@ E388–E399 и E403–E417 включват значимо доказателс�
 
 Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
-- [Juliette fall / Level 23 bridge](../assets/S01E09/screenshots/juliette-fall-level-23-bridge.jpeg)
+- [Падането на Juliette / мостът на Level 23](../assets/S01E09/screenshots/juliette-fall-level-23-bridge.jpeg)
 - [Level 23 marker](../assets/S01E09/screenshots/level-23-marker.jpeg)
-- [Bernard / numbered device 18](../assets/S01E09/screenshots/bernard-number-18-device.jpeg)
-- [S01E09 visual evidence manifest](../assets/S01E09/MANIFEST.md)
+- [Bernard / устройство с номер 18](../assets/S01E09/screenshots/bernard-number-18-device.jpeg)
+- [Манифест на визуалните доказателства за S01E09](../assets/S01E09/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
-Кадърът от края на епизода с почистване файла на Jane Carmody е записан като пряко наблюдение от епизода (E165), но не е част от текущия screenshot batch.
+Кадърът от края на епизода с почистване файла на Jane Carmody е записан като пряко наблюдение от епизода (E165), но не е част от текущия пакет от екранни снимки.
 
 ## Визуални източници — S01E10
 
 Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
-- [Bernard physical key `18`](../assets/S01E10/screenshots/bernard-key-18.jpeg)
-- [Barren exterior + distant skyline](../assets/S01E10/screenshots/exterior-barren-city-skyline.jpeg)
-- [Surface hatch / barren terrain](../assets/S01E10/screenshots/exterior-silo-hatch-barren-terrain.jpeg)
-- [Neighboring Silo field](../assets/S01E10/screenshots/exterior-neighboring-silo-field.jpeg)
-- [Multiple Silo rings — wide](../assets/S01E10/screenshots/exterior-multiple-silo-rings-wide.jpeg)
-- [Silo field + distant skyline — wide](../assets/S01E10/screenshots/exterior-silo-field-city-skyline-wide.jpeg)
-- [The Syndrome notice](../assets/S01E10/screenshots/syndrome-sign.png)
-- [Level 144 ventilation / air-handling infrastructure](../assets/S01E10/screenshots/level-144-ventilation-infrastructure.png)
-- [Janitorial ROTA board](../assets/S01E10/screenshots/janitorial-closet-rota.png)
-- [S01E10 visual evidence manifest](../assets/S01E10/MANIFEST.md)
+- [Физическият ключ `18` на Bernard](../assets/S01E10/screenshots/bernard-key-18.jpeg)
+- [Пуста външна среда + далечен градски силует](../assets/S01E10/screenshots/exterior-barren-city-skyline.jpeg)
+- [Повърхностен люк / пуста местност](../assets/S01E10/screenshots/exterior-silo-hatch-barren-terrain.jpeg)
+- [Поле със съседни Silos](../assets/S01E10/screenshots/exterior-neighboring-silo-field.jpeg)
+- [Множество пръстени на Silos — широк кадър](../assets/S01E10/screenshots/exterior-multiple-silo-rings-wide.jpeg)
+- [Поле от Silos + далечен градски силует — широк кадър](../assets/S01E10/screenshots/exterior-silo-field-city-skyline-wide.jpeg)
+- [Съобщение за The Syndrome](../assets/S01E10/screenshots/syndrome-sign.png)
+- [Level 144 — вентилация / инфраструктура за обработка на въздуха](../assets/S01E10/screenshots/level-144-ventilation-infrastructure.png)
+- [Табло ROTA в Janitorial](../assets/S01E10/screenshots/janitorial-closet-rota.png)
+- [Манифест на визуалните доказателства за S01E10](../assets/S01E10/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
@@ -1545,20 +1545,20 @@ E388–E399 и E403–E417 включват значимо доказателс�
 
 Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
-- [Agricultural levels — wide](../assets/S02E01/screenshots/silo-agricultural-levels-wide.jpeg)
-- [Anti-Founder graffiti](../assets/S02E01/screenshots/rebellion-anti-founders-graffiti.jpeg)
-- [Generator 15-minute note](../assets/S02E01/screenshots/rebellion-generator-15min-note.jpeg)
-- [Second-Silo IT battle bridge](../assets/S02E01/screenshots/other-silo-it-battle-bridge.jpeg)
-- [групата, водена от Sheriff exits outside](../assets/S02E01/screenshots/sheriff-group-exits-outside.jpeg)
-- [Historical exit / present-day remains continuity](../assets/S02E01/screenshots/other-silo-rebellion-remains-flag.jpeg)
-- [Second-Silo hatch / mass remains field](../assets/S02E01/screenshots/other-silo-hatch-mass-remains-wide.jpeg)
-- [Juliette inside second Silo / LIES](../assets/S02E01/screenshots/juliette-inside-other-silo-lies-graffiti.jpeg)
-- [Juliette suit breathing failure](../assets/S02E01/screenshots/juliette-suit-air-failure.jpeg)
-- [Second-Silo concealed mirror camera](../assets/S02E01/screenshots/other-silo-concealed-mirror-camera.jpeg)
-- [Second-Silo agricultural lights still powered](../assets/S02E01/screenshots/other-silo-agricultural-lights-still-powered.jpeg)
-- [Second-Silo IT severed bridge](../assets/S02E01/screenshots/other-silo-it-severed-bridge.jpeg)
-- [Second-Silo IT vault оцелял](../assets/S02E01/screenshots/other-silo-it-vault-survivor.jpeg)
-- [S02E01 visual evidence manifest](../assets/S02E01/MANIFEST.md)
+- [Земеделски нива — широк кадър](../assets/S02E01/screenshots/silo-agricultural-levels-wide.jpeg)
+- [Графити срещу Основателите](../assets/S02E01/screenshots/rebellion-anti-founders-graffiti.jpeg)
+- [Бележка за 15 минути при генератора](../assets/S02E01/screenshots/rebellion-generator-15min-note.jpeg)
+- [Мостът при битката за IT във втория Silo](../assets/S02E01/screenshots/other-silo-it-battle-bridge.jpeg)
+- [Групата, водена от Sheriff, излиза навън](../assets/S02E01/screenshots/sheriff-group-exits-outside.jpeg)
+- [Историческото излизане / непрекъснатост с останките в настоящето](../assets/S02E01/screenshots/other-silo-rebellion-remains-flag.jpeg)
+- [Люкът на втория Silo / поле с масови останки](../assets/S02E01/screenshots/other-silo-hatch-mass-remains-wide.jpeg)
+- [Juliette във втория Silo / LIES](../assets/S02E01/screenshots/juliette-inside-other-silo-lies-graffiti.jpeg)
+- [Проблемът с дишането на Juliette в костюма](../assets/S02E01/screenshots/juliette-suit-air-failure.jpeg)
+- [Скрита камера зад огледало във втория Silo](../assets/S02E01/screenshots/other-silo-concealed-mirror-camera.jpeg)
+- [Земеделските светлини във втория Silo остават захранени](../assets/S02E01/screenshots/other-silo-agricultural-lights-still-powered.jpeg)
+- [Прекъснатият мост към IT във втория Silo](../assets/S02E01/screenshots/other-silo-it-severed-bridge.jpeg)
+- [Оцелял в IT трезора на втория Silo](../assets/S02E01/screenshots/other-silo-it-vault-survivor.jpeg)
+- [Манифест на визуалните доказателства за S02E01](../assets/S02E01/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
@@ -1566,13 +1566,13 @@ E388–E399 и E403–E417 включват значимо доказателс�
 
 Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
-- [Bernard / live Juliette-associated exterior feed](../assets/S02E02/screenshots/bernard-live-helmet-feed-second-silo.jpeg)
-- [Bernard reaction/context frame](../assets/S02E02/screenshots/bernard-reaction-to-second-silo-feed.jpeg)
-- [THE ORDER cover](../assets/S02E02/screenshots/the-order-cover.jpeg)
-- [THE ORDER — failed cleaning → prepare for war](../assets/S02E02/screenshots/the-order-failed-cleaning-prepare-for-war.jpeg)
-- [Bernard / secured IT vault door](../assets/S02E02/screenshots/bernard-it-vault-door.jpeg)
-- [Circled rebellion-context graffiti symbol](../assets/S02E02/screenshots/rebellion-circled-symbol-graffiti.jpeg)
-- [S02E02 visual evidence manifest](../assets/S02E02/MANIFEST.md)
+- [Bernard / външен видеопоток на живо, свързан с Juliette](../assets/S02E02/screenshots/bernard-live-helmet-feed-second-silo.jpeg)
+- [Bernard — реакция / контекстуален кадър](../assets/S02E02/screenshots/bernard-reaction-to-second-silo-feed.jpeg)
+- [Корица на THE ORDER](../assets/S02E02/screenshots/the-order-cover.jpeg)
+- [THE ORDER — неуспешно почистване → подготовка за война](../assets/S02E02/screenshots/the-order-failed-cleaning-prepare-for-war.jpeg)
+- [Bernard / защитена врата на IT трезора](../assets/S02E02/screenshots/bernard-it-vault-door.jpeg)
+- [Ограден графити символ от контекста на бунта](../assets/S02E02/screenshots/rebellion-circled-symbol-graffiti.jpeg)
+- [Манифест на визуалните доказателства за S02E02](../assets/S02E02/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
