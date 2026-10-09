@@ -1,4 +1,4 @@
-# S01E10 — Syndrome sign, Level 144 and Janitorial ROTA
+# S01E10 — The Syndrome, Level 144 и Janitorial ROTA
 
 **Knowledge boundary:** `S01E10`
 
@@ -6,7 +6,7 @@
 
 Директно се вижда официално съобщение `THE SYNDROME`.
 
-Дребният текст е частично замъглен, затова repo записва само conservative symptom-level information:
+Дребният текст е частично замъглен, затова хранилището записва само консервативна информация на ниво симптоми:
 - involuntary twitching / shaking;
 - progressive motor/pain-spasm language;
 - balance/movement impairment;
@@ -17,11 +17,11 @@
 Причината, диагнозата, лечението и разпространението остават неизвестни.
 
 Visual:
-- [The Syndrome notice](../../assets/S01E10/screenshots/syndrome-sign.png)
+- [Известие The Syndrome](../../assets/S01E10/screenshots/syndrome-sign.png)
 
 ## Level 144 / bottom
 
-Scene context идентифицира дъното като **Level 144**.
+Контекстът на сцената идентифицира дъното като **Level 144**.
 
 Избраният frame съдържа:
 - large axial fans;
@@ -35,7 +35,7 @@ Visual:
 
 ## Janitorial ROTA
 
-`ROTA` board в Janitorial closet видимо включва:
+Таблото `ROTA` в Janitorial closet видимо включва:
 - ден;
 - `LEVEL NO.`;
 - multiple time slots;
