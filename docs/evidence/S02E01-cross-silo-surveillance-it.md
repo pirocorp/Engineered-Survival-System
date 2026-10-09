@@ -6,7 +6,7 @@
 
 Вторият Силоз съдържа скрита камера зад/в конструкцията на огледалото.
 
-Original Silo на Juliette вече установи:
+Първоначалният Silo на Juliette вече установи:
 - concealed mirror cameras;
 - centralized surveillance;
 - privileged access hierarchy.
@@ -36,7 +36,7 @@ Original Silo на Juliette вече установи:
 - запазва local lighting в present day;
 - съдържа укрепено защитено помещение, подобно на трезор.
 
-Това силно подкрепя IT да е structurally important отвъд original Silo на Juliette.
+Това силно подкрепя извода, че IT има структурно значение и извън първоначалния Silo на Juliette.
 
 ## H38
 
