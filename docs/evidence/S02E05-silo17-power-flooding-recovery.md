@@ -46,5 +46,5 @@ Still unresolved:
 - generation technology;
 - capacity;
 - routing;
-- дали architecture е standardized across Silos;
+- дали архитектурата е стандартизирана между силозите;
 - дали `external/outside` означава физически извън Силоза или външно спрямо нормалната му вътрешна електрическа мрежа.
