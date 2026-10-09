@@ -41,7 +41,7 @@ Still unknown:
 
 Това не доказва:
 - formal Judge = Bernard equivalence;
-- че Sims няма никакво knowledge за тези systems;
+- че Sims няма никакво знание за тези системи;
 - че оцелелият от втория Силоз е имал същата роля;
 - single central cross-Silo authority.
 
