@@ -1,55 +1,55 @@
-# S03E03 — Vitamin D+, waterborne memory control и cross-Silo safeguard trigger
+# S03E03 — Vitamin D+, контрол върху паметта чрез водата и задействане на Safeguard при междусилозен контакт
 
-**Knowledge boundary:** `S03E03`
+**Граница на знанието:** `S03E03`
 
-## Juliette medication compliance
+## Спазване на режима с лекарствата при Juliette
 
-Nurse/medical staff actively monitors whether Juliette swallows the prescribed pills and catches her spitting them out.
+Медицинската сестра/персоналът активно следи дали Juliette поглъща предписаните хапчета и я хваща да ги изплюва.
 
-This demonstrates:
-- compliance monitoring;
-- deliberate resistance by Juliette;
-- a plausible reduction/interruption in effective suppression dose.
+Това демонстрира:
+- наблюдение за спазване на режима;
+- умишлена съпротива от Juliette;
+- правдоподобно намаляване/прекъсване на ефективната доза за потискане.
 
-It does not establish that pill avoidance is the sole cause of recovered memories.
+Не установява, че избягването на хапчетата е единствената причина за възстановените спомени.
 
 ## Vitamin D+
 
-S03E03 context clarifies `Vitamin D+` as the euphemistic/operational label for memory-suppression / forgetting chemistry.
+Контекстът на S03E03 уточнява `Vitamin D+` като евфемистично/оперативно обозначение за химия за потискане на паметта / забравяне.
 
-Computer/system-ът states that introducing it into the water increases survival chances.
+Компютърната система заявява, че добавянето му във водата увеличава шансовете за оцеляване.
 
-Safe interpretation:
-- the system treats population-level memory suppression as a stability/survival control mechanism.
+Безопасна интерпретация:
+- системата третира потискането на паметта на ниво население като механизъм за контрол на стабилността/оцеляването.
 
-Do not assume a separate physiological survival effect unless later evidence establishes one.
+Не се приема отделен физиологичен ефект за оцеляване, освен ако по-късно доказателство не го установи.
 
-## Correction history
+## История на корекцията
 
-An early live candidate considered a possible dual-role chemical model. That candidate is superseded by contextual clarification that `Vitamin D+` is the forgetting/memory-suppression chemistry.
+Ранна кандидат-хипотеза при гледането на живо допуска възможен двоен химичен ефект. Тази кандидатура е заменена от контекстуалното уточнение, че `Vitamin D+` е химията за забравяне/потискане на паметта.
 
-The correction is preserved explicitly rather than silently overwritten.
+Корекцията се пази изрично, а не се презаписва мълчаливо.
 
-## Cross-Silo contact trigger
+## Междусилозният контакт като условие за задействане
 
-During discussion that Lukas may be trying to reach another Silo, computer/system-ът states that any contact with another Silo is a violation and leads to immediate safeguard.
+При обсъждане, че Lukas може да се опитва да достигне друг Силоз, компютърната система заявява, че всеки контакт с друг Силоз е нарушение и води до незабавно задействане на Safeguard.
 
-This materially expands known safeguard logic.
+Това съществено разширява известната логика на Safeguard.
 
-Current direct trigger set:
+Текущият директно установен набор от условия включва:
 
 ```text
-protected lower knowledge disclosure
+разкриване на защитено долно знание
             ↓
-        safeguard
+        Safeguard
 
-cross-Silo contact
+междусилозен контакт
             ↓
-   immediate safeguard
+   незабавен Safeguard
 ```
 
-## Structural implication
+## Структурно следствие
 
-Multi-Silo architecture is designed with actively enforced information/contact isolation, backed by whole-Silo lethal capability.
+Архитектурата с множество силози е проектирана с активно налагана информационна/контактна изолация, подкрепена от смъртоносна способност на ниво цял Силоз.
 
-Exact detection, adjudication and activation logic remain unresolved.
+Точните механизми за засичане, преценка и задействане остават неизяснени.
