@@ -507,16 +507,16 @@
 | E489 | Juliette е обект на умишлен процес на изтриване на паметта/обуславяне. | Разкритие в епизода / междусценово заключение | H-VH | историческата формулировка от S03E01 е запазена; S03E02 E533–E534 уточнява механизма към потискане/блокиране на извличането + обуславяне чрез разказ, а не към доказано унищожаване на спомените. |
 | E490 | На Juliette се дава фармакологично лекарство за потискане на паметта. | Разкритие в епизода | H-VH | По-късно пряко потвърден чрез диалог с компютъра/системата. |
 | E491 | Наблюдението около Juliette се използва, за да се следи дали потиснатите спомени се връщат. | оперативен извод от диалог/контекст | H | Обяснява продължаващото наблюдение въпреки формалната роля на Mayor. |
-| E492 | Компютърът/системата пита как е Mayor Juliette. | пряк система диалог | H-VH | Демонстрира осведоменост за текущия контекст на конкретния човек. |
+| E492 | Компютърът/системата пита как е Mayor Juliette. | пряк диалог със системата | H-VH | Демонстрира осведоменост за текущия контекст на конкретния човек. |
 | E493 | S03E01 computer/система и S02E09 скритият долен събеседник може да са една и съща мрежа/контролер или свързани интерфейси. | Междусистемна хипотеза | H | Подсилен кандидат; идентичността не е доказана. |
-| E494 | Диалогът с компютъра/системата пряко потвърждава, че на Juliette се прилага лекарство за потискане на паметта. | пряк система диалог | VH | Потвърждава E490. |
+| E494 | Диалогът с компютъра/системата пряко потвърждава, че на Juliette се прилага лекарство за потискане на паметта. | пряк диалог със системата | VH | Потвърждава E490. |
 | E495 | Компютърът/системата знае текущото състояние на лечението на Juliette. | Силен системен извод | H-VH | Показва текущ достъп до оперативен/медицински контекст. |
-| E496 | Компютърът/системата заявява, че ситуацията вече е `beyond The Order`. | пряк система диалог | H-VH | Ключова следа за управленския/контролния слой. |
+| E496 | Компютърът/системата заявява, че ситуацията вече е `beyond The Order`. | пряк диалог със системата | H-VH | Ключова следа за управленския/контролния слой. |
 | E497 | `The Order` не е пълният/най-високият ефективен контролен слой за всички ситуации. | Структурен извод | H | Не доказва, че системата е автор на The Order. |
 | E498 | Компютърът/системата реагира негативно на това, че Juliette си спомня, че е трябвало да направи нещо важно. | пряко поведение на системата / диалог | H-VH | възстановяването на паметта се третира като риск. |
 | E499 | Възстановяването на паметта е свързано със задачата за спиране на safeguard / блокиране на тръбата с отрова. | Междусценово непрекъснатост | H | точният възстановен детайл може да остане непълен. |
 | E500 | Компютърът/системата казва `This concerns me` за развитието по възстановяването на паметта. | пряк визуален/Доказателство от диалог | VH | Изрична оценъчна реакция. |
-| E501 | Компютърът/системата иска/нарежда удвояване на дозата за потискане на паметта for Juliette. | пряк система диалог | VH | пряка намеса в лечението. |
+| E501 | Компютърът/системата иска/нарежда удвояване на дозата за потискане на паметта for Juliette. | пряк диалог със системата | VH | пряка намеса в лечението. |
 | E502 | Компютърът/системата има оперативно влияние върху фармакологичния протокол за контрол на паметта, а не само достъп за четене. | Силен извод | H-VH | точната командна верига/правомощия остава неизвестно. |
 | E503 | Juliette получава писмена бележка от неидентифициран подател. | пряк събитие в епизода | H | Подателят е неизвестен. |
 | E504 | Съдържанието на бележката първоначално е скрито/само частично видимо за зрителя. | ограничение на разказа/доказателството | VH | Предотвратява преждевременен извод за подателя/съобщението. |
@@ -532,8 +532,8 @@
 | E514 | Juliette изгаря бележката, след като я прочита. | пряко визуално поведение | VH | Изпълнява указанието за унищожаване. |
 | E515 | Реконструираната последователност от указания е: `Want to know the truth` → bowl upside down → marketplace on Level 2 → `BURN THIS`. | Реконструкция между кадри | H-VH | Остава само малка несигурност за пунктуацията/пренасянето на редове; по-ранният прочит `shaft 2` е заменен. |
 
-| E516 | Компютърът/системата знае за тайната бележка, получен от Juliette през канала чрез храната/таблата. | пряк система диалог + контекст | H-VH | физическата бележка не е сляпа зона за надзорния слой. |
-| E517 | системата знае, че Juliette е скрила/отрекла бележката пред Mrs Sims. | пряк система диалог + контекст | H-VH | Демонстрира контекст отвъд простото откриване на бележката. |
+| E516 | Компютърът/системата знае за тайната бележка, получен от Juliette през канала чрез храната/таблата. | пряк диалог със системата + контекст | H-VH | физическата бележка не е сляпа зона за надзорния слой. |
+| E517 | системата знае, че Juliette е скрила/отрекла бележката пред Mrs Sims. | пряк диалог със системата + контекст | H-VH | Демонстрира контекст отвъд простото откриване на бележката. |
 | E518 | Компютърът/системата оценява решението на Juliette да излъже като обезпокоително. | пряк диалог / визуален доказателство | VH | Изрична семантична оценка на риска. |
 | E519 | системата има семантична ситуационна осведоменост: реконструира контекста на поведението/измамата, а не само показва суров видеопоток. | Силен извод | H | Природата/реализацията остава неизвестна; това не е достатъчно, за да се обозначи потвърден ИИ. |
 | E520 | Daniel Keen посещава оцелялата си сестра в болница след операцията срещу Iran. | пряко събитие в разказа | H | Продължава хронологията от периода преди силозите. |
@@ -558,9 +558,9 @@
 | E539 | Допълнителен кадър на третата бележка подсказва възможна формулировка за медикаменти/храна, но точният текст остава недостатъчно четлив за надежден цитат. | Частично визуално доказателство | M | Субтитрите от съседни кадри са изрично изключени от транскрипцията на бележката. |
 | E540 | Компютърът/системата показва червена линия на риска за Juliette / риска, свързан с връщането на потиснати защитени спомени. | пряко обяснение на системата + визуален модел | VH | Изрична метрика/модел за риска. |
 | E541 | Синята линия представя стабилизиращото влияние на Juliette on Silo 18 as Mayor. | пряко обяснение на системата | VH | Изрична стойност за социалната стабилност. |
-| E542 | системата заявява, че ако линията на риска и линията на стабилизиращата стойност се пресекат, Juliette вече няма да бъде полезна. | пряк система диалог | VH | Изричен праг на полезност. |
-| E543 | системата разглежда отстраняването на Juliette като възможна мярка, но внезапното ѝ отстраняване може да бъде катастрофално дестабилизиращо. | пряк система диалог | VH | Показва, че се моделират последствията от втори ред върху населението. |
-| E544 | Компютърът/системата иска/се надява `vitamins` да бъдат пуснати във водоснабдяването, преди отстраняването на Juliette да стане необходимо. | пряк система диалог | VH | Фармакологичен резервен сценарий на ниво население. |
+| E542 | системата заявява, че ако линията на риска и линията на стабилизиращата стойност се пресекат, Juliette вече няма да бъде полезна. | пряк диалог със системата | VH | Изричен праг на полезност. |
+| E543 | системата разглежда отстраняването на Juliette като възможна мярка, но внезапното ѝ отстраняване може да бъде катастрофално дестабилизиращо. | пряк диалог със системата | VH | Показва, че се моделират последствията от втори ред върху населението. |
+| E544 | Компютърът/системата иска/се надява `vitamins` да бъдат пуснати във водоснабдяването, преди отстраняването на Juliette да стане необходимо. | пряк диалог със системата | VH | Фармакологичен резервен сценарий на ниво население. |
 | E545 | Целевото лечение на паметта на Juliette и водният контрол върху паметта на ниво население са оперативно свързани чрез едно и също рамкиране като `vitamins`. | Междусезонно структурно заключение | H-VH | точната химична идентичност не е доказана. |
 | E546 | Кандидат: `vitamins`, подавани чрез водата, са предназначени да намалят дестабилизацията при бъдещо отстраняване на Juliette, вероятно чрез широко потискане на паметта/привързаността, свързано с неотдавнашната криза. | Силен извод / кандидат | H | точните целеви спомени не са посочени; това не трябва да се свежда до потвърдено “forget Juliette”. |
 
@@ -574,7 +574,7 @@
 | E554 | Медицинската сестра хваща Juliette да изплюва хапчетата, вместо да ги поглъща. | пряко наблюдавано поведение | VH | пряко неспазване. |
 | E555 | Memory-контрол протоколът включва наблюдение на приемането/спазването, а не само предписване/доставка. | Силен извод | H-VH | човешки изпълнителен слой около лечението. |
 | E556 | Juliette's returning memories може правдоподобно да е подпомогнато от прекъснато/намалено дозиране. | Силен извод | H | Не е установено като единствена причина за възстановяването. |
-| E557 | Компютърът/системата заявява, че добавянето на `Vitamin D+` във водата увеличава шанса за оцеляване. | пряк система диалог | VH | Интервенцията върху населението е представена като мярка за оцеляване. |
+| E557 | Компютърът/системата заявява, че добавянето на `Vitamin D+` във водата увеличава шанса за оцеляване. | пряк диалог със системата | VH | Интервенцията върху населението е представена като мярка за оцеляване. |
 | E558 | системата представя текущото състояние на Silo като опасно близко до активиране на safeguard. | пряк диалог/контекст | H-VH | точен праг остава неизвестно. |
 | E559 | Въздействието чрез водоснабдяването е представено като мярка за оцеляване/стабилност, а не само като медицинско лечение. | Силен извод | H-VH | Функцията е изяснена допълнително от E562–E563. |
 | E560 | системата обосновава принудителното дозиране на населението чрез рамка за колективно оцеляване. | Силен извод | H | Описателен извод за модела на контрол, без приписване на мотив отвъд показаната рамка. |
@@ -606,12 +606,12 @@
 | E586 | Изглежда, че друг участник е реагирал на записа, на притежателя му или и на двете. | Силен извод | H | участникът и целта НЕРЕШЕН. |
 | E587 | Кандидат: притежателят може да е бил отстранен/сплашен/заглушен, а записът — иззет заради чувствителното му съдържание. | хипотеза | M-H | Остават възможни няколко алтернативи. |
 | E588 | След събитията в минния сектор Juliette отново е в болница / под медицински грижи. | пряк състояние в епизода | H-VH | точната последователност на нараняването не е напълно реконструирана тук. |
-| E589 | Компютърът/системата tells Camille Sims that she was selected because of her ability to lie. | пряк система диалог | VH | Explicit selection criterion. |
+| E589 | Компютърът/системата tells Camille Sims that she was selected because of her ability to lie. | пряк диалог със системата | VH | Explicit selection criterion. |
 | E590 | Camille е избрана като човешки оперативен изпълнител именно защото измамата е полезна компетентност. | Силен извод | H-VH | Не е просто случайна черта на персонажа. |
 | E591 | Компютърът/системата насочва/убеждава Camille, че Juliette трябва да бъде убита, за да бъде спасен Silo. | пряк диалог / контекст на убеждаването | VH | Смъртоносната цел е изрична. |
 | E592 | Надзорната система има човешки изпълнителен слой: може да избере оперативен изпълнител по поведенческа черта и да го насочи към принудително/смъртоносно действие. | Структурно заключение | H-VH | точните формални командни правомощия remains НЕРЕШЕН. |
 | E593 | In Juliette's case, S03E02 `removal` can escalate to literal killing, not merely removal from office/isolation. | Междуепизодно разрешаване | H-VH | Does not make every future use of `removal` synonymous with death. |
-| E594 | Компютърът/системата заявява, че измамата е фундаментална за ролята Head of IT. | пряк система диалог / описание на ролята | VH | следа за институционалната роля. |
+| E594 | Компютърът/системата заявява, че измамата е фундаментална за ролята Head of IT. | пряк диалог със системата / описание на ролята | VH | следа за институционалната роля. |
 | E595 | Следователно измамата е структурна част от дизайна на ролята Head of IT, а не само лична тактика на Bernard. | Силен институционален извод | H-VH | точният процес на обучение/подбор remains ОТВОРЕН. |
 | E596 | Кандидат: наследяването/подборът за Head of IT включва умишлена подготовка за измама като управленска компетентност, а не само техническа компетентност. | хипотеза | H | пряк процес на обучение все още не е показан. |
 | E597 | Компютърът/системата успешно убеждава Camille, че Juliette трябва да бъде убита, за да бъде спасен Silo. | пряк диалог / резултат от убеждаването | H-VH | Показва убеждаване, не само инструкция. |
@@ -648,13 +648,13 @@
 | E627 | приятел от Mechanical actively помага на Juliette да escape-не от Sims. | пряко действие в епизода | VH | пряк ally intervention. |
 | E628 | Level 76 помпа station е part of active support/escape мрежа, не случайна destination. | Силен извод | H | Coordination scope НЕРЕШЕН. |
 | E629 | Sims-side pursuit has sufficient situational awareness to intercept Juliette at a support node, но Mechanical ally disrupt-ва interception-а. | Силен извод | H | точен наблюдение source НЕРЕШЕН. |
-| E630 | Juliette продължава да иска да стигне до abyss/digger area. | пряк stated objective | VH | Deep-zone goal persists. |
+| E630 | Juliette продължава да иска да стигне до abyss/digger area. | пряко заявена цел | VH | Deep-zone goal persists. |
 | E631 | Known/ordinary достъп към deep-zone е sealed. | пряк състояние в епизода | VH | Refined by E650–E657: concealed достъп remains functional. |
 | E632 | приятел от Mechanical се съгласява да отведе Juliette толкова близо до deep-zone, колкото е възможно. | пряк диалог / action plan | VH | Support continues. |
 | E633 | Escape/support маршрут се използва за придвижване към sealed deep-zone. | Силен извод | H-VH | Not final destination itself. |
 | E634 | Pentagon contact-ът пита Keen какво точно е чул на Iran запис-а. | пряк диалог | VH | Leads to content characterization. |
 | E635 | Keen казва, че запис-ът показва самолет, които вече не се управляват от pilots. | пряк character report of запис content | H-VH | Reported content, not raw запис available to repo. |
-| E636 | Keen описва това като „все едно някой им е хакнал самолетите“. | Character interpretation / analogy | H | Cyber механизъм не е установено. |
+| E636 | Keen описва това като „все едно някой им е хакнал самолетите“. | Интерпретация на персонаж / analogy | H | Cyber механизъм не е установено. |
 | E637 | Iran anomaly модел се refactor-ва от generic disruption към apparent loss of pilot контрол / превземане-like behavior. | Cross-доказателство уточнение | H | участник/механизъм неизвестно. |
 | E638 | Първоначалната среща в Pentagon не дава непосредствен пробив. | пряк резултат в епизода | H-VH | По-късно заменено от E658–E660. |
 | E639 | Неидентифициран мъж, виждан многократно около Keen/журналист, отново се появява. | пряко наблюдение на повтарящ се персонаж | VH | Самоличността е неизвестна. |
@@ -821,7 +821,7 @@
 | E794 | Кандидат: Iran attribution може да е false/manipulated/cover attribution, докато реалният участник е друга мрежа/authority. | хипотеза | H | институционален identity остава НЕРЕШЕН. |
 | E795 | Juliette казва на Camille, че знае за „Гласът“. | пряк диалог | VH | Camille вече знае, че Juliette е aware of привилегирован слой. |
 | E796 | Juliette разкрива на Camille, че е била в Silo 17. | пряк диалог | VH | Explicit междусилозен disclosure. |
-| E797 | Juliette казва, че иска да говори с „Гласът“, за да поиска децата от Silo 17 да бъдат доведени в Silo 18. | пряк stated objective | VH | междусилозен transfer request. |
+| E797 | Juliette казва, че иска да говори с „Гласът“, за да поиска децата от Silo 17 да бъдат доведени в Silo 18. | пряко заявена цел | VH | междусилозен transfer request. |
 | E798 | Пред Camille Juliette представя Silo 17 / children line-а като възстановеното от паметта знание, което мотивира искането ѝ. | пряк диалог | VH | Не е exhaustive disclosure. |
 | E799 | Juliette не разкрива на Camille, че е възстановила safeguard knowledge и знае practical countermeasure. | пряк information-state asymmetry | VH | Значим withheld leverage. |
 | E800 | Кандидат: Juliette използва ограничен disclosure за Silo 17 и децата, за да получи достъп до „Гласът“, докато пази safeguard countermeasure knowledge. | хипотеза | H-VH | Strategy е силно подкрепен, точен intent не е verbalized. |
@@ -832,7 +832,7 @@
 | E805 | Camille Sims завежда Juliette при „Гласът“. | пряк събитие в епизода | VH | пряк mediated достъп. |
 | E806 | Head of IT има оперативен достъп path до „Гласът“ и може да доведе друг човек до този интерфейс/contact. | Structural / достъп-контрол conclusion | VH | Надхвърля еднопосочно получаване на instructions. |
 | E807 | Достъпът до „Гласът“ допуска пряк контакт с outsider към privileged Head-of-IT слой-а, когато Camille посредничи. | Architectural conclusion | H-VH | Technical implementation остава неизвестно. |
-| E808 | „Гласът“ първоначално реагира отрицателно на предложението децата от Silo 17 да бъдат доведени в Silo 18. | пряк interaction | VH | Initial rejection/resistance. |
+| E808 | „Гласът“ първоначално реагира отрицателно на предложението децата от Silo 17 да бъдат доведени в Silo 18. | пряко взаимодействие | VH | Initial rejection/resistance. |
 | E809 | Juliette предлага самата тя отново да започне лекарството за потискане на паметта като част от сделката. | пряк Juliette proposal | VH | Bargaining concession. |
 | E810 | Juliette предлага и децата от Silo 17 да бъдат поставени на memory-потискане regime след transfer-а. | пряк Juliette proposal | VH | Extends контрол механизъм to incoming group. |
 | E811 | След memory-потискане предложението „Гласът“ вече не отхвърля веднага идеята и започва да я обмисля. | пряко поведениеal response | H-VH | точен decision остава pending. |
@@ -857,7 +857,7 @@
 | ID | Наблюдение | Клас | увереност | Бележка |
 |---|---|---|---|---|
 | E826 | Lukas Kyle и Patrick Kennedy излизат от Silo 18 и се насочват към Silo 17. | пряк събитие в епизода | VH | Patrick е идентифициран по-късно по име. |
-| E827 | Явната цел на мисията е да достигнат Silo 17 и да доведат децата в Silo 18. | пряк stated objective | VH | Child-transfer line. |
+| E827 | Явната цел на мисията е да достигнат Silo 17 и да доведат децата в Silo 18. | пряко заявена цел | VH | Child-transfer line. |
 | E828 | Скрита оперативна цел е да установят practically как е бил блокиран safeguard pipe-ът. | пряк оперативен objective | VH | Countermeasure reconnaissance. |
 | E829 | Child-transfer mission-ът едновременно прикрива safeguard-countermeasure reconnaissance. | Структурен извод | H-VH | Не отрича genuine целта за децата. |
 | E830 | Показан е command-line/система console, през който се подават low-level административни/система commands. | Пряко визуално доказателство | VH | Не е proof за писане на source code. |
@@ -924,7 +924,7 @@
 
 ## S03E08 — normalized доказателство ledger (E891–E985)
 
-Live-view предварителен numbering беше нормализирано тук в една canonical, unique E891–E985 sequence; content корекцияs (напр. ~120 km тунел и nano-weapon съоръжение) са запазени в final form, без да се използват duplicate IDs.
+При гледане на живо предварителен numbering беше нормализирано тук в една canonical, unique E891–E985 sequence; content корекцияs (напр. ~120 km тунел и nano-weapon съоръжение) са запазени в final form, без да се използват duplicate IDs.
 
 | ID | доказателство / наблюдение | Class | увереност | Notes |
 |---|---|---|---|---|
@@ -935,7 +935,7 @@ Live-view предварителен numbering беше нормализиран
 | E895 | Silo 17 е показан с едновременно отворени шлюз doors без immediate масова смърт. | пряк събитие в епизода | VH | Strong външна среда-hazard constraint. |
 | E896 | опасност във външната среда трябва да допуска condition-dependent exposure: concentration, localization, delay, aerosol/particulate или друг механизъм. | модел update | H | Competing mechanisms remain ОТВОРЕН. |
 | E897 | Silo 17 възстановява radio възможност за връзка със Silo 18. | пряк събитие в епизода | VH | Resolves prior location uncertainty. |
-| E898 | Silo 17 и Silo 18 комуникират coded. | пряк communication доказателство | VH | `coded` ≠ proven cryptographic encryption. |
+| E898 | Silo 17 и Silo 18 комуникират coded. | пряко доказателство за комуникация | VH | `coded` ≠ proven cryptographic encryption. |
 | E899 | Initial construction plan е 10 excavation machines, всяка да изкопае по 5 Silos. | пряк project statement | VH | от периода преди силозите planning. |
 | E900 | 10 machines × 5 Silos = 50 planned Silos. | пряк arithmetic | VH | Matches later official topology total. |
 | E901 | от периода преди силозите строителна програма е изрично planned 50-Silo система. | Project-plan conclusion | VH | Major count anchor. |
@@ -956,15 +956,15 @@ Live-view предварителен numbering беше нормализиран
 | E916 | точен нанотехнологии провал mode остава неизвестно. | Епистемична граница | VH | No automatic grey-goo/weapon assumption. |
 | E917 | „Гласът“ казва, че въздушно наблюдение току-що е направило pass около Silo 17. | пряк Voice statement | VH | Concrete външна среда наблюдение channel. |
 | E918 | Aerial наблюдение отчита, че supposed bodies на Kyle/Kennedy ги няма. | Reported наблюдение | VH | физически статус update. |
-| E919 | „Гласът“ вече знае, че earlier neutralization резултат не е final и operation-ът е успял достатъчно за движение/contact. | Supervisory knowledge update | H-VH | точен individual статус still bounded. |
+| E919 | „Гласът“ вече знае, че earlier neutralization резултат не е final и operation-ът е успял достатъчно за движение/contact. | Актуализация на знанието на надзорния слой | H-VH | точен individual статус still bounded. |
 | E920 | Supervisory външна среда awareness може да се refresh-ва чрез periodic aerial reconnaissance. | архитектура извод | H-VH | Explains strong but bounded knowledge. |
 | E921 | Camille Sims arrest-ва Robert Sims. | пряк събитие в епизода | VH | ОТВОРЕН институционален split. |
-| E922 | Camille↔Robert conflict ескалира от covert divergence до formal detention. | Governance-state change | VH | Major alignment shift. |
-| E923 | Robert е третиран като пряк internal threat от current контрол line. | Threat-perception извод | H | точен charge/order НЕРЕШЕН. |
-| E924 | Silo 1 е показан централен спрямо седем Silo groups. | пряк project-layout доказателство | VH | Topology anchor. |
-| E925 | Една от седемте groups е идентифицирана като group-а на Silo 18. | пряк project-layout доказателство | VH | Group membership anchor. |
+| E922 | Camille↔Robert conflict ескалира от covert divergence до formal detention. | Промяна в управленското състояние | VH | Major alignment shift. |
+| E923 | Robert е третиран като пряк internal threat от текущата линия на контрол. | Извод за възприемана заплаха | H | точен charge/order НЕРЕШЕН. |
+| E924 | Silo 1 е показан централен спрямо седем Silo groups. | пряк project-layout доказателство | VH | Ориентир за топологията. |
+| E925 | Една от седемте groups е идентифицирана като group-а на Silo 18. | пряк project-layout доказателство | VH | Ориентир за принадлежността към групата. |
 | E926 | Една Silo group е 1 централен Silo + 6 surrounding Silos = 7. | пряк визуален/layout доказателство | VH | Clear diagram geometry. |
-| E927 | Official shown topology е Silo 1 + 7 groups × 7 Silos = 50. | Architectural arithmetic | VH | 1 + 49 = 50. |
+| E927 | Official shown topology е Silo 1 + 7 groups × 7 Silos = 50. | Архитектурна аритметика | VH | 1 + 49 = 50. |
 | E928 | Silo 1 е част от planned 50-Silo система, не автоматично additional 51st. | модел корекция | VH | Refutes simple 50+Silo1 theory. |
 | E929 | Ако Bernard's `51` е accurate, #51 е извън или различно от показаната official 50-Silo topology. | Междуепохов извод | H-VH | Identity НЕРЕШЕН. |
 | E930 | Safeguard diagram-ът показва 7 main poison-distribution lines от Silo 1 към 7 groups. | пряк diagram доказателство | VH | Hierarchical first stage. |
@@ -975,18 +975,18 @@ Live-view предварителен numbering беше нормализиран
 | E935 | Silo 1 е централен safeguard-routing hub кандидат. | Структурен извод | H-VH | Source/storage of toxic agent не е установено. |
 | E936 | Bernard признава пред Juliette, че лично е отровил Judge Meadows. | пряк Bernard confession | VH | пряк perpetrator РЕШЕН. |
 | E937 | Bernard казва, че му е било казано, че убийството е необходимо, за да не загине целият Silo. | пряк Bernard свидетелство | VH | Upstream necessity твърдение. |
-| E938 | Meadows killing е представено от Bernard като sacrifice-one-to-save-Silo decision logic. | Decision-logic conclusion | H-VH | Does not prove threat was real. |
+| E938 | Meadows killing е представено от Bernard като sacrifice-one-to-save-Silo decision logic. | Извод за логиката на решението | H-VH | Does not prove threat was real. |
 | E939 | точен source на instruction/necessity към Bernard остава unspecified. | Епистемична граница | VH | Do not auto-assign to Voice. |
 | E940 | Bernard заявява, че ще направи всичко по силите си `за да спра тази тирания`. | пряко твърдение на Bernard | VH | Explicit система rejection. |
-| E941 | Bernard вече ОТВОРЕН-ly се противопоставя на supervisory/контрол order, на който е служил. | Character-alignment change | H-VH | Current stance. |
-| E942 | Bernard показва remorse/rejection спрямо действията си под оцеляване-over-individual doctrine. | Character-state извод | H | извод from confession + stance. |
+| E941 | Bernard вече ОТВОРЕН-ly се противопоставя на supervisory/контрол order, на който е служил. | Промяна в позицията на персонаж | H-VH | Current stance. |
+| E942 | Bernard показва remorse/rejection спрямо действията си под оцеляване-over-individual doctrine. | Извод за състоянието на персонаж | H | извод from confession + stance. |
 | E943 | Project ръководство свързва очакваната global catastrophe с нанотехнологии. | пряк от периода преди силозите disclosure | VH | Origin модел update. |
 | E944 | Silo program е построен като оцеляване/repopulation response към expected нанотехнологии catastrophe. | Original-purpose conclusion | H-VH | Stated rationale. |
 | E945 | По-ранната `dirty bomb` линия е уточнена като nano weapon attack. | пряк исторически disclosure | VH | Major механизъм корекция. |
 | E946 | Stated objective на nano attack-а е да забави U.S. AI и U.S. нанотехнологии programs. | пряк strategic-purpose statement | VH | Targeted технология потискане. |
 | E947 | Nano attack/conflict chain въвлича САЩ във война. | пряк исторически consequence | VH | Causal chain stated. |
 | E948 | Iran attribution остава bounded: acting-alone/allies/full responsibility не са established. | Епистемична граница | VH | Do not over-attribute. |
-| E949 | Sister mission target-ът е secret Iranian съоръжение, свързано с nano weapons, близо до Turkmenistan border. | пряк mission disclosure | VH | Target refined from generic nuclear site. |
+| E949 | Sister mission target-ът е secret Iranian съоръжение, свързано с nano weapons, близо до Turkmenistan border. | пряк mission disclosure | VH | Target уточнен from generic nuclear site. |
 | E950 | самолет-ът на sister encounter-ва enemy nano weapon. | пряк mission disclosure | VH | Weapon environment established. |
 | E951 | Nano weapon поема контрол над самолета-а за секунди. | пряк възможност disclosure | VH | Rapid превземане. |
 | E952 | самолет systems са били replaced/retrofitted с older analog systems като countermeasure срещу nano weapon-а. | пряк mission-preparation rationale | VH | Known-threat hardening. |
@@ -994,40 +994,40 @@ Live-view предварителен numbering беше нормализиран
 | E954 | Old generic `remote hack` модел се refactor-ва: nano weapon е concrete превземане механизъм. | исторически хипотеза revision | H-VH | No separate hacker required. |
 | E955 | целевото съоръжение е ударено с small ядрен заряд, детонирана под него. | пряк оперативен disclosure | VH | Detonation is established; full destruction extent is not separately established. |
 | E956 | ядрен заряд е поставена/доставена чрез таен подземен тунел около 120 km. | пряк оперативен disclosure | VH | Corrects предварителен 75 km note. |
-| E957 | ядрен удар-ът е отделен от самолет като bomb-delivery механизъм. | Mission-plan conclusion | H-VH | самолет роля remains separate. |
+| E957 | ядрен удар-ът е отделен от самолет като bomb-delivery механизъм. | Извод за плана на мисията | H-VH | самолет роля remains separate. |
 | E958 | журналист-ът обвинява ръководство-а, че екипът на самолета-ът е бил използван като experiment за enemy nano capabilities. | пряк журналист accusation | VH | Truth статус unпотвърдено. |
 | E959 | Accusation-ът за experimental sacrifice не е независимо потвърден. | Епистемична граница | VH | Keep свидетелство separate from fact. |
-| E960 | Operation може да има dual-track logic: destroy съоръжение + characterize nano weapon. | Conditional оперативен хипотеза | H | Based on accusation + known strike plan. |
+| E960 | Operation може да има dual-track logic: destroy съоръжение + characterize nano weapon. | Условна оперативна хипотеза | H | Based on accusation + known strike plan. |
 | E961 | точен intended роля на екипът на самолета-а остава НЕРЕШЕН. | Епистемична граница | VH | Recon/test/задействане/diversion etc. not fixed. |
 | E962 | Crew expendability/deliberate sacrifice remains кандидат, не е установено fact. | хипотеза boundary | M | Requires confirmation. |
 | E963 | Silo complex-ът е разположен приблизително на 50 km от Atlanta. | пряк geographic disclosure | VH | Supersedes broad Atlanta-area anchor. |
 | E964 | Skyline-ът зад от периода преди силозите construction scenes най-вероятно е Atlanta. | Geographic визуален извод | H-VH | Not изрично skyline label. |
 | E965 | Silo-era външна среда показва разрушен голям city skyline. | пряк външна среда визуален доказателство | VH | Long-standing визуален anchor. |
-| E966 | Най-силният current извод е ruined skyline = Atlanta/Atlanta metro. | Cross-era geographic извод | H | Derived from ~50 km anchor. |
-| E967 | Core project group включва pilot sister, treating doctor, billionaire/спонсор на проекта и senator. | Group-composition доказателство | VH | Shown/identified in scene. |
+| E966 | Най-силният current извод е ruined skyline = Atlanta/Atlanta metro. | Междуепохов географски извод | H | Derived from ~50 km anchor. |
+| E967 | Core project group включва pilot sister, treating doctor, billionaire/спонсор на проекта и senator. | Доказателство за състава на групата | VH | Shown/identified in scene. |
 | E968 | журналист-ът отказва да се присъедини към core project group. | пряк character decision | VH | Outsider статус. |
 | E969 | Pilot sister се съгласява да се присъедини към core group. | пряк character decision | VH | Founder/core membership. |
-| E970 | Core group комбинира political, capital/project, медицински/scientific и оперативен experience. | Organizational извод | H-VH | Multi-domain ръководство. |
+| E970 | Core group комбинира political, capital/project, медицински/scientific и оперативен experience. | Организационен извод | H-VH | Multi-domain ръководство. |
 | E971 | Daniel Keen и журналист-ът имат явно intimate/romantic сближаване при тръгването ѝ. | пряк взаимодействие между персонажи | VH | Personal link despite project split. |
-| E972 | от периода преди силозите aerial construction view продължава да показва coordinated multi-unit field. | Пряко визуално доказателство | VH | Scale anchor retained. |
-| E973 | Digger side/human-scale view показва огромния физически scale на изкопна машина. | Пряко визуално доказателство | VH | Construction machinery anchor. |
+| E972 | от периода преди силозите aerial construction view продължава да показва coordinated multi-unit field. | Пряко визуално доказателство | VH | Ориентир за мащаба retained. |
+| E973 | Digger side/human-scale view показва огромния физически scale на изкопна машина. | Пряко визуално доказателство | VH | Ориентир за строителната техника. |
 | E974 | Front/overhead views показват massive cylindrical excavation geometry. | Пряко визуално доказателство | VH | Supports machine lifecycle comparison. |
 | E975 | Digger visuals + Keen economics strengthen buried-machine interpretation за deep Silo machinery. | Cross-era convergence | H-VH | визуален + диалог bridge. |
-| E976 | 50-Silo topology е представена като един grouped complex, а не dispersed national мрежа. | Project-layout conclusion | H-VH | Within shown project модел. |
+| E976 | 50-Silo topology е представена като един grouped complex, а не dispersed national мрежа. | Извод за планировката на проекта | H-VH | Within shown project модел. |
 | E977 | Safeguard diagram establishes distribution hierarchy, but not redundancy/failover per Silo. | Епистемична граница | VH | Important limit. |
-| E978 | Silo 1 now has three distinct централен roles/кандидатs: all-frequency radio monitoring, IT захранване source, safeguard routing. | Cross-episode convergence | H-VH | Do not equate Silo1 with Voice. |
+| E978 | Silo 1 now has three distinct централен roles/кандидатs: all-frequency radio monitoring, IT захранване source, safeguard routing. | Междуепизодно сближаване | H-VH | Do not equate Silo1 with Voice. |
 | E979 | S03E08 genuine Silo17↔Silo18 communication strongly weakens S03E07 manipulated-radio кандидат. | исторически хипотеза update | H-VH | Manipulation no longer preferred. |
 | E980 | Voice външна среда awareness is better modeled as bounded knowledge with refresh channels, not omniscience. | модел уточнение | H-VH | Aerial recon is concrete refresh path. |
 | E981 | Identity of shooter / external enforcement участник remains НЕРЕШЕН despite потвърден shooting. | Епистемична граница | VH | наблюдение ≠ command възможност. |
-| E982 | Current опасност във външната среда = от периода преди силозите нанотехнологии threat is not yet директно потвърден. | Critical causal boundary | VH | Keep as хипотеза only. |
-| E983 | Safeguard poison = нанотехнологии is not директно потвърден. | Critical causal boundary | VH | Do not collapse mechanisms. |
-| E984 | Juliette е заключена заедно с Robert Sims. | пряк episode-end event | VH | Shared detention. |
-| E985 | Current контрол line третира Juliette и Sims като detained threats/common opposition position, без доказано identical alliance. | Governance извод | H | Episode end state. |
+| E982 | Current опасност във външната среда = от периода преди силозите нанотехнологии threat is not yet директно потвърден. | Критична причинна граница | VH | Keep as хипотеза only. |
+| E983 | Safeguard poison = нанотехнологии is not директно потвърден. | Критична причинна граница | VH | Do not collapse mechanisms. |
+| E984 | Juliette е заключена заедно с Robert Sims. | пряко събитие в края на епизода | VH | Shared detention. |
+| E985 | Current контрол line третира Juliette и Sims като detained threats/common opposition position, без доказано identical alliance. | Управленски извод | H | Episode end state. |
 
 
 ## S03E09 — normalized доказателство ledger (E986–E1061)
 
-Live-view предварителен numbering е нормализирано тук в една canonical sequence. Временните bookkeeping/корекция IDs около elevator rule-а не се превръщат в episode доказателство; final form запазва established generic mechanized-transport ban и добавя elevator-а само като конкретен subclass.
+При гледане на живо предварителен numbering е нормализирано тук в една canonical sequence. Временните bookkeeping/корекция IDs около elevator rule-а не се превръщат в episode доказателство; final form запазва established generic mechanized-transport ban и добавя elevator-а само като конкретен subclass.
 
 | ID | доказателство | Class | увереност | Notes |
 |---|---|---|---|---|
@@ -1044,11 +1044,11 @@ Live-view предварителен numbering е нормализирано т�
 | E996 | „Гласът“ отхвърля варианта Bernard просто да поеме вината. | пряк диалог | VH | Alternative контрол path follows. |
 | E997 | „Гласът“ предлага Bernard да бъде формално обвинен и изпратен да clean-ва. | пряк диалог | VH | Punitive/публичен-контрол solution. |
 | E998 | „Гласът“ настоява Vitamin D+ dosing-ът да продължи. | пряк диалог | VH | Population-контрол line retained. |
-| E999 | Най-консервативният governance модел е formal scapegoating + почистване + continued dosing. | Governance извод | H-VH | Derived from E994–E998. |
+| E999 | Най-консервативният governance модел е formal scapegoating + почистване + continued dosing. | Управленски извод | H-VH | Derived from E994–E998. |
 | E1000 | Bernard нарича/описва „Гласът“ като глупав и го обвинява, че неспособността му е допринесла за кризата. | пряко твърдение на персонаж | VH | Shows ОТВОРЕН rejection of supervisory judgment. |
 | E1001 | Bernard пита „Не знаеш повече от мен, нали така?“. | пряк диалог | VH | пряк challenge to epistemic superiority. |
 | E1002 | „Гласът“ отговаря „Сбогом, Бърнард.“ и прекратява разговора. | пряк диалог / event | VH | No automatic извод of motive. |
-| E1003 | Camille казва, че „Гласът“ е прекратил разговора от раздразнение, безсилие и гняв. | Character interpretation | VH for statement / M-H for inner-state твърдение | Не доказва actual human or AI emotion. |
+| E1003 | Camille казва, че „Гласът“ е прекратил разговора от раздразнение, безсилие и гняв. | Интерпретация на персонаж | VH for statement / M-H for inner-state твърдение | Не доказва actual human or AI emotion. |
 | E1004 | Bernard излага теория, че зад „Гласът“ стоят хора, а не автономна машина. | Хипотеза на персонаж | VH that theory is stated / H as кандидат | архитектура remains unverified. |
 | E1005 | Bernard допуска, че „Гласът“ е направен да изглежда като машина. | Хипотеза на персонаж | H | Deliberate facade твърдение remains unverified. |
 | E1006 | Bernard допуска duty оператор(s) в Silo 1, които отговарят на Heads of IT в останалите Silos. | Хипотеза на персонаж | H | No оператор room shown. |
@@ -1057,7 +1057,7 @@ Live-view предварителен numbering е нормализирано т�
 | E1009 | Camille публично обявява, че Bernard ще бъде изпратен да clean-ва на следващия ден по обяд за престъпленията си. | пряк announcement | VH | Voice proposal becomes official punishment. |
 | E1010 | Camille заявява, че Juliette също ще бъде изпратена да clean-ва. | пряк announcement | VH | точен timing may differ unless separately stated. |
 | E1011 | Bernard и Juliette трябва да бъдат изпратени навън без protective suits. | пряк decision | VH | Explicit без костюм condition. |
-| E1012 | без костюм почистване е съзнателно отклонение от стандартния почистване протокол. | Protocol comparison | VH | Standard почистване previously uses защитен костюм. |
+| E1012 | без костюм почистване е съзнателно отклонение от стандартния почистване протокол. | Сравнение на протоколи | VH | Standard почистване previously uses защитен костюм. |
 | E1013 | В мини е построен elevator. | пряк episode доказателство | VH | Concrete mechanized вертикален транспорт. |
 | E1014 | Mine elevator-ът е пряко нарушение на вече установената generic забрана на Пакта за механизиран транспорт през Silo. | Cross-episode rule application | VH | Existing broad rule is retained. |
 | E1015 | S03E09 допълнително заявява, че elevators са изрично забранени от Пакта. | пряк rule specificity | VH | Concrete subclass; не заменя broad mechanized-transport ban. |
@@ -1071,7 +1071,7 @@ Live-view предварителен numbering е нормализирано т�
 | E1023 | Bernard's fatal без костюм exposure е в силно напрежение със Silo 17, където outer + inner шлюз doors са отворени без immediate масова смърт. | Междусценово contradiction | VH | централен hazard-модел problem. |
 | E1024 | Simple модел „ambient външна среда air е равномерно и моментално смъртоносен навсякъде“ вече е неприемлив. | модел корекция | H-VH | Localized/concentration/time/particulate/other mechanisms remain ОТВОРЕН. |
 | E1025 | Хора от страната на Juliette извършват силна експлозия в мини на Silo 18. | пряк събитие в епизода | VH | точен участник/target not yet fixed. |
-| E1026 | Силната експлозия е локализирана в мини, а не в шлюз/външна среда zone. | Event уточнение | VH | точен engineering purpose остава неизвестно. |
+| E1026 | Силната експлозия е локализирана в мини, а не в шлюз/външна среда zone. | Уточнение на събитието | VH | точен engineering purpose остава неизвестно. |
 | E1027 | от периода преди силозите линията се връща към Daniel Keen и журналистката в очевидно по-късен момент. | пряк scene transition / temporal извод | H-VH | Time has visibly advanced. |
 | E1028 | Журналистката е показана с видимо наедрял корем, силно съвместим с бременност. | Strong визуален извод | H-VH | Не се използва за genealogy conclusion. |
 | E1029 | Daniel Keen и журналистката се отправят към Silo комплекса. | пряк събитие в епизода | VH | откриването/приема контекст follows. |
@@ -1095,27 +1095,27 @@ Live-view предварителен numbering е нормализирано т�
 | E1047 | Daniel Keen е разпределен към Silo 1. | пряк assignment | VH | Assignment, not automatic proof of later office. |
 | E1048 | Журналистката е разпределена към Silo 18. | пряк assignment | VH | Assignment, not genealogy proof. |
 | E1049 | Журналистката е предназначена за същия numbered Silo, който по-късно е Silo 18 на Juliette. | Cross-era anchor | VH | No automatic family-line извод. |
-| E1050 | Billionaire/спонсор на проекта-ът е идентифициран като Per Stenson. | пряк identity доказателство | VH | Refines generic prior label. |
+| E1050 | Billionaire/спонсор на проекта-ът е идентифициран като Per Stenson. | пряко доказателство за самоличност | VH | Refines generic prior label. |
 | E1051 | Opening-day phone thread показва съобщението `Sitting next to Anna. Where are you?`. | пряк визуален текст доказателство | VH | точната самоличност of Anna remains НЕРЕШЕН. |
 | E1052 | Липсата на отговор от партньорката/жената не доказва липса на mobile coverage; предварителен `no signal` извод е оттеглен. | модел корекция | VH | No мрежа-outage твърдение without Пряко доказателство. |
 | E1053 | Daniel изпраща `If Mom and Dad were alive right now...` и получава `Mom and Dad would say it's best to sit still and be patient.`. | пряк визуален Доказателство от диалог | VH | точен wording visible on устройство. |
 | E1054 | Daniel реагира осезаемо/необичайно на `sit still and be patient` отговора. | пряк character reaction | H-VH | Meaning of reaction неизвестно. |
-| E1055 | Code phrase / warning interpretation на parents съобщение е strengthened кандидат, но не установен факт. | хипотеза update | M-H | Requires later corroboration. |
+| E1055 | Code phrase / warning interpretation на parents съобщение е подсилен кандидат, но не установен факт. | хипотеза update | M-H | Requires later corroboration. |
 | E1056 | По време на откриването/приема се случва голяма ядрена детонация. | пряк събитие в епизода / визуален доказателство | VH | Nuclear character visually изрично. |
 | E1057 | При детонацията хора все още са на повърхността пред/между Silos. | пряк situational доказателство | VH | Intake not complete. |
 | E1058 | Към момента на catastrophe onset Daniel е assigned към Silo 1, а журналистката към Silo 18. | Междусценово situational anchor | VH | Establishes their split destinations. |
-| E1059 | Silo откриването/приема преминава директно от planned публичен event към real emergency-shelter use. | Origin-timeline извод | H-VH | Catastrophe begins during intake. |
-| E1060 | Ядреното събитие е показано с ясно оформен mushroom cloud. | Пряко визуално доказателство | VH | Strong визуален confirmation. |
+| E1059 | Silo откриването/приема преминава директно от planned публичен event към real emergency-shelter use. | Извод за хронологията на произхода | H-VH | Catastrophe begins during intake. |
+| E1060 | Ядреното събитие е показано с ясно оформен mushroom cloud. | Пряко визуално доказателство | VH | Силно визуално потвърждение. |
 | E1061 | Episode доказателство не установява perpetrator, точен broader-war контекст или ръководство foreknowledge за opening-day detonation. | Епистемична граница | VH | Do not infer cause or orchestration. |
 
 ## S03E10 — canonical доказателство ledger
 
-Live-view IDs E1062–E1244 са запазени като namespace. предварителен/withdrawn/redundant live rows могат да бъдат omitted от canonical table и **не се reuse-ват**. Следващият episode започва от **E1245**.
+При гледане на живо IDs E1062–E1244 са запазени като namespace. предварителен/оттеглен/redundant редове от гледането на живо могат да бъдат omitted от canonical table и **не се reuse-ват**. Следващият episode започва от **E1245**.
 
 Critical исторически корекцияs:
 - live E1063 `nanobot restoration` е заменен от пряк стаза/reanimation доказателство;
-- live E1068 `7 years after opening-day explosion` е withdrawn;
-- предварителен `dedicated drone control room` е corrected to **Silo 1 централен контрол / оперативно помещение**;
+- live E1068 `7 years after opening-day explosion` е оттеглен;
+- предварителен `dedicated drone control room` е коригиран to **Silo 1 централен контрол / оперативно помещение**;
 - `outside is safe` остава хипотеза, не е установено fact.
 
 | ID | доказателство | Class | увереност | Notes |
@@ -1123,57 +1123,57 @@ Critical исторически корекцияs:
 | E1062 | Daniel Keen се събужда в enclosed медицински/камера за стаза. | Пряко визуално доказателство | VH | Silo 1 location established shortly after. |
 | E1065 | Daniel е силно охладен при awakening и преминава controlled warming/reanimation. | пряк episode доказателство | VH | Supports метаболитна/криогенна стаза. |
 | E1066 | Chamber function се прецизира до cryogenic/metabolic стаза, not generic nanobot repair. | исторически корекция | VH | E1063 заменен. |
-| E1071 | медицински/съоръжение за стаза е в Silo 1. | пряк location доказателство | VH | Resolves earlier location хипотеза. |
+| E1071 | медицински/съоръжение за стаза е в Silo 1. | пряко доказателство за местоположение | VH | Resolves earlier location хипотеза. |
 | E1072 | Silo 1 медицински area съдържа multiple similar chambers. | Пряко визуално доказателство | VH | Multi-person capacity. |
 | E1074 | Wide view показва large hall of стаза units. | Пряко визуално доказателство | VH | Dedicated large-scale инфраструктура. |
 | E1077 | Silo 1 има elevator alongside stairs. | пряк инфраструктура доказателство | VH | Governance asymmetry. |
 | E1080 | централен vertical shaft е integrated механизиран транспорт инфраструктура. | Пряко визуално доказателство | VH | Not temporary mine improvisation. |
 | E1083 | работещ асансьор car/platform е прякоly shown. | Пряко визуално доказателство | VH | Confirms functional elevator. |
-| E1086 | Live interpretation `7 years after opening-day explosion` е withdrawn. | исторически корекция | VH | Episode does not support that chronology. |
+| E1086 | Интерпретацията при гледане на живо `7 years after opening-day explosion` е оттеглен. | исторически корекция | VH | Епизодът не подкрепя тази хронология. |
 | E1087 | Daniel participates in repeated awakening/стаза cycles. | Междусценово извод | H-VH | Later return-to-стаза and 5-year wake confirm модел. |
-| E1090 | Daniel is briefed that Silo 17 crisis began with неуспешно почистване. | пряк briefing | VH | Silo 17 оперативен history. |
-| E1091 | Briefing says convicted човекът при почистване passed beyond expected hill/death zone. | пряк reported event | VH that report is given | Event is report-mediated. |
-| E1095 | Silo 1 briefing treats escalation as requiring Safeguard. | пряк doctrine statement | VH | реакция за изолация. |
+| E1090 | Daniel is briefed that Silo 17 crisis began with неуспешно почистване. | пряк инструктаж | VH | Silo 17 оперативен history. |
+| E1091 | Briefing says convicted човекът при почистване passed beyond expected hill/death zone. | пряко съобщено събитие | VH that report is given | Event is report-mediated. |
+| E1095 | Silo 1 briefing treats escalation as requiring Safeguard. | пряко доктринално твърдение | VH | реакция за изолация. |
 | E1097 | Safeguard mixture was deployed/attempted but did not reach its target. | пряк диалог | VH | физически delivery провал. |
-| E1100 | Other Silos have historically found and blocked the Safeguard pipe. | пряк исторически statement | VH | Recurrent vulnerability. |
-| E1103 | `This time the outcome must be different` frames current crisis against prior провал precedent. | пряк диалог | VH | исторически recurrence implied. |
+| E1100 | Други силози исторически са намирали и блокирали тръбата на Safeguard. | пряк исторически statement | VH | Повтаряща се уязвимост. |
+| E1103 | `This time the outcome must be different` frames текущата криза against prior провал precedent. | пряк диалог | VH | исторически recurrence implied. |
 | E1104 | Daniel responds that this is why he was awakened. | пряк диалог | VH | Exceptional-crisis reactivation роля. |
-| E1106 | Daniel asks about въздушно наблюдение and is told a дрон was launched. | пряк диалог | VH | дрон platform потвърден. |
-| E1107 | Silo 1 actively launches/controls aerial наблюдение rather than merely receiving external reports. | възможност извод | H-VH | Подсилено от контрол-room scenes. |
-| E1109 | Daniel's sister is presented as дрон pilot/оператор. | пряк роля доказателство | VH | от епохата на основаването sister in Silo 1 operations. |
-| E1110 | Daniel does not recognize/remember his sister. | пряк memory-state доказателство | VH | Selective autobiographical gap. |
-| E1112 | дрон carries 30 L of mixture. | пряк technical specification | VH | Poison/Safeguard mixture контекст. |
-| E1113 | дрон carries 2000 rounds ammunition. | пряк technical specification | VH | Kinetic възможност. |
-| E1117 | контролно помещение contains multiple оператор stations and large централен екран. | Пряко визуално доказателство | VH | Later classified as централен оперативно помещение. |
+| E1106 | Daniel asks about въздушно наблюдение and is told a дрон was launched. | пряк диалог | VH | дронова платформа потвърден. |
+| E1107 | Silo 1 активно изстрелва/управлява въздушно наблюдение вместо само да получава външни доклади. | възможност извод | H-VH | Подсилено от сцените в контролното помещение. |
+| E1109 | Сестрата на Daniel е представена като дрон pilot/оператор. | пряко доказателство за роля | VH | от епохата на основаването сестрата участва в операциите на Silo 1. |
+| E1110 | Daniel не разпознава/не помни сестра си. | пряко доказателство за състоянието на паметта | VH | Селективен автобиографичен пропуск. |
+| E1112 | дрон carries 30 L of mixture. | пряка техническа спецификация | VH | Poison/Safeguard mixture контекст. |
+| E1113 | дрон carries 2000 rounds ammunition. | пряка техническа спецификация | VH | Kinetic възможност. |
+| E1117 | контролно помещение съдържа множество операторски станции и голям централен екран. | Пряко визуално доказателство | VH | По-късно е класифицирано като централно оперативно помещение. |
 | E1120 | Silo 1 aerial видеопоток observes Silo 17 residents emerging to surface. | Пряко визуално доказателство | VH | Corroborates масово излизане briefing. |
-| E1124 | Daniel decides to wait until residents have emerged before lethal response. | пряк command decision | VH | Deliberate timing. |
-| E1125 | Planned response is lethal extermination/изолация of leavers. | пряк command intent | VH | резултат not inferred beyond shown plan. |
-| E1126 | Daniel orders use of all available drones. | пряк command | VH | Fleet-level response implied. |
-| E1127 | дрон mixture is intended for external смъртоносно ограничаване. | пряк оперативен intent | VH | Links payload to kill plan. |
-| E1129 | Stated purpose is prevention of междусилозен `contamination` / spread. | пряк doctrine statement | VH | точен meaning of contamination remains ОТВОРЕН. |
-| E1130 | `Contamination` is не е установено as biological-only. | Епистемична граница | VH | People/information/социален spread remain кандидатs. |
-| E1131 | Silo 17 internal Safeguard path is blocked, preventing normal delivery. | пряк провал state | VH | локален физически dependency. |
-| E1132 | Silo 1 uses външен дрон изолация as fallback when internal delivery fails. | Doctrine/възможност synthesis | H-VH | силно подкрепен by plan. |
-| E1137 | Silo 1 personnel refer to people who leave as escapees/fugitives. | пряк terminology | VH | институционален framing. |
-| E1138 | Terminology frames неразрешено излизане as leaving a controlled система; prison analogy remains хипотеза. | институционален извод | H-VH | Do not overstate. |
+| E1124 | Daniel решава да изчака жителите да излязат, преди да приложи смъртоносен отговор. | пряко командно решение | VH | Умишлено определяне на момента. |
+| E1125 | Планираният отговор е смъртоносно унищожаване/изолиране на излезлите. | пряко командно намерение | VH | резултатът не се извежда отвъд показания план. |
+| E1126 | Daniel нарежда използването на всички налични дронове. | пряка заповед | VH | Подразбира се отговор на ниво целия дронов флот. |
+| E1127 | сместа в дрона е предназначена за външно смъртоносно ограничаване. | пряко оперативно намерение | VH | Свързва товара с плана за убиване. |
+| E1129 | Заявената цел е предотвратяване на междусилозен `contamination` / spread. | пряко доктринално твърдение | VH | точното значение на contamination остава ОТВОРЕН. |
+| E1130 | `Contamination` не е установено като само биологично. | Епистемична граница | VH | Разпространение чрез хора/информация/социални процеси остават кандидат-обяснения. |
+| E1131 | Silo 17 вътрешният път на Safeguard е блокиран, което предотвратява нормалното подаване. | пряко състояние на отказ | VH | локална физическа зависимост. |
+| E1132 | Silo 1 използва външна изолация с дронове като резервен механизъм при отказ на вътрешното подаване. | Синтез на доктрина/възможност | H-VH | силно подкрепено от плана. |
+| E1137 | Silo 1 персоналът нарича излезлите escapees/fugitives. | пряка терминология | VH | институционално рамкиране. |
+| E1138 | Терминологията рамкира неразрешеното излизане като напускане на контролирана система; аналогията със затвор остава хипотеза. | институционален извод | H-VH | Да не се преувеличава. |
 | E1139 | Daniel's sister refuses to shoot the Silo 17 residents. | пряк оперативен refusal | VH | Human non-compliance point. |
-| E1140 | Lethal дрон action requires/permits човешки оператор execution choice in this scene. | Системен извод | H-VH | Not proof all functions are manual. |
+| E1140 | Смъртоносното действие с дрон изисква/позволява избор от човешки оператор в тази сцена. | Системен извод | H-VH | Не доказва, че всички функции са ръчни. |
 | E1142 | Silo 1 states that the Pact no longer applies to residents after they leave. | пряк диалог | VH | Jurisdictional boundary. |
-| E1144 | Same диалог states that the Directive remains. | пряк диалог | VH | Separate по-високо ниво doctrine. |
+| E1144 | Същият диалог заявява, че Директивата остава. | пряк диалог | VH | Отделна доктрина от по-високо ниво. |
 | E1146 | Simple модел `ambient exterior air = uniformly and immediately lethal everywhere` is no longer viable. | модел корекция | VH/H-VH | Silo17 + дрон enforcement + prior доказателство. |
-| E1147 | Holston's шлем-removal death remains a пряк constraint on any `outside is safe` модел. | Cross-episode contradiction | VH | точен lethal маршрут НЕРЕШЕН. |
-| E1148 | костюм/tape may контрол exposure to a deliberately applied/localized lethal agent; this remains хипотеза. | механизъм хипотеза | H | Not established as точен почистване механизъм. |
-| E1149 | Senator from от епохата на основаването group is Director of Silo 1. | пряк ръководство identity | VH | Formal непрекъснатост роля. |
-| E1150 | от епохата на основаването personnel remain оперативен in Silo 1 across long time via стаза. | непрекъснатост извод | H-VH | Multiple persons shown. |
-| E1152 | Daniel recovers fragments indicating журналист/Helen is personally connected to him. | пряк memory-state/контекст | H-VH | Full recall not yet demonstrated. |
-| E1154 | Silo 1 statement: essence of the project is to `free us from the past`. | пряк doctrine statement | VH | Does not alone prove memory-erasure технология. |
+| E1147 | Смъртта на Holston след сваляне на шлема остава пряко ограничение върху всеки `outside is safe` модел. | Междуепизодно противоречие | VH | точният смъртоносен път НЕРЕШЕН. |
+| E1148 | Костюмът/лентата може да контролират излагането на умишлено приложен/локализиран смъртоносен агент; това остава хипотеза. | механизъм хипотеза | H | Не е установено като точен механизъм на почистването. |
+| E1149 | Сенаторката от групата от епохата на основаването е директор на Silo 1. | пряк ръководство identity | VH | Формална роля за непрекъснатост. |
+| E1150 | персонал от епохата на основаването остава оперативен в Silo 1 за дълги периоди чрез стаза. | непрекъснатост извод | H-VH | Показани са множество хора. |
+| E1152 | Daniel възстановява фрагменти, показващи лична връзка с журналистката/Helen. | пряк memory-state/контекст | H-VH | Пълното припомняне още не е показано. |
+| E1154 | Silo 1 твърдение: същността на проекта е да `free us from the past`. | пряко доктринално твърдение | VH | Само по себе си не доказва технология за изтриване на паметта. |
 | E1156 | Daniel is sent back to sleep in cryogenic/metabolic камера за стаза. | пряк functional confirmation | VH | Resolves chamber function. |
 | E1158 | Daniel follows wake → brief/act → return-to-цикъл на стаза. | система модел | H-VH | Later awakening confirms recurrence. |
 | E1162 | Silo 1 Director also participates in стаза/sleep cycle. | пряк episode доказателство | VH | Memory effects on her remain неизвестно. |
 | E1165 | Silo 1 needs externalized институционален непрекъснатост if стаза personnel can have personal-пропуски в паметта. | Системен извод | H | Records/people/система кандидатs. |
-| E1168 | предварителен `drone control room` is corrected to Silo 1 централен контрол / оперативно помещение. | исторически classification корекция | VH | Room supports multiple supervisory functions. |
+| E1168 | предварителен `drone control room` is коригиран to Silo 1 централен контрол / оперативно помещение. | исторически classification корекция | VH | Room supports multiple supervisory functions. |
 | E1169 | A човешки оператор is прякоly shown behind Voice communication. | пряк визуален/контекст доказателство | VH | Machine-only модел rejected. |
-| E1171 | In this interaction the human оператор на „Гласът“ is Victor, от епохата на основаването doctor. | пряк identity доказателство | VH | Does not make Victor permanent/sole Voice. |
+| E1171 | In this interaction the human оператор на „Гласът“ is Victor, от епохата на основаването doctor. | пряко доказателство за самоличност | VH | Does not make Victor permanent/sole Voice. |
 | E1172 | Voice is best modeled as a роля/интерфейс that can be управляван от човек. | архитектура извод | H-VH | AI/automation backend remains ОТВОРЕН. |
 | E1174 | Silo 18 successfully stops Safeguard by blocking локален delivery. | пряк резултат | VH | Practical stoppability потвърден. |
 | E1176 | Silo 1 detects that Silo 18 has blocked the Safeguard pipe. | пряк detection доказателство | VH | централен feedback/telemetry implied. |
@@ -1183,28 +1183,28 @@ Critical исторически корекцияs:
 | E1186 | Victor accesses `LEGACY SYSTEM / FILE SHARE` and a confidential file with send възможност. | пряк UI доказателство | VH | институционален records слой. |
 | E1189 | медицински document describes prolonged metabolic стаза / след реанимация effects. | пряк document доказателство | VH | физически/cognitive recovery profile. |
 | E1191 | Documented стаза effects do not include selective autobiographical amnesia. | Document-bounded извод | H-VH | Strengthens separate memory-контрол кандидат. |
-| E1193 | Juliette has two-way communication between Silo 18 and Silo 17. | пряк communication доказателство | VH | междусилозен channel оперативен. |
-| E1194 | Juliette tells Lukas she considers going to lower door/location associated with the earlier other voice. | пряк stated intention | VH | Leads to Вторият трезор. |
-| E1196 | Characters treat blocked Safeguard as creating room to investigate lower инфраструктура. | Character tactical premise | H-VH | Does not remove дрон/external threat. |
-| E1200 | Daniel is later awakened **5 years after his previous awakening**. | пряк chronology | VH | Wake cycle not fixed at 7 years. |
-| E1201 | Briefing tells Daniel that Juliette had „добра“ лента, reached Silo 17 and returned to Silo 18. | пряк briefing | VH | Strong tape/оцеляване anchor known to Silo 1. |
-| E1203 | Victor had prepared Safeguard response for destabilized Silo 18. | пряк briefing | VH | Victor оперативен роля. |
-| E1204 | Briefing says Head of IT bought rebels time and they blocked the pipe. | пряк briefing | VH | Explains Silo 18 Safeguard провал. |
-| E1205 | Victor is reported dead by suicide. | пряк reported резултат | VH | точен motive НЕРЕШЕН. |
+| E1193 | Juliette has two-way communication between Silo 18 and Silo 17. | пряко доказателство за комуникация | VH | междусилозен channel оперативен. |
+| E1194 | Juliette tells Lukas she considers going to lower door/location associated with the earlier other voice. | пряко заявено намерение | VH | Leads to Вторият трезор. |
+| E1196 | Characters treat blocked Safeguard as creating room to investigate lower инфраструктура. | Тактическа предпоставка на персонаж | H-VH | Does not remove дрон/external threat. |
+| E1200 | Daniel is later awakened **5 years after his previous awakening**. | пряка хронологична опора | VH | Wake cycle not fixed at 7 years. |
+| E1201 | Briefing tells Daniel that Juliette had „добра“ лента, reached Silo 17 and returned to Silo 18. | пряк инструктаж | VH | Силен ориентир за лентата/оцеляването known to Silo 1. |
+| E1203 | Victor had prepared Safeguard response for destabilized Silo 18. | пряк инструктаж | VH | Victor оперативен роля. |
+| E1204 | Briefing says Head of IT bought rebels time and they blocked the pipe. | пряк инструктаж | VH | Explains Silo 18 Safeguard провал. |
+| E1205 | Victor is reported dead by suicide. | пряко съобщен резултат | VH | точен motive НЕРЕШЕН. |
 | E1212 | Juliette's group traverses heavily flooded lower инфраструктура. | Пряко визуално доказателство | VH | маршрут toward Вторият трезор. |
 | E1215 | Daniel says he will find a way to activate/use Safeguard against Silo 18 despite blockage. | пряк stated intent | VH | Alternate path/workaround sought. |
 | E1216 | Daniel asks to review what Victor and Camille discussed. | пряк investigative order | VH | Recorded/reviewable communication implied. |
-| E1218 | Silo 1 names the lower Silo 18 structure `Second Vault`. | пряк terminology | VH | Replaces generic скрит-door label. |
-| E1221 | Supervisory voice threatens/warns Juliette in Вторият трезор контекст. | пряк interaction | VH | Active защитен domain. |
-| E1224 | Juliette is told to stop investigating Вторият трезор. | пряк condition/threat | VH | Knowledge-контрол purpose. |
+| E1218 | Silo 1 names the lower Silo 18 structure `Second Vault`. | пряка терминология | VH | Replaces generic скрит-door label. |
+| E1221 | Supervisory voice threatens/warns Juliette in Вторият трезор контекст. | пряко взаимодействие | VH | Active защитен domain. |
+| E1224 | Juliette is told to stop investigating Вторият трезор. | пряко условие/заплаха | VH | Knowledge-контрол purpose. |
 | E1227 | Daniel offers no Safeguard if Silo 18 stops Вторият трезор investigation and междусилозен contact. | пряк conditional offer | VH | Safeguard is governed/discretionary. |
 | E1229 | междусилозен information/contact is materially implicated in `contamination` / доктрина за изолация. | Doctrine извод | H-VH | Biological-only reading weakened. |
-| E1231 | Juliette accepts Daniel's deal. | пряк agreement | VH | Later strategy changes interpretation. |
+| E1231 | Juliette accepts Daniel's deal. | пряко съгласие | VH | Later strategy changes interpretation. |
 | E1234 | Juliette proposes covert preparation to strike and take over Silo 1. | пряк proposal | VH | Offensive strategy. |
 | E1235 | Her stated rationale is surprise: Silo 1 would least expect it after the deal. | пряк rationale | VH | Tactical deception/time-buying кандидат. |
 | E1238 | Victor leaves an encrypted съобщение intended for Daniel. | Пряко доказателство | VH | Posthumous непрекъснатост запис. |
-| E1239 | Victor says he felt relief when Safeguard activation against Silo 18 failed. | пряк statement | VH | Moral/internal conflict. |
-| E1241 | Victor names the woman Daniel seeks in memory as **Helen Drew**. | пряк identity доказателство | VH | Name resolution. |
+| E1239 | Victor says he felt relief when Safeguard activation against Silo 18 failed. | пряко твърдение | VH | Moral/internal conflict. |
+| E1241 | Victor names the woman Daniel seeks in memory as **Helen Drew**. | пряко доказателство за самоличност | VH | Name resolution. |
 | E1242 | Helen Drew is the от периода преди силозите журналист. | Междусценово identity resolution | VH | Current canonical name. |
 | E1243 | Daniel appears to recover recognition/memory connection after Helen Drew cue. | Memory извод | H-VH | Full recall не е установено. |
 | E1244 | Season-3 memory модел: documented стаза effects and selective personal-потискане на паметта are analytically separated. | модел уточнение | H-VH | точен intervention remains ОТВОРЕН. |
@@ -1352,7 +1352,7 @@ Binary assets са качени отделно в `main` преди analysis PR-
 
 ## Визуални източници — S03E01
 
-Binary assets са качени отделно в `main` преди analysis PR-а. Git blob SHA стойностите са валидирани срещу локално подготвения perspective-corrected package:
+Binary assets са качени отделно в `main` преди analysis PR-а. Git blob SHA стойностите са валидирани срещу локално подготвения perspective-коригиран package:
 
 - [Level 1 / Juliette opening](../assets/S03E01/screenshots/level-1-juliette-opening.jpeg)
 - [Daniel Keen name reveal](../assets/S03E01/screenshots/daniel-keen-name-reveal.jpeg)
