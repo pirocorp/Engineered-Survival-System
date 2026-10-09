@@ -13,18 +13,18 @@ Bernard отравя Judge Meadows.
 ## Sims
 
 Bernard claims:
-- impeachment protests срещу Meadows са го принудили да действа;
-- Sims стои зад impeachment pressure.
+- протестите за импийчмънт срещу Meadows са го принудили да действа;
+- Sims стои зад натиска за импийчмънт.
 
 Отделно Sims е наблюдаван активно да насочва публичен sentiment срещу Mechanical.
 
 ## H51 / H52
 
-**H51:** скрит-контрол leadership не е monolithic; Bernard и Sims имат частично independent political/оперативен leverage.
+**H51:** ръководството на скрития контрол не е монолитно; Bernard и Sims имат частично независим политически/оперативен лост.
 
-**H52:** Bernard използва Mechanical-scapegoating doctrine, за да превърне leadership crisis в controlled conflict срещу Mechanical.
+**H52:** Bernard използва доктрината за Mechanical като изкупителна жертва, за да превърне кризата в ръководството в контролиран конфликт срещу Mechanical.
 
-Твърдението, че Sims е причинил impeachment pressure, остава claim на Bernard, докато не бъде independently corroborated.
+Твърдението, че Sims е причинил натиска за импийчмънт, остава твърдение на Bernard, докато не бъде независимо потвърдено.
 
 ## визуален
 
