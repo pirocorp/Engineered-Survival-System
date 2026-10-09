@@ -9,7 +9,7 @@ Bernard заявява, че Silo е построен преди **352 годи�
 **Клас:** Свидетелство на персонаж / привилегировано историческо знание  
 **увереност:** VH, че Bernard го заявява; H–VH за точен precision.
 
-Това е най-силният пряк age anchor досега за самия Silo.
+Това е най-силният пряк ориентир за възрастта досега за самия Silo.
 
 ## E324 — derived interval
 
@@ -24,9 +24,9 @@ Therefore:
 ~212 years
 ```
 
-Следователно Silo е построен приблизително **212 години преди бунт**, ако и двата свидетелство anchors се приемат at face value.
+Следователно Silo е построен приблизително **212 години преди бунта**, ако и двата ориентира от свидетелства се приемат буквално.
 
-Това е derived interval, а не отделно заявена дата.
+Това е изведен интервал, а не отделно заявена дата.
 
 ## Combined chronology
 
@@ -37,7 +37,7 @@ construction          Jane Carmody           Rebellion / Quinn        present
         ~152 years              ~60 years               ~140 years
 ```
 
-Тъй като ages за Jane и бунт са approximate, тези intervals също остават approximate.
+Тъй като оценките за възрастта на Jane и за бунта са приблизителни, тези интервали също остават приблизителни.
 
 ## Въздействие върху модела
 
@@ -49,6 +49,6 @@ construction          Jane Carmody           Rebellion / Quinn        present
 Still неизяснен:
 - literal expansion of `A.R.`;
 - дали `A.R.` започва при бунт;
-- relation на `SILO YEAR 96/97` към construction или друга era;
+- връзката на `SILO YEAR 96/97` със строителството или друга ера;
 - дали всичките 50 Silos са построени simultaneously;
 - дали `352` на Bernard е точен или rounded.
