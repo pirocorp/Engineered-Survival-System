@@ -20,7 +20,7 @@
 | Доказателство | Файл | Байтове | Git blob SHA | Бележки |
 |---|---|---:|---|---|
 | E210-E211 | `screenshots/bernard-live-helmet-feed-second-silo.jpeg` | 349512 | `da2afc6f7bd24b214351689b059c6320b54eaaa6` | Bernard/IT получава видео на живо от външната среда, свързано с Juliette; потокът по-късно се губи, когато тя влиза във втория силоз. |
-| E221 context | `screenshots/bernard-reaction-to-second-silo-feed.jpeg` | 294749 | `2dc00f218992f2a4a4c650dc33ac0de82b5c3fdf` | Спомагателен контекстуален кадър. Изражението на лицето не се използва за извеждане на точен мотив или знание без диалог. |
+| E221 контекст | `screenshots/bernard-reaction-to-second-silo-feed.jpeg` | 294749 | `2dc00f218992f2a4a4c650dc33ac0de82b5c3fdf` | Спомагателен контекстуален кадър. Изражението на лицето не се използва за извеждане на точен мотив или знание без диалог. |
 | E212 | `screenshots/the-order-cover.jpeg` | 273493 | `0b12605ca81c837df910ad6abb1f858e921c541c` | Физически документ със заглавие `THE ORDER`, използван от Bernard/IT. |
 | E213 | `screenshots/the-order-failed-cleaning-prepare-for-war.jpeg` | 340312 | `b40524a22906d777c515c4c2347b4f30f33764d3` | Заглавие в `THE ORDER`: `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR`. |
 | E214-E216 | `screenshots/bernard-it-vault-door.jpeg` | 441992 | `d2eeac3ab821a622a607c3108a3eae5af6c57533` | Bernard при защитена врата към трезороподобно помещение на IT; подкрепя архитектурен паралел между защитените IT зони в различни силози. |
