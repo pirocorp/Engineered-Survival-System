@@ -271,14 +271,14 @@
 
 195. Кой е определял кои пациенти да получат невярната процедура за „премахване“ на импланта?
 196. Има ли формален/таен списък на набелязани семейни линии?
-197. Flamekeeper descendants ли са били единствената целева група?
+197. Flamekeeper потомци ли са били единствената целева група?
 198. Кой е давал instructions на doctors?
 199. Какво е знаел Juliette’s father за ultimate purpose-а на procedure?
 200. Какви са били consequences при refusal от doctor?
 201. Може ли твърдение-ът “нямах избор” да бъде independently corroborated?
 202. Колко doctors са участвали в program-а?
 203. Как е прикриван фактът, че implants остават in place?
-204. Allison specifically targeted ли е по lineage/history reason, или по друг criterion?
+204. Allison specifically целева ли е по lineage/history reason, или по друг criterion?
 
 ## S01E07 — Juliette / George family мрежа
 
@@ -289,7 +289,7 @@
 209. Какво още е било предадено по тази семейната/реликвена верига?
 210. George знаел ли е отначало, че mother му е Flamekeeper?
 211. Juliette знаела ли е нещо за mother’s Flamekeeper роля преди S01E07 reveal-а?
-212. Juliette family specifically targeted ли е заради Flamekeeper lineage?
+212. Juliette family specifically целева ли е заради Flamekeeper lineage?
 
 ## S01E07 — Sims / Judge / наблюдение архитектура
 
@@ -313,7 +313,7 @@
 ## S01E08 — illicit microscopy / Juliette’s mother
 
 225. Какъв точно е optical magnification на homemade microscope-а?
-226. Explicitly classified ли е устройство-ът като Pact violation и кой праг е приложен?
+226. Explicitly класифициран ли е устройство-ът като Pact violation и кой праг е приложен?
 227. Какво точно наблюдава/открива mother при rabbit investigation-а?
 228. Rabbit и Jacob имат ли established same diagnosis или само analogous heart problem?
 229. Защо възможността за увеличение е ограничена — биомедицинското откритие ли е целта, или това е само една последица от по-широкия контрол върху възможностите?
@@ -380,11 +380,11 @@
 268. **ЧАСТИЧНО РАЗРЕШЕНО in S01E10:** човекът при почистване view е false наслагване/simulation-like слой; точен rendering/delivery механизъм остава ОТВОРЕН.
 
 
-## S01E10 — Bernard / classified почистване knowledge
+## S01E10 — Bernard / класифициран почистване knowledge
 
 269. Bernard единственият демонстрираният към момента орган ли е с пълно предварително знание за измамата в шлема?
 270. Кой е authorized да know `JANE CARMODY CLEANING` и човекът при почистване-наслагване truth?
-271. Bernard може ли formally да order Sims във всички domains или само в selected classified matters?
+271. Bernard може ли formally да order Sims във всички domains или само в selected класифициран matters?
 272. Sims действително ли не е знаел lush imagery/шлем truth преди broadcast incident-а?
 273. Кой controls distribution/activation на почистване шлем визуален слой?
 274. Кой контролира маршрутизацията към публичния екран и прекъсването на аварийно излъчване?
@@ -591,7 +591,7 @@
 418. Key `18` unlock-ва само Server Room ли, или и inner трезор достъп chain?
 419. Всеки Silo има ли физически key номериран според its Silo designation?
 
-## S02E03 — Bernard междусилозен knowledge
+## S02E03 — Bernard междусилозното знание
 
 420. **ЧАСТИЧНО СТЕСНЕНО в S02E07:** `Legacy` предоставя конкретен архивен механизъм за наследеното историческо знание на Bernard, но остава отворено дали конкретното му знание, че Silo 17 е мъртъв, идва от Legacy, друг регистър за състояние или друг източник.
 421. Има ли current статус registry за всички Silos?
@@ -606,7 +606,7 @@
 427. Колко дълго трае effect-ът и reversible ли е?
 428. Witnesses from Juliette broadcast действително ли са забравили видяното?
 429. **СИЛНО РЕЛЕВАНТНО след S02E08:** историческото потискане на паметта чрез водата е независимо потвърдено от Bernard, но идентичността му с текущото S02E03 лекарство за забравяне остава неустановена.
-430. Кой authorizes targeted потискане на паметта and как се документира?
+430. Кой authorizes целева потискане на паметта and как се документира?
 
 ## S02E03 — The Syndrome
 
@@ -857,7 +857,7 @@
 606. Колко широко е разпространен листовката между нивата?
 607. физическите бележки умишлено ли се използват като заобикаляне на радиото/цифровия контрол?
 608. Как публичен reaction към Juliette and Meadows се променя след leaflet campaign?
-609. IT/Judicial може ли ефективно да suppress-не физически leaflet distribution?
+609. IT/Judicial може ли ефективно да потисне физически leaflet distribution?
 610. `Look and See` установен лозунг/код ли е, or формулировка, специфична за тази листовка?
 
 ## S02E07 — Silo 18 непрекъснатост захранване / публичен visibility
@@ -901,13 +901,13 @@
 
 ## S02E08 — Meadows / Quinn family / old Pact
 
-641. Кои Quinn relatives/descendants Meadows посещава?
+641. Кои Quinn relatives/потомци Meadows посещава?
 642. Как тези relatives са запазили книги/materials despite исторически confiscation and реликва enforcement?
 643. **СИЛНО ЗАСИЛЕНО в S02E09:** Meadows е достигнала скритата долна контактна точка; дали това е станало именно през известното четиридневно изчезване остава неустановено.
 644. Какво конкретно научава Meadows от Quinn's family?
-645. Old `Pact Between the Founders` same text ли има as current Pact?
+645. Старият `Pact Between the Founders` има ли същия текст като текущия Пакт?
 646. Има ли annotations, marginalia or скрит notes by Quinn inside the copy?
-647. ръкописен `Salvador Quinn` ownership mark ли е, signature ли е, dedication ли е, or another provenance mark?
+647. ръкописен `Salvador Quinn` маркировка за собственост ли е, подпис ли е, посвещение ли е, or another маркировка за произход?
 648. Quinn бил ли е само owner/custodian на copy-то, или е имал formal роля, свързана с foundational doctrine?
 649. Old Pact copy преди или след Quinn's исторически reset е придобито/annotated?
 650. **СИЛНО ЗАСИЛЕНО в S02E09:** Meadows достига същата скрита долна контактна точка като Quinn; дали откриването на старото копие на Pact директно води до това посещение/оттегляне остава неустановено.
@@ -917,7 +917,7 @@
 651. **ЧАСТИЧНО РАЗРЕШЕНО в S02E09:** декодираното съобщение вече включва `the game is rigged` („играта е нагласена“), твърдението, че Основателите са построили петдесет, `the safeguard` и указанието дъно → тунел → потвърждение; точното пълно съобщение остава неустановено.
 652. Какво точно Quinn има предвид под `the game`?
 653. `rigged` („нагласена“) отнася ли се до управлението, прилагането на Pact, цикъла на бунтовете, почистване системата, мрежата от Silos, дизайна на Основателите или друг механизъм?
-654. Кой е intended future reader — Head of IT, shadow, independent investigator, Quinn descendant, or anyone capable of decoding?
+654. Кой е предвиденият бъдещ читател — Head of IT, `shadow`, независим разследващ, потомък на Quinn или всеки способен да декодира?
 655. Какъв cipher/key е използван за final payload?
 656. Как reader-ът трябва да obtain-не decoding key?
 657. Quinn очаквал ли е институционален архив да запази писмото или частна верига от реликви?
@@ -929,7 +929,7 @@
 660. Каква е връзката между Ahundsen family и Sims?
 661. На чие funeral е присъствал Sims и кога?
 662. `little apple tree` literal reference ли е to a specific tree in the orchard?
-663. Phrase-ът covert code ли е, or dual-purpose literal + code?
+663. Фразата скрит код ли е, или има двойна буквална + кодирана функция?
 664. Ако е code, какво action/meaning задействане-ва?
 665. Orchard-ът на кое level/department е и кой има достъп?
 666. Sims' response/behavior пряк-confirm-ва ли скрит meaning of the съобщение?
@@ -937,14 +937,14 @@
 ## S02E08 — multiple Silo 17 оцелели
 
 667. Колко living inhabitants има в Silo 17?
-668. Original бунт-era оцелели ли са, descendants ли са, or mixed population?
+668. Оцелели от първоначалния бунт ли са, потомци ли са, or смесено население?
 669. Къде са living spaces-ите им?
 670. Как са survived food/water/air requirements over generations/decades?
 671. Имат ли достъп to IT непрекъснатост захранване?
 672. Какво знаят за масово излизане, Ron, Russell and the original бунт?
 673. Каква е връзката им с previously known IT-трезор оцелял?
 674. Защо са останали скрит from Juliette толкова дълго?
-675. Имат ли own governance/социален structure?
+675. Имат ли собствена управленска/социална структура?
 676. **В ЗНАЧИТЕЛНА СТЕПЕН РАЗРЕШЕНО в S02E09:** трезор-ът на Silo 17 директно съдържа богата на книги/архиви/знание среда и в него влизат допълнителни оцелели; точните правила за достъп, подборът на съдържанието и официалният статус като `Legacy` остават неустановени.
 
 ## S02E09 — 50/51 Silos и counting модел
@@ -958,37 +958,37 @@
 ## S02E09 — the safeguard
 
 682. **РАЗРЕШЕНО в S02E10:** `the safeguard` включва физическа тръба, която може да достави отрова в местния Silo със способност да унищожи цялото население.
-683. Кой/какво има authority да activate-ва safeguard-а и къде физически/логически се намира този controller?
+683. Кой/какво има authority да activate-ва safeguard-а и къде физически/логически се намира този контролер?
 684. **ЧАСТИЧНО РАЗРЕШЕНО в S02E10:** физическият път за доставяне е известен, но остава неустановено дали задействането е ръчно, дистанционно, автоматично или хибридно.
 685. **ЧАСТИЧНО РАЗРЕШЕНО:** разкриването на защитеното долно знание е заявено като достатъчно условие; какви други точни условия за задействане съществуват?
 686. Защо разкриването на скритото долно знание е достатъчен задействане за отравяне на целия Silo?
 687. Как система-ът detect-ва или доказва такова disclosure, така че да activate-не safeguard-а?
 688. **РАЗРЕШЕНО в S02E10:** физическият ефект е доставяне на отрова в Silo със способност да унищожи цялото местно население.
-689. **В ЗНАЧИТЕЛНА СТЕПЕН РАЗРЕШЕНО in S02E10:** demonstrated/stated target scope е локален Silo population; остава дали система има broader междусилозен modes.
+689. **В ЗНАЧИТЕЛНА СТЕПЕН РАЗРЕШЕНО in S02E10:** демонстрираният/заявеният целеви обхват е населението на локалния Silo; остава дали система има по-широки междусилозни режими.
 690. **ЧАСТИЧНО РАЗРЕШЕНО в S02E10:** физическото блокиране е възможно и е заявено като успешно в Silo 17; остава дали Head of IT има разрешена възможност за override/изключване.
-691. Quinn знаел ли е actual poison-pipe механизъм, Level 14 интерфейс и blocking method, или само existence/риск?
+691. Quinn знаел ли е действителния механизъм на отровната тръба, Level 14 интерфейс и метода за блокиране, или само съществуването/риска?
 692. Silo 17 има еквивалентен safeguard, но еднакви ли са точният маршрут на тръбата, интерфейсът при Level 14, отровният агент и контролиращият субект във всички Silos?
 
 ## S02E09 — скрит долен контакт / тунел
 
-693. Кой или какво стои зад lower interlocutor-а?
+693. Кой или какво стои зад долният събеседник-а?
 694. Дистанционен човешки оператор ли е, автоматизирана система, AI-подобен интерфейс или друг механизъм?
 695. Как долната система открива присъствието на Lukas и разпознава неговата самоличност/контекст?
-696. Какъв е communication path-ът — локален audio, buried мрежа, remote link или друго?
+696. Какъв е комуникационният път — локално аудио, подземна мрежа, отдалечена връзка или друго?
 697. Same interlocutor/система ли е контактувал Quinn, Meadows и George?
 698. Защо само тези трима преди Lukas са достигали тази point?
 699. Какво точно е научил Quinn там?
 700. Какво точно е научила Meadows там?
 701. Какво точно е научил George там?
 702. Visit-ът на Meadows случил ли се е през известното four-day disappearance?
-703. Bernard знае ли за тунел/contact point, въпреки че не е previous visitor?
-704. Quinn тунел same structure ли е as HDD 18 `CLASSIFIED` тунел / Pact-forbidden lower система?
+703. Bernard знае ли за тунела/точката за контакт, въпреки че не е предишен посетител?
+704. Quinn тунел същата структура ли е като HDD 18 `CLASSIFIED` тунел / забранената от Пакта долна система?
 705. тунел-ът свързва ли отделни Silos, service инфраструктура, централен съоръжение или друг скрит слой?
 
 ## S02E09 — bottom water / pumps
 
 706. Реално ли съществуват скрит pumps под known bottom, както спекулира shadow-ът?
-707. Ако съществуват, те ли поддържат shallow/stable water level?
+707. Ако съществуват, те ли поддържат ниското/стабилно ниво на водата?
 708. Mechanical deliberately ли е държан ignorant за този hydraulic слой?
 709. скрит pumps свързани ли са с тунел/contact инфраструктура?
 
@@ -998,7 +998,7 @@
 711. Колко standardized е трезор knowledge package между Silos 17 и 18?
 712. Кои additional оцелели имат достъп до архив-а и при какви rules?
 713. Защо оцелял group нарича IT-трезор оцелял „the killer“?
-714. Каква е точната history/governance структура на тази group?
+714. Каква е точната историческата/управленската структура на тази group?
 715. Къде са останалите оцелели, ако group-ът не представлява всички живи inhabitants?
 
 ## S02E09 — coercive цифрово съобщение
@@ -1007,7 +1007,7 @@
 717. Кой е recipient-ът?
 718. Коя wife е използвана като leverage и къде е задържана?
 719. Какъв plan се опитва да извлече sender-ът?
-720. Camera condition наблюдение requirement ли е, identity/authentication measure ли е, or coercive контрол tactic?
+720. Условието за камерата изискване за наблюдение ли е ли е, мярка за идентичност/удостоверяване ли е, or тактика за принудителен контрол?
 
 ## S02E10 — safeguard supply / interruption
 
@@ -1017,23 +1017,23 @@
 724. Как parents на Silo 17 оцелял-а са discovered safeguard pipe-а?
 725. Как точно са го blocked — valve, физически seal, cutting, rerouting или друг механизъм?
 726. Може ли дистанционният/контролният слой да заобиколи или възстанови блокирания път на safeguard-а?
-727. **STRENGTHENED in S03E01:** S03E01 computer/система показва по-високо ниво контекст awareness и лечение контрол; същият authority ли е като S02E09 скрит lower interlocutor и/или safeguard controller?
+727. **ПОДСИЛЕН in S03E01:** S03E01 компютърът/системата показва по-високо ниво контекстуална осведоменост и лечение контрол; същият authority ли е като S02E09 скрит долният събеседник и/или контролерът на safeguard?
 728. Juliette's claimed stopping method същият ли е като Silo 17 block method или independent approach?
 
 ## S02E10 — Silo 18 return / airlock
 
-729. **SUBSTANTIALLY РЕШЕН in S03E01:** flame/burning procedure се използва като изолация/decontamination срещу possible навън-derived lethal contaminant; точен agent и full airlock protocol остават НЕРЕШЕН.
+729. **В ЗНАЧИТЕЛНА СТЕПЕН РЕШЕН in S03E01:** процедурата с пламък/изгаряне се използва като изолация/обеззаразяване срещу възможен смъртоносен замърсител с външен произход; точният агент и пълният протокол на шлюза остават НЕРЕШЕН.
 730. Кой може да command-ва външна среда hatch/airlock и Bernard лично ли го контрол-ва?
 731. Съобщението на Juliette `not safe / do not come out` („не е безопасно / не излизайте“) показано ли е нефилтрирано на жителите и как IT може да посредничи този видеопоток?
-732. Level 1 Sheriff/cafeteria/airlock adjacency как изглежда в точен floor plan?
+732. Level 1 Sheriff/cafeteria/airlock съседството как изглежда в точен плана на етажа?
 733. До каква степен stair sabotage променя long-term mobility и контрол of upper/lower Silo?
 
 ## S02E10 — пряк от периода преди силозите Washington
 
 734. Коя е точен calendar date/year на Washington bar scene?
 735. Коя е жената и каква е институционален/professional роля-а ѝ?
-736. Alleged radiological attack срещу САЩ реално ли се е случила?
-737. Ако attack-ът не се е случил, кой е fabricated/manipulated разказ-а и с каква цел?
+736. Alleged radiological атака срещу САЩ реално ли се е случила?
+737. Ако атака-ът не се е случил, кой е fabricated/manipulated разказ-а и с каква цел?
 738. Ако е имало real event, Iran attribution accurate ли е или manipulated?
 739. **ЧАСТИЧНО РЕШЕН in S03E01:** retaliatory operation срещу Iran действително е launched; точен authorization, mission package и final резултат остават НЕРЕШЕН.
 740. Радиационният контрол пред обикновен бар пряко следствие ли е от разказа за предполагаемата атака и колко широко разпространена е тази практика?
@@ -1051,12 +1051,12 @@
 
 747. Кой е authorized Juliette да бъде подложена на memory-потискане лечение?
 748. Какъв е точен drug/agent, dose и delivery schedule?
-749. `Vitamins` standard cover label ли са за memory-потискане medication?
-750. Каква част от Juliette's memory е targeted — само post-почистване period ли, or broader автобиографична памет?
+749. `Vitamins` стандартно прикриващо обозначение ли са за медикамент за потискане на паметта?
+750. Каква част от паметта на Juliette е целева — само периода след почистването ли, or по-широка автобиографична памет?
 751. Може ли suppressed memory да се recover-не naturally, pharmacologically или чрез cues?
 752. Кой е constructed false `bunker` разказ-а и кой го подава на Juliette?
 753. Защо Juliette е оставена като Mayor, вместо да бъде removed/isolated?
-754. Кои хора освен Sims знаят, че Juliette's memory е deliberately altered?
+754. Кои хора освен Sims знаят, че паметта на Juliette е умишлено променена?
 755. Какъв праг на възстановяване на паметта задействане-ва dosage escalation?
 756. Двойната dose reversible ли е и какви са side effects?
 
@@ -1067,20 +1067,20 @@
 759. Sims' твърдение, че personally е burned Bernard, independently confirm-ва ли се?
 760. Къде физически се намират furnaces, след като transport-ът отнема около six hours?
 761. Какви точен formal roles държат Sims и съпругата му след Bernard?
-762. Juliette има ли real executive authority като Mayor или роля-ът е primarily публичен/controlled?
+762. Juliette има ли реална изпълнителна власт като Mayor или роля-ът е предимно публична/контролирана?
 763. Кои parts от old Bernard-era контрол structure са сменени и кои са запазени?
 
-## S03E01 — computer/система / The Order
+## S03E01 — компютърът/системата / The Order
 
-764. Какво точно представлява computer/система-ът — управляван от човек terminal, autonomous software, AI-like система или hybrid?
+764. Какво точно представлява компютърът/системата-ът — управляван от човек terminal, autonomous software, AI-like система или hybrid?
 765. Къде физически се намира compute/контрол слой-ът му?
-766. S03E01 computer/система same entity/мрежа ли е като S02E09 скрит lower interlocutor?
-767. Computer/система-ът има ли пряк authority да activate/disable safeguard?
-768. Как получава live knowledge за Juliette's медицински лечение и memory state?
+766. S03E01 компютърът/системата същият субект/мрежа ли е като S02E09 скрит долният събеседник?
+767. Computer/система-ът има ли преки правомощия да активира/деактивира safeguard?
+768. Как получава актуално знание за Juliette's медицински лечение и състоянието на паметта?
 769. Кой изпълнява instruction-а му за doubled dose?
-770. Какво точен означава `beyond The Order` — няма appliкабел playbook, Order е exhausted, or higher protocol е active?
-771. Кой е authored The Order и computer/система-ът предхожда ли го?
-772. Computer/система локален за Silo 18 ли е или networked across multiple Silos?
+770. Какво точен означава `beyond The Order` — няма appliкабел playbook, Order е изчерпан, or по-висок протокол е активен?
+771. Кой е authored The Order и компютърът/системата-ът предхожда ли го?
+772. Computer/система локален за Silo 18 ли е или свързан в мрежа между множество Silos?
 
 ## S03E01 — lower тунел / Lukas
 
@@ -1088,57 +1088,57 @@
 774. Safety explanation за youth достъп full reason ли е или cover?
 775. Може ли seal-ът practically да бъде reopened?
 776. Къде е Lukas и кога е seen за последно?
-777. Missing статус-ът на Lukas causal-но свързан ли е с долен контакт knowledge?
+777. Missing статус-ът на Lukas причинно свързан ли е с долен контакт knowledge?
 
 ## S03E01 — от периода преди силозите Washington / Iran anomaly
 
 778. Как се казва сестрата на Daniel Keen и каква е точен military/оперативен роля-а ѝ?
 779. Какъв самолет/platform управлява и каква е mission profile?
 780. Какво причинява common-mode disruption-а при ~15 000 m?
-781. Cloud/region natural phenomenon ли е, defensive система ли е, attack ли е, or another механизъм?
+781. Облакът/зоната естествено явление ли е, защитна система ли е, атака ли е, or another механизъм?
 782. Защо launched missiles са affected едновременно с самолет?
 783. Iran контролира ли effect-а, или geography/attribution е misleading?
-784. Има ли causal връзка между alleged dirty-bomb attack и anomalous disruption-а?
+784. Има ли causal връзка между alleged dirty-bomb атака и anomalous disruption-а?
 785. Колко самолет/crew survive и какъв е mission резултат?
 
 ## S03E01 — тайна бележка / Level 2
 
 786. Кой е sender-ът на note-а?
 787. Кой има достъп до Juliette's food/tray chain?
-788. Covert sender/group знае ли, че Juliette е under потискане на паметта?
+788. Скритият подател/група знае ли, че Juliette е под потискане на паметта?
 789. Какво точен `truth` обещава note-ът?
 790. Кой/какво чака Juliette на marketplace на Level 2?
-791. Marketplace пряк-confirm-ва ли permanent function на Level 2?
+791. Пазарът пряко потвърждава ли постоянна функция на Level 2?
 792. Колко развит е физически тайна мрежа, способен да bypass-не наблюдение?
 
 ## S03E01 — социален state
 
 793. Колко голямо е `DISPLAY IS LIE` / pro-exit движение три месеца след Juliette's return?
-794. движение-ът organized faction ли е, loose belief мрежа ли е, or multiple groups?
-795. Juliette's actual навън experience публичен knowledge ли е, distorted rumor ли е, or classified?
+794. движение-ът организирана фракция ли е, свободна мрежа от убеждения ли е, or множество групи?
+795. Juliette's действителният опит навън обществено знание ли е, изкривен слух ли е, or класифициран?
 
 
 ## S03E02 — извличане на спомени / обуславяне чрез разказ
 
 796. точен pharmacological механизъм на от периода преди силозите retrieval потискане какъв е?
-797. Same agent/formulation ли е използван при Juliette, или само functionally similar protocol?
+797. Същият агент/формула ли е използван при Juliette, или само функционално сходен протокол?
 798. Как лечение-ът select-ва кои specific memories да restore-не и кои да omit-не?
 799. Как repeated autobiographical разказ се кодиран/accepted като reпозициониране account?
 800. Какво определя дали фалшив разказ ще бъде accepted или rejected?
 801. Защо real memories могат да се върнат бързо и какви cues ускоряват това?
 802. извличане на спомени потискане reversible ли е напълно след stopping на drug-а?
-803. Juliette's original memories physically intact ли са по същия механизъм, или parallel-ът е only functional?
-804. Quinn-era water drug, Juliette `vitamins` и от периода преди силозите лечение една lineage/formulation ли са?
+803. Juliette's първоначалните спомени физически непокътнати ли са по същия механизъм, или паралелът е само функционален?
+804. лекарството във водата от епохата на Quinn, Juliette `vitamins` и от периода преди силозите лечение една lineage/formulation ли са?
 
-## S03E02 — supervisory computer/система awareness
+## S03E02 — supervisory компютърът/системата awareness
 
 805. Как система-ът знае за физически тайна бележка-а?
-806. пряк визуален reading на note-а ли има, or infers existence/content from behavior/контекст?
+806. пряк визуален прочит на note-а ли има, or извежда съществуването/съдържанието от поведението/контекста?
 807. Как система-ът знае, че Juliette е излъгала Mrs Sims?
 808. Какви sensors/feeds/data sources захранват semantic situational модел-а?
 809. човешки оператор участва ли в това evaluation, или assessment-ът е autonomous?
 810. Какво точен означава система judgment `concerning` operationally?
-811. Може ли система-ът да miss-не или misunderstand-не covert human behavior?
+811. Може ли система-ът да пропусне или разбере погрешно скрито човешко поведение?
 
 ## S03E02 — Juliette полезност/риск праг
 
@@ -1146,22 +1146,22 @@
 813. Как се изчислява blue stabilizing-value line?
 814. Какъв точен crossing праг прави Juliette `no longer useful`?
 815. Кой е defined objective/function, която система-ът оптимизира?
-816. Objective-ът локален Silo оцеляване ли е, multi-програмата на Silo ли е, социален stability ли е, or another long-term goal?
+816. Целта локален Silo оцеляване ли е, multi-програмата на Silo ли е, социалната стабилност ли е, or друга дългосрочна цел?
 817. Може ли objective/thresholds да бъдат modified от humans?
 818. **ЧАСТИЧНО РЕШЕН in S03E03:** в Juliette case `removal` може да ескалира до literal killing; дали term-ът винаги означава death остава НЕРЕШЕН.
-819. **ЧАСТИЧНО РЕШЕН in S03E03:** Camille Sims е selected/persuaded като human operative за Juliette kill objective; broader execution chain остава НЕРЕШЕН.
+819. **ЧАСТИЧНО РЕШЕН in S03E03:** Camille Sims е избрана/убедена като човешки оперативен агент за Juliette целта за убийство; по-широката изпълнителна верига остава НЕРЕШЕН.
 820. Как система-ът estimates `catastrophic destabilization` и какви outcomes включва това?
 
 ## S03E02 — population-scale `vitamins` / water supply
 
 821. **ЧАСТИЧНО РЕШЕН in S03E03:** planned agent е обозначен като `Vitamin D+` и е contextual-но memory-потискане/forgetting chemistry; точен formulation/molecule остава unknown.
 822. Какъв dose и duration се планират?
-823. Whole Silo population ли е target-ът или selected zones/groups?
+823. Цялото население на Silo ли е целта или избрани зони/групи?
 824. ръководство/IT/Judicial имат ли exemption/protection?
-825. точен target memory е Juliette ли, recent crisis ли, anti-система sentiment ли, or broader автобиографична памет?
-826. Къде physically `vitamins` would be introduced into water система?
-827. Same injection point ли е използван исторически от Quinn?
-828. Waterborne intervention already започнал ли е, or remains contingency only?
+825. точен целевият спомен е Juliette ли, скорошната криза ли, антисистемните нагласи ли, or по-широка автобиографична памет?
+826. Къде физически биха били въведени `vitamins` into водната система?
+827. Същата точка за въвеждане ли е използван исторически от Quinn?
+828. Въздействието чрез водата вече започнало ли е, или остава само резервна мярка?
 829. Какви side effects/behavioral changes очаква система-ът?
 
 ## S03E02 — covert notes
@@ -1171,15 +1171,15 @@
 832. Какъв е reliable full transcription на note #3?
 833. Каква точен action/instruction съдържа note #3?
 834. Same sender/мрежа ли стои зад notes #1–#3?
-835. Computer/система-ът merely observes covert-note мрежа-а, tolerates it deliberately, or uses/manipulates it?
+835. Computer/система-ът само наблюдава мрежата от тайни бележки, умишлено я допуска, or използва/манипулира я?
 
 ## S03E02 — от периода преди силозите непрекъснатост
 
 836. Кой е treating doctor-ът и към коя organization/program принадлежи?
 837. Кога от периода преди силозите selective-memory лечение е developed и защо?
-838. Sister-а на Daniel Keen е под лечение само за trauma/recovery ли, или има broader security/political purpose?
-839. Има ли пряк organizational bridge между от периода преди силозите медицински program и later Silo memory-контрол systems?
-840. Iran-operation anomaly causal-но свързан ли е с subsequent memory лечение or only precedes it narratively?
+838. Сестрата на Daniel Keen е под лечение само за травма/възстановяване ли, или има по-широка цел за сигурност/политика?
+839. Има ли пряк организационна връзка между от периода преди силозите медицинската програма и по-късните системи за контрол на паметта в Silo?
+840. Iran-operation anomaly причинно свързан ли е с последващото лечение на паметта or само го предхожда в разказа?
 
 ## S03E03 — Iran запис от мисията
 
@@ -1198,30 +1198,30 @@
 
 ## S03E03 — междусилозен safeguard isolation
 
-853. Как система-ът дефинира `contact` с друг Silo — физически proximity, radio/data exchange, human meeting, визуален signal или any information transfer?
+853. Как система-ът дефинира `contact` с друг Silo — физически proximity, обмен по радио/данни, човешка среща, визуален сигнал или какъвто и да е обмен на информация?
 854. Как contact violation се detect-ва?
-855. Safeguard activation fully automatic ли е след contact detection, or requires adjudication?
-856. Why is междусилозен contact treated as whole-population termination-level violation?
-857. Allowed ли е някакъв authorized inter-Silo contact at privileged level?
+855. Safeguard activation напълно автоматично ли е след засичане на контакт, or изисква решение/преценка?
+856. Защо междусилозният контакт се третира като нарушение, оправдаващо унищожение на цялото население?
+857. Разрешен ли е някакъв упълномощен междусилозен контакт на привилегировано ниво?
 858. Heads of IT могат ли да communicate междусилозен without triggering safeguard?
-859. Silo 17 исторически exit/contact events задействане-нали ли са safeguard по same rule?
+859. Silo 17 историческите събития по излизане/контакт задействали ли са safeguard по същото правило?
 860. 50/51 Silo архитектура intentionally ли е designed as isolated cells to prevent information propagation?
 861. междусилозен rule кодиран ли е в The Order, higher supervisory logic or both?
 
 ## S03E03 — Vitamin D+ / population контрол върху паметта
 
-862. `Vitamin D+` same точен formulation ли е as Juliette pills, Quinn-era water drug и от периода преди силозите лечение?
+862. `Vitamin D+` същата точна формула ли е as Juliette pills, лекарството във водата от епохата на Quinn и от периода преди силозите лечение?
 863. Какъв population dose се планира?
-864. Каква memory domain цели mass dosing-ът — Juliette, recent crisis, междусилозен knowledge, бунт memory or broader autobiographical достъп?
+864. Каква област от паметта цели масовото дозиране — Juliette, скорошната криза, междусилозното знание, паметта за бунта or по-широкия автобиографичен достъп?
 865. За колко време трябва да действа?
 866. система-ът очаква ли behavioral pacification, selective forgetting or both?
 867. Как система-ът quantifies claimed оцеляване benefit from потискане на паметта?
-868. Water deployment actually започва ли след S03E03 или остава plan?
+868. Прилагането чрез водата действително започва ли след S03E03 или остава plan?
 
 ## S03E03 — мини / Lukas
 
 869. точен пространствен extent на mine sector-а под/от Level 70 какъв е?
-870. Има ли физически routes from мини към another Silo?
+870. Има ли физически routes from мини към друг Silo?
 871. Lukas originally влязъл ли е в мини, за да търси междусилозен маршрут, или е driven there primarily by pursuit?
 872. Как Lukas е оцелял/скрил се в mine sector-а?
 873. Кои groups/personnel работят постоянно в мини?
@@ -1230,47 +1230,47 @@
 
 ## S03E03 — Camille / deception / lethal tasking
 
-876. Как computer/система-ът е selected Camille и какви други candidates е evaluated?
-877. Какво exactly означава „избрана“ — formal succession, operative роля, temporary интерфейс or another статус?
+876. Как компютърът/системата-ът е избрала Camille и какви други candidates е оценила?
+877. Какво точно означава „избрана“ — формално наследяване, оперативна роля, временен интерфейс or друг статус?
 878. **РЕШЕН в S03E05:** Camille Sims е директно потвърдена като нов Head of IT.
 879. **ЧАСТИЧНО РЕШЕН в S03E05:** Camille продължава да иска Juliette мъртва и насочва Robert към lethal removal, но изпълнението остава НЕРЕШЕН.
 880. Какъв method/система expects for the killing?
-881. **PARTIALLY NARROWED в S03E05:** „Гласът“ дава privileged instructions/read-in на Head of IT; след това Camille се опитва да възложи задачата на Robert. пряк Voice→enforcement command остава недоказана.
+881. **ЧАСТИЧНО СТЕСНЕНО в S03E05:** „Гласът“ дава privileged instructions/read-in на Head of IT; след това Camille се опитва да възложи задачата на Robert. пряк Voice→enforcement command остава недоказана.
 882. Deception formally tested/trained ли е при Head-of-IT succession?
-883. The Order explicitly ли instruct-ва Heads of IT to deceive, or is this higher-слой doctrine?
-884. Bernard selected ли е historically по same deception criterion?
-885. **REFINED в S03E05:** Camille има formal Head-of-IT privileged достъп/read-in, докато Robert е compartmentalized. Следователно няма доказателство за inherited достъп на цялото family Sims.
+883. The Order изрично ли инструктира Heads of IT да заблуждават, or is this доктрина от по-висок слой?
+884. Bernard исторически ли е избран по същия критерий за измама?
+885. **УТОЧНЕНО в S03E05:** Camille има формален привилегирован достъп/допуск като Head of IT, докато Robert е компартментализиран. Следователно няма доказателство за наследен достъп на цялото семейство Sims.
 
 ## S03E04 — Juliette medication substitution / тайна мрежа
 
-886. **PARTIALLY NARROWED в S03E05:** Robert Sims е strong candidate за unknown upstream участник-а зад nurse substitution-а, но липсва пряк identification.
-887. Как upstream участник-ът знае точен лечение protocol-а и medication chain-а?
-888. Same участник ли стои зад earlier covert notes към Juliette?
+886. **ЧАСТИЧНО СТЕСНЕНО в S03E05:** Robert Sims е strong candidate за unknown upstream участник-а зад nurse substitution-а, но липсва пряк identification.
+887. Как участникът нагоре по веригата знае точния протокол за лечение и веригата на медикаментите?
+888. Същият участник ли стои зад по-ранните тайни бележки към Juliette?
 889. Nurse-ът доброволно ли участва, или е pressured/recruited?
 890. Колко дълго преди Juliette's own pill-spitting е започнала substitution-ът?
 891. Какво точен е давано вместо потискане pills?
 892. Substitution-ът fully прекъсва ли active drug, или само намалява effective dose?
 893. медицинският персонал има ли и други insiders?
-894. Computer/система-ът разбира ли, че medication protocol-ът е sabotaged?
-895. Juliette support мрежа centralized ли е, или independent actors converge around same goal?
+894. Computer/система-ът разбира ли, че протоколът за медикаментите е саботиран?
+895. Juliette подкрепящата мрежа централизирана ли е, или независими участници се събират около една и съща цел?
 
 ## S03E04 — Level 76 / escape маршрут
 
-896. Защо nurse-ът избира exactly Level 76 помпа station?
+896. Защо nurse-ът избира точно помпената станция на Level 76?
 897. Кой контролира помпа station-а и какво оперативен value има?
 898. Как Sims научава/предвижда Juliette's arrival на Level 76?
 899. маршрут-ът compromised ли е чрез наблюдение, informant или prediction?
 900. Mechanical ally предварително instructed ли е да бъде там?
-901. Level 76 свързан ли е physically с concealed deep-zone маршрут, или е само handoff point?
+901. Level 76 свързан ли е физически със скрития маршрут към дълбоката зона, или е само точка за предаване?
 
 ## S03E04 — concealed abyss достъп
 
 902. Кой е построил скрит door и тунел маршрут-а?
 903. Fixed rope/descent setup original инфраструктура ли е или later addition?
 904. Кой currently поддържа/използва concealed маршрут-а?
-905. маршрут-ът известен ли е на Mechanical broadly или само на малък subset?
-906. Abyss/digger zone same физически система ли е as S02E09 скрит lower тунел/contact?
-907. Concealed маршрут intersects ли mine мрежа-а from Level 70?
+905. маршрут-ът известен ли е на Mechanical broadly или само на малък подмножество?
+906. Abyss/digger zone същата физическа система ли е as S02E09 скрит lower тунел/contact?
+907. Concealed маршрут пресича ли минната мрежа от Level 70?
 908. Има ли additional скрит routes към same дълбока зона?
 
 ## S03E04 — Bernard alive / false death
@@ -1285,8 +1285,8 @@
 916. **РЕШЕН в S03E05:** Robert Sims го отвежда/скрива под Silo с помощта на Mechanical.
 917. Кой се грижи за injured/debilitated Bernard?
 918. **ЧАСТИЧНО РЕШЕН в S03E05:** мястото служи за concealment, след като Robert отказва да го убие; точната причина за избора на digger/дълбока зона и long-term plan остава ОТВОРЕН.
-919. Има ли Bernard current достъп/contact с supervisory computer/система?
-920. Bernard знае ли кой/какво е orchestrated Juliette memory-контрол program след disappearance-а му?
+919. Има ли Bernard текущ достъп/контакт с supervisory компютърът/системата?
+920. Bernard знае ли кой/какво е организирал Juliette програмата за контрол на паметта след изчезването му?
 
 ## S03E04 — от периода преди силозите co-optation / Pentagon breakthrough
 
@@ -1294,14 +1294,14 @@
 922. Може ли той реално да deliver-не The Times job и sister-лечение continuation, и как?
 923. запис holder-ът също co-opted/bribed ли е, или fate-ът му е различен?
 924. **ЧАСТИЧНО РЕШЕН в S03E05:** открива convergence между участник, свързан със sister's clinic, prominent AI support и involvement в Iran operation. По-дълбоката causal роля остава ОТВОРЕН.
-925. **PARTIALLY NARROWED в S03E05:** по-късният vehicle превземане подсилва deliberate external-контрол модел-а; clinic/AI/Iran връзката подкрепя broader-program candidate, но точната explanation остава НЕРЕШЕН.
+925. **ЧАСТИЧНО СТЕСНЕНО в S03E05:** по-късният vehicle превземане подсилва модела за умишлен външен контрол; clinic/AI/Iran връзката подкрепя кандидата за по-широка програма, но точното обяснение остава НЕРЕШЕН.
 
 ## S03E05 — airlock sterilization / несъответствие със Silo 17
 
 926. Защо Silo 17 не показва очевидно същия 48-hour lockout на вътрешната врата след sterilization?
-927. Airlock protocol-ът в Silo 17 disabled, sabotaged, degraded заради загуба на захранване или bypassed ли е?
+927. Airlock protocol-ът в Silo 17 disabled, саботиран, degraded заради загуба на захранване или bypassed ли е?
 928. 48-hour lockout физически interlock ли е, software rule, Head-of-IT override или комбинация?
-929. Кой има authority да override-не ограничението за повторно отваряне на вътрешната airlock door?
+929. Кой има правомощие да преодолее ограничението за повторно отваряне на вътрешната вратата на шлюза?
 
 ## S03E05 — Robert / Camille / „Гласът“
 
@@ -1316,48 +1316,48 @@
 938. Колко предишни „problem removals“ е извършвал Robert за Heads of IT?
 939. Camille знае ли, че Robert организира protests за Juliette?
 940. Как formal-но се осъществява mayoral elevation на Juliette след protests?
-941. Robert ли е unknown upstream участник-ът зад nurse pill substitution-а?
+941. Robert ли е unknown участникът нагоре по веригата зад nurse pill substitution-а?
 942. Robert има ли пряк connection към по-ранната физически covert-note мрежа?
 
 ## S03E05 — „Гласът“ / safeguard hierarchy
 
 943. „Гласът“ физически система, distributed software, remote human интерфейс или друга архитектура ли е?
 944. „Гласът“ physically located ли е в Silo 1, в локален трезор инфраструктура или другаде?
-945. Същата entity ли е като S02E09 скрит lower interlocutor?
+945. Същата entity ли е като S02E09 скрит долният събеседник?
 946. Bernard има ли пряк source за твърдение-а, че „Гласът“ го иска мъртъв?
 947. Higher слой може ли да activate-не safeguard-а at will, или само при кодиран задействане conditions?
 948. Как Lukas е открил existential kill authority над Silo?
 949. Какво точно е намерил/видял Lukas?
 950. Как Juliette знае practical method-а за спиране на safeguard-а?
-951. Method-ът на Juliette физически pipe blocking ли е, контрол override, source interruption или комбинация?
-952. **PARTIALLY NARROWED in S03E06:** Juliette съзнателно не разкрива safeguard countermeasure knowledge пред Camille/„Гласът“. Дали „Гласът“ го знае по друг monitoring/извод path остава ОТВОРЕН.
+951. Методът на Juliette физически физическо блокиране на тръбата ли е, преодоляване на контрола, прекъсване на източника или комбинация?
+952. **ЧАСТИЧНО СТЕСНЕНО in S03E06:** Juliette съзнателно не разкрива знанието за противодействието на safeguard пред Camille/„Гласът“. Дали „Гласът“ го знае по друг път чрез наблюдение/извод остава ОТВОРЕН.
 
 ## S03E05 — реликви / извличане на спомени
 
 953. Кои категории реликви са най-силни retrieval cues — personal objects, images, texts, картаs, sounds?
-954. PEZ recall-ът specific autobiographical association ли активира или broader suppressed-memory state?
+954. Припомнянето чрез PEZ конкретна автобиографична асоциация ли активира или broader suppressed-състоянието на паметта?
 955. Колко durable е реликва-triggered recall след премахване на cue-а?
-956. **STRENGTHENED QUESTION in S03E06:** Juliette предлага доброволно да се върне на memory-потискане medication, но ефектът върху вече recovered memories остава пряк-untested.
+956. **ПОДСИЛЕН QUESTION in S03E06:** Juliette предлага доброволно да се върне на медикамент за потискане на паметта, но ефектът върху вече възстановените спомени остава непроверен пряко.
 957. The Order предписва ли destruction, concealment или selective controlled достъп за реликви?
-958. Primary motive на реликва policy memory-контрол ли е, или едновременно information censorship + recall потискане?
+958. Основният мотив на политиката за реликвите memory-контрол ли е, или едновременно информационна цензура + потискане на припомнянето?
 959. PEZ същият обект ли е като от периода преди силозите yellow-duck PEZ gift, или provenance bridge остава candidate?
 
 ## S03E05 — radio isolation / Silo 1
 
 960. Как радиоканалs са partitioned между Silos — fixed frequency, hopping модел, encryption profile или комбинация?
-961. Ordinary Silo radios technically retunable ли са към channel на друг Silo?
+961. Обикновените радиостанции в Silo технически пренастройваеми ли са към канал на друг Silo?
 962. Silo 1 passive monitor ли е или може active-но да transmit-ва към всички Silos?
 963. Silo 1 автоматично ли detect-ва междусилозен communication?
 964. Silo 1 monitoring пряк input ли е към safeguard задействане logic?
-965. **STRONGLY NARROWED in S03E06:** Silo 1 вече има пряк radio-monitoring + IT-захранване инфраструктура роля, а „Гласът“ има пряк interaction path през Camille. Дали са една entity/система, colocated layers или separate nodes остава НЕРЕШЕН.
+965. **СИЛНО СТЕСНЕНО in S03E06:** Silo 1 вече има пряк роля за радионаблюдение + инфраструктура за захранване на IT, а „Гласът“ има пряк път за взаимодействие през Camille. Дали са един субект/система, съвместно разположени слоеве или отделни възли остава НЕРЕШЕН.
 966. Heads of IT имат ли authorized скрит channel към Silo 1?
-967. Silo 1 следи ли само radio или и wired/data/other междусилозен communication?
+967. Silo 1 следи ли само radio или и кабелна/данни/друга междусилозна комуникация?
 
 ## S03E05 — construction / пространствен доказателство
 
 968. Каква точно функция има Level 95?
-969. Board-ът `FRAME ASSEMBLY + RISER INSTALLATION` от original construction ли е, training/archival visualization ли е, или друг reconstruction контекст?
-970. Riser assembly-ът има ли relation към централен stair structure, utilities, safeguard pipe или друга vertical инфраструктура?
+969. Таблото `FRAME ASSEMBLY + RISER INSTALLATION` от първоначалното строителство ли е, обучителна/архивна визуализация ли е, или друг reconstruction контекст?
+970. Сглобяването на riser има ли relation към централен stair structure, utilities, safeguard pipe или друга вертикална инфраструктура?
 
 ## S03E05 — от периода преди силозите AI / clinic / Iran / vehicle превземане
 
@@ -1365,15 +1365,15 @@
 972. Каква formal роля има той в clinic-а?
 973. Каква formal роля има в planning/execution на Iran operation?
 974. лечение-ът на сестрата съдържа ли потискане на паметта / retrieval blocking?
-975. **РЕШЕН in S03E07:** сестрата показва fragmented recall; значителна част от autobiographical account-а ѝ идва от това, което други са ѝ казали.
-976. **силно подсилен in S03E07:** clinic лечение-ът вече има пряк fragmented-memory доказателство, но дали използва същото substance/protocol като Silo-era контрол върху паметта остава НЕРЕШЕН.
-977. **PARTIALLY NARROWED in S03E06:** участник-ът остава unidentified, но превземане-ът demonstrably маршрут-ва Keen до летище/частен самолет и организирана среща.
+975. **РЕШЕН in S03E07:** сестрата показва фрагментирано припомняне; значителна част от autobiographical account-а ѝ идва от това, което други са ѝ казали.
+976. **силно подсилен in S03E07:** лечението в клиниката вече има пряк доказателство за фрагментирана памет, но дали използва същото substance/protocol като Silo-era контрол върху паметта остава НЕРЕШЕН.
+977. **ЧАСТИЧНО СТЕСНЕНО in S03E06:** участник-ът остава unidentified, но превземане-ът demonstrably маршрут-ва Keen до летище/частен самолет и организирана среща.
 978. Vehicle превземане извършен ли е чрез manufacturer инфраструктура, мрежа exploit, privileged backdoor или AI контрол слой?
-979. **STRONGLY NARROWED in S03E06:** Keen и спътникът му explicit свързват двата events като external превземане модел; same участник/мрежа остава недоказан.
-980. **STRONGLY NARROWED in S03E06:** character-level interpretation е common external-контрол модел, но technical механизъм equivalence остава НЕРЕШЕН.
+979. **СИЛНО СТЕСНЕНО in S03E06:** Keen и спътникът му изрично свързват двете събития като external превземане модел; същият участник/мрежа остава недоказан.
+980. **СИЛНО СТЕСНЕНО in S03E06:** интерпретацията на ниво персонажи е общ модел за външен контрол, но еквивалентността на техническия механизъм остава НЕРЕШЕН.
 981. **LARGELY РЕШЕН in S03E06:** immediate objective е forced routing на Keen до летище/частен самолет и предварително организирана среща; broader purpose на срещата остава ОТВОРЕН.
-982. **STILL ОТВОРЕН after S03E06:** explicit car↔самолет linkage и doubt към Iran attribution strengthen broader-program модел-а, но AI-linked участник не е пряк-identified като controller.
-983. **силно подсилен in S03E06:** героите пряк-characterize самолет event-а като external превземане и поставят Iran attribution под съмнение; program/участник identity остава НЕРЕШЕН.
+982. **ВСЕ ОЩЕ ОТВОРЕН after S03E06:** explicit връзката автомобил↔самолет и съмнението към приписването на Iran strengthen broader-program модел-а, но участник, свързан с ИИ не е пряко идентифициран като контролер.
+983. **силно подсилен in S03E06:** героите пряко характеризират събитието със самолета като external превземане и поставят Iran attribution под съмнение; идентичността на програмата/участника остава НЕРЕШЕН.
 984. Old communications retrofit intended ли е да preserve запис/доказателство срещу контрол-система превземане, или reason-ът е различен?
 
 ## S03E06 — Silo 1 / IT захранване / safeguard инфраструктура
@@ -1389,13 +1389,13 @@
 
 ## S03E06 — Juliette / „Гласът“ / selective disclosure
 
-993. „Гласът“ знае ли, че Juliette съзнателно е скрила safeguard countermeasure knowledge?
+993. „Гласът“ знае ли, че Juliette съзнателно е скрила знанието за противодействието на safeguard?
 994. Camille разбира ли, че Juliette ѝ дава selective, а не exhaustive disclosure?
 995. Защо Camille допуска Juliette до пряк contact с „Гласът“?
 996. физически location/интерфейс-ът на „Гласът“ локален ли е, remote terminal ли е, или distributed система?
 997. Как „Гласът“ може да има awareness за разговор на място без видими камери, ако Juliette suspicion-ът е верен?
 998. Има ли скрити microphones/sensors, които не са част от известната mirror-camera мрежа?
-999. Juliette искрено ли е готова да се върне на memory-потискане medication, или предложението е tactical bargaining move?
+999. Juliette искрено ли е готова да се върне на медикамент за потискане на паметта, или предложението е tactical bargaining move?
 1000. Ще приеме ли „Гласът“ transfer на децата от Silo 17?
 1001. Кой operationally би извел децата от Silo 17 и би ги прехвърлил в Silo 18?
 1002. междусилозен transfer нарушава ли safeguard задействане rules, ако е authorized от надзорен слой-а?
@@ -1406,9 +1406,9 @@
 
 1005. Каква точен доза Vitamin D+ Camille пуска във водата?
 1006. Колко време е необходимо за meaningful memory-потискане effect?
-1007. Целият Silo 18 ли е exposure target, или dosing-ът може да е sector-specific?
+1007. Целият Silo 18 ли е целта на излагането, или dosing-ът може да е специфично по сектори?
 1008. Как се контролира concentration-ът по water-distribution мрежа-а?
-1009. Кои memories/knowledge classes protocol-ът цели да suppress-не в текущата криза?
+1009. Кои класове спомени/знание protocol-ът цели да потисне в текущата криза?
 1010. Camille действа ли по пряк instruction от „Гласът“, по The Order, или по собствена interpretation?
 1011. Може ли вече recovered safeguard memory на Juliette отново да бъде suppressed?
 1012. Има ли residents/roles, които са exempt от Vitamin D+ water dosing?
@@ -1427,12 +1427,12 @@
 1019. Кой е организирал частен самолет handoff-а?
 1020. Каква е точната самоличност/title на жената, при която Keen е доведен?
 1021. Каква formal роля има тя в Iran commission/oversight process-а?
-1022. Тя controller, ally, intermediary или target ли е в forced-routing operation-а?
+1022. Тя контролер, ally, intermediary или target ли е в forced-routing operation-а?
 1023. Къде трябва да отведе Keen частен самолет-ът?
 1024. Същият участник/мрежа ли е поел контрол над самолет по време на Iran operation?
 1025. Ако Iran attribution е false/manipulated, кой има възможност и motive да го произведе?
 1026. Как AI-linked clinic/Iran участник-ът се свързва с remote-контрол възможност и political oversight мрежа-а?
-1027. **силно подсилен in S03E07:** sister-лечение line-ът включва fragmented recall + supplied разказ + NDA compartmentalization; relation към broader AI/Iran/програмата на Silo остава НЕРЕШЕН.
+1027. **силно подсилен in S03E07:** линията с лечението на сестрата включва фрагментирано припомняне + подаден разказ + компартментализация чрез NDA; relation към broader AI/Iran/програмата на Silo остава НЕРЕШЕН.
 
 
 ## S03E07 — външна среда enforcement / Kyle–Kennedy mission
@@ -1440,10 +1440,10 @@
 1028. Какъв е точен source-ът на жуженето, чуто от Kyle и Kennedy навън?
 1029. Краткият звук, който героите оприличават на оръжие, реален изстрел ли е или друг външна среда механизъм?
 1030. Какво точно означава `neutralized` в Voice report-а — killed, incapacitated, communications loss, mission denial или друго?
-1031. „Гласът“ само получава външна среда статус ли, или може active-но да command-ва external enforcement?
+1031. „Гласът“ само получава външна среда статус ли, или може активно да командва външното принудително изпълнение?
 1032. Какви sensors/relays дават на надзорен слой-а awareness за хора между Silos?
 1033. Voice report-ът за Kyle/Kennedy accurate ли е, incomplete ли е, или deliberate deception?
-1034. Radio transmission-ът genuine live contact от Kyle/Kennedy ли е?
+1034. Радиопредаването действителен контакт на живо от Kyle/Kennedy ли е?
 1035. Ако transmission-ът е genuine, откъде точно transmit-ват?
 1036. Ако transmission-ът е manipulated, кой го е произвел и как е възпроизвел identity/voice/контекст достатъчно убедително?
 1037. Какво конкретно в radio call-а убеждава Silo 18 да прекрати Judicial/safeguard operation-а?
@@ -1479,20 +1479,20 @@
 
 ## S03E07 — sister memory / NDA / от периода преди силозите read-in
 
-1058. Кои specific memories сестрата на Keen пази директно и кои знае само от supplied разказ?
-1059. Clinic лечение-ът целенасочено ли е причинил fragmented recall?
+1058. Кои specific memories сестрата на Keen пази директно и кои знае само от подаден разказ?
+1059. Clinic лечение-ът целенасочено ли е причинил фрагментирано припомняне?
 1060. Кой е предоставил reпозициониране/supplementary autobiographical разказ на сестрата?
 1061. Каква information class вече знае сестрата под NDA?
 1062. Коя organization е страна по NDA и контролира full briefing-а?
 1063. Какъв е точен purpose/destination на самолет след NDA signing?
-1064. Relation-ът между clinic memory лечение и formal NDA/read-in архитектура intentional unified контрол design ли е?
+1064. Relation-ът между clinic memory лечение и формалната архитектура на NDA/допуск умишлен единен дизайн за контрол ли е?
 
 ## S03E07 — Georgia / Atlanta Silo construction
 
-1065. Каква е точен location на Silo construction field-а спрямо Atlanta?
-1066. Показаният construction field съдържа ли всичките known Silos или само subset?
+1065. Каква е точното местоположение на Silo строителната площадка спрямо Atlanta?
+1066. Показаният construction field съдържа ли всичките известните Silos или само подмножество?
 1067. Може ли визуален доказателство да establish-не точния брой едновременно изграждани Silos?
-1068. Къде в construction field-а е Silo 1?
+1068. Къде в строителната площадка е Silo 1?
 1069. Silo numbering определен ли е още на construction stage?
 1070. Какъв е construction order-ът и едновременно ли се строят всички units?
 1071. Как от периода преди силозите Georgia строителна програма се свързва институционално с AI/clinic/Iran участник мрежа-а?
@@ -1514,9 +1514,9 @@
 1073. Кой точно прострелва Kyle — човек, автоматизирана платформа, дрон, remote turret или друг участник?
 1074. Кой командва стрелеца и има ли „Гласът“ command authority над него?
 1075. Раната от куршума нарушава ли sealing-а на костюм-а и ако да, колко дълго Kyle е изложен на външната среда?
-1076. Защо едновременно отворените airlock doors на Silo 17 не водят до непосредствена масова смърт?
+1076. Защо едновременно отворените вратата на шлюзаs на Silo 17 не водят до непосредствена масова смърт?
 1077. Какъв е точният механизъм на външната опасност — концентрация, aerosol/particulate, времева променливост, локализиран облак, biological agent, нанотехнологии или комбинация?
-1078. **ЧАСТИЧНО РЕШЕН in S03E10:** платформата е дрон controlled/launched from Silo 1; fleet size, patrol frequency и точен sensors остават ОТВОРЕН.
+1078. **ЧАСТИЧНО РЕШЕН in S03E10:** платформата е дрон управляван/изстрелван от Silo 1; размерът на флота, честотата на патрулите и точните сензори остават ОТВОРЕН.
 1079. **РЕШЕН in S03E10:** Silo 1 actively controls/launches the дрон platform; точен allocation между оператор на „Гласът“ и dedicated pilot остава оперативен detail.
 1080. Какъв е точният статус на Patrick Kennedy след стрелбата?
 
@@ -1555,7 +1555,7 @@
 ## S03E08 — катастрофа от нанотехнологии
 
 1101. Какъв е точният провал mode на очакваната катастрофа от нанотехнологии?
-1102. Свързана ли е пряко първата nano-bomb attack с по-късната глобална катастрофа?
+1102. Свързана ли е пряко първата nano-bomb атака с по-късната глобална катастрофа?
 1103. Текущата външна опасност същата нанотехнология ли е, неин наследник ли е, или различен механизъм?
 1104. Safeguard poison използва ли нанотехнологии?
 1105. Memory-потискане система използва ли нанотехнологии или отделна фармакологична химия?
@@ -1571,7 +1571,7 @@
 1112. Какви данни/knowledge получава ръководство-ът от срещата на самолета с нанооръжието?
 1113. Кой изгражда ~120 km тайния тунел и кога?
 1114. **ЧАСТИЧНО РЕШЕН:** зарядът е детониран под съоръжението; до каква степен съоръжение-то е окончателно унищожено?
-1115. Каква е точната връзка между съоръжението, nano-bomb attack-а и по-широката война?
+1115. Каква е точната връзка между съоръжението, nano-bomb атака-а и по-широката война?
 
 ## S03E08 — география на Atlanta
 
@@ -1600,30 +1600,30 @@
 
 ## S03E09 — разрешени или съществено стеснени въпроси
 
-- Q1076 остава ОТВОРЕН, но е sharpened: Bernard умира след без костюм exposure, докато Silo 17 не показва immediate mass death при отворени две airlock doors.
+- Q1076 остава ОТВОРЕН, но е sharpened: Bernard умира след без костюм exposure, докато Silo 17 не показва immediate mass death при отворени две вратата на шлюзаs.
 - Q1084–Q1087 са съществено стеснени: opening-day карта + full физически aerial потвърждават официалните 50 като Silo 1 + 7×7; Silo 1 не е extra 51st.
 - Q1119 е частично стеснен: billionaire/спонсор на проекта-ът е идентифициран като Per Stenson; точен институционален роля след intake остава ОТВОРЕН.
-- Q1120 е стеснен: Daniel Keen е assigned към Silo 1; това не доказва автоматично formal governing office.
-- Q1121 е стеснен: журналистката е assigned към Silo 18.
+- Q1120 е стеснен: Daniel Keen е разпределен към Silo 1; това не доказва автоматично формална управленска длъжност.
+- Q1121 е стеснен: журналистката е разпределен към Silo 18.
 - Q1125/Q1126 са стеснени: Bernard открито се противопоставя на „Гласът“, предлага scapegoat plan и развива human-оператор theory.
-- Q1130 е съществено стеснен: Пактът е ~500-year governance framework, AI-drafted и human-edited още преди occupancy.
+- Q1130 е съществено стеснен: Пактът е ~управленска рамка за ~500 години, създадена като чернова от ИИ и редактирана от хора още преди заселването.
 
 ## S03E09 — „Гласът“ / Silo 1
 
 1131. **РЕШЕН in S03E10:** да — Victor е директно показан като човешки оператор behind Voice in Silo 1.
-1132. Ако има human operators, колко са и каква е shift/duty структурата?
+1132. Ако има human оператори, колко са и каква е shift/duty структурата?
 1133. **ЧАСТИЧНО РЕШЕН in S03E10:** Voice е управляван от човек supervisory интерфейс/channel; automation/decision-support слой остава ОТВОРЕН.
-1134. Има ли autonomous AI component зад „Гласът“ независимо от human operators?
-1135. **ЧАСТИЧНО РЕШЕН in S03E10:** Voice operation е physically tied to Silo 1 централен контролно помещение; full integration с radio monitoring, IT захранване и safeguard routing остава ОТВОРЕН.
-1136. Кой избира/обучава Silo 1 operators и как се предава privileged knowledge?
+1134. Има ли autonomous AI component зад „Гласът“ независимо от human оператори?
+1135. **ЧАСТИЧНО РЕШЕН in S03E10:** Работата на „Гласът“ е физически свързана to Silo 1 централен контролно помещение; пълната интеграция с radio monitoring, IT захранване и safeguard routing остава ОТВОРЕН.
+1136. Кой избира/обучава Silo 1 оператори и как се предава привилегированото знание?
 
 ## S03E09 — опасност във външната среда
 
-1137. Защо Bernard умира след без костюм exposure, а Silo 17 не претърпява immediate mass death при отворени airlock doors?
+1137. Защо Bernard умира след без костюм exposure, а Silo 17 не претърпява immediate mass death при отворени вратата на шлюзаs?
 1138. Hazard-ът localized около конкретен Silo/почистване zone ли е?
 1139. Има ли concentration праг, temporal delay или particulate/aerosol behavior?
 1140. Има ли environmental difference между зоните около Silo 17 и Silo 18?
-1141. **PARTIALLY NARROWED in S03E10:** Silo 1 briefing explicitly treats Juliette's good tape as key to her Silo18→Silo17→Silo18 оцеляване; точен poison/exposure маршрут remains НЕРЕШЕН.
+1141. **ЧАСТИЧНО СТЕСНЕНО in S03E10:** Silo 1 инструктажът изрично третира Juliette's добрата лента като ключ to her Silo18→Silo17→Silo18 оцеляване; точният път на отравяне/излагане remains НЕРЕШЕН.
 1142. Колко време реално изминава между Bernard's външна среда exposure и смъртта му?
 
 ## S03E09 — мини / elevator
@@ -1639,17 +1639,17 @@
 1148. Същият AI свързан ли е по някакъв начин с по-късния Voice система?
 1149. Какви sections са добавени/променени от сестрата на Daniel Keen и лекаря?
 1150. `500 years` точен оперативен horizon ли е, engineering maximum ли е или приблизителна социален-planning цел?
-1151. Има ли formal release/return-to-surface condition, свързано с 500-годишен хоризонт?
+1151. Има ли формално условие за освобождаване/връщане на повърхността, свързано с 500-годишен хоризонт?
 1152. Кои current Pact rules идват директно от AI draft-а и кои са human edits?
 
 ## S03E09 — opening / population assignment
 
 1153. По какъв algorithm/criteria хората са разпределени между отделните Silos?
-1154. Assignment-ът random ли е, profession-balanced ли е, family-based ли е или deliberate социален engineering?
-1155. Защо Daniel Keen е assigned към Silo 1?
-1156. Защо журналистката е assigned към Silo 18?
+1154. Разпределението случайно ли е, балансирано по професии ли е, основано на семейства ли е или умишлено социално инженерство?
+1155. Защо Daniel Keen е разпределен към Silo 1?
+1156. Защо журналистката е разпределен към Silo 18?
 1157. Каква е точната роля на лицево разпознаване при intake?
-1158. RF badges използвани ли са само за routing/достъп или и за real-time location tracking по време на opening-а?
+1158. RF значките използвани ли са само за маршрутизиране/достъп или и за проследяване на местоположението в реално време по време на откриването?
 1159. Какво се случва с opening-era identity/assignment database след затварянето на Silos?
 
 ## S03E09 — 50 срещу 51
@@ -1663,10 +1663,10 @@
 
 1164. Коя е Anna от `Sitting next to Anna. Where are you?`?
 1165. Кой точно не отговаря на opening-day messages и защо?
-1166. `sit still and be patient` ordinary family phrasing ли е или предварително уговорен signal?
+1166. `sit still and be patient` обикновена семейна фраза ли е или предварително уговорен сигнал?
 1167. Какво точно кара Daniel да реагира толкова силно на съобщение-а?
 1168. Кой причинява opening-day ядрена детонация?
-1169. Какъв е target-ът на детонацията?
+1169. Какъв е целта на детонацията?
 1170. ръководство очаква ли събитието предварително?
 1171. Opening date избрана ли е с knowledge за imminent catastrophe?
 1172. Детонацията единично събитие ли е или част от по-широка nuclear exchange?
@@ -1675,23 +1675,23 @@
 
 ## S03E10 — разрешени или съществено стеснени въпроси
 
-- Q1078/Q1079: aerial platform = Silo 1-controlled дрон; sensors/fleet/patrol details remain ОТВОРЕН.
+- Q1078/Q1079: въздушната платформа = Silo 1-controlled дрон; sensors/fleet/patrol детайлите остават ОТВОРЕН.
 - Q1131: Bernard's human-оператор theory е потвърден by Victor in Silo 1 централен контролно помещение.
 - Q1133/Q1135: Voice е управляван от човек supervisory интерфейс in Silo 1; точен AI/automation/backend integration remains ОТВОРЕН.
-- Q1137–Q1141: външна среда модел е materially narrowed by Silo 1 дрон poison/kinetic enforcement and Juliette good-tape briefing, but ambient hazard is not fully РЕШЕН.
-- Q1143: broad mechanized-transport ban remains; Silo 1 работещ асансьор creates an exception/asymmetry question rather than narrowing the rule.
-- Q1156: журналист identity е РЕШЕН as **Helen Drew**; reason for Silo 18 assignment remains ОТВОРЕН.
+- Q1137–Q1141: външна среда модел е materially narrowed by Silo 1 отровното/кинетично принудително действие с дронове and Juliette good-tape briefing, but фоновата опасност is not fully РЕШЕН.
+- Q1143: широката забрана за механизиран транспорт остава; Silo 1 работещ асансьор създава въпрос за изключение/асиметрия, вместо да стеснява правилото.
+- Q1156: журналист identity е РЕШЕН as **Helen Drew**; причината за разпределението към Silo 18 remains ОТВОРЕН.
 - Silo 18 Safeguard stoppage е потвърден practical pipe blockage, and Silo 1 detects the провал.
 - Pact/Directive distinction is директно потвърден.
-- Вторият трезор is now a пряк Silo 1 label for the lower Silo 18 structure.
-- Victor's роля на „Гласът“, later suicide and encrypted съобщение are директно потвърден; точен suicide motive remains ОТВОРЕН.
+- Вторият трезор вече е пряко обозначение на Silo 1 for the lower Silo 18 structure.
+- Victor's роля на „Гласът“, по-късното самоубийство and криптираното съобщение are директно потвърден; точният мотив за самоубийството remains ОТВОРЕН.
 
 ## S03E10 — Silo 1 непрекъснатост / memory
 
 1174. Кой определя кога Daniel, Director и други стаза personnel се събуждат?
 1175. Wake intervals event-driven ли са изцяло или има maximum/scheduled cadence?
 1176. Кои от епохата на основаването personnel са preserved в Silo 1?
-1177. Всички ли минават през еднакъв memory protocol?
+1177. Всички ли минават през еднакъв протокол за паметта?
 1178. Какво причинява Daniel's selective autobiographical пропуски в паметта?
 1179. потискане на паметта се прилага преди sleep, по време на стаза, при reanimation или отделно?
 1180. Director-ът запазва ли memories между cycles?
@@ -1701,11 +1701,11 @@
 
 ## S03E10 — Voice / контролно помещение / authority
 
-1184. Колко human Voice operators има?
+1184. Колко human Voice оператори има?
 1185. Victor permanent оператор на „Гласът“ ли е бил или duty/shift оператор?
 1186. Daniel сам изпълнява ли роля на „Гласът“ или използва distinct supervisory channel?
-1187. Има ли autonomous AI/decision-support слой зад human operators?
-1188. Каква е hierarchy между Silo 1 Director, Daniel, Voice operators и Directive?
+1187. Има ли autonomous AI/decision-support слой зад human оператори?
+1188. Каква е hierarchy между Silo 1 Director, Daniel, Voice оператори и Directive?
 1189. Кой може да authorize Safeguard, дрон poison release и kinetic fire?
 1190. Какви other functions се управляват от централен контролно помещение?
 1191. Voice conversations записват ли се системно и кой има право да ги review-ва?
@@ -1719,7 +1719,7 @@
 1196. Drones използвани ли са historically при prior failed cleanings?
 1197. почистване deaths active poison delivery ли са, localized environmental exposure ли са, или комбинация?
 1198. Къде точно Holston получава lethal dose?
-1199. Bernard's без костюм death caused ли е by Silo 1 enforcement, ambient hazard или друг механизъм?
+1199. Bernard's без костюм death caused ли е by Silo 1 enforcement, фоновата опасност или друг механизъм?
 1200. Good tape защитава от външна mixture exposure ли, от костюм leak/air loss ли, или и двете?
 1201. „Contamination“ физически/biological concept ли е, informational/социален concept ли е, или umbrella term?
 1202. Directive formal written doctrine ли е и кой я е authored?
@@ -1729,7 +1729,7 @@
 1203. Каква е точната функция на Вторият трезор?
 1204. Вторият трезор физически link към Silo 1 ли има?
 1205. Вторият трезор свързан ли е със safeguard мрежа?
-1206. Daniel ли е същият „друг глас“, който Lukas е чул по-рано, или channel-ът има multiple operators?
+1206. Daniel ли е същият „друг глас“, който Lukas е чул по-рано, или channel-ът има multiple оператори?
 1207. Защо Вторият трезор investigation е пряк Safeguard задействане?
 1208. Как Silo 1 monitors междусилозен communication?
 1209. Може ли Silo 18 practically да достигне Silo 1 без surface exposure?
@@ -1737,7 +1737,7 @@
 1211. Juliette възнамерява ли да спази deal-а temporally само докато подготовката приключи?
 1212. Какво знае Silo 17 за Silo 1 и Вторият трезор?
 1213. Каква точно deception е координирана между Victor и Camille?
-1214. Защо Victor е оставил encrypted съобщение и как е очаквал Daniel да го намери?
+1214. Защо Victor е оставил криптираното съобщение и как е очаквал Daniel да го намери?
 1215. Какво точно си спомня Daniel за Helen Drew след Victor's съобщение?
 
 ## Основен въпрос на проекта
