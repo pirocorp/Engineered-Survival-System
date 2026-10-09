@@ -1,45 +1,45 @@
-# S01E10 — Bernard privileged контрол and information compartmentalization
+# S01E10 — Привилегированият контрол на Bernard и разделянето на информацията
 
 **Граница на знанието:** `S01E10`
 
 ## Доказателство
 
-- Sensitive почистване imagery достига до видимите Silo monitors.
-- Bernard спира broadcast-а.
-- Bernard нарежда на контрол-room personnel да не гледа/запазва classified imagery.
-- Sims е включен в command контекст.
+- Чувствителните изображения от почистването достигат до видимите монитори в Силоза.
+- Bernard спира излъчването.
+- Bernard нарежда на персонала в контролното помещение да не гледа/запазва класифицираните изображения.
+- Sims е включен в командния контекст.
 - Bernard лично отвежда Juliette в средата за наблюдение/контрол.
-- Bernard селективно показва archived incident footage.
-- Juliette казва “never had a chance”; Bernard се съгласява.
-- Bernard вече разбира шлем deception и разпознава момента, в който Juliette го разбира.
+- Bernard избирателно показва архивирани кадри от инцидент.
+- Juliette казва `never had a chance`; Bernard се съгласява.
+- Bernard вече разбира измамата в шлема и разпознава момента, в който Juliette я разбира.
 
-## Interpretation
+## Интерпретация
 
-Това е по-силно от statement-а в S01E08, че Judge Meadows се страхува от Bernard.
+Това е по-силно от твърдението в S01E08, че Judge Meadows се страхува от Bernard.
 
-S01E10 демонстрира оперативен facts:
+S01E10 демонстрира оперативни факти:
 
 ```text
 Bernard
-  ├─ prior classified knowledge
-  ├─ surveillance/archive access
-  ├─ sensitive display intervention
-  └─ пряко command / compartmentalization на personnel + Sims
+  ├─ предварително класифицирано знание
+  ├─ достъп до наблюдение/архив
+  ├─ намеса в чувствително излъчване
+  └─ пряко командване / разделяне на информацията спрямо персонала + Sims
 ```
 
 ### H8
-Остава **VH / потвърден / Refactored**: Sims има day-to-day наблюдение command, но Bernard има по-privileged достъп слой.
+Остава **VH / Потвърдена / Преформулирана**: Sims има ежедневно оперативно командване над наблюдението, но Bernard има по-привилегирован слой на достъп.
 
 ### H26
-**VH / Strongly Strengthened / Refactored**: Sims е powerful, но не е fully autonomous/read-in.
+**VH / Силно подсилена / Преформулирана**: Sims е влиятелен, но не е напълно автономен/посветен.
 
 ### H33
-**H / Strongly Strengthened / Refactored**: Bernard заема скрит privileged контрол слой.
+**H / Силно подсилена / Преформулирана**: Bernard заема скрит привилегирован контролен слой.
 
-## Boundary
+## Граница
 
 Все още не е доказано:
-- че Bernard е ultimate authority;
-- че Bernard formally outranks всяка институция;
-- че всички контрол-room staff преди това са били ignorant за every почистване secret;
-- че Judge/Sims/Bernard hierarchy е identical във всички domains.
+- че Bernard е крайната власт;
+- че Bernard формално стои над всяка институция;
+- че целият персонал в контролното помещение дотогава е бил невеж за всяка тайна около почистването;
+- че йерархията Judge/Sims/Bernard е еднаква във всички домейни.
