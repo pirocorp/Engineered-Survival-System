@@ -1580,21 +1580,21 @@ E388–E399 и E403–E417 включват значимо доказателс�
 
 Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
-- [Bernard key 18 / Server Room access](../assets/S02E03/screenshots/bernard-key18-server-room-access.jpeg)
-- [Server Room / IT vault](../assets/S02E03/screenshots/server-room-it-vault.jpeg)
-- [CODE SILO ORANGE / A.R. medical record](../assets/S02E03/screenshots/silo-orange-birth-control-protocol.jpeg)
-- [S02E03 visual evidence manifest](../assets/S02E03/MANIFEST.md)
+- [Ключ 18 на Bernard / достъп до Server Room](../assets/S02E03/screenshots/bernard-key18-server-room-access.jpeg)
+- [Server Room / IT трезор](../assets/S02E03/screenshots/server-room-it-vault.jpeg)
+- [CODE SILO ORANGE / медицински запис A.R.](../assets/S02E03/screenshots/silo-orange-birth-control-protocol.jpeg)
+- [Манифест на визуалните доказателства за S02E03](../assets/S02E03/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 ## Визуални източници — S02E04
 
 Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
-- [Level 119 marker](../assets/S02E04/screenshots/level-119-marker.jpeg)
+- [Маркер за Level 119](../assets/S02E04/screenshots/level-119-marker.jpeg)
 - [Bernard / Monteverde 2018 имерсивен шлем](../assets/S02E04/screenshots/bernard-vr-monteverde-2018.jpeg)
-- [Mechanical representatives at Meadows framing scene](../assets/S02E04/screenshots/mechanical-arrives-meadows-framing-scene.jpeg)
-- [Population movement in Silo stairwell](../assets/S02E04/screenshots/silo-stairwell-population-movement.jpeg)
-- [S02E04 visual evidence manifest](../assets/S02E04/MANIFEST.md)
+- [Представители на Mechanical при сцената с набеждаването за Meadows](../assets/S02E04/screenshots/mechanical-arrives-meadows-framing-scene.jpeg)
+- [Движение на населението по стълбището на Silo](../assets/S02E04/screenshots/silo-stairwell-population-movement.jpeg)
+- [Манифест на визуалните доказателства за S02E04](../assets/S02E04/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
@@ -1602,10 +1602,10 @@ E388–E399 и E403–E417 включват значимо доказателс�
 
 Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
-- [Level 26 marker — repeated](../assets/S02E05/screenshots/level-26-marker-repeat.jpeg)
-- [Multilevel green/common area](../assets/S02E05/screenshots/multilevel-green-common-area.jpeg)
-- [Silo schematic with IT/Judicial lines](../assets/S02E05/screenshots/monitor-silo-map-it-judicial-lines.jpeg)
-- [S02E05 visual evidence manifest](../assets/S02E05/MANIFEST.md)
+- [Маркер за Level 26 — повторно](../assets/S02E05/screenshots/level-26-marker-repeat.jpeg)
+- [Многоетажна зелена/обща зона](../assets/S02E05/screenshots/multilevel-green-common-area.jpeg)
+- [Схема на Silo с линии към IT/Judicial](../assets/S02E05/screenshots/monitor-silo-map-it-judicial-lines.jpeg)
+- [Манифест на визуалните доказателства за S02E05](../assets/S02E05/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
@@ -1613,12 +1613,12 @@ E388–E399 и E403–E417 включват значимо доказателс�
 
 Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
-- [Sheriff пряко-messaging UI](../assets/S02E06/screenshots/sheriff-direct-messaging-ui.jpeg)
-- [Sheriff пряко-messaging conversation](../assets/S02E06/screenshots/sheriff-direct-messaging-conversation.jpeg)
-- [Level 55 marker](../assets/S02E06/screenshots/level-55-marker.jpeg)
-- [Control-room field informant report](../assets/S02E06/screenshots/control-room-field-informant-report.jpeg)
-- [Level 120 marker](../assets/S02E06/screenshots/level-120-marker.jpeg)
-- [S02E06 visual evidence manifest](../assets/S02E06/MANIFEST.md)
+- [Интерфейс за директни съобщения в Sheriff](../assets/S02E06/screenshots/sheriff-direct-messaging-ui.jpeg)
+- [Разговор чрез директни съобщения в Sheriff](../assets/S02E06/screenshots/sheriff-direct-messaging-conversation.jpeg)
+- [Маркер за Level 55](../assets/S02E06/screenshots/level-55-marker.jpeg)
+- [Теренен доклад от информатор в контролното помещение](../assets/S02E06/screenshots/control-room-field-informant-report.jpeg)
+- [Маркер за Level 120](../assets/S02E06/screenshots/level-120-marker.jpeg)
+- [Манифест на визуалните доказателства за S02E06](../assets/S02E06/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
@@ -1626,11 +1626,11 @@ E388–E399 и E403–E417 включват значимо доказателс�
 
 Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
-- [Vault residential compartments](../assets/S02E07/screenshots/vault-residential-compartments.jpeg)
-- [Legacy library](../assets/S02E07/screenshots/legacy-library.jpeg)
-- [Anti-IT / Mechanical truth leaflet](../assets/S02E07/screenshots/anti-it-mechanical-truth-leaflet.jpeg)
-- [Silo 18 blackout — IT remains powered](../assets/S02E07/screenshots/silo18-blackout-it-remains-powered.jpeg)
-- [S02E07 visual evidence manifest](../assets/S02E07/MANIFEST.md)
+- [Жилищни помещения в трезора](../assets/S02E07/screenshots/vault-residential-compartments.jpeg)
+- [Библиотека Legacy](../assets/S02E07/screenshots/legacy-library.jpeg)
+- [Анти-IT / листовка на Mechanical за истината](../assets/S02E07/screenshots/anti-it-mechanical-truth-leaflet.jpeg)
+- [Прекъсване на тока в Silo 18 — IT остава захранено](../assets/S02E07/screenshots/silo18-blackout-it-remains-powered.jpeg)
+- [Манифест на визуалните доказателства за S02E07](../assets/S02E07/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
@@ -1640,22 +1640,22 @@ E323–E324 са диалогово/хронологично доказател�
 
 Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
-- [Judge Sims / R. Ahundsen message](../assets/S02E08/screenshots/judge-sims-r-ahundsen-apple-tree-message.jpeg)
-- [Indoor orchard / apple-tree context](../assets/S02E08/screenshots/indoor-orchard-apple-tree-context.jpeg)
+- [Judge Sims / съобщение от R. Ahundsen](../assets/S02E08/screenshots/judge-sims-r-ahundsen-apple-tree-message.jpeg)
+- [Вътрешна овощна градина / контекст с ябълково дърво](../assets/S02E08/screenshots/indoor-orchard-apple-tree-context.jpeg)
 - [Salvador Quinn — The Pact Between the Founders](../assets/S02E08/screenshots/salvador-quinn-founders-pact-copy.jpeg)
-- [Quinn decoded message — game is rigged](../assets/S02E08/screenshots/quinn-decoded-message-game-is-rigged.jpeg)
-- [S02E08 visual evidence manifest](../assets/S02E08/MANIFEST.md)
+- [Декодирано съобщение на Quinn — game is rigged](../assets/S02E08/screenshots/quinn-decoded-message-game-is-rigged.jpeg)
+- [Манифест на визуалните доказателства за S02E08](../assets/S02E08/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
-E330–E341 и E348–E350 са предимно диалог/privileged-history доказателство. E356 директно потвърждава допълнителни оцелели от Silo 17, но в текущия визуален пакет няма отделен screenshot на това финално разкритие.
+E330–E341 и E348–E350 са предимно диалогово доказателство / привилегирована история. E356 директно потвърждава допълнителни оцелели от Silo 17, но в текущия визуален пакет няма отделна екранна снимка на това финално разкритие.
 
-## Фокусирани доказателство бележки
+## Фокусирани бележки за доказателствата
 
 - [S01E01 — Противоречие във визуалните представяния на външния свят](evidence/S01E01-exterior-visual-contradiction.md)
-- [S01E02 — Holston exterior visual split](evidence/S01E02-holston-visual-split.md)
-- [S01E02 — Hidden construction layer under the Silo](evidence/S01E02-sub-silo-construction-layer.md)
-- [S01E03 — Public display power-down flash](evidence/S01E03-public-display-powerdown-flash.md)
+- [S01E02 — Визуалното разделение при Holston във външната среда](evidence/S01E02-holston-visual-split.md)
+- [S01E02 — Скрит строителен слой под Silo](evidence/S01E02-sub-silo-construction-layer.md)
+- [S01E03 — Проблясък при изключване на публичния екран](evidence/S01E03-public-display-powerdown-flash.md)
 - [S01E04 — наследяване на Sheriff и институционален контрол](evidence/S01E04-sheriff-succession-and-control.md)
 - [S01E05 — наблюдение, Trumbull и официалното прикриване](evidence/S01E05-surveillance-trumbull-coverup.md)
 - [S01E05 — Celestial observation](evidence/S01E05-celestial-observation.md)
