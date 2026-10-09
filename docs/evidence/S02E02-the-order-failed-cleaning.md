@@ -33,7 +33,7 @@ Judge Meadows също знае за `THE ORDER`, следователно до�
 **Status:** Active / Strengthened
 
 Възможните обяснения как авторите са знаели този pattern включват:
-- empirical knowledge от previous Silo failures;
+- емпирично знание от предишни провали на Silos;
 - целенасочено моделиране на поведение/система;
 - both.
 
