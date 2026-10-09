@@ -1,43 +1,43 @@
-# S03E01 — от периода преди силозите Washington: Daniel Keen, Iran operation и anomalous disruption
+# S03E01 — Периодът преди силозите във Washington: Daniel Keen, операцията срещу Iran и аномалното нарушение
 
 **Граница на знанието:** `S03E01`
 
-S03E01 продължава пряк от периода преди силозите Washington timeline от S02E10.
+S03E01 продължава директната хронология във Washington от периода преди силозите, започната в S02E10.
 
 ## Daniel Keen
 
-Congressman-ът от Georgia's 15th congressional district вече е named **Daniel Keen**.
+Конгресменът от 15-и конгресен район на Georgia вече е назован **Daniel Keen**.
 
-## Retaliatory operation
+## Ответна операция
 
-- Keen има sister, която участва в operation срещу Iran.
-- Operation-ът е framed като retaliation за alleged dirty-bomb/radiological attack attributed to Iran.
-- Това не resolve-ва S02E10 doubt дали original attack е real или accurately attributed.
+- Keen има сестра, която участва в операция срещу Iran.
+- Операцията е представена като ответен удар за предполагаема „мръсна бомба“/радиологична атака, приписана на Iran.
+- Това не разрешава съмнението от S02E10 дали първоначалната атака е реална или правилно приписана.
 
-## Anomalous disruption
+## Аномално нарушение
 
-Observed sequence:
+Наблюдаваната последователност:
 
 ```text
-retaliatory mission
+ответна мисия
       ↓
 ~15 000 m
       ↓
-unusual cloud/region
+необичаен облак/регион
       ↓
-multiple aircraft affected
+засегнати са множество самолети
       +
-launched missiles affected
+засегнати са изстреляните ракети
       ↓
-common-mode disruption
+нарушение с общ режим
 ```
 
-Keen's sister survives.
+Сестрата на Keen оцелява.
 
-## Interpretation boundary
+## Граница на интерпретацията
 
-Common-mode модел strongly argues against one-aircraft mechanical провал, но не establishes EMP, electronic warfare, radiological/chemical effect, weather, Iranian weapon или any Silo-related технология.
+Моделът с общ режим силно говори срещу механична повреда само на един самолет, но не установява EMP, електронна война, радиологичен/химически ефект, атмосферно явление, иранско оръжие или технология, свързана със силозите.
 
-## Open significance
+## Отворено значение
 
-Този event може да стане origin-era systems clue само ако future on-screen доказателство го свърже с Silo project, външна среда catastrophe или broader strategic технология.
+Това събитие може да стане системна следа за епохата на произхода само ако бъдещо доказателство на екрана го свърже с проекта за силозите, катастрофата във външната среда или по-широка стратегическа технология.
