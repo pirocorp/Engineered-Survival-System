@@ -13,10 +13,10 @@
 - разпознава устойчив W/зигзагообразен модел;
 - води запис на движението/разстоянието спрямо референтна светлина през приблизително 30-дневни интервали.
 
-Visual evidence:
+Визуални доказателства:
 
-- [observer + night display](../../assets/S01E05/screenshots/cafeteria-night-sky-observer.jpeg)
-- [star-like night sky](../../assets/S01E05/screenshots/public-display-star-like-night-sky.jpeg)
+- [наблюдател + нощен екран](../../assets/S01E05/screenshots/cafeteria-night-sky-observer.jpeg)
+- [подобно на звездно нощно небе](../../assets/S01E05/screenshots/public-display-star-like-night-sky.jpeg)
 - [movement record](../../assets/S01E05/screenshots/monthly-celestial-movement-record.jpeg)
 
 ## What this establishes
