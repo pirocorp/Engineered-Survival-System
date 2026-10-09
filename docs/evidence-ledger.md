@@ -224,7 +224,7 @@
 | E210 | Bernard/IT получава видеопоток на живо, свързан с Juliette, докато тя е навън. | Пряко наблюдение | VH | Установява изходящ видеоканал на живо от външната среда, достъпен за Bernard/IT; точният източник камера/предавател е неизвестен. |
 | E211 | видеопоток на живо-ът, свързан с Juliette, продължава отвъд непосредствената повърхностна зона на нейния Silo и се губи, когато тя влиза във втория Silo. | Пряко наблюдение + непрекъснатостта на сцената | VH | Установява практическа граница на предаването в това събитие; не доказва умишлено блокиране или липса на inter-Silo комуникации. |
 | E212 | Bernard използва физически документ, озаглавен `THE ORDER`. | Пряко визуално доказателство | VH | Различен е от публичния Pact в контекста на сцената; авторството, правилата за достъп и формалната власт са неизвестни. |
-| E213 | `THE ORDER` съдържа ясно четимо заглавие `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR` („В случай на неуспешно почистване, подгответе се за война“). | пряк визуален / Институционално доказателство | VH | Директно установява неуспешно почистване като тежък сценарий, предвиден от скритата doctrine; по-дребният основен текст не се транскрибира прекомерно. |
+| E213 | `THE ORDER` съдържа ясно четимо заглавие `IN THE EVENT OF A FAILED CLEANING, PREPARE FOR WAR` („В случай на неуспешно почистване, подгответе се за война“). | пряк визуален / Институционално доказателство | VH | Директно установява неуспешно почистване като тежък сценарий, предвиден от скритата доктрина; по-дребният основен текст не се транскрибира прекомерно. |
 | E214 | Bernard получава достъп до тежка защитена врата на IT помещение, подобно на трезор в първоначалния Silo на Juliette. | Пряко визуално доказателство | VH | Установява ограничено IT помещение/слой в нейния Silo. |
 | E215 | Привилегированите материали за наблюдение/контрол, включително `THE ORDER` и класифицираното наблюдение на живо, са свързани чрез контекста на сцената със защитения IT слой в Silo на Juliette. | Извод от контекста на сцената | H | Силна връзка, но не всяка скрита функция е доказана като физически разположена зад вратата. |
 | E216 | Silo на Juliette и вторият Silo съдържат аналогични защитени IT помещения, подобни на трезор. | Повтарящо се наблюдение / междусилозен структурен извод | H | Подкрепя стандартизирана защитена IT архитектура; идентичното съдържание/функции остават непотвърдени. |
@@ -419,7 +419,7 @@
 | E402 | Саботажът на стълбището превръща вертикалната архитектура на Silo в отбранителна бариера. | Силен извод | H-VH | Тактическа последица, а не отделно твърдение за инфраструктурата. |
 | E403 | Достъпът до изхода/шлюз-а е в или непосредствено през зоната на Sheriff Department. | пряк наблюдение от сцената / доказателство от диалога | VH | Точната граница в планировката не е установена. |
 | E404 | Sheriff Department е на Level 1 и е непосредствено до кафетерията. | пряк пространствен доказателство | VH | Засилва модела за разположението в Up-top. |
-| E405 | Juliette се връща до Silo 18 и показва `not safe / do not come out` („не е безопасно / не излизайте“) към системата камера/екран. | Пряко визуално доказателство | VH | Изрично предупреждение от външната страна. |
+| E405 | Juliette се връща до Silo 18 и показва `не е безопасно / не излизайте` („не е безопасно / не излизайте“) към системата камера/екран. | Пряко визуално доказателство | VH | Изрично предупреждение от външната страна. |
 | E406 | Juliette умишлено предупреждава жителите на Silo 18 да не излизат, защото външната среда остава опасна. | пряко действие / комуникационно намерение | VH | Не доказва, че всеки жител го е видял. |
 | E407 | Външната камера може да служи като информационна повърхност отвън чрез физическо съобщение, показано на камерата. | Системен извод | H-VH | Пътят на излъчване/филтриране остава неизвестен. |
 | E408 | Външният вход/люкът на шлюз-а на Silo 18 се отваря отвътре, докато Juliette е там. | Пряко наблюдение | VH | Входът е активно отворен. |
@@ -967,7 +967,7 @@
 | E927 | Официално показаната топология е Silo 1 + 7 групи × 7 Silos = 50. | Архитектурна аритметика | VH | 1 + 49 = 50. |
 | E928 | Silo 1 е част от планираната система от 50 Silos, не автоматично допълнителен 51-ви. | модел корекция | VH | Опровергава простата теория 50 + Silo 1. |
 | E929 | Ако `51` на Bernard е точно, #51 е извън или различно от показаната официалната топология от 50 Silos. | Междуепохов извод | H-VH | Идентичността остава НЕРЕШЕНА. |
-| E930 | Схемата на Safeguard показва 7 основни линии за разпределение на отровата от Silo 1 към 7 groups. | пряко доказателство от схема | VH | Йерархичен първи етап. |
+| E930 | Схемата на Safeguard показва 7 основни линии за разпределение на отровата от Silo 1 към 7 групи. | пряко доказателство от схема | VH | Йерархичен първи етап. |
 | E931 | Във всяка група разпределението се разклонява към отделните Silos. | пряко доказателство от схема | VH | Йерархичен втори етап. |
 | E932 | Safeguard е мрежова архитектура за разпределение, а не модел на цялата система с една тръба. | заключение за дизайна на системата | H-VH | Основано на схемата. |
 | E933 | Блокирането на локално разклонение към Silo 18 не означава глобално изключване на safeguard. | оперативен извод | H | разграничение локално срещу глобално. |
@@ -1207,7 +1207,7 @@
 | E1241 | Victor назовава жената, която Daniel търси в паметта си, като **Helen Drew**. | пряко доказателство за самоличност | VH | Установяване на името. |
 | E1242 | Helen Drew е журналистката отпреди силозите. | Междусценово установяване на самоличност | VH | Текущото канонично име. |
 | E1243 | Daniel изглежда възстановява разпознаване/връзка в паметта след подсказката с Helen Drew. | Извод за паметта | H-VH | Пълното припомняне не е установено. |
-| E1244 | Моделът на паметта в Season 3: документираните ефекти от стазата и селективното лично потискане на паметта са аналитично разграничени. | модел уточнение | H-VH | точната намеса остава ОТВОРЕНА. |
+| E1244 | Моделът на паметта в Сезон 3: документираните ефекти от стазата и селективното лично потискане на паметта са аналитично разграничени. | модел уточнение | H-VH | точната намеса остава ОТВОРЕНА. |
 
 ## Визуални източници — S03E10
 
@@ -1373,7 +1373,7 @@ Primary:
 Валидирани ръчно качени ресурси; Git blob SHA стойностите са проверени срещу локално подготвения визуален пакет:
 
 - [Конфронтация на Level 123](../assets/S02E10/screenshots/level-123-confrontation.jpeg)
-- [Предупреждението на Juliette — not safe / do not come out](../assets/S02E10/screenshots/juliette-warning-not-safe.jpeg)
+- [Предупреждението на Juliette — не е безопасно / не излизайте](../assets/S02E10/screenshots/juliette-warning-not-safe.jpeg)
 - [Bernard при шлюза със защитен костюм](../assets/S02E10/screenshots/bernard-airlock-protective-suit.jpeg)
 - [Juliette / Bernard в коридора на шлюза](../assets/S02E10/screenshots/juliette-bernard-airlock-corridor.jpeg)
 - [Радиационна проверка преди силозите](../assets/S02E10/screenshots/presilo-radiation-screening.jpeg)
@@ -1634,7 +1634,7 @@ E388–E399 и E403–E417 включват значимо доказателс�
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
-E323–E324 са диалог/chronology доказателство; текущият screenshot batch не съдържа кадър с изричното `352 years` изказване.
+E323–E324 са диалогово/хронологично доказателство; текущият пакет екранни снимки не съдържа кадър с изричното `352 years` изказване.
 
 ## Визуални източници — S02E08
 
@@ -1656,50 +1656,50 @@ E330–E341 и E348–E350 са предимно диалог/privileged-history
 - [S01E02 — Holston exterior visual split](evidence/S01E02-holston-visual-split.md)
 - [S01E02 — Hidden construction layer under the Silo](evidence/S01E02-sub-silo-construction-layer.md)
 - [S01E03 — Public display power-down flash](evidence/S01E03-public-display-powerdown-flash.md)
-- [S01E04 — Sheriff succession и institutional control](evidence/S01E04-sheriff-succession-and-control.md)
-- [S01E05 — Surveillance, Trumbull и official cover-up](evidence/S01E05-surveillance-trumbull-coverup.md)
+- [S01E04 — наследяване на Sheriff и институционален контрол](evidence/S01E04-sheriff-succession-and-control.md)
+- [S01E05 — наблюдение, Trumbull и официалното прикриване](evidence/S01E05-surveillance-trumbull-coverup.md)
 - [S01E05 — Celestial observation](evidence/S01E05-celestial-observation.md)
 - [S01E05 — Pact capability restrictions](evidence/S01E05-pact-capability-restrictions.md)
 - [S01E06 — Centralized internal surveillance](evidence/S01E06-centralized-surveillance.md)
-- [S01E06 — PEZ, relic database и preserved pre-Silo knowledge](evidence/S01E06-relic-database-pre-silo.md)
+- [S01E06 — PEZ, база данни за реликви и съхранено знание отпреди Silo](evidence/S01E06-relic-database-pre-silo.md)
 - [S01E06 — Georgia pre-Silo geography relic](evidence/S01E06-georgia-relic.md)
-- [S01E07 — Sims command, mirror cameras и concealed surveillance architecture](evidence/S01E07-surveillance-command-and-mirrors.md)
-- [S01E07 — Flamekeepers, memory suppression и relic preservation](evidence/S01E07-flamekeepers-memory-erasure.md)
-- [S01E07 — Reproductive control, doctor confession и lineage suppression](evidence/S01E07-reproductive-control.md)
-- [S01E07 — Juliette, George и intergenerational Flamekeeper network](evidence/S01E07-flamekeeper-family-network.md)
-- [S01E08 — Illicit microscopy, restricted record и mirror-surveillance realization](evidence/S01E08-illicit-microscopy-and-mirror-surveillance.md)
+- [S01E07 — командването на Sims, камерите зад огледала и скритата архитектура за наблюдение](evidence/S01E07-surveillance-command-and-mirrors.md)
+- [S01E07 — Flamekeepers, потискане на паметта и съхранение на реликви](evidence/S01E07-flamekeepers-memory-erasure.md)
+- [S01E07 — репродуктивен контрол, признание на лекаря и потискане на родословни линии](evidence/S01E07-reproductive-control.md)
+- [S01E07 — Juliette, George и междупоколенческата мрежа Flamekeeper](evidence/S01E07-flamekeeper-family-network.md)
+- [S01E08 — забранена микроскопия, ограничен запис и осъзнаване на наблюдението през огледалата](evidence/S01E08-illicit-microscopy-and-mirror-surveillance.md)
 - [S01E08 — Fabricated/disputed cleaning trigger и arrest](evidence/S01E08-fabricated-cleaning-trigger.md)
 - [S01E08 — Bernard/IT claim за Judge Meadows](evidence/S01E08-bernard-judge-power.md)
 - [S01E09 — Level 23 bridge landing / escape outcome](evidence/S01E09-level23-escape.md)
 - [S01E09 — Numbered object/device `18`](evidence/S01E09-number18-device.md)
 - [S01E09 — Juliette opens `JANE CARMODY CLEANING`](evidence/S01E09-jane-carmody-cleaning.md)
 - [S01E10 — Helmet deception, tape variation и човекът при почистване survival](evidence/S01E10-cleaning-helmet-tape.md)
-- [S01E10 — Bernard privileged control и information compartmentalization](evidence/S01E10-bernard-compartmentalization.md)
-- [S01E10 — Barren reality, multi-Silo landscape и distant skyline](evidence/S01E10-multiple-silos-exterior.md)
+- [S01E10 — привилегирован контрол на Bernard и разделяне на достъпа до информация](evidence/S01E10-bernard-compartmentalization.md)
+- [S01E10 — пуста реалност, пейзаж с множество Silos и далечен градски силует](evidence/S01E10-multiple-silos-exterior.md)
 - [S01E10 — Physical key `18`](evidence/S01E10-key18.md)
 - [S01E10 — Syndrome sign, Level 144 и Janitorial ROTA](evidence/S01E10-syndrome-level144-rota.md)
 - [S02E01 — Second-Silo rebellion, IT assault and масово излизане](evidence/S02E01-other-silo-rebellion.md)
 - [S02E01 — Outside hazard, suit seal and breathing support](evidence/S02E01-outside-hazard-suit-breathing.md)
 - [S02E01 — Cross-Silo surveillance and IT standardization](evidence/S02E01-cross-silo-surveillance-it.md)
-- [S02E01 — Second-Silo collapse state: power, наводняване and оцелял](evidence/S02E01-power-flooding-survivor.md)
+- [S02E01 — състояние след колапса на втория Silo: захранване, наводняване и оцелял](evidence/S02E01-power-flooding-survivor.md)
 - [S02E02 — THE ORDER and failed-cleaning contingency](evidence/S02E02-the-order-failed-cleaning.md)
-- [S02E02 — Live човекът при почистване exterior feed](evidence/S02E02-live-cleaner-feed.md)
+- [S02E02 — външен видеопоток на живо от човека при почистване](evidence/S02E02-live-cleaner-feed.md)
 - [S02E02 — Cleaning tape, seal and finite protection](evidence/S02E02-cleaning-tape-mechanism.md)
 - [S02E02 — IT vault architecture and privileged governance layer](evidence/S02E02-it-vault-governance.md)
 - [S02E03 — Silo 17 failed cleaning and rebellion cascade](evidence/S02E03-silo17-failed-cleaning-rebellion.md)
-- [S02E03 — Outside hazard vs смърт на човека при почистване timing](evidence/S02E03-outside-hazard-cleaner-death.md)
+- [S02E03 — опасност навън срещу времето до смърт на човека при почистване](evidence/S02E03-outside-hazard-cleaner-death.md)
 - [S02E03 — Targeted pharmacological memory suppression](evidence/S02E03-memory-suppression.md)
 - [S02E03 — Key 18, Server Room and IT vault](evidence/S02E03-key18-server-room-vault.md)
-- [S02E03 — CODE SILO ORANGE and chronology корекция](evidence/S02E03-silo-orange-chronology.md)
+- [S02E03 — CODE SILO ORANGE и корекция на хронологията](evidence/S02E03-silo-orange-chronology.md)
 - [S02E03 — Cleaner perception, Jane pattern and lost vocabulary](evidence/S02E03-cleaner-perception-pattern.md)
 - [S02E04 — Mechanical scapegoating doctrine](evidence/S02E04-mechanical-scapegoating.md)
 - [S02E04 — Mines and penal labor system](evidence/S02E04-mines-penal-labor.md)
 - [S02E04 — Salvador Quinn, Meadows and hidden Rebellion-era record](evidence/S02E04-salvador-quinn-meadows.md)
 - [S02E04 — Immersive headset and човекът при почистване-helmet technology](evidence/S02E04-vr-cleaner-technology.md)
 - [S02E04 — Meadows murder, Mechanical framing and Sims pressure](evidence/S02E04-meadows-framing-sims.md)
-- [S02E04 — Silo 17 оцелял as child in protected vault](evidence/S02E04-silo17-child-vault.md)
+- [S02E04 — оцелелият от Silo 17 като дете в защитения трезор](evidence/S02E04-silo17-child-vault.md)
 - [S02E05 — Sims, Judge office and Bernard's shadow succession](evidence/S02E05-sims-judge-shadow.md)
-- [S02E05 — Silo 17 independent IT power, наводняване and pump recovery](evidence/S02E05-silo17-power-flooding-recovery.md)
+- [S02E05 — независимо IT захранване в Silo 17, наводняване и възстановяване на помпата](evidence/S02E05-silo17-power-flooding-recovery.md)
 - [S02E05 — Silo schematic and hidden IT/Judicial infrastructure](evidence/S02E05-it-judicial-infrastructure-map.md)
 - [S02E05 — Salvador Quinn scanned handwritten letter](evidence/S02E05-salvador-quinn-letter.md)
 - [S02E06 — Institutional digital messaging and communication tiers](evidence/S02E06-institutional-messaging.md)
@@ -1715,16 +1715,16 @@ E330–E341 и E348–E350 са предимно диалог/privileged-history
 - [S02E08 — Quinn decoded message: game is rigged](evidence/S02E08-quinn-decoded-message.md)
 - [S02E08 — R. Ahundsen message to Judge Sims and orchard context](evidence/S02E08-sims-ahundsen-message.md)
 - [S02E08 — Multiple living inhabitants in Silo 17](evidence/S02E08-silo17-multiple-survivors.md)
-- [S02E09 — Quinn: 50 Silos, `the safeguard` и tunnel instruction](evidence/S02E09-quinn-safeguard-tunnel.md)
-- [S02E09 — Hidden lower contact: Lukas, Quinn, Meadows и George](evidence/S02E09-hidden-lower-contact.md)
-- [S02E09 — Silo 17 vault съхранение на знание environment](evidence/S02E09-silo17-vault-knowledge.md)
+- [S02E09 — Quinn: 50 Silos, `the safeguard` и указанието за тунела](evidence/S02E09-quinn-safeguard-tunnel.md)
+- [S02E09 — скрит контакт в долната структура: Lukas, Quinn, Meadows и George](evidence/S02E09-hidden-lower-contact.md)
+- [S02E09 — среда за съхранение на знание в трезора на Silo 17](evidence/S02E09-silo17-vault-knowledge.md)
 - [S02E09 — Organized Silo 17 група оцелели](evidence/S02E09-silo17-survivor-group.md)
 - [S02E09 — Coercive wife/camera digital message](evidence/S02E09-coercive-message.md)
 - [S02E10 — `the safeguard`: тръбата с отрова, Level 14 и Silo 17 block](evidence/S02E10-safeguard-poison-system.md)
-- [S02E10 — Silo 18 rebellion, Juliette return и шлюз sequence](evidence/S02E10-silo18-rebellion-return-airlock.md)
+- [S02E10 — бунтът в Silo 18, завръщането на Juliette и последователността при шлюза](evidence/S02E10-silo18-rebellion-return-airlock.md)
 - [S02E10 — pre-Silo Washington: radiation, Georgia, Iran и PEZ](evidence/S02E10-presilo-washington-georgia-iran-pez.md)
 
 - [S03E01 — контрол на паметта на Juliette, последствията около Bernard и управление](evidence/S03E01-memory-governance.md)
-- [S03E01 — supervisory computer/system, The Order и hidden-lower link](evidence/S03E01-supervisory-system.md)
+- [S03E01 — надзорната computer/система, The Order и връзката със скритата долна структура](evidence/S03E01-supervisory-system.md)
 - [S03E01 — pre-Silo Washington / Daniel Keen / Iran anomaly](evidence/S03E01-washington-iran-anomaly.md)
-- [S03E01 — covert note / Level 2 marketplace протокол](evidence/S03E01-covert-note.md)
+- [S03E01 — тайна бележка / протокол за marketplace на Level 2](evidence/S03E01-covert-note.md)
