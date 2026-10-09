@@ -1418,82 +1418,82 @@ E388–E399 и E403–E417 включват значимо доказателс�
 ## Визуални източници — S01E02
 
 - [Пищната гледка на Holston при почистването](../assets/S01E02/screenshots/holston-cleaner-lush-view.jpg)
-- [Holston public barren feed](../assets/S01E02/screenshots/holston-public-barren-feed.jpg)
-- [Allison body on публичен видеопоток](../assets/S01E02/screenshots/holston-public-feed-allison-body.jpg)
-- [Holston distress / helmet removal](../assets/S01E02/screenshots/holston-distress-removing-helmet.jpg)
-- [Holston beside Allison](../assets/S01E02/screenshots/holston-dead-beside-allison.jpg)
-- [Communal публичен екран](../assets/S01E02/screenshots/communal-public-barren-display.jpg)
-- [Judicial / Sims presence](../assets/S01E02/screenshots/judicial-sims-enforcement-presence.jpg)
-- [Mayor journals — Year 97](../assets/S01E02/screenshots/mayor-journals-year-97.jpg)
-- [140 years post-Rebellion](../assets/S01E02/screenshots/mayor-140-years-post-rebellion-peace.jpg)
-- [144 levels](../assets/S01E02/screenshots/silo-144-levels.jpg)
-- [Pact forbidden area](../assets/S01E02/screenshots/pact-forbidden-area-warning.jpg)
-- [Hidden opening](../assets/S01E02/screenshots/forbidden-area-hidden-opening.jpg)
-- [Pre-Rebellion tunnel testimony](../assets/S01E02/screenshots/juliette-pre-rebellion-tunnel-testimony.jpg)
-- [Excavation machine](../assets/S01E02/screenshots/excavation-machine-wide.jpg)
-- [Structural cap](../assets/S01E02/screenshots/sealed-cap-over-excavation-machine.jpg)
-- [Flooded bottom](../assets/S01E02/screenshots/flooded-bottom-wide.jpg)
-- [George hidden workspace](../assets/S01E02/screenshots/george-hidden-workspace-below-silo.jpg)
-- [George video camera relic](../assets/S01E02/screenshots/george-relic-video-camera.jpg)
-- [George cache / HDD18](../assets/S01E02/screenshots/george-hidden-cache-hdd18.jpg)
-- [Allison handwriting](../assets/S01E02/screenshots/allison-handwriting-on-recovery-document.jpg)
+- [Публичният видеопоток с пустата среда при Holston](../assets/S01E02/screenshots/holston-public-barren-feed.jpg)
+- [Тялото на Allison в публичния видеопоток](../assets/S01E02/screenshots/holston-public-feed-allison-body.jpg)
+- [Holston в дистрес / сваляне на шлема](../assets/S01E02/screenshots/holston-distress-removing-helmet.jpg)
+- [Holston до Allison](../assets/S01E02/screenshots/holston-dead-beside-allison.jpg)
+- [Общият публичен екран](../assets/S01E02/screenshots/communal-public-barren-display.jpg)
+- [Judicial / присъствие на Sims](../assets/S01E02/screenshots/judicial-sims-enforcement-presence.jpg)
+- [Дневници на Mayor — Year 97](../assets/S01E02/screenshots/mayor-journals-year-97.jpg)
+- [140 години след Rebellion](../assets/S01E02/screenshots/mayor-140-years-post-rebellion-peace.jpg)
+- [144 нива](../assets/S01E02/screenshots/silo-144-levels.jpg)
+- [Забранена от Pact зона](../assets/S01E02/screenshots/pact-forbidden-area-warning.jpg)
+- [Скрит отвор](../assets/S01E02/screenshots/forbidden-area-hidden-opening.jpg)
+- [Свидетелство за тунела отпреди Rebellion](../assets/S01E02/screenshots/juliette-pre-rebellion-tunnel-testimony.jpg)
+- [Изкопна машина](../assets/S01E02/screenshots/excavation-machine-wide.jpg)
+- [Конструктивен капак](../assets/S01E02/screenshots/sealed-cap-over-excavation-machine.jpg)
+- [Наводнено дъно](../assets/S01E02/screenshots/flooded-bottom-wide.jpg)
+- [Скритото работно място на George](../assets/S01E02/screenshots/george-hidden-workspace-below-silo.jpg)
+- [Реликва — видеокамерата на George](../assets/S01E02/screenshots/george-relic-video-camera.jpg)
+- [Скривалището на George / HDD18](../assets/S01E02/screenshots/george-hidden-cache-hdd18.jpg)
+- [Почеркът на Allison](../assets/S01E02/screenshots/allison-handwriting-on-recovery-document.jpg)
 
 ## Визуални източници — S01E03
 
-- [Level 9 marker](../assets/S01E03/screenshots/level-9-marker.jpeg)
-- [Level 9 upward view](../assets/S01E03/screenshots/level-9-upward-view-to-silo-top.jpeg)
-- [Level 12 landing](../assets/S01E03/screenshots/level-12-landing-and-stair-layout.jpeg)
-- [Judicial entrance](../assets/S01E03/screenshots/judicial-entrance.jpeg)
-- [Adjacent Level 14 marker](../assets/S01E03/screenshots/judicial-adjacent-level-14-marker.jpeg)
+- [Маркер за Level 9](../assets/S01E03/screenshots/level-9-marker.jpeg)
+- [Изглед нагоре от Level 9](../assets/S01E03/screenshots/level-9-upward-view-to-silo-top.jpeg)
+- [Площадка на Level 12](../assets/S01E03/screenshots/level-12-landing-and-stair-layout.jpeg)
+- [Входът на Judicial](../assets/S01E03/screenshots/judicial-entrance.jpeg)
+- [Съседен маркер за Level 14](../assets/S01E03/screenshots/judicial-adjacent-level-14-marker.jpeg)
 - [Level 50 / Mids](../assets/S01E03/screenshots/level-50-mids.jpeg)
-- [Level 50 neonatal clinic](../assets/S01E03/screenshots/level-50-neonatal-clinic.jpeg)
-- [Indoor garden restaurant](../assets/S01E03/screenshots/indoor-garden-restaurant.jpeg)
-- [Mayor 8-hour outage order](../assets/S01E03/screenshots/mayor-orders-eight-hour-power-outage.jpeg)
-- [Unknown steam source](../assets/S01E03/screenshots/generator-steam-source-unknown-from-below.jpeg)
-- [Public display lush flash](../assets/S01E03/screenshots/public-display-lush-flash-during-powerdown.jpeg)
-- [Dark Silo during outage](../assets/S01E03/screenshots/power-outage-dark-silo.jpeg)
-- [Generator scale](../assets/S01E03/screenshots/silo-generator-scale-and-steam.jpeg)
-- [Generator internal assembly](../assets/S01E03/screenshots/generator-open-internal-assembly.jpeg)
+- [Неонатална клиника на Level 50](../assets/S01E03/screenshots/level-50-neonatal-clinic.jpeg)
+- [Ресторант с вътрешна градина](../assets/S01E03/screenshots/indoor-garden-restaurant.jpeg)
+- [Заповед на Mayor за 8-часово прекъсване на тока](../assets/S01E03/screenshots/mayor-orders-eight-hour-power-outage.jpeg)
+- [Неизвестен източник на пара](../assets/S01E03/screenshots/generator-steam-source-unknown-from-below.jpeg)
+- [Пищен проблясък на публичния екран](../assets/S01E03/screenshots/public-display-lush-flash-during-powerdown.jpeg)
+- [Тъмен Silo по време на прекъсването](../assets/S01E03/screenshots/power-outage-dark-silo.jpeg)
+- [Мащаб на генератора](../assets/S01E03/screenshots/silo-generator-scale-and-steam.jpeg)
+- [Вътрешна конструкция на генератора](../assets/S01E03/screenshots/generator-open-internal-assembly.jpeg)
 
 ## Визуални източници — S01E04
 
-- [Public display night exterior state](../assets/S01E04/screenshots/public-display-night-exterior-state.jpeg)
-- [Up-top Sheriff / шлюз corridor](../assets/S01E04/screenshots/up-top-sheriff-airlock-corridor.jpeg)
-- [Recycling / redistribution notice](../assets/S01E04/screenshots/new-occupant-recycling-redistribution-notice.jpeg)
-- [S01E04 visual evidence manifest](../assets/S01E04/MANIFEST.md)
+- [Нощно състояние на външната среда на публичния екран](../assets/S01E04/screenshots/public-display-night-exterior-state.jpeg)
+- [Up-top Sheriff / коридор на шлюза](../assets/S01E04/screenshots/up-top-sheriff-airlock-corridor.jpeg)
+- [Съобщение за рециклиране / преразпределение](../assets/S01E04/screenshots/new-occupant-recycling-redistribution-notice.jpeg)
+- [Манифест на визуалните доказателства за S01E04](../assets/S01E04/MANIFEST.md)
 
 ## Визуални източници — S01E05
 
 - [Level 8 marker](../assets/S01E05/screenshots/level-8-marker.jpeg)
 - [Level 27 marker](../assets/S01E05/screenshots/level-27-marker.jpeg)
 - [Level 29 marker](../assets/S01E05/screenshots/level-29-marker.jpeg)
-- [Cafeteria night-sky observer](../assets/S01E05/screenshots/cafeteria-night-sky-observer.jpeg)
-- [Public display — star-like night sky](../assets/S01E05/screenshots/public-display-star-like-night-sky.jpeg)
-- [Monthly celestial movement record](../assets/S01E05/screenshots/monthly-celestial-movement-record.jpeg)
+- [Наблюдател на нощното небе в кафетерията](../assets/S01E05/screenshots/cafeteria-night-sky-observer.jpeg)
+- [Публичен екран — звездоподобно нощно небе](../assets/S01E05/screenshots/public-display-star-like-night-sky.jpeg)
+- [Месечен запис на небесното движение](../assets/S01E05/screenshots/monthly-celestial-movement-record.jpeg)
 
 ## Визуални източници — S01E06
 
-Full-quality screenshots са подготвени за manual upload в `assets/S01E06/screenshots/`:
+Екранни снимки с пълно качество са подготвени за ръчно качване в `assets/S01E06/screenshots/`:
 
-- [PEZ relic — law-enforcement object search](../assets/S01E06/screenshots/pez-relic-law-enforcement-object-search.jpeg)
-- [Forgiveness Holiday / level marker](../assets/S01E06/screenshots/forgiveness-holiday-level-marker.jpeg)
-- [Judicial relic database — Sims access](../assets/S01E06/screenshots/judicial-relic-database-sims-access.jpeg)
-- [Relic database — PRE-SILO Object 1175](../assets/S01E06/screenshots/judicial-relic-database-pre-silo-object-1175.jpeg)
+- [PEZ реликва — полицейско търсене на предмет](../assets/S01E06/screenshots/pez-relic-law-enforcement-object-search.jpeg)
+- [Forgiveness Holiday / маркер за ниво](../assets/S01E06/screenshots/forgiveness-holiday-level-marker.jpeg)
+- [База данни за реликви на Judicial — достъп на Sims](../assets/S01E06/screenshots/judicial-relic-database-sims-access.jpeg)
+- [База данни за реликви — PRE-SILO Object 1175](../assets/S01E06/screenshots/judicial-relic-database-pre-silo-object-1175.jpeg)
 - [Level 17 marker](../assets/S01E06/screenshots/level-17-marker.jpeg)
-- [Georgia туристическия пътеводител relic](../assets/S01E06/screenshots/pre-silo-georgia-travel-guide-relic.jpeg)
+- [Реликва — туристически пътеводител за Georgia](../assets/S01E06/screenshots/pre-silo-georgia-travel-guide-relic.jpeg)
 - [Georgia / Chattahoochee forest](../assets/S01E06/screenshots/pre-silo-georgia-chattahoochee-forest.jpeg)
-- [Georgia wildlife guide](../assets/S01E06/screenshots/pre-silo-georgia-wildlife-guide.jpeg)
-- [Georgia coast / Tybee Island](../assets/S01E06/screenshots/pre-silo-georgia-coast-tybee-island.jpeg)
-- [Juliette home surveillance feed](../assets/S01E06/screenshots/juliette-home-surveillance-feed.jpeg)
-- [Centralized surveillance control center — wide](../assets/S01E06/screenshots/centralized-surveillance-control-center-wide.jpeg)
+- [Пътеводител за дивата природа на Georgia](../assets/S01E06/screenshots/pre-silo-georgia-wildlife-guide.jpeg)
+- [Крайбрежието на Georgia / Tybee Island](../assets/S01E06/screenshots/pre-silo-georgia-coast-tybee-island.jpeg)
+- [Видеопоток от наблюдението на дома на Juliette](../assets/S01E06/screenshots/juliette-home-surveillance-feed.jpeg)
+- [Централизиран център за наблюдение — широк кадър](../assets/S01E06/screenshots/centralized-surveillance-control-center-wide.jpeg)
 
 ## Визуални източници — S01E07
 
-Validated manual-upload assets:
+Валидирани ресурси, качени ръчно:
 
 - [Level 14 marker](../assets/S01E07/screenshots/level-14-marker.jpeg)
 - [Level 26 marker](../assets/S01E07/screenshots/level-26-marker.jpeg)
-- [S01E07 visual evidence manifest](../assets/S01E07/MANIFEST.md)
+- [Манифест на визуалните доказателства за S01E07](../assets/S01E07/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
