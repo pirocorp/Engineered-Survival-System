@@ -1,36 +1,36 @@
-# S03E09 — Bernard, „Гласът“ и cleaning decision
+# S03E09 — Bernard, „Гласът“ и решението за почистване
 
-**Knowledge boundary:** `S03E09`
+**Граница на знанието:** `S03E09`
 
 ## Установено
 
-Bernard и Camille отиват при „Гласът“. Bernard заявява, че знае за задържането на Juliette, настоява тя да бъде освободена и иска Vitamin D+ dosing-ът да бъде прекратен.
+Bernard и Camille отиват при „Гласът“. Bernard заявява, че знае за задържането на Juliette, настоява тя да бъде освободена и иска дозирането с Vitamin D+ да бъде прекратено.
 
-Той предлага да поеме публично вината за кризата, за да успокои Silo. „Гласът“ предпочита Bernard да бъде формално обвинен и изпратен да clean-ва, докато Vitamin D+ продължи.
+Той предлага да поеме публично вината за кризата, за да успокои Силоза. „Гласът“ предпочита Bernard да бъде формално обвинен и изпратен да почисти, докато Vitamin D+ продължи.
 
-Bernard оспорва epistemic authority-то на „Гласът“ с `Не знаеш повече от мен, нали така?`. „Гласът“ прекратява разговора с `Сбогом, Бърнард.`
+Bernard оспорва епистемичния авторитет на „Гласът“ с `Не знаеш повече от мен, нали така?`. „Гласът“ прекратява разговора с `Сбогом, Бърнард.`
 
-Camille описва това прекратяване като раздразнение, безсилие и гняв. Това е character interpretation, не техническо доказателство за вътрешно емоционално състояние.
+Camille описва това прекратяване като раздразнение, безсилие и гняв. Това е интерпретация на персонаж, а не техническо доказателство за вътрешно емоционално състояние.
 
-## Bernard's theory
+## Теорията на Bernard
 
-Bernard казва, че по-рано е смятал „Гласът“ за машина, но вече вярва, че зад него може да стоят хора. Той предлага Silo 1 като място, от което duty operator(s) могат да отговарят на Heads of IT.
+Bernard казва, че по-рано е смятал „Гласът“ за машина, но вече вярва, че зад него може да стоят хора. Той предлага Silo 1 като място, от което дежурни оператори могат да отговарят на ръководителите на IT.
 
-Това е нова competing hypothesis:
+Това е нова конкурираща се хипотеза:
 
-- H1: autonomous/machine Voice;
-- H2: human-operated interface/facade, вероятно от Silo 1.
+- H1: автономен/машинен „Глас“;
+- H2: интерфейс/фасада, управляван от човек, вероятно от Silo 1.
 
-S03E09 не показва operator room или backend и не разрешава окончателно H1/H2.
+S03E09 не показва операторно помещение или техническата подсистема и не разрешава окончателно H1/H2.
 
-## Cleaning
+## Почистване
 
-Camille обявява, че Bernard ще бъде изпратен да clean-ва на следващия ден по обяд. Juliette също е поставена в cleaning outcome, а Bernard и Juliette трябва да излязат **без protective suits**.
+Camille обявява, че Bernard ще бъде изпратен да почисти на следващия ден по обяд. Juliette също е поставена в същия резултат, а Bernard и Juliette трябва да излязат **без защитни костюми**.
 
-No-suit decision е съзнателно отклонение от standard cleaning protocol.
+Решението без костюми е съзнателно отклонение от стандартния протокол за почистване.
 
-## Visual anchors
+## Визуални ориентири
 
-- [Bernard / Voice challenge](../../assets/S03E09/screenshots/bernard-voice-you-dont-know-more-goodbye.jpeg)
-- [Camille interprets Voice reaction](../../assets/S03E09/screenshots/camille-voice-ended-conversation-anger.jpeg)
-- [Level 144 crowd](../../assets/S03E09/screenshots/level-144-crowd-stairwell.jpeg)
+- [Bernard / оспорване на „Гласът“](../../assets/S03E09/screenshots/bernard-voice-you-dont-know-more-goodbye.jpeg)
+- [Camille интерпретира реакцията на „Гласът“](../../assets/S03E09/screenshots/camille-voice-ended-conversation-anger.jpeg)
+- [Тълпа на ниво 144](../../assets/S03E09/screenshots/level-144-crowd-stairwell.jpeg)
