@@ -11,7 +11,7 @@ Quinn е описан като:
 - ръководител на IT по време на Rebellion;
 - автор на писмо, което е поне частично encoded.
 
-Meadows разкрива и personal historical discontinuity:
+Meadows разкрива и лична историческа прекъснатост:
 - тя е била shadow на Bernard;
 - преди около 25 години е изчезнала за четири дни;
 - след това е изоставила shadow path.
