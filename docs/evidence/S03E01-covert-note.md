@@ -1,14 +1,14 @@
-# S03E01 — тайна бележка / Level 2 marketplace protocol
+# S03E01 — Тайна бележка / протокол за пазара на ниво 2
 
 **Граница на знанието:** `S03E01`
 
-## Delivery
+## Доставка
 
-Juliette получава handwritten note, скрит in food. Sender-ът не е identified.
+Juliette получава ръкописна бележка, скрита в храната. Подателят не е идентифициран.
 
-## Reconstructed text
+## Възстановен текст
 
-Cross-frame reconstruction:
+Възстановяване между няколко кадъра:
 
 ```text
 Want to know the truth.
@@ -17,23 +17,23 @@ Go to the marketplace on Level 2.
 BURN THIS.
 ```
 
-Minor punctuation/line-break differences са възможни.
+Възможни са малки разлики в пунктуацията/пренасянето на редове.
 
-## Behavior confirmation
+## Потвърждение чрез поведение
 
-- Juliette връща tray-а с bowl upside down.
-- Това confirms instruction-following/covert acknowledgment.
-- Juliette burns the note, matching `BURN THIS`.
+- Juliette връща подноса с обърната надолу купа.
+- Това потвърждава изпълнение на инструкцията / тайно потвърждение.
+- Juliette изгаря бележката, в съответствие с `BURN THIS`.
 
-## Correction history
+## История на корекцията
 
-Early partial frame was provisionally read като possible `shaft 2`. Clear later frame + subtitle пряк-confirm `marketplace on Level 2`. `shaft 2` interpretation е rejected/superseded, не silently overwritten.
+Ранен частичен кадър беше предварително прочетен като възможно `shaft 2`. По-ясният по-късен кадър + субтитрите директно потвърждават `marketplace on Level 2`. Интерпретацията `shaft 2` е отхвърлена/заменена, а не мълчаливо презаписана.
 
-## Implication
+## Следствие
 
-физически food/tray channel provides plausible bypass на ordinary electronic/camera-mediated communication controls. точен sender, kitchen достъп path и purpose на Level 2 meeting остават неизяснен.
+Физическият канал храна/поднос предоставя правдоподобен начин за заобикаляне на обичайните електронни/камерно посредничени комуникационни контроли. Точният подател, пътят за достъп през кухнята и целта на срещата на ниво 2 остават неизяснени.
 
-## Visuals
+## Визуални доказателства
 
-- [Opening note text](../../assets/S03E01/screenshots/note-want-to-know-the-truth.jpeg)
-- [Level 2 / BURN THIS](../../assets/S03E01/screenshots/note-level-2-marketplace-burn-this.jpeg)
+- [Начален текст на бележката](../../assets/S03E01/screenshots/note-want-to-know-the-truth.jpeg)
+- [Ниво 2 / BURN THIS](../../assets/S03E01/screenshots/note-level-2-marketplace-burn-this.jpeg)
