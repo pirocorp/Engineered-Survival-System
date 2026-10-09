@@ -16,11 +16,11 @@
 
 Зад ограничението има нестандартен отвор, а не нормална обществена врата:
 
-![Hidden opening](../../assets/S01E02/screenshots/forbidden-area-hidden-opening.jpg)
+![Скрит отвор](../../assets/S01E02/screenshots/forbidden-area-hidden-opening.jpg)
 
 Juliette определя структурата като очевидно **отпреди Бунта**:
 
-![Pre-Rebellion testimony](../../assets/S01E02/screenshots/juliette-pre-rebellion-tunnel-testimony.jpg)
+![Свидетелство отпреди Rebellion](../../assets/S01E02/screenshots/juliette-pre-rebellion-tunnel-testimony.jpg)
 
 Произходът отпреди Бунта е `свидетелство на персонаж`, а не независимо датиране.
 
@@ -60,7 +60,7 @@ George е търсил врата, видяна на рисунка, която 
 
 > **George вероятно е локализирал вратата / входа към нея в или около наводненото дъно под изкопната машина.**
 
-Това е `Strong inference`, не `Confirmed`.
+Това е `силен извод`, не `потвърдено`.
 
 ## Връзка с чертежа от HDD 18
 
@@ -70,7 +70,7 @@ S01E02 показва физически:
 
 `Pact-restricted access`
 
-→ `hidden opening`
+→ `скрит отвор`
 
 → `pre-Rebellion tunnel`
 
