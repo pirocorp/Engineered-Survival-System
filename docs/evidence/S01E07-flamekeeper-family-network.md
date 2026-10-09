@@ -1,54 +1,54 @@
-# S01E07 — Juliette, George и intergenerational Flamekeeper network
+# S01E07 — Juliette, George и междупоколенческата мрежа на Flamekeepers
 
-**Knowledge boundary:** `S01E07`
+**Граница на знанието:** `S01E07`
 
-## Family links
+## Семейни връзки
 
-Episode testimony установява:
+Свидетелството в епизода установява:
 
 - майката на George е била Flamekeeper;
 - майката на Juliette е била Flamekeeper;
 - двете майки са се познавали;
-- имали са общ business/work relationship.
+- имали са обща делова/професионална връзка.
 
-Това създава директна intergenerational bridge между George и Juliette, независима от по-късната им собствена връзка.
+Това създава пряк междупоколенчески мост между George и Juliette, независим от по-късната им собствена връзка.
 
-## Georgia book provenance
+## Произход на книгата за Georgia
 
-Pre-Silo Georgia travel guide от S01E06 получава по-конкретна provenance chain:
+Пътеводителят за Georgia от периода преди силозите от S01E06 получава по-конкретна верига на произход:
 
 ```text
 Gloria
    ↓
-George's mother / Flamekeeper line
+майката на George / линия на Flamekeepers
    ↓
-preserved relic history
+запазена история чрез реликви
    ↓
 Juliette
 ```
 
-Следователно книгата има по-силно historical-preservation значение.
+Следователно книгата има по-силно значение за съхраняването на историята.
 
-Това все още **не** установява, че Silo физически се намира в Georgia.
+Това все още **не** установява, че Силозът физически се намира в Georgia.
 
-## H28 update
+## Актуализация на H28
 
-> **Разследването на George и пътят на Juliette към hidden history са свързани с intergenerational Flamekeeper network, а не само с индивидуалното използване от George на relationships/capabilities.**
+> **Разследването на George и пътят на Juliette към скритата история са свързани с междупоколенческа мрежа на Flamekeepers, а не само с индивидуалното използване от George на връзки/способности.**
 
-**Confidence:** H  
-**Status:** Strongly Strengthened / Refactored
+**Увереност:** H  
+**Статус:** Силно подсилена / Преформулирана
 
-## H32 — NEW
+## H32 — НОВА
 
-> **Flamekeeper knowledge/history е оцеляло чрез family/social networks и intergenerational transfer на relics.**
+> **Знанието/историята на Flamekeepers е оцеляло чрез семейни/социални мрежи и междупоколенческо предаване на реликви.**
 
-**Confidence:** H  
-**Status:** Active
+**Увереност:** H  
+**Статус:** Активна
 
-## Отворен въпросs
+## Отворени въпроси
 
-- Какъв точно е бил business/work-ът на двете майки?
-- Бил ли е свързан с Flamekeeper preservation activity?
+- Каква точно е била деловата/професионалната връзка между двете майки?
+- Била ли е свързана с дейността на Flamekeepers по съхраняване на знание?
 - Каква е била точната роля на Gloria?
-- Колко от знанието George е наследил съзнателно и колко е открил independently?
-- Било ли е семейството на Juliette конкретно targeted заради Flamekeeper lineage?
+- Колко от знанието George е наследил съзнателно и колко е открил независимо?
+- Било ли е семейството на Juliette конкретно набелязано заради линията на Flamekeepers?
