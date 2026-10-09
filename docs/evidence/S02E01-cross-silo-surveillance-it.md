@@ -1,10 +1,10 @@
-# S02E01 — Cross-Silo surveillance и IT standardization
+# S02E01 — Междусилозно наблюдение и стандартизация на IT
 
 **Knowledge boundary:** `S02E01`
 
 ## Concealed surveillance
 
-Вторият Silo съдържа concealed camera зад/в mirror structure.
+Вторият Силоз съдържа скрита камера зад/в конструкцията на огледалото.
 
 Original Silo на Juliette вече установи:
 - concealed mirror cameras;
@@ -23,33 +23,33 @@ Original Silo на Juliette вече установи:
 Това подкрепя common design/doctrine.
 
 Това все още не доказва:
-- че всеки Silo има identical surveillance coverage;
+- че всеки Силоз има еднакво покритие за наблюдение;
 - live inter-Silo communication;
-- че една current central authority наблюдава всички Silos.
+- че един текущ централен орган наблюдава всички силози.
 
-## IT as strategic layer
+## IT като стратегически слой
 
 Вторият Silo също съдържа ясно идентифицирана IT area, която:
 - е defended по време на armed conflict;
 - becomes a physical chokepoint;
 - има severed bridge / isolation geometry;
 - запазва local lighting в present day;
-- съдържа hardened secure/vault-like compartment.
+- съдържа укрепено защитено помещение, подобно на трезор.
 
 Това силно подкрепя IT да е structurally important отвъд original Silo на Juliette.
 
 ## H38
 
-> IT е standardized strategic/secured institutional layer поне в част от Silos.
+> IT е стандартизиран стратегически и защитен институционален слой поне в част от силозите.
 
 **Confidence:** H  
 **Status:** Active
 
-Това не установява, че вторият Silo е имал Bernard-equivalent hierarchy или identical secret knowledge.
+Това не установява, че вторият Силоз е имал йерархия, еквивалентна на тази на Bernard, или идентично тайно знание.
 
-## Visual evidence
+## Визуални доказателства
 
-- [Concealed mirror camera](../../assets/S02E01/screenshots/other-silo-concealed-mirror-camera.jpeg)
+- [Скрита камера зад огледалото](../../assets/S02E01/screenshots/other-silo-concealed-mirror-camera.jpeg)
 - [Historical IT battle bridge](../../assets/S02E01/screenshots/other-silo-it-battle-bridge.jpeg)
 - [Present-day IT severed bridge](../../assets/S02E01/screenshots/other-silo-it-severed-bridge.jpeg)
-- [Secured IT survivor compartment](../../assets/S02E01/screenshots/other-silo-it-vault-survivor.jpeg)
+- [Защитено IT помещение с оцелял](../../assets/S02E01/screenshots/other-silo-it-vault-survivor.jpeg)
