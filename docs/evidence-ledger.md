@@ -1258,26 +1258,26 @@ Primary:
 - [Silo 1 central topology](../assets/S03E08/screenshots/silo1-central-topology.jpeg)
 - [Silo 18 / seven-Silo group](../assets/S03E08/screenshots/silo18-seven-silo-group.jpeg)
 - [Bernard — „спра тази тирания“](../assets/S03E08/screenshots/bernard-stop-this-tyranny.jpeg)
-- [Pre-Silo основната проектна група](../assets/S03E08/screenshots/pre-silo-core-project-group.jpeg)
-- [Digger — side / human scale](../assets/S03E08/screenshots/pre-silo-digger-side-human-scale.jpeg)
-- [Digger — front](../assets/S03E08/screenshots/pre-silo-digger-front.jpeg)
-- [Digger — overhead](../assets/S03E08/screenshots/pre-silo-digger-overhead.jpeg)
-- [Exterior suited оцелял](../assets/S03E08/screenshots/exterior-suited-survivor.jpeg)
-- [Pre-Silo construction site aerial](../assets/S03E08/screenshots/pre-silo-construction-site-aerial.jpeg)
+- [Основната проектна група преди силозите](../assets/S03E08/screenshots/pre-silo-core-project-group.jpeg)
+- [Копач — страничен изглед / човешки мащаб](../assets/S03E08/screenshots/pre-silo-digger-side-human-scale.jpeg)
+- [Копач — отпред](../assets/S03E08/screenshots/pre-silo-digger-front.jpeg)
+- [Копач — изглед отгоре](../assets/S03E08/screenshots/pre-silo-digger-overhead.jpeg)
+- [Оцелял с костюм във външната среда](../assets/S03E08/screenshots/exterior-suited-survivor.jpeg)
+- [Строителна площадка преди силозите — въздушен изглед](../assets/S03E08/screenshots/pre-silo-construction-site-aerial.jpeg)
 
-`contact-sheet.jpg` е auxiliary/navigation asset, не primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс, а не основно доказателство.
 
 ## Визуални източници — S03E07
 
 Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани байт по байт чрез сравнение на Git blob SHA:
 
-- [System console / null-feed loop](../assets/S03E07/screenshots/system-console-reboot-null-feed.jpeg)
-- [Exterior night](../assets/S03E07/screenshots/exterior-night.jpeg)
-- [Exterior night / stars](../assets/S03E07/screenshots/exterior-night-stars.jpeg)
-- [Pre-Silo Georgia construction site](../assets/S03E07/screenshots/pre-silo-georgia-construction-site.jpeg)
-- [S03E07 visual evidence manifest](../assets/S03E07/MANIFEST.md)
+- [Системна конзола / цикъл с празен видеопоток](../assets/S03E07/screenshots/system-console-reboot-null-feed.jpeg)
+- [Външна среда през нощта](../assets/S03E07/screenshots/exterior-night.jpeg)
+- [Външна среда през нощта / звезди](../assets/S03E07/screenshots/exterior-night-stars.jpeg)
+- [Строителна площадка в Georgia преди силозите](../assets/S03E07/screenshots/pre-silo-georgia-construction-site.jpeg)
+- [Манифест на визуалните доказателства за S03E07](../assets/S03E07/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset, не primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс, а не основно доказателство.
 
 ## Визуални източници — S03E06
 
@@ -1286,57 +1286,57 @@ Primary:
 - [Level 94](../assets/S03E06/screenshots/level-94-primary.jpeg)
 - [Juliette / съмнение за наблюдение без камери](../assets/S03E06/screenshots/no-camera-room-object.jpeg)
 - [Индустриална работна зона / емблема](../assets/S03E06/screenshots/industrial-work-area-emblem.jpeg)
-- [S03E06 visual evidence manifest](../assets/S03E06/MANIFEST.md)
+- [Манифест на визуалните доказателства за S03E06](../assets/S03E06/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset, не primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс, а не основно доказателство.
 
 ## Визуални източници — S03E05
 
-Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани чрез Git blob SHA comparison:
+Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани чрез сравнение на Git blob SHA:
 
 - [Level 95](../assets/S03E05/screenshots/level-95.jpeg)
-- [Riser installation строително табло](../assets/S03E05/screenshots/riser-installation-construction-board.jpeg)
-- [S03E05 visual evidence manifest](../assets/S03E05/MANIFEST.md)
+- [Строително табло за монтаж на вертикален щранг](../assets/S03E05/screenshots/riser-installation-construction-board.jpeg)
+- [Манифест на визуалните доказателства за S03E05](../assets/S03E05/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset, не primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс, а не основно доказателство.
 
 ## Визуални източници — S03E04
 
-Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани чрез Git blob SHA comparison:
+Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани чрез сравнение на Git blob SHA:
 
-- [Concealed abyss route / rope descent](../assets/S03E04/screenshots/abyss-hidden-route-rope-descent.jpeg)
-- [Bernard alive in deep zone](../assets/S03E04/screenshots/bernard-alive-дълбоката зона.jpeg)
-- [S03E04 visual evidence manifest](../assets/S03E04/MANIFEST.md)
+- [Скрит маршрут към бездната / спускане с въже](../assets/S03E04/screenshots/abyss-hidden-route-rope-descent.jpeg)
+- [Bernard жив в дълбоката зона](../assets/S03E04/screenshots/bernard-alive-дълбоката зона.jpeg)
+- [Манифест на визуалните доказателства за S03E04](../assets/S03E04/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset, не primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс, а не основно доказателство.
 
 ## Визуални източници — S03E03
 
-Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани чрез Git blob SHA comparison:
+Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани чрез сравнение на Git blob SHA:
 
 - [Vitamin D+ / water](../assets/S03E03/screenshots/vitamin-d-plus-water.jpeg)
-- [Vitamin D+ / survival chance](../assets/S03E03/screenshots/vitamin-d-plus-survival-chance.jpeg)
-- [Silo close to safeguard](../assets/S03E03/screenshots/silo-close-to-safeguard.jpeg)
-- [Cross-Silo contact → safeguard](../assets/S03E03/screenshots/safeguard-cross-silo-contact-trigger.jpeg)
+- [Vitamin D+ / шанс за оцеляване](../assets/S03E03/screenshots/vitamin-d-plus-survival-chance.jpeg)
+- [Silo близо до активиране на safeguard](../assets/S03E03/screenshots/silo-close-to-safeguard.jpeg)
+- [Междусилозен контакт → safeguard](../assets/S03E03/screenshots/safeguard-cross-silo-contact-trigger.jpeg)
 - [Level 124](../assets/S03E03/screenshots/level-124.jpeg)
-- [Level 70 / mine access](../assets/S03E03/screenshots/level-70-mine-access.jpeg)
-- [Mine interior](../assets/S03E03/screenshots/mine-interior.jpeg)
-- [Camille selected for ability to lie](../assets/S03E03/screenshots/camille-selected-for-lying.jpeg)
-- [Head of IT role built on deception](../assets/S03E03/screenshots/head-of-it-role-built-on-deception.jpeg)
-- [S03E03 visual evidence manifest](../assets/S03E03/MANIFEST.md)
+- [Level 70 / достъп до мините](../assets/S03E03/screenshots/level-70-mine-access.jpeg)
+- [Вътрешност на мините](../assets/S03E03/screenshots/mine-interior.jpeg)
+- [Camille избрана заради способността си да лъже](../assets/S03E03/screenshots/camille-selected-for-lying.jpeg)
+- [Ролята Head of IT е изградена върху измама](../assets/S03E03/screenshots/head-of-it-role-built-on-deception.jpeg)
+- [Манифест на визуалните доказателства за S03E03](../assets/S03E03/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset, не primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс, а не основно доказателство.
 
 ## Визуални източници — S03E02
 
-Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани чрез Git blob SHA comparison:
+Двоичните ресурси са качени отделно в `main` преди аналитичния PR и са валидирани чрез сравнение на Git blob SHA:
 
-- [System — covert note/deception притеснение](../assets/S03E02/screenshots/computer-note-deception-concern.jpeg)
-- [Pre-Silo selective memory restore/omit](../assets/S03E02/screenshots/presilo-selective-memory-restore-omit.jpeg)
-- [Pre-Silo repeated autobiographical narrative](../assets/S03E02/screenshots/presilo-repeat-personal-history.jpeg)
-- [Pre-Silo false narrative can be suggested](../assets/S03E02/screenshots/presilo-can-suggest-a-lie.jpeg)
-- [False replacement narrative takes time](../assets/S03E02/screenshots/presilo-false-memory-takes-time.jpeg)
-- [Real спомени remain / return](../assets/S03E02/screenshots/presilo-real-спомени-return.jpeg)
+- [Система — притеснение за тайна бележка/измама](../assets/S03E02/screenshots/computer-note-deception-concern.jpeg)
+- [Преди силозите — селективно възстановяване/пропускане на спомени](../assets/S03E02/screenshots/presilo-selective-memory-restore-omit.jpeg)
+- [Преди силозите — повтарян автобиографичен разказ](../assets/S03E02/screenshots/presilo-repeat-personal-history.jpeg)
+- [Преди силозите — може да бъде внушен невярен разказ](../assets/S03E02/screenshots/presilo-can-suggest-a-lie.jpeg)
+- [Изграждането на невярна заместваща история отнема време](../assets/S03E02/screenshots/presilo-false-memory-takes-time.jpeg)
+- [Реалните спомени остават / връщат се](../assets/S03E02/screenshots/presilo-real-спомени-return.jpeg)
 - [Note #2 — Silo Council / кафетерията](../assets/S03E02/screenshots/note-2-silo-council-cafeteria.jpeg)
 - [Note #3 — partial frame A](../assets/S03E02/screenshots/note-3-partial-a.jpeg)
 - [Note #3 — partial frame B](../assets/S03E02/screenshots/note-3-partial-b.jpeg)
@@ -1348,7 +1348,7 @@ Primary:
 - [System — vitamins / водоснабдяването](../assets/S03E02/screenshots/ai-vitamins-water-supply.jpeg)
 - [S03E02 visual evidence manifest](../assets/S03E02/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset, не primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс, а не основно доказателство.
 
 ## Визуални източници — S03E01
 
@@ -1367,7 +1367,7 @@ Primary:
 - [Note — Level 2 marketplace / `BURN THIS`](../assets/S03E01/screenshots/note-level-2-marketplace-burn-this.jpeg)
 - [S03E01 visual evidence manifest](../assets/S03E01/MANIFEST.md)
 
-`contact-sheet.jpg` е auxiliary/navigation asset, не primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс, а не основно доказателство.
 ## Визуални източници — S02E10
 
 Валидирани ръчно качени assets; Git blob SHA стойностите са проверени срещу локално подготвения визуален package:
