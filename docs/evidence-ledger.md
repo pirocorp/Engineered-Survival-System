@@ -1337,87 +1337,87 @@ Primary:
 - [Преди силозите — може да бъде внушен невярен разказ](../assets/S03E02/screenshots/presilo-can-suggest-a-lie.jpeg)
 - [Изграждането на невярна заместваща история отнема време](../assets/S03E02/screenshots/presilo-false-memory-takes-time.jpeg)
 - [Реалните спомени остават / връщат се](../assets/S03E02/screenshots/presilo-real-спомени-return.jpeg)
-- [Note #2 — Silo Council / кафетерията](../assets/S03E02/screenshots/note-2-silo-council-cafeteria.jpeg)
-- [Note #3 — partial frame A](../assets/S03E02/screenshots/note-3-partial-a.jpeg)
-- [Note #3 — partial frame B](../assets/S03E02/screenshots/note-3-partial-b.jpeg)
-- [System — Juliette risk red line](../assets/S03E02/screenshots/ai-risk-red-line.jpeg)
-- [System — stabilizing blue line](../assets/S03E02/screenshots/ai-stabilizing-blue-line.jpeg)
-- [System — threshold crossing / no longer useful](../assets/S03E02/screenshots/ai-lines-cross-no-longer-useful.jpeg)
-- [System — removal / catastrophic destabilization](../assets/S03E02/screenshots/ai-removal-catastrophic-destabilization.jpeg)
-- [System — vitamins before removal](../assets/S03E02/screenshots/ai-vitamins-before-removal.jpeg)
-- [System — vitamins / водоснабдяването](../assets/S03E02/screenshots/ai-vitamins-water-supply.jpeg)
-- [S03E02 visual evidence manifest](../assets/S03E02/MANIFEST.md)
+- [Бележка #2 — Silo Council / кафетерията](../assets/S03E02/screenshots/note-2-silo-council-cafeteria.jpeg)
+- [Бележка #3 — частичен кадър A](../assets/S03E02/screenshots/note-3-partial-a.jpeg)
+- [Бележка #3 — частичен кадър B](../assets/S03E02/screenshots/note-3-partial-b.jpeg)
+- [Система — червената линия на риска за Juliette](../assets/S03E02/screenshots/ai-risk-red-line.jpeg)
+- [Система — стабилизираща синя линия](../assets/S03E02/screenshots/ai-stabilizing-blue-line.jpeg)
+- [Система — пресичане на прага / вече не е полезна](../assets/S03E02/screenshots/ai-lines-cross-no-longer-useful.jpeg)
+- [Система — отстраняване / катастрофална дестабилизация](../assets/S03E02/screenshots/ai-removal-catastrophic-destabilization.jpeg)
+- [Система — vitamins преди отстраняване](../assets/S03E02/screenshots/ai-vitamins-before-removal.jpeg)
+- [Система — vitamins / водоснабдяването](../assets/S03E02/screenshots/ai-vitamins-water-supply.jpeg)
+- [Манифест на визуалните доказателства за S03E02](../assets/S03E02/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс, а не основно доказателство.
 
 ## Визуални източници — S03E01
 
-Двоичните ресурси са качени отделно в `main` преди аналитичния PR. Git blob SHA стойностите са валидирани срещу локално подготвения perspective-коригиран package:
+Двоичните ресурси са качени отделно в `main` преди аналитичния PR. Git blob SHA стойностите са валидирани срещу локално подготвения пакет с коригирана перспектива:
 
-- [Level 1 / Juliette opening](../assets/S03E01/screenshots/level-1-juliette-opening.jpeg)
-- [Daniel Keen name reveal](../assets/S03E01/screenshots/daniel-keen-name-reveal.jpeg)
-- [Juliette surveillance feed](../assets/S03E01/screenshots/juliette-surveillance-feed.jpeg)
-- [Sims surveillance control room](../assets/S03E01/screenshots/sims-surveillance-control-room.jpeg)
-- [Three-minute шлюз duration](../assets/S03E01/screenshots/juliette-three-minute-airlock.jpeg)
-- [Level 67 / Bernard furnace transport](../assets/S03E01/screenshots/level-67-bernard-furnace-transport.jpeg)
+- [Level 1 / начална сцена с Juliette](../assets/S03E01/screenshots/level-1-juliette-opening.jpeg)
+- [Разкриване на името Daniel Keen](../assets/S03E01/screenshots/daniel-keen-name-reveal.jpeg)
+- [Видеопоток за наблюдение на Juliette](../assets/S03E01/screenshots/juliette-surveillance-feed.jpeg)
+- [Контролно помещение за наблюдение на Sims](../assets/S03E01/screenshots/sims-surveillance-control-room.jpeg)
+- [Триминутен престой в шлюза](../assets/S03E01/screenshots/juliette-three-minute-airlock.jpeg)
+- [Level 67 / транспортиране на Bernard към пещта](../assets/S03E01/screenshots/level-67-bernard-furnace-transport.jpeg)
 - [Level 87](../assets/S03E01/screenshots/level-87.jpeg)
 - [`DISPLAY IS LIE` mural](../assets/S03E01/screenshots/display-is-lie-mural.jpeg)
-- [Computer/system — `This concerns me`](../assets/S03E01/screenshots/computer-this-concerns-me.jpeg)
-- [Note — `Want to know the truth`](../assets/S03E01/screenshots/note-want-to-know-the-truth.jpeg)
-- [Note — Level 2 marketplace / `BURN THIS`](../assets/S03E01/screenshots/note-level-2-marketplace-burn-this.jpeg)
-- [S03E01 visual evidence manifest](../assets/S03E01/MANIFEST.md)
+- [Компютър/система — `This concerns me`](../assets/S03E01/screenshots/computer-this-concerns-me.jpeg)
+- [Бележка — `Want to know the truth`](../assets/S03E01/screenshots/note-want-to-know-the-truth.jpeg)
+- [Бележка — пазарът на Level 2 / `BURN THIS`](../assets/S03E01/screenshots/note-level-2-marketplace-burn-this.jpeg)
+- [Манифест на визуалните доказателства за S03E01](../assets/S03E01/MANIFEST.md)
 
 `contact-sheet.jpg` е спомагателен навигационен ресурс, а не основно доказателство.
 ## Визуални източници — S02E10
 
-Валидирани ръчно качени assets; Git blob SHA стойностите са проверени срещу локално подготвения визуален package:
+Валидирани ръчно качени ресурси; Git blob SHA стойностите са проверени срещу локално подготвения визуален пакет:
 
-- [Level 123 confrontation](../assets/S02E10/screenshots/level-123-confrontation.jpeg)
-- [Juliette warning — not safe / do not come out](../assets/S02E10/screenshots/juliette-warning-not-safe.jpeg)
-- [Bernard at шлюз in protective suit](../assets/S02E10/screenshots/bernard-airlock-protective-suit.jpeg)
-- [Juliette / Bernard шлюз corridor](../assets/S02E10/screenshots/juliette-bernard-airlock-corridor.jpeg)
-- [Pre-Silo radiation screening](../assets/S02E10/screenshots/presilo-radiation-screening.jpeg)
-- [Pre-Silo Washington bar](../assets/S02E10/screenshots/presilo-washington-bar.jpeg)
-- [Georgia 15th district congressman](../assets/S02E10/screenshots/georgia-15th-district-congressman.jpeg)
-- [Iran retaliatory-strike question](../assets/S02E10/screenshots/iran-retaliatory-strike-question.jpeg)
-- [Radiological-attack doubt](../assets/S02E10/screenshots/radiological-attack-doubt.jpeg)
-- [PEZ duck gift](../assets/S02E10/screenshots/pez-duck-gift.jpeg)
-- [Juliette returns to Silo 18](../assets/S02E10/screenshots/juliette-returns-to-silo18.jpeg)
-- [S02E10 visual evidence manifest](../assets/S02E10/MANIFEST.md)
+- [Конфронтация на Level 123](../assets/S02E10/screenshots/level-123-confrontation.jpeg)
+- [Предупреждението на Juliette — not safe / do not come out](../assets/S02E10/screenshots/juliette-warning-not-safe.jpeg)
+- [Bernard при шлюза със защитен костюм](../assets/S02E10/screenshots/bernard-airlock-protective-suit.jpeg)
+- [Juliette / Bernard в коридора на шлюза](../assets/S02E10/screenshots/juliette-bernard-airlock-corridor.jpeg)
+- [Радиационна проверка преди силозите](../assets/S02E10/screenshots/presilo-radiation-screening.jpeg)
+- [Бар във Washington преди силозите](../assets/S02E10/screenshots/presilo-washington-bar.jpeg)
+- [Конгресмен от 15-и район на Georgia](../assets/S02E10/screenshots/georgia-15th-district-congressman.jpeg)
+- [Въпрос за ответен удар срещу Iran](../assets/S02E10/screenshots/iran-retaliatory-strike-question.jpeg)
+- [Съмнение за радиологичната атака](../assets/S02E10/screenshots/radiological-attack-doubt.jpeg)
+- [Подарък PEZ-пате](../assets/S02E10/screenshots/pez-duck-gift.jpeg)
+- [Juliette се връща в Silo 18](../assets/S02E10/screenshots/juliette-returns-to-silo18.jpeg)
+- [Манифест на визуалните доказателства за S02E10](../assets/S02E10/MANIFEST.md)
 
-`contact-sheet.jpg` е спомагателен навигационен asset и не е primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
-E388–E399 и E403–E417 включват значимо доказателство от диалог/поредица, за което не всяко отделно твърдение има собствен screenshot. Визуалният пакет се използва като избрано потвърждаващо доказателство, а не като замяна на записа на диалога.
+E388–E399 и E403–E417 включват значимо доказателство от диалог/поредица, за което не всяко отделно твърдение има собствена екранна снимка. Визуалният пакет се използва като избрано потвърждаващо доказателство, а не като замяна на записа на диалога.
 
 ## Визуални източници — S02E09
 
 - [Silo 17 група оцелели](../assets/S02E09/screenshots/silo17-young-survivor-group.jpeg)
 - [Quinn — fifty Silos / safeguard](../assets/S02E09/screenshots/quinn-fifty-silos-safeguard.jpeg)
 - [Quinn — bottom / tunnel / confirmation](../assets/S02E09/screenshots/quinn-bottom-tunnel-confirmation.jpeg)
-- [Coercive camera/wife message](../assets/S02E09/screenshots/coercive-camera-wife-message.jpeg)
-- [Silo 17 vault архив на знание](../assets/S02E09/screenshots/silo17-vault-knowledge-archive.jpeg)
-- [Silo 18 bottom tunnel](../assets/S02E09/screenshots/silo18-bottom-tunnel.jpeg)
-- [Lukas — hidden contact / Quinn reference](../assets/S02E09/screenshots/lukas-hidden-contact-quinn-reference.jpeg)
-- [Prior visitors — Quinn / Meadows / George](../assets/S02E09/screenshots/prior-visitors-quinn-meadows-george.jpeg)
+- [Принудително съобщение чрез камерата/съпругата](../assets/S02E09/screenshots/coercive-camera-wife-message.jpeg)
+- [Архив на знанието в трезора на Silo 17](../assets/S02E09/screenshots/silo17-vault-knowledge-archive.jpeg)
+- [Долен тунел на Silo 18](../assets/S02E09/screenshots/silo18-bottom-tunnel.jpeg)
+- [Lukas — скрит контакт / препратка към Quinn](../assets/S02E09/screenshots/lukas-hidden-contact-quinn-reference.jpeg)
+- [Предходни посетители — Quinn / Meadows / George](../assets/S02E09/screenshots/prior-visitors-quinn-meadows-george.jpeg)
 
 ## Визуални източници — S01E01
 
-- [Публичният екран с barren exterior](../assets/S01E01/screenshots/exterior-barren-display.webp)
+- [Публичният екран с пустата външна среда](../assets/S01E01/screenshots/exterior-barren-display.webp)
 - [HDD — Year 96](../assets/S01E01/screenshots/hdd-files-year96-overview.png)
 - [HDD — Year 97](../assets/S01E01/screenshots/hdd-files-year97-overview.png)
-- [Jane Carmody file highlighted](../assets/S01E01/screenshots/hdd-files-year97-jane-carmody-highlight.png)
-- [Jane Carmody cleaning](../assets/S01E01/screenshots/jane-carmody-cleaning.png)
-- [Silo blueprint](../assets/S01E01/screenshots/silo-blueprint-cross-section.jpeg)
-- [Blueprint reconstruction](../assets/S01E01/screenshots/silo-blueprint-reconstruction-collage.png)
-- [Bottom cross-section](../assets/S01E01/screenshots/silo-bottom-cross-section.webp)
-- [Classified tunnel](../assets/S01E01/screenshots/silo-tunnel-classified.webp)
-- [Tunnel detail](../assets/S01E01/screenshots/silo-tunnel-detail.webp)
+- [Маркиран файл на Jane Carmody](../assets/S01E01/screenshots/hdd-files-year97-jane-carmody-highlight.png)
+- [Почистването на Jane Carmody](../assets/S01E01/screenshots/jane-carmody-cleaning.png)
+- [План на Silo](../assets/S01E01/screenshots/silo-blueprint-cross-section.jpeg)
+- [Реконструкция на плана](../assets/S01E01/screenshots/silo-blueprint-reconstruction-collage.png)
+- [Напречен разрез на дъното](../assets/S01E01/screenshots/silo-bottom-cross-section.webp)
+- [Класифициран тунел](../assets/S01E01/screenshots/silo-tunnel-classified.webp)
+- [Детайл от тунела](../assets/S01E01/screenshots/silo-tunnel-detail.webp)
 - [Stairs](../assets/S01E01/screenshots/silo-stairs-cross-section.webp)
-- [Upper levels 1–20](../assets/S01E01/screenshots/upper-levels-1-20.jpeg)
+- [Горни нива 1–20](../assets/S01E01/screenshots/upper-levels-1-20.jpeg)
 
 ## Визуални източници — S01E02
 
-- [Holston човекът при почистване lush view](../assets/S01E02/screenshots/holston-cleaner-lush-view.jpg)
+- [Пищната гледка на Holston при почистването](../assets/S01E02/screenshots/holston-cleaner-lush-view.jpg)
 - [Holston public barren feed](../assets/S01E02/screenshots/holston-public-barren-feed.jpg)
 - [Allison body on публичен видеопоток](../assets/S01E02/screenshots/holston-public-feed-allison-body.jpg)
 - [Holston distress / helmet removal](../assets/S01E02/screenshots/holston-distress-removing-helmet.jpg)
@@ -1495,11 +1495,11 @@ Validated manual-upload assets:
 - [Level 26 marker](../assets/S01E07/screenshots/level-26-marker.jpeg)
 - [S01E07 visual evidence manifest](../assets/S01E07/MANIFEST.md)
 
-`contact-sheet.jpg` е спомагателен навигационен asset и не е primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
 ## Визуални източници — S01E08
 
-Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
+Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Rabbit / heart-research context](../assets/S01E08/screenshots/juliette-mother-rabbit-heart-research.jpeg)
 - [Homemade microscope / magnification device](../assets/S01E08/screenshots/juliette-mother-illicit-microscope-device.jpeg)
@@ -1509,24 +1509,24 @@ Validated manual-upload assets:
 - [Level 30 marker](../assets/S01E08/screenshots/level-30-marker.jpeg)
 - [S01E08 visual evidence manifest](../assets/S01E08/MANIFEST.md)
 
-`contact-sheet.jpg` е спомагателен навигационен asset и не е primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
 ## Визуални източници — S01E09
 
-Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
+Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Juliette fall / Level 23 bridge](../assets/S01E09/screenshots/juliette-fall-level-23-bridge.jpeg)
 - [Level 23 marker](../assets/S01E09/screenshots/level-23-marker.jpeg)
 - [Bernard / numbered device 18](../assets/S01E09/screenshots/bernard-number-18-device.jpeg)
 - [S01E09 visual evidence manifest](../assets/S01E09/MANIFEST.md)
 
-`contact-sheet.jpg` е спомагателен навигационен asset и не е primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
 Кадърът от края на епизода с почистване файла на Jane Carmody е записан като пряко наблюдение от епизода (E165), но не е част от текущия screenshot batch.
 
 ## Визуални източници — S01E10
 
-Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
+Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Bernard physical key `18`](../assets/S01E10/screenshots/bernard-key-18.jpeg)
 - [Barren exterior + distant skyline](../assets/S01E10/screenshots/exterior-barren-city-skyline.jpeg)
@@ -1539,11 +1539,11 @@ Validated manual-upload assets:
 - [Janitorial ROTA board](../assets/S01E10/screenshots/janitorial-closet-rota.png)
 - [S01E10 visual evidence manifest](../assets/S01E10/MANIFEST.md)
 
-`contact-sheet.jpg` е спомагателен навигационен asset и не е primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
 ## Визуални източници — S02E01
 
-Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
+Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Agricultural levels — wide](../assets/S02E01/screenshots/silo-agricultural-levels-wide.jpeg)
 - [Anti-Founder graffiti](../assets/S02E01/screenshots/rebellion-anti-founders-graffiti.jpeg)
@@ -1560,11 +1560,11 @@ Validated manual-upload assets:
 - [Second-Silo IT vault оцелял](../assets/S02E01/screenshots/other-silo-it-vault-survivor.jpeg)
 - [S02E01 visual evidence manifest](../assets/S02E01/MANIFEST.md)
 
-`contact-sheet.jpg` е спомагателен навигационен asset и не е primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
 ## Визуални източници — S02E02
 
-Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
+Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Bernard / live Juliette-associated exterior feed](../assets/S02E02/screenshots/bernard-live-helmet-feed-second-silo.jpeg)
 - [Bernard reaction/context frame](../assets/S02E02/screenshots/bernard-reaction-to-second-silo-feed.jpeg)
@@ -1574,21 +1574,21 @@ Validated manual-upload assets:
 - [Circled rebellion-context graffiti symbol](../assets/S02E02/screenshots/rebellion-circled-symbol-graffiti.jpeg)
 - [S02E02 visual evidence manifest](../assets/S02E02/MANIFEST.md)
 
-`contact-sheet.jpg` е спомагателен навигационен asset и не е primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
 ## Визуални източници — S02E03
 
-Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
+Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Bernard key 18 / Server Room access](../assets/S02E03/screenshots/bernard-key18-server-room-access.jpeg)
 - [Server Room / IT vault](../assets/S02E03/screenshots/server-room-it-vault.jpeg)
 - [CODE SILO ORANGE / A.R. medical record](../assets/S02E03/screenshots/silo-orange-birth-control-protocol.jpeg)
 - [S02E03 visual evidence manifest](../assets/S02E03/MANIFEST.md)
 
-`contact-sheet.jpg` е спомагателен навигационен asset и не е primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 ## Визуални източници — S02E04
 
-Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
+Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Level 119 marker](../assets/S02E04/screenshots/level-119-marker.jpeg)
 - [Bernard / Monteverde 2018 имерсивен шлем](../assets/S02E04/screenshots/bernard-vr-monteverde-2018.jpeg)
@@ -1596,22 +1596,22 @@ Validated manual-upload assets:
 - [Population movement in Silo stairwell](../assets/S02E04/screenshots/silo-stairwell-population-movement.jpeg)
 - [S02E04 visual evidence manifest](../assets/S02E04/MANIFEST.md)
 
-`contact-sheet.jpg` е спомагателен навигационен asset и не е primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
 ## Визуални източници — S02E05
 
-Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
+Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Level 26 marker — repeated](../assets/S02E05/screenshots/level-26-marker-repeat.jpeg)
 - [Multilevel green/common area](../assets/S02E05/screenshots/multilevel-green-common-area.jpeg)
 - [Silo schematic with IT/Judicial lines](../assets/S02E05/screenshots/monitor-silo-map-it-judicial-lines.jpeg)
 - [S02E05 visual evidence manifest](../assets/S02E05/MANIFEST.md)
 
-`contact-sheet.jpg` е спомагателен навигационен asset и не е primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
 ## Визуални източници — S02E06
 
-Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
+Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Sheriff пряко-messaging UI](../assets/S02E06/screenshots/sheriff-direct-messaging-ui.jpeg)
 - [Sheriff пряко-messaging conversation](../assets/S02E06/screenshots/sheriff-direct-messaging-conversation.jpeg)
@@ -1620,11 +1620,11 @@ Validated manual-upload assets:
 - [Level 120 marker](../assets/S02E06/screenshots/level-120-marker.jpeg)
 - [S02E06 visual evidence manifest](../assets/S02E06/MANIFEST.md)
 
-`contact-sheet.jpg` е спомагателен навигационен asset и не е primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
 ## Визуални източници — S02E07
 
-Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
+Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Vault residential compartments](../assets/S02E07/screenshots/vault-residential-compartments.jpeg)
 - [Legacy library](../assets/S02E07/screenshots/legacy-library.jpeg)
@@ -1632,13 +1632,13 @@ Validated manual-upload assets:
 - [Silo 18 blackout — IT remains powered](../assets/S02E07/screenshots/silo18-blackout-it-remains-powered.jpeg)
 - [S02E07 visual evidence manifest](../assets/S02E07/MANIFEST.md)
 
-`contact-sheet.jpg` е спомагателен навигационен asset и не е primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
 E323–E324 са диалог/chronology доказателство; текущият screenshot batch не съдържа кадър с изричното `352 years` изказване.
 
 ## Визуални източници — S02E08
 
-Валидирани ръчно качени assets; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
+Валидирани ръчно качени ресурси; Git blob SHA стойностите съвпадат точно с локално подготвените оригинали:
 
 - [Judge Sims / R. Ahundsen message](../assets/S02E08/screenshots/judge-sims-r-ahundsen-apple-tree-message.jpeg)
 - [Indoor orchard / apple-tree context](../assets/S02E08/screenshots/indoor-orchard-apple-tree-context.jpeg)
@@ -1646,9 +1646,9 @@ E323–E324 са диалог/chronology доказателство; текущ�
 - [Quinn decoded message — game is rigged](../assets/S02E08/screenshots/quinn-decoded-message-game-is-rigged.jpeg)
 - [S02E08 visual evidence manifest](../assets/S02E08/MANIFEST.md)
 
-`contact-sheet.jpg` е спомагателен навигационен asset и не е primary доказателство.
+`contact-sheet.jpg` е спомагателен навигационен ресурс и не е основно доказателство.
 
-E330–E341 и E348–E350 са предимно диалог/privileged-history доказателство. E356 директно потвърждава допълнителни оцелели от Silo 17, но в текущия визуален package няма отделен screenshot на това финално разкритие.
+E330–E341 и E348–E350 са предимно диалог/privileged-history доказателство. E356 директно потвърждава допълнителни оцелели от Silo 17, но в текущия визуален пакет няма отделен screenshot на това финално разкритие.
 
 ## Фокусирани доказателство бележки
 
