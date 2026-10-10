@@ -836,6 +836,7 @@ analysis/S03E06-silo1-power-voice-memory
 analysis/S03E07-exterior-enforcement-georgia
 analysis/S03E08-nano-topology-safeguard
 analysis/S03E09-voice-pact-opening
+analysis/S03E10-silo1-directive-second-vault
 hypothesis/<name>
 model/<name>
 methodology/<change>
