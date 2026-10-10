@@ -1729,9 +1729,9 @@ CODE SILO ORANGE изрично формализира измамата
 Виж също:
 
 - `docs/episodes/S03E10.md`
-- `docs/evidence/S03E10-silo1-stasis-continuity.md`
+- `docs/evidence/S03E10-silo1-stasis-memory.md`
 - `docs/evidence/S03E10-safeguard-drone-directive.md`
-- `docs/evidence/S03E10-voice-victor-control-room.md`
-- `docs/evidence/S03E10-second-vault-helen-drew.md`
+- `docs/evidence/S03E10-voice-control-room-victor-camille.md`
+- `docs/evidence/S03E10-second-vault-daniel-juliette.md`
 - `docs/evidence-ledger.md`
 - `docs/open-questions.md`
