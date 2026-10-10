@@ -292,6 +292,8 @@
 ## Карта на хранилището
 
 - [`CURRENT_STATE.md`](CURRENT_STATE.md) — текущ модел след последния изгледан епизод.
+- [`WHAT_WE_KNOW.md`](WHAT_WE_KNOW.md) — консервативен синтез само на текущо установеното знание.
+- [`LEADING_THEORIES.md`](LEADING_THEORIES.md) — водещите системни теории, увереността им и какво би ги опровергало.
 - [`docs/episodes/S01E01.md`](docs/episodes/S01E01.md) — запис по епизода за S01E01.
 - [`docs/episodes/S01E02.md`](docs/episodes/S01E02.md) — запис по епизода за S01E02.
 - [`docs/episodes/S01E03.md`](docs/episodes/S01E03.md) — запис по епизода за S01E03.
